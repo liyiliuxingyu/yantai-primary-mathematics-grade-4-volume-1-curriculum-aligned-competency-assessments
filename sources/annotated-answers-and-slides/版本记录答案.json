@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-06",
+  "previous_pdf_sha256": "a171f4fbe834ad9963d709d86b7b4c0bb88f84cc9025b57acac35a07000ffa90",
+  "current_pdf_sha256": "a2a3a222c34402a4e057b4c43e8544498909a9b943f1ade253cee6856187374b",
+  "format": "三栏楷体红笔解析",
+  "new_revision": "竖式原题补得数、AC核定3厘米",
+  "new_vertical_results": 30,
+  "geometry": {
+    "book_page": 10,
+    "question": "选择第2题",
+    "AC_cm": 3,
+    "answer": "A"
+  },
+  "pages": 128,
+  "first_page_blank": true,
+  "current_checks": [
+    "vertical_update/qa.json",
+    "vertical_update/qa_vertical_visual.json",
+    "vertical_update/ppt/qa_geometry.json"
+  ],
+  "previous_record": "vertical_update/previous_version_record.json"
+}

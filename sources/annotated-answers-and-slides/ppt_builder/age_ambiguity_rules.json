@@ -1,0 +1,10 @@
+{
+  "record_key": "p078_s04",
+  "classroom_answer": "B",
+  "mathematical_reason": "甲比平均年龄多6岁，乙比平均年龄少6岁。把甲多出的6岁补给乙，两人都等于平均年龄，总年龄不变，丙也必须等于平均年龄。因此选B。",
+  "scope": "按本题教学考查意图填写B；不据此声称已经知道丙的具体岁数。保留原题D选项原文。",
+  "edits": [
+    {"slide":126,"part_number":124,"name":"p078_s04_b002_4_p0","shape_id":16,"kind":"conclusion","lines":["因此选B。"],"points":32,"rect_px":[64,420.5,1152,58]},
+    {"slide":127,"part_number":125,"name":"p078_s04_b003_2_p1_answer","shape_id":9,"kind":"answer_letters","lines":["B"],"points":32,"rect_px":[238.3,274.5,51.3,58],"center":true}
+  ]
+}

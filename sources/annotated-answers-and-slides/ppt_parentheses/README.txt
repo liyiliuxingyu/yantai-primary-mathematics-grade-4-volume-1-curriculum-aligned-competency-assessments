@@ -1,0 +1,6 @@
+本次仅更正原书75页三、2（输入PDF第100页；第5册52—53张）的总路程括号，PPT只改第53张。
+五行脱式及原答语均保留，采用乘除性质简算。原430张动画timing字节及旧对象ID、名称、顺序均未改变；两行解释放在既有计算点击组内，无新增点击。
+普通文字是可编辑原生文字；公式是原生OMML，并带实际XeLaTeX编译SVG/PNG兼容分支。本目录3套公式的相对字体路径均已从工程根目录实际编译通过。
+post_export_overlay.json及当前交付PPT为本题权威内容。历史QA及未改页面的既有覆盖文件均保留为历史记录。
+重建命令：python ppt_parentheses/build/patch_parentheses.py 前版第5册.pptx 新工作目录；要求前版SHA与inventory_patch.json的parent_sha256精确一致。
+实际渲染审看52、53张；未在PowerPoint/WPS内实际放映，原动画结构保持不等于播放测试通过。

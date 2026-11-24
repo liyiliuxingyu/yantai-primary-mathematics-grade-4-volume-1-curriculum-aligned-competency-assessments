@@ -1,0 +1,5415 @@
+{
+  "role": "Authoritative final visible object content for the 44 patched slides. All unlisted slides remain byte-identical to the baseline.",
+  "slides": [
+    {
+      "volume": 3,
+      "slide": 121,
+      "book_page": 42,
+      "question_id": "一、7",
+      "record_key": "p042_s01",
+      "native_click_count": 1,
+      "timing_sha256": "dbc9e79a70299436e3544eb6e4da2a2d3f69597375ca3f3a65a9159365f0f126",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "121",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p042_s01_b000_0_p0",
+          "text": "商店购进6箱火龙果，每箱24千克，如果分装成每袋8千",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p042_s01_b000_1_p0",
+          "text": "克，一共可以分装",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p042_s01_b000_1_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p042_s01_b000_1_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p042_s01_b000_1_p2",
+          "text": "袋；把这些火龙果按每袋12元售",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p042_s01_b000_2_p0",
+          "text": "卖，全部售出一共收入",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p042_s01_b000_2_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p042_s01_b000_2_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p042_s01_b000_2_p2",
+          "text": "元。",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p042_s01_b001_3_p0",
+          "text": "先算每箱可装几袋，再求6箱的袋数和收入。",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "title",
+          "text": "原书第42页　一、7",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第46页　输入PDF第59页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 122,
+      "book_page": 42,
+      "question_id": "一、7",
+      "record_key": "p042_s01",
+      "native_click_count": 6,
+      "timing_sha256": "c490d0eca333c62532425fccedbad6a54f611c5fc2ed0cc43266ea267831803a",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "122",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p042_s01_b002_0",
+          "text": "24×6÷8",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p042_s01_b003_1_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p042_s01_b003_1_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p042_s01_b003_1_simplify_rhs0",
+          "text": "24÷8×6",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p042_s01_b003_1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p042_s01_b003_1_simplify_rhs1",
+          "text": "3×6",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p042_s01_b004_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p042_s01_b004_2",
+          "text": "18（袋）",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p042_s01_b005_3",
+          "text": "12×18",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p042_s01_b006_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p042_s01_b006_4",
+          "text": "216（元）",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p042_s01_b007_5_p0",
+          "text": "依次填",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p042_s01_b007_5_p1",
+          "text": "18,216",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p042_s01_b007_5_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "title",
+          "text": "原书第42页　一、7",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第46页　输入PDF第59页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 166,
+      "book_page": 43,
+      "question_id": "五、1",
+      "record_key": "p043_s03",
+      "native_click_count": 5,
+      "timing_sha256": "8d4f0dd55a5efa3b718cb3cfc30c315b181a4f1f840a7111bad548727b4f2c07",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "166",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p043_s03_b000_0_p0",
+          "text": "工程队修一条公路，原计划每天修120米，8天修完。实际",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p043_s03_b000_1_p0",
+          "text": "提前2天完成，实际平均每天修多少米？（5分）",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p043_s03_b001_2_p0",
+          "text": "方法一：路长不变，实际6天；先把120除以6。",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p043_s03_b002_3",
+          "text": "120×8÷(8-2)",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p043_s03_b003_4_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p043_s03_b003_4_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p043_s03_b003_4_simplify_rhs0",
+          "text": "120×8÷6",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p043_s03_b003_4_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p043_s03_b003_4_simplify_rhs1",
+          "text": "120÷6×8",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p043_s03_b003_4_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p043_s03_b003_4_simplify_rhs2",
+          "text": "20×8",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p043_s03_b004_5_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p043_s03_b004_5",
+          "text": "160（米）",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p043_s03_b005_6_p0",
+          "text": "方法二：把少做2天的任务平均加到实际6天中。",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "title",
+          "text": "原书第43页　五、1",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第47页　输入PDF第60页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 167,
+      "book_page": 43,
+      "question_id": "五、1",
+      "record_key": "p043_s03",
+      "native_click_count": 5,
+      "timing_sha256": "ad5505ceed21b52c37886d765ccfb44907649adb0e39a67802905fb5e4f472fa",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "167",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p043_s03_b006_0",
+          "text": "120+120×2÷(8-2)",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p043_s03_b007_1_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p043_s03_b007_1_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p043_s03_b007_1_simplify_rhs0",
+          "text": "120+120×2÷6",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p043_s03_b007_1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p043_s03_b007_1_simplify_rhs1",
+          "text": "120+120÷6×2",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p043_s03_b008_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p043_s03_b008_2",
+          "text": "120+20×2",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p043_s03_b009_3_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p043_s03_b009_3_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p043_s03_b009_3_simplify_rhs0",
+          "text": "120+40",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p043_s03_b009_3_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p043_s03_b009_3_simplify_rhs1",
+          "text": "160（米）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p043_s03_b010_4_p0",
+          "text": "答：实际平均每天修160米。",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "text": "原书第43页　五、1",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第47页　输入PDF第60页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 177,
+      "book_page": 44,
+      "question_id": "五、4（2）",
+      "record_key": "p044_s03",
+      "native_click_count": 5,
+      "timing_sha256": "ad5505ceed21b52c37886d765ccfb44907649adb0e39a67802905fb5e4f472fa",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "177",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p044_s03_b005_0",
+          "text": "6×24-6×(24÷6)",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p044_s03_b006_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p044_s03_b006_1",
+          "text": "6×24-6×4",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p044_s03_b007_2_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p044_s03_b007_2_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p044_s03_b007_2_simplify_rhs0",
+          "text": "6×(24-4)",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p044_s03_b007_2_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p044_s03_b007_2_simplify_rhs1",
+          "text": "6×20",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p044_s03_b008_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p044_s03_b008_3",
+          "text": "120（元）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p044_s03_b009_4_p0",
+          "text": "答：一共要付120元。",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "text": "原书第44页　五、4（2）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第48页　输入PDF第61页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 179,
+      "book_page": 44,
+      "question_id": "五、5",
+      "record_key": "p044_s04",
+      "native_click_count": 6,
+      "timing_sha256": "07ec0679708443be0197a6f8d0a45ca27beb9947dcedea61c315dafd8b87f7a9",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "179",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p044_s04_b002_0",
+          "text": "[275+(275×2-50)]÷25",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p044_s04_b003_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p044_s04_b003_1",
+          "text": "[275+(550-50)]÷25",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p044_s04_b004_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p044_s04_b004_2",
+          "text": "(275+500)÷25",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p044_s04_b005_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p044_s04_b005_3",
+          "text": "275÷25+500÷25",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p044_s04_b006_4_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p044_s04_b006_4_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p044_s04_b006_4_simplify_rhs0",
+          "text": "11+20",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p044_s04_b006_4_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p044_s04_b006_4_simplify_rhs1",
+          "text": "31（棵）",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p044_s04_b007_5_p0",
+          "text": "答：两个年级一共可以挽救31棵大树。",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "title",
+          "text": "原书第44页　五、5",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第48页　输入PDF第61页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 194,
+      "book_page": 45,
+      "question_id": "一、6",
+      "record_key": "p045_s07",
+      "native_click_count": 2,
+      "timing_sha256": "5103eb31772f9023f5d72d93bcf4c368f02a8718384a093f26879757a5d4ee54",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "194",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p045_s07_b000_0_p0",
+          "text": "印刷厂工人每小时能印刷300份报纸，每天工作8小时，一",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p045_s07_b000_1_p0",
+          "text": "周（5个工作日）能印刷",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p045_s07_b000_1_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p045_s07_b000_1_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p045_s07_b000_1_p2",
+          "text": "份报纸。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p045_s07_b001_2_p0",
+          "text": "工作效率×每天工作时间×工作天数：",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p045_s07_b001_3_p0_simplify_rhs0",
+          "text": "300×8×5",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p045_s07_b001_3_p0_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p045_s07_b001_3_p0_simplify_rhs1",
+          "text": "300×(8×5)",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p045_s07_b001_3_p0_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p045_s07_b001_3_p0_simplify_rhs2",
+          "text": "300×40",
+          "native_omml": true
+        },
+        {
+          "id": "22",
+          "name": "p045_s07_b001_3_p0_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p045_s07_b001_3_p0_simplify_rhs3",
+          "text": "12000（份）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p045_s07_b001_3_p1",
+          "text": "用乘法结合律，先算一周的工作时间。",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p045_s07_b001_4_p0",
+          "text": "只算5个工作日。",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p045_s07_b002_5_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p045_s07_b002_5_p1",
+          "text": "12000",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p045_s07_b002_5_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "title",
+          "text": "原书第45页　一、6",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第49页　输入PDF第63页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 212,
+      "book_page": 46,
+      "question_id": "二、2",
+      "record_key": "p046_s03",
+      "native_click_count": 2,
+      "timing_sha256": "27712ecdcd9188a3ddad93f499681ae5ce1f0af5a2526b3864c8cfc4756be54e",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "212",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p046_s03_b005_0_p0",
+          "text": "每扇4块玻璃，每层18扇，共25层。",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p046_s03_b005_0_p1_simplify_rhs0",
+          "text": "4×18×25",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p046_s03_b005_0_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p046_s03_b005_0_p1_simplify_rhs1",
+          "text": "(4×25)×18",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p046_s03_b005_0_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p046_s03_b005_0_p1_simplify_rhs2",
+          "text": "100×18",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p046_s03_b005_0_p1_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p046_s03_b005_0_p1_simplify_rhs3",
+          "text": "1800（块）",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p046_s03_b005_1_p0",
+          "text": "选项B：",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p046_s03_b005_1_p1",
+          "text": "25×18×4",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p046_s03_b005_1_p2",
+          "text": "交换因数位置，积不变，与原式表示的总块数相同。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p046_s03_b005_2_p0",
+          "text": "先按每份数×份数列式，再用交换律、结合律凑100。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p046_s03_b006_3_p0",
+          "text": "选B。",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "text": "原书第46页　二、2",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第50页　输入PDF第64页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 257,
+      "book_page": 48,
+      "question_id": "五、4（1）",
+      "record_key": "p048_s02",
+      "native_click_count": 4,
+      "timing_sha256": "1fd84d5f2a93618eee967b3dab24180567b9a802674faf87412accef6e9804a8",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "257",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p048_s02_b000_0_p0",
+          "text": "学校有三个热门社团，航模社团报名128人，编程社团报名",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p048_s02_b000_1_p0",
+          "text": "275人，书法社团报名172人。（1）三个社团一共有多",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p048_s02_b000_2_p0",
+          "text": "少人报名？（4分）",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p048_s02_b001_3_p0",
+          "text": "先找可以凑整的加数，再调整相加顺序。",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p048_s02_b002_4",
+          "text": "128+172=300",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p048_s02_b003_5_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p048_s02_b003_5",
+          "text": "先把这两个数相加，另一个加数275保留。",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p048_s02_b004_6_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p048_s02_b004_6",
+          "text": "接着用加法交换律和结合律简算（下一页）。",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "title",
+          "text": "原书第48页　五、4（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第52页　输入PDF第66页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 3,
+      "slide": 258,
+      "book_page": 48,
+      "question_id": "五、4（1）",
+      "record_key": "p048_s02",
+      "native_click_count": 6,
+      "timing_sha256": "afc1eb68c386073d7e5b25b9b6db315fff2f0c17b207a61bf281afc1b96e1990",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "258",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p048_s02_b005_0_p0",
+          "text": "用加法交换律和结合律，先凑300。",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p048_s02_b006_1",
+          "text": "128+275+172",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p048_s02_b007_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p048_s02_b007_2",
+          "text": "(128+172)+275",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p048_s02_b008_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p048_s02_b008_3",
+          "text": "300+275",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p048_s02_b009_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p048_s02_b009_4",
+          "text": "575（人）",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p048_s02_b010_5_p0",
+          "text": "答：三个社团一共有575人报名。",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "title",
+          "text": "原书第48页　五、4（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第52页　输入PDF第66页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 4,
+      "slide": 96,
+      "book_page": 58,
+      "question_id": "二、6",
+      "record_key": "p058_s07",
+      "native_click_count": 1,
+      "timing_sha256": "c71fe08eaf7f37bc68ae0ba43818f788a3073e702c88fe12a9fd24bb23599a9d",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "96",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p058_s07_b000_0_p0",
+          "text": "四年级百米跑步比赛，小明用时",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p058_s07_b000_0_p1",
+          "text": "17.8",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p058_s07_b000_0_p2",
+          "text": "秒，比小雨慢",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p058_s07_b000_0_p3",
+          "text": "0.9",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p058_s07_b000_0_p4",
+          "text": "秒，小",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p058_s07_b000_1_p0",
+          "text": "雨百米用时",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p058_s07_b000_1_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p058_s07_b000_1_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p058_s07_b000_1_p2",
+          "text": "秒。A.",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p058_s07_b000_1_p3",
+          "text": "18.7",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p058_s07_b000_1_p4",
+          "text": "；B.",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p058_s07_b000_1_p5",
+          "text": "16.9",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p058_s07_b000_1_p6",
+          "text": "；C.",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p058_s07_b000_1_p7",
+          "text": "17.1",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p058_s07_b000_1_p8",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p058_s07_b001_2_p0",
+          "text": "小明较慢，用时多0.9秒；小雨的用时用减法。",
+          "native_omml": false
+        },
+        {
+          "id": "23",
+          "name": "p058_s07_b001_3_p0_simplify_rhs0",
+          "text": "17.8-0.9",
+          "native_omml": true
+        },
+        {
+          "id": "24",
+          "name": "p058_s07_b001_3_p0_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "25",
+          "name": "p058_s07_b001_3_p0_simplify_rhs1",
+          "text": "17.8-1+0.1",
+          "native_omml": true
+        },
+        {
+          "id": "26",
+          "name": "p058_s07_b001_3_p0_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p058_s07_b001_3_p0_simplify_rhs2",
+          "text": "16.8+0.1",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p058_s07_b001_3_p0_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p058_s07_b001_3_p0_simplify_rhs3",
+          "text": "16.9（秒）",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p058_s07_b001_3_p1",
+          "text": "把0.9凑成1，多减的0.1再加回。选B。",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "title",
+          "text": "原书第58页　二、6",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第62页　输入PDF第79页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 4,
+      "slide": 142,
+      "book_page": 61,
+      "question_id": "一、3",
+      "record_key": "p061_s03",
+      "native_click_count": 1,
+      "timing_sha256": "101ddc1d010577b70d5cd79be910a35bee596090d700281b11e3e0df3fb15565",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "142",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p061_s03_b000_0_p0",
+          "text": "比",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p061_s03_b000_0_p1",
+          "text": "7.8",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p061_s03_b000_0_p2",
+          "text": "少",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p061_s03_b000_0_p3",
+          "text": "2.81",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p061_s03_b000_0_p4",
+          "text": "的数是",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p061_s03_b000_0_p5_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p061_s03_b000_0_p5_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p061_s03_b000_0_p6",
+          "text": "，比",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p061_s03_b000_0_p7",
+          "text": "2.36",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p061_s03_b000_0_p8",
+          "text": "多",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p061_s03_b000_0_p9",
+          "text": "1.4",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p061_s03_b000_0_p10",
+          "text": "的数是",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p061_s03_b000_1_p0_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p061_s03_b000_1_p0_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "18",
+          "name": "p061_s03_b000_1_p1",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p061_s03_b001_2_p0",
+          "text": "第一空：把2.81拆成2.8和0.01，先减2.8凑成5。",
+          "native_omml": false
+        },
+        {
+          "id": "26",
+          "name": "p061_s03_b001_2_p1_simplify_rhs0",
+          "text": "7.8-2.81",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p061_s03_b001_2_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p061_s03_b001_2_p1_simplify_rhs1",
+          "text": "7.8-2.8-0.01",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p061_s03_b001_2_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p061_s03_b001_2_p1_simplify_rhs2",
+          "text": "5-0.01",
+          "native_omml": true
+        },
+        {
+          "id": "31",
+          "name": "p061_s03_b001_2_p1_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "32",
+          "name": "p061_s03_b001_2_p1_simplify_rhs3",
+          "text": "4.99",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p061_s03_b001_2_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "p061_s03_b001_3_p0",
+          "text": "第二空用加法：",
+          "native_omml": false
+        },
+        {
+          "id": "23",
+          "name": "p061_s03_b001_3_p1",
+          "text": "2.36+1.4=3.76",
+          "native_omml": true
+        },
+        {
+          "id": "24",
+          "name": "p061_s03_b001_3_p2",
+          "text": "两空的基准不同。",
+          "native_omml": false
+        },
+        {
+          "id": "25",
+          "name": "title",
+          "text": "原书第61页　一、3",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第65页　输入PDF第84页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 4,
+      "slide": 206,
+      "book_page": 63,
+      "question_id": "四、2",
+      "record_key": "p063_s07",
+      "native_click_count": 1,
+      "timing_sha256": "0e1164181b80a625465149e34b2db07a3e12d3c264429137f7c18fc0653cec67",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "206",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p063_s07_b000_0_p0",
+          "text": "把一根长2米的竹竿竖直插入水池中，竹竿入泥部分长16",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p063_s07_b000_1_p0",
+          "text": "厘米，露出水面部分长54厘米。水池的水深多少米？",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p063_s07_b001_2_p0",
+          "text": "竹竿总长分为“入泥+水深+露出”三部分。",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p063_s07_b001_3_p0",
+          "text": "1米=100厘米",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p063_s07_b001_3_p1",
+          "text": "，厘米化米除以100；故16厘米合0.16",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p063_s07_b001_4_p0",
+          "text": "米、54厘米合0.54米。统一成米，用连减性质：",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p063_s07_b001_5_p0",
+          "text": "先把入泥和露出部分合成0.7米，再用总长减。",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "text": "原书第63页　四、2",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第67页　输入PDF第86页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 4,
+      "slide": 207,
+      "book_page": 63,
+      "question_id": "四、2",
+      "record_key": "p063_s07",
+      "native_click_count": 5,
+      "timing_sha256": "a08883aa99d40dc4d8efeb872b652672a6d0a05077c94fc9fc719986da6a7c56",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "207",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p063_s07_b002_0",
+          "text": "2-0.16-0.54",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p063_s07_b003_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p063_s07_b003_1",
+          "text": "2-(0.16+0.54)",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p063_s07_b004_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p063_s07_b004_2",
+          "text": "2-0.7",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p063_s07_b005_3_p0_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p063_s07_b005_3_p0_simplify_rhs0",
+          "text": "1.3（米）",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p063_s07_b006_4_p0",
+          "text": "答：水池水深1.3米。也可统一成厘米计算，数量关系相同（下一页）。",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "text": "原书第63页　四、2",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第67页　输入PDF第86页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 1,
+      "book_page": 73,
+      "question_id": "一、1",
+      "record_key": "p073_s01",
+      "native_click_count": 1,
+      "timing_sha256": "bcf2f78226fe6a7ad797b066bf0d06ce53d8f6df46205d8089d37955324399cb",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "1",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p073_s01_b000_0_p0",
+          "text": "学校体育社团开展1分钟单人跳绳达标练习，三位同学一分",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p073_s01_b000_1_p0",
+          "text": "钟跳绳成绩分别为：小红112个、小丽105个、小芳119",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p073_s01_b000_2_p0",
+          "text": "个。这三名同学平均每人一分钟跳绳",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p073_s01_b000_2_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p073_s01_b000_2_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p073_s01_b000_2_p2",
+          "text": "个。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p073_s01_b001_3_p0",
+          "text": "以112为基准，105少7，119多7，正好抵消。",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p073_s01_b001_3_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p073_s01_b001_3_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "26",
+          "name": "p073_s01_b001_4_p0_simplify_rhs0",
+          "text": "112+(7-7)÷3",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p073_s01_b001_4_p0_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p073_s01_b001_4_p0_simplify_rhs1",
+          "text": "112+0÷3",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p073_s01_b001_4_p0_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p073_s01_b001_4_p0_simplify_rhs2",
+          "text": "112（个）",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p073_s01_b001_4_p1",
+          "text": "移多补少后，三人都为112个，总个数没有改变。",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p073_s01_b001_5_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p073_s01_b001_5_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p073_s01_b001_5_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "18",
+          "name": "p073_s01_b001_5_p3",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p073_s01_b001_5_p4",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "20",
+          "name": "p073_s01_b001_5_p5",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "21",
+          "name": "p073_s01_b001_5_p6",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "p073_s01_b001_5_p7",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "23",
+          "name": "p073_s01_b001_5_p8",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "24",
+          "name": "p073_s01_b001_6_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "25",
+          "name": "title",
+          "text": "原书第73页　一、1",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第77页　输入PDF第98页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 7,
+      "book_page": 73,
+      "question_id": "一、3",
+      "record_key": "p073_s03",
+      "native_click_count": 2,
+      "timing_sha256": "6025c946fa145daf4c123d7d020f3ed8fc870e7567c35ddb2fd52fce34372dc2",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "7",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p073_s03_b000_0_p0",
+          "text": "气象台在某天的2时、8时、14时、20时测得的温度分",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p073_s03_b000_1_p0",
+          "text": "别是",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p073_s03_b000_1_p1",
+          "text": "8°C",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p073_s03_b000_1_p2",
+          "text": "、",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p073_s03_b000_1_p3",
+          "text": "15°C",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p073_s03_b000_1_p4",
+          "text": "、",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p073_s03_b000_1_p5",
+          "text": "24°C",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p073_s03_b000_1_p6",
+          "text": "、",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p073_s03_b000_1_p7",
+          "text": "17°C",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p073_s03_b000_1_p8",
+          "text": "，由此估计这天的平均温度是",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p073_s03_b000_2_p0_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p073_s03_b000_2_p0_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p073_s03_b000_2_p1",
+          "text": "°C",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p073_s03_b000_2_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "25",
+          "name": "p073_s03_b001_3_p0_simplify_rhs0",
+          "text": "(8+15+24+17)÷4",
+          "native_omml": true
+        },
+        {
+          "id": "26",
+          "name": "p073_s03_b001_3_p0_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p073_s03_b001_3_p0_simplify_rhs1",
+          "text": "[(8+24)+(15+17)]÷4",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p073_s03_b001_3_p0_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p073_s03_b001_3_p0_simplify_rhs2",
+          "text": "(32+32)÷4",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p073_s03_b001_3_p0_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "31",
+          "name": "p073_s03_b001_3_p0_simplify_rhs3",
+          "text": "64÷4",
+          "native_omml": true
+        },
+        {
+          "id": "32",
+          "name": "p073_s03_b001_3_p0_simplify_equals4",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "33",
+          "name": "p073_s03_b001_3_p0_simplify_rhs4",
+          "text": "16（摄氏度）",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p073_s03_b001_3_p1",
+          "text": "8与24、15与17分别配成32。再除以观测次数4。",
+          "native_omml": false
+        },
+        {
+          "id": "20",
+          "name": "p073_s03_b001_4_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "21",
+          "name": "p073_s03_b002_5_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "p073_s03_b002_5_p1",
+          "text": "16",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p073_s03_b002_5_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "24",
+          "name": "title",
+          "text": "原书第73页　一、3",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第77页　输入PDF第98页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 9,
+      "book_page": 73,
+      "question_id": "一、4",
+      "record_key": "p073_s04",
+      "native_click_count": 2,
+      "timing_sha256": "ce821c9c3db27523e0b7df550e2e19bc2dc2e028ef740fe0d31bb6c830681ce8",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "9",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p073_s04_b000_0_p0",
+          "text": "三个数的平均数是30，其中两个数分别是24和16，第三",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p073_s04_b000_1_p0",
+          "text": "个数是",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p073_s04_b000_1_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p073_s04_b000_1_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p073_s04_b000_1_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p073_s04_b001_2_p0",
+          "text": "用平均数×个数求总和；24与16先凑40。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p073_s04_b001_2_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p073_s04_b001_2_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p073_s04_b001_2_p3",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p073_s04_b001_2_p4",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p073_s04_b001_2_p5",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p073_s04_b001_2_p6",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p073_s04_b001_3_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "25",
+          "name": "p073_s04_b001_3_p1_simplify_rhs0",
+          "text": "30×3-24-16",
+          "native_omml": true
+        },
+        {
+          "id": "26",
+          "name": "p073_s04_b001_3_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p073_s04_b001_3_p1_simplify_rhs1",
+          "text": "30×3-(24+16)",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p073_s04_b001_3_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p073_s04_b001_3_p1_simplify_rhs2",
+          "text": "90-40",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p073_s04_b001_3_p1_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "31",
+          "name": "p073_s04_b001_3_p1_simplify_rhs3",
+          "text": "50",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p073_s04_b001_3_p2",
+          "text": "检验：",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p073_s04_b001_4_p0",
+          "text": "(24+16+50)÷3=30",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p073_s04_b001_4_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "21",
+          "name": "p073_s04_b002_5_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "p073_s04_b002_5_p1",
+          "text": "50",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p073_s04_b002_5_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "24",
+          "name": "title",
+          "text": "原书第73页　一、4",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第77页　输入PDF第98页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 23,
+      "book_page": 73,
+      "question_id": "一、10",
+      "record_key": "p073_s10",
+      "native_click_count": 2,
+      "timing_sha256": "42c060b7e36c294d30efcbdb49febc729a570386b4bf7c2f43f20f01a53e7156",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "23",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p073_s10_b000_0_p0",
+          "text": "四个数的平均数是20，去掉一个数，剩下的三个数的平均",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p073_s10_b000_1_p0",
+          "text": "数是18，去掉的这个数是",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p073_s10_b000_1_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p073_s10_b000_1_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p073_s10_b000_1_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p073_s10_b001_2_p0",
+          "text": "留下3个数，平均各少2，共少6；去掉的数应多6。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p073_s10_b001_2_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p073_s10_b001_2_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "29",
+          "name": "p073_s10_b001_2_p3_simplify_rhs0",
+          "text": "20+(20-18)×3",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p073_s10_b001_2_p3_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "31",
+          "name": "p073_s10_b001_2_p3_simplify_rhs1",
+          "text": "20+2×3",
+          "native_omml": true
+        },
+        {
+          "id": "32",
+          "name": "p073_s10_b001_2_p3_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "33",
+          "name": "p073_s10_b001_2_p3_simplify_rhs2",
+          "text": "20+6",
+          "native_omml": true
+        },
+        {
+          "id": "34",
+          "name": "p073_s10_b001_2_p3_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "35",
+          "name": "p073_s10_b001_2_p3_simplify_rhs3",
+          "text": "26",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p073_s10_b001_2_p4",
+          "text": "另一思路：总和之差。",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p073_s10_b001_2_p5",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p073_s10_b001_2_p6",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p073_s10_b001_3_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "36",
+          "name": "p073_s10_b001_3_p1_simplify_rhs0",
+          "text": "20×4-18×3",
+          "native_omml": true
+        },
+        {
+          "id": "37",
+          "name": "p073_s10_b001_3_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "38",
+          "name": "p073_s10_b001_3_p1_simplify_rhs1",
+          "text": "80-54",
+          "native_omml": true
+        },
+        {
+          "id": "39",
+          "name": "p073_s10_b001_3_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "40",
+          "name": "p073_s10_b001_3_p1_simplify_rhs2",
+          "text": "26",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p073_s10_b001_3_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p073_s10_b001_4_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "20",
+          "name": "p073_s10_b001_4_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "21",
+          "name": "p073_s10_b001_4_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "p073_s10_b001_4_p3",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "23",
+          "name": "p073_s10_b001_4_p4",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "24",
+          "name": "p073_s10_b001_4_p5",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "25",
+          "name": "p073_s10_b002_5_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "26",
+          "name": "p073_s10_b002_5_p1",
+          "text": "26",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p073_s10_b002_5_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "28",
+          "name": "title",
+          "text": "原书第73页　一、10",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第77页　输入PDF第98页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 46,
+      "book_page": 75,
+      "question_id": "三、1（1）",
+      "record_key": "p075_s01",
+      "native_click_count": 7,
+      "timing_sha256": "4572463e9ce63d79424e50c77c225bb8e206aebd721015acae6d041a6370a0b2",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "46",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p075_s01_b003_0",
+          "text": "(70+120+170+240+190+130+60)÷7",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p075_s01_b004_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p075_s01_b004_1",
+          "text": "[(70+130)+(240+60)+(120+170+190)]÷7",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p075_s01_b005_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p075_s01_b005_2",
+          "text": "[200+300+(290+190)]÷7",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p075_s01_b006_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p075_s01_b006_3",
+          "text": "(200+300+480)÷7",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p075_s01_b007_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p075_s01_b007_4",
+          "text": "980÷7",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p075_s01_b008_5_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p075_s01_b008_5",
+          "text": "140（厘米）",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p075_s01_b009_6_p0",
+          "text": "答：这条河的平均水深是140厘米。",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "title",
+          "text": "原书第75页　三、1（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第79页　输入PDF第100页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 48,
+      "book_page": 75,
+      "question_id": "三、1（1）",
+      "record_key": "p075_s01",
+      "native_click_count": 7,
+      "timing_sha256": "f6480cb8ed3dbc57b563573621036edf0ca343072cf3a98884c55428504c3bf8",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "48",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p075_s01_b012_0",
+          "text": "100+[(70+30)+(20+140)+90-(30+40)]÷7",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p075_s01_b013_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p075_s01_b013_1",
+          "text": "100+(100+160+90-70)÷7",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p075_s01_b014_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p075_s01_b014_2",
+          "text": "100+(260+20)÷7",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p075_s01_b015_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p075_s01_b015_3",
+          "text": "100+280÷7",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p075_s01_b016_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p075_s01_b016_4",
+          "text": "100+40",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p075_s01_b017_5_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p075_s01_b017_5",
+          "text": "140（厘米）",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p075_s01_b018_6_operator",
+          "text": "检验：",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p075_s01_b018_6",
+          "text": "(140-100)×7=280",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "title",
+          "text": "原书第75页　三、1（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第79页　输入PDF第100页　解析续页4",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 57,
+      "book_page": 75,
+      "question_id": "三、3（1）",
+      "record_key": "p075_s04",
+      "native_click_count": 2,
+      "timing_sha256": "802e8d2b30451709447b42ff641e0fd9adc499f70079d6f55d126c2994d45453",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "57",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p075_s04_b011_0",
+          "text": "方法二：以85分为基准移多补少",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p075_s04_b012_1_p0",
+          "text": "87与83相对85的偏差抵消，88与82的偏差也抵消。",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p075_s04_b012_2_p0",
+          "text": "只剩97多12分、80少5分，净多7分。",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p075_s04_b012_3_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "title",
+          "text": "原书第75页　三、3（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第79页　输入PDF第100页　解析续页4",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 58,
+      "book_page": 75,
+      "question_id": "三、3（1）",
+      "record_key": "p075_s04",
+      "native_click_count": 7,
+      "timing_sha256": "4572463e9ce63d79424e50c77c225bb8e206aebd721015acae6d041a6370a0b2",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "58",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p075_s04_b013_0",
+          "text": "85+[(2+3+12)-(5+2+3)]÷7",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p075_s04_b014_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p075_s04_b014_1",
+          "text": "85+(12-5)÷7",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p075_s04_b015_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p075_s04_b015_2",
+          "text": "85+7÷7",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p075_s04_b016_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p075_s04_b016_3",
+          "text": "85+1",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p075_s04_b017_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p075_s04_b017_4",
+          "text": "86（分）",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p075_s04_b018_5_operator",
+          "text": "检验：",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p075_s04_b018_5",
+          "text": "86×7=602",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p075_s04_b019_6_p0",
+          "text": "答：平均分是86分。",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "title",
+          "text": "原书第75页　三、3（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第79页　输入PDF第100页　解析续页5",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 68,
+      "book_page": 76,
+      "question_id": "三、4（1）",
+      "record_key": "p076_s01",
+      "native_click_count": 5,
+      "timing_sha256": "97b1f6cf61d10f607958e59c0a42a19ed7bf212abd45714c9afbf5c72a5cef40",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "68",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p076_s01_b003_0_p0",
+          "text": "五个空依次为",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p076_s01_b003_0_p1",
+          "text": "70,95,90,97,84",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p076_s01_b003_0_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p076_s01_b003_1_p0",
+          "text": "每位学生由3位老师评分，必须沿同一列取数。",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p076_s01_b003_1_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p076_s01_b003_1_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p076_s01_b003_2_p0",
+          "text": "求平均可凑整；补未知评分可移多补少。",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p076_s01_b003_2_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p076_s01_b003_2_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p076_s01_b004_3_p0",
+          "text": "四（1）班4号：两次评分比67少2、1，另一次应多3。",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p076_s01_b005_4",
+          "text": "67+(67-65)+(67-66)",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p076_s01_b006_5_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "20",
+          "name": "p076_s01_b006_5_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p076_s01_b006_5_simplify_rhs0",
+          "text": "67+2+1",
+          "native_omml": true
+        },
+        {
+          "id": "22",
+          "name": "p076_s01_b006_5_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p076_s01_b006_5_simplify_rhs1",
+          "text": "67+3",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p076_s01_b007_6_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p076_s01_b007_6",
+          "text": "70（分）",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "title",
+          "text": "原书第76页　三、4（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第80页　输入PDF第102页　解析续页4",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 69,
+      "book_page": 76,
+      "question_id": "三、4（1）",
+      "record_key": "p076_s01",
+      "native_click_count": 6,
+      "timing_sha256": "afc1eb68c386073d7e5b25b9b6db315fff2f0c17b207a61bf281afc1b96e1990",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "69",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p076_s01_b008_0_p0",
+          "text": "上表3号的平均分：",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p076_s01_b009_1",
+          "text": "(95+96+94)÷3",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p076_s01_b010_2_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p076_s01_b010_2_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p076_s01_b010_2_simplify_rhs0",
+          "text": "[95+(96+94)]÷3",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p076_s01_b010_2_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p076_s01_b010_2_simplify_rhs1",
+          "text": "(95+190)÷3",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p076_s01_b011_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p076_s01_b011_3",
+          "text": "285÷3",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p076_s01_b012_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p076_s01_b012_4",
+          "text": "95（分）",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p076_s01_b013_5_p0",
+          "text": "下表李老师给5号的评分：",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "title",
+          "text": "原书第76页　三、4（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第80页　输入PDF第102页　解析续页5",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 70,
+      "book_page": 76,
+      "question_id": "三、4（1）",
+      "record_key": "p076_s01",
+      "native_click_count": 7,
+      "timing_sha256": "091716a8629ac4a63cba19aea8bcd0727447b02e1bb74ccbe7e5e4f4a7f43b78",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "70",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p076_s01_b014_0",
+          "text": "90×3-(88+92)",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p076_s01_b015_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p076_s01_b015_1",
+          "text": "270-180",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p076_s01_b016_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p076_s01_b016_2",
+          "text": "90（分）",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p076_s01_b017_3_p0",
+          "text": "四（2）班3号：一次正好95，另一次少2，应补多2。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p076_s01_b018_4",
+          "text": "95+(95-93)",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p076_s01_b019_5_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p076_s01_b019_5",
+          "text": "95+2",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p076_s01_b020_6_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p076_s01_b020_6",
+          "text": "97（分）",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "title",
+          "text": "原书第76页　三、4（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第80页　输入PDF第102页　解析续页6",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 71,
+      "book_page": 76,
+      "question_id": "三、4（1）",
+      "record_key": "p076_s01",
+      "native_click_count": 6,
+      "timing_sha256": "4cca268429cb9b72e4b2142c3f92b02d5986efb4d516508ab73296b575edb446",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "71",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p076_s01_b021_0_p0",
+          "text": "四（2）班4号：以83为基准，86多出的3分平均分给3份。",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p076_s01_b021_1_p0",
+          "text": "每份多1分，所以平均分为84分。",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p076_s01_b022_2_p0",
+          "text": "下表4号的平均分：",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p076_s01_b023_3",
+          "text": "83+(86-83)÷3",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p076_s01_b024_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p076_s01_b024_4",
+          "text": "83+3÷3",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p076_s01_b025_5_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p076_s01_b025_5",
+          "text": "83+1",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p076_s01_b026_6_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p076_s01_b026_6",
+          "text": "84（分）",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "title",
+          "text": "原书第76页　三、4（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第80页　输入PDF第102页　解析续页7",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 88,
+      "book_page": 77,
+      "question_id": "一、1",
+      "record_key": "p077_s01",
+      "native_click_count": 2,
+      "timing_sha256": "420fd9ebc91675484cd4d49682ffc3644351627425fb33c4d5cbba1932e17556",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "88",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p077_s01_b000_0_p0",
+          "text": "蛋糕店某款蛋糕前6天的销量分别是16块、15块、20",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p077_s01_b000_1_p0",
+          "text": "块、18块、14块、19块，如果第7天准备的数量与前6",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p077_s01_b000_2_p0",
+          "text": "天的平均销量相同，那么应该做",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p077_s01_b000_2_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p077_s01_b000_2_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p077_s01_b000_2_p2",
+          "text": "块。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p077_s01_b001_3_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p077_s01_b001_3_p1_simplify_rhs0",
+          "text": "(16+15+20+18+14+19)÷6",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p077_s01_b001_3_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p077_s01_b001_3_p1_simplify_rhs1",
+          "text": "[(16+18)+(15+19)+(20+14)]÷6",
+          "native_omml": true
+        },
+        {
+          "id": "22",
+          "name": "p077_s01_b001_3_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p077_s01_b001_3_p1_simplify_rhs2",
+          "text": "(34×3)÷(3×2)",
+          "native_omml": true
+        },
+        {
+          "id": "24",
+          "name": "p077_s01_b001_3_p1_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "25",
+          "name": "p077_s01_b001_3_p1_simplify_rhs3",
+          "text": "34×3÷3÷2",
+          "native_omml": true
+        },
+        {
+          "id": "26",
+          "name": "p077_s01_b001_3_p1_simplify_equals4",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p077_s01_b001_3_p1_simplify_rhs4",
+          "text": "34÷2",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p077_s01_b001_3_p1_simplify_equals5",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p077_s01_b001_3_p1_simplify_rhs5",
+          "text": "17（块）",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p077_s01_b001_3_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p077_s01_b001_4_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p077_s01_b001_4_p1",
+          "text": "三对各34块，每对都是2天。第7天不计入除数。",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p077_s01_b002_5_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p077_s01_b002_5_p1",
+          "text": "17",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p077_s01_b002_5_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "18",
+          "name": "title",
+          "text": "原书第77页　一、1",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第81页　输入PDF第103页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 95,
+      "book_page": 77,
+      "question_id": "一、4",
+      "record_key": "p077_s04",
+      "native_click_count": 2,
+      "timing_sha256": "2ff6fdecf53dd27c5986f3d44563629506989340b5cb88fa594938095804d81c",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "95",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p077_s04_b000_0_p0",
+          "text": "3个数的平均数是12，其中两个数的平均数是11，第3个",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p077_s04_b000_1_p0",
+          "text": "数是",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p077_s04_b000_1_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p077_s04_b000_1_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p077_s04_b000_1_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p077_s04_b001_2_p0",
+          "text": "以12为基准，已知两个数平均各少1，共少2。",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "p077_s04_b001_2_p1_simplify_rhs0",
+          "text": "12+(12-11)×2",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p077_s04_b001_2_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "24",
+          "name": "p077_s04_b001_2_p1_simplify_rhs1",
+          "text": "12+1×2",
+          "native_omml": true
+        },
+        {
+          "id": "25",
+          "name": "p077_s04_b001_2_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "26",
+          "name": "p077_s04_b001_2_p1_simplify_rhs2",
+          "text": "12+2",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p077_s04_b001_2_p1_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p077_s04_b001_2_p1_simplify_rhs3",
+          "text": "14",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p077_s04_b001_2_p2",
+          "text": "另一思路：总和之差。",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p077_s04_b001_2_p3",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p077_s04_b001_2_p4",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p077_s04_b001_3_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "29",
+          "name": "p077_s04_b001_3_p1_simplify_rhs0",
+          "text": "12×3-11×2",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p077_s04_b001_3_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "31",
+          "name": "p077_s04_b001_3_p1_simplify_rhs1",
+          "text": "36-22",
+          "native_omml": true
+        },
+        {
+          "id": "32",
+          "name": "p077_s04_b001_3_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "33",
+          "name": "p077_s04_b001_3_p1_simplify_rhs2",
+          "text": "14",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p077_s04_b001_3_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p077_s04_b001_4_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "18",
+          "name": "p077_s04_b002_5_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p077_s04_b002_5_p1",
+          "text": "14",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p077_s04_b002_5_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "21",
+          "name": "title",
+          "text": "原书第77页　一、4",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第81页　输入PDF第103页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 97,
+      "book_page": 77,
+      "question_id": "一、5",
+      "record_key": "p077_s05",
+      "native_click_count": 2,
+      "timing_sha256": "089d6089c16a3d2a4ba1d21ee91057eedb27f24d7afc175e23f2241fc6893824",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "97",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p077_s05_b000_0_p0",
+          "text": "航模小组制作飞机模型，小亮试飞了56次，比小静多试飞",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p077_s05_b000_1_p0",
+          "text": "8次，两人平均每人试飞",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p077_s05_b000_1_p1_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p077_s05_b000_1_p1_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p077_s05_b000_1_p2",
+          "text": "次。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p077_s05_b001_2_p0",
+          "text": "移多补少：减去差的一半。",
+          "native_omml": false
+        },
+        {
+          "id": "26",
+          "name": "p077_s05_b001_2_p1_simplify_rhs0",
+          "text": "56-8÷2",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p077_s05_b001_2_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p077_s05_b001_2_p1_simplify_rhs1",
+          "text": "56-4",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p077_s05_b001_2_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p077_s05_b001_2_p1_simplify_rhs2",
+          "text": "52（次）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p077_s05_b001_2_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "31",
+          "name": "p077_s05_b001_2_p3_simplify_rhs0",
+          "text": "[56+(56-8)]÷2",
+          "native_omml": true
+        },
+        {
+          "id": "32",
+          "name": "p077_s05_b001_2_p3_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "33",
+          "name": "p077_s05_b001_2_p3_simplify_rhs1",
+          "text": "(56+48)÷2",
+          "native_omml": true
+        },
+        {
+          "id": "34",
+          "name": "p077_s05_b001_2_p3_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "35",
+          "name": "p077_s05_b001_2_p3_simplify_rhs2",
+          "text": "104÷2",
+          "native_omml": true
+        },
+        {
+          "id": "36",
+          "name": "p077_s05_b001_2_p3_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "37",
+          "name": "p077_s05_b001_2_p3_simplify_rhs3",
+          "text": "52（次）",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p077_s05_b001_2_p4",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p077_s05_b001_3_p0",
+          "text": "先求总次数，再平均：",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p077_s05_b001_3_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p077_s05_b001_3_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p077_s05_b001_3_p3",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "18",
+          "name": "p077_s05_b001_3_p4",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p077_s05_b001_4_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "20",
+          "name": "p077_s05_b001_4_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "21",
+          "name": "p077_s05_b001_4_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "p077_s05_b002_5_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "23",
+          "name": "p077_s05_b002_5_p1",
+          "text": "52",
+          "native_omml": true
+        },
+        {
+          "id": "24",
+          "name": "p077_s05_b002_5_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "25",
+          "name": "title",
+          "text": "原书第77页　一、5",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第81页　输入PDF第103页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 105,
+      "book_page": 77,
+      "question_id": "一、6（2）",
+      "record_key": "p077_s07",
+      "native_click_count": 2,
+      "timing_sha256": "0ade5dafc7cc308f92812a05de721babd448b36e60e3cb34d52e5bbff22edcec",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "105",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p077_s07_b003_0_p0",
+          "text": "先还原B队5人总身高；已知四人分组相加。",
+          "native_omml": false
+        },
+        {
+          "id": "23",
+          "name": "p077_s07_b003_0_p1_simplify_rhs0",
+          "text": "157×5-(150+159+157+160)",
+          "native_omml": true
+        },
+        {
+          "id": "24",
+          "name": "p077_s07_b003_0_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "25",
+          "name": "p077_s07_b003_0_p1_simplify_rhs1",
+          "text": "157×5-[(150+160)+(159+157)]",
+          "native_omml": true
+        },
+        {
+          "id": "26",
+          "name": "p077_s07_b003_0_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p077_s07_b003_0_p1_simplify_rhs2",
+          "text": "785-(310+316)",
+          "native_omml": true
+        },
+        {
+          "id": "28",
+          "name": "p077_s07_b003_0_p1_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p077_s07_b003_0_p1_simplify_rhs3",
+          "text": "785-626",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p077_s07_b003_0_p1_simplify_equals4",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "31",
+          "name": "p077_s07_b003_0_p1_simplify_rhs4",
+          "text": "159（厘米）",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p077_s07_b003_0_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p077_s07_b003_1_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p077_s07_b003_1_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p077_s07_b003_1_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p077_s07_b003_1_p3",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p077_s07_b003_1_p4",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p077_s07_b003_2_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p077_s07_b003_2_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p077_s07_b003_2_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p077_s07_b003_2_p3",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p077_s07_b003_3_p0",
+          "text": "书后150与B队数据不符；代回平均数仍为157厘米。",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p077_s07_b003_3_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "18",
+          "name": "p077_s07_b003_3_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p077_s07_b004_4_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "20",
+          "name": "p077_s07_b004_4_p1",
+          "text": "159",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p077_s07_b004_4_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "title",
+          "text": "原书第77页　一、6（2）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第81页　输入PDF第103页　解析续页3",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 141,
+      "book_page": 79,
+      "question_id": "三、2（1）",
+      "record_key": "p079_s03",
+      "native_click_count": 7,
+      "timing_sha256": "4572463e9ce63d79424e50c77c225bb8e206aebd721015acae6d041a6370a0b2",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "141",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p079_s03_b003_0",
+          "text": "(123+145+156+172+184)÷5",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p079_s03_b004_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p079_s03_b004_1",
+          "text": "[(156+184)+(123+145+172)]÷5",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p079_s03_b005_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p079_s03_b005_2",
+          "text": "[340+(268+172)]÷5",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p079_s03_b006_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p079_s03_b006_3",
+          "text": "(340+440)÷5",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p079_s03_b007_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p079_s03_b007_4",
+          "text": "780÷5",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p079_s03_b008_5_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p079_s03_b008_5",
+          "text": "156（克）",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p079_s03_b009_6_p0",
+          "text": "答：抽出的土豆平均每个重156克。",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "title",
+          "text": "原书第79页　三、2（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第83页　输入PDF第105页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 143,
+      "book_page": 79,
+      "question_id": "三、2（1）",
+      "record_key": "p079_s03",
+      "native_click_count": 7,
+      "timing_sha256": "4572463e9ce63d79424e50c77c225bb8e206aebd721015acae6d041a6370a0b2",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "143",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p079_s03_b012_0",
+          "text": "150+[(6+34)+22-(27+5)]÷5",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p079_s03_b013_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p079_s03_b013_1",
+          "text": "150+(40+22-32)÷5",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p079_s03_b014_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p079_s03_b014_2",
+          "text": "150+(62-32)÷5",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p079_s03_b015_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p079_s03_b015_3",
+          "text": "150+30÷5",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p079_s03_b016_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p079_s03_b016_4",
+          "text": "150+6",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p079_s03_b017_5_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p079_s03_b017_5",
+          "text": "156（克）",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p079_s03_b018_6_p0",
+          "text": "答：平均每个重156克。",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "title",
+          "text": "原书第79页　三、2（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第83页　输入PDF第105页　解析续页4",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 160,
+      "book_page": 80,
+      "question_id": "三、5（1）",
+      "record_key": "p080_s02",
+      "native_click_count": 6,
+      "timing_sha256": "b25ffffac05e7ae4ed1cf8f9fff9e6c39cb28655ac3b65ca41f3e4e929515dc6",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "160",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p080_s02_b010_0",
+          "text": "1+2+8+12",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p080_s02_b011_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p080_s02_b011_1",
+          "text": "(1+2)+(8+12)",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p080_s02_b012_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p080_s02_b012_2",
+          "text": "3+20",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p080_s02_b013_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p080_s02_b013_3",
+          "text": "23（人）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p080_s02_b014_4_p0",
+          "text": "纵向按男女相加得到各段人数；两种方向得到的全班人数同",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p080_s02_b014_5_p0",
+          "text": "为",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p080_s02_b014_5_p1",
+          "text": "44",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p080_s02_b014_5_p2",
+          "text": "，说明人数相符。",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p080_s02_b015_6_p0",
+          "text": "答：统计表按上表填写。",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "title",
+          "text": "原书第80页　三、5（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第84页　输入PDF第107页　解析续页6",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 176,
+      "book_page": 81,
+      "question_id": "一、2",
+      "record_key": "p081_s02",
+      "native_click_count": 2,
+      "timing_sha256": "86b7048cc9896630becf3420af892891cd8aeec5925495abca4809e4b3b2618b",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "176",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p081_s02_b000_0_p0",
+          "text": "要使",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p081_s02_b000_0_p1",
+          "text": "16×(□÷4)=512",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p081_s02_b000_0_p2",
+          "text": "，",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p081_s02_b000_0_p3",
+          "text": "□",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p081_s02_b000_0_p4",
+          "text": "里应该填",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p081_s02_b000_0_p5_left",
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p081_s02_b000_0_p5_right",
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p081_s02_b000_0_p6",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p081_s02_b001_1_p0",
+          "text": "把16拆成4×4，乘4与除4抵消一组4，原式相当于所填数乘4。",
+          "native_omml": false
+        },
+        {
+          "id": "23",
+          "name": "p081_s02_b001_1_p1_simplify_rhs0",
+          "text": "512÷(16÷4)",
+          "native_omml": true
+        },
+        {
+          "id": "24",
+          "name": "p081_s02_b001_1_p1_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "25",
+          "name": "p081_s02_b001_1_p1_simplify_rhs1",
+          "text": "512÷4",
+          "native_omml": true
+        },
+        {
+          "id": "26",
+          "name": "p081_s02_b001_1_p1_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "27",
+          "name": "p081_s02_b001_1_p1_simplify_rhs2",
+          "text": "128",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p081_s02_b001_1_p2",
+          "text": "代回检验：",
+          "native_omml": false
+        },
+        {
+          "id": "28",
+          "name": "p081_s02_b001_1_p3_simplify_rhs0",
+          "text": "16×(128÷4)",
+          "native_omml": true
+        },
+        {
+          "id": "29",
+          "name": "p081_s02_b001_1_p3_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "30",
+          "name": "p081_s02_b001_1_p3_simplify_rhs1",
+          "text": "16×32",
+          "native_omml": true
+        },
+        {
+          "id": "31",
+          "name": "p081_s02_b001_1_p3_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "32",
+          "name": "p081_s02_b001_1_p3_simplify_rhs2",
+          "text": "512",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p081_s02_b001_1_p4",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p081_s02_b001_1_p5",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "18",
+          "name": "p081_s02_b001_1_p6",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "19",
+          "name": "p081_s02_b002_2_p0",
+          "text": "填",
+          "native_omml": false
+        },
+        {
+          "id": "20",
+          "name": "p081_s02_b002_2_p1",
+          "text": "128",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p081_s02_b002_2_p2",
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "22",
+          "name": "title",
+          "text": "原书第81页　一、2",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第85页　输入PDF第109页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 247,
+      "book_page": 83,
+      "question_id": "四、2",
+      "record_key": "p083_s05",
+      "native_click_count": 5,
+      "timing_sha256": "62cacf304d2e4681b0ff3cbcf2d711644f7cd77c0df1554a57804d14cd40517a",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "247",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p083_s05_b002_0",
+          "text": "先按题意列合计式，再用加法结合律凑159。",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p083_s05_b003_1",
+          "text": "79.5+(79.5+23.9)",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p083_s05_b004_2_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p083_s05_b004_2_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p083_s05_b004_2_simplify_rhs0",
+          "text": "(79.5+79.5)+23.9",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p083_s05_b004_2_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p083_s05_b004_2_simplify_rhs1",
+          "text": "159+23.9",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p083_s05_b005_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p083_s05_b005_3",
+          "text": "182.9（元）",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p083_s05_b006_4_p0",
+          "text": "答：买大米和食用油一共花182.9元。",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p083_s05_b006_4_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p083_s05_b006_4_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p083_s05_b006_5_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p083_s05_b006_5_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p083_s05_b006_6_p0",
+          "text": "这是同一数量关系的简便整理，不另算一种解法。",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "title",
+          "text": "原书第83页　四、2",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第87页　输入PDF第111页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 248,
+      "book_page": 83,
+      "question_id": "四、3",
+      "record_key": "p083_s06",
+      "native_click_count": 1,
+      "timing_sha256": "643c7da315d1e7175616058ac005d859fa8f1f14dfb8b1fbd15491131204f4ab",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "248",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p083_s06_b000_0_p0",
+          "text": "3. 为了迎接植树节，学校组织了“绿色校园”植树劳动实践",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p083_s06_b000_1_p0",
+          "text": "活动。三年级有",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p083_s06_b000_1_p1",
+          "text": "158",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p083_s06_b000_1_p2",
+          "text": "名同学参加，四年级参加的人数比三年",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p083_s06_b000_2_p0",
+          "text": "级的",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p083_s06_b000_2_p1",
+          "text": "2",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p083_s06_b000_2_p2",
+          "text": "倍少",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p083_s06_b000_2_p3",
+          "text": "68",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p083_s06_b000_2_p4",
+          "text": "人，五年级有",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p083_s06_b000_2_p5",
+          "text": "362",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p083_s06_b000_2_p6",
+          "text": "名同学参加，五年级参加的人",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p083_s06_b000_3_p0",
+          "text": "数比四年级多多少人？（6分）",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "p083_s06_b001_4",
+          "text": "先按整体作差，再把362与68凑430。",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "title",
+          "text": "原书第83页　四、3",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第87页　输入PDF第111页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 249,
+      "book_page": 83,
+      "question_id": "四、3",
+      "record_key": "p083_s06",
+      "native_click_count": 6,
+      "timing_sha256": "d8af966d093952d158ef16eb456b2a50dfc1420b57059edebe3482104e8e48c7",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "249",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p083_s06_b002_0",
+          "text": "362-(158×2-68)",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p083_s06_b003_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p083_s06_b003_1",
+          "text": "362+68-158×2",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p083_s06_b004_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p083_s06_b004_2",
+          "text": "430-316",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p083_s06_b005_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p083_s06_b005_3",
+          "text": "114（人）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p083_s06_b006_4_p0",
+          "text": "答：五年级比四年级多",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p083_s06_b006_4_p1",
+          "text": "114",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p083_s06_b006_4_p2",
+          "text": "人。",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p083_s06_b007_5",
+          "text": "回顾核对：先求四年级人数，再计算相差人数。",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "title",
+          "text": "原书第83页　四、3",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第87页　输入PDF第111页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "slide": 250,
+      "book_page": 83,
+      "question_id": "四、3",
+      "record_key": "p083_s06",
+      "native_click_count": 5,
+      "timing_sha256": "daf2f243e108f3de9a41b18c34353be84a9c1c2f55d19141b1a3cd169a152a27",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "250",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p083_s06_b008_0",
+          "text": "158×2-68",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p083_s06_b009_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p083_s06_b009_1",
+          "text": "316-68",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p083_s06_b010_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p083_s06_b010_2",
+          "text": "248（人）",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p083_s06_b011_3_operator",
+          "text": "比较：",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p083_s06_b011_3",
+          "text": "362-248=114（人）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p083_s06_b012_4_p0",
+          "text": "答：五年级比四年级多",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p083_s06_b012_4_p1",
+          "text": "114",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p083_s06_b012_4_p2",
+          "text": "人。",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "title",
+          "text": "原书第83页　四、3",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第87页　输入PDF第111页　解析续页3",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "slide": 68,
+      "book_page": 94,
+      "question_id": "二、6",
+      "record_key": "p094_s05",
+      "native_click_count": 6,
+      "timing_sha256": "0559ccb9899788ca6e1307660b7aecb701bbac7c2e0dae4b067786da04e3e3e9",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "68",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p094_s05_b005_0_p0",
+          "text": "人数不同，应按10人平均。方法一：求身高总和再平均。",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p094_s05_b005_1_p0",
+          "text": "简便思路：以140为基准，4人各多10，平均补给10人。",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p094_s05_b006_2",
+          "text": "(140×6+150×4)÷(6+4)",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p094_s05_b007_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p094_s05_b007_3",
+          "text": "(840+600)÷10",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p094_s05_b008_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p094_s05_b008_4",
+          "text": "1440÷10",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p094_s05_b009_5_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p094_s05_b009_5",
+          "text": "144（厘米）",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p094_s05_b010_6_p0_simplify_rhs0",
+          "text": "140+(150-140)×4÷(6+4)",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p094_s05_b010_6_p0_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p094_s05_b010_6_p0_simplify_rhs1",
+          "text": "140+10×4÷10",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p094_s05_b010_6_p0_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p094_s05_b010_6_p0_simplify_rhs2",
+          "text": "140+40÷10",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p094_s05_b010_6_p0_simplify_equals3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p094_s05_b010_6_p0_simplify_rhs3",
+          "text": "140+4",
+          "native_omml": true
+        },
+        {
+          "id": "22",
+          "name": "p094_s05_b010_6_p0_simplify_equals4",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p094_s05_b010_6_p0_simplify_rhs4",
+          "text": "144（厘米）",
+          "native_omml": true
+        },
+        {
+          "id": "24",
+          "name": "p094_s05_b010_6_p0_simplify_caption",
+          "text": "选B。",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "title",
+          "text": "原书第94页　二、6",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第98页　输入PDF第125页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "slide": 351,
+      "book_page": 104,
+      "question_id": "五、2",
+      "record_key": "p104_s02",
+      "native_click_count": 2,
+      "timing_sha256": "34eaf888d2c6d83f899c69e69fa277304bf8ee4b39c8a305b9eb039f49cc42ea",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "351",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p104_s02_b011_0",
+          "text": "方法二：化成整数分，再扣赠送袜子的标价",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p104_s02_b012_1_p0",
+          "text": "4.68元=468分",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p104_s02_b012_1_p1",
+          "text": "。赠送双数：",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p104_s02_b012_1_p2",
+          "text": "12÷(5+1)=2（双）",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p104_s02_b012_1_p3",
+          "text": "从12双的总标价中减去2双赠品的标价。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p104_s02_b012_2_p0",
+          "text": "用乘法分配律，把付费双数先凑为10双。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "title",
+          "text": "原书第104页　五、2",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第108页　输入PDF第138页　解析续页5",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "slide": 352,
+      "book_page": 104,
+      "question_id": "五、2",
+      "record_key": "p104_s02",
+      "native_click_count": 7,
+      "timing_sha256": "4572463e9ce63d79424e50c77c225bb8e206aebd721015acae6d041a6370a0b2",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "352",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p104_s02_b013_0",
+          "text": "468×12-468×[12÷(5+1)]",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p104_s02_b014_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p104_s02_b014_1",
+          "text": "468×12-468×(12÷6)",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p104_s02_b015_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p104_s02_b015_2",
+          "text": "468×12-468×2",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p104_s02_b016_3_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p104_s02_b016_3_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p104_s02_b016_3_simplify_rhs0",
+          "text": "468×(12-2)",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p104_s02_b016_3_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p104_s02_b016_3_simplify_rhs1",
+          "text": "468×10",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p104_s02_b017_4_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p104_s02_b017_4",
+          "text": "4680（分）",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p104_s02_b018_5_p0",
+          "text": "4680分=46.8元",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p104_s02_b018_5_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p104_s02_b019_6_p0",
+          "text": "答：12双袜子共花46.8元。",
+          "native_omml": false
+        },
+        {
+          "id": "16",
+          "name": "title",
+          "text": "原书第104页　五、2",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第108页　输入PDF第138页　解析续页6",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "slide": 432,
+      "book_page": 107,
+      "question_id": "三、3（4）",
+      "record_key": "p107_s08",
+      "native_click_count": 1,
+      "timing_sha256": "a0bc1f08867ca155a3959a2880397853ecc86ab596ff94152574e076ed6e0afe",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "432",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p107_s08_b000_0_p0",
+          "text": "840÷[15×(81-77)]",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p107_s08_b001_1_p0",
+          "text": "先算最内层的差，再把两个因数相乘，凑成整十除数。",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p107_s08_b001_1_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p107_s08_b001_1_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p107_s08_b001_2_p0",
+          "text": "这样只需用840除以60，计算更简便。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p107_s08_b001_2_p1",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p107_s08_b001_2_p2",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "text": "原书第107页　三、3（4）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第111页　输入PDF第142页",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "slide": 433,
+      "book_page": 107,
+      "question_id": "三、3（4）",
+      "record_key": "p107_s08",
+      "native_click_count": 5,
+      "timing_sha256": "1bc8a9679be78dd8978f5e360f6cc276f7b56969cf348008f7644b90993a6947",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "433",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p107_s08_b002_0",
+          "text": "840÷[15×(81-77)]",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p107_s08_b003_1_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p107_s08_b003_1",
+          "text": "840÷(15×4)",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p107_s08_b004_2_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p107_s08_b004_2",
+          "text": "840÷60",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p107_s08_b005_3_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p107_s08_b005_3",
+          "text": "14",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p107_s08_b006_4_operator",
+          "text": "检验：",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p107_s08_b006_4",
+          "text": "14×60=840",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "title",
+          "text": "原书第107页　三、3（4）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第111页　输入PDF第142页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    },
+    {
+      "volume": 6,
+      "slide": 449,
+      "book_page": 108,
+      "question_id": "五、2",
+      "record_key": "p108_s02",
+      "native_click_count": 4,
+      "timing_sha256": "1ce1d11aba3add4cce144822b1527e4e844d3f56ca68fbda2b456d3bede90e92",
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "text": "449",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p108_s02_b002_0_p0",
+          "text": "数量关系是“每天看的页数",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p108_s02_b002_0_p1",
+          "text": "×",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p108_s02_b002_0_p2",
+          "text": "天数",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p108_s02_b002_0_p3",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p108_s02_b002_0_p4",
+          "text": "这本书的总页数”。",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p108_s02_b002_1_p0",
+          "text": "提前3天，实际8天；先算40除以8，再乘11。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p108_s02_b002_2_p0",
+          "text": "全书页数不变，用乘除关系调整顺序，使计算简便。",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p108_s02_b002_3_p0",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p108_s02_b003_4",
+          "text": "40×11÷(11-3)",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p108_s02_b004_5_operator",
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "18",
+          "name": "p108_s02_b004_5_simplify_equals0",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p108_s02_b004_5_simplify_rhs0",
+          "text": "40×11÷8",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p108_s02_b004_5_simplify_equals1",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p108_s02_b004_5_simplify_rhs1",
+          "text": "40÷8×11",
+          "native_omml": true
+        },
+        {
+          "id": "22",
+          "name": "p108_s02_b004_5_simplify_equals2",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p108_s02_b004_5_simplify_rhs2",
+          "text": "5×11",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p108_s02_b005_6_operator",
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p108_s02_b005_6",
+          "text": "55（页）",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "title",
+          "text": "原书第108页　五、2",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "text": "原题底本第112页　输入PDF第143页　解析续页2",
+          "native_omml": false
+        }
+      ]
+    }
+  ]
+}

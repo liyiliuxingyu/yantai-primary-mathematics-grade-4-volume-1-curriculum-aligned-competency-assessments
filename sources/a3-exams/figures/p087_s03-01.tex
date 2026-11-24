@@ -1,0 +1,5 @@
+\begin{tikzpicture}[scale=.42]
+% Leave the symmetry axis free of an underlying grid stroke.
+\foreach \i in {0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17} \draw[black!47,line width=.38bp] (\i,0) -- (\i,9);
+\foreach \j in {0,...,9} \draw[black!47,line width=.38bp] (0,\j) -- (17,\j);
+\draw[dash pattern=on 2.8bp off 2bp,line width=.63bp] (4,0)--(4,9);\draw[thick] (1,3)--(1,5)--(4,3)--cycle;\node[below right] at (4,3){$O$};\end{tikzpicture}

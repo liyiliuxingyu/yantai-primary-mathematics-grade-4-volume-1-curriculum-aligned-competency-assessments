@@ -1,0 +1,241 @@
+{
+  "book_page": 13,
+  "source_page": 17,
+  "title": "第二单元素养评价（B） 相交与平行",
+  "records": [
+    {
+      "key": "p013_s01",
+      "book_page": 13,
+      "source_page": 17,
+      "section_index": 0,
+      "id": "一、1（两个空）",
+      "kind": "fill",
+      "question_latex": "如下图，互相平行的是（    ），互相垂直的是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=.8cm,y=.8cm]\n\\begin{scope}\\draw(0,0)--(1.3,0);\\draw(0,.6)--(1.3,.6);\\node at(.65,-.4){\\textcircled{1}};\\end{scope}\n\\begin{scope}[shift={(2,0)}]\\draw(0,.2)--(1.1,.6);\\draw(0,.7)--(1.1,0);\\node at(.55,-.4){\\textcircled{2}};\\end{scope}\n\\begin{scope}[shift={(4,0)}]\\draw(0,1)--(.6,0);\\draw(.2,1.1)--(.8,.1);\\node at(.4,-.4){\\textcircled{3}};\\end{scope}\n\\begin{scope}[shift={(6,0)}]\\draw(0,0)--(0,.8)--(.7,.8);\\node at(.35,-.4){\\textcircled{4}};\\end{scope}\n\\begin{scope}[shift={(8,0)}]\\draw(0,.2)--(0,.8);\\draw(.1,0)--(.8,.8);\\node at(.4,-.4){\\textcircled{5}};\\end{scope}\n\\begin{scope}[shift={(10,0)}]\\draw(0,.6)to[bend right=40](1.5,.6);\\draw(0,.9)to[bend right=40](1.5,.9);\\node at(.75,-.4){\\textcircled{6}};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p013_s01_g1"
+        }
+      ],
+      "answer_latex": "①③的两条直线方向相同，延长也不相交，互相平行；④两条直线相交成直角，互相垂直。故依次填①③、④。②相交但不垂直，⑤也不成直角，⑥是曲线。",
+      "verification": {
+        "status": "verified",
+        "reason": "①③平行；④所示直角，两线垂直；②⑤非直角相交，⑥曲线。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p013_s02",
+      "book_page": 13,
+      "source_page": 17,
+      "section_index": 1,
+      "id": "一、2（全部空）",
+      "kind": "fill",
+      "question_latex": "直线\\(m\\)与直线\\(n\\)相交成直角时，这两条直线的位置关系是（    ），记作（    ），读作（    ）；这两条直线的交点叫作（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "直线相交成直角，叫“互相垂直”，记作\\(m\\perp n\\)，读作“\\(m\\)垂直于\\(n\\)”。这两条直线的交点叫“垂足”。",
+      "verification": {
+        "status": "verified",
+        "reason": "互相垂直，m⊥n，m垂直于n，垂足。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p013_s03",
+      "book_page": 13,
+      "source_page": 17,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "钟表的圆形表盘上，除了3时整，（    ）时整的时针和分针所在直线也互相垂直。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(9\\)。\\(3\\)时与\\(9\\)时的分针都指向\\(12\\)，时针分别指\\(3\\)、\\(9\\)，两种情况的较小夹角都是\\(90^\\circ\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "9时整夹角90度，填9。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p013_s04",
+      "book_page": 13,
+      "source_page": 17,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "过春节贴春联是我国的传统习俗。如图，对联横批贴歪了，爷爷说：只要让横批的下边与门框的上边（    ），横批就正了。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)rectangle(2.2,3);\\draw(.15,0)--(.15,2.85)--(2.05,2.85)--(2.05,0);\\begin{scope}[rotate around={12:(1.1,3.3)}]\\draw(-.1,3.05)rectangle(2.3,3.65);\\node at(1.1,3.35){新春大吉};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "情境插图重画门框与倾斜横批的必要边界，保留文字原意。",
+          "name": "p013_s04_g1"
+        }
+      ],
+      "answer_latex": "填“平行”或“互相平行”。要把横批贴正，横批下边与门框上边的方向应一致，延长也不相交。",
+      "verification": {
+        "status": "verified",
+        "reason": "横批下边与门框上边平行。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p013_s05",
+      "book_page": 13,
+      "source_page": 17,
+      "section_index": 4,
+      "id": "一、5（两个空）",
+      "kind": "fill",
+      "question_latex": "教室的推拉玻璃窗，推拉轨道的上下两条边互相（    ），玻璃窗的竖直边框和轨道边的位置关系是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "推拉轨道的上、下两边都是横向，互相\\textbf{平行}；玻璃窗的竖直边框与横向轨道相交成直角，互相\\textbf{垂直}。",
+      "verification": {
+        "status": "verified",
+        "reason": "上下横轨平行，竖框和横轨垂直。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p013_s06",
+      "book_page": 13,
+      "source_page": 17,
+      "section_index": 5,
+      "id": "一、6（全部空）",
+      "kind": "fill",
+      "question_latex": "如图，直线\\(EG\\)平行于直线\\(FH\\)，如果线段\\(EF\\)的长度是5厘米，那么线段\\(GH\\)的长度是（    ），线段\\(AD\\)的长度是（    ），它们的长度（    ），原因是（    ），线段\\(AB\\)与线段\\(AC\\)的长度一定（    ）5厘米（填“大于”“小于”或“等于”）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(-.3,0)--(5.2,0);\\draw(-.3,1.7)--(5.2,1.7);\\foreach \\n/\\x/\\y/\\p in {E/0/1.7/above,F/0/0/below,G/4.6/1.7/above,H/4.6/0/below,A/3/1.7/above,B/.9/0/below,C/3.7/0/below,D/3/0/below}{\\coordinate(\\n)at(\\x,\\y);\\node[\\p]at(\\n){$\\n$};}\\draw(E)--(F);\\draw(G)--(H);\\draw(A)--(B);\\draw(A)--(C);\\draw(A)--(D);\\foreach \\x in {0,3,4.6}{\\draw(\\x,.17)--++(.17,0)--++(0,-.17);}\\node[left]at(0,.85){5厘米};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p013_s06_g1"
+        }
+      ],
+      "answer_latex": "由图中直角标记，\\(EF,GH,AD\\)都是\\(EG\\)与\\(FH\\)间的垂线段。一对平行线之间的距离处处相等，故\\(GH=AD=EF=5\\)厘米。前两个数值空后没有预印单位，应分别填\\(5\\text{厘米}\\)、\\(5\\text{厘米}\\)；第三空填“相等”；原因填“平行线间距离处处相等”。\\par \\(AD\\)是\\(A\\)到\\(FH\\)的垂线段，\\(AB,AC\\)都是斜线段，故\\(AB>AD,AC>AD\\)，最后填“大于”。",
+      "verification": {
+        "status": "verified",
+        "reason": "EF、GH、AD均为同对平行线间垂线段，均5厘米；斜线段AB、AC均大于垂线段AD。",
+        "changes": [
+          "GH、AD两数值空后未预印单位，补写5厘米，避免只填5。"
+        ],
+        "uncertainties": [],
+        "left_patch": {
+          "rect": [
+            341,
+            642,
+            369,
+            656
+          ],
+          "old": "5",
+          "new_latex": "\\(5\\text{厘米}\\)"
+        },
+        "additional_left_patches": [
+          {
+            "rect": [
+              218,
+              667,
+              246,
+              682
+            ],
+            "old": "5",
+            "new_latex": "\\(5\\text{厘米}\\)"
+          }
+        ],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p013_s07",
+      "book_page": 13,
+      "source_page": 17,
+      "section_index": 6,
+      "id": "一、7（两个空）",
+      "kind": "fill",
+      "question_latex": "在同一平面内，有4条直线，其中\\(a\\parallel b\\)，\\(b\\perp c\\)，\\(a\\)与\\(c\\)的位置关系是（    ），\\(b\\perp d\\)，\\(b\\perp c\\)，那么\\(c\\)与\\(d\\)的位置关系是（    ）。（第二空续于原书第14页。）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(0,-.3)--(0,1.6)node[above]{$a$};\\draw(2,-.3)--(2,1.6)node[above]{$b$};\\draw(-.6,1.2)node[left]{$c$}--(2.6,1.2);\\draw(-.6,.1)node[left]{$d$}--(2.6,.1);\\node[below left]at(0,1.2){$O$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p013_s07_g1"
+        }
+      ],
+      "answer_latex": "由\\(a\\parallel b\\)且\\(b\\perp c\\)，知\\(a\\perp c\\)，第一空填“互相垂直”。\\par 由\\(b\\perp d\\)且\\(b\\perp c\\)，同一平面内\\(c,d\\)都垂直于\\(b\\)，所以\\(c\\parallel d\\)，第二空填“互相平行”（在下一页）。",
+      "verification": {
+        "status": "verified",
+        "reason": "平行线之一垂直c，则另一也垂直c；c和d同垂直b则平行。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

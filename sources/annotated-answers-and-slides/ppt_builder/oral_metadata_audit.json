@@ -1,0 +1,10 @@
+{
+  "records": 51,
+  "subquestions": 142,
+  "aggregated_records": 15,
+  "equality_transitions": 283,
+  "approximation_transitions": 2,
+  "checks": 1152,
+  "issues": [],
+  "scope": "Every source oral expression and its original order, every generated exact equality, every approximation sign, grade-scope caution, child-key coverage and simultaneous independent calculation rule checked. This does not claim all possible mental strategies are exhausted."
+}

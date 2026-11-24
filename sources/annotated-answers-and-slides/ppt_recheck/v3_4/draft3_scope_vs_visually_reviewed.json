@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "details": {
+    "3": {
+      "different_common_parts": [
+        "ppt/slides/_rels/slide402.xml.rels",
+        "ppt/slides/_rels/slide406.xml.rels",
+        "ppt/slides/slide402.xml",
+        "ppt/slides/slide406.xml"
+      ],
+      "removed_parts": [
+        "ppt/media/simplify_7a5debad472178e795cd098f.png",
+        "ppt/media/simplify_7a5debad472178e795cd098f.svg",
+        "ppt/media/simplify_808c56175dd4eb65d42c0462.png",
+        "ppt/media/simplify_808c56175dd4eb65d42c0462.svg"
+      ],
+      "new_parts": []
+    },
+    "4": {
+      "different_common_parts": [],
+      "removed_parts": [],
+      "new_parts": []
+    }
+  },
+  "scope": "Only two volume3 slides and their private asset relationships changed after all14 modified slides were rendered and individually viewed. Removed media were only used by the replaced two labels. All other common package parts and volume4 decompressed contents are byte-identical."
+}

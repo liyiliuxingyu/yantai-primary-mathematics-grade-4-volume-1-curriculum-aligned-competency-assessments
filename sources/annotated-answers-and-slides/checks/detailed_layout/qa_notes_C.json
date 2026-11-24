@@ -1,0 +1,211 @@
+{
+  "group": "C",
+  "book_pages": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81
+  ],
+  "question_record_count": 212,
+  "source_reading": {
+    "question_files": [
+      "questions/p055.json",
+      "questions/p056.json",
+      "questions/p057.json",
+      "questions/p058.json",
+      "questions/p059.json",
+      "questions/p060.json",
+      "questions/p061.json",
+      "questions/p062.json",
+      "questions/p063.json",
+      "questions/p064.json",
+      "questions/p065.json",
+      "questions/p066.json",
+      "questions/p067.json",
+      "questions/p068.json",
+      "questions/p069.json",
+      "questions/p070.json",
+      "questions/p071.json",
+      "questions/p072.json",
+      "questions/p073.json",
+      "questions/p074.json",
+      "questions/p075.json",
+      "questions/p076.json",
+      "questions/p077.json",
+      "questions/p078.json",
+      "questions/p079.json",
+      "questions/p080.json",
+      "questions/p081.json"
+    ],
+    "old_notes": "concise_layout/notes_C.json",
+    "reviewed_content": "逐项阅读全部212条题干、标准解析、表格与旧注；已读取并核对60条带图记录的TikZ图形条件（共95个图块，含重复共享图块），未重画或改动既有图。"
+  },
+  "expansion": {
+    "nonempty_records": 210,
+    "empty_records": [
+      {
+        "key": "p061_s14",
+        "covered_by": "p062_s01",
+        "reason": "题目第二空自然续到62页；两种位置关系与远近两空的完整解析集中在p062_s01，此页不重复。"
+      },
+      {
+        "key": "p074_s07",
+        "covered_by": "p075_s01",
+        "reason": "74页仅有河流水深题图，完整两问自然续到75页；平均水深在p075_s01解释，过河风险在p075_s02解释，此页不重复。"
+      }
+    ],
+    "approach": "逐题补数量关系、采用的数位/运算或图形依据及易错点；原注已有必要脱式步骤、多法保留，各方法解释不同思路；不整块重复标准答案。"
+  },
+  "preservation": {
+    "record_keys_and_order_unchanged": true,
+    "C_group_local_replacement_blocks_unchanged": 9,
+    "all_target_rects_and_rects_unchanged": true,
+    "extra_figures_unchanged_no_duplicate_diagrams": true,
+    "concise_source_files_unmodified": true
+  },
+  "checks": {
+    "numeric_equality_chains_checked": 113,
+    "method": "用Fraction有理数独立计算notes中可解析的数值等式与单位等式，以及9个原局部替换链；并列aligned行分别验算，单位先换算为相同基准。其余大小关系、平均数数量关系、近似数与图形变换根据题干及图形坐标逐项核对。",
+    "numeric_failures": [],
+    "latex_par_spacing_checked": true
+  },
+  "specific_cautions": [
+    {
+      "key": "p058_s04",
+      "detail": "保留B仅适用于两位竖式结果暂不化简的写法，化简后不一定为两位小数。"
+    },
+    {
+      "key": "p063_s02",
+      "detail": "旧重排链数值正确，但不是凑整；新增文字不称它为简便，明确可从左到右计算。"
+    },
+    {
+      "key": "p065_s02",
+      "detail": "建筑结构的轴对称与包含牌匾文字的整幅图范围区分。"
+    },
+    {
+      "key": "p068_s04/p068_s05",
+      "detail": "箭头读法与实线作为原像读法方向相反，逐问保留约定。"
+    },
+    {
+      "key": "p074_s03",
+      "detail": "45是至少参加一项者人数；缺全员参与条件，不能无条件等同全班。"
+    },
+    {
+      "key": "p076_s02",
+      "detail": "为分段不重叠，68分计达标，末组按不足68分。"
+    },
+    {
+      "key": "p078_s04",
+      "detail": "B成立；D按无法确定具体岁数字面也成立，原单选不唯一。"
+    }
+  ],
+  "visual_review": {
+    "status": "complete_passed",
+    "reviewed_book_pages": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "qa_file": "detailed_layout/qa_visual_C.json",
+    "passed": true,
+    "pdf_sha256": "65ae8dfca3a237b8adeb87fb9658299ab887bb4aacdfac3a8536fe6d258b520b",
+    "scope": "final3全27页实际总览，9个2倍正文局部与3个4倍页脚局部；final4再实看62/66/70/77整页及4个放大局部，另23页逐像素相同。"
+  },
+  "limitations": "数值脚本只检查能解析成纯数或单位换算的等式链，不宣称通过脚本证明全部语义正确；图形基于现有题图与坐标核对，无新增图形或外部事实核验。",
+  "refinement": {
+    "updated_records": 39,
+    "keys_file": "detailed_layout/refinement_C_changes.json",
+    "details": "油桶题补两法完整数字链；绘画评分表补五空逐项数字计算；其余需数量计算且原红只有结果者补必要数字步骤。76页s03去掉对原红等级与结论的复说，只补依据与抽查范围限制。75页s02/s06与80页s04删原红已有结论、论据或建议的复说，仅保新增依据。"
+  },
+  "independent_text_audit": {
+    "scope": "另一代理在首稿完成时只读复核全部212条notes对照questions；后续39条细化由本组作者逐条复核，新加数值链纳入113条有理数验算。",
+    "result": "未发现新增数值错误、非小学方法或跨页覆盖错位；建议的折线术语与五分措辞已修正。"
+  },
+  "reproduction": {
+    "authoritative_final_source": "detailed_layout/notes_C.json",
+    "initial_authoring_scripts": [
+      "expand_C.py",
+      "refine_C.py"
+    ],
+    "verification_script": "check_C.py",
+    "note": "初始生成脚本之后，root对79页三组金额措辞与62页半桶油表述作最终文字修订；交付应以最终notes_C JSON为准。"
+  },
+  "root_final_wording_fix": {
+    "key": "p079_s01",
+    "before": "三次金额合计仍相同",
+    "after": "三组金额合计不变",
+    "performed_by": "root",
+    "note": "此项为名词笔误修正，不改变数字链、数量关系或原局部patch；最终视觉审阅以final3成品为准。"
+  },
+  "root_final_wording_fix_62": {
+    "key": "p062_s02",
+    "final_wording": "把两份半桶油的质量相加得到整桶油",
+    "performed_by": "root",
+    "visually_rechecked": true
+  },
+  "source_footer_anomalies": [
+    {
+      "book_page": 66,
+      "original_visible_footer": "96",
+      "corrected_footer": "66"
+    },
+    {
+      "book_page": 70,
+      "original_visible_footer": "20",
+      "corrected_footer": "70"
+    },
+    {
+      "book_page": 77,
+      "original_visible_footer": "27",
+      "corrected_footer": "77"
+    }
+  ],
+  "source_footer_anomaly_note": "root以8倍原纯JPEG确认三处原底本即为异常读数；依据连续对应表与相邻页序校正，最终四倍局部已实际看过，源码/说明保留审校记录。"
+}

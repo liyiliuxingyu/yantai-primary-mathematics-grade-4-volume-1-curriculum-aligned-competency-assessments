@@ -1,0 +1,21 @@
+% The irregular right edge removes the chair price on the printed receipt.
+\begin{tikzpicture}[x=1bp,y=-1bp,line width=.55bp,line join=round,
+  every node/.style={inner sep=0pt,font=\kaishu\fontsize{10bp}{12bp}\selectfont}]
+  \def\ReceiptEdge{(0,0)--(212,0)--(170,19)--(169,36)--(162,52)--
+    (147,54)--(136,75)--(129,88)--(129,104)--(0,104)--cycle}
+  \begin{scope}
+    \clip \ReceiptEdge;
+    \draw (6,19) rectangle (174,94);
+    \foreach \y in {37,56,75}{\draw (6,\y)--(174,\y);}
+    \foreach \x in {32,79,107,135}{\draw (\x,19)--(\x,75);}
+    \node at (106,10) {购物小票};
+    \foreach \x/\label in {19/编号,55.5/商品名称,93/单位,121/数量,154.5/单价}
+      \node at (\x,28) {\label};
+    \foreach \x/\label in {19/{\(1\)},55.5/桌子,93/张,121/{\(2\)},154.5/{\(80\)元}}
+      \node at (\x,46.5) {\label};
+    \foreach \x/\label in {19/{\(2\)},55.5/椅子,93/把,121/{\(5\)}}
+      \node at (\x,65.5) {\label};
+    \node[anchor=west] at (10,84.5) {总计金额：\(230\)元};
+  \end{scope}
+  \draw[line width=.72bp] \ReceiptEdge;
+\end{tikzpicture}

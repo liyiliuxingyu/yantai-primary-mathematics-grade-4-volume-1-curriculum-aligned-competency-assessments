@@ -1,0 +1,217 @@
+{
+  "book_page": 12,
+  "source_page": 16,
+  "title": "",
+  "records": [
+    {
+      "key": "p012_s01",
+      "book_page": 12,
+      "source_page": 16,
+      "section_index": 0,
+      "id": "四、3",
+      "kind": "drawing",
+      "question_latex": "一只小蚂蚁在图中的点\\(O\\)处，它想快点爬到平行四边形的边线上，请你帮它设计一条最近的爬行路线，在图中画出来。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\coordinate(B)at(0,0);\\coordinate(A)at(1,2);\\coordinate(D)at(4.4,2);\\coordinate(C)at(3.4,0);\\draw(A)--(B)--(C)--(D)--cycle;\\foreach \\p/\\pos in {A/above left,B/below left,C/below right,D/above right}{\\node[\\pos]at(\\p){$\\p$};}\\fill(2.2,1.05)circle(1.5pt)node[right]{$O$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "保持原图O靠近上下边中间的相对位置，不添加长度或中点标记。",
+          "name": "p012_s01_g1"
+        },
+        {
+          "name": "p012_s01_answer",
+          "tikz": "\\begin{tikzpicture}\\coordinate(B)at(0,0);\\coordinate(A)at(1,2);\\coordinate(D)at(4.4,2);\\coordinate(C)at(3.4,0);\\draw(A)--(B)--(C)--(D)--cycle;\\foreach \\p/\\pos in {A/above left,B/below left,C/below right,D/above right}{\\node[\\pos]at(\\p){$\\p$};}\\fill(2.2,1.05)circle(1.5pt)node[right]{$O$};\\draw[red](2.200000,1.050000)--(2.200000,2.000000);\\draw[red](2.330000,2.000000)--(2.330000,1.870000)--(2.200000,1.870000);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原图相对位置向AD作最短垂线段；不以扫描细微偏差作额外数学条件。"
+        }
+      ],
+      "answer_latex": "点到某一条边的最近路线是向这条边作垂线段；要到“四条边中任意一条”，还要比较这四条垂线段的长度。按图示，从\\(O\\)向上边\\(AD\\)作的垂线段最短。若把\\(O\\)视作上、下两平行边的正中位置，则向\\(AD\\)或\\(BC\\)作出的等长垂线段都可以。",
+      "verification": {
+        "status": "conditional",
+        "reason": "到各边分别作垂线段并比较。原图O近中线，不能把扫描微小偏差当严格长度条件。",
+        "changes": [],
+        "uncertainties": [
+          "图上没有距离数据，O是否严格位于上下边正中未明；可选对应最短垂线段，保留原解析条件说明。"
+        ],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 386,
+        "y0": 89,
+        "x1": 513,
+        "y1": 159
+      }
+    },
+    {
+      "key": "p012_s02",
+      "book_page": 12,
+      "source_page": 16,
+      "section_index": 1,
+      "id": "五、1（1）",
+      "kind": "application",
+      "question_latex": "一个长方形花园的周长是84米，其中一组对边之间的距离是12米。（1）另一组对边之间的距离是多少米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "长方形一组对边间的距离就是其中一条边长，已知一边长\\(12\\)米。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：用半周长求另一边}\\par \\[\\begin{aligned}&84\\div2-12\\\\&=42-12\\\\&=30\\text{(米)}\\end{aligned}\\]答：另一组对边之间的距离是\\(30\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：从周长中先扣两条已知边}\\par \\[\\begin{aligned}&(84-12\\times2)\\div2\\\\&=(84-24)\\div2\\\\&=60\\div2\\\\&=30\\text{(米)}\\end{aligned}\\]答：另一组对边之间的距离是\\(30\\)米。\\end{minipage}\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "半周长42，另一边42−12=30米；或先减两条12再除2。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p012_s03",
+      "book_page": 12,
+      "source_page": 16,
+      "section_index": 2,
+      "id": "五、1（2）",
+      "kind": "application",
+      "question_latex": "一个长方形花园的周长是84米，其中一组对边之间的距离是12米。（2）这个长方形花园的面积是多少平方米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "一组对边间距是宽\\(12\\)米，上一问已求出长\\(30\\)米。用“长方形面积\\(=\\)长\\(\\times\\)宽”：\\par \\noindent\\begin{minipage}{\\linewidth}\\textbf{用长乘宽求面积}\\par \\[\\begin{aligned}&(84\\div2-12)\\times12\\\\&=(42-12)\\times12\\\\&=30\\times12\\\\&=360\\text{(平方米)}\\end{aligned}\\]答：花园面积是\\(360\\)平方米。\\end{minipage}\\par 分步写成\\(30\\times12\\)与上面的综合算式表达的是同一思路，不另算第二种解法。",
+      "verification": {
+        "status": "verified",
+        "reason": "长30宽12，30×12=360平方米，采用三上已学长方形面积。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p012_s04",
+      "book_page": 12,
+      "source_page": 16,
+      "section_index": 3,
+      "id": "五、2（1）",
+      "kind": "drawing",
+      "question_latex": "2013年至今，国家出台并落实惠民政策，由各级政府出资对城镇道路进行升级改造，惠及千家万户。（1）计划分别从\\(A\\)、\\(B\\)两村出发各修一条公路与国道连接，怎样修能使修的路最短？请在图中画出来。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(-.5,2.6)--(3,-1.1);\\draw(.2,3)--(3.7,-.7);\\node at(.1,2.55){国};\\node at(3.05,-.65){道};\\fill(0,-.6)circle(1.5pt)node[below]{$A$村};\\fill(3.8,1)circle(1.5pt)node[right]{$B$村};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。",
+          "name": "p012_s04_g1"
+        },
+        {
+          "name": "p012_s04_answer",
+          "tikz": "\\begin{tikzpicture}\\draw(-.5,2.6)--(3,-1.1);\\draw(.2,3)--(3.7,-.7);\\node at(.1,2.55){国};\\node at(3.05,-.65){道};\\fill(0,-.6)circle(1.5pt)node[below]{$A$村};\\fill(3.8,1)circle(1.5pt)node[right]{$B$村};\\draw[red](0.000000,-0.600000)--(1.333655,0.661565);\\draw[red](1.422991,0.567124)--(1.328550,0.477788)--(1.239214,0.572229);\\draw[red](3.800000,1.000000)--(2.898535,0.147263);\\draw[red](2.987871,0.052822)--(3.082312,0.142158)--(2.992976,0.236599);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "分别从两村到相应近侧国道边作垂线段；直角符号在垂足。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "分别从\\(A\\)村和\\(B\\)村向国道作垂线段，连接村庄黑点与对应垂足。每条线段都应与国道边线垂直，直角符号标在垂足处。依据：点到直线的垂线段最短。",
+      "verification": {
+        "status": "verified",
+        "reason": "每村分别连向最近国道边的垂线段，依据点到直线垂线段最短。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 386,
+        "y0": 431,
+        "x1": 515,
+        "y1": 546
+      }
+    },
+    {
+      "key": "p012_s05",
+      "book_page": 12,
+      "source_page": 16,
+      "section_index": 4,
+      "id": "五、2（2）",
+      "kind": "drawing",
+      "question_latex": "（接上题）（2）计划在\\(A\\)、\\(B\\)两村之间修一座高架桥，怎样修最短？请在图中画出来。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(-.5,2.6)--(3,-1.1);\\draw(.2,3)--(3.7,-.7);\\node at(.1,2.55){国};\\node at(3.05,-.65){道};\\fill(0,-.6)circle(1.5pt)node[below]{$A$村};\\fill(3.8,1)circle(1.5pt)node[right]{$B$村};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。",
+          "name": "p012_s05_g1"
+        },
+        {
+          "name": "p012_s05_answer",
+          "tikz": "\\begin{tikzpicture}\\draw(-.5,2.6)--(3,-1.1);\\draw(.2,3)--(3.7,-.7);\\node at(.1,2.55){国};\\node at(3.05,-.65){道};\\fill(0,-.6)circle(1.5pt)node[below]{$A$村};\\fill(3.8,1)circle(1.5pt)node[right]{$B$村};\\draw[red](0.000000,-0.600000)--(3.800000,1.000000);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "固定两村黑点之间直接作线段AB。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "直接连接\\(A\\)、\\(B\\)两个村庄的黑点，所成线段就是最短的高架桥路线。这里比较的是两个固定端点之间的路线，依据“两点之间线段最短”。",
+      "verification": {
+        "status": "verified",
+        "reason": "直接连接村庄两黑点成线段AB，固定两点之间线段最短。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 386,
+        "y0": 431,
+        "x1": 515,
+        "y1": 546
+      }
+    },
+    {
+      "key": "p012_s06",
+      "book_page": 12,
+      "source_page": 16,
+      "section_index": 5,
+      "id": "五、3",
+      "kind": "drawing",
+      "question_latex": "下面是某城市的局部交通线路图，计划再修一条阳光大道，规划为民主路的左侧经过点\\(A\\)与新华路平行，在民主路的右侧与青年路平行。请你画出阳光大道规划线路。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(-3,0)--(0,0)--(0,2.5);\\draw(0,0)--(3,1.2);\\node[below]at(-2,0){新华路};\\node[below right,yshift=-2pt]at(0,1.8){民主路};\\node[rotate=22]at(1.9,.45){青年路};\\fill(-1.5,1.8)circle(1.5pt)node[above]{$A$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。",
+          "name": "p012_s06_g1"
+        },
+        {
+          "name": "p012_s06_answer",
+          "tikz": "\\begin{tikzpicture}\\draw(-3,0)--(0,0)--(0,2.5);\\draw(0,0)--(3,1.2);\\node[below]at(-2,0){新华路};\\node[below right,yshift=-2pt]at(0,1.8){民主路};\\node[rotate=22]at(1.9,.45){青年路};\\fill(-1.5,1.8)circle(1.5pt)node[above]{$A$};\\draw[red](-2.3,1.8)--(0,1.8)--(3,3);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "红线左段经过A且平行新华路，右段从民主路同一转折点出发并平行青年路。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "左段必须经过黑点\\(A\\)，并与新华路平行；把这段线延伸到民主路，转折点落在民主路上。再从同一个转折点画右段，使它与青年路平行。两段首尾共用一个端点，才是一条连续规划线。",
+      "verification": {
+        "status": "verified",
+        "reason": "过A画新华路平行线至民主路，在同一转折点向右作青年路平行线。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 310,
+        "y0": 698,
+        "x1": 515,
+        "y1": 790
+      }
+    }
+  ]
+}

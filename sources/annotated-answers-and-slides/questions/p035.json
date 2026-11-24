@@ -1,0 +1,621 @@
+{
+  "book_page": 35,
+  "source_page": 39,
+  "records": [
+    {
+      "key": "p035_s01",
+      "book_page": 35,
+      "source_page": 39,
+      "section_index": 0,
+      "id": "三、4",
+      "kind": "judgment",
+      "question_latex": "判断：直角三角形和钝角三角形都只有1条高。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "错误。每个三角形都有3条高，分别对应3条边。直角三角形两条直角边本身也是高；钝角三角形有的高位于三角形外部。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p035_s02",
+      "book_page": 35,
+      "source_page": 39,
+      "section_index": 1,
+      "id": "四、1（平行四边形）",
+      "kind": "drawing",
+      "question_latex": "画出下面平行四边形底边上的高。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p035_s02_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(4,0)--(4.5,2)--(.5,2)--cycle;\\node[below]at(2,0){底};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p035_s02_a1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(4,0)--(4.5,2)--(.5,2)--cycle;\\node[below]at(2,0){底};\\draw[red,dashed](.5,2)--node[right,xshift=2pt]{高}(.5,0);\\draw[red](.5,0)--(.75,0)--(.75,.25)--(.5,.25);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "先认准标有“底”的边。把三角尺的一条直角边靠住底边所在直线，沿直尺平移三角尺，让另一条直角边经过左上顶点，再从顶点画到垂足。高的两端应落在两条平行线上，垂足处标直角。\\par 也可从对边的其他点作垂线段；同一底上的高都相等。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_lines_original": [
+          {
+            "vertex": [
+              190.71,
+              128.57
+            ],
+            "foot": [
+              190.71,
+              157.14
+            ]
+          }
+        ],
+        "altitude_regions": [
+          [
+            188.71,
+            126.57,
+            192.71,
+            159.14
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "altitude",
+        "vertex": [
+          0.5,
+          2
+        ],
+        "foot": [
+          0.5,
+          0
+        ],
+        "base": [
+          [
+            0,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ],
+        "labels": {
+          "base": "底",
+          "altitude": "高"
+        },
+        "object_points": [
+          [
+            0,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4.5,
+            2
+          ],
+          [
+            0.5,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p035_s03",
+      "book_page": 35,
+      "source_page": 39,
+      "section_index": 2,
+      "id": "四、1（三角形）",
+      "kind": "drawing",
+      "question_latex": "画出下面三角形底边上的高。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p035_s03_g1",
+          "tikz": "\\begin{tikzpicture}\\coordinate(A)at(0,2);\\coordinate(B)at(1.8,0);\\coordinate(C)at(5,0);\\draw(A)--(B)--(C)--cycle;\\node[above]at(2.5,1){底};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p035_s03_a1",
+          "tikz": "\\begin{tikzpicture}\\coordinate(A)at(0,2);\\coordinate(B)at(1.8,0);\\coordinate(C)at(5,0);\\coordinate(H)at($(A)!(B)!(C)$);\\draw(A)--(B)--(C)--cycle;\\node[above]at(2.5,1){底};\\draw[red,dashed](B)--node[right]{高}(H);\\pic[draw=red,angle radius=2mm]{right angle=B--H--C};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "先找到标“底”的上方斜边，再找它的对顶点。把三角尺的一条直角边靠住这条底边所在直线，平移到另一条直角边经过该顶点，沿尺边画至垂足并标直角。\\par 顶点与垂足之间的线段才是这条底上的高；方向由垂直关系决定。本图垂足落在斜边内部。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_lines_original": [
+          {
+            "vertex": [
+              364.29,
+              163.57
+            ],
+            "foot": [
+              373.57,
+              142.03
+            ]
+          }
+        ],
+        "altitude_regions": [
+          [
+            362.29,
+            140.03,
+            375.57,
+            165.57
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "altitude",
+        "vertex": [
+          1.8,
+          0
+        ],
+        "foot": [
+          2.24137931,
+          1.10344828
+        ],
+        "base": [
+          [
+            0,
+            2
+          ],
+          [
+            5,
+            0
+          ]
+        ],
+        "labels": {
+          "base": "底",
+          "altitude": "高"
+        },
+        "object_points": [
+          [
+            0,
+            2
+          ],
+          [
+            1.8,
+            0
+          ],
+          [
+            5,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p035_s04",
+      "book_page": 35,
+      "source_page": 39,
+      "section_index": 3,
+      "id": "四、2（1）",
+      "kind": "drawing",
+      "question_latex": "在下面的点子图中画一画。（每相邻的两个点之间的距离是1 cm）（1）画一个底长3 cm、高2 cm的平行四边形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p035_s04_g1",
+          "tikz": "\\begin{tikzpicture}\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}{\\fill(\\x*.55,\\y*.55)circle(1pt);}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p035_s04_a1",
+          "tikz": "\\begin{tikzpicture}[x=.55cm,y=.55cm]\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}{\\fill(\\x,\\y)circle(1pt);}\\draw[red](1,1)--(4,1)--(5,3)--(2,3)--cycle;\\draw[red,dashed](2,3)--(2,1);\\draw[red](2,1)rectangle(2.25,1.25);\\node[red,below]at(2.5,1){底3 cm};\\node[red,left]at(-.35,2.2){高2 cm};\\draw[red,thin,->](-.2,2.2)--(1.9,2.2);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "看原图①：选一条横跨3小格的线段作底，再在相隔2行的横线上画同样长、同向平移后的另一条边；连接相应端点，使两组对边分别平行。\\par 两底间的垂直距离为2格，所以底长3厘米、高2厘米。应数两点之间的间隔，不把4个格点误当成4厘米。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_lines_original": [
+          {
+            "vertex": [
+              183.57,
+              299.29
+            ],
+            "foot": [
+              183.57,
+              355.71
+            ]
+          }
+        ],
+        "altitude_regions": [
+          [
+            181.57,
+            297.29,
+            185.57,
+            357.71
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "altitude",
+        "vertex": [
+          2,
+          3
+        ],
+        "foot": [
+          2,
+          1
+        ],
+        "base": [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        "labels": {
+          "base": "底3 cm",
+          "altitude": "高2 cm"
+        },
+        "object_points": [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            3
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p035_s05",
+      "book_page": 35,
+      "source_page": 39,
+      "section_index": 4,
+      "id": "四、2（2）",
+      "kind": "drawing",
+      "question_latex": "在下面的点子图中画一画。（每相邻的两个点之间的距离是1 cm）（2）画一个高4 cm的等腰梯形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p035_s05_g1",
+          "tikz": "\\begin{tikzpicture}\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}{\\fill(\\x*.55,\\y*.55)circle(1pt);}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p035_s05_a1",
+          "tikz": "\\begin{tikzpicture}[x=.55cm,y=.55cm]\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}{\\fill(\\x,\\y)circle(1pt);}\\draw[red](2,1)--(8,1)--(6,5)--(4,5)--cycle;\\draw[red,dashed](4,5)--(4,1);\\draw[red](4,1)rectangle(4.25,1.25);\\node[red,left]at(-.35,3.2){高4 cm};\\draw[red,thin,->](-.2,3.2)--(3.9,3.2);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "看原图②：上底横跨2格，下底横跨6格，上下底所在横线相隔4格；上底居中放置，使左右两端都向外伸2格。\\par 两底平行、两腰对应伸展的格数相同，所以两腰相等，是等腰梯形；底之间的垂直距离为4厘米。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_lines_original": [
+          {
+            "vertex": [
+              318.57,
+              299.29
+            ],
+            "foot": [
+              318.57,
+              411.43
+            ]
+          }
+        ],
+        "altitude_regions": [
+          [
+            316.57,
+            297.29,
+            320.57,
+            413.43
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "altitude",
+        "vertex": [
+          4,
+          5
+        ],
+        "foot": [
+          4,
+          1
+        ],
+        "base": [
+          [
+            2,
+            1
+          ],
+          [
+            8,
+            1
+          ]
+        ],
+        "labels": {
+          "altitude": "高4 cm"
+        },
+        "object_points": [
+          [
+            2,
+            1
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            4,
+            5
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p035_s06",
+      "book_page": 35,
+      "source_page": 39,
+      "section_index": 5,
+      "id": "四、2（3）",
+      "kind": "drawing",
+      "question_latex": "在下面的点子图中画一画。（每相邻的两个点之间的距离是1 cm）（3）画一个底和高都是3 cm的钝角三角形。（9分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p035_s06_g1",
+          "tikz": "\\begin{tikzpicture}\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}{\\fill(\\x*.55,\\y*.55)circle(1pt);}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p035_s06_a1",
+          "tikz": "\\begin{tikzpicture}[x=.55cm,y=.55cm]\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}{\\fill(\\x,\\y)circle(1pt);}\\draw[red](2,1)--(5,1)--(7,4)--cycle;\\draw[red,dashed](5,1)--(7,1)--node[right]{高3 cm}(7,4);\\draw[red](6.75,1)--(6.75,1.25)--(7,1.25);\\node[red,below]at(3.5,1){底3 cm};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "看原图③：底边横跨3格。第三个顶点选在与底所在横线相隔3行、位于底边右端外侧上方的格点，再连接两端点。\\par 从该顶点向底所在横线作垂线，高落在底边向右的延长线上，长度为3格；底边右端的内角是钝角，符合“底和高都是3厘米的钝角三角形”。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_lines_original": [
+          {
+            "vertex": [
+              265.71,
+              355.71
+            ],
+            "foot": [
+              265.71,
+              439.29
+            ]
+          }
+        ],
+        "altitude_regions": [
+          [
+            263.71,
+            353.71,
+            267.71,
+            441.29
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "altitude",
+        "vertex": [
+          7,
+          4
+        ],
+        "foot": [
+          7,
+          1
+        ],
+        "base": [
+          [
+            2,
+            1
+          ],
+          [
+            5,
+            1
+          ]
+        ],
+        "labels": {
+          "base": "底3 cm",
+          "altitude": "高3 cm"
+        },
+        "object_points": [
+          [
+            2,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            7,
+            4
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p035_s07",
+      "book_page": 35,
+      "source_page": 39,
+      "section_index": 6,
+      "id": "四、3",
+      "kind": "drawing",
+      "question_latex": "已知线段\\(AB=3\\text{ cm}\\)，请用直尺和圆规以\\(AB\\)为边，画一个等边三角形。（保留作图痕迹）（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p035_s07_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(3,0);\\node[above]at(0,0){$A$};\\node[above]at(3,0){$B$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p035_s07_a1",
+          "tikz": "\\begin{tikzpicture}\\coordinate(A)at(0,0);\\coordinate(B)at(3,0);\\coordinate(C)at(1.5,2.598);\\draw(A)--(B);\\draw[red](A)--(C)--(B);\\draw[red,dashed](30:3)arc(30:80:3);\\draw[red,dashed]($(B)+(100:3)$)arc(100:150:3);\\node[below]at(A){$A$};\\node[below]at(B){$B$};\\node[above]at(C){$C$};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "先用圆规直接截取线段AB的长度，随后保持圆规两脚间距不变；直尺用于连接点。\\par 以\\(A\\)为圆心、\\(AB=3\\)厘米为半径画弧；再以\\(B\\)为圆心、同样半径画弧，两弧交于\\(C\\)。连接\\(AC,BC\\)。因为\\(AC=AB=BC=3\\)厘米，得到等边三角形。必须保留两段相交圆弧；弧的交点就是三角形顶点。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p035_s08",
+      "book_page": 35,
+      "source_page": 39,
+      "section_index": 7,
+      "id": "五、1",
+      "kind": "application",
+      "question_latex": "小明在打扫教室卫生时，不小心打碎了班级里的三角形玻璃教具，如图所示。你能帮他算出破碎角的度数吗？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p035_s08_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(4,4)--(5.4,1.2)--(5.18,.95)--(5.45,.82)--(5.16,.7)--(5.39,.5)--(5,.45)--(5,0)--cycle;\\node at(1,.4){$46^\\circ$};\\node at(3.95,3.2){$67^\\circ$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "所缺角＝180度－另外两个已知内角的和。\\par 主解：从内角和依次减去两个已知角\\par \\[\\begin{aligned} &180^\\circ-46^\\circ-67^\\circ\\\\={}&134^\\circ-67^\\circ\\\\={}&67^\\circ\\end{aligned}\\]答：破碎角的度数是67度。\\par 同一思路的合并计算：先求两个已知角的和\\par \\[\\begin{aligned} &180^\\circ-(46^\\circ+67^\\circ)\\\\={}&180^\\circ-113^\\circ\\\\={}&67^\\circ\\end{aligned}\\]答：破碎角的度数是67度。\\par 检验：\\(46^\\circ+67^\\circ+67^\\circ=180^\\circ\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

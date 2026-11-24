@@ -1,0 +1,154 @@
+{
+  "qa_type": "人工查看本次导出的PNG版面",
+  "run": "project/detailed_layout/runs/simplify_20261104/previews",
+  "checked_book_pages": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    11,
+    15,
+    19,
+    20,
+    23,
+    27,
+    28,
+    32,
+    94,
+    104,
+    107,
+    108
+  ],
+  "checked_image_count": 17,
+  "method": "逐张通过view_image实际查看17张完整预览图；核对新增旁注、公式显示与对齐、题间遮挡裁切、补丁重复及指定两页红主式。",
+  "verdict": "通过本次17张图的目视版面检查；未发现需返修的遮挡、重叠、裁切、缺字、重复补丁或新增公式对齐问题。",
+  "issues": [],
+  "pages": [
+    {
+      "book_page": 3,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p003.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "新增减差法及76×75凑300的旁注与公式均在题间空隙；第三行原题和应用题均完整，公式等号及首数对齐。"
+    },
+    {
+      "book_page": 4,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p004.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "新增连减及两道糖果题的除法简算均完整呈现；24=3×8及连除3、8的步骤清楚；原题、票价表、扑克牌未遮挡。"
+    },
+    {
+      "book_page": 6,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p006.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "羽毛球另一算法、25×2×2凑100及抵消25的提示均在对应题旁；选择项与后续题干完整，等号对齐。"
+    },
+    {
+      "book_page": 7,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p007.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "25×21拆20+1的旁注位于对应两题之间；原红主步骤与分析树均保留，无相邻公式相撞。"
+    },
+    {
+      "book_page": 8,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p008.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "共享菜园的66×(5×8)凑40及城墙合并除数凑20均显示；优惠条件、题目图和后续括号枚举完整。"
+    },
+    {
+      "book_page": 11,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p011.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "21×45凑900的旁注在该题解析后；三道原计算题及几何图完整，无公式与图重叠。"
+    },
+    {
+      "book_page": 15,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p015.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "219补成220及减差后凑100的步骤显示完整；原题黑字和几何图均未覆盖，新增等号对齐。"
+    },
+    {
+      "book_page": 19,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p019.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "80×69补成70及85×4÷20约去4的步骤完整，原题、原红主步骤及下方应用题均保留。"
+    },
+    {
+      "book_page": 20,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p020.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "60÷3×4的简算旁注完整；前后毛毯题、相遇线段图和旅游题均可辨，无重叠裁切。"
+    },
+    {
+      "book_page": 23,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p023.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "8×75凑300及59×17补成60均显示于对应题间；口算题、下方相遇与同向题完整。"
+    },
+    {
+      "book_page": 27,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p027.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "原9道简算式完整，新增除以35时化除70及机器人数量的等值简算在对应旁注内；未见补丁整块重复。"
+    },
+    {
+      "book_page": 28,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p028.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "各应用题的凑整表达与另一数量路径完整；答案单位、答语及题号没有被遮盖。"
+    },
+    {
+      "book_page": 32,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p032.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "重点核对红主式：41×18+18×19=(41+19)×18=60×18=1080，显示完整且等号/数字列对齐；竖分及补形两法、原L形尺寸图均清楚。"
+    },
+    {
+      "book_page": 94,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p094.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "平均身高的基准140差量法及总身高法都完整；前后选择题、旋转图、竖式和数值未受遮挡。"
+    },
+    {
+      "book_page": 104,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p104.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "各应用题新增/改写旁注与公式分开显示；袜子题分为单位的计算有单位标注，票价/数量等原题和答语完整。"
+    },
+    {
+      "book_page": 107,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p107.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "重点核对两块红主式：180+19×180=(1+19)×180=3600；25×201−25=25×(201−1)=5000。等号左列与首数列齐，未残留旧错误红步骤；下方两种路线图及说明完整。"
+    },
+    {
+      "book_page": 108,
+      "image_path": "/workspace/scratch/1facfb035d44/simplify_review/project/detailed_layout/runs/simplify_20261104/previews/p108.png",
+      "actually_viewed": true,
+      "verdict": "pass",
+      "observations": "读书题先除后乘简算、校服凑100及修路以800为基准的步骤均完整；原题、年龄统计表和答案保留，无遮挡裁切。"
+    }
+  ],
+  "limitations": [
+    "本次检查对象是实际导出PNG，不等同于在PowerPoint中测试动画。",
+    "目视检查17张指定改页，不宣称人工浏览本书其余全部页面。",
+    "图形本身的历史几何A/B争议不属本次改动，未据此改动源文件。"
+  ],
+  "source_modified": false
+}

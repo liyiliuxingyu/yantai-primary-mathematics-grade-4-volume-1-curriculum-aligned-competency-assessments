@@ -1,0 +1,5882 @@
+{
+  "passed": true,
+  "baseline_pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "pdf_sha256": "a171f4fbe834ad9963d709d86b7b4c0bb88f84cc9025b57acac35a07000ffa90",
+  "question_pages": 108,
+  "non_note_original_roots_checked": 869,
+  "recursive_indirect_nodes_checked": 6657,
+  "decoded_streams_hashed": 11160,
+  "ignored_serialization_keys": [
+    "/Length",
+    "/Filter"
+  ],
+  "outer_matrix_checked_separately": true,
+  "original_black_questions_diagrams_and_calculation_forms_unchanged": true,
+  "permitted_original_prose_masks": 42,
+  "prose_mask_scope": "Separate white page overlays only; original Form graphs are retained unchanged.",
+  "checks": [
+    {
+      "book_page": 1,
+      "pdf_page": 5,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 2,
+      "pdf_page": 6,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 3,
+      "pdf_page": 7,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm56",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm59",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm62",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm64",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm65",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 4,
+      "pdf_page": 8,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 5,
+      "pdf_page": 9,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 4.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 4.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 3.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 3.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 3.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm40",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm41",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 6,
+      "pdf_page": 10,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 7,
+      "pdf_page": 11,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm40",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm43",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm46",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm48",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm49",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 8,
+      "pdf_page": 12,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 9,
+      "pdf_page": 13,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 29.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 16.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 10,
+      "pdf_page": 14,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 3.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 11,
+      "pdf_page": 15,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 5.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 5.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 12,
+      "pdf_page": 16,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 13,
+      "pdf_page": 17,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 14,
+      "pdf_page": 18,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 15,
+      "pdf_page": 19,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 16,
+      "pdf_page": 20,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 17,
+      "pdf_page": 21,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 4.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 4.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 18,
+      "pdf_page": 22,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 3.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 3.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 19,
+      "pdf_page": 23,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 20,
+      "pdf_page": 24,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 21,
+      "pdf_page": 25,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 22,
+      "pdf_page": 26,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 23,
+      "pdf_page": 27,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 22.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 24,
+      "pdf_page": 28,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 25,
+      "pdf_page": 29,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 7.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 26,
+      "pdf_page": 30,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 65.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 65.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 52.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 27,
+      "pdf_page": 31,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 28,
+      "pdf_page": 32,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 29,
+      "pdf_page": 33,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 22.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 22.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 22.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 30,
+      "pdf_page": 34,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 31,
+      "pdf_page": 35,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 20.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 20.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 32,
+      "pdf_page": 36,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm39",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm41",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm43",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm44",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 33,
+      "pdf_page": 37,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 30.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 34,
+      "pdf_page": 38,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 35,
+      "pdf_page": 39,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 32.0
+        },
+        {
+          "name": "fzFrm7",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 32.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 36,
+      "pdf_page": 40,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 37,
+      "pdf_page": 41,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 38,
+      "pdf_page": 42,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm7",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 25.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 39,
+      "pdf_page": 43,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 40,
+      "pdf_page": 44,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 41,
+      "pdf_page": 45,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 42,
+      "pdf_page": 46,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm38",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm40",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm42",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm44",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm47",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm49",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 16.0
+        },
+        {
+          "name": "fzFrm52",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm55",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm56",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 43,
+      "pdf_page": 47,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 44,
+      "pdf_page": 48,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm38",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm40",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm42",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm44",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm45",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 45,
+      "pdf_page": 49,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 28.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 46,
+      "pdf_page": 50,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 43.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 43.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 43.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 43.0
+        },
+        {
+          "name": "fzFrm38",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 43.0
+        },
+        {
+          "name": "fzFrm40",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 30.0
+        },
+        {
+          "name": "fzFrm43",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 30.0
+        },
+        {
+          "name": "fzFrm45",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 30.0
+        },
+        {
+          "name": "fzFrm47",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm50",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm53",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm54",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 47,
+      "pdf_page": 51,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 48,
+      "pdf_page": 52,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 49,
+      "pdf_page": 53,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 90.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 90.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 90.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 90.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 59.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 57.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 50,
+      "pdf_page": 54,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 51,
+      "pdf_page": 55,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm7",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 52,
+      "pdf_page": 56,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 53,
+      "pdf_page": 57,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 54,
+      "pdf_page": 58,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 55,
+      "pdf_page": 59,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm7",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 56,
+      "pdf_page": 60,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 57,
+      "pdf_page": 61,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 35.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 35.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 35.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 35.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 35.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 58,
+      "pdf_page": 62,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 59,
+      "pdf_page": 63,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 16.0
+        },
+        {
+          "name": "fzFrm39",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm42",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm44",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm46",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm48",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm49",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 60,
+      "pdf_page": 64,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 61,
+      "pdf_page": 65,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 4.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 62,
+      "pdf_page": 66,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 63,
+      "pdf_page": 67,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 16.0
+        },
+        {
+          "name": "fzFrm52",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 16.0
+        },
+        {
+          "name": "fzFrm55",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm58",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm60",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm62",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm63",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 64,
+      "pdf_page": 68,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 65,
+      "pdf_page": 69,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm7",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 66,
+      "pdf_page": 70,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 31.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 29.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 67,
+      "pdf_page": 71,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 36.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 36.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 36.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 68,
+      "pdf_page": 72,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 69,
+      "pdf_page": 73,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 70,
+      "pdf_page": 74,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 33.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 71,
+      "pdf_page": 75,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 32.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 72,
+      "pdf_page": 76,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm7",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 17.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 73,
+      "pdf_page": 77,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 74,
+      "pdf_page": 78,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 40.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 75,
+      "pdf_page": 79,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 41.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 76,
+      "pdf_page": 80,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 77,
+      "pdf_page": 81,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 37.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 24.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 24.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 11.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 11.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 11.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 11.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 78,
+      "pdf_page": 82,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 79,
+      "pdf_page": 83,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 23.0
+        },
+        {
+          "name": "fzFrm9",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 23.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 23.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 80,
+      "pdf_page": 84,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 81,
+      "pdf_page": 85,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 82,
+      "pdf_page": 86,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 21.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 20.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 20.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 5.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 5.0
+        },
+        {
+          "name": "fzFrm40",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 3.0
+        },
+        {
+          "name": "fzFrm44",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm45",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 83,
+      "pdf_page": 87,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 4.0
+        },
+        {
+          "name": "fzFrm58",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm60",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm62",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm64",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm65",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 84,
+      "pdf_page": 88,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 85,
+      "pdf_page": 89,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 33.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 33.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 6.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 6.0
+        },
+        {
+          "name": "fzFrm24",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 86,
+      "pdf_page": 90,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 34.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 34.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 34.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 21.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 7.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 7.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 7.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 87,
+      "pdf_page": 91,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm7",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 88,
+      "pdf_page": 92,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 89,
+      "pdf_page": 93,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 90,
+      "pdf_page": 94,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 32.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 19.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 91,
+      "pdf_page": 95,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 11.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 11.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 92,
+      "pdf_page": 96,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 93,
+      "pdf_page": 97,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 94,
+      "pdf_page": 98,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 45.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 45.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 32.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 32.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 32.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 95,
+      "pdf_page": 99,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm34",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm38",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 96,
+      "pdf_page": 100,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm22",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 97,
+      "pdf_page": 101,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 98,
+      "pdf_page": 102,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm11",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm13",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm15",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm26",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 99,
+      "pdf_page": 103,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 18.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 5.0
+        },
+        {
+          "name": "fzFrm31",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm36",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 100,
+      "pdf_page": 104,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm23",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm28",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm33",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 101,
+      "pdf_page": 105,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 39.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 13.0
+        },
+        {
+          "name": "fzFrm16",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 102,
+      "pdf_page": 106,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 15.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm19",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 103,
+      "pdf_page": 107,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm25",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm27",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm29",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 26.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 3.0
+        },
+        {
+          "name": "fzFrm41",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm42",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 104,
+      "pdf_page": 108,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 11.0
+        },
+        {
+          "name": "fzFrm44",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 11.0
+        },
+        {
+          "name": "fzFrm46",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm48",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm50",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm52",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm53",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 105,
+      "pdf_page": 109,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 2.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm20",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm21",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 106,
+      "pdf_page": 110,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 27.0
+        },
+        {
+          "name": "fzFrm6",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm8",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 14.0
+        },
+        {
+          "name": "fzFrm10",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm12",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm14",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm17",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm18",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 107,
+      "pdf_page": 111,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 48.0
+        },
+        {
+          "name": "fzFrm46",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 48.0
+        },
+        {
+          "name": "fzFrm50",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 32.0
+        },
+        {
+          "name": "fzFrm53",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 16.0
+        },
+        {
+          "name": "fzFrm56",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 1.0
+        },
+        {
+          "name": "fzFrm59",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm60",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    },
+    {
+      "book_page": 108,
+      "pdf_page": 112,
+      "non_note_roots": [
+        {
+          "name": "fzFrm0",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm30",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm32",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm35",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm37",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm39",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        },
+        {
+          "name": "fzFrm40",
+          "decoded_graph_identical": true,
+          "matrix_matches_recorded_vertical_translation": true,
+          "expected_shift": 0.0
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,41 @@
+{
+  "scope": "Only page78 question4 conclusion and answer-slot text; original question/options and existing positive analysis retained.",
+  "classroom_answer": "B",
+  "changes": [
+    {
+      "slide": 126,
+      "part_number": 124,
+      "record_key": "p078_s04",
+      "shape_id": 16,
+      "name": "p078_s04_b002_4_p0",
+      "rect": [
+        64,
+        420.5,
+        1152,
+        58
+      ],
+      "text": "因此选B。",
+      "points": 32,
+      "native_timing_unchanged": true
+    },
+    {
+      "slide": 127,
+      "part_number": 125,
+      "record_key": "p078_s04",
+      "shape_id": 9,
+      "name": "p078_s04_b003_2_p1_answer",
+      "rect": [
+        238.3,
+        274.5,
+        51.3,
+        58
+      ],
+      "text": "B",
+      "points": 32,
+      "native_timing_unchanged": true
+    }
+  ],
+  "reason": "甲比平均年龄多6岁，乙比平均年龄少6岁。把甲多出的6岁补给乙，两人都等于平均年龄，总年龄不变，丙也必须等于平均年龄。因此选B。",
+  "original_option_D_retained": true,
+  "actual_specific_age_not_inferred": true
+}

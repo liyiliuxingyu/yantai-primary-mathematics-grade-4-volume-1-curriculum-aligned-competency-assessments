@@ -1,0 +1,9 @@
+\begin{tikzpicture}[x=.16bp,y=1bp,font=\small\kaishu,inner sep=1pt,outer sep=0pt,line width=.48bp,color=red!80!black]
+\draw (0,0)--(1300,0); \draw[dashed,->] (1300,0)--(1415,0);
+\foreach \x in {0,1100,1300} {\draw (\x,-2)--(\x,2);}
+\node[left] at (0,0){中心花园}; \node[right] at (1415,0){学校方向};
+\node[above] at (1100,3){乐乐}; \node[above] at (1300,3){欢欢};
+\draw[decorate,decoration={brace,amplitude=3bp}] (0,17)--node[midway,above=4bp]{$(260\times5)$米}(1300,17);
+\draw[decorate,decoration={brace,amplitude=3bp,mirror}] (0,-4)--node[midway,below=4bp]{$(220\times5)$米}(1100,-4);
+\draw[decorate,decoration={brace,amplitude=3bp,mirror}] (1100,-4)--node[midway,below=4bp]{$?$米}(1300,-4);
+\end{tikzpicture}

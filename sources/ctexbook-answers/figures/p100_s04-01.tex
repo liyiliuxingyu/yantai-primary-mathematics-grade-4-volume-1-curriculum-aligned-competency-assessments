@@ -1,0 +1,10 @@
+\begin{tikzpicture}[x=.36bp,y=1bp,font=\small\kaishu,inner sep=1pt,outer sep=0pt,line width=.48bp,color=red!80!black]
+\draw (0,0)--(720,0);
+\foreach \x in {0,90,180,270,510,580,650,720} {\draw (\x,-2)--(\x,2);}
+\node[left] at (0,0){青岛}; \node[right] at (720,0){上海};
+\node[left] at (0,12){甲}; \node[right] at (720,12){乙};
+\draw[decorate,decoration={brace,amplitude=3bp}] (0,4)--node[midway,above=4bp]{$90$千米}(90,4);
+\draw[decorate,decoration={brace,amplitude=3bp}] (270,4)--node[midway,above=4bp]{$240$千米}(510,4);
+\draw[decorate,decoration={brace,amplitude=3bp}] (650,4)--node[midway,above=4bp]{$?$千米}(720,4);
+\draw[decorate,decoration={brace,amplitude=3bp,mirror}] (0,-4)--node[midway,below=4bp]{$720$千米}(720,-4);
+\end{tikzpicture}

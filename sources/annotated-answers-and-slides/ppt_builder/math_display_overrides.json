@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p040_s01": {
+      "replacement_answer_latex": "方法一：先用三角形内角和求\\(\\angle3\\)，再用平角求\\(\\angle4\\)。\\[\\begin{aligned}&\\angle3\\\\={}&180^\\circ-75^\\circ-60^\\circ\\\\={}&105^\\circ-60^\\circ\\\\={}&45^\\circ,\\\\&\\angle4\\\\={}&180^\\circ-45^\\circ\\\\={}&135^\\circ.\\end{aligned}\\]\\par 方法二：比较三角形的内角和与底边上的平角，去掉共同的\\(\\angle3\\)，便知\\(\\angle4\\)等于另外两个内角的和。\\[\\begin{aligned}&\\angle4\\\\={}&75^\\circ+60^\\circ\\\\={}&135^\\circ,\\\\&\\angle3\\\\={}&180^\\circ-135^\\circ\\\\={}&45^\\circ.\\end{aligned}\\]\\par 答：\\(\\angle3=45^\\circ,\\angle4=135^\\circ\\)，关系为\\(\\angle4=\\angle1+\\angle2\\)。这里从已学的内角和、平角推得关系，不要求背诵新的定理名称。",
+      "source_answer_sha256": "1f5a4395242e0f4e4b9b3964287cc1b49e5f6f47b2976a54c6088c2fb914b122",
+      "note": "仅规范原式独行与后续等号左列，不改数值/方法/数量关系。"
+    },
+    "p049_s03": {
+      "replacement_answer_latex": "依次填\\(16.8,17,9.95,10.0\\)。先准确改写，每10000合成1万、每100000000合成1亿：\\[\\begin{aligned}168000&=(168000\\div10000)\\text{万}=16.8\\text{万}\\\\995000000&=(995000000\\div100000000)\\text{亿}=9.95\\text{亿}\\end{aligned}\\]再求近似数。16.8保留整数看十分位8，向个位进1；9.95保留一位小数看百分位5，连续进位。\\[\\begin{aligned}16.8\\text{万}&\\approx17\\text{万}\\\\9.95\\text{亿}&\\approx10.0\\text{亿}\\end{aligned}\\]准确改写用等号，求近似数用约等号。10.0末尾的0必须保留，表示保留一位小数；原空后已有单位，只填数。",
+      "source_answer_sha256": "b2e148df9db7ca867e3bf8c8ee337fddce9e1deacddebabe615c7fe1e7442600",
+      "note": "仅规范原式独行与后续等号左列，不改数值/方法/数量关系。",
+      "unit_format_sync": "Approved current answer is authoritative; conversion LHS is not split away from its RHS."
+    },
+    "p090_s02": {
+      "replacement_answer_latex": "原选项均不成立。由从低到高排列得\\(81\\le a\\le87\\)。先求其他四项和，按加法交换律、结合律分组：\\[\\begin{aligned}&73+81+87+95\\\\={}&(73+87)+(81+95)\\\\={}&160+176\\\\={}&336\\end{aligned}\\]最小平均数：\\[\\begin{aligned}&(336+81)\\div5\\\\={}&417\\div5\\\\={}&83.4\\text{(下)}\\end{aligned}\\]最大平均数：\\[\\begin{aligned}&(336+87)\\div5\\\\={}&423\\div5\\\\={}&84.6\\text{(下)}\\end{aligned}\\]因此平均数在83.4至84.6下之间；72、85、95、96均不符合。题目未要求取整，不能自行把84.6约为85。",
+      "source_answer_sha256": "3e1c19bce21171a746e13a24e47036a9b686ae21352c554e84d5e72b6bca0273",
+      "note": "仅规范原式独行与后续等号左列，不改数值/方法/数量关系。",
+      "unit_format_sync": "Approved current answer is authoritative; conversion LHS is not split away from its RHS."
+    },
+    "p082_s02": {
+      "replacement_answer_latex": "选B。利用乘法交换律、分配律，把\\(602\\)拆成\\(600+2\\)：\\[\\begin{aligned}&602\\times32\\\\={}&32\\times(600+2)\\\\={}&32\\times600+32\\times2\\end{aligned}\\]A只加了\\(32\\)，少加一个\\(32\\)；C把应有的\\(32\\times600\\)错写为\\(32+600\\)。",
+      "source_answer_sha256": "2f006a416f3f364d620296b764767f4f80864b483642d04ad40c666a4c99937e",
+      "note": "仅规范原式独行与后续等号左列，不改数值/方法/数量关系。"
+    },
+    "p061_s13": {
+      "replacement_answer_latex": "数列每次减\\(0.03\\)。两空依次计算：\\[\\begin{aligned}&5.13-0.03\\\\={}&5.10\\\\&5.10-0.03\\\\={}&5.07\\end{aligned}\\]所以填\\(5.10\\)、\\(5.07\\)；\\(5.10=5.1\\)。",
+      "source_answer_sha256": "ee75093c4cb6386616f2c1cb67f13712a7d2a1679b6b137d25a1be34dd0bedf1",
+      "note": "仅规范原式独行与后续等号左列，不改数值/方法/数量关系。"
+    },
+    "p055_s02": {
+      "replacement_answer_latex": "改写成“万”作单位时除以10000，改写成“亿”作单位时除以100000000。\\[\\begin{aligned}&327900\\\\={}&32.79\\text{万}\\\\32.79\\text{万}&\\approx32.8\\text{万}\\\\&25499270000\\\\={}&254.9927\\text{亿}\\\\254.9927\\text{亿}&\\approx255.0\\text{亿}\\end{aligned}\\]保留一位小数时，\\(255.0\\)末尾的0必须保留，表示精确程度。改写单位没有改变数的大小，用“=”；求近似数才用“≈”。保留一位小数须观察百分位，\\(254.9927\\)的百分位9使十分位进1，连续进位后写\\(255.0\\)，不能写成255。",
+      "source_answer_sha256": "b5ccb9ca13261833e264fc3ae6d43fb6d7179d44ffac948a9459fb7c502a10e4",
+      "note": "仅规范原式独行与后续等号左列，不改数值/方法/数量关系。"
+    },
+    "p047_s03": {
+      "replacement_answer_latex": "方法一：先用平角求\\(\\angle2\\)，再用三角形内角和求\\(\\angle1\\)。\\[\\begin{aligned}&\\angle2\\\\={}&180^\\circ-138^\\circ\\\\={}&42^\\circ,\\\\&\\angle1\\\\={}&180^\\circ-61^\\circ-42^\\circ\\\\={}&119^\\circ-42^\\circ\\\\={}&77^\\circ.\\end{aligned}\\]\\par 方法二：把三角形的三个内角与底边上的平角比一比，去掉两边共同的\\(\\angle2\\)，可知\\(\\angle1\\)和\\(61^\\circ\\)合起来等于\\(138^\\circ\\)。\\[\\begin{aligned}&\\angle1\\\\={}&138^\\circ-61^\\circ\\\\={}&77^\\circ.\\end{aligned}\\]\\par 答：\\(\\angle1=77^\\circ\\)。第二法的依据仍是已学的“内角和180度”与“平角180度”。",
+      "source_answer_sha256": "0e5fef0b549aff09e19e6dbed6ab485dab124e8cad5fc274794e133d8c489844",
+      "note": "仅规范原式独行与后续等号左列，不改数值/方法/数量关系。"
+    }
+  },
+  "scope": "9条含首行lhs&=rhs的脱式段；不拆p075两个独立同级等式，不改黑色原题给定等式。"
+}

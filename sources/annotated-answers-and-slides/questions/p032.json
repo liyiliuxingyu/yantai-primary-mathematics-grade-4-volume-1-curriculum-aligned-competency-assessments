@@ -1,0 +1,128 @@
+{
+  "book_page": 32,
+  "source_page": 36,
+  "records": [
+    {
+      "key": "p032_s01",
+      "book_page": 32,
+      "source_page": 36,
+      "section_index": 0,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "2026年山东省足球超级联赛吉祥物“子竞”融合蹴鞠与现代足球元素。某赛事特许商店一天卖出“子竞”摆件和挂件各120个，每个摆件58元，每个挂件42元。这些摆件和挂件一共卖了多少元？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：每种取1个配成一组，先求每组价格。\\[\\begin{aligned}&(58+42)\\times120\\\\={}&100\\times120\\\\={}&12000\\text{(元)}\\end{aligned}\\]答：这些摆件和挂件一共卖了12000元。\\par 方法二：分别计价列式，反用乘法分配律凑100。\\[\\begin{aligned}&58\\times120+42\\times120\\\\={}&(58+42)\\times120\\\\={}&100\\times120\\\\={}&12000\\text{(元)}\\end{aligned}\\]答：这些摆件和挂件一共卖了12000元。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "简便计算复核：主法58+42凑100已简便。另法分别算6960与5040，改为两类收入列式后反用乘法分配律凑100，保留分别计价的数量思路。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p032_s02",
+      "book_page": 32,
+      "source_page": 36,
+      "section_index": 1,
+      "id": "五、3（1）",
+      "kind": "application",
+      "question_latex": "学校为课后延时服务的阅读社团采购图书，一共采购了12箱。每箱有25套书，每套有4本。（1）阅读社团一共采购了多少本图书？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先算每箱多少本\\par \\[\\begin{aligned} &4\\times25\\times12\\\\={}&100\\times12\\\\={}&1200\\text{(本)}\\end{aligned}\\]答：一共采购了1200本图书。\\par 方法二：先算共有多少套\\par \\[\\begin{aligned}&4\\times(25\\times12)\\\\={}&(4\\times25)\\times12\\\\={}&100\\times12\\\\={}&1200\\text{(本)}\\end{aligned}\\]答：一共采购了1200本图书。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "本轮复核：与已采纳p027_s11同类：先按总套数列式的数量思路可保留，但计算先凑4×25=100，避免先做25×12。这不另算第3种数量方法。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p032_s03",
+      "book_page": 32,
+      "source_page": 36,
+      "section_index": 2,
+      "id": "五、3（2）",
+      "kind": "application",
+      "question_latex": "学校为课后延时服务的阅读社团采购图书，一共采购了12箱。每箱有25套书，每套有4本。（2）这些图书要分给阅读社团15个班级，每个班级有8个读书小组，平均每个读书小组分到多少本图书？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先求总小组数\\par \\[\\begin{aligned} &1200\\div(8\\times15)\\\\={}&1200\\div120\\\\={}&10\\text{(本)}\\end{aligned}\\]答：平均每个读书小组分到10本图书。\\par 方法二：先平均分到班，再分到组\\par \\[\\begin{aligned} &1200\\div15\\div8\\\\={}&80\\div8\\\\={}&10\\text{(本)}\\end{aligned}\\]答：平均每个读书小组分到10本图书。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p032_s04",
+      "book_page": 32,
+      "source_page": 36,
+      "section_index": 3,
+      "id": "五、4",
+      "kind": "application",
+      "question_latex": "学校“悦心农场”的一块劳动试验田如图所示，同学们计划在这里种植烟台特色的苹果树苗。这块劳动试验田的面积是多少平方米？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p032_s04_g1",
+          "tikz": "\\begin{tikzpicture}[x=.12cm,y=.12cm]\\draw(0,0)--(41,0)--(41,18)--(18,18)--(18,37)--(0,37)--cycle;\\draw[<->](0,40)--node[above]{18 m}(18,40);\\draw[<->](21,18)--node[right]{19 m}(21,37);\\draw[<->](44,0)--node[right]{18 m}(44,18);\\draw[<->](0,-3)--node[below]{41 m}(41,-3);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "图中上方左块宽18米、高19米；下方横条长41米、高18米。\\par 方法一：横向分成两个长方形，反用乘法分配律把41与19凑成60。\\par \\[\\begin{aligned}&41\\times18+18\\times19\\\\={}&(41+19)\\times18\\\\={}&60\\times18\\\\={}&1080\\text{(平方米)}\\end{aligned}\\]答：劳动试验田的面积是1080平方米。\\par 方法二：纵向分割，两块的另一条边都为18米；先同时算19加18与41减18，再合并共同因数。\\par \\[\\begin{aligned}&18\\times(19+18)+(41-18)\\times18\\\\={}&18\\times37+23\\times18\\\\={}&(37+23)\\times18\\\\={}&60\\times18\\\\={}&1080\\text{(平方米)}\\end{aligned}\\]答：劳动试验田的面积是1080平方米。\\par 方法三：补成大长方形后减缺角，展开后消去相同的41乘19，再凑60。\\par \\[\\begin{aligned}&41\\times(19+18)-(41-18)\\times19\\\\={}&41\\times19+41\\times18-(41\\times19-18\\times19)\\\\={}&41\\times18+18\\times19\\\\={}&(41+19)\\times18\\\\={}&60\\times18\\\\={}&1080\\text{(平方米)}\\end{aligned}\\]答：劳动试验田的面积是1080平方米。\\par 这三种是不同的几何分割或补形路径；运算律变形不另算新的几何方法。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "简便计算复核：横向主法原红仍先求738与342；纵向另法求666与414；补形另法求1517与437。三种几何路径都保留，计算用分配律合并共同18并凑41+19=60；补形法先展开、去掉相同面积再凑60。删除把横分简算又列作第四个方法的重复。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

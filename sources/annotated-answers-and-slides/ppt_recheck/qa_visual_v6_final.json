@@ -1,0 +1,113 @@
+{
+  "passed": true,
+  "reviewer": "ppt_v3_4_independent",
+  "volume": 6,
+  "output_sha256": "bf0549b15f64ce932b5ce40580da1793e66fb0d51d4ae65d4d6484e7f4d1086a",
+  "previous_review": "qa_visual_v6_independent.json",
+  "actual_final_revision_slides_viewed": [
+    244,
+    353,
+    354,
+    361,
+    453
+  ],
+  "actual_final_revision_slide_count": 5,
+  "unchanged_modified_slides_compared": [
+    11,
+    12,
+    13,
+    182,
+    245,
+    362,
+    454
+  ],
+  "unchanged_adjacent_answer_slide_compared": 355,
+  "rows": [
+    {
+      "slide": 244,
+      "actual_final_revision_image": "p74_review/ppt_recheck/after_late_r2_v6/slide-244.png",
+      "image_sha256": "fef763d2d5c43793934c6097c3c0a83f70c35875f5fd6c1aa4d2e3fc766659b0",
+      "individually_viewed": true,
+      "passed": true
+    },
+    {
+      "slide": 353,
+      "actual_final_revision_image": "p74_review/ppt_recheck/after_late_r2_v6/slide-353.png",
+      "image_sha256": "68202a4a69afe7544f54afdc3772972948cdb9e4c87fea5f1ab72a8c202b74a3",
+      "individually_viewed": true,
+      "passed": true
+    },
+    {
+      "slide": 354,
+      "actual_final_revision_image": "p74_review/ppt_recheck/after_late_r2_v6/slide-354.png",
+      "image_sha256": "a8fcde4a1c0162e5108f2a320607af20e1913f71d4d3e3f1a62b13069104b137",
+      "individually_viewed": true,
+      "passed": true
+    },
+    {
+      "slide": 361,
+      "actual_final_revision_image": "p74_review/ppt_recheck/after_late_r2_v6/slide-361.png",
+      "image_sha256": "899b7f8bbe9ec8526cf2a8b909bb39356ef8dadb330ca32a66c90708a15a4e92",
+      "individually_viewed": true,
+      "passed": true
+    },
+    {
+      "slide": 453,
+      "actual_final_revision_image": "p74_review/ppt_recheck/after_late_r2_v6/slide-453.png",
+      "image_sha256": "b8cf71d35141cfd30d1afec06161b9402fa8baf5d9db49a6ea1e23e4d3c14a59",
+      "individually_viewed": true,
+      "passed": true
+    }
+  ],
+  "xml_scope_comparison": [
+    {
+      "slide": 11,
+      "xml_byte_identical_to_individually_reviewed_r1": true,
+      "xml_sha256": "ed2d90105a591fba810e9e7881add33ba855321b70bd1e5e239c8bf8b7a9c3d7"
+    },
+    {
+      "slide": 12,
+      "xml_byte_identical_to_individually_reviewed_r1": true,
+      "xml_sha256": "e3234e8be6a17bbe2127ecb0c95321b98c24ab0104fe03fa2dfb8e50330c99ba"
+    },
+    {
+      "slide": 13,
+      "xml_byte_identical_to_individually_reviewed_r1": true,
+      "xml_sha256": "6a140f011a6852bc8075d89d417837cf03edd9b26c57d15cf2ebc055b488b1cd"
+    },
+    {
+      "slide": 182,
+      "xml_byte_identical_to_individually_reviewed_r1": true,
+      "xml_sha256": "eb5511708faf00e009282b490fdb80c1175d4cf84635fb861ef3e29ecfdc900f"
+    },
+    {
+      "slide": 245,
+      "xml_byte_identical_to_individually_reviewed_r1": true,
+      "xml_sha256": "7fb3aa5543c6dda81edb722bce65b2866ea3fed080a196d4c477d9a2cb296301"
+    },
+    {
+      "slide": 362,
+      "xml_byte_identical_to_individually_reviewed_r1": true,
+      "xml_sha256": "52e3852c9469a4fd12b508a56b704b28ad88e88ba839cb69ad27a4dba14bc605"
+    },
+    {
+      "slide": 454,
+      "xml_byte_identical_to_individually_reviewed_r1": true,
+      "xml_sha256": "45d3f82e3f53d1771a2e8b423458fc50d9092b4846999a8d20f7a2a8f7538864"
+    },
+    {
+      "slide": 355,
+      "xml_byte_identical_to_individually_reviewed_r1": true,
+      "xml_sha256": "c4c73ec7e7a703c3fe137527fa77f644ef277b71864f858d8d6f80d5c2cffb2b"
+    }
+  ],
+  "findings": [
+    "5张r2图均已实际逐张查看，列式一/二及共同计算措辞清楚，数学值和结构保持。",
+    "11/12/13/182/245/362/454与已逐张实看的r1 slide XML字节一致。",
+    "104页第3题的完整答语仍在355，该页与已实际查看的r1字节一致。",
+    "未发现新增遮挡、裁切、错位、缺字或不连贯之处。"
+  ],
+  "powerpoint_playback_tested": false,
+  "source_modified": false,
+  "scope": "Final wording-only revision visual check for5 slides plus exact slide XML comparison for7 previously reviewed changed slides and one adjacent answer slide; not new whole-deck render or PowerPoint/WPS playback."
+}

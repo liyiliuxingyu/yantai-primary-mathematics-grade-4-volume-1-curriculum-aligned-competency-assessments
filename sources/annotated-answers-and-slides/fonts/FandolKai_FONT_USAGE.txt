@@ -1,0 +1,18 @@
+FandolKai 真实楷体（Regular）
+
+字体文件：FandolKai-Regular.otf
+字体家族：FandolKai
+PostScript名称：FandolKai-Regular
+版本：CTAN Fandol 0.3
+
+按文件路径加载，无需安装字体缓存：
+\setCJKmainfont[Path=/workspace/scratch/1facfb035d44/threecols_review/font_assets/]{FandolKai-Regular.otf}
+
+本目录COPYING为原始GPLv3及Font Exception，README为原始发行说明。
+字体文件未修改。随源码分发字体时请同时保留COPYING和README。
+不使用FakeSlant等伪造楷体。该字体仅Regular字重；需要强调可放大字号或改颜色。
+
+已核对当前108份题页JSON、4份notes和284份图形/根TeX，1419种汉字均在cmap内。
+font_embedding_probe.pdf为PyMuPDF真实嵌入核验样张，已打开其2页渲染图。
+当前XeLaTeX探针在读取字体前因缺xelatex.fmt失败，不声称XeLaTeX已编译通过。
+完整过程、路径、哈希和范围见font_qa.json。

@@ -1,0 +1,98 @@
+{
+  "anchors": [
+    {
+      "key": "p075_s01",
+      "source_y": 82,
+      "full_width_x_range": [
+        78,
+        583
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true
+    },
+    {
+      "key": "p075_s03",
+      "source_y": 337,
+      "full_width_x_range": [
+        78,
+        583
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true
+    },
+    {
+      "key": "p075_s05",
+      "source_y": 620,
+      "full_width_x_range": [
+        78,
+        583
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true
+    },
+    {
+      "key": "p079_s01",
+      "source_y": 210,
+      "full_width_x_range": [
+        78,
+        583
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true
+    },
+    {
+      "key": "p079_s02",
+      "source_y": 312,
+      "full_width_x_range": [
+        78,
+        583
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true
+    },
+    {
+      "key": "p079_s03",
+      "source_y": 502,
+      "full_width_x_range": [
+        78,
+        583
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true
+    },
+    {
+      "key": "p091_s01",
+      "source_y": 117,
+      "full_width_x_range": [
+        78,
+        583
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true
+    },
+    {
+      "key": "p091_s04",
+      "source_y": 632,
+      "full_width_x_range": [
+        78,
+        583
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true
+    },
+    {
+      "key": "p088_s01",
+      "source_y": 116,
+      "full_width_x_range": [
+        78,
+        377
+      ],
+      "black_or_neutral_dark_pixels_in_reused_original_blank_at_2x": 0,
+      "visually_reviewed": true,
+      "actual_compiled_note_ink_width_pt": 297.66666666666663,
+      "right_binding_line_x_pt": 540,
+      "binding_line_not_intersected": true
+    }
+  ],
+  "reason": "复用已去除旧红式与答语的原题白缝，避免留下空白；核验实际note占据的宽度内无黑题干，88页note最大宽298pt不会碰右侧装订线。"
+}

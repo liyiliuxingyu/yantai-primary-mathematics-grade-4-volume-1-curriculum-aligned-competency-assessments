@@ -1,0 +1,200 @@
+{
+  "book_page": 78,
+  "source_page": 82,
+  "records": [
+    {
+      "key": "p078_s01",
+      "book_page": 78,
+      "source_page": 82,
+      "section_index": 0,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "周末，三个小朋友相约去玩“海盗船”，他们3人的平均身高是136cm。他们可能有（    ）人能玩“海盗船”。提示牌：“140cm以下儿童禁止乘坐！”A.0；B.0或1；C.0或1或2；D.1。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p078_pirate_ship",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\draw(-1.6,-.3)--(-1,0.4)--(1,.4)--(1.6,-.3)..controls(.5,-1)and(-.5,-1)..cycle;\\draw(-1.2,-1.1)--(0,2.2)--(1.2,-1.1);\\draw(-.8,.4)--(0,2.2)--(.8,.4);\\draw(-1.5,-1.1)--(1.5,-1.1);\\node[draw,rounded corners,align=center]at(3.4,1.3){140 cm以下儿童\\\\禁止乘坐！};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "非定量海盗船照片重画为线条情境示意，完整保留身高限制提示牌；不增添年龄、人数或机械尺寸。"
+        }
+      ],
+      "answer_latex": "选C。三人总身高\\(136\\times3=408\\)厘米。若3人都能乘坐，即使只按每人140厘米计，总身高也至少要\\(140\\times3=420\\)厘米；\\(408<420\\)，所以不能3人全能乘坐。\\par 身高为\\((136,136,136)\\)厘米时0人能坐；为\\((146,131,131)\\)厘米时1人能坐；为\\((146,146,116)\\)厘米时2人能坐。三组总身高都为408厘米，平均身高都为136厘米，故0、1、2人均可能。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "按用户2026-11-06提供的清晰原卷逐字、逐图核实后更正；来源见p078_update/approved_changes.json。"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "illustration_description": "海盗船情境图，判定所需条件均为提示牌140cm以下儿童禁止乘坐及三人平均身高136cm。"
+    },
+    {
+      "key": "p078_s02",
+      "book_page": 78,
+      "source_page": 82,
+      "section_index": 1,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "45名同学报名课外公益活动，但有10名同学因故没有参加任何活动。实际上，参加走进敬老院活动的有21人，参加垃圾分类宣传活动的有17人，两项公益活动都参加的有（    ）人。A.4；B.7；C.17；D.3。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选D。先扣除两项都未参加的\\(10\\)人，实际至少参加一项的有\\(45-10=35\\)人。把两项人数相加时，重复人数被多计一次，所以两项都参加的有\\(21+17-35=3\\)人。\\par 也可分块核对：只参加第一项\\(21-3=18\\)人，只参加第二项\\(17-3=14\\)人；\\(18+3+14+10=45\\)，正好是全班人数。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "illustration_description": ""
+    },
+    {
+      "key": "p078_s03",
+      "book_page": 78,
+      "source_page": 82,
+      "section_index": 2,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "如果三个数的平均数是45，而且这三个数均大于40，那么最大的那个数可能是（    ）。A.42；B.70；C.49；D.60。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。三个数总和是3份45。其余两数都大于40，所以求最大数的上界：\\[\\begin{aligned}&45\\times3-(40+40)\\\\={}&135-80\\\\={}&55\\end{aligned}\\]最大数应不小于平均数45，且严格小于55。49符合，例如49、43、43；42太小，60、70太大。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "本轮平均数完整脱式复核：上界原连减135−40−40直接55；改用减去和，两个独立乘法/加法同一步求出，完整又简便。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "illustration_description": ""
+    },
+    {
+      "key": "p078_s04",
+      "book_page": 78,
+      "source_page": 82,
+      "section_index": 3,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "甲、乙、丙三人谈论他们的平均年龄，甲说：“我比平均年龄多6岁。”乙说：“我比平均年龄少6岁。”下列说法正确的是（    ）。A.丙正好6岁；B.丙的年龄和平均年龄相等；C.乙不是最小的；D.无法确定丙的年龄。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "B。甲比平均年龄多6岁，乙比平均年龄少6岁。把甲多出的6岁补给乙，两人都等于平均年龄，丙也必须等于平均年龄。因此选B。",
+      "verification": {
+        "status": "verified_for_instructional_intent",
+        "reason": "按本题考查平均数与各数之间关系的教学意图，只将B列为作答选项。甲、乙相对平均年龄的多、少恰好抵消，丙必须等于平均年龄；未据此推定任何具体岁数。",
+        "changes": [
+          {
+            "date": "2026-11-06",
+            "change": "本题课堂答案由B,D更正为B，解析改为移多补少的正向推理；原题全部选项原文保留。"
+          }
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "illustration_description": ""
+    },
+    {
+      "key": "p078_s05",
+      "book_page": 78,
+      "source_page": 82,
+      "section_index": 4,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "气温学上通常用一天中2时、8时、14时、20时4个时刻的气温的平均数作为一天的平均气温。右侧是某地区某四天中4个时刻的气温情况图，日平均气温大约是\\(22^\\circ\\mathrm C\\)的是（    ）。A.第一天；B.第二天；C.第三天；D.第四天。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p078_temperatures",
+          "tikz": "\\begin{tikzpicture}[x=.495cm,y=.60cm,font=\\fontsize{10.5}{12.5}\\selectfont,line width=.45pt]\n  \\foreach \\y in {0,1,2,3,4}{\\draw (-5,\\y)--(2,\\y);}\n  \\draw (-5,-.12)--(-5,4.16);\n  \\foreach \\y/\\lab in {3.5/第一天,2.5/第二天,1.5/第三天,.5/第四天}{\n    \\node[anchor=east,inner sep=3pt] at (-5,\\y) {\\lab};\n  }\n  \\draw[dashed,dash pattern=on 2.4pt off 2.4pt] (0,-.18)--(0,4.28);\n  \\node[above,inner sep=2pt,font=\\fontsize{9.5}{11.5}\\selectfont] at (0,4.28) {$22^\\circ\\mathrm{C}$};\n  % 第1天：四个点\n  \\fill (0.2802,3.7564) circle[radius=1.5pt];\n  \\fill (0.5680,3.5942) circle[radius=1.5pt];\n  \\fill (0.2562,3.2657) circle[radius=1.5pt];\n  \\fill (0.8079,3.2498) circle[radius=1.5pt];\n  % 第2天：四个点\n  \\fill (-0.0101,2.8005) circle[radius=1.5pt];\n  \\fill (-0.5012,2.6311) circle[radius=1.5pt];\n  \\fill (0.0696,2.5317) circle[radius=1.5pt];\n  \\fill (0.4042,2.2417) circle[radius=1.5pt];\n  % 第3天：四个点\n  \\fill (-1.2661,1.9083) circle[radius=1.5pt];\n  \\fill (-0.7016,1.8672) circle[radius=1.5pt];\n  \\fill (-0.8211,1.5960) circle[radius=1.5pt];\n  \\fill (-1.1226,1.2544) circle[radius=1.5pt];\n  % 第4天：四个点\n  \\fill (-1.4085,0.8709) circle[radius=1.5pt];\n  \\fill (0.3922,0.7740) circle[radius=1.5pt];\n  \\fill (-0.8871,0.6299) circle[radius=1.5pt];\n  \\fill (-0.0232,0.4583) circle[radius=1.5pt];\n\\end{tikzpicture}",
+          "role": "question",
+          "notes": "根据用户第78页清晰原照重绘5条横边界、4个日带、每带4圆点及22℃竖虚线；坐标为照片比例而非温度值，不增造刻度。"
+        }
+      ],
+      "answer_latex": "选B。以22摄氏度的竖虚线为基准，第二天四个点高出与低于22摄氏度的部分大致相抵，移多补少后平均约为22摄氏度。第一天各点在线右侧；第三天各点在线左侧，第四天整体也偏左。原图没有精确刻度，不能凭空给各点标出具体温度。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "按用户2026-11-06提供的清晰原卷逐字、逐图核实后更正；来源见p078_update/approved_changes.json。"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "illustration_description": ""
+    },
+    {
+      "key": "p078_s06",
+      "book_page": 78,
+      "source_page": 82,
+      "section_index": 5,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "烟台市“非遗小传人”评选中，小兰秧歌和剪纸两项的平均分是94分，增加草编考核后，三项总分是281分，则小兰草编的得分是（    ）。A.93分；B.92分；C.94分；D.97分。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选A。94分是两项平均分，先按每项94分乘2项还原总分，再从三项总分281分中扣除。\\[\\begin{aligned}&281-94\\times2\\\\={}&281-188\\\\={}&93\\text{(分)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "本轮平均数完整脱式复核：PDF题旁主式完整，源码同步完整综合脱式。",
+          "按用户2026-11-06提供的清晰原卷逐字、逐图核实后更正；来源见p078_update/approved_changes.json。"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "illustration_description": ""
+    }
+  ],
+  "section_heading_latex": "二、选择（将正确答案的序号填在括号里）。（每题2分，共12分）"
+}

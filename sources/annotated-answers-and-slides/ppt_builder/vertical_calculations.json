@@ -1,0 +1,7041 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p011_s02": {
+      "calculations": [
+        {
+          "op": "×",
+          "role": "answer",
+          "operands": [
+            "114",
+            "23"
+          ],
+          "result": "2622",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 3,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "114",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": "1",
+                  "column": 2
+                },
+                {
+                  "text": "4",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "23",
+              "cells": [
+                {
+                  "text": "×",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                },
+                {
+                  "text": "3",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "partial_product",
+              "value": "342",
+              "place_shift": 0,
+              "numeric_value": "342",
+              "multiplier_digit": "3",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "4",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                }
+              ],
+              "explanation": "114×3×10^0=342"
+            },
+            {
+              "kind": "partial_product",
+              "value": "228",
+              "place_shift": 1,
+              "numeric_value": "2280",
+              "multiplier_digit": "2",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "8",
+                  "column": 2
+                }
+              ],
+              "explanation": "114×2×10^1=2280",
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "2622",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "6",
+                  "column": 1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "partial_products": [
+            "342",
+            "2280"
+          ],
+          "id": "p011_s02_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 11,
+      "source_page": 15,
+      "question_id": "三、1（1）"
+    },
+    "p011_s03": {
+      "calculations": [
+        {
+          "op": "÷",
+          "role": "answer",
+          "operands": [
+            "448",
+            "48"
+          ],
+          "result": "9…16",
+          "quotient": "9",
+          "remainder": "16",
+          "column_count": 3,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "quotient",
+              "value": "9",
+              "cells": [
+                {
+                  "text": "9",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "dividend_divisor",
+              "value": "448",
+              "cells": [
+                {
+                  "text": "4",
+                  "column": -3
+                },
+                {
+                  "text": "8",
+                  "column": -2
+                },
+                {
+                  "text": "4",
+                  "column": 0
+                },
+                {
+                  "text": "4",
+                  "column": 1
+                },
+                {
+                  "text": "8",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "432",
+              "quotient_digit": "9",
+              "quotient_column": 2,
+              "cells": [
+                {
+                  "text": "4",
+                  "column": 0
+                },
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                }
+              ],
+              "rule_after": {
+                "start_column": 0,
+                "end_column": 2
+              }
+            },
+            {
+              "kind": "remainder",
+              "value": "16",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": "6",
+                  "column": 2
+                }
+              ]
+            }
+          ],
+          "division_bracket": {
+            "top_row": 1,
+            "left_column": 0,
+            "right_column": 2,
+            "bottom_row": 2
+          },
+          "division_steps": [
+            {
+              "input_partial_dividend": 448,
+              "end_column": 2,
+              "quotient_digit": 9,
+              "trial_product": 432,
+              "remainder": 16,
+              "brought_down_digit": "8",
+              "equation": "448-432=16"
+            }
+          ],
+          "numeric_verified": true,
+          "check_equation": "48×9+16=448",
+          "id": "p011_s03_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 11,
+      "source_page": 15,
+      "question_id": "三、1（2）"
+    },
+    "p011_s04": {
+      "calculations": [
+        {
+          "op": "÷",
+          "role": "answer",
+          "operands": [
+            "372",
+            "62"
+          ],
+          "result": "6",
+          "quotient": "6",
+          "remainder": "0",
+          "column_count": 3,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "quotient",
+              "value": "6",
+              "cells": [
+                {
+                  "text": "6",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "dividend_divisor",
+              "value": "372",
+              "cells": [
+                {
+                  "text": "6",
+                  "column": -3
+                },
+                {
+                  "text": "2",
+                  "column": -2
+                },
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "372",
+              "quotient_digit": "6",
+              "quotient_column": 2,
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                }
+              ],
+              "rule_after": {
+                "start_column": 0,
+                "end_column": 2
+              }
+            },
+            {
+              "kind": "remainder",
+              "value": "0",
+              "cells": [
+                {
+                  "text": "0",
+                  "column": 2
+                }
+              ]
+            }
+          ],
+          "division_bracket": {
+            "top_row": 1,
+            "left_column": 0,
+            "right_column": 2,
+            "bottom_row": 2
+          },
+          "division_steps": [
+            {
+              "input_partial_dividend": 372,
+              "end_column": 2,
+              "quotient_digit": 6,
+              "trial_product": 372,
+              "remainder": 0,
+              "brought_down_digit": "2",
+              "equation": "372-372=0"
+            }
+          ],
+          "numeric_verified": true,
+          "check_equation": "62×6+0=372",
+          "id": "p011_s04_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 11,
+      "source_page": 15,
+      "question_id": "三、1（3）"
+    },
+    "p011_s05": {
+      "calculations": [
+        {
+          "op": "÷",
+          "role": "answer",
+          "operands": [
+            "598",
+            "18"
+          ],
+          "result": "33…4",
+          "quotient": "33",
+          "remainder": "4",
+          "column_count": 3,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "quotient",
+              "value": "33",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "3",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "dividend_divisor",
+              "value": "598",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": -3
+                },
+                {
+                  "text": "8",
+                  "column": -2
+                },
+                {
+                  "text": "5",
+                  "column": 0
+                },
+                {
+                  "text": "9",
+                  "column": 1
+                },
+                {
+                  "text": "8",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "54",
+              "quotient_digit": "3",
+              "quotient_column": 1,
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 0
+                },
+                {
+                  "text": "4",
+                  "column": 1
+                }
+              ],
+              "rule_after": {
+                "start_column": 0,
+                "end_column": 1
+              }
+            },
+            {
+              "kind": "partial_dividend",
+              "value": "58",
+              "brought_down_digit": "8",
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": "8",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "54",
+              "quotient_digit": "3",
+              "quotient_column": 2,
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": "4",
+                  "column": 2
+                }
+              ],
+              "rule_after": {
+                "start_column": 1,
+                "end_column": 2
+              }
+            },
+            {
+              "kind": "remainder",
+              "value": "4",
+              "cells": [
+                {
+                  "text": "4",
+                  "column": 2
+                }
+              ]
+            }
+          ],
+          "division_bracket": {
+            "top_row": 1,
+            "left_column": 0,
+            "right_column": 2,
+            "bottom_row": 2
+          },
+          "division_steps": [
+            {
+              "input_partial_dividend": 59,
+              "end_column": 1,
+              "quotient_digit": 3,
+              "trial_product": 54,
+              "remainder": 5,
+              "brought_down_digit": "9",
+              "equation": "59-54=5"
+            },
+            {
+              "input_partial_dividend": 58,
+              "end_column": 2,
+              "quotient_digit": 3,
+              "trial_product": 54,
+              "remainder": 4,
+              "brought_down_digit": "8",
+              "equation": "58-54=4"
+            }
+          ],
+          "numeric_verified": true,
+          "check_equation": "18×33+4=598",
+          "id": "p011_s05_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 11,
+      "source_page": 15,
+      "question_id": "三、1（4）"
+    },
+    "p015_s01": {
+      "calculations": [
+        {
+          "op": "×",
+          "role": "answer",
+          "operands": [
+            "258",
+            "13"
+          ],
+          "result": "3354",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 3,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "258",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "5",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "13",
+              "cells": [
+                {
+                  "text": "×",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 2
+                },
+                {
+                  "text": "3",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "partial_product",
+              "value": "774",
+              "place_shift": 0,
+              "numeric_value": "774",
+              "multiplier_digit": "3",
+              "cells": [
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": "7",
+                  "column": 2
+                },
+                {
+                  "text": "4",
+                  "column": 3
+                }
+              ],
+              "explanation": "258×3×10^0=774"
+            },
+            {
+              "kind": "partial_product",
+              "value": "258",
+              "place_shift": 1,
+              "numeric_value": "2580",
+              "multiplier_digit": "1",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": "8",
+                  "column": 2
+                }
+              ],
+              "explanation": "258×1×10^1=2580",
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "3354",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "5",
+                  "column": 2
+                },
+                {
+                  "text": "4",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "partial_products": [
+            "774",
+            "2580"
+          ],
+          "id": "p015_s01_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 15,
+      "source_page": 19,
+      "question_id": "三、1（1）"
+    },
+    "p015_s02": {
+      "calculations": [
+        {
+          "op": "÷",
+          "role": "answer",
+          "operands": [
+            "754",
+            "26"
+          ],
+          "result": "29",
+          "quotient": "29",
+          "remainder": "0",
+          "column_count": 3,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "quotient",
+              "value": "29",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "9",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "dividend_divisor",
+              "value": "754",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": -3
+                },
+                {
+                  "text": "6",
+                  "column": -2
+                },
+                {
+                  "text": "7",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": "4",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "52",
+              "quotient_digit": "2",
+              "quotient_column": 1,
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                }
+              ],
+              "rule_after": {
+                "start_column": 0,
+                "end_column": 1
+              }
+            },
+            {
+              "kind": "partial_dividend",
+              "value": "234",
+              "brought_down_digit": "4",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "4",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "234",
+              "quotient_digit": "9",
+              "quotient_column": 2,
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "4",
+                  "column": 2
+                }
+              ],
+              "rule_after": {
+                "start_column": 0,
+                "end_column": 2
+              }
+            },
+            {
+              "kind": "remainder",
+              "value": "0",
+              "cells": [
+                {
+                  "text": "0",
+                  "column": 2
+                }
+              ]
+            }
+          ],
+          "division_bracket": {
+            "top_row": 1,
+            "left_column": 0,
+            "right_column": 2,
+            "bottom_row": 2
+          },
+          "division_steps": [
+            {
+              "input_partial_dividend": 75,
+              "end_column": 1,
+              "quotient_digit": 2,
+              "trial_product": 52,
+              "remainder": 23,
+              "brought_down_digit": "5",
+              "equation": "75-52=23"
+            },
+            {
+              "input_partial_dividend": 234,
+              "end_column": 2,
+              "quotient_digit": 9,
+              "trial_product": 234,
+              "remainder": 0,
+              "brought_down_digit": "4",
+              "equation": "234-234=0"
+            }
+          ],
+          "numeric_verified": true,
+          "check_equation": "26×29+0=754",
+          "id": "p015_s02_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 15,
+      "source_page": 19,
+      "question_id": "三、1（2）"
+    },
+    "p015_s03": {
+      "calculations": [
+        {
+          "op": "×",
+          "role": "answer",
+          "operands": [
+            "308",
+            "25"
+          ],
+          "result": "7700",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 3,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "308",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "0",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "25",
+              "cells": [
+                {
+                  "text": "×",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "partial_product",
+              "value": "1540",
+              "place_shift": 0,
+              "numeric_value": "1540",
+              "multiplier_digit": "5",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": "4",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ],
+              "explanation": "308×5×10^0=1540"
+            },
+            {
+              "kind": "partial_product",
+              "value": "616",
+              "place_shift": 1,
+              "numeric_value": "6160",
+              "multiplier_digit": "2",
+              "cells": [
+                {
+                  "text": "6",
+                  "column": 0
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": "6",
+                  "column": 2
+                }
+              ],
+              "explanation": "308×2×10^1=6160",
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "7700",
+              "cells": [
+                {
+                  "text": "7",
+                  "column": 0
+                },
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": "0",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "partial_products": [
+            "1540",
+            "6160"
+          ],
+          "id": "p015_s03_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 15,
+      "source_page": 19,
+      "question_id": "三、1（3）"
+    },
+    "p015_s04": {
+      "calculations": [
+        {
+          "op": "÷",
+          "role": "answer",
+          "operands": [
+            "552",
+            "69"
+          ],
+          "result": "8",
+          "quotient": "8",
+          "remainder": "0",
+          "column_count": 3,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "quotient",
+              "value": "8",
+              "cells": [
+                {
+                  "text": "8",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "dividend_divisor",
+              "value": "552",
+              "cells": [
+                {
+                  "text": "6",
+                  "column": -3
+                },
+                {
+                  "text": "9",
+                  "column": -2
+                },
+                {
+                  "text": "5",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "552",
+              "quotient_digit": "8",
+              "quotient_column": 2,
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                }
+              ],
+              "rule_after": {
+                "start_column": 0,
+                "end_column": 2
+              }
+            },
+            {
+              "kind": "remainder",
+              "value": "0",
+              "cells": [
+                {
+                  "text": "0",
+                  "column": 2
+                }
+              ]
+            }
+          ],
+          "division_bracket": {
+            "top_row": 1,
+            "left_column": 0,
+            "right_column": 2,
+            "bottom_row": 2
+          },
+          "division_steps": [
+            {
+              "input_partial_dividend": 552,
+              "end_column": 2,
+              "quotient_digit": 8,
+              "trial_product": 552,
+              "remainder": 0,
+              "brought_down_digit": "2",
+              "equation": "552-552=0"
+            }
+          ],
+          "numeric_verified": true,
+          "check_equation": "69×8+0=552",
+          "id": "p015_s04_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 15,
+      "source_page": 19,
+      "question_id": "三、1（4）"
+    },
+    "p090_s06": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "15.05",
+            "2.63"
+          ],
+          "aligned_operands": [
+            "15.05",
+            "2.63"
+          ],
+          "result": "17.68",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "15.05",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "2.63",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                },
+                {
+                  "text": "3",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "17.68",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                },
+                {
+                  "text": "8",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                5,
+                3
+              ],
+              "carry_in": 0,
+              "sum": 8,
+              "digit": 8,
+              "carry_out": 0
+            },
+            {
+              "column": 3,
+              "digits": [
+                0,
+                6
+              ],
+              "carry_in": 0,
+              "sum": 6,
+              "digit": 6,
+              "carry_out": 0
+            },
+            {
+              "column": 1,
+              "digits": [
+                5,
+                2
+              ],
+              "carry_in": 0,
+              "sum": 7,
+              "digit": 7,
+              "carry_out": 0
+            },
+            {
+              "column": 0,
+              "digits": [
+                1,
+                0
+              ],
+              "carry_in": 0,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p090_s06_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 90,
+      "source_page": 94,
+      "question_id": "三、2（1）"
+    },
+    "p090_s07": {
+      "calculations": [
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "9.06",
+            "2.5"
+          ],
+          "aligned_operands": [
+            "9.06",
+            "2.50"
+          ],
+          "result": "6.56",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 2,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "9.06",
+              "cells": [
+                {
+                  "text": "9",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "0",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "2.50",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "5",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "6.56",
+              "cells": [
+                {
+                  "text": "6",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "5",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 6,
+              "subtrahend_digit": 0,
+              "digit": 6
+            },
+            {
+              "column": 2,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 5,
+              "digit": 5
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 8,
+              "subtrahend_digit": 2,
+              "digit": 6
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 0,
+              "to_column": 2,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 8
+                },
+                {
+                  "column": 2,
+                  "new_value": 10
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 1,
+          "id": "p090_s07_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 90,
+      "source_page": 94,
+      "question_id": "三、2（2）"
+    },
+    "p090_s08": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "5.7",
+            "12.34"
+          ],
+          "aligned_operands": [
+            "5.70",
+            "12.34"
+          ],
+          "result": "18.04",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "5.70",
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "12.34",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "3",
+                  "column": 3
+                },
+                {
+                  "text": "4",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "18.04",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "8",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "4",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                0,
+                4
+              ],
+              "carry_in": 0,
+              "sum": 4,
+              "digit": 4,
+              "carry_out": 0
+            },
+            {
+              "column": 3,
+              "digits": [
+                7,
+                3
+              ],
+              "carry_in": 0,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                5,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 8,
+              "digit": 8,
+              "carry_out": 0
+            },
+            {
+              "column": 0,
+              "digits": [
+                0,
+                1
+              ],
+              "carry_in": 0,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p090_s08_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 90,
+      "source_page": 94,
+      "question_id": "三、2（3）"
+    },
+    "p103_s04": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "9.27",
+            "15.9"
+          ],
+          "aligned_operands": [
+            "9.27",
+            "15.90"
+          ],
+          "result": "25.17",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "9.27",
+              "cells": [
+                {
+                  "text": "9",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                },
+                {
+                  "text": "7",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "15.90",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "9",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "25.17",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "1",
+                  "column": 3
+                },
+                {
+                  "text": "7",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                7,
+                0
+              ],
+              "carry_in": 0,
+              "sum": 7,
+              "digit": 7,
+              "carry_out": 0
+            },
+            {
+              "column": 3,
+              "digits": [
+                2,
+                9
+              ],
+              "carry_in": 0,
+              "sum": 11,
+              "digit": 1,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                9,
+                5
+              ],
+              "carry_in": 1,
+              "sum": 15,
+              "digit": 5,
+              "carry_out": 1
+            },
+            {
+              "column": 0,
+              "digits": [
+                0,
+                1
+              ],
+              "carry_in": 1,
+              "sum": 2,
+              "digit": 2,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            },
+            {
+              "column": 0,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p103_s04_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 103,
+      "source_page": 107,
+      "question_id": "三、2（1）"
+    },
+    "p103_s05": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "25.7",
+            "16.4"
+          ],
+          "aligned_operands": [
+            "25.7",
+            "16.4"
+          ],
+          "result": "42.1",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "25.7",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "16.4",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "6",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "4",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "42.1",
+              "cells": [
+                {
+                  "text": "4",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "1",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 3,
+              "digits": [
+                7,
+                4
+              ],
+              "carry_in": 0,
+              "sum": 11,
+              "digit": 1,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                5,
+                6
+              ],
+              "carry_in": 1,
+              "sum": 12,
+              "digit": 2,
+              "carry_out": 1
+            },
+            {
+              "column": 0,
+              "digits": [
+                2,
+                1
+              ],
+              "carry_in": 1,
+              "sum": 4,
+              "digit": 4,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            },
+            {
+              "column": 0,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p103_s05_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 103,
+      "source_page": 107,
+      "question_id": "三、2（2）"
+    },
+    "p103_s06": {
+      "calculations": [
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "10",
+            "4.03"
+          ],
+          "aligned_operands": [
+            "10.00",
+            "4.03"
+          ],
+          "result": "5.97",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "10.00",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "0",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "4.03",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "4",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "3",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "5.97",
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "9",
+                  "column": 3
+                },
+                {
+                  "text": "7",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 3,
+              "digit": 7
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 0,
+              "digit": 9
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 4,
+              "digit": 5
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 0,
+              "subtrahend_digit": 0,
+              "digit": 0
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 0,
+              "to_column": 4,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 0
+                },
+                {
+                  "column": 1,
+                  "new_value": 9
+                },
+                {
+                  "column": 3,
+                  "new_value": 9
+                },
+                {
+                  "column": 4,
+                  "new_value": 10
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p103_s06_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 103,
+      "source_page": 107,
+      "question_id": "三、2（3）"
+    },
+    "p107_s02": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "16.8",
+            "2.27"
+          ],
+          "aligned_operands": [
+            "16.80",
+            "2.27"
+          ],
+          "result": "19.07",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "16.80",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "6",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "2.27",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                },
+                {
+                  "text": "7",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "19.07",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "9",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "7",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                0,
+                7
+              ],
+              "carry_in": 0,
+              "sum": 7,
+              "digit": 7,
+              "carry_out": 0
+            },
+            {
+              "column": 3,
+              "digits": [
+                8,
+                2
+              ],
+              "carry_in": 0,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                6,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 9,
+              "digit": 9,
+              "carry_out": 0
+            },
+            {
+              "column": 0,
+              "digits": [
+                1,
+                0
+              ],
+              "carry_in": 0,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p107_s02_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 107,
+      "source_page": 111,
+      "question_id": "三、2（1）"
+    },
+    "p107_s04": {
+      "calculations": [
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "10.02",
+            "1.9"
+          ],
+          "aligned_operands": [
+            "10.02",
+            "1.90"
+          ],
+          "result": "8.12",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "10.02",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "0",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "2",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "1.90",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "9",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "8.12",
+              "cells": [
+                {
+                  "text": "8",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "1",
+                  "column": 3
+                },
+                {
+                  "text": "2",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 2,
+              "subtrahend_digit": 0,
+              "digit": 2
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 9,
+              "digit": 1
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 1,
+              "digit": 8
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 0,
+              "subtrahend_digit": 0,
+              "digit": 0
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 0,
+              "to_column": 3,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 0
+                },
+                {
+                  "column": 1,
+                  "new_value": 9
+                },
+                {
+                  "column": 3,
+                  "new_value": 10
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p107_s04_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 107,
+      "source_page": 111,
+      "question_id": "三、2（3）"
+    },
+    "p058_s09": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "3.58",
+            "2.67"
+          ],
+          "aligned_operands": [
+            "3.58",
+            "2.67"
+          ],
+          "result": "6.25",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 2,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "3.58",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "5",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "2.67",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "6",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "6.25",
+              "cells": [
+                {
+                  "text": "6",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 3,
+              "digits": [
+                8,
+                7
+              ],
+              "carry_in": 0,
+              "sum": 15,
+              "digit": 5,
+              "carry_out": 1
+            },
+            {
+              "column": 2,
+              "digits": [
+                5,
+                6
+              ],
+              "carry_in": 1,
+              "sum": 12,
+              "digit": 2,
+              "carry_out": 1
+            },
+            {
+              "column": 0,
+              "digits": [
+                3,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 6,
+              "digit": 6,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 2,
+              "text": "1"
+            },
+            {
+              "column": 0,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 1,
+          "label": "（1）",
+          "id": "p058_s09_vertical_01"
+        },
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "4.6",
+            "12.95"
+          ],
+          "aligned_operands": [
+            "4.60",
+            "12.95"
+          ],
+          "result": "17.55",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "4.60",
+              "cells": [
+                {
+                  "text": "4",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "12.95",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "9",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "17.55",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                0,
+                5
+              ],
+              "carry_in": 0,
+              "sum": 5,
+              "digit": 5,
+              "carry_out": 0
+            },
+            {
+              "column": 3,
+              "digits": [
+                6,
+                9
+              ],
+              "carry_in": 0,
+              "sum": 15,
+              "digit": 5,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                4,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 7,
+              "digit": 7,
+              "carry_out": 0
+            },
+            {
+              "column": 0,
+              "digits": [
+                0,
+                1
+              ],
+              "carry_in": 0,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（2）",
+          "id": "p058_s09_vertical_02"
+        },
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "20.05",
+            "7.89"
+          ],
+          "aligned_operands": [
+            "20.05",
+            "7.89"
+          ],
+          "result": "12.16",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "20.05",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "0",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "7.89",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                },
+                {
+                  "text": "9",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "12.16",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "1",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 15,
+              "subtrahend_digit": 9,
+              "digit": 6
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 8,
+              "digit": 1
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 7,
+              "digit": 2
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 1,
+              "subtrahend_digit": 0,
+              "digit": 1
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 0,
+              "to_column": 4,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 1
+                },
+                {
+                  "column": 1,
+                  "new_value": 9
+                },
+                {
+                  "column": 3,
+                  "new_value": 9
+                },
+                {
+                  "column": 4,
+                  "new_value": 15
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（3）",
+          "id": "p058_s09_vertical_03"
+        },
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "50",
+            "16.34"
+          ],
+          "aligned_operands": [
+            "50.00",
+            "16.34"
+          ],
+          "result": "33.66",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "50.00",
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 0
+                },
+                {
+                  "text": "0",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "16.34",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "6",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "3",
+                  "column": 3
+                },
+                {
+                  "text": "4",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "33.66",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 4,
+              "digit": 6
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 3,
+              "digit": 6
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 6,
+              "digit": 3
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 4,
+              "subtrahend_digit": 1,
+              "digit": 3
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 0,
+              "to_column": 4,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 4
+                },
+                {
+                  "column": 1,
+                  "new_value": 9
+                },
+                {
+                  "column": 3,
+                  "new_value": 9
+                },
+                {
+                  "column": 4,
+                  "new_value": 10
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（4）★",
+          "id": "p058_s09_vertical_04"
+        },
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "33.66",
+            "16.34"
+          ],
+          "aligned_operands": [
+            "33.66",
+            "16.34"
+          ],
+          "result": "50.00",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "33.66",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "16.34",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "6",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "3",
+                  "column": 3
+                },
+                {
+                  "text": "4",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "50.00",
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 0
+                },
+                {
+                  "text": "0",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                6,
+                4
+              ],
+              "carry_in": 0,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 3,
+              "digits": [
+                6,
+                3
+              ],
+              "carry_in": 1,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                3,
+                6
+              ],
+              "carry_in": 1,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 0,
+              "digits": [
+                3,
+                1
+              ],
+              "carry_in": 1,
+              "sum": 5,
+              "digit": 5,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 3,
+              "text": "1"
+            },
+            {
+              "column": 1,
+              "text": "1"
+            },
+            {
+              "column": 0,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（4）验算",
+          "id": "p058_s09_vertical_05"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 58,
+      "source_page": 62,
+      "question_id": "三、2"
+    },
+    "p063_s01": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "8.7",
+            "12.36"
+          ],
+          "aligned_operands": [
+            "8.70",
+            "12.36"
+          ],
+          "result": "21.06",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "8.70",
+              "cells": [
+                {
+                  "text": "8",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "12.36",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "3",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "21.06",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                0,
+                6
+              ],
+              "carry_in": 0,
+              "sum": 6,
+              "digit": 6,
+              "carry_out": 0
+            },
+            {
+              "column": 3,
+              "digits": [
+                7,
+                3
+              ],
+              "carry_in": 0,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                8,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 11,
+              "digit": 1,
+              "carry_out": 1
+            },
+            {
+              "column": 0,
+              "digits": [
+                0,
+                1
+              ],
+              "carry_in": 1,
+              "sum": 2,
+              "digit": 2,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            },
+            {
+              "column": 0,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（1）★",
+          "id": "p063_s01_vertical_01"
+        },
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "21.06",
+            "12.36"
+          ],
+          "aligned_operands": [
+            "21.06",
+            "12.36"
+          ],
+          "result": "8.70",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "21.06",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "12.36",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "3",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "8.70",
+              "cells": [
+                {
+                  "text": "8",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 6,
+              "subtrahend_digit": 6,
+              "digit": 0
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 3,
+              "digit": 7
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 2,
+              "digit": 8
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 1,
+              "subtrahend_digit": 1,
+              "digit": 0
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 1,
+              "to_column": 3,
+              "updates": [
+                {
+                  "column": 1,
+                  "new_value": 0
+                },
+                {
+                  "column": 3,
+                  "new_value": 10
+                }
+              ]
+            },
+            {
+              "from_column": 0,
+              "to_column": 1,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 1
+                },
+                {
+                  "column": 1,
+                  "new_value": 10
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（1）验算",
+          "id": "p063_s01_vertical_02"
+        },
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "5.1",
+            "3.59"
+          ],
+          "aligned_operands": [
+            "5.10",
+            "3.59"
+          ],
+          "result": "1.51",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 2,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "5.10",
+              "cells": [
+                {
+                  "text": "5",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "1",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "3.59",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "5",
+                  "column": 2
+                },
+                {
+                  "text": "9",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "1.51",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "5",
+                  "column": 2
+                },
+                {
+                  "text": "1",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 9,
+              "digit": 1
+            },
+            {
+              "column": 2,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 5,
+              "digit": 5
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 4,
+              "subtrahend_digit": 3,
+              "digit": 1
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 2,
+              "to_column": 3,
+              "updates": [
+                {
+                  "column": 2,
+                  "new_value": 0
+                },
+                {
+                  "column": 3,
+                  "new_value": 10
+                }
+              ]
+            },
+            {
+              "from_column": 0,
+              "to_column": 2,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 4
+                },
+                {
+                  "column": 2,
+                  "new_value": 10
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 1,
+          "label": "（2）",
+          "id": "p063_s01_vertical_03"
+        },
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "12",
+            "2.25"
+          ],
+          "aligned_operands": [
+            "12.00",
+            "2.25"
+          ],
+          "result": "9.75",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "12.00",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "2.25",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "9.75",
+              "cells": [
+                {
+                  "text": "9",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 5,
+              "digit": 5
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 2,
+              "digit": 7
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 11,
+              "subtrahend_digit": 2,
+              "digit": 9
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 0,
+              "subtrahend_digit": 0,
+              "digit": 0
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 1,
+              "to_column": 4,
+              "updates": [
+                {
+                  "column": 1,
+                  "new_value": 1
+                },
+                {
+                  "column": 3,
+                  "new_value": 9
+                },
+                {
+                  "column": 4,
+                  "new_value": 10
+                }
+              ]
+            },
+            {
+              "from_column": 0,
+              "to_column": 1,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 0
+                },
+                {
+                  "column": 1,
+                  "new_value": 11
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（3）★",
+          "id": "p063_s01_vertical_04"
+        },
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "9.75",
+            "2.25"
+          ],
+          "aligned_operands": [
+            "9.75",
+            "2.25"
+          ],
+          "result": "12.00",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "9.75",
+              "cells": [
+                {
+                  "text": "9",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "2.25",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "12.00",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                5,
+                5
+              ],
+              "carry_in": 0,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 3,
+              "digits": [
+                7,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                9,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 12,
+              "digit": 2,
+              "carry_out": 1
+            },
+            {
+              "column": 0,
+              "digits": [
+                0,
+                0
+              ],
+              "carry_in": 1,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 3,
+              "text": "1"
+            },
+            {
+              "column": 1,
+              "text": "1"
+            },
+            {
+              "column": 0,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（3）验算",
+          "id": "p063_s01_vertical_05"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 63,
+      "source_page": 67,
+      "question_id": "三、2"
+    },
+    "p090_s09": {
+      "calculations": [
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "12.8",
+            "1.24"
+          ],
+          "aligned_operands": [
+            "12.80",
+            "1.24"
+          ],
+          "result": "11.56",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "12.80",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "1.24",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                },
+                {
+                  "text": "4",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "11.56",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 4,
+              "digit": 6
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 7,
+              "subtrahend_digit": 2,
+              "digit": 5
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 2,
+              "subtrahend_digit": 1,
+              "digit": 1
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 1,
+              "subtrahend_digit": 0,
+              "digit": 1
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 3,
+              "to_column": 4,
+              "updates": [
+                {
+                  "column": 3,
+                  "new_value": 7
+                },
+                {
+                  "column": 4,
+                  "new_value": 10
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p090_s09_vertical_01"
+        },
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "11.56",
+            "1.24"
+          ],
+          "aligned_operands": [
+            "11.56",
+            "1.24"
+          ],
+          "result": "12.80",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "11.56",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "1.24",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                },
+                {
+                  "text": "4",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "12.80",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                6,
+                4
+              ],
+              "carry_in": 0,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 3,
+              "digits": [
+                5,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 8,
+              "digit": 8,
+              "carry_out": 0
+            },
+            {
+              "column": 1,
+              "digits": [
+                1,
+                1
+              ],
+              "carry_in": 0,
+              "sum": 2,
+              "digit": 2,
+              "carry_out": 0
+            },
+            {
+              "column": 0,
+              "digits": [
+                1,
+                0
+              ],
+              "carry_in": 0,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 3,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "验算",
+          "id": "p090_s09_vertical_02"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 90,
+      "source_page": 94,
+      "question_id": "三、2（4）及验算"
+    },
+    "p094_s09": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "12.4",
+            "2.76"
+          ],
+          "aligned_operands": [
+            "12.40",
+            "2.76"
+          ],
+          "result": "15.16",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "12.40",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "4",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "2.76",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "15.16",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "1",
+                  "column": 3
+                },
+                {
+                  "text": "6",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                0,
+                6
+              ],
+              "carry_in": 0,
+              "sum": 6,
+              "digit": 6,
+              "carry_out": 0
+            },
+            {
+              "column": 3,
+              "digits": [
+                4,
+                7
+              ],
+              "carry_in": 0,
+              "sum": 11,
+              "digit": 1,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                2,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 5,
+              "digit": 5,
+              "carry_out": 0
+            },
+            {
+              "column": 0,
+              "digits": [
+                1,
+                0
+              ],
+              "carry_in": 0,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "（1）",
+          "id": "p094_s09_vertical_01"
+        },
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "8.05",
+            "4.357"
+          ],
+          "aligned_operands": [
+            "8.050",
+            "4.357"
+          ],
+          "result": "3.693",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 2,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": -2,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -3,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "8.050",
+              "cells": [
+                {
+                  "text": "8",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "0",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "4.357",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "4",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "3",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                },
+                {
+                  "text": "7",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "3.693",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": ".",
+                  "column": 1
+                },
+                {
+                  "text": "6",
+                  "column": 2
+                },
+                {
+                  "text": "9",
+                  "column": 3
+                },
+                {
+                  "text": "3",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 7,
+              "digit": 3
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 14,
+              "subtrahend_digit": 5,
+              "digit": 9
+            },
+            {
+              "column": 2,
+              "minuend_digit_after_borrow": 9,
+              "subtrahend_digit": 3,
+              "digit": 6
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 7,
+              "subtrahend_digit": 4,
+              "digit": 3
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 3,
+              "to_column": 4,
+              "updates": [
+                {
+                  "column": 3,
+                  "new_value": 4
+                },
+                {
+                  "column": 4,
+                  "new_value": 10
+                }
+              ]
+            },
+            {
+              "from_column": 0,
+              "to_column": 3,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 7
+                },
+                {
+                  "column": 2,
+                  "new_value": 9
+                },
+                {
+                  "column": 3,
+                  "new_value": 14
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 1,
+          "label": "（2）",
+          "id": "p094_s09_vertical_02"
+        },
+        {
+          "op": "×",
+          "role": "answer",
+          "operands": [
+            "28",
+            "304"
+          ],
+          "result": "8512",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 3,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "28",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "304",
+              "cells": [
+                {
+                  "text": "×",
+                  "column": -1
+                },
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "0",
+                  "column": 2
+                },
+                {
+                  "text": "4",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "partial_product",
+              "value": "112",
+              "place_shift": 0,
+              "numeric_value": "112",
+              "multiplier_digit": "4",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": "1",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                }
+              ],
+              "explanation": "28×4×10^0=112"
+            },
+            {
+              "kind": "partial_product",
+              "value": "0",
+              "place_shift": 1,
+              "numeric_value": "0",
+              "multiplier_digit": "0",
+              "cells": [
+                {
+                  "text": "0",
+                  "column": 2
+                }
+              ],
+              "explanation": "28×0×10^1=0"
+            },
+            {
+              "kind": "partial_product",
+              "value": "84",
+              "place_shift": 2,
+              "numeric_value": "8400",
+              "multiplier_digit": "3",
+              "cells": [
+                {
+                  "text": "8",
+                  "column": 0
+                },
+                {
+                  "text": "4",
+                  "column": 1
+                }
+              ],
+              "explanation": "28×3×10^2=8400",
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "8512",
+              "cells": [
+                {
+                  "text": "8",
+                  "column": 0
+                },
+                {
+                  "text": "5",
+                  "column": 1
+                },
+                {
+                  "text": "1",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "partial_products": [
+            "112",
+            "0",
+            "8400"
+          ],
+          "label": "（3）",
+          "id": "p094_s09_vertical_03"
+        },
+        {
+          "op": "÷",
+          "role": "answer",
+          "operands": [
+            "6270",
+            "30"
+          ],
+          "result": "209",
+          "quotient": "209",
+          "remainder": "0",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 3,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "quotient",
+              "value": "209",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "0",
+                  "column": 2
+                },
+                {
+                  "text": "9",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "dividend_divisor",
+              "value": "6270",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": -3
+                },
+                {
+                  "text": "0",
+                  "column": -2
+                },
+                {
+                  "text": "6",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "7",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "60",
+              "quotient_digit": "2",
+              "quotient_column": 1,
+              "cells": [
+                {
+                  "text": "6",
+                  "column": 0
+                },
+                {
+                  "text": "0",
+                  "column": 1
+                }
+              ],
+              "rule_after": {
+                "start_column": 0,
+                "end_column": 1
+              }
+            },
+            {
+              "kind": "partial_dividend",
+              "value": "27",
+              "brought_down_digit": "7",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "7",
+                  "column": 2
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "0",
+              "quotient_digit": "0",
+              "quotient_column": 2,
+              "cells": [
+                {
+                  "text": "0",
+                  "column": 2
+                }
+              ],
+              "rule_after": {
+                "start_column": 1,
+                "end_column": 2
+              }
+            },
+            {
+              "kind": "partial_dividend",
+              "value": "270",
+              "brought_down_digit": "0",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "7",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "trial_product",
+              "value": "270",
+              "quotient_digit": "9",
+              "quotient_column": 3,
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "7",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": 1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "remainder",
+              "value": "0",
+              "cells": [
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "division_bracket": {
+            "top_row": 1,
+            "left_column": 0,
+            "right_column": 3,
+            "bottom_row": 2
+          },
+          "division_steps": [
+            {
+              "input_partial_dividend": 62,
+              "end_column": 1,
+              "quotient_digit": 2,
+              "trial_product": 60,
+              "remainder": 2,
+              "brought_down_digit": "2",
+              "equation": "62-60=2"
+            },
+            {
+              "input_partial_dividend": 27,
+              "end_column": 2,
+              "quotient_digit": 0,
+              "trial_product": 0,
+              "remainder": 27,
+              "brought_down_digit": "7",
+              "equation": "27-0=27"
+            },
+            {
+              "input_partial_dividend": 270,
+              "end_column": 3,
+              "quotient_digit": 9,
+              "trial_product": 270,
+              "remainder": 0,
+              "brought_down_digit": "0",
+              "equation": "270-270=0"
+            }
+          ],
+          "numeric_verified": true,
+          "check_equation": "30×209+0=6270",
+          "label": "（4）",
+          "id": "p094_s09_vertical_04"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 94,
+      "source_page": 98,
+      "question_id": "三、2"
+    },
+    "p103_s07": {
+      "calculations": [
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "18.2",
+            "6.78"
+          ],
+          "aligned_operands": [
+            "18.20",
+            "6.78"
+          ],
+          "result": "11.42",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "18.20",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "8",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "6.78",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "6",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                },
+                {
+                  "text": "8",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "11.42",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "4",
+                  "column": 3
+                },
+                {
+                  "text": "2",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 8,
+              "digit": 2
+            },
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 11,
+              "subtrahend_digit": 7,
+              "digit": 4
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 7,
+              "subtrahend_digit": 6,
+              "digit": 1
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 1,
+              "subtrahend_digit": 0,
+              "digit": 1
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 3,
+              "to_column": 4,
+              "updates": [
+                {
+                  "column": 3,
+                  "new_value": 1
+                },
+                {
+                  "column": 4,
+                  "new_value": 10
+                }
+              ]
+            },
+            {
+              "from_column": 1,
+              "to_column": 3,
+              "updates": [
+                {
+                  "column": 1,
+                  "new_value": 7
+                },
+                {
+                  "column": 3,
+                  "new_value": 11
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p103_s07_vertical_01"
+        },
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "11.42",
+            "6.78"
+          ],
+          "aligned_operands": [
+            "11.42",
+            "6.78"
+          ],
+          "result": "18.20",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "11.42",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "4",
+                  "column": 3
+                },
+                {
+                  "text": "2",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "6.78",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "6",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                },
+                {
+                  "text": "8",
+                  "column": 4
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            },
+            {
+              "kind": "result",
+              "value": "18.20",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "8",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                },
+                {
+                  "text": "0",
+                  "column": 4
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                2,
+                8
+              ],
+              "carry_in": 0,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 3,
+              "digits": [
+                4,
+                7
+              ],
+              "carry_in": 1,
+              "sum": 12,
+              "digit": 2,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                1,
+                6
+              ],
+              "carry_in": 1,
+              "sum": 8,
+              "digit": 8,
+              "carry_out": 0
+            },
+            {
+              "column": 0,
+              "digits": [
+                1,
+                0
+              ],
+              "carry_in": 0,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 3,
+              "text": "1"
+            },
+            {
+              "column": 1,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "验算",
+          "id": "p103_s07_vertical_02"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 103,
+      "source_page": 107,
+      "question_id": "三、2（4）"
+    },
+    "p107_s03": {
+      "calculations": [
+        {
+          "op": "-",
+          "role": "answer",
+          "operands": [
+            "12",
+            "4.5"
+          ],
+          "aligned_operands": [
+            "12.0",
+            "4.5"
+          ],
+          "result": "7.5",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "12.0",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "4.5",
+              "cells": [
+                {
+                  "text": "-",
+                  "column": -1
+                },
+                {
+                  "text": "4",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "7.5",
+              "cells": [
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 3,
+              "minuend_digit_after_borrow": 10,
+              "subtrahend_digit": 5,
+              "digit": 5
+            },
+            {
+              "column": 1,
+              "minuend_digit_after_borrow": 11,
+              "subtrahend_digit": 4,
+              "digit": 7
+            },
+            {
+              "column": 0,
+              "minuend_digit_after_borrow": 0,
+              "subtrahend_digit": 0,
+              "digit": 0
+            }
+          ],
+          "carry_marks": [],
+          "borrow_steps": [
+            {
+              "from_column": 1,
+              "to_column": 3,
+              "updates": [
+                {
+                  "column": 1,
+                  "new_value": 1
+                },
+                {
+                  "column": 3,
+                  "new_value": 10
+                }
+              ]
+            },
+            {
+              "from_column": 0,
+              "to_column": 1,
+              "updates": [
+                {
+                  "column": 0,
+                  "new_value": 0
+                },
+                {
+                  "column": 1,
+                  "new_value": 11
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "id": "p107_s03_vertical_01"
+        },
+        {
+          "op": "+",
+          "role": "answer",
+          "operands": [
+            "7.5",
+            "4.5"
+          ],
+          "aligned_operands": [
+            "7.5",
+            "4.5"
+          ],
+          "result": "12.0",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "7.5",
+              "cells": [
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "4.5",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "4",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "12.0",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 3,
+              "digits": [
+                5,
+                5
+              ],
+              "carry_in": 0,
+              "sum": 10,
+              "digit": 0,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                7,
+                4
+              ],
+              "carry_in": 1,
+              "sum": 12,
+              "digit": 2,
+              "carry_out": 1
+            },
+            {
+              "column": 0,
+              "digits": [
+                0,
+                0
+              ],
+              "carry_in": 1,
+              "sum": 1,
+              "digit": 1,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            },
+            {
+              "column": 0,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": true,
+          "decimal_column": 2,
+          "label": "验算",
+          "id": "p107_s03_vertical_02"
+        }
+      ],
+      "replace_array": true,
+      "book_page": 107,
+      "source_page": 111,
+      "question_id": "三、2（2）"
+    },
+    "p018_s03": {
+      "calculations": [
+        {
+          "op": "×",
+          "role": "question",
+          "operands": [
+            "106",
+            "22"
+          ],
+          "result": "2332",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 3,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "106",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": "0",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "22",
+              "cells": [
+                {
+                  "text": "×",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "partial_product",
+              "value": "212",
+              "place_shift": 0,
+              "numeric_value": "212",
+              "multiplier_digit": "2",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": "1",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                }
+              ],
+              "explanation": "106×2×10^0=212",
+              "annotation": "①"
+            },
+            {
+              "kind": "partial_product",
+              "value": "212",
+              "place_shift": 1,
+              "numeric_value": "2120",
+              "multiplier_digit": "2",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "1",
+                  "column": 1
+                },
+                {
+                  "text": "2",
+                  "column": 2
+                }
+              ],
+              "explanation": "106×2×10^1=2120",
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              },
+              "annotation": "②"
+            },
+            {
+              "kind": "result",
+              "value": "2332",
+              "cells": [
+                {
+                  "text": "2",
+                  "column": 0
+                },
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "3",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "partial_products": [
+            "212",
+            "2120"
+          ],
+          "id": "p018_s03_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "replace_question_diagrams": [
+        "p018_s03_g1"
+      ],
+      "source_given_rows": true,
+      "book_page": 18,
+      "source_page": 22,
+      "question_id": "一、9（2）（两个空）"
+    },
+    "p025_s02": {
+      "calculations": [
+        {
+          "op": "×",
+          "role": "question",
+          "operands": [
+            "45",
+            "42"
+          ],
+          "result": "1890",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 3,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "45",
+              "cells": [
+                {
+                  "text": "4",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "42",
+              "cells": [
+                {
+                  "text": "×",
+                  "column": -1
+                },
+                {
+                  "text": "4",
+                  "column": 2
+                },
+                {
+                  "text": "2",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "partial_product",
+              "value": "90",
+              "place_shift": 0,
+              "numeric_value": "90",
+              "multiplier_digit": "2",
+              "cells": [
+                {
+                  "text": "9",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ],
+              "explanation": "45×2×10^0=90"
+            },
+            {
+              "kind": "partial_product",
+              "value": "180",
+              "place_shift": 1,
+              "numeric_value": "1800",
+              "multiplier_digit": "4",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "8",
+                  "column": 1
+                },
+                {
+                  "text": "0",
+                  "column": 2
+                }
+              ],
+              "explanation": "45×4×10^1=1800",
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "1890",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "8",
+                  "column": 1
+                },
+                {
+                  "text": "9",
+                  "column": 2
+                },
+                {
+                  "text": "0",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "partial_products": [
+            "90",
+            "1800"
+          ],
+          "id": "p025_s02_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "replace_question_diagrams": [
+        "p025_s02_g1"
+      ],
+      "source_given_rows": true,
+      "book_page": 25,
+      "source_page": 29,
+      "question_id": "一、2"
+    },
+    "p062_s04": {
+      "calculations": [
+        {
+          "op": "+",
+          "role": "question",
+          "operands": [
+            "34.95",
+            "2.5"
+          ],
+          "aligned_operands": [
+            "34.95",
+            "2.50"
+          ],
+          "result": "37.45",
+          "column_count": 5,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 0,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "kind": "decimal_point"
+            },
+            {
+              "column": 3,
+              "power10": -1,
+              "kind": "digit"
+            },
+            {
+              "column": 4,
+              "power10": -2,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "34.95",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 0
+                },
+                {
+                  "text": "4",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "9",
+                  "column": 3
+                },
+                {
+                  "text": "5",
+                  "column": 4
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "2.5",
+              "cells": [
+                {
+                  "text": "+",
+                  "column": -1
+                },
+                {
+                  "text": "2",
+                  "column": 1
+                },
+                {
+                  "text": ".",
+                  "column": 2
+                },
+                {
+                  "text": "5",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 4
+              }
+            }
+          ],
+          "verification_steps": [
+            {
+              "column": 4,
+              "digits": [
+                5,
+                0
+              ],
+              "carry_in": 0,
+              "sum": 5,
+              "digit": 5,
+              "carry_out": 0
+            },
+            {
+              "column": 3,
+              "digits": [
+                9,
+                5
+              ],
+              "carry_in": 0,
+              "sum": 14,
+              "digit": 4,
+              "carry_out": 1
+            },
+            {
+              "column": 1,
+              "digits": [
+                4,
+                2
+              ],
+              "carry_in": 1,
+              "sum": 7,
+              "digit": 7,
+              "carry_out": 0
+            },
+            {
+              "column": 0,
+              "digits": [
+                3,
+                0
+              ],
+              "carry_in": 0,
+              "sum": 3,
+              "digit": 3,
+              "carry_out": 0
+            }
+          ],
+          "carry_marks": [
+            {
+              "column": 1,
+              "text": "1"
+            }
+          ],
+          "borrow_steps": [],
+          "numeric_verified": true,
+          "show_result": false,
+          "decimal_column": 2,
+          "highlight": {
+            "kind": "dashed_rectangle",
+            "from_column": 3,
+            "to_column": 3,
+            "from_row": 0,
+            "to_row": 1
+          },
+          "id": "p062_s04_vertical_01"
+        }
+      ],
+      "replace_array": true,
+      "replace_question_diagrams": [
+        "p062_vertical"
+      ],
+      "source_given_rows": true,
+      "book_page": 62,
+      "source_page": 66,
+      "question_id": "二、2"
+    },
+    "p102_s02": {
+      "calculations": [
+        {
+          "op": "×",
+          "role": "illustration",
+          "operands": [
+            "48",
+            "37"
+          ],
+          "result": "1776",
+          "column_count": 4,
+          "columns": [
+            {
+              "column": 0,
+              "power10": 3,
+              "kind": "digit"
+            },
+            {
+              "column": 1,
+              "power10": 2,
+              "kind": "digit"
+            },
+            {
+              "column": 2,
+              "power10": 1,
+              "kind": "digit"
+            },
+            {
+              "column": 3,
+              "power10": 0,
+              "kind": "digit"
+            }
+          ],
+          "rows": [
+            {
+              "kind": "operand",
+              "value": "48",
+              "cells": [
+                {
+                  "text": "4",
+                  "column": 2
+                },
+                {
+                  "text": "8",
+                  "column": 3
+                }
+              ]
+            },
+            {
+              "kind": "operand",
+              "value": "37",
+              "cells": [
+                {
+                  "text": "×",
+                  "column": -1
+                },
+                {
+                  "text": "3",
+                  "column": 2
+                },
+                {
+                  "text": "7",
+                  "column": 3
+                }
+              ],
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "partial_product",
+              "value": "336",
+              "place_shift": 0,
+              "numeric_value": "336",
+              "multiplier_digit": "7",
+              "cells": [
+                {
+                  "text": "3",
+                  "column": 1
+                },
+                {
+                  "text": "3",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                }
+              ],
+              "explanation": "48×7×10^0=336"
+            },
+            {
+              "kind": "partial_product",
+              "value": "144",
+              "place_shift": 1,
+              "numeric_value": "1440",
+              "multiplier_digit": "3",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "4",
+                  "column": 1
+                },
+                {
+                  "text": "4",
+                  "column": 2
+                }
+              ],
+              "explanation": "48×3×10^1=1440",
+              "rule_after": {
+                "start_column": -1,
+                "end_column": 3
+              }
+            },
+            {
+              "kind": "result",
+              "value": "1776",
+              "cells": [
+                {
+                  "text": "1",
+                  "column": 0
+                },
+                {
+                  "text": "7",
+                  "column": 1
+                },
+                {
+                  "text": "7",
+                  "column": 2
+                },
+                {
+                  "text": "6",
+                  "column": 3
+                }
+              ]
+            }
+          ],
+          "numeric_verified": true,
+          "show_result": true,
+          "partial_products": [
+            "336",
+            "1440"
+          ],
+          "label": "分配律竖式示意（原题字形仍保留）",
+          "id": "p102_s02_vertical_01"
+        }
+      ],
+      "replace_array": false,
+      "retain_original_glyph": true,
+      "native_rebuild_of_original_allowed": false,
+      "book_page": 102,
+      "source_page": 106,
+      "question_id": "二、2"
+    }
+  },
+  "summary": {
+    "record_count": 26,
+    "calculation_count": 40,
+    "answer_calculation_count": 36,
+    "numeric_verified_count": 40,
+    "excluded_non_vertical_arrays": [
+      {
+        "key": "p040_s02",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      },
+      {
+        "key": "p058_s08",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      },
+      {
+        "key": "p062_s09",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      },
+      {
+        "key": "p076_s02",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      },
+      {
+        "key": "p080_s02",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      },
+      {
+        "key": "p085_s04",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      },
+      {
+        "key": "p092_s01",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      },
+      {
+        "key": "p096_s04",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      },
+      {
+        "key": "p108_s05",
+        "reason": "统计/枚举/口算结果矩阵，不是竖式，不应使用竖式专用布局"
+      }
+    ]
+  },
+  "rendering_contract": {
+    "column_unit": "same fixed horizontal pitch for every number digit; 0-based left-to-right; negative columns are legal for operation sign/divisor",
+    "row_unit": "one fixed row pitch, independent reveal by complete row",
+    "decimal_point": "is its own explicit cell, kept in decimal_column in every row",
+    "rules": "rule_after spans the stated columns; not emulated with underscore text",
+    "division_bracket": "top_row identifies dividend row; horizontal bar immediately above that row, rounded left cap between top_row and bottom_row; quotient is row 0, divisor uses negative columns",
+    "role": "question rows are visible with statement; answer rows reveal after analysis; illustration does not replace damaged source glyphs",
+    "source": "Question strings and original diagrams were inspected through reviewed structured records; ambiguous printed p102 glyphs remain original cropped image."
+  }
+}

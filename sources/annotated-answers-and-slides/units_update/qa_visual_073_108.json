@@ -1,0 +1,152 @@
+{
+  "passed": true,
+  "role": "independent_read_only_visual_QA",
+  "pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "final_pdf_generation": "FINAL_PDF_READY3",
+  "whole_book_pages_actually_viewed": [
+    75,
+    79,
+    81,
+    82,
+    93,
+    97,
+    100,
+    101,
+    104,
+    105,
+    106
+  ],
+  "whole_pdf_pages_actually_viewed": [
+    79,
+    83,
+    85,
+    86,
+    97,
+    101,
+    104,
+    105,
+    108,
+    109,
+    110
+  ],
+  "note_crops_actually_viewed": [
+    "p075_s02",
+    "p079_s04",
+    "p081_s07",
+    "p081_s08",
+    "p081_s09",
+    "p081_s10",
+    "p081_s11",
+    "p082_s07",
+    "p093_s01",
+    "p093_s02",
+    "p093_s06",
+    "p097_s01",
+    "p100_s03",
+    "p101_s03",
+    "p104_s02",
+    "p105_s02",
+    "p106_s02"
+  ],
+  "contact_sheets_actually_viewed": [
+    "local_crops/contact_073_108_01.png",
+    "local_crops/contact_073_108_02.png",
+    "local_crops/contact_073_108_03.png"
+  ],
+  "local_regions_actually_viewed_count": 15,
+  "local_regions_actually_viewed": [
+    "p079_s04_local1",
+    "p079_s05_local1",
+    "p084_s01_local1",
+    "p084_s02_local1",
+    "p084_s03_local1",
+    "p084_s04_local1",
+    "p088_s02_local2",
+    "p091_s02_local1",
+    "p091_s03_local1",
+    "p104_s01_local1",
+    "p104_s03_local1",
+    "p104_s04_local1",
+    "p104_s05_local1",
+    "p079_s04_local2",
+    "p075_s02_local1"
+  ],
+  "final_ready3_rechecked_whole_pages": [
+    75,
+    79
+  ],
+  "final_ready3_rechecked_note_crops": [
+    "p075_s02",
+    "p079_s04"
+  ],
+  "final_ready3_rechecked_contact_sheet": "local_crops/contact_073_108_03.png",
+  "carryforward_evidence": "qa_visual_carryforward.json",
+  "carryforward_evidence_sha256": "3c99ec1a2cfcb05e566c10f0a627fc6ccec438ff086f5c8f3b2a9803ee70164a",
+  "finding": "最终分配范围内换算独立成行、换算单位无括号，结果单位使用ASCII括号；未见缺数、目标单位碰撞或题干遮挡。75/79两题去掉note内重复换算后，原位完整换算各保留一次。",
+  "checks": {
+    "conversion_equations_on_own_rows": true,
+    "conversion_LHS_equals_RHS_remain_same_physical_line_or_valid_continuation": true,
+    "conversion_unit_words_unparenthesized": true,
+    "result_unit_parentheses_ascii": true,
+    "no_visible_target_unit_digits_collision": true,
+    "no_visible_ghost_or_clipped_target_units": true,
+    "p075_local_note_overlap_fixed_and_rechecked": true,
+    "p075_p079_redundant_note_conversion_removed_original_complete_line_preserved": true
+  },
+  "resolved_issues": [
+    {
+      "key": "p075_s02",
+      "observed_at": "FINAL_PDF_READY2",
+      "issue": "原位答语与题缝note首行叠字，且重复换算",
+      "final_status": "新PDF实际重新看整页、note及contact，答语与note已分离，只保留原位一条完整换算"
+    },
+    {
+      "key": "p079_s04",
+      "observed_at": "FINAL_PDF_READY2",
+      "issue": "note尾重复已有原位完整单位换算",
+      "final_status": "新版实际重新看，note重复行已删除，原位6240克=(6240÷1000)千克=6.24千克完整保留"
+    }
+  ],
+  "unresolved_issues": [],
+  "evidence_image_sha256": {
+    "previews/p075.png": "0e13c4e6e1fc556f5634690b54deb0d4bbbc626d3b00dd5f596ef252f501471c",
+    "previews/p079.png": "d5dceb11a9b725a3dce9ecd499c8d06a6c576c7067c30036662e8bd498caae0f",
+    "previews/p081.png": "94cbf6a7cefb06d4248f3a3d70dc1a52cf478e2d70baf212a5200d0b489afc16",
+    "previews/p082.png": "6d59e803b5b67730bad0a80e35ef1ade6ed00cac607a755beaad8d5c2f1642d4",
+    "previews/p093.png": "c69f769916fb4a1d454d8398714c3dac48472474f655dc252f0808d54940d897",
+    "previews/p097.png": "6751a460d2514a9f275bb99bfc8acdf70c476c2c2b80a5576737a394d1dd658c",
+    "previews/p100.png": "fe1004d3cd69332c22c392a245bfe2b70b4b050ed08a70fd0cba9dfd54c1c0f7",
+    "previews/p101.png": "29ccf58f3fc54d866ea1adf87384de528dfb2989164115bbdd713202fef40f7a",
+    "previews/p104.png": "c35ad323fbba8e1683d04fc40111e25f35e09dcbbf1a5782464b1560f9f6f59e",
+    "previews/p105.png": "431873483625b112bbdd0842063d738b7ed17e35bfe505b72cd37afe7d0862e7",
+    "previews/p106.png": "9de7800e809b948be2eaebd920e34f3eac14a23127de9258b00e6b523288068d",
+    "crops/p075_s02_note.png": "37cb0d838aff527d82be4b534e6a8c9e7840d979f28233d8ebadb4dd286ed1f7",
+    "crops/p079_s04_note.png": "5b165ccd7d38ab7bbeab69d38509c1b6d2507c6c1354d95469b43ef8a6db5e57",
+    "crops/p081_s07_note.png": "f8afb60d401ae2fa6ed3563f120740a62c1a63d89e8ccb95cae704ba4982f866",
+    "crops/p081_s08_note.png": "507cbeb923c8725538494cf4a5aff059446d4a1900dea02e58d28ba9162ed931",
+    "crops/p081_s09_note.png": "1589337fa7110e6ab5c09991e0991d2cab73cab40e088b1c9c9b8f570f2661bd",
+    "crops/p081_s10_note.png": "353524cf16516eba47ad221dd26360e54d125ed3eecf127150cdccbe693220ad",
+    "crops/p081_s11_note.png": "4e1d4a180ef0e33d335e7f6ce93b45b47996f7d774d5fd2816cbb6bc8a1cb478",
+    "crops/p082_s07_note.png": "389b85a762eed688a3a2ecf91de4bdbbc9f006a5914a49202960e059e385514d",
+    "crops/p093_s01_note.png": "a38a65ea8e1dae559cf540521beea64e6d2761b5fa18a45a710a60ad9096675b",
+    "crops/p093_s02_note.png": "8f7006381bba0689afb45f546cf1c24892729007deb672e40cbf9eea7a84642c",
+    "crops/p093_s06_note.png": "9c698fcc8173613c2c0929d98708443441b9c9dee969a8cafa75c222415fd181",
+    "crops/p097_s01_note.png": "e81b9f0cc2a0600f04ce99d6ccf3dde7f6de72224ac6286b981f63a0f44304fd",
+    "crops/p100_s03_note.png": "1a8b63df296c8e4c5e250e5c0012a5757ebc5509669b354544e7ec65e7586c1c",
+    "crops/p101_s03_note.png": "9bcdf052db76f987e529d2fa1223ca377ec6445567ad90835ae0c927d267d780",
+    "crops/p104_s02_note.png": "876f97056a31152997922539aae528e3c292858cc13efae224c1245989e83f4c",
+    "crops/p105_s02_note.png": "c7e58b5c8a6c3eaca1f5075860c9afe37c4c53db01b9056f6cb90630e5db397e",
+    "crops/p106_s02_note.png": "e2f8a027d8178717429ac389eb0569012dfe101c31ef692dc02adbfb191b653a",
+    "local_crops/contact_073_108_01.png": "6e04db231a86d965f6a1ff5560946aa69078c7bf9e22d0c9c10f9618d2f649b1",
+    "local_crops/contact_073_108_02.png": "0b7fea21f0a7d2e53c554aa383baba5b9fd06fd9287b928a64bbc30e6274f99d",
+    "local_crops/contact_073_108_03.png": "5c0264ba2fb8fd567590e83b17319d3f91cfcac9b5f7b701399f402e6053a498"
+  },
+  "scope_limits": [
+    "实际审看11个整页、17条指定note和15个新增local区域；不声称逐页人工通看全册128页。",
+    "READY3仅75/79相应区域变化，已实际重看；其余先前审过的像素不变以作者qa_visual_carryforward.json为补充证据。",
+    "contact中周边标题/答语可能被内部裁图边界截断，目标单位完整；相关全文由整页和note裁图另核。",
+    "Q4B和5个黑色照片更正由独立源比较精确保留，本视觉范围未重复查看第78页。",
+    "此报告不等同于原生PowerPoint放映/动画测试。"
+  ],
+  "native_powerpoint_playback_tested": false
+}

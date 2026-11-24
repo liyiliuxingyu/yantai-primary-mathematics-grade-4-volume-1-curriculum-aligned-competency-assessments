@@ -1,0 +1,440 @@
+{
+  "book_page": 38,
+  "source_page": 42,
+  "records": [
+    {
+      "key": "p038_s01",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 0,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "两个完全相同的三角形一定能拼成（　）。",
+      "options": [
+        "A. 梯形",
+        "B. 平行四边形",
+        "C. 长方形",
+        "D. 正方形"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。把两个完全相同的三角形的一组对应边重合，其中一个转半周，可以拼成两组对边分别平行的四边形。因此一定能拼成平行四边形；长方形、正方形需要额外角度条件。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s02",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 1,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "广场花坛的形状是平行四边形，相邻两条边长分别是7米和6米，这个花坛的周长是多少米？（　）",
+      "options": [
+        "A. 13米",
+        "B. 14米",
+        "C. 12米",
+        "D. 26米"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选D。平行四边形的两组对边分别相等，周长\\((7+6)\\times2=26\\)米，选D。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s03",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 2,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "一个等腰直角三角形，其中一个底角是（　）。",
+      "options": [
+        "A. \\(90^\\circ\\)",
+        "B. \\(180^\\circ\\)",
+        "C. \\(45^\\circ\\)",
+        "D. \\(60^\\circ\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。等腰直角三角形的两个锐角相等，共\\(180^\\circ-90^\\circ=90^\\circ\\)，每个\\(90^\\circ\\div2=45^\\circ\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s04",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 3,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "校门口的电动伸缩门，能自由拉伸开合，它是利用了平行四边形（　）的特性设计的。",
+      "options": [
+        "A. 稳定性",
+        "B. 易变形",
+        "C. 对称性",
+        "D. 牢固性"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p038_s04_g1",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.6cm]\\draw(0,0)--(10,0);\\foreach\\x in{0,...,8}{\\draw(\\x,0)--(\\x+1,1.4)--(\\x+2,0);\\draw(\\x,1.4)--(\\x+1,0)--(\\x+2,1.4);}\\draw(10,0)rectangle(11,1.8);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "非定量伸缩门情境示意，交叉框架为平行四边形。"
+        }
+      ],
+      "answer_latex": "选B。平行四边形四条边长度不变时，角度仍可以变化，所以容易变形，适合伸缩门自由拉伸。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s05",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 4,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "下面各组数据，不能组成三角形的是（　）。",
+      "options": [
+        "A. 6厘米、6厘米、6厘米",
+        "B. 3分米、3分米、6分米",
+        "C. 9米、7米、8米",
+        "D. 12厘米、6厘米、10厘米"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。三角形任意两边之和必须大于第三边。B中\\(3+3=6\\)，只能排成一条直线；其余各组的两短边之和都大于最长边。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s06",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 5,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "裁剪窗花时，把一张平行四边形红纸任意分成两个梯形，这两个梯形的（　）一定相等。",
+      "options": [
+        "A. 面积",
+        "B. 周长",
+        "C. 高",
+        "D. 上底与下底的和"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。两个梯形的两条底分别落在原平行四边形的同一组平行边上。高是从一条底到另一条底的垂直线段，表示这两条平行线之间的距离；所以两个梯形的高相等。分割线、斜腰或看起来较短的边，都不能直接当作高。面积、周长、两底之和则不一定相等。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s07",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 6,
+      "id": "二、7",
+      "kind": "choice",
+      "question_latex": "一个三角形中，最小的角是\\(46^\\circ\\)，这个三角形是（　）。",
+      "options": [
+        "A. 锐角三角形",
+        "B. 直角三角形",
+        "C. 钝角三角形",
+        "D. 无法确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选A。最小角为\\(46^\\circ\\)，其余两个角都不小于\\(46^\\circ\\)。最大角至多\\(180^\\circ-46^\\circ-46^\\circ=88^\\circ\\)，三个角都小于\\(90^\\circ\\)，一定是锐角三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s08",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 7,
+      "id": "三、1",
+      "kind": "judgment",
+      "question_latex": "判断：长方形是特殊的平行四边形，正方形是特殊的长方形。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\checkmark\\)。长方形的两组对边分别平行，属于平行四边形；正方形四个角都为直角，属于长方形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s09",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 8,
+      "id": "三、2",
+      "kind": "judgment",
+      "question_latex": "判断：梯形的高一定比它的腰短。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\times\\)。直角梯形中，与底边垂直的那条腰就等于高，是反例。因此不能说高“一定比腰短”。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s10",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 9,
+      "id": "三、3",
+      "kind": "judgment",
+      "question_latex": "判断：从平行四边形的一个顶点可以向对边作一条高，所以平行四边形有4条高。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\times\\)。平行四边形的边上有无数个点，都可向对边作垂线段，因此高有无数条，不能只数从顶点画出的几条。对应同一条底，所有高的长度相等；“长度相等”不表示“只有一条”。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s11",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 10,
+      "id": "三、4",
+      "kind": "judgment",
+      "question_latex": "判断：两个完全一样的梯形可以拼成一个平行四边形。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\checkmark\\)。将两个完全相同的梯形反向拼接，使对应的一条腰重合，可拼成平行四边形，所得两组对边分别平行。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s12",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 11,
+      "id": "三、5",
+      "kind": "judgment",
+      "question_latex": "判断：剪下三角形的一个\\(45^\\circ\\)角，剩下图形的内角和是\\(135^\\circ\\)。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\times\\)。不能把\\(180^\\circ\\)直接减去剪下的\\(45^\\circ\\)。沿一条线截去一个顶角，剩余部分可能成为四边形，其内角和为\\(360^\\circ\\)；若剪线经过另一个顶点，剩余仍可能是三角形，内角和仍为\\(180^\\circ\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s13",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 12,
+      "id": "三、6",
+      "kind": "judgment",
+      "question_latex": "判断：三角形越大，内角和就越大。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\times\\)。所有三角形的内角和都是\\(180^\\circ\\)。图形放大或缩小，角度不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p038_s14",
+      "book_page": 38,
+      "source_page": 42,
+      "section_index": 13,
+      "id": "三、7",
+      "kind": "judgment",
+      "question_latex": "判断：有一组对边平行的图形一定是梯形。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\times\\)。平行四边形也有一组对边平行，不能因此叫梯形。梯形必须是“只有一组对边平行”的四边形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

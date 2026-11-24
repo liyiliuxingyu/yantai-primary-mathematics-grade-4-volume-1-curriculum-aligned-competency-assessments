@@ -1,0 +1,1352 @@
+[
+  {
+    "key": "d519a4c508f2df8eb549f10e",
+    "stem": "simplify_d519a4c508f2df8eb549f10e",
+    "tex": "112+(7-7)\\div3",
+    "source": "ppt_average/formulas/simplify_d519a4c508f2df8eb549f10e.tex",
+    "pdf": "ppt_average/formulas/simplify_d519a4c508f2df8eb549f10e.pdf",
+    "png": "ppt_average/formulas/simplify_d519a4c508f2df8eb549f10e.png",
+    "svg": "ppt_average/formulas/simplify_d519a4c508f2df8eb549f10e.svg"
+  },
+  {
+    "key": "e8ffbebc1b5b2e6a3870b70d",
+    "stem": "simplify_e8ffbebc1b5b2e6a3870b70d",
+    "tex": "112+0\\div3",
+    "source": "ppt_average/formulas/simplify_e8ffbebc1b5b2e6a3870b70d.tex",
+    "pdf": "ppt_average/formulas/simplify_e8ffbebc1b5b2e6a3870b70d.pdf",
+    "png": "ppt_average/formulas/simplify_e8ffbebc1b5b2e6a3870b70d.png",
+    "svg": "ppt_average/formulas/simplify_e8ffbebc1b5b2e6a3870b70d.svg"
+  },
+  {
+    "key": "3a14af12b2dfb9dc3e57bab1",
+    "stem": "simplify_3a14af12b2dfb9dc3e57bab1",
+    "tex": "112+0",
+    "source": "ppt_average/formulas/simplify_3a14af12b2dfb9dc3e57bab1.tex",
+    "pdf": "ppt_average/formulas/simplify_3a14af12b2dfb9dc3e57bab1.pdf",
+    "png": "ppt_average/formulas/simplify_3a14af12b2dfb9dc3e57bab1.png",
+    "svg": "ppt_average/formulas/simplify_3a14af12b2dfb9dc3e57bab1.svg"
+  },
+  {
+    "key": "474baccedda1667b7ea39765",
+    "stem": "simplify_474baccedda1667b7ea39765",
+    "tex": "112\\text{（个）}",
+    "source": "ppt_average/formulas/simplify_474baccedda1667b7ea39765.tex",
+    "pdf": "ppt_average/formulas/simplify_474baccedda1667b7ea39765.pdf",
+    "png": "ppt_average/formulas/simplify_474baccedda1667b7ea39765.png",
+    "svg": "ppt_average/formulas/simplify_474baccedda1667b7ea39765.svg"
+  },
+  {
+    "key": "ff9fc21e1b39c2f40acb8612",
+    "stem": "simplify_ff9fc21e1b39c2f40acb8612",
+    "tex": "=",
+    "source": "ppt_average/formulas/simplify_ff9fc21e1b39c2f40acb8612.tex",
+    "pdf": "ppt_average/formulas/simplify_ff9fc21e1b39c2f40acb8612.pdf",
+    "png": "ppt_average/formulas/simplify_ff9fc21e1b39c2f40acb8612.png",
+    "svg": "ppt_average/formulas/simplify_ff9fc21e1b39c2f40acb8612.svg"
+  },
+  {
+    "key": "a2e076f4845eb60617ef82b9",
+    "stem": "simplify_a2e076f4845eb60617ef82b9",
+    "tex": "(500-400)\\div2",
+    "source": "ppt_average/formulas/simplify_a2e076f4845eb60617ef82b9.tex",
+    "pdf": "ppt_average/formulas/simplify_a2e076f4845eb60617ef82b9.pdf",
+    "png": "ppt_average/formulas/simplify_a2e076f4845eb60617ef82b9.png",
+    "svg": "ppt_average/formulas/simplify_a2e076f4845eb60617ef82b9.svg"
+  },
+  {
+    "key": "bd48c3fa926a151f7fa6988a",
+    "stem": "simplify_bd48c3fa926a151f7fa6988a",
+    "tex": "100\\div2",
+    "source": "ppt_average/formulas/simplify_bd48c3fa926a151f7fa6988a.tex",
+    "pdf": "ppt_average/formulas/simplify_bd48c3fa926a151f7fa6988a.pdf",
+    "png": "ppt_average/formulas/simplify_bd48c3fa926a151f7fa6988a.png",
+    "svg": "ppt_average/formulas/simplify_bd48c3fa926a151f7fa6988a.svg"
+  },
+  {
+    "key": "25d2c3e4da6299b018d90ba3",
+    "stem": "simplify_25d2c3e4da6299b018d90ba3",
+    "tex": "50\\text{（克）}",
+    "source": "ppt_average/formulas/simplify_25d2c3e4da6299b018d90ba3.tex",
+    "pdf": "ppt_average/formulas/simplify_25d2c3e4da6299b018d90ba3.pdf",
+    "png": "ppt_average/formulas/simplify_25d2c3e4da6299b018d90ba3.png",
+    "svg": "ppt_average/formulas/simplify_25d2c3e4da6299b018d90ba3.svg"
+  },
+  {
+    "key": "d908c56ae53f153d5d533e16",
+    "stem": "simplify_d908c56ae53f153d5d533e16",
+    "tex": "(500+400)\\div2",
+    "source": "ppt_average/formulas/simplify_d908c56ae53f153d5d533e16.tex",
+    "pdf": "ppt_average/formulas/simplify_d908c56ae53f153d5d533e16.pdf",
+    "png": "ppt_average/formulas/simplify_d908c56ae53f153d5d533e16.png",
+    "svg": "ppt_average/formulas/simplify_d908c56ae53f153d5d533e16.svg"
+  },
+  {
+    "key": "b232fba84d216b6effa54f93",
+    "stem": "simplify_b232fba84d216b6effa54f93",
+    "tex": "900\\div2",
+    "source": "ppt_average/formulas/simplify_b232fba84d216b6effa54f93.tex",
+    "pdf": "ppt_average/formulas/simplify_b232fba84d216b6effa54f93.pdf",
+    "png": "ppt_average/formulas/simplify_b232fba84d216b6effa54f93.png",
+    "svg": "ppt_average/formulas/simplify_b232fba84d216b6effa54f93.svg"
+  },
+  {
+    "key": "ea9661bcb1cca479fa772d13",
+    "stem": "simplify_ea9661bcb1cca479fa772d13",
+    "tex": "450\\text{（克）}",
+    "source": "ppt_average/formulas/simplify_ea9661bcb1cca479fa772d13.tex",
+    "pdf": "ppt_average/formulas/simplify_ea9661bcb1cca479fa772d13.pdf",
+    "png": "ppt_average/formulas/simplify_ea9661bcb1cca479fa772d13.png",
+    "svg": "ppt_average/formulas/simplify_ea9661bcb1cca479fa772d13.svg"
+  },
+  {
+    "key": "a0ef2bf2175ac55886f880e6",
+    "stem": "simplify_a0ef2bf2175ac55886f880e6",
+    "tex": "(98+125+149)\\div31",
+    "source": "ppt_average/formulas/simplify_a0ef2bf2175ac55886f880e6.tex",
+    "pdf": "ppt_average/formulas/simplify_a0ef2bf2175ac55886f880e6.pdf",
+    "png": "ppt_average/formulas/simplify_a0ef2bf2175ac55886f880e6.png",
+    "svg": "ppt_average/formulas/simplify_a0ef2bf2175ac55886f880e6.svg"
+  },
+  {
+    "key": "3357968c71347ff250fe9b87",
+    "stem": "simplify_3357968c71347ff250fe9b87",
+    "tex": "(223+149)\\div31",
+    "source": "ppt_average/formulas/simplify_3357968c71347ff250fe9b87.tex",
+    "pdf": "ppt_average/formulas/simplify_3357968c71347ff250fe9b87.pdf",
+    "png": "ppt_average/formulas/simplify_3357968c71347ff250fe9b87.png",
+    "svg": "ppt_average/formulas/simplify_3357968c71347ff250fe9b87.svg"
+  },
+  {
+    "key": "103d43869a33981ade5a15e3",
+    "stem": "simplify_103d43869a33981ade5a15e3",
+    "tex": "372\\div31",
+    "source": "ppt_average/formulas/simplify_103d43869a33981ade5a15e3.tex",
+    "pdf": "ppt_average/formulas/simplify_103d43869a33981ade5a15e3.pdf",
+    "png": "ppt_average/formulas/simplify_103d43869a33981ade5a15e3.png",
+    "svg": "ppt_average/formulas/simplify_103d43869a33981ade5a15e3.svg"
+  },
+  {
+    "key": "a749085020c0e80fcdcd2d09",
+    "stem": "simplify_a749085020c0e80fcdcd2d09",
+    "tex": "12\\text{（部）}",
+    "source": "ppt_average/formulas/simplify_a749085020c0e80fcdcd2d09.tex",
+    "pdf": "ppt_average/formulas/simplify_a749085020c0e80fcdcd2d09.pdf",
+    "png": "ppt_average/formulas/simplify_a749085020c0e80fcdcd2d09.png",
+    "svg": "ppt_average/formulas/simplify_a749085020c0e80fcdcd2d09.svg"
+  },
+  {
+    "key": "03ffc67abaae6b786c03d80e",
+    "stem": "simplify_03ffc67abaae6b786c03d80e",
+    "tex": "12",
+    "source": "ppt_average/formulas/simplify_03ffc67abaae6b786c03d80e.tex",
+    "pdf": "ppt_average/formulas/simplify_03ffc67abaae6b786c03d80e.pdf",
+    "png": "ppt_average/formulas/simplify_03ffc67abaae6b786c03d80e.png",
+    "svg": "ppt_average/formulas/simplify_03ffc67abaae6b786c03d80e.svg"
+  },
+  {
+    "key": "0aee0fd5c25821d0642eba8c",
+    "stem": "simplify_0aee0fd5c25821d0642eba8c",
+    "tex": "14-(20-14)",
+    "source": "ppt_average/formulas/simplify_0aee0fd5c25821d0642eba8c.tex",
+    "pdf": "ppt_average/formulas/simplify_0aee0fd5c25821d0642eba8c.pdf",
+    "png": "ppt_average/formulas/simplify_0aee0fd5c25821d0642eba8c.png",
+    "svg": "ppt_average/formulas/simplify_0aee0fd5c25821d0642eba8c.svg"
+  },
+  {
+    "key": "a6a16d914101988bb485d7e3",
+    "stem": "simplify_a6a16d914101988bb485d7e3",
+    "tex": "14-6",
+    "source": "ppt_average/formulas/simplify_a6a16d914101988bb485d7e3.tex",
+    "pdf": "ppt_average/formulas/simplify_a6a16d914101988bb485d7e3.pdf",
+    "png": "ppt_average/formulas/simplify_a6a16d914101988bb485d7e3.png",
+    "svg": "ppt_average/formulas/simplify_a6a16d914101988bb485d7e3.svg"
+  },
+  {
+    "key": "003d11f21bbfc1198bf38535",
+    "stem": "simplify_003d11f21bbfc1198bf38535",
+    "tex": "8\\text{（厘米）}",
+    "source": "ppt_average/formulas/simplify_003d11f21bbfc1198bf38535.tex",
+    "pdf": "ppt_average/formulas/simplify_003d11f21bbfc1198bf38535.pdf",
+    "png": "ppt_average/formulas/simplify_003d11f21bbfc1198bf38535.png",
+    "svg": "ppt_average/formulas/simplify_003d11f21bbfc1198bf38535.svg"
+  },
+  {
+    "key": "0ca2bb975210e7934b7685d5",
+    "stem": "simplify_0ca2bb975210e7934b7685d5",
+    "tex": "(500+480)\\div7",
+    "source": "ppt_average/formulas/simplify_0ca2bb975210e7934b7685d5.tex",
+    "pdf": "ppt_average/formulas/simplify_0ca2bb975210e7934b7685d5.pdf",
+    "png": "ppt_average/formulas/simplify_0ca2bb975210e7934b7685d5.png",
+    "svg": "ppt_average/formulas/simplify_0ca2bb975210e7934b7685d5.svg"
+  },
+  {
+    "key": "9db7a9d758f2022eee87c8e7",
+    "stem": "simplify_9db7a9d758f2022eee87c8e7",
+    "tex": "100+[(70+30)+(20+140)+90-(30+40)]\\div7",
+    "source": "ppt_average/formulas/simplify_9db7a9d758f2022eee87c8e7.tex",
+    "pdf": "ppt_average/formulas/simplify_9db7a9d758f2022eee87c8e7.pdf",
+    "png": "ppt_average/formulas/simplify_9db7a9d758f2022eee87c8e7.png",
+    "svg": "ppt_average/formulas/simplify_9db7a9d758f2022eee87c8e7.svg"
+  },
+  {
+    "key": "a9e957bb4eb892f419268a29",
+    "stem": "simplify_a9e957bb4eb892f419268a29",
+    "tex": "100+(100+160+90-70)\\div7",
+    "source": "ppt_average/formulas/simplify_a9e957bb4eb892f419268a29.tex",
+    "pdf": "ppt_average/formulas/simplify_a9e957bb4eb892f419268a29.pdf",
+    "png": "ppt_average/formulas/simplify_a9e957bb4eb892f419268a29.png",
+    "svg": "ppt_average/formulas/simplify_a9e957bb4eb892f419268a29.svg"
+  },
+  {
+    "key": "ba450c712e7ae9d4d3a406ec",
+    "stem": "simplify_ba450c712e7ae9d4d3a406ec",
+    "tex": "100+[(100+160)+(90-70)]\\div7",
+    "source": "ppt_average/formulas/simplify_ba450c712e7ae9d4d3a406ec.tex",
+    "pdf": "ppt_average/formulas/simplify_ba450c712e7ae9d4d3a406ec.pdf",
+    "png": "ppt_average/formulas/simplify_ba450c712e7ae9d4d3a406ec.png",
+    "svg": "ppt_average/formulas/simplify_ba450c712e7ae9d4d3a406ec.svg"
+  },
+  {
+    "key": "3dcf3e61c507bce4ec414765",
+    "stem": "simplify_3dcf3e61c507bce4ec414765",
+    "tex": "100+(260+20)\\div7",
+    "source": "ppt_average/formulas/simplify_3dcf3e61c507bce4ec414765.tex",
+    "pdf": "ppt_average/formulas/simplify_3dcf3e61c507bce4ec414765.pdf",
+    "png": "ppt_average/formulas/simplify_3dcf3e61c507bce4ec414765.png",
+    "svg": "ppt_average/formulas/simplify_3dcf3e61c507bce4ec414765.svg"
+  },
+  {
+    "key": "f10dce493e33ace1b20c6857",
+    "stem": "simplify_f10dce493e33ace1b20c6857",
+    "tex": "100+280\\div7",
+    "source": "ppt_average/formulas/simplify_f10dce493e33ace1b20c6857.tex",
+    "pdf": "ppt_average/formulas/simplify_f10dce493e33ace1b20c6857.pdf",
+    "png": "ppt_average/formulas/simplify_f10dce493e33ace1b20c6857.png",
+    "svg": "ppt_average/formulas/simplify_f10dce493e33ace1b20c6857.svg"
+  },
+  {
+    "key": "7e05e7b7e9aa49d61e1273ee",
+    "stem": "simplify_7e05e7b7e9aa49d61e1273ee",
+    "tex": "100+40",
+    "source": "ppt_average/formulas/simplify_7e05e7b7e9aa49d61e1273ee.tex",
+    "pdf": "ppt_average/formulas/simplify_7e05e7b7e9aa49d61e1273ee.pdf",
+    "png": "ppt_average/formulas/simplify_7e05e7b7e9aa49d61e1273ee.png",
+    "svg": "ppt_average/formulas/simplify_7e05e7b7e9aa49d61e1273ee.svg"
+  },
+  {
+    "key": "7bab0e08e99753add25dc9c0",
+    "stem": "simplify_7bab0e08e99753add25dc9c0",
+    "tex": "140\\text{（厘米）}",
+    "source": "ppt_average/formulas/simplify_7bab0e08e99753add25dc9c0.tex",
+    "pdf": "ppt_average/formulas/simplify_7bab0e08e99753add25dc9c0.pdf",
+    "png": "ppt_average/formulas/simplify_7bab0e08e99753add25dc9c0.png",
+    "svg": "ppt_average/formulas/simplify_7bab0e08e99753add25dc9c0.svg"
+  },
+  {
+    "key": "578b9113474d310e9b74f724",
+    "stem": "simplify_578b9113474d310e9b74f724",
+    "tex": "(720\\times2)\\div20",
+    "source": "ppt_average/formulas/simplify_578b9113474d310e9b74f724.tex",
+    "pdf": "ppt_average/formulas/simplify_578b9113474d310e9b74f724.pdf",
+    "png": "ppt_average/formulas/simplify_578b9113474d310e9b74f724.png",
+    "svg": "ppt_average/formulas/simplify_578b9113474d310e9b74f724.svg"
+  },
+  {
+    "key": "17015a24ecfa143ea92eb036",
+    "stem": "simplify_17015a24ecfa143ea92eb036",
+    "tex": "720\\times(2\\div2)\\div10",
+    "source": "ppt_average/formulas/simplify_17015a24ecfa143ea92eb036.tex",
+    "pdf": "ppt_average/formulas/simplify_17015a24ecfa143ea92eb036.pdf",
+    "png": "ppt_average/formulas/simplify_17015a24ecfa143ea92eb036.png",
+    "svg": "ppt_average/formulas/simplify_17015a24ecfa143ea92eb036.svg"
+  },
+  {
+    "key": "e382a636af8fe26c796d32c7",
+    "stem": "simplify_e382a636af8fe26c796d32c7",
+    "tex": "720\\times1\\div10",
+    "source": "ppt_average/formulas/simplify_e382a636af8fe26c796d32c7.tex",
+    "pdf": "ppt_average/formulas/simplify_e382a636af8fe26c796d32c7.pdf",
+    "png": "ppt_average/formulas/simplify_e382a636af8fe26c796d32c7.png",
+    "svg": "ppt_average/formulas/simplify_e382a636af8fe26c796d32c7.svg"
+  },
+  {
+    "key": "fd1eedff3ebb2eeb900e8603",
+    "stem": "simplify_fd1eedff3ebb2eeb900e8603",
+    "tex": "720\\div10",
+    "source": "ppt_average/formulas/simplify_fd1eedff3ebb2eeb900e8603.tex",
+    "pdf": "ppt_average/formulas/simplify_fd1eedff3ebb2eeb900e8603.pdf",
+    "png": "ppt_average/formulas/simplify_fd1eedff3ebb2eeb900e8603.png",
+    "svg": "ppt_average/formulas/simplify_fd1eedff3ebb2eeb900e8603.svg"
+  },
+  {
+    "key": "f10695aad2ca8baca5c749cb",
+    "stem": "simplify_f10695aad2ca8baca5c749cb",
+    "tex": "72\\text{（米/分）}",
+    "source": "ppt_average/formulas/simplify_f10695aad2ca8baca5c749cb.tex",
+    "pdf": "ppt_average/formulas/simplify_f10695aad2ca8baca5c749cb.pdf",
+    "png": "ppt_average/formulas/simplify_f10695aad2ca8baca5c749cb.png",
+    "svg": "ppt_average/formulas/simplify_f10695aad2ca8baca5c749cb.svg"
+  },
+  {
+    "key": "8c2b3ff7561587092dd8363a",
+    "stem": "simplify_8c2b3ff7561587092dd8363a",
+    "tex": "72",
+    "source": "ppt_average/formulas/simplify_8c2b3ff7561587092dd8363a.tex",
+    "pdf": "ppt_average/formulas/simplify_8c2b3ff7561587092dd8363a.pdf",
+    "png": "ppt_average/formulas/simplify_8c2b3ff7561587092dd8363a.png",
+    "svg": "ppt_average/formulas/simplify_8c2b3ff7561587092dd8363a.svg"
+  },
+  {
+    "key": "afd336d9dc10b0c30aa345d3",
+    "stem": "simplify_afd336d9dc10b0c30aa345d3",
+    "tex": "85\\times5\\div5",
+    "source": "ppt_average/formulas/simplify_afd336d9dc10b0c30aa345d3.tex",
+    "pdf": "ppt_average/formulas/simplify_afd336d9dc10b0c30aa345d3.pdf",
+    "png": "ppt_average/formulas/simplify_afd336d9dc10b0c30aa345d3.png",
+    "svg": "ppt_average/formulas/simplify_afd336d9dc10b0c30aa345d3.svg"
+  },
+  {
+    "key": "1661f1fe932dff2526789250",
+    "stem": "simplify_1661f1fe932dff2526789250",
+    "tex": "85\\times(5\\div5)",
+    "source": "ppt_average/formulas/simplify_1661f1fe932dff2526789250.tex",
+    "pdf": "ppt_average/formulas/simplify_1661f1fe932dff2526789250.pdf",
+    "png": "ppt_average/formulas/simplify_1661f1fe932dff2526789250.png",
+    "svg": "ppt_average/formulas/simplify_1661f1fe932dff2526789250.svg"
+  },
+  {
+    "key": "1dde229a3bf5beebabf2507f",
+    "stem": "simplify_1dde229a3bf5beebabf2507f",
+    "tex": "85\\times1",
+    "source": "ppt_average/formulas/simplify_1dde229a3bf5beebabf2507f.tex",
+    "pdf": "ppt_average/formulas/simplify_1dde229a3bf5beebabf2507f.pdf",
+    "png": "ppt_average/formulas/simplify_1dde229a3bf5beebabf2507f.png",
+    "svg": "ppt_average/formulas/simplify_1dde229a3bf5beebabf2507f.svg"
+  },
+  {
+    "key": "433d88a16f1eb01da2324e73",
+    "stem": "simplify_433d88a16f1eb01da2324e73",
+    "tex": "85\\text{（分）}",
+    "source": "ppt_average/formulas/simplify_433d88a16f1eb01da2324e73.tex",
+    "pdf": "ppt_average/formulas/simplify_433d88a16f1eb01da2324e73.pdf",
+    "png": "ppt_average/formulas/simplify_433d88a16f1eb01da2324e73.png",
+    "svg": "ppt_average/formulas/simplify_433d88a16f1eb01da2324e73.svg"
+  },
+  {
+    "key": "4106d3bbb87c4322954d6622",
+    "stem": "simplify_4106d3bbb87c4322954d6622",
+    "tex": "67+2+1",
+    "source": "ppt_average/formulas/simplify_4106d3bbb87c4322954d6622.tex",
+    "pdf": "ppt_average/formulas/simplify_4106d3bbb87c4322954d6622.pdf",
+    "png": "ppt_average/formulas/simplify_4106d3bbb87c4322954d6622.png",
+    "svg": "ppt_average/formulas/simplify_4106d3bbb87c4322954d6622.svg"
+  },
+  {
+    "key": "a6c7e6c15ac6d23745f4e58b",
+    "stem": "simplify_a6c7e6c15ac6d23745f4e58b",
+    "tex": "67+(2+1)",
+    "source": "ppt_average/formulas/simplify_a6c7e6c15ac6d23745f4e58b.tex",
+    "pdf": "ppt_average/formulas/simplify_a6c7e6c15ac6d23745f4e58b.pdf",
+    "png": "ppt_average/formulas/simplify_a6c7e6c15ac6d23745f4e58b.png",
+    "svg": "ppt_average/formulas/simplify_a6c7e6c15ac6d23745f4e58b.svg"
+  },
+  {
+    "key": "6485b2b05fe40716e9fbe417",
+    "stem": "simplify_6485b2b05fe40716e9fbe417",
+    "tex": "67+3",
+    "source": "ppt_average/formulas/simplify_6485b2b05fe40716e9fbe417.tex",
+    "pdf": "ppt_average/formulas/simplify_6485b2b05fe40716e9fbe417.pdf",
+    "png": "ppt_average/formulas/simplify_6485b2b05fe40716e9fbe417.png",
+    "svg": "ppt_average/formulas/simplify_6485b2b05fe40716e9fbe417.svg"
+  },
+  {
+    "key": "f5937490af5ba29105c0800f",
+    "stem": "simplify_f5937490af5ba29105c0800f",
+    "tex": "70\\text{（分）}",
+    "source": "ppt_average/formulas/simplify_f5937490af5ba29105c0800f.tex",
+    "pdf": "ppt_average/formulas/simplify_f5937490af5ba29105c0800f.pdf",
+    "png": "ppt_average/formulas/simplify_f5937490af5ba29105c0800f.png",
+    "svg": "ppt_average/formulas/simplify_f5937490af5ba29105c0800f.svg"
+  },
+  {
+    "key": "0a189cce052154db2ef2190c",
+    "stem": "simplify_0a189cce052154db2ef2190c",
+    "tex": "95+[(96-95)-(95-94)]\\div3",
+    "source": "ppt_average/formulas/simplify_0a189cce052154db2ef2190c.tex",
+    "pdf": "ppt_average/formulas/simplify_0a189cce052154db2ef2190c.pdf",
+    "png": "ppt_average/formulas/simplify_0a189cce052154db2ef2190c.png",
+    "svg": "ppt_average/formulas/simplify_0a189cce052154db2ef2190c.svg"
+  },
+  {
+    "key": "5253147f94c8336d3bb04d14",
+    "stem": "simplify_5253147f94c8336d3bb04d14",
+    "tex": "95+(1-1)\\div3",
+    "source": "ppt_average/formulas/simplify_5253147f94c8336d3bb04d14.tex",
+    "pdf": "ppt_average/formulas/simplify_5253147f94c8336d3bb04d14.pdf",
+    "png": "ppt_average/formulas/simplify_5253147f94c8336d3bb04d14.png",
+    "svg": "ppt_average/formulas/simplify_5253147f94c8336d3bb04d14.svg"
+  },
+  {
+    "key": "bb566d1ef93b3f8a11051bb3",
+    "stem": "simplify_bb566d1ef93b3f8a11051bb3",
+    "tex": "95+0\\div3",
+    "source": "ppt_average/formulas/simplify_bb566d1ef93b3f8a11051bb3.tex",
+    "pdf": "ppt_average/formulas/simplify_bb566d1ef93b3f8a11051bb3.pdf",
+    "png": "ppt_average/formulas/simplify_bb566d1ef93b3f8a11051bb3.png",
+    "svg": "ppt_average/formulas/simplify_bb566d1ef93b3f8a11051bb3.svg"
+  },
+  {
+    "key": "83672f350e09018a5c3017b2",
+    "stem": "simplify_83672f350e09018a5c3017b2",
+    "tex": "95+0",
+    "source": "ppt_average/formulas/simplify_83672f350e09018a5c3017b2.tex",
+    "pdf": "ppt_average/formulas/simplify_83672f350e09018a5c3017b2.pdf",
+    "png": "ppt_average/formulas/simplify_83672f350e09018a5c3017b2.png",
+    "svg": "ppt_average/formulas/simplify_83672f350e09018a5c3017b2.svg"
+  },
+  {
+    "key": "41caa65e3a667df8051f4274",
+    "stem": "simplify_41caa65e3a667df8051f4274",
+    "tex": "95\\text{（分）}",
+    "source": "ppt_average/formulas/simplify_41caa65e3a667df8051f4274.tex",
+    "pdf": "ppt_average/formulas/simplify_41caa65e3a667df8051f4274.pdf",
+    "png": "ppt_average/formulas/simplify_41caa65e3a667df8051f4274.png",
+    "svg": "ppt_average/formulas/simplify_41caa65e3a667df8051f4274.svg"
+  },
+  {
+    "key": "824a74f6629a61bf146f6c03",
+    "stem": "simplify_824a74f6629a61bf146f6c03",
+    "tex": "(16+15+20+18+14+19)\\div6",
+    "source": "ppt_average/formulas/simplify_824a74f6629a61bf146f6c03.tex",
+    "pdf": "ppt_average/formulas/simplify_824a74f6629a61bf146f6c03.pdf",
+    "png": "ppt_average/formulas/simplify_824a74f6629a61bf146f6c03.png",
+    "svg": "ppt_average/formulas/simplify_824a74f6629a61bf146f6c03.svg"
+  },
+  {
+    "key": "793aa8e94a0c514d2db6c93a",
+    "stem": "simplify_793aa8e94a0c514d2db6c93a",
+    "tex": "[(16+18)+(15+19)+(20+14)]\\div6",
+    "source": "ppt_average/formulas/simplify_793aa8e94a0c514d2db6c93a.tex",
+    "pdf": "ppt_average/formulas/simplify_793aa8e94a0c514d2db6c93a.pdf",
+    "png": "ppt_average/formulas/simplify_793aa8e94a0c514d2db6c93a.png",
+    "svg": "ppt_average/formulas/simplify_793aa8e94a0c514d2db6c93a.svg"
+  },
+  {
+    "key": "090e48bc5221358fb8a8d08b",
+    "stem": "simplify_090e48bc5221358fb8a8d08b",
+    "tex": "(34+34+34)\\div6",
+    "source": "ppt_average/formulas/simplify_090e48bc5221358fb8a8d08b.tex",
+    "pdf": "ppt_average/formulas/simplify_090e48bc5221358fb8a8d08b.pdf",
+    "png": "ppt_average/formulas/simplify_090e48bc5221358fb8a8d08b.png",
+    "svg": "ppt_average/formulas/simplify_090e48bc5221358fb8a8d08b.svg"
+  },
+  {
+    "key": "fd7bce16ec65f2a004270dba",
+    "stem": "simplify_fd7bce16ec65f2a004270dba",
+    "tex": "(34\\times3)\\div(3\\times2)",
+    "source": "ppt_average/formulas/simplify_fd7bce16ec65f2a004270dba.tex",
+    "pdf": "ppt_average/formulas/simplify_fd7bce16ec65f2a004270dba.pdf",
+    "png": "ppt_average/formulas/simplify_fd7bce16ec65f2a004270dba.png",
+    "svg": "ppt_average/formulas/simplify_fd7bce16ec65f2a004270dba.svg"
+  },
+  {
+    "key": "b854511301e344b83e610acc",
+    "stem": "simplify_b854511301e344b83e610acc",
+    "tex": "237+145\\times3",
+    "source": "ppt_average/formulas/simplify_b854511301e344b83e610acc.tex",
+    "pdf": "ppt_average/formulas/simplify_b854511301e344b83e610acc.pdf",
+    "png": "ppt_average/formulas/simplify_b854511301e344b83e610acc.png",
+    "svg": "ppt_average/formulas/simplify_b854511301e344b83e610acc.svg"
+  },
+  {
+    "key": "43b68d1cfd7047b4b7493cc8",
+    "stem": "simplify_43b68d1cfd7047b4b7493cc8",
+    "tex": "237+435",
+    "source": "ppt_average/formulas/simplify_43b68d1cfd7047b4b7493cc8.tex",
+    "pdf": "ppt_average/formulas/simplify_43b68d1cfd7047b4b7493cc8.pdf",
+    "png": "ppt_average/formulas/simplify_43b68d1cfd7047b4b7493cc8.png",
+    "svg": "ppt_average/formulas/simplify_43b68d1cfd7047b4b7493cc8.svg"
+  },
+  {
+    "key": "cd3fdfd64a4d27ab9e5cc08d",
+    "stem": "simplify_cd3fdfd64a4d27ab9e5cc08d",
+    "tex": "672\\text{（台）}",
+    "source": "ppt_average/formulas/simplify_cd3fdfd64a4d27ab9e5cc08d.tex",
+    "pdf": "ppt_average/formulas/simplify_cd3fdfd64a4d27ab9e5cc08d.pdf",
+    "png": "ppt_average/formulas/simplify_cd3fdfd64a4d27ab9e5cc08d.png",
+    "svg": "ppt_average/formulas/simplify_cd3fdfd64a4d27ab9e5cc08d.svg"
+  },
+  {
+    "key": "f941c129babf0e4c7935c6bd",
+    "stem": "simplify_f941c129babf0e4c7935c6bd",
+    "tex": "672\\div(3+3)",
+    "source": "ppt_average/formulas/simplify_f941c129babf0e4c7935c6bd.tex",
+    "pdf": "ppt_average/formulas/simplify_f941c129babf0e4c7935c6bd.pdf",
+    "png": "ppt_average/formulas/simplify_f941c129babf0e4c7935c6bd.png",
+    "svg": "ppt_average/formulas/simplify_f941c129babf0e4c7935c6bd.svg"
+  },
+  {
+    "key": "39a54d2ed4354aae28f738e7",
+    "stem": "simplify_39a54d2ed4354aae28f738e7",
+    "tex": "672\\div6",
+    "source": "ppt_average/formulas/simplify_39a54d2ed4354aae28f738e7.tex",
+    "pdf": "ppt_average/formulas/simplify_39a54d2ed4354aae28f738e7.pdf",
+    "png": "ppt_average/formulas/simplify_39a54d2ed4354aae28f738e7.png",
+    "svg": "ppt_average/formulas/simplify_39a54d2ed4354aae28f738e7.svg"
+  },
+  {
+    "key": "0e18c51d2e993150ec24291c",
+    "stem": "simplify_0e18c51d2e993150ec24291c",
+    "tex": "112\\text{（台）}",
+    "source": "ppt_average/formulas/simplify_0e18c51d2e993150ec24291c.tex",
+    "pdf": "ppt_average/formulas/simplify_0e18c51d2e993150ec24291c.pdf",
+    "png": "ppt_average/formulas/simplify_0e18c51d2e993150ec24291c.png",
+    "svg": "ppt_average/formulas/simplify_0e18c51d2e993150ec24291c.svg"
+  },
+  {
+    "key": "f5986f3845e31a2de7675450",
+    "stem": "simplify_f5986f3845e31a2de7675450",
+    "tex": "(156+154+151+159+160)\\div5",
+    "source": "ppt_average/formulas/simplify_f5986f3845e31a2de7675450.tex",
+    "pdf": "ppt_average/formulas/simplify_f5986f3845e31a2de7675450.pdf",
+    "png": "ppt_average/formulas/simplify_f5986f3845e31a2de7675450.png",
+    "svg": "ppt_average/formulas/simplify_f5986f3845e31a2de7675450.svg"
+  },
+  {
+    "key": "4f1f3e7b3fdc85ffb7d22d95",
+    "stem": "simplify_4f1f3e7b3fdc85ffb7d22d95",
+    "tex": "[(156+154)+(151+159)+160]\\div5",
+    "source": "ppt_average/formulas/simplify_4f1f3e7b3fdc85ffb7d22d95.tex",
+    "pdf": "ppt_average/formulas/simplify_4f1f3e7b3fdc85ffb7d22d95.pdf",
+    "png": "ppt_average/formulas/simplify_4f1f3e7b3fdc85ffb7d22d95.png",
+    "svg": "ppt_average/formulas/simplify_4f1f3e7b3fdc85ffb7d22d95.svg"
+  },
+  {
+    "key": "669fcbe15c90f9be08f1d342",
+    "stem": "simplify_669fcbe15c90f9be08f1d342",
+    "tex": "(310+310+160)\\div5",
+    "source": "ppt_average/formulas/simplify_669fcbe15c90f9be08f1d342.tex",
+    "pdf": "ppt_average/formulas/simplify_669fcbe15c90f9be08f1d342.pdf",
+    "png": "ppt_average/formulas/simplify_669fcbe15c90f9be08f1d342.png",
+    "svg": "ppt_average/formulas/simplify_669fcbe15c90f9be08f1d342.svg"
+  },
+  {
+    "key": "c4076f2052077a080305d9f6",
+    "stem": "simplify_c4076f2052077a080305d9f6",
+    "tex": "155+(160-155)\\div5",
+    "source": "ppt_average/formulas/simplify_c4076f2052077a080305d9f6.tex",
+    "pdf": "ppt_average/formulas/simplify_c4076f2052077a080305d9f6.pdf",
+    "png": "ppt_average/formulas/simplify_c4076f2052077a080305d9f6.png",
+    "svg": "ppt_average/formulas/simplify_c4076f2052077a080305d9f6.svg"
+  },
+  {
+    "key": "0aae929d2be80360269bb33e",
+    "stem": "simplify_0aae929d2be80360269bb33e",
+    "tex": "155+5\\div5",
+    "source": "ppt_average/formulas/simplify_0aae929d2be80360269bb33e.tex",
+    "pdf": "ppt_average/formulas/simplify_0aae929d2be80360269bb33e.pdf",
+    "png": "ppt_average/formulas/simplify_0aae929d2be80360269bb33e.png",
+    "svg": "ppt_average/formulas/simplify_0aae929d2be80360269bb33e.svg"
+  },
+  {
+    "key": "3add455b7b97a440847dfdb0",
+    "stem": "simplify_3add455b7b97a440847dfdb0",
+    "tex": "155+1",
+    "source": "ppt_average/formulas/simplify_3add455b7b97a440847dfdb0.tex",
+    "pdf": "ppt_average/formulas/simplify_3add455b7b97a440847dfdb0.pdf",
+    "png": "ppt_average/formulas/simplify_3add455b7b97a440847dfdb0.png",
+    "svg": "ppt_average/formulas/simplify_3add455b7b97a440847dfdb0.svg"
+  },
+  {
+    "key": "0575f4c2aeef6031ac4a9fd9",
+    "stem": "simplify_0575f4c2aeef6031ac4a9fd9",
+    "tex": "156\\text{（厘米）}",
+    "source": "ppt_average/formulas/simplify_0575f4c2aeef6031ac4a9fd9.tex",
+    "pdf": "ppt_average/formulas/simplify_0575f4c2aeef6031ac4a9fd9.pdf",
+    "png": "ppt_average/formulas/simplify_0575f4c2aeef6031ac4a9fd9.png",
+    "svg": "ppt_average/formulas/simplify_0575f4c2aeef6031ac4a9fd9.svg"
+  },
+  {
+    "key": "59e19c7d52d5c21fba9b0ab4",
+    "stem": "simplify_59e19c7d52d5c21fba9b0ab4",
+    "tex": "156+(159-154)\\div5",
+    "source": "ppt_average/formulas/simplify_59e19c7d52d5c21fba9b0ab4.tex",
+    "pdf": "ppt_average/formulas/simplify_59e19c7d52d5c21fba9b0ab4.pdf",
+    "png": "ppt_average/formulas/simplify_59e19c7d52d5c21fba9b0ab4.png",
+    "svg": "ppt_average/formulas/simplify_59e19c7d52d5c21fba9b0ab4.svg"
+  },
+  {
+    "key": "52142a6f1078f2f741d2414e",
+    "stem": "simplify_52142a6f1078f2f741d2414e",
+    "tex": "156+5\\div5",
+    "source": "ppt_average/formulas/simplify_52142a6f1078f2f741d2414e.tex",
+    "pdf": "ppt_average/formulas/simplify_52142a6f1078f2f741d2414e.pdf",
+    "png": "ppt_average/formulas/simplify_52142a6f1078f2f741d2414e.png",
+    "svg": "ppt_average/formulas/simplify_52142a6f1078f2f741d2414e.svg"
+  },
+  {
+    "key": "8f0cb2fb36a1e9e7282b2ce5",
+    "stem": "simplify_8f0cb2fb36a1e9e7282b2ce5",
+    "tex": "156+1",
+    "source": "ppt_average/formulas/simplify_8f0cb2fb36a1e9e7282b2ce5.tex",
+    "pdf": "ppt_average/formulas/simplify_8f0cb2fb36a1e9e7282b2ce5.pdf",
+    "png": "ppt_average/formulas/simplify_8f0cb2fb36a1e9e7282b2ce5.png",
+    "svg": "ppt_average/formulas/simplify_8f0cb2fb36a1e9e7282b2ce5.svg"
+  },
+  {
+    "key": "6a179c6b2aa722efca75d92d",
+    "stem": "simplify_6a179c6b2aa722efca75d92d",
+    "tex": "157\\text{（厘米）}",
+    "source": "ppt_average/formulas/simplify_6a179c6b2aa722efca75d92d.tex",
+    "pdf": "ppt_average/formulas/simplify_6a179c6b2aa722efca75d92d.pdf",
+    "png": "ppt_average/formulas/simplify_6a179c6b2aa722efca75d92d.png",
+    "svg": "ppt_average/formulas/simplify_6a179c6b2aa722efca75d92d.svg"
+  },
+  {
+    "key": "5516849b1ac3809bd75322bb",
+    "stem": "simplify_5516849b1ac3809bd75322bb",
+    "tex": "157-(159-154)\\div5",
+    "source": "ppt_average/formulas/simplify_5516849b1ac3809bd75322bb.tex",
+    "pdf": "ppt_average/formulas/simplify_5516849b1ac3809bd75322bb.pdf",
+    "png": "ppt_average/formulas/simplify_5516849b1ac3809bd75322bb.png",
+    "svg": "ppt_average/formulas/simplify_5516849b1ac3809bd75322bb.svg"
+  },
+  {
+    "key": "176c78f626b63de4ebe15e1f",
+    "stem": "simplify_176c78f626b63de4ebe15e1f",
+    "tex": "157-5\\div5",
+    "source": "ppt_average/formulas/simplify_176c78f626b63de4ebe15e1f.tex",
+    "pdf": "ppt_average/formulas/simplify_176c78f626b63de4ebe15e1f.pdf",
+    "png": "ppt_average/formulas/simplify_176c78f626b63de4ebe15e1f.png",
+    "svg": "ppt_average/formulas/simplify_176c78f626b63de4ebe15e1f.svg"
+  },
+  {
+    "key": "92a0646670d48ad6cf830f57",
+    "stem": "simplify_92a0646670d48ad6cf830f57",
+    "tex": "157-1",
+    "source": "ppt_average/formulas/simplify_92a0646670d48ad6cf830f57.tex",
+    "pdf": "ppt_average/formulas/simplify_92a0646670d48ad6cf830f57.pdf",
+    "png": "ppt_average/formulas/simplify_92a0646670d48ad6cf830f57.png",
+    "svg": "ppt_average/formulas/simplify_92a0646670d48ad6cf830f57.svg"
+  },
+  {
+    "key": "f35027f6320c6cabd83aeaab",
+    "stem": "simplify_f35027f6320c6cabd83aeaab",
+    "tex": "45\\times3-(40+40)",
+    "source": "ppt_average/formulas/simplify_f35027f6320c6cabd83aeaab.tex",
+    "pdf": "ppt_average/formulas/simplify_f35027f6320c6cabd83aeaab.pdf",
+    "png": "ppt_average/formulas/simplify_f35027f6320c6cabd83aeaab.png",
+    "svg": "ppt_average/formulas/simplify_f35027f6320c6cabd83aeaab.svg"
+  },
+  {
+    "key": "8a5d86b2e40a59cc0de2cdb1",
+    "stem": "simplify_8a5d86b2e40a59cc0de2cdb1",
+    "tex": "135-80",
+    "source": "ppt_average/formulas/simplify_8a5d86b2e40a59cc0de2cdb1.tex",
+    "pdf": "ppt_average/formulas/simplify_8a5d86b2e40a59cc0de2cdb1.pdf",
+    "png": "ppt_average/formulas/simplify_8a5d86b2e40a59cc0de2cdb1.png",
+    "svg": "ppt_average/formulas/simplify_8a5d86b2e40a59cc0de2cdb1.svg"
+  },
+  {
+    "key": "fe2b0365d261ae43798b1df0",
+    "stem": "simplify_fe2b0365d261ae43798b1df0",
+    "tex": "55",
+    "source": "ppt_average/formulas/simplify_fe2b0365d261ae43798b1df0.tex",
+    "pdf": "ppt_average/formulas/simplify_fe2b0365d261ae43798b1df0.pdf",
+    "png": "ppt_average/formulas/simplify_fe2b0365d261ae43798b1df0.png",
+    "svg": "ppt_average/formulas/simplify_fe2b0365d261ae43798b1df0.svg"
+  },
+  {
+    "key": "91902f9e5ba2939a68ece651",
+    "stem": "simplify_91902f9e5ba2939a68ece651",
+    "tex": "281-94\\times2",
+    "source": "ppt_average/formulas/simplify_91902f9e5ba2939a68ece651.tex",
+    "pdf": "ppt_average/formulas/simplify_91902f9e5ba2939a68ece651.pdf",
+    "png": "ppt_average/formulas/simplify_91902f9e5ba2939a68ece651.png",
+    "svg": "ppt_average/formulas/simplify_91902f9e5ba2939a68ece651.svg"
+  },
+  {
+    "key": "bb4d8b603f58b52d09dac847",
+    "stem": "simplify_bb4d8b603f58b52d09dac847",
+    "tex": "281-188",
+    "source": "ppt_average/formulas/simplify_bb4d8b603f58b52d09dac847.tex",
+    "pdf": "ppt_average/formulas/simplify_bb4d8b603f58b52d09dac847.pdf",
+    "png": "ppt_average/formulas/simplify_bb4d8b603f58b52d09dac847.png",
+    "svg": "ppt_average/formulas/simplify_bb4d8b603f58b52d09dac847.svg"
+  },
+  {
+    "key": "aeda12ce7a482b3b4684d309",
+    "stem": "simplify_aeda12ce7a482b3b4684d309",
+    "tex": "93\\text{（分）}",
+    "source": "ppt_average/formulas/simplify_aeda12ce7a482b3b4684d309.tex",
+    "pdf": "ppt_average/formulas/simplify_aeda12ce7a482b3b4684d309.pdf",
+    "png": "ppt_average/formulas/simplify_aeda12ce7a482b3b4684d309.png",
+    "svg": "ppt_average/formulas/simplify_aeda12ce7a482b3b4684d309.svg"
+  },
+  {
+    "key": "6b192940e5937b7edc3e8e49",
+    "stem": "simplify_6b192940e5937b7edc3e8e49",
+    "tex": "150+(160-150)\\div2",
+    "source": "ppt_average/formulas/simplify_6b192940e5937b7edc3e8e49.tex",
+    "pdf": "ppt_average/formulas/simplify_6b192940e5937b7edc3e8e49.pdf",
+    "png": "ppt_average/formulas/simplify_6b192940e5937b7edc3e8e49.png",
+    "svg": "ppt_average/formulas/simplify_6b192940e5937b7edc3e8e49.svg"
+  },
+  {
+    "key": "f2252e64b11402cda919c1d1",
+    "stem": "simplify_f2252e64b11402cda919c1d1",
+    "tex": "150+10\\div2",
+    "source": "ppt_average/formulas/simplify_f2252e64b11402cda919c1d1.tex",
+    "pdf": "ppt_average/formulas/simplify_f2252e64b11402cda919c1d1.pdf",
+    "png": "ppt_average/formulas/simplify_f2252e64b11402cda919c1d1.png",
+    "svg": "ppt_average/formulas/simplify_f2252e64b11402cda919c1d1.svg"
+  },
+  {
+    "key": "42272ed6874a7665af473e17",
+    "stem": "simplify_42272ed6874a7665af473e17",
+    "tex": "150+5",
+    "source": "ppt_average/formulas/simplify_42272ed6874a7665af473e17.tex",
+    "pdf": "ppt_average/formulas/simplify_42272ed6874a7665af473e17.pdf",
+    "png": "ppt_average/formulas/simplify_42272ed6874a7665af473e17.png",
+    "svg": "ppt_average/formulas/simplify_42272ed6874a7665af473e17.svg"
+  },
+  {
+    "key": "2fa242e95419f117e5a3120a",
+    "stem": "simplify_2fa242e95419f117e5a3120a",
+    "tex": "155\\text{（个）}",
+    "source": "ppt_average/formulas/simplify_2fa242e95419f117e5a3120a.tex",
+    "pdf": "ppt_average/formulas/simplify_2fa242e95419f117e5a3120a.pdf",
+    "png": "ppt_average/formulas/simplify_2fa242e95419f117e5a3120a.png",
+    "svg": "ppt_average/formulas/simplify_2fa242e95419f117e5a3120a.svg"
+  },
+  {
+    "key": "a6ed762b516face0c625767a",
+    "stem": "simplify_a6ed762b516face0c625767a",
+    "tex": "(160+150)\\div2",
+    "source": "ppt_average/formulas/simplify_a6ed762b516face0c625767a.tex",
+    "pdf": "ppt_average/formulas/simplify_a6ed762b516face0c625767a.pdf",
+    "png": "ppt_average/formulas/simplify_a6ed762b516face0c625767a.png",
+    "svg": "ppt_average/formulas/simplify_a6ed762b516face0c625767a.svg"
+  },
+  {
+    "key": "ce828b63fab85a246edc8b12",
+    "stem": "simplify_ce828b63fab85a246edc8b12",
+    "tex": "310\\div2",
+    "source": "ppt_average/formulas/simplify_ce828b63fab85a246edc8b12.tex",
+    "pdf": "ppt_average/formulas/simplify_ce828b63fab85a246edc8b12.pdf",
+    "png": "ppt_average/formulas/simplify_ce828b63fab85a246edc8b12.png",
+    "svg": "ppt_average/formulas/simplify_ce828b63fab85a246edc8b12.svg"
+  },
+  {
+    "key": "4a307cf3b76a526733ce48ba",
+    "stem": "simplify_4a307cf3b76a526733ce48ba",
+    "tex": "(12+8+7+13)\\div4",
+    "source": "ppt_average/formulas/simplify_4a307cf3b76a526733ce48ba.tex",
+    "pdf": "ppt_average/formulas/simplify_4a307cf3b76a526733ce48ba.pdf",
+    "png": "ppt_average/formulas/simplify_4a307cf3b76a526733ce48ba.png",
+    "svg": "ppt_average/formulas/simplify_4a307cf3b76a526733ce48ba.svg"
+  },
+  {
+    "key": "5b46ad6a31a3917b8927e9ac",
+    "stem": "simplify_5b46ad6a31a3917b8927e9ac",
+    "tex": "[(12+8)+(7+13)]\\div4",
+    "source": "ppt_average/formulas/simplify_5b46ad6a31a3917b8927e9ac.tex",
+    "pdf": "ppt_average/formulas/simplify_5b46ad6a31a3917b8927e9ac.pdf",
+    "png": "ppt_average/formulas/simplify_5b46ad6a31a3917b8927e9ac.png",
+    "svg": "ppt_average/formulas/simplify_5b46ad6a31a3917b8927e9ac.svg"
+  },
+  {
+    "key": "0aebc5bf0c4a527dcb0d347a",
+    "stem": "simplify_0aebc5bf0c4a527dcb0d347a",
+    "tex": "(20+20)\\div4",
+    "source": "ppt_average/formulas/simplify_0aebc5bf0c4a527dcb0d347a.tex",
+    "pdf": "ppt_average/formulas/simplify_0aebc5bf0c4a527dcb0d347a.pdf",
+    "png": "ppt_average/formulas/simplify_0aebc5bf0c4a527dcb0d347a.png",
+    "svg": "ppt_average/formulas/simplify_0aebc5bf0c4a527dcb0d347a.svg"
+  },
+  {
+    "key": "b85d9b9e0eccace599d78a06",
+    "stem": "simplify_b85d9b9e0eccace599d78a06",
+    "tex": "40\\div4",
+    "source": "ppt_average/formulas/simplify_b85d9b9e0eccace599d78a06.tex",
+    "pdf": "ppt_average/formulas/simplify_b85d9b9e0eccace599d78a06.pdf",
+    "png": "ppt_average/formulas/simplify_b85d9b9e0eccace599d78a06.png",
+    "svg": "ppt_average/formulas/simplify_b85d9b9e0eccace599d78a06.svg"
+  },
+  {
+    "key": "cf8091daa709b2a029a9f97b",
+    "stem": "simplify_cf8091daa709b2a029a9f97b",
+    "tex": "10",
+    "source": "ppt_average/formulas/simplify_cf8091daa709b2a029a9f97b.tex",
+    "pdf": "ppt_average/formulas/simplify_cf8091daa709b2a029a9f97b.pdf",
+    "png": "ppt_average/formulas/simplify_cf8091daa709b2a029a9f97b.png",
+    "svg": "ppt_average/formulas/simplify_cf8091daa709b2a029a9f97b.svg"
+  },
+  {
+    "key": "bbc95f2d5f3c707afce25349",
+    "stem": "simplify_bbc95f2d5f3c707afce25349",
+    "tex": "20+(20-15)-(23-20)",
+    "source": "ppt_average/formulas/simplify_bbc95f2d5f3c707afce25349.tex",
+    "pdf": "ppt_average/formulas/simplify_bbc95f2d5f3c707afce25349.pdf",
+    "png": "ppt_average/formulas/simplify_bbc95f2d5f3c707afce25349.png",
+    "svg": "ppt_average/formulas/simplify_bbc95f2d5f3c707afce25349.svg"
+  },
+  {
+    "key": "061cc216359093cc8e868560",
+    "stem": "simplify_061cc216359093cc8e868560",
+    "tex": "20+5-3",
+    "source": "ppt_average/formulas/simplify_061cc216359093cc8e868560.tex",
+    "pdf": "ppt_average/formulas/simplify_061cc216359093cc8e868560.pdf",
+    "png": "ppt_average/formulas/simplify_061cc216359093cc8e868560.png",
+    "svg": "ppt_average/formulas/simplify_061cc216359093cc8e868560.svg"
+  },
+  {
+    "key": "e62dc2ae1bd451d72992d87e",
+    "stem": "simplify_e62dc2ae1bd451d72992d87e",
+    "tex": "20+(5-3)",
+    "source": "ppt_average/formulas/simplify_e62dc2ae1bd451d72992d87e.tex",
+    "pdf": "ppt_average/formulas/simplify_e62dc2ae1bd451d72992d87e.pdf",
+    "png": "ppt_average/formulas/simplify_e62dc2ae1bd451d72992d87e.png",
+    "svg": "ppt_average/formulas/simplify_e62dc2ae1bd451d72992d87e.svg"
+  },
+  {
+    "key": "73f538b9cafb5b1e3ab367fe",
+    "stem": "simplify_73f538b9cafb5b1e3ab367fe",
+    "tex": "20+2",
+    "source": "ppt_average/formulas/simplify_73f538b9cafb5b1e3ab367fe.tex",
+    "pdf": "ppt_average/formulas/simplify_73f538b9cafb5b1e3ab367fe.pdf",
+    "png": "ppt_average/formulas/simplify_73f538b9cafb5b1e3ab367fe.png",
+    "svg": "ppt_average/formulas/simplify_73f538b9cafb5b1e3ab367fe.svg"
+  },
+  {
+    "key": "4a477e7c10ec613dd15b03d1",
+    "stem": "simplify_4a477e7c10ec613dd15b03d1",
+    "tex": "22\\text{（本）}",
+    "source": "ppt_average/formulas/simplify_4a477e7c10ec613dd15b03d1.tex",
+    "pdf": "ppt_average/formulas/simplify_4a477e7c10ec613dd15b03d1.pdf",
+    "png": "ppt_average/formulas/simplify_4a477e7c10ec613dd15b03d1.png",
+    "svg": "ppt_average/formulas/simplify_4a477e7c10ec613dd15b03d1.svg"
+  },
+  {
+    "key": "74c703b1ffebfa1428e82f6c",
+    "stem": "simplify_74c703b1ffebfa1428e82f6c",
+    "tex": "20\\times3-(23+15)",
+    "source": "ppt_average/formulas/simplify_74c703b1ffebfa1428e82f6c.tex",
+    "pdf": "ppt_average/formulas/simplify_74c703b1ffebfa1428e82f6c.pdf",
+    "png": "ppt_average/formulas/simplify_74c703b1ffebfa1428e82f6c.png",
+    "svg": "ppt_average/formulas/simplify_74c703b1ffebfa1428e82f6c.svg"
+  },
+  {
+    "key": "7d8cc224ad0ae9854a8a900f",
+    "stem": "simplify_7d8cc224ad0ae9854a8a900f",
+    "tex": "60-38",
+    "source": "ppt_average/formulas/simplify_7d8cc224ad0ae9854a8a900f.tex",
+    "pdf": "ppt_average/formulas/simplify_7d8cc224ad0ae9854a8a900f.pdf",
+    "png": "ppt_average/formulas/simplify_7d8cc224ad0ae9854a8a900f.png",
+    "svg": "ppt_average/formulas/simplify_7d8cc224ad0ae9854a8a900f.svg"
+  },
+  {
+    "key": "b6560f5ee3fb75021f7572e0",
+    "stem": "simplify_b6560f5ee3fb75021f7572e0",
+    "tex": "(96+156)\\div(3+4)",
+    "source": "ppt_average/formulas/simplify_b6560f5ee3fb75021f7572e0.tex",
+    "pdf": "ppt_average/formulas/simplify_b6560f5ee3fb75021f7572e0.pdf",
+    "png": "ppt_average/formulas/simplify_b6560f5ee3fb75021f7572e0.png",
+    "svg": "ppt_average/formulas/simplify_b6560f5ee3fb75021f7572e0.svg"
+  },
+  {
+    "key": "4fe50467bac34e2ae017606d",
+    "stem": "simplify_4fe50467bac34e2ae017606d",
+    "tex": "252\\div7",
+    "source": "ppt_average/formulas/simplify_4fe50467bac34e2ae017606d.tex",
+    "pdf": "ppt_average/formulas/simplify_4fe50467bac34e2ae017606d.pdf",
+    "png": "ppt_average/formulas/simplify_4fe50467bac34e2ae017606d.png",
+    "svg": "ppt_average/formulas/simplify_4fe50467bac34e2ae017606d.svg"
+  },
+  {
+    "key": "e7c8a286ef299bc45f17b35b",
+    "stem": "simplify_e7c8a286ef299bc45f17b35b",
+    "tex": "36\\text{（个）}",
+    "source": "ppt_average/formulas/simplify_e7c8a286ef299bc45f17b35b.tex",
+    "pdf": "ppt_average/formulas/simplify_e7c8a286ef299bc45f17b35b.pdf",
+    "png": "ppt_average/formulas/simplify_e7c8a286ef299bc45f17b35b.png",
+    "svg": "ppt_average/formulas/simplify_e7c8a286ef299bc45f17b35b.svg"
+  },
+  {
+    "key": "468fa824cadeeb407e0f7838",
+    "stem": "simplify_468fa824cadeeb407e0f7838",
+    "tex": "96+(2-1-1)\\div5",
+    "source": "ppt_average/formulas/simplify_468fa824cadeeb407e0f7838.tex",
+    "pdf": "ppt_average/formulas/simplify_468fa824cadeeb407e0f7838.pdf",
+    "png": "ppt_average/formulas/simplify_468fa824cadeeb407e0f7838.png",
+    "svg": "ppt_average/formulas/simplify_468fa824cadeeb407e0f7838.svg"
+  },
+  {
+    "key": "39c1cfcffc4ff9933c6b4162",
+    "stem": "simplify_39c1cfcffc4ff9933c6b4162",
+    "tex": "96+[2-(1+1)]\\div5",
+    "source": "ppt_average/formulas/simplify_39c1cfcffc4ff9933c6b4162.tex",
+    "pdf": "ppt_average/formulas/simplify_39c1cfcffc4ff9933c6b4162.pdf",
+    "png": "ppt_average/formulas/simplify_39c1cfcffc4ff9933c6b4162.png",
+    "svg": "ppt_average/formulas/simplify_39c1cfcffc4ff9933c6b4162.svg"
+  },
+  {
+    "key": "bf20ac47185ccfcfbccb6b0a",
+    "stem": "simplify_bf20ac47185ccfcfbccb6b0a",
+    "tex": "96+(2-2)\\div5",
+    "source": "ppt_average/formulas/simplify_bf20ac47185ccfcfbccb6b0a.tex",
+    "pdf": "ppt_average/formulas/simplify_bf20ac47185ccfcfbccb6b0a.pdf",
+    "png": "ppt_average/formulas/simplify_bf20ac47185ccfcfbccb6b0a.png",
+    "svg": "ppt_average/formulas/simplify_bf20ac47185ccfcfbccb6b0a.svg"
+  },
+  {
+    "key": "8c668d3be5d08505c23acbbf",
+    "stem": "simplify_8c668d3be5d08505c23acbbf",
+    "tex": "96+0\\div5",
+    "source": "ppt_average/formulas/simplify_8c668d3be5d08505c23acbbf.tex",
+    "pdf": "ppt_average/formulas/simplify_8c668d3be5d08505c23acbbf.pdf",
+    "png": "ppt_average/formulas/simplify_8c668d3be5d08505c23acbbf.png",
+    "svg": "ppt_average/formulas/simplify_8c668d3be5d08505c23acbbf.svg"
+  },
+  {
+    "key": "ed3fef5bfa457e8cedb5f525",
+    "stem": "simplify_ed3fef5bfa457e8cedb5f525",
+    "tex": "96+0",
+    "source": "ppt_average/formulas/simplify_ed3fef5bfa457e8cedb5f525.tex",
+    "pdf": "ppt_average/formulas/simplify_ed3fef5bfa457e8cedb5f525.pdf",
+    "png": "ppt_average/formulas/simplify_ed3fef5bfa457e8cedb5f525.png",
+    "svg": "ppt_average/formulas/simplify_ed3fef5bfa457e8cedb5f525.svg"
+  },
+  {
+    "key": "edb0ae1591b89bfe7d9859f4",
+    "stem": "simplify_edb0ae1591b89bfe7d9859f4",
+    "tex": "96\\text{（分）}",
+    "source": "ppt_average/formulas/simplify_edb0ae1591b89bfe7d9859f4.tex",
+    "pdf": "ppt_average/formulas/simplify_edb0ae1591b89bfe7d9859f4.pdf",
+    "png": "ppt_average/formulas/simplify_edb0ae1591b89bfe7d9859f4.png",
+    "svg": "ppt_average/formulas/simplify_edb0ae1591b89bfe7d9859f4.svg"
+  },
+  {
+    "key": "da78efd73cf7c405bd7f1a3c",
+    "stem": "simplify_da78efd73cf7c405bd7f1a3c",
+    "tex": "73+81+87+95",
+    "source": "ppt_average/formulas/simplify_da78efd73cf7c405bd7f1a3c.tex",
+    "pdf": "ppt_average/formulas/simplify_da78efd73cf7c405bd7f1a3c.pdf",
+    "png": "ppt_average/formulas/simplify_da78efd73cf7c405bd7f1a3c.png",
+    "svg": "ppt_average/formulas/simplify_da78efd73cf7c405bd7f1a3c.svg"
+  },
+  {
+    "key": "c33cfb64dae47aa886bdf5f6",
+    "stem": "simplify_c33cfb64dae47aa886bdf5f6",
+    "tex": "(73+87)+(81+95)",
+    "source": "ppt_average/formulas/simplify_c33cfb64dae47aa886bdf5f6.tex",
+    "pdf": "ppt_average/formulas/simplify_c33cfb64dae47aa886bdf5f6.pdf",
+    "png": "ppt_average/formulas/simplify_c33cfb64dae47aa886bdf5f6.png",
+    "svg": "ppt_average/formulas/simplify_c33cfb64dae47aa886bdf5f6.svg"
+  },
+  {
+    "key": "1759aa6c8727a2a5440b99fd",
+    "stem": "simplify_1759aa6c8727a2a5440b99fd",
+    "tex": "160+176",
+    "source": "ppt_average/formulas/simplify_1759aa6c8727a2a5440b99fd.tex",
+    "pdf": "ppt_average/formulas/simplify_1759aa6c8727a2a5440b99fd.pdf",
+    "png": "ppt_average/formulas/simplify_1759aa6c8727a2a5440b99fd.png",
+    "svg": "ppt_average/formulas/simplify_1759aa6c8727a2a5440b99fd.svg"
+  },
+  {
+    "key": "59b0ccd11147359ccfaf19ba",
+    "stem": "simplify_59b0ccd11147359ccfaf19ba",
+    "tex": "336",
+    "source": "ppt_average/formulas/simplify_59b0ccd11147359ccfaf19ba.tex",
+    "pdf": "ppt_average/formulas/simplify_59b0ccd11147359ccfaf19ba.pdf",
+    "png": "ppt_average/formulas/simplify_59b0ccd11147359ccfaf19ba.png",
+    "svg": "ppt_average/formulas/simplify_59b0ccd11147359ccfaf19ba.svg"
+  },
+  {
+    "key": "658524a7d42c5354efb904d0",
+    "stem": "simplify_658524a7d42c5354efb904d0",
+    "tex": "(336+81)\\div5",
+    "source": "ppt_average/formulas/simplify_658524a7d42c5354efb904d0.tex",
+    "pdf": "ppt_average/formulas/simplify_658524a7d42c5354efb904d0.pdf",
+    "png": "ppt_average/formulas/simplify_658524a7d42c5354efb904d0.png",
+    "svg": "ppt_average/formulas/simplify_658524a7d42c5354efb904d0.svg"
+  },
+  {
+    "key": "346a97bd816d1914c09768be",
+    "stem": "simplify_346a97bd816d1914c09768be",
+    "tex": "417\\div5",
+    "source": "ppt_average/formulas/simplify_346a97bd816d1914c09768be.tex",
+    "pdf": "ppt_average/formulas/simplify_346a97bd816d1914c09768be.pdf",
+    "png": "ppt_average/formulas/simplify_346a97bd816d1914c09768be.png",
+    "svg": "ppt_average/formulas/simplify_346a97bd816d1914c09768be.svg"
+  },
+  {
+    "key": "b95387c61087a29748d71d5e",
+    "stem": "simplify_b95387c61087a29748d71d5e",
+    "tex": "83.4\\text{（下）}",
+    "source": "ppt_average/formulas/simplify_b95387c61087a29748d71d5e.tex",
+    "pdf": "ppt_average/formulas/simplify_b95387c61087a29748d71d5e.pdf",
+    "png": "ppt_average/formulas/simplify_b95387c61087a29748d71d5e.png",
+    "svg": "ppt_average/formulas/simplify_b95387c61087a29748d71d5e.svg"
+  },
+  {
+    "key": "c501dd8e307693b2eb67b216",
+    "stem": "simplify_c501dd8e307693b2eb67b216",
+    "tex": "(336+87)\\div5",
+    "source": "ppt_average/formulas/simplify_c501dd8e307693b2eb67b216.tex",
+    "pdf": "ppt_average/formulas/simplify_c501dd8e307693b2eb67b216.pdf",
+    "png": "ppt_average/formulas/simplify_c501dd8e307693b2eb67b216.png",
+    "svg": "ppt_average/formulas/simplify_c501dd8e307693b2eb67b216.svg"
+  },
+  {
+    "key": "66b814ec6886ff0ee9a66e82",
+    "stem": "simplify_66b814ec6886ff0ee9a66e82",
+    "tex": "423\\div5",
+    "source": "ppt_average/formulas/simplify_66b814ec6886ff0ee9a66e82.tex",
+    "pdf": "ppt_average/formulas/simplify_66b814ec6886ff0ee9a66e82.pdf",
+    "png": "ppt_average/formulas/simplify_66b814ec6886ff0ee9a66e82.png",
+    "svg": "ppt_average/formulas/simplify_66b814ec6886ff0ee9a66e82.svg"
+  },
+  {
+    "key": "5530c97a598ffb6668a65609",
+    "stem": "simplify_5530c97a598ffb6668a65609",
+    "tex": "84.6\\text{（下）}",
+    "source": "ppt_average/formulas/simplify_5530c97a598ffb6668a65609.tex",
+    "pdf": "ppt_average/formulas/simplify_5530c97a598ffb6668a65609.pdf",
+    "png": "ppt_average/formulas/simplify_5530c97a598ffb6668a65609.png",
+    "svg": "ppt_average/formulas/simplify_5530c97a598ffb6668a65609.svg"
+  },
+  {
+    "key": "0a2d0c6d9f69dcd4eb713ac5",
+    "stem": "simplify_0a2d0c6d9f69dcd4eb713ac5",
+    "tex": "80-(60-50)\\times6",
+    "source": "ppt_average/formulas/simplify_0a2d0c6d9f69dcd4eb713ac5.tex",
+    "pdf": "ppt_average/formulas/simplify_0a2d0c6d9f69dcd4eb713ac5.pdf",
+    "png": "ppt_average/formulas/simplify_0a2d0c6d9f69dcd4eb713ac5.png",
+    "svg": "ppt_average/formulas/simplify_0a2d0c6d9f69dcd4eb713ac5.svg"
+  },
+  {
+    "key": "767b0a9d92e3f5bfb473ada2",
+    "stem": "simplify_767b0a9d92e3f5bfb473ada2",
+    "tex": "80-10\\times6",
+    "source": "ppt_average/formulas/simplify_767b0a9d92e3f5bfb473ada2.tex",
+    "pdf": "ppt_average/formulas/simplify_767b0a9d92e3f5bfb473ada2.pdf",
+    "png": "ppt_average/formulas/simplify_767b0a9d92e3f5bfb473ada2.png",
+    "svg": "ppt_average/formulas/simplify_767b0a9d92e3f5bfb473ada2.svg"
+  },
+  {
+    "key": "2ec088026155dd1b489bdf2c",
+    "stem": "simplify_2ec088026155dd1b489bdf2c",
+    "tex": "80-60",
+    "source": "ppt_average/formulas/simplify_2ec088026155dd1b489bdf2c.tex",
+    "pdf": "ppt_average/formulas/simplify_2ec088026155dd1b489bdf2c.pdf",
+    "png": "ppt_average/formulas/simplify_2ec088026155dd1b489bdf2c.png",
+    "svg": "ppt_average/formulas/simplify_2ec088026155dd1b489bdf2c.svg"
+  },
+  {
+    "key": "0d7c3de7e29a88f75f104f2d",
+    "stem": "simplify_0d7c3de7e29a88f75f104f2d",
+    "tex": "20",
+    "source": "ppt_average/formulas/simplify_0d7c3de7e29a88f75f104f2d.tex",
+    "pdf": "ppt_average/formulas/simplify_0d7c3de7e29a88f75f104f2d.pdf",
+    "png": "ppt_average/formulas/simplify_0d7c3de7e29a88f75f104f2d.png",
+    "svg": "ppt_average/formulas/simplify_0d7c3de7e29a88f75f104f2d.svg"
+  },
+  {
+    "key": "8fd58ada0f6d7fc6f7a57c8d",
+    "stem": "simplify_8fd58ada0f6d7fc6f7a57c8d",
+    "tex": "[(96+88)+(92+88)]\\div4",
+    "source": "ppt_average/formulas/simplify_8fd58ada0f6d7fc6f7a57c8d.tex",
+    "pdf": "ppt_average/formulas/simplify_8fd58ada0f6d7fc6f7a57c8d.pdf",
+    "png": "ppt_average/formulas/simplify_8fd58ada0f6d7fc6f7a57c8d.png",
+    "svg": "ppt_average/formulas/simplify_8fd58ada0f6d7fc6f7a57c8d.svg"
+  },
+  {
+    "key": "3315dbf2fcb80071651912fb",
+    "stem": "simplify_3315dbf2fcb80071651912fb",
+    "tex": "(184+180)\\div4",
+    "source": "ppt_average/formulas/simplify_3315dbf2fcb80071651912fb.tex",
+    "pdf": "ppt_average/formulas/simplify_3315dbf2fcb80071651912fb.pdf",
+    "png": "ppt_average/formulas/simplify_3315dbf2fcb80071651912fb.png",
+    "svg": "ppt_average/formulas/simplify_3315dbf2fcb80071651912fb.svg"
+  },
+  {
+    "key": "ad51f2825f9eea25a06785f6",
+    "stem": "simplify_ad51f2825f9eea25a06785f6",
+    "tex": "364\\div4",
+    "source": "ppt_average/formulas/simplify_ad51f2825f9eea25a06785f6.tex",
+    "pdf": "ppt_average/formulas/simplify_ad51f2825f9eea25a06785f6.pdf",
+    "png": "ppt_average/formulas/simplify_ad51f2825f9eea25a06785f6.png",
+    "svg": "ppt_average/formulas/simplify_ad51f2825f9eea25a06785f6.svg"
+  },
+  {
+    "key": "9a16050c2e18946d7f2afcbe",
+    "stem": "simplify_9a16050c2e18946d7f2afcbe",
+    "tex": "91\\text{（分）}",
+    "source": "ppt_average/formulas/simplify_9a16050c2e18946d7f2afcbe.tex",
+    "pdf": "ppt_average/formulas/simplify_9a16050c2e18946d7f2afcbe.pdf",
+    "png": "ppt_average/formulas/simplify_9a16050c2e18946d7f2afcbe.png",
+    "svg": "ppt_average/formulas/simplify_9a16050c2e18946d7f2afcbe.svg"
+  },
+  {
+    "key": "aebbf59d132ff4510bb6a761",
+    "stem": "simplify_aebbf59d132ff4510bb6a761",
+    "tex": "[(96+88)+(82+18)]\\div4",
+    "source": "ppt_average/formulas/simplify_aebbf59d132ff4510bb6a761.tex",
+    "pdf": "ppt_average/formulas/simplify_aebbf59d132ff4510bb6a761.pdf",
+    "png": "ppt_average/formulas/simplify_aebbf59d132ff4510bb6a761.png",
+    "svg": "ppt_average/formulas/simplify_aebbf59d132ff4510bb6a761.svg"
+  },
+  {
+    "key": "356a838f7eb541975dfee3ce",
+    "stem": "simplify_356a838f7eb541975dfee3ce",
+    "tex": "(184+100)\\div4",
+    "source": "ppt_average/formulas/simplify_356a838f7eb541975dfee3ce.tex",
+    "pdf": "ppt_average/formulas/simplify_356a838f7eb541975dfee3ce.pdf",
+    "png": "ppt_average/formulas/simplify_356a838f7eb541975dfee3ce.png",
+    "svg": "ppt_average/formulas/simplify_356a838f7eb541975dfee3ce.svg"
+  },
+  {
+    "key": "3db1a8fa15922bf98cfcd942",
+    "stem": "simplify_3db1a8fa15922bf98cfcd942",
+    "tex": "284\\div4",
+    "source": "ppt_average/formulas/simplify_3db1a8fa15922bf98cfcd942.tex",
+    "pdf": "ppt_average/formulas/simplify_3db1a8fa15922bf98cfcd942.pdf",
+    "png": "ppt_average/formulas/simplify_3db1a8fa15922bf98cfcd942.png",
+    "svg": "ppt_average/formulas/simplify_3db1a8fa15922bf98cfcd942.svg"
+  },
+  {
+    "key": "094bf5cb3ff69864a1f3b662",
+    "stem": "simplify_094bf5cb3ff69864a1f3b662",
+    "tex": "71\\text{（分）}",
+    "source": "ppt_average/formulas/simplify_094bf5cb3ff69864a1f3b662.tex",
+    "pdf": "ppt_average/formulas/simplify_094bf5cb3ff69864a1f3b662.pdf",
+    "png": "ppt_average/formulas/simplify_094bf5cb3ff69864a1f3b662.png",
+    "svg": "ppt_average/formulas/simplify_094bf5cb3ff69864a1f3b662.svg"
+  },
+  {
+    "key": "e8b9404e04c48649c90c1591",
+    "stem": "simplify_e8b9404e04c48649c90c1591",
+    "tex": "2500\\times3-(2700+2200)",
+    "source": "ppt_average/formulas/simplify_e8b9404e04c48649c90c1591.tex",
+    "pdf": "ppt_average/formulas/simplify_e8b9404e04c48649c90c1591.pdf",
+    "png": "ppt_average/formulas/simplify_e8b9404e04c48649c90c1591.png",
+    "svg": "ppt_average/formulas/simplify_e8b9404e04c48649c90c1591.svg"
+  },
+  {
+    "key": "1be06eecf61761f077b38f68",
+    "stem": "simplify_1be06eecf61761f077b38f68",
+    "tex": "7500-4900",
+    "source": "ppt_average/formulas/simplify_1be06eecf61761f077b38f68.tex",
+    "pdf": "ppt_average/formulas/simplify_1be06eecf61761f077b38f68.pdf",
+    "png": "ppt_average/formulas/simplify_1be06eecf61761f077b38f68.png",
+    "svg": "ppt_average/formulas/simplify_1be06eecf61761f077b38f68.svg"
+  },
+  {
+    "key": "836e60caa46b97815cd4213e",
+    "stem": "simplify_836e60caa46b97815cd4213e",
+    "tex": "2600\\text{（毫升）}",
+    "source": "ppt_average/formulas/simplify_836e60caa46b97815cd4213e.tex",
+    "pdf": "ppt_average/formulas/simplify_836e60caa46b97815cd4213e.pdf",
+    "png": "ppt_average/formulas/simplify_836e60caa46b97815cd4213e.png",
+    "svg": "ppt_average/formulas/simplify_836e60caa46b97815cd4213e.svg"
+  },
+  {
+    "key": "959d6575bc19d7d67b9cdf4d",
+    "stem": "simplify_959d6575bc19d7d67b9cdf4d",
+    "tex": "2500+[(2500-2200)-(2700-2500)]",
+    "source": "ppt_average/formulas/simplify_959d6575bc19d7d67b9cdf4d.tex",
+    "pdf": "ppt_average/formulas/simplify_959d6575bc19d7d67b9cdf4d.pdf",
+    "png": "ppt_average/formulas/simplify_959d6575bc19d7d67b9cdf4d.png",
+    "svg": "ppt_average/formulas/simplify_959d6575bc19d7d67b9cdf4d.svg"
+  },
+  {
+    "key": "5ad31dde92a4d2f227f03749",
+    "stem": "simplify_5ad31dde92a4d2f227f03749",
+    "tex": "2500+(300-200)",
+    "source": "ppt_average/formulas/simplify_5ad31dde92a4d2f227f03749.tex",
+    "pdf": "ppt_average/formulas/simplify_5ad31dde92a4d2f227f03749.pdf",
+    "png": "ppt_average/formulas/simplify_5ad31dde92a4d2f227f03749.png",
+    "svg": "ppt_average/formulas/simplify_5ad31dde92a4d2f227f03749.svg"
+  },
+  {
+    "key": "6e9049fc9ee059efd69884ef",
+    "stem": "simplify_6e9049fc9ee059efd69884ef",
+    "tex": "2500+100",
+    "source": "ppt_average/formulas/simplify_6e9049fc9ee059efd69884ef.tex",
+    "pdf": "ppt_average/formulas/simplify_6e9049fc9ee059efd69884ef.pdf",
+    "png": "ppt_average/formulas/simplify_6e9049fc9ee059efd69884ef.png",
+    "svg": "ppt_average/formulas/simplify_6e9049fc9ee059efd69884ef.svg"
+  },
+  {
+    "key": "5866814f324fba7cf9b1b132",
+    "stem": "simplify_5866814f324fba7cf9b1b132",
+    "tex": "3000\\times3-(2700+2200)",
+    "source": "ppt_average/formulas/simplify_5866814f324fba7cf9b1b132.tex",
+    "pdf": "ppt_average/formulas/simplify_5866814f324fba7cf9b1b132.pdf",
+    "png": "ppt_average/formulas/simplify_5866814f324fba7cf9b1b132.png",
+    "svg": "ppt_average/formulas/simplify_5866814f324fba7cf9b1b132.svg"
+  },
+  {
+    "key": "adc9129b6b79d4503aaf168d",
+    "stem": "simplify_adc9129b6b79d4503aaf168d",
+    "tex": "9000-4900",
+    "source": "ppt_average/formulas/simplify_adc9129b6b79d4503aaf168d.tex",
+    "pdf": "ppt_average/formulas/simplify_adc9129b6b79d4503aaf168d.pdf",
+    "png": "ppt_average/formulas/simplify_adc9129b6b79d4503aaf168d.png",
+    "svg": "ppt_average/formulas/simplify_adc9129b6b79d4503aaf168d.svg"
+  },
+  {
+    "key": "0b71152e1caa49b38eec643c",
+    "stem": "simplify_0b71152e1caa49b38eec643c",
+    "tex": "4100\\text{（毫升）}",
+    "source": "ppt_average/formulas/simplify_0b71152e1caa49b38eec643c.tex",
+    "pdf": "ppt_average/formulas/simplify_0b71152e1caa49b38eec643c.pdf",
+    "png": "ppt_average/formulas/simplify_0b71152e1caa49b38eec643c.png",
+    "svg": "ppt_average/formulas/simplify_0b71152e1caa49b38eec643c.svg"
+  },
+  {
+    "key": "7e8c82a78f5cb3332ada85b7",
+    "stem": "simplify_7e8c82a78f5cb3332ada85b7",
+    "tex": "32\\div8",
+    "source": "ppt_average/formulas/simplify_7e8c82a78f5cb3332ada85b7.tex",
+    "pdf": "ppt_average/formulas/simplify_7e8c82a78f5cb3332ada85b7.pdf",
+    "png": "ppt_average/formulas/simplify_7e8c82a78f5cb3332ada85b7.png",
+    "svg": "ppt_average/formulas/simplify_7e8c82a78f5cb3332ada85b7.svg"
+  },
+  {
+    "key": "617311c091e8c9d7d4297371",
+    "stem": "simplify_617311c091e8c9d7d4297371",
+    "tex": "4\\text{（分）}",
+    "source": "ppt_average/formulas/simplify_617311c091e8c9d7d4297371.tex",
+    "pdf": "ppt_average/formulas/simplify_617311c091e8c9d7d4297371.pdf",
+    "png": "ppt_average/formulas/simplify_617311c091e8c9d7d4297371.png",
+    "svg": "ppt_average/formulas/simplify_617311c091e8c9d7d4297371.svg"
+  },
+  {
+    "key": "7ad1432f61df44a9c3812a05",
+    "stem": "simplify_7ad1432f61df44a9c3812a05",
+    "tex": "(40\\times11)\\div(11-3)",
+    "source": "ppt_average/formulas/simplify_7ad1432f61df44a9c3812a05.tex",
+    "pdf": "ppt_average/formulas/simplify_7ad1432f61df44a9c3812a05.pdf",
+    "png": "ppt_average/formulas/simplify_7ad1432f61df44a9c3812a05.png",
+    "svg": "ppt_average/formulas/simplify_7ad1432f61df44a9c3812a05.svg"
+  },
+  {
+    "key": "2312533b4e930016adefc480",
+    "stem": "simplify_2312533b4e930016adefc480",
+    "tex": "(40\\times11)\\div8",
+    "source": "ppt_average/formulas/simplify_2312533b4e930016adefc480.tex",
+    "pdf": "ppt_average/formulas/simplify_2312533b4e930016adefc480.pdf",
+    "png": "ppt_average/formulas/simplify_2312533b4e930016adefc480.png",
+    "svg": "ppt_average/formulas/simplify_2312533b4e930016adefc480.svg"
+  },
+  {
+    "key": "1e2ac7808e6b0faff2c0d6c2",
+    "stem": "simplify_1e2ac7808e6b0faff2c0d6c2",
+    "tex": "(40\\div8)\\times11",
+    "source": "ppt_average/formulas/simplify_1e2ac7808e6b0faff2c0d6c2.tex",
+    "pdf": "ppt_average/formulas/simplify_1e2ac7808e6b0faff2c0d6c2.pdf",
+    "png": "ppt_average/formulas/simplify_1e2ac7808e6b0faff2c0d6c2.png",
+    "svg": "ppt_average/formulas/simplify_1e2ac7808e6b0faff2c0d6c2.svg"
+  },
+  {
+    "key": "b0a5afe44bd8cb98f6fa125f",
+    "stem": "simplify_b0a5afe44bd8cb98f6fa125f",
+    "tex": "34\\times(3\\div3)\\div2",
+    "source": "ppt_average/formulas/simplify_b0a5afe44bd8cb98f6fa125f.tex",
+    "pdf": "ppt_average/formulas/simplify_b0a5afe44bd8cb98f6fa125f.pdf",
+    "png": "ppt_average/formulas/simplify_b0a5afe44bd8cb98f6fa125f.png",
+    "svg": "ppt_average/formulas/simplify_b0a5afe44bd8cb98f6fa125f.svg"
+  },
+  {
+    "key": "63637ea0f7c5f1d09135dd32",
+    "stem": "simplify_63637ea0f7c5f1d09135dd32",
+    "tex": "34\\times1\\div2",
+    "source": "ppt_average/formulas/simplify_63637ea0f7c5f1d09135dd32.tex",
+    "pdf": "ppt_average/formulas/simplify_63637ea0f7c5f1d09135dd32.pdf",
+    "png": "ppt_average/formulas/simplify_63637ea0f7c5f1d09135dd32.png",
+    "svg": "ppt_average/formulas/simplify_63637ea0f7c5f1d09135dd32.svg"
+  },
+  {
+    "key": "656749e4a2fff085f9909367",
+    "stem": "simplify_656749e4a2fff085f9909367",
+    "tex": "34\\div2",
+    "source": "ppt_average/formulas/simplify_656749e4a2fff085f9909367.tex",
+    "pdf": "ppt_average/formulas/simplify_656749e4a2fff085f9909367.pdf",
+    "png": "ppt_average/formulas/simplify_656749e4a2fff085f9909367.png",
+    "svg": "ppt_average/formulas/simplify_656749e4a2fff085f9909367.svg"
+  },
+  {
+    "key": "41f25dc89cbc505b60a77e4c",
+    "stem": "simplify_41f25dc89cbc505b60a77e4c",
+    "tex": "17\\text{（块）}",
+    "source": "ppt_average/formulas/simplify_41f25dc89cbc505b60a77e4c.tex",
+    "pdf": "ppt_average/formulas/simplify_41f25dc89cbc505b60a77e4c.pdf",
+    "png": "ppt_average/formulas/simplify_41f25dc89cbc505b60a77e4c.png",
+    "svg": "ppt_average/formulas/simplify_41f25dc89cbc505b60a77e4c.svg"
+  },
+  {
+    "key": "c662c681dc5d14394bd82e15",
+    "stem": "simplify_c662c681dc5d14394bd82e15",
+    "tex": "(620+160)\\div5",
+    "source": "ppt_average/formulas/simplify_c662c681dc5d14394bd82e15.tex",
+    "pdf": "ppt_average/formulas/simplify_c662c681dc5d14394bd82e15.pdf",
+    "png": "ppt_average/formulas/simplify_c662c681dc5d14394bd82e15.png",
+    "svg": "ppt_average/formulas/simplify_c662c681dc5d14394bd82e15.svg"
+  },
+  {
+    "key": "65fb5bf97145ff63e1b6c317",
+    "stem": "simplify_65fb5bf97145ff63e1b6c317",
+    "tex": "780\\div5",
+    "source": "ppt_average/formulas/simplify_65fb5bf97145ff63e1b6c317.tex",
+    "pdf": "ppt_average/formulas/simplify_65fb5bf97145ff63e1b6c317.pdf",
+    "png": "ppt_average/formulas/simplify_65fb5bf97145ff63e1b6c317.png",
+    "svg": "ppt_average/formulas/simplify_65fb5bf97145ff63e1b6c317.svg"
+  },
+  {
+    "key": "d50f45c5d73103579073b8aa",
+    "stem": "simplify_d50f45c5d73103579073b8aa",
+    "tex": "(98+95+96+95+96)\\div5",
+    "source": "ppt_average/formulas/simplify_d50f45c5d73103579073b8aa.tex",
+    "pdf": "ppt_average/formulas/simplify_d50f45c5d73103579073b8aa.pdf",
+    "png": "ppt_average/formulas/simplify_d50f45c5d73103579073b8aa.png",
+    "svg": "ppt_average/formulas/simplify_d50f45c5d73103579073b8aa.svg"
+  },
+  {
+    "key": "8fcdd81451f2ec1518091590",
+    "stem": "simplify_8fcdd81451f2ec1518091590",
+    "tex": "[98+(96+96)+(95+95)]\\div5",
+    "source": "ppt_average/formulas/simplify_8fcdd81451f2ec1518091590.tex",
+    "pdf": "ppt_average/formulas/simplify_8fcdd81451f2ec1518091590.pdf",
+    "png": "ppt_average/formulas/simplify_8fcdd81451f2ec1518091590.png",
+    "svg": "ppt_average/formulas/simplify_8fcdd81451f2ec1518091590.svg"
+  },
+  {
+    "key": "cb832504e7404562caf19781",
+    "stem": "simplify_cb832504e7404562caf19781",
+    "tex": "(98+192+190)\\div5",
+    "source": "ppt_average/formulas/simplify_cb832504e7404562caf19781.tex",
+    "pdf": "ppt_average/formulas/simplify_cb832504e7404562caf19781.pdf",
+    "png": "ppt_average/formulas/simplify_cb832504e7404562caf19781.png",
+    "svg": "ppt_average/formulas/simplify_cb832504e7404562caf19781.svg"
+  },
+  {
+    "key": "7f77ae2e10944f552246ba55",
+    "stem": "simplify_7f77ae2e10944f552246ba55",
+    "tex": "(290+190)\\div5",
+    "source": "ppt_average/formulas/simplify_7f77ae2e10944f552246ba55.tex",
+    "pdf": "ppt_average/formulas/simplify_7f77ae2e10944f552246ba55.pdf",
+    "png": "ppt_average/formulas/simplify_7f77ae2e10944f552246ba55.png",
+    "svg": "ppt_average/formulas/simplify_7f77ae2e10944f552246ba55.svg"
+  },
+  {
+    "key": "514cefe1fca90db42525a6d7",
+    "stem": "simplify_514cefe1fca90db42525a6d7",
+    "tex": "480\\div5",
+    "source": "ppt_average/formulas/simplify_514cefe1fca90db42525a6d7.tex",
+    "pdf": "ppt_average/formulas/simplify_514cefe1fca90db42525a6d7.pdf",
+    "png": "ppt_average/formulas/simplify_514cefe1fca90db42525a6d7.png",
+    "svg": "ppt_average/formulas/simplify_514cefe1fca90db42525a6d7.svg"
+  }
+]

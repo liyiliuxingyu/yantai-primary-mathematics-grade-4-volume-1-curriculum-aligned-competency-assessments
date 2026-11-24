@@ -1,0 +1,127 @@
+{
+  "book_page": 20,
+  "source_page": 24,
+  "title": "",
+  "records": [
+    {
+      "key": "p020_s01",
+      "book_page": 20,
+      "source_page": 24,
+      "section_index": 0,
+      "id": "四、3",
+      "kind": "application",
+      "question_latex": "社区为孤寡老人采购保暖物资，买18套毛毯，每套45元，付给收银员900元，应找回多少元？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：付出的钱−购买18套的钱\\par \\[\\begin{aligned} &900-45\\times18\\\\={}&900-810\\\\={}&90\\text{(元)}\\end{aligned}\\]答：应找回90元。\\par 900元正好能买20套，只买18套，剩2套的钱。\\par 方法二：每套价格×少买的套数\\par \\[\\begin{aligned} &45\\times(900\\div45-18)\\\\={}&45\\times(20-18)\\\\={}&45\\times2\\\\={}&90\\text{(元)}\\end{aligned}\\]答：应找回90元。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "900−45×18=90元；或少买20−18=2套，45×2=90。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p020_s02",
+      "book_page": 20,
+      "source_page": 24,
+      "section_index": 1,
+      "id": "四、4",
+      "kind": "application",
+      "question_latex": "一辆汽车从甲地开往乙地，速度是60千米/时，4小时到达，原路返回时只用了3小时，返回时平均每小时行多少千米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "往返的路程相同，先求单程路程，再除以返回时间。\\par \\textbf{路程÷返回时间}\\par \\[\\begin{aligned} &60\\times4\\div3\\\\={}&240\\div3\\\\={}&80\\text{(千米/时)}\\end{aligned}\\]答：返回时平均每小时行80千米。\\par \\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&60\\times4\\div3\\\\={}&60\\div3\\times4\\\\={}&20\\times4\\\\={}&80\\text{(千米/时)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "单程60×4=240千米，返程240÷3=80千米/时。",
+        "changes": [
+          "简便计算复核：60能被3整除，将60×4÷3改为60÷3×4，省去240÷3。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p020_s03",
+      "book_page": 20,
+      "source_page": 24,
+      "section_index": 2,
+      "id": "四、5",
+      "kind": "application",
+      "question_latex": "一辆面包车和一辆轿车分别从济南市、威海市同时相对开出，3小时相遇。已知面包车平均每小时行驶80千米，轿车平均每小时行驶100千米，济南市和威海市相距多少千米？（先画图整理条件和问题，再解答。）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(7,0);\\draw(0,-.12)--(0,.12);\\draw(3.1,-.12)--(3.1,.12);\\draw(7,-.12)--(7,.12);\\node[below]at(0,0){济南};\\node[below]at(3.1,0){相遇};\\node[below]at(7,0){威海};\\draw[->,red](0,.3)--(2.9,.3)node[midway,above]{80千米/时};\\draw[->,red](7,.3)--(3.3,.3)node[midway,above]{100千米/时};\\node at(3.5,1.1){同时出发，3小时后相遇};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "",
+          "name": "p020_s03_g1"
+        }
+      ],
+      "answer_latex": "先核对同时出发、相向行驶、3小时后相遇：两车用时相同，且相遇时没有剩余间距。图中两段分别是两车3小时的路程，两段之和就是两市距离。\\par 方法一：速度和×相遇时间\\par \\[\\begin{aligned} &(80+100)\\times3\\\\={}&180\\times3\\\\={}&540\\text{(千米)}\\end{aligned}\\]答：济南市与威海市相距540千米。\\par 方法二：分别求路程再相加\\par \\[\\begin{aligned} &80\\times3+100\\times3\\\\={}&240+300\\\\={}&540\\text{(千米)}\\end{aligned}\\]答：济南市与威海市相距540千米。\\par 检验：\\(540\\div3-100=80\\text{(千米/时)}\\)，可以还原面包车的已知速度。",
+      "verification": {
+        "status": "verified",
+        "reason": "(80+100)×3=540千米，或80×3+100×3。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p020_s04",
+      "book_page": 20,
+      "source_page": 24,
+      "section_index": 3,
+      "id": "四、6",
+      "kind": "application",
+      "question_latex": "亮亮一家3口计划到海南五日游，现在有两种方案：①组团游：成人2200元/人，18岁以下1800元/人（含餐费和住宿费）。②自由游：飞机票单程900元/人；住宿费每人每天120元；吃饭、交通费每人每天120元。算一算，哪种方案更划算？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "一家3口按2名成人和1名儿童计算；自由游机票应付往返费用。\\par 方法一：先分别合计交通和食宿费用\\par 组团游：\\[\\begin{aligned} &2200\\times2+1800\\\\={}&4400+1800\\\\={}&6200\\text{(元)}\\end{aligned}\\]自由游：\\[\\begin{aligned} &900\\times2\\times3+(120+120)\\times5\\times3\\\\={}&1800\\times3+240\\times5\\times3\\\\={}&5400+1200\\times3\\\\={}&5400+3600\\\\={}&9000\\text{(元)}\\end{aligned}\\]\\(6200<9000\\)，且\\(9000-6200=2800\\text{(元)}\\)。答：组团游更划算，少花2800元。\\par 方法二：先算自由游每人的费用\\par \\[\\begin{aligned} &900\\times2+(120+120)\\times5\\\\={}&1800+240\\times5\\\\={}&1800+1200\\\\={}&3000\\text{(元)}\\end{aligned}\\]\\[\\begin{aligned} &3000\\times3-6200\\\\={}&9000-6200\\\\={}&2800\\text{(元)}\\end{aligned}\\]答：组团游更划算，少花2800元。",
+      "verification": {
+        "status": "verified",
+        "reason": "按2成人1名未满18岁儿童的通常题意，组团6200，自由9000，少2800；机票计往返。",
+        "changes": [
+          "自由游方法一补齐机票和食宿费用中的依赖运算，只同时计算独立步骤。",
+          "自由游方法二先求每日食宿240，再乘5天。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "source_notes": [
+        "原题未逐个列家庭成员年龄，6200元按两成人一未满18岁儿童计算；即便三人年龄构成不同，组团总价5400–6600元仍小于自由游9000元，方案结论不受影响。"
+      ]
+    }
+  ]
+}

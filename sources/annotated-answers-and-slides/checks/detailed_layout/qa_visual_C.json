@@ -1,0 +1,171 @@
+{
+  "group": "C",
+  "passed": true,
+  "body_math_and_layout_passed": true,
+  "pdf_path": "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final4/详细题内答案成品.pdf",
+  "pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "overview_review": {
+    "book_pages": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "count": 27,
+    "source_directory": "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/previews",
+    "method": "逐页实际打开p055..p081 PNG，审阅全页黑色题干、既有红答图表、新增解析、页脚、空白及各块关系；并非只检查文件存在或接触表。"
+  },
+  "enlarged_review": {
+    "render_method": "从同一SHA的PDF按原坐标直接以2倍渲染正文局部、4倍渲染异常页脚。",
+    "body_crop_count": 9,
+    "body_pages": [
+      59,
+      62,
+      63,
+      75,
+      76,
+      79,
+      80
+    ],
+    "scope_file": "runs/final3/review_C/crop_scope.json",
+    "body_crops": [
+      "p059_local",
+      "p063_local",
+      "p062_oil",
+      "p075_risk",
+      "p075_scoring",
+      "p076_five",
+      "p076_analysis",
+      "p079_wording",
+      "p080_analysis"
+    ],
+    "footer_pages": [
+      66,
+      70,
+      77
+    ]
+  },
+  "confirmed": [
+    "59页4条及63页4条局部脱式无重复黑原式、无重影，首数对应黑题首数列，等号列齐。",
+    "62页油桶两法5块数字计算完整、无缺行；61–62跨页远近问题只在完整题页解释。",
+    "76页五空数字计算与相应班级/学生/老师标注匹配，三次评分平均与补评分的关系正确，段落未盖表格。",
+    "75/76/80页去重后的补充说明可见，与既有红答相衔接；79页现为三组金额合计不变。",
+    "78页二4B成立及D按具体岁数字面亦成立的限定完整可见。",
+    "C组27页未见正文解析裁切、题干遮挡、图表重叠、空白页、缺字或新增重复图。"
+  ],
+  "limitation": "视觉QA覆盖55–81全部27页：final3逐页总览及重点放大，final4再实看4张变更整页与4个放大局部，并以像素比较确认另23页不变。此QA不宣称机器证明全部题义；数值检查范围另见qa_notes_C与numeric_check_C。",
+  "raw_pdf_sha256": "65ae8dfca3a237b8adeb87fb9658299ab887bb4aacdfac3a8536fe6d258b520b",
+  "issues": [],
+  "resolved_issues": [
+    {
+      "book_page": 66,
+      "type": "footer",
+      "observed": "96",
+      "expected": "66",
+      "evidence": "runs/final3/review_C/p066_footer.png",
+      "status": "resolved_and_visually_rechecked_in_final4",
+      "origin": "root按8倍原纯JPEG核对，确认底本自身读数即为所列observed，并非本次搬移造成。",
+      "resolution_plan": "依据全册连续对应表及已实看相邻页序，将页脚校正为expected；源码/说明记录原图读数。",
+      "resolution": "已实看正确矢量页脚66；保留原底本异常读数的审校记录，不称原图本已正确。"
+    },
+    {
+      "book_page": 70,
+      "type": "footer",
+      "observed": "20",
+      "expected": "70",
+      "evidence": "runs/final3/review_C/p070_footer.png",
+      "status": "resolved_and_visually_rechecked_in_final4",
+      "origin": "root按8倍原纯JPEG核对，确认底本自身读数即为所列observed，并非本次搬移造成。",
+      "resolution_plan": "依据全册连续对应表及已实看相邻页序，将页脚校正为expected；源码/说明记录原图读数。",
+      "resolution": "已实看正确矢量页脚70；保留原底本异常读数的审校记录，不称原图本已正确。"
+    },
+    {
+      "book_page": 77,
+      "type": "footer",
+      "observed": "27",
+      "expected": "77",
+      "evidence": "runs/final3/review_C/p077_footer.png",
+      "status": "resolved_and_visually_rechecked_in_final4",
+      "origin": "root按8倍原纯JPEG核对，确认底本自身读数即为所列observed，并非本次搬移造成。",
+      "resolution_plan": "依据全册连续对应表及已实看相邻页序，将页脚校正为expected；源码/说明记录原图读数。",
+      "resolution": "已实看正确矢量页脚77；保留原底本异常读数的审校记录，不称原图本已正确。"
+    },
+    {
+      "key": "p062_s02",
+      "type": "wording",
+      "observed": "将半桶质量加两份得到整桶油",
+      "suggested": "把两份半桶油的质量相加得到整桶油",
+      "details": "实际数字链22.3+22.3=44.6正确，但加两份可被误读为额外再加两份，建议消歧。",
+      "status": "resolved_and_visually_rechecked_in_final4",
+      "resolution": "已实看“把两份半桶油的质量相加得到整桶油”，数字链不变。"
+    }
+  ],
+  "initial_full_review_pdf_sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0",
+  "final_revision_review": {
+    "run": "final4",
+    "full_page_previews_actually_opened": [
+      62,
+      66,
+      70,
+      77
+    ],
+    "enlarged_crops_actually_opened": [
+      "runs/final4/review_C/p062_oil.png",
+      "runs/final4/review_C/p066_footer.png",
+      "runs/final4/review_C/p070_footer.png",
+      "runs/final4/review_C/p077_footer.png"
+    ],
+    "comparison_to_full_review": "C组全部27页PNG逐像素比较；只有上述4页有变化，差异分别仅在油桶一句文字与三个页脚。另23页与已全页实际审阅的final3逐像素相同。",
+    "pixel_difference_report": "runs/final4/review_C/diff_from_final3.json"
+  },
+  "reviewed_raw_pdf_sha256": "65ae8dfca3a237b8adeb87fb9658299ab887bb4aacdfac3a8536fe6d258b520b",
+  "lossless_optimization": {
+    "all128_pages_pixel_identical_at_2x": true,
+    "report": "style_patch/qa_lossless_optimization.json"
+  },
+  "previous_edition_pdf_sha256": "30e8400bcd5791a92149cb925072c7a06b123c74eb194ac764ee43e0768af60b",
+  "p003_unit1_style_update": {
+    "changed_book_page": 3,
+    "all_other107_question_pages_png_identical": true,
+    "evidence": "style_patch/qa_pdf_scope.json",
+    "specific_page_review": "style_patch/qa_p003_math_visual.json",
+    "scope": "仅原书3页修改；其余沿用此前实看并以图像相同继承。"
+  },
+  "run": "followup_unit1_trees_final",
+  "pdf": "/workspace/scratch/1facfb035d44/detail_work/deliverables/小学同步素养四年级上册数学答案.pdf",
+  "hash_verified": true,
+  "p005_p007_unit1_style_update": {
+    "previous_pdf_sha256": "bbdf2edbb3199e73af762e44746a34d120efa54989290b398c02b31ba6a77db5",
+    "scope_proof": "followup_style/qa_scope.json",
+    "all_other_106_question_pages_exactly_preserved": true,
+    "changed_pages": [
+      5,
+      7
+    ],
+    "review": "No pages in this segment changed; prior actual review inherited through exact rendered-image equality.",
+    "lossless_optimization": "followup_style/qa_lossless.json"
+  }
+}

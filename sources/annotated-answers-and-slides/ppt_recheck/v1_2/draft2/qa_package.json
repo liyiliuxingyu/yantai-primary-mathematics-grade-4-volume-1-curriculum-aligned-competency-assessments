@@ -1,0 +1,1279 @@
+[
+  {
+    "source": "/workspace/scratch/1facfb035d44/p74_review/bundle/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+    "source_sha256": "f027fc4bf7571b8d7ce84166be54b830ce6fbe29b5ca8b3c89e3028f2d7d1202",
+    "output": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+    "output_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "total_slides": 426,
+    "changed_slides": [
+      28,
+      29,
+      66,
+      73,
+      120,
+      162,
+      256,
+      339
+    ],
+    "changed_original_parts": [
+      "ppt/slides/slide28.xml",
+      "ppt/slides/slide29.xml",
+      "ppt/slides/slide66.xml",
+      "ppt/slides/slide73.xml",
+      "ppt/slides/slide120.xml",
+      "ppt/slides/slide162.xml",
+      "ppt/slides/slide256.xml",
+      "ppt/slides/slide339.xml",
+      "ppt/slides/_rels/slide120.xml.rels",
+      "ppt/slides/_rels/slide162.xml.rels",
+      "ppt/slides/_rels/slide256.xml.rels",
+      "ppt/slides/_rels/slide28.xml.rels",
+      "ppt/slides/_rels/slide29.xml.rels",
+      "ppt/slides/_rels/slide339.xml.rels",
+      "ppt/slides/_rels/slide66.xml.rels",
+      "ppt/slides/_rels/slide73.xml.rels"
+    ],
+    "new_parts": [
+      "ppt/media/simplify_029b8809a061b3dcbf0ad410.png",
+      "ppt/media/simplify_029b8809a061b3dcbf0ad410.svg",
+      "ppt/media/simplify_09d144e64421cca40caee281.png",
+      "ppt/media/simplify_09d144e64421cca40caee281.svg",
+      "ppt/media/simplify_0a74e9a1114fd788a25cd93f.png",
+      "ppt/media/simplify_0a74e9a1114fd788a25cd93f.svg",
+      "ppt/media/simplify_15bc4d1fc0b3a8053a270177.png",
+      "ppt/media/simplify_15bc4d1fc0b3a8053a270177.svg",
+      "ppt/media/simplify_1e9fb4e2c802330756060b20.png",
+      "ppt/media/simplify_1e9fb4e2c802330756060b20.svg",
+      "ppt/media/simplify_24d0c334a8420f9760c04bca.png",
+      "ppt/media/simplify_24d0c334a8420f9760c04bca.svg",
+      "ppt/media/simplify_2c437bcee0f32ac2ef6e24ae.png",
+      "ppt/media/simplify_2c437bcee0f32ac2ef6e24ae.svg",
+      "ppt/media/simplify_2dce6bf6a7200cd447b2f4f3.png",
+      "ppt/media/simplify_2dce6bf6a7200cd447b2f4f3.svg",
+      "ppt/media/simplify_316893405a85e08d385b1c10.png",
+      "ppt/media/simplify_316893405a85e08d385b1c10.svg",
+      "ppt/media/simplify_342bed93e32b3e631c38035a.png",
+      "ppt/media/simplify_342bed93e32b3e631c38035a.svg",
+      "ppt/media/simplify_3753a70fb4d28604ce922616.png",
+      "ppt/media/simplify_3753a70fb4d28604ce922616.svg",
+      "ppt/media/simplify_5491cae607a18890274fe87c.png",
+      "ppt/media/simplify_5491cae607a18890274fe87c.svg",
+      "ppt/media/simplify_6bb6f2de793c639ff3368c09.png",
+      "ppt/media/simplify_6bb6f2de793c639ff3368c09.svg",
+      "ppt/media/simplify_703d8a9bc831c225984b4bef.png",
+      "ppt/media/simplify_703d8a9bc831c225984b4bef.svg",
+      "ppt/media/simplify_72c642ba2bcb2145a66293b7.png",
+      "ppt/media/simplify_72c642ba2bcb2145a66293b7.svg",
+      "ppt/media/simplify_8332f43aa0a5b19240f53cf4.png",
+      "ppt/media/simplify_8332f43aa0a5b19240f53cf4.svg",
+      "ppt/media/simplify_879475a45e8ab8d0f8de9cc7.png",
+      "ppt/media/simplify_879475a45e8ab8d0f8de9cc7.svg",
+      "ppt/media/simplify_97f48261355f24c96b668775.png",
+      "ppt/media/simplify_97f48261355f24c96b668775.svg",
+      "ppt/media/simplify_99c8393a9d0f8fa0845a4437.png",
+      "ppt/media/simplify_99c8393a9d0f8fa0845a4437.svg",
+      "ppt/media/simplify_9f56d5960867f047223bb7b0.png",
+      "ppt/media/simplify_9f56d5960867f047223bb7b0.svg",
+      "ppt/media/simplify_ab9ad6d11f60a5bf790f590f.png",
+      "ppt/media/simplify_ab9ad6d11f60a5bf790f590f.svg",
+      "ppt/media/simplify_b092232c62e384f2f87a4713.png",
+      "ppt/media/simplify_b092232c62e384f2f87a4713.svg",
+      "ppt/media/simplify_b0a9fc306f04cc1ededcaa49.png",
+      "ppt/media/simplify_b0a9fc306f04cc1ededcaa49.svg",
+      "ppt/media/simplify_b5bbb3424e03f1543b566053.png",
+      "ppt/media/simplify_b5bbb3424e03f1543b566053.svg",
+      "ppt/media/simplify_b6d2fb12e8634df239092999.png",
+      "ppt/media/simplify_b6d2fb12e8634df239092999.svg",
+      "ppt/media/simplify_b7a55e09afa12a5fe21fa5dc.png",
+      "ppt/media/simplify_b7a55e09afa12a5fe21fa5dc.svg",
+      "ppt/media/simplify_ba0f5baca245b7dc0c41a230.png",
+      "ppt/media/simplify_ba0f5baca245b7dc0c41a230.svg",
+      "ppt/media/simplify_be9a09da0ffd5220dc170cbc.png",
+      "ppt/media/simplify_be9a09da0ffd5220dc170cbc.svg",
+      "ppt/media/simplify_c027d36891f9de4462a0a427.png",
+      "ppt/media/simplify_c027d36891f9de4462a0a427.svg",
+      "ppt/media/simplify_c2b2bf0d3a9dcde8d013aacc.png",
+      "ppt/media/simplify_c2b2bf0d3a9dcde8d013aacc.svg",
+      "ppt/media/simplify_c42a1de215433692b928592f.png",
+      "ppt/media/simplify_c42a1de215433692b928592f.svg",
+      "ppt/media/simplify_cad6b538fdb45c3bd5f916eb.png",
+      "ppt/media/simplify_cad6b538fdb45c3bd5f916eb.svg",
+      "ppt/media/simplify_d28233d00192ef1025a33c92.png",
+      "ppt/media/simplify_d28233d00192ef1025a33c92.svg",
+      "ppt/media/simplify_d7e536bab56ca28c94401f1e.png",
+      "ppt/media/simplify_d7e536bab56ca28c94401f1e.svg",
+      "ppt/media/simplify_db28c674ef4c97ecbe95b36a.png",
+      "ppt/media/simplify_db28c674ef4c97ecbe95b36a.svg",
+      "ppt/media/simplify_f2933786337977e278c44a63.png",
+      "ppt/media/simplify_f2933786337977e278c44a63.svg",
+      "ppt/media/simplify_f5cd068c368630a52b59bd2b.png",
+      "ppt/media/simplify_f5cd068c368630a52b59bd2b.svg",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.png",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.svg"
+    ],
+    "timing_bytes_all_unchanged": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "original_early_methods_retained": true,
+    "changes": [
+      {
+        "key": "p002_s01",
+        "slide": 28,
+        "ops": [
+          {
+            "name": "p002_s01_b006_3",
+            "type": "side_note",
+            "original_content_retained": true,
+            "animation_anchor_id": "10",
+            "note_title": "简便提示（学完运算律后）",
+            "note_text": "32先除以2，避免先求65。",
+            "math": {
+              "name": "p002_s01_b006_3_simplify_steps",
+              "rect": [
+                650,
+                194,
+                560,
+                360
+              ],
+              "native_group_anchor": "16",
+              "original_click_preserved": true,
+              "rows": [
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_rhs0",
+                  "rect": [
+                    692,
+                    194.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "d7e536bab56ca28c94401f1e",
+                  "plain": "130+130÷2×32",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_equals1",
+                  "rect": [
+                    650,
+                    266.0,
+                    34,
+                    72.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_rhs1",
+                  "rect": [
+                    692,
+                    266.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "2dce6bf6a7200cd447b2f4f3",
+                  "plain": "130+130×(32÷2)",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_equals2",
+                  "rect": [
+                    650,
+                    338.0,
+                    34,
+                    72.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_rhs2",
+                  "rect": [
+                    692,
+                    338.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "5491cae607a18890274fe87c",
+                  "plain": "130+130×16",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_equals3",
+                  "rect": [
+                    650,
+                    410.0,
+                    34,
+                    72.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_rhs3",
+                  "rect": [
+                    692,
+                    410.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "99c8393a9d0f8fa0845a4437",
+                  "plain": "130+2080",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_equals4",
+                  "rect": [
+                    650,
+                    482.0,
+                    34,
+                    72.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b006_3_simplify_steps_simplify_rhs4",
+                  "rect": [
+                    692,
+                    482.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "be9a09da0ffd5220dc170cbc",
+                  "plain": "2210（米）",
+                  "fallback_scale": 1,
+                  "points": 32
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "key": "p002_s01",
+        "slide": 29,
+        "ops": [
+          {
+            "name": "p002_s01_b010_2",
+            "type": "side_note",
+            "original_content_retained": true,
+            "animation_anchor_id": "8",
+            "note_title": "简便提示（学完运算律后）",
+            "note_text": "先合并时间，再将34除以2。",
+            "math": {
+              "name": "p002_s01_b010_2_simplify_steps",
+              "rect": [
+                650,
+                194,
+                560,
+                360
+              ],
+              "native_group_anchor": "13",
+              "original_click_preserved": true,
+              "rows": [
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_rhs0",
+                  "rect": [
+                    692,
+                    194.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "ba0f5baca245b7dc0c41a230",
+                  "plain": "130÷2×(2+32)",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_equals1",
+                  "rect": [
+                    650,
+                    266.0,
+                    34,
+                    72.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_rhs1",
+                  "rect": [
+                    692,
+                    266.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "703d8a9bc831c225984b4bef",
+                  "plain": "130÷2×34",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_equals2",
+                  "rect": [
+                    650,
+                    338.0,
+                    34,
+                    72.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_rhs2",
+                  "rect": [
+                    692,
+                    338.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "c2b2bf0d3a9dcde8d013aacc",
+                  "plain": "130×(34÷2)",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_equals3",
+                  "rect": [
+                    650,
+                    410.0,
+                    34,
+                    72.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_rhs3",
+                  "rect": [
+                    692,
+                    410.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "72c642ba2bcb2145a66293b7",
+                  "plain": "130×17",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_equals4",
+                  "rect": [
+                    650,
+                    482.0,
+                    34,
+                    72.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p002_s01_b010_2_simplify_steps_simplify_rhs4",
+                  "rect": [
+                    692,
+                    482.0,
+                    518,
+                    72.0
+                  ],
+                  "asset": "be9a09da0ffd5220dc170cbc",
+                  "plain": "2210（米）",
+                  "fallback_scale": 1,
+                  "points": 32
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "key": "p003_s05",
+        "slide": 66,
+        "ops": [
+          {
+            "name": "p003_s05_b004_4",
+            "type": "side_note",
+            "original_content_retained": true,
+            "animation_anchor_id": "13",
+            "note_title": "简便提示（学完运算律后）",
+            "note_text": "58看成60少2，再减回多算部分。",
+            "math": {
+              "name": "p003_s05_b004_4_simplify_steps",
+              "rect": [
+                650,
+                276,
+                560,
+                340
+              ],
+              "native_group_anchor": "18",
+              "original_click_preserved": true,
+              "rows": [
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_rhs0",
+                  "rect": [
+                    692,
+                    276.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "d28233d00192ef1025a33c92",
+                  "plain": "36×58",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_equals1",
+                  "rect": [
+                    650,
+                    344.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_rhs1",
+                  "rect": [
+                    692,
+                    344.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "f2933786337977e278c44a63",
+                  "plain": "36×(60-2)",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_equals2",
+                  "rect": [
+                    650,
+                    412.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_rhs2",
+                  "rect": [
+                    692,
+                    412.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "97f48261355f24c96b668775",
+                  "plain": "36×60-36×2",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_equals3",
+                  "rect": [
+                    650,
+                    480.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_rhs3",
+                  "rect": [
+                    692,
+                    480.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "cad6b538fdb45c3bd5f916eb",
+                  "plain": "2160-72",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_equals4",
+                  "rect": [
+                    650,
+                    548.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p003_s05_b004_4_simplify_steps_simplify_rhs4",
+                  "rect": [
+                    692,
+                    548.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "c42a1de215433692b928592f",
+                  "plain": "2088",
+                  "fallback_scale": 1,
+                  "points": 32
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "key": "p003_s07",
+        "slide": 73,
+        "ops": [
+          {
+            "name": "p003_s07_b012_0",
+            "rect": [
+              64,
+              120,
+              1152,
+              64
+            ],
+            "text": "总量与已处理量分别平均分（学完运算律后简算）",
+            "points": 32
+          },
+          {
+            "name": "p003_s07_b014_2",
+            "rect": [
+              106,
+              268.4533,
+              1100,
+              45.0933
+            ],
+            "asset": "b6d2fb12e8634df239092999",
+            "plain": "(4÷4)×18-32÷4",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p003_s07_b015_3",
+            "rect": [
+              106,
+              343.2,
+              1100,
+              45.0933
+            ],
+            "asset": "3753a70fb4d28604ce922616",
+            "plain": "1×18-8",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p003_s07_b016_4",
+            "rect": [
+              64,
+              401,
+              1152,
+              112
+            ],
+            "native_group_anchor": "11",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p003_s07_b016_4_simplify_rhs0",
+                "rect": [
+                  106,
+                  401.0,
+                  1110,
+                  56.0
+                ],
+                "asset": "0a74e9a1114fd788a25cd93f",
+                "plain": "18-8",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p003_s07_b016_4_simplify_equals1",
+                "rect": [
+                  64,
+                  457.0,
+                  34,
+                  56.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p003_s07_b016_4_simplify_rhs1",
+                "rect": [
+                  106,
+                  457.0,
+                  1110,
+                  56.0
+                ],
+                "asset": "09d144e64421cca40caee281",
+                "plain": "10（千克）",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p003_s07_b017_5_p0",
+            "type": "move",
+            "delta": [
+              0.0,
+              73.99994750656168
+            ]
+          },
+          {
+            "name": "p003_s07_b017_5_p1",
+            "type": "move",
+            "delta": [
+              0.0,
+              74.00000000000006
+            ]
+          },
+          {
+            "name": "p003_s07_b017_5_p2",
+            "type": "move",
+            "delta": [
+              0.0,
+              73.99994750656168
+            ]
+          }
+        ]
+      },
+      {
+        "key": "p005_s05",
+        "slide": 120,
+        "ops": [
+          {
+            "name": "p005_s05_b006_6_p0",
+            "rect": [
+              650,
+              270,
+              560,
+              36
+            ],
+            "text": "简便提示",
+            "points": 22
+          },
+          {
+            "name": "p005_s05_b006_6_p1",
+            "rect": [
+              650,
+              346,
+              560,
+              288
+            ],
+            "native_group_anchor": "23",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p005_s05_b006_6_p1_simplify_rhs0",
+                "rect": [
+                  692,
+                  346.0,
+                  518,
+                  72.0
+                ],
+                "asset": "b7a55e09afa12a5fe21fa5dc",
+                "plain": "(630-78)×14÷7",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p005_s05_b006_6_p1_simplify_equals1",
+                "rect": [
+                  650,
+                  418.0,
+                  34,
+                  72.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p005_s05_b006_6_p1_simplify_rhs1",
+                "rect": [
+                  692,
+                  418.0,
+                  518,
+                  72.0
+                ],
+                "asset": "029b8809a061b3dcbf0ad410",
+                "plain": "(630-78)×(14÷7)",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p005_s05_b006_6_p1_simplify_equals2",
+                "rect": [
+                  650,
+                  490.0,
+                  34,
+                  72.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p005_s05_b006_6_p1_simplify_rhs2",
+                "rect": [
+                  692,
+                  490.0,
+                  518,
+                  72.0
+                ],
+                "asset": "15bc4d1fc0b3a8053a270177",
+                "plain": "552×2",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p005_s05_b006_6_p1_simplify_equals3",
+                "rect": [
+                  650,
+                  562.0,
+                  34,
+                  72.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p005_s05_b006_6_p1_simplify_rhs3",
+                "rect": [
+                  692,
+                  562.0,
+                  518,
+                  72.0
+                ],
+                "asset": "316893405a85e08d385b1c10",
+                "plain": "1104",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p005_s05_b006_6_p2",
+            "rect": [
+              650,
+              308,
+              560,
+              32
+            ],
+            "text": "（学完运算律后）",
+            "points": 18
+          },
+          {
+            "name": "p005_s05_b006_6_p3",
+            "rect": [
+              650,
+              641,
+              560,
+              28
+            ],
+            "text": "括号减法与除法可同时算。",
+            "points": 18
+          },
+          {
+            "name": "p005_s05_b006_6_p4",
+            "rect": [
+              64,
+              124,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 1
+          },
+          {
+            "name": "p005_s05_b006_6_p5",
+            "rect": [
+              64,
+              124,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 1
+          },
+          {
+            "name": "p005_s05_b006_6_p6",
+            "rect": [
+              64,
+              124,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "key": "p007_s05",
+        "slide": 162,
+        "ops": [
+          {
+            "name": "p007_s05_b004_4",
+            "type": "side_note",
+            "original_content_retained": true,
+            "animation_anchor_id": "13",
+            "note_title": "简便提示（学完运算律后）",
+            "note_text": "93看成100少7，再减回多算部分。",
+            "math": {
+              "name": "p007_s05_b004_4_simplify_steps",
+              "rect": [
+                650,
+                276,
+                560,
+                340
+              ],
+              "native_group_anchor": "18",
+              "original_click_preserved": true,
+              "rows": [
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_rhs0",
+                  "rect": [
+                    692,
+                    276.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "db28c674ef4c97ecbe95b36a",
+                  "plain": "73×93",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_equals1",
+                  "rect": [
+                    650,
+                    344.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_rhs1",
+                  "rect": [
+                    692,
+                    344.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "b092232c62e384f2f87a4713",
+                  "plain": "73×(100-7)",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_equals2",
+                  "rect": [
+                    650,
+                    412.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_rhs2",
+                  "rect": [
+                    692,
+                    412.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "2c437bcee0f32ac2ef6e24ae",
+                  "plain": "73×100-73×7",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_equals3",
+                  "rect": [
+                    650,
+                    480.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_rhs3",
+                  "rect": [
+                    692,
+                    480.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "b0a9fc306f04cc1ededcaa49",
+                  "plain": "7300-511",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_equals4",
+                  "rect": [
+                    650,
+                    548.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p007_s05_b004_4_simplify_steps_simplify_rhs4",
+                  "rect": [
+                    692,
+                    548.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "879475a45e8ab8d0f8de9cc7",
+                  "plain": "6789",
+                  "fallback_scale": 1,
+                  "points": 32
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "key": "p011_s08",
+        "slide": 256,
+        "ops": [
+          {
+            "name": "p011_s08_b003_3",
+            "type": "side_note",
+            "original_content_retained": true,
+            "animation_anchor_id": "11",
+            "note_title": "运算律口算提示（学完运算律后）",
+            "note_text": "把63按位展开；再与前面所得7相加。",
+            "math": {
+              "name": "p011_s08_b003_3_simplify_steps",
+              "rect": [
+                650,
+                270,
+                560,
+                340
+              ],
+              "native_group_anchor": "16",
+              "original_click_preserved": true,
+              "rows": [
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_rhs0",
+                  "rect": [
+                    692,
+                    270.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "c027d36891f9de4462a0a427",
+                  "plain": "63×25",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_equals1",
+                  "rect": [
+                    650,
+                    338.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_rhs1",
+                  "rect": [
+                    692,
+                    338.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "9f56d5960867f047223bb7b0",
+                  "plain": "(60+3)×25",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_equals2",
+                  "rect": [
+                    650,
+                    406.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_rhs2",
+                  "rect": [
+                    692,
+                    406.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "6bb6f2de793c639ff3368c09",
+                  "plain": "60×25+3×25",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_equals3",
+                  "rect": [
+                    650,
+                    474.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_rhs3",
+                  "rect": [
+                    692,
+                    474.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "f5cd068c368630a52b59bd2b",
+                  "plain": "1500+75",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_equals4",
+                  "rect": [
+                    650,
+                    542.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p011_s08_b003_3_simplify_steps_simplify_rhs4",
+                  "rect": [
+                    692,
+                    542.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "b5bbb3424e03f1543b566053",
+                  "plain": "1575",
+                  "fallback_scale": 1,
+                  "points": 32
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "key": "p015_s08",
+        "slide": 339,
+        "ops": [
+          {
+            "name": "p015_s08_b004_4",
+            "type": "side_note",
+            "original_content_retained": true,
+            "animation_anchor_id": "13",
+            "note_title": "简便提示（学完运算律后）",
+            "note_text": "48看成50少2，两个乘法同时算。",
+            "math": {
+              "name": "p015_s08_b004_4_simplify_steps",
+              "rect": [
+                650,
+                270,
+                560,
+                340
+              ],
+              "native_group_anchor": "18",
+              "original_click_preserved": true,
+              "rows": [
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_rhs0",
+                  "rect": [
+                    692,
+                    270.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "ab9ad6d11f60a5bf790f590f",
+                  "plain": "48×17",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_equals1",
+                  "rect": [
+                    650,
+                    338.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_rhs1",
+                  "rect": [
+                    692,
+                    338.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "8332f43aa0a5b19240f53cf4",
+                  "plain": "(50-2)×17",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_equals2",
+                  "rect": [
+                    650,
+                    406.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_rhs2",
+                  "rect": [
+                    692,
+                    406.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "1e9fb4e2c802330756060b20",
+                  "plain": "50×17-2×17",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_equals3",
+                  "rect": [
+                    650,
+                    474.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_rhs3",
+                  "rect": [
+                    692,
+                    474.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "342bed93e32b3e631c38035a",
+                  "plain": "850-34",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_equals4",
+                  "rect": [
+                    650,
+                    542.0,
+                    34,
+                    68.0
+                  ],
+                  "asset": "ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p015_s08_b004_4_simplify_steps_simplify_rhs4",
+                  "rect": [
+                    692,
+                    542.0,
+                    518,
+                    68.0
+                  ],
+                  "asset": "24d0c334a8420f9760c04bca",
+                  "plain": "816",
+                  "fallback_scale": 1,
+                  "points": 32
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

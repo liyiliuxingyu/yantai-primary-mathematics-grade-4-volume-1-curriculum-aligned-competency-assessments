@@ -1,0 +1,202 @@
+{
+  "book_page": 49,
+  "source_page": 53,
+  "records": [
+    {
+      "key": "p049_s01",
+      "book_page": 49,
+      "source_page": 53,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "中国国家博物馆遵循“开门办馆”的理念，分期分批对社会公布馆藏藏品目录，第一期共公布藏品约30.64万件。横线上的小数读作（　），这个小数的计数单位是（　），它有（　）个这样的计数单位。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填“三十点六四、\\(0.01\\)、\\(3064\\)”。整数部分30按整数读法读“三十”，小数部分按数位逐个读“六、四”。30.64写到百分位，计数单位是百分之一，即0.01。3个十相当于3000个0.01，6个十分之一相当于60个0.01，再加4个0.01，共\\(3000+60+4=3064\\)个。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p049_s02",
+      "book_page": 49,
+      "source_page": 53,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "一个小数由8个0.1和7个0.01组成，这个小数是（　），再加上（　）个\\(\\frac1{100}\\)就是1。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(0.87,13\\)。\\(8\\)个\\(0.1\\)是\\(0.8\\)，\\(7\\)个\\(0.01\\)是\\(0.07\\)，合为\\(0.87\\)。把1写成\\(1.00\\)，还差\\(1.00-0.87=0.13\\)，即13个\\(\\frac1{100}\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p049_s03",
+      "book_page": 49,
+      "source_page": 53,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "把168000改写成用“万”作单位的数是（　）万，保留整数约是（　）万；把995000000改写成以“亿”为单位的数是（　）亿，精确到十分位约是（　）亿。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(16.8,17,9.95,10.0\\)。先准确改写，每10000合成1万、每100000000合成1亿：\\[\\begin{aligned}168000&=(168000\\div10000)\\text{万}=16.8\\text{万}\\\\995000000&=(995000000\\div100000000)\\text{亿}=9.95\\text{亿}\\end{aligned}\\]再求近似数。16.8保留整数看十分位8，向个位进1；9.95保留一位小数看百分位5，连续进位。\\[\\begin{aligned}16.8\\text{万}&\\approx17\\text{万}\\\\9.95\\text{亿}&\\approx10.0\\text{亿}\\end{aligned}\\]准确改写用等号，求近似数用约等号。10.0末尾的0必须保留，表示保留一位小数；原空后已有单位，只填数。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p049_s04",
+      "book_page": 49,
+      "source_page": 53,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "3分米＝（　）米；5.06吨＝（　）吨（　）千克；32克＝（　）千克；5平方米3平方分米＝（　）平方米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(0.3;5,60;0.032;5.03\\)。分米化米除以10，吨化千克乘1000，克化千克除以1000，平方分米化平方米除以100。每项换算另行写清单位：\\[\\begin{aligned}3\\text{分米}&=(3\\div10)\\text{米}=0.3\\text{米}\\\\0.06\\text{吨}&=(0.06\\times1000)\\text{千克}=60\\text{千克}\\\\5.06\\text{吨}&=5\\text{吨}60\\text{千克}\\\\32\\text{克}&=(32\\div1000)\\text{千克}=0.032\\text{千克}\\\\3\\text{平方分米}&=(3\\div100)\\text{平方米}=0.03\\text{平方米}\\\\5\\text{平方米}3\\text{平方分米}&=(5+0.03)\\text{平方米}=5.03\\text{平方米}\\end{aligned}\\]长度与面积的进率不同，不能混用。各原空后已有单位，只填相应数值。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p049_s05",
+      "book_page": 49,
+      "source_page": 53,
+      "section_index": 4,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "把0.504、0.45、0.045、0.54、0.405、0.054按从小到大的顺序排列是（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(0.045<0.054<0.405<0.45<0.504<0.54\\)。比较时统一写成三位小数：0.045、0.054、0.405、0.450、0.504、0.540，从十分位、百分位、千分位依次比较。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p049_s06",
+      "book_page": 49,
+      "source_page": 53,
+      "section_index": 5,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "元元在读一个小数时，把小数点漏读了，结果读成八万四千零二。若原来的小数要读一个零，则原来的小数是（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(840.02\\)。漏读小数点后得到的数字串为84002。若写成8.4002或84.002，小数部分要读两个“零”；8400.2不读“零”。840.02读“八百四十点零二”，恰好只读一个“零”，符合条件。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p049_s07",
+      "book_page": 49,
+      "source_page": 53,
+      "section_index": 6,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”。\\(6.02\\ \\bigcirc\\ 6.002\\)，\\(3.5\\ \\bigcirc\\ 3.50\\)，9千克50克\\(\\bigcirc\\)9.5千克；\\(7.91\\ \\bigcirc\\ 7.97\\)，0.57 m\\(\\bigcirc\\)57 cm，\\(8.26\\ \\bigcirc\\ 4.62\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(>,=,<,<,=,>\\)。\\par \\(6.020>6.002\\)，比较百分位；\\(3.5=3.50\\)，小数末尾添0大小不变。不同单位先换算：\\[\\begin{aligned}50\\text{克}&=(50\\div1000)\\text{千克}=0.05\\text{千克}\\\\9\\text{千克}50\\text{克}&=(9+0.05)\\text{千克}=9.05\\text{千克}\\\\0.57\\text{米}&=(0.57\\times100)\\text{厘米}=57\\text{厘米}\\end{aligned}\\]故9千克50克小于9.5千克，0.57米等于57厘米。其余\\(7.91<7.97\\)、\\(8.26>4.62\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

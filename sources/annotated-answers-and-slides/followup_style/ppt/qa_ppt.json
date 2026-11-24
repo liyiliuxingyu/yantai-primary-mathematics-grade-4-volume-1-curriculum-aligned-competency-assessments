@@ -1,0 +1,270 @@
+{
+  "source": "/workspace/scratch/1facfb035d44/detail_work/deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+  "source_sha256": "cb848adba20fdab5365ab0bf31c1675ffad94ea3334fe7624435066ab6f96252",
+  "output": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/r3/小学四上同步素养卷第1册讲解课件答案.pptx",
+  "output_sha256": "164d1508e5b90ca2c2e259e6bcc3ca95e7d4fb9048fb5f594c59ccf99ba1c762",
+  "slide_count": 426,
+  "changed_slides": [
+    117,
+    118,
+    171,
+    172
+  ],
+  "modified_original_parts": [
+    "ppt/slides/slide117.xml",
+    "ppt/slides/slide118.xml",
+    "ppt/slides/slide171.xml",
+    "ppt/slides/slide172.xml",
+    "ppt/slides/_rels/slide117.xml.rels",
+    "ppt/slides/_rels/slide118.xml.rels",
+    "ppt/slides/_rels/slide171.xml.rels",
+    "ppt/slides/_rels/slide172.xml.rels"
+  ],
+  "added_media_parts": [
+    "ppt/media/followup_formula_01.png",
+    "ppt/media/followup_formula_01.svg",
+    "ppt/media/followup_formula_02.png",
+    "ppt/media/followup_formula_02.svg",
+    "ppt/media/followup_formula_03.png",
+    "ppt/media/followup_formula_03.svg",
+    "ppt/media/followup_formula_04.png",
+    "ppt/media/followup_formula_04.svg",
+    "ppt/media/followup_formula_05.png",
+    "ppt/media/followup_formula_05.svg",
+    "ppt/media/followup_formula_06.png",
+    "ppt/media/followup_formula_06.svg",
+    "ppt/media/followup_formula_07.png",
+    "ppt/media/followup_formula_07.svg",
+    "ppt/media/followup_formula_08.png",
+    "ppt/media/followup_formula_08.svg",
+    "ppt/media/followup_formula_09.png",
+    "ppt/media/followup_formula_09.svg"
+  ],
+  "all_other_original_package_components_byte_identical": true,
+  "all_422_other_slide_xml_byte_identical": true,
+  "all_426_timing_xml_byte_identical": true,
+  "affected_slides": [
+    {
+      "slide": 117,
+      "native_omml_formula_count": 2,
+      "actual_svg_png_fallback_count": 2,
+      "all_animation_targets_resolve": true
+    },
+    {
+      "slide": 118,
+      "native_omml_formula_count": 3,
+      "actual_svg_png_fallback_count": 3,
+      "all_animation_targets_resolve": true,
+      "outer_group_id": 4,
+      "native_quantity_node_count": 7,
+      "native_connector_count": 6,
+      "complete_labels": [
+        "扇贝单价12元/千克",
+        "梭子蟹单价96元/千克",
+        "两种单价和108元",
+        "3倍",
+        "单价和的3倍324元",
+        "多10元",
+        "礼盒单价334元"
+      ]
+    },
+    {
+      "slide": 171,
+      "native_omml_formula_count": 1,
+      "actual_svg_png_fallback_count": 1,
+      "all_animation_targets_resolve": true
+    },
+    {
+      "slide": 172,
+      "native_omml_formula_count": 3,
+      "actual_svg_png_fallback_count": 3,
+      "all_animation_targets_resolve": true,
+      "outer_group_id": 4,
+      "native_quantity_node_count": 7,
+      "native_connector_count": 6,
+      "complete_labels": [
+        "椅子单价14元",
+        "椅子总价70元",
+        "椅子数量5把",
+        "总金额230元",
+        "桌子总价160元",
+        "桌子单价80元",
+        "桌子数量2张"
+      ]
+    }
+  ],
+  "native_omml_formula_count": 9,
+  "formula_assets": [
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_01.tex",
+      "tex_sha256": "08ec7f0d8a7fdac114250a704b8b8f20ac9720e4f429152c8eef89b888c2644a",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "91ff3a978f28fc4b4bd814f034b0eacfea8546f8badcf2a1551283edb37c9c04",
+      "png_sha256": "250fd308eeb1aa727f70f0565395442f1b56407194b256fe457f82daf378be15",
+      "warnings": []
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_02.tex",
+      "tex_sha256": "b1e9690f7205aa44485025986d2169606de3311ef85b3052e24844ee81741d9b",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "bcc4bcf427657338dfed80a0bda276ee1bb4499e42c088326f97f72e82ed1fba",
+      "png_sha256": "83a3f65ac3551f936eadb51b348b64bd2b8b13f32f2baf5799d0df17cf2fcbc5",
+      "warnings": []
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_03.tex",
+      "tex_sha256": "ecf31928ccf9b6d2d86c23fb4c91227256977f3e279a090eab0e71f7e5964c8d",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "65a9f90c3d495601b5fcaecda8241f11af4406147331e73b3c202363c7f8fc1e",
+      "png_sha256": "4bdcad17a70a88f9c6843c9b8417b59deba7145f1c816d4c0aa031f770b6517e",
+      "warnings": []
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_04.tex",
+      "tex_sha256": "7ba84fbc45629e407473a8781776014dddc02504de8120b5ff4165859dbf51e0",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "aa937b25270ccb4a157f663d86965d02e0dbf818842d4a3bb52c340cdee9eed9",
+      "png_sha256": "88a21adaf4e2183edd8db8809c0cf874d19a63bd9b6a4cb0bc9ce7d734ce44be",
+      "warnings": []
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_05.tex",
+      "tex_sha256": "862d63dc300b6a6e6df28388c6c768ac64553217c2a729e3339b77bc68c3584b",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "7b826a2e7c34c36e0b77ebc2e3b1c17f75fe984ab305068814f2b3c98c5b2015",
+      "png_sha256": "1cb5dd166d688f6f147d49393ab4f3bcd8595ce0310bfbab05a6a4ea95163d40",
+      "warnings": []
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_06.tex",
+      "tex_sha256": "b7f084b9ef0ef66714d207e189b2b8aa0469a7b64639fa7d46b9d55db6dc1e30",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "20e9bcbf73e9c9ab7724e57ca1c91553a3170bbfe0fbfea05529ff56e57ae873",
+      "png_sha256": "d83633909137905f4f04b3bca2a04419cdf86d005281fcf5cfe1592f6a5a9703",
+      "warnings": []
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_07.tex",
+      "tex_sha256": "9fc8871f1f28a72e9b95b8d3eabddd46432642bac0252ed559fb34518ec693df",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "226a49e7dcd6559d91d41cc72ed887fd5aa63bc1c4a048cf1016b9cd807a676e",
+      "png_sha256": "9d3512a6f16f88d70113b61e22b4b5667731970e95ff94a13ae5aad1409a5502",
+      "warnings": []
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_08.tex",
+      "tex_sha256": "7f001b11515434621e045d49134cd8437b4c9429847335b3056034ad55dde2d5",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "e7399dadfa0ff15300adccdd668e30ba33111957900c96aca7386eda9b61fc3c",
+      "png_sha256": "3cb66728f1cac66daeaa832b5e7812919e7743a1b2e045e8d7953e3d4c359e36",
+      "warnings": []
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/formulas/formula_09.tex",
+      "tex_sha256": "253108af8faed3f9876ef49e1c192dfba5aa9472d8becdf048cfc9888f3cfb22",
+      "actual_xelatex_compile": true,
+      "svg_sha256": "1819f036d332500b0d4e5c754f05ae3fde6f71c9f534cb8266658468d265e52b",
+      "png_sha256": "c57c8f264f65e0fcd4217d0af50a353efcd9793a7504985df363ca67ddae5c24",
+      "warnings": []
+    }
+  ],
+  "actual_static_export": {
+    "software": "LibreOffice Impress headless",
+    "pdf": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/r3/actual_static_export/小学四上同步素养卷第1册讲解课件答案.pdf",
+    "pdf_sha256": "6003ba83a7efd41b9ddb4f3b969f6f261e15400cc133620e47f3ba5c8f1401d7",
+    "slide_numbers": [
+      117,
+      118,
+      171,
+      172
+    ],
+    "rendered_pngs": [
+      "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/r3/actual_static_export/slide-117.png",
+      "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/r3/actual_static_export/slide-118.png",
+      "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/r3/actual_static_export/slide-171.png",
+      "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/r3/actual_static_export/slide-172.png"
+    ],
+    "visual_review_pass": true
+  },
+  "artifact_tool_source_inspection": "/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt/source_inspection_summary.json",
+  "skill_validation": {
+    "packageIntegrity": {
+      "chart_count": 0,
+      "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+      "finding_count": 0,
+      "findings": [],
+      "notes_parts_skipped": 426,
+      "relationship_part_count": 862,
+      "slide_count": 426,
+      "status": "pass",
+      "exitCode": 0,
+      "findingCount": 0,
+      "warnings": []
+    },
+    "presentationLayout": {
+      "finding_count": 0,
+      "findings": [],
+      "font_policy": {
+        "checked_text_script_count": 5985,
+        "native_font_rendering_verified": false,
+        "observed_font_families": [
+          "Droid Sans Fallback"
+        ],
+        "observed_font_use_counts": {
+          "Droid Sans Fallback": 5985
+        },
+        "passed": true,
+        "performed": true
+      },
+      "slide_count": 426,
+      "slide_size_in": [
+        13.3333,
+        7.5
+      ],
+      "warning_count": 0,
+      "warnings": [],
+      "exitCode": 0,
+      "findingCount": 0,
+      "fontPolicy": {
+        "checked_text_script_count": 5985,
+        "native_font_rendering_verified": false,
+        "observed_font_families": [
+          "Droid Sans Fallback"
+        ],
+        "observed_font_use_counts": {
+          "Droid Sans Fallback": 5985
+        },
+        "passed": true,
+        "performed": true
+      }
+    },
+    "fontSelection": {
+      "basis": "design",
+      "approvedFamilies": [
+        "Droid Sans Fallback",
+        "Cambria Math"
+      ],
+      "scriptFonts": {},
+      "referenceSha256": null,
+      "referenceFontsVerifiedInEncodedText": false,
+      "checked_text_script_count": 5985,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Droid Sans Fallback"
+      ],
+      "observed_font_use_counts": {
+        "Droid Sans Fallback": 5985
+      },
+      "passed": true,
+      "performed": true
+    },
+    "firstPartyImport": {
+      "performed": true,
+      "passed": true,
+      "slideCount": 426,
+      "sha256": "164d1508e5b90ca2c2e259e6bcc3ca95e7d4fb9048fb5f594c59ccf99ba1c762",
+      "nodeExecutable": "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/bin/node"
+    }
+  },
+  "claim_boundary": "The four affected slides were actually viewed in full-size LibreOffice PDF/PNG. Native editable objects and all original timing targets verified structurally. No Microsoft PowerPoint slideshow playback was performed."
+}

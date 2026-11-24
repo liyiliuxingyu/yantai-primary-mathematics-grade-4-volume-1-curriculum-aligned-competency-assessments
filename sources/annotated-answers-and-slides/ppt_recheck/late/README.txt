@@ -1,0 +1,4 @@
+本目录保存本轮第5—6册27张修改页的规则、最终原生对象快照及65套实际编译的公式源码。
+规则属于对本轮基线PPT的一次性窄范围升级；baseline SHA见../inventory_patch.json。不可直接在已修改课件上重复运行。
+当前权威内容是post_export_overlay.json与本次交付PPT，旧manifest只作原位置索引。公式.tex的字体路径相对于工程根目录fonts/；全部65套已从工程根目录实际XeLaTeX编译通过。
+PPT中的普通中文文字可编辑，公式为原生OMML；兼容分支使用同一算式实际编译的SVG/PNG。保留原动画XML不等于已在PowerPoint或WPS中实际播放。

@@ -1,0 +1,3075 @@
+{
+  "accepted": true,
+  "passed": true,
+  "source_pdf": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/小学同步素养四年级上册数学答案.pdf",
+  "source_sha256": "d42c41d5cb81472c52632f05a7977bd5484cf73908d50595f05380b503a6e099",
+  "source_bytes": 123145883,
+  "candidate_pdf": "/workspace/scratch/1facfb035d44/simplify_review/optimized.pdf",
+  "candidate_sha256": "0a6f9c0fce5f7b33811450ece77e360af0e482faabd72c4f1ea35477b66cf4ea",
+  "candidate_bytes": 70085425,
+  "bytes_saved": 53060458,
+  "source_image_xrefs": 219,
+  "candidate_image_xrefs": 127,
+  "identical_jpeg_replacements": 92,
+  "replacements": [
+    {
+      "keep": {
+        "xref": 339,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 276309
+      },
+      "replace": {
+        "xref": 597,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 276309
+      },
+      "jpeg_sha256": "6a9b3965686dbb614dba0a2280b26c441a7ad044f1bb305d7cd2d837a93bed07",
+      "width": 1553,
+      "height": 2199,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 339,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 276309
+      },
+      "replace": {
+        "xref": 533,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 276309
+      },
+      "jpeg_sha256": "6a9b3965686dbb614dba0a2280b26c441a7ad044f1bb305d7cd2d837a93bed07",
+      "width": 1553,
+      "height": 2199,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 813,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 418312
+      },
+      "replace": {
+        "xref": 896,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 418312
+      },
+      "jpeg_sha256": "a8661d5a750663a9baa78f111b2af05d4475a92b51e9f392cf66b4c71bda8091",
+      "width": 1536,
+      "height": 2175,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 813,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 418312
+      },
+      "replace": {
+        "xref": 861,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 418312
+      },
+      "jpeg_sha256": "a8661d5a750663a9baa78f111b2af05d4475a92b51e9f392cf66b4c71bda8091",
+      "width": 1536,
+      "height": 2175,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 813,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 418312
+      },
+      "replace": {
+        "xref": 943,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 418312
+      },
+      "jpeg_sha256": "a8661d5a750663a9baa78f111b2af05d4475a92b51e9f392cf66b4c71bda8091",
+      "width": 1536,
+      "height": 2175,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1116,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 560249
+      },
+      "replace": {
+        "xref": 1198,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 560249
+      },
+      "jpeg_sha256": "7ba86c5f166be86301a932db125ede05e73525719e0b3dea13230dd3ae166640",
+      "width": 1594,
+      "height": 2255,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1116,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 560249
+      },
+      "replace": {
+        "xref": 1153,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 560249
+      },
+      "jpeg_sha256": "7ba86c5f166be86301a932db125ede05e73525719e0b3dea13230dd3ae166640",
+      "width": 1594,
+      "height": 2255,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1272,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 363329
+      },
+      "replace": {
+        "xref": 1387,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 363329
+      },
+      "jpeg_sha256": "6435628f2b5473d4c573f4d103ae91dd6b4dda568f0f0f6ec241ae9326c64b88",
+      "width": 1548,
+      "height": 2191,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1272,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 363329
+      },
+      "replace": {
+        "xref": 1341,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 363329
+      },
+      "jpeg_sha256": "6435628f2b5473d4c573f4d103ae91dd6b4dda568f0f0f6ec241ae9326c64b88",
+      "width": 1548,
+      "height": 2191,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1485,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 355323
+      },
+      "replace": {
+        "xref": 1568,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 355323
+      },
+      "jpeg_sha256": "1f8a4fba8a0d24fdf9ef004c83cdef6442ab2fb3ceff79876a4dfbafc75d5b5f",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1485,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 355323
+      },
+      "replace": {
+        "xref": 1527,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 355323
+      },
+      "jpeg_sha256": "1f8a4fba8a0d24fdf9ef004c83cdef6442ab2fb3ceff79876a4dfbafc75d5b5f",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1485,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 355323
+      },
+      "replace": {
+        "xref": 1608,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 355323
+      },
+      "jpeg_sha256": "1f8a4fba8a0d24fdf9ef004c83cdef6442ab2fb3ceff79876a4dfbafc75d5b5f",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1826,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 251008
+      },
+      "replace": {
+        "xref": 1906,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 251008
+      },
+      "jpeg_sha256": "6382db739488588a3b0563fef24aea7ace7ed46697bb0a089f10093e2dcd6b47",
+      "width": 1571,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 1826,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 251008
+      },
+      "replace": {
+        "xref": 1858,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 251008
+      },
+      "jpeg_sha256": "6382db739488588a3b0563fef24aea7ace7ed46697bb0a089f10093e2dcd6b47",
+      "width": 1571,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2176,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 265574
+      },
+      "replace": {
+        "xref": 2246,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 265574
+      },
+      "jpeg_sha256": "02c4850effa51a66b10f65dafefbfe242f7c368579efead53bf59bc9db4a2572",
+      "width": 1560,
+      "height": 2207,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2176,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 265574
+      },
+      "replace": {
+        "xref": 2199,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 265574
+      },
+      "jpeg_sha256": "02c4850effa51a66b10f65dafefbfe242f7c368579efead53bf59bc9db4a2572",
+      "width": 1560,
+      "height": 2207,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2494,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 262457
+      },
+      "replace": {
+        "xref": 2582,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 262457
+      },
+      "jpeg_sha256": "6f22dc6687e1c29348429d0574045702a826483cdfd48781092737f85d779196",
+      "width": 1553,
+      "height": 2199,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2494,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 262457
+      },
+      "replace": {
+        "xref": 2524,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 262457
+      },
+      "jpeg_sha256": "6f22dc6687e1c29348429d0574045702a826483cdfd48781092737f85d779196",
+      "width": 1553,
+      "height": 2199,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2494,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 262457
+      },
+      "replace": {
+        "xref": 2612,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 262457
+      },
+      "jpeg_sha256": "6f22dc6687e1c29348429d0574045702a826483cdfd48781092737f85d779196",
+      "width": 1553,
+      "height": 2199,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2644,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 342337
+      },
+      "replace": {
+        "xref": 2721,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 342337
+      },
+      "jpeg_sha256": "2823c395ea89d4ca02fe5c4ea5386e828cf5b1037c2aa4fb904aaef44136b328",
+      "width": 1559,
+      "height": 2207,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2644,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 342337
+      },
+      "replace": {
+        "xref": 2686,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 342337
+      },
+      "jpeg_sha256": "2823c395ea89d4ca02fe5c4ea5386e828cf5b1037c2aa4fb904aaef44136b328",
+      "width": 1559,
+      "height": 2207,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2644,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 342337
+      },
+      "replace": {
+        "xref": 2763,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 342337
+      },
+      "jpeg_sha256": "2823c395ea89d4ca02fe5c4ea5386e828cf5b1037c2aa4fb904aaef44136b328",
+      "width": 1559,
+      "height": 2207,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2949,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 287987
+      },
+      "replace": {
+        "xref": 3037,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 287987
+      },
+      "jpeg_sha256": "c473e609dc12d3fb6254c778e839eec63f3d9ceccdea70d1f00dbef895efcf33",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2949,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 287987
+      },
+      "replace": {
+        "xref": 2979,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 287987
+      },
+      "jpeg_sha256": "c473e609dc12d3fb6254c778e839eec63f3d9ceccdea70d1f00dbef895efcf33",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 2949,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 287987
+      },
+      "replace": {
+        "xref": 3067,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 287987
+      },
+      "jpeg_sha256": "c473e609dc12d3fb6254c778e839eec63f3d9ceccdea70d1f00dbef895efcf33",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3319,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 272055
+      },
+      "replace": {
+        "xref": 3409,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 272055
+      },
+      "jpeg_sha256": "0d27f8ed5186a4aaa2190afb2e41cb0977a5e999fb25377642cfea0e87c1b667",
+      "width": 1553,
+      "height": 2199,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3319,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 272055
+      },
+      "replace": {
+        "xref": 3360,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 272055
+      },
+      "jpeg_sha256": "0d27f8ed5186a4aaa2190afb2e41cb0977a5e999fb25377642cfea0e87c1b667",
+      "width": 1553,
+      "height": 2199,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3319,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 272055
+      },
+      "replace": {
+        "xref": 3449,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 272055
+      },
+      "jpeg_sha256": "0d27f8ed5186a4aaa2190afb2e41cb0977a5e999fb25377642cfea0e87c1b667",
+      "width": 1553,
+      "height": 2199,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3482,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 331057
+      },
+      "replace": {
+        "xref": 3553,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 331057
+      },
+      "jpeg_sha256": "a40b7d4895eeead2613d7c2f4e24d3de1e4378352df5f558ad3693325ccc7485",
+      "width": 1576,
+      "height": 2231,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3482,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 331057
+      },
+      "replace": {
+        "xref": 3518,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 331057
+      },
+      "jpeg_sha256": "a40b7d4895eeead2613d7c2f4e24d3de1e4378352df5f558ad3693325ccc7485",
+      "width": 1576,
+      "height": 2231,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3482,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 331057
+      },
+      "replace": {
+        "xref": 3589,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 331057
+      },
+      "jpeg_sha256": "a40b7d4895eeead2613d7c2f4e24d3de1e4378352df5f558ad3693325ccc7485",
+      "width": 1576,
+      "height": 2231,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3841,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 333795
+      },
+      "replace": {
+        "xref": 3923,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 333795
+      },
+      "jpeg_sha256": "d5856df5da620b11ca04c0e77955b13a97eb3f3e210bdcfd35ddacb919a5bf77",
+      "width": 1600,
+      "height": 2263,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3841,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 333795
+      },
+      "replace": {
+        "xref": 3876,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 333795
+      },
+      "jpeg_sha256": "d5856df5da620b11ca04c0e77955b13a97eb3f3e210bdcfd35ddacb919a5bf77",
+      "width": 1600,
+      "height": 2263,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 3841,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 333795
+      },
+      "replace": {
+        "xref": 3958,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 333795
+      },
+      "jpeg_sha256": "d5856df5da620b11ca04c0e77955b13a97eb3f3e210bdcfd35ddacb919a5bf77",
+      "width": 1600,
+      "height": 2263,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 4618,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "replace": {
+        "xref": 4695,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "jpeg_sha256": "0808c9a80ed2a1c9ffff88b7b1215c71764dd153b3aab2bd305d1b1971a7cfcd",
+      "width": 1605,
+      "height": 2272,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 4618,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "replace": {
+        "xref": 4881,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "jpeg_sha256": "0808c9a80ed2a1c9ffff88b7b1215c71764dd153b3aab2bd305d1b1971a7cfcd",
+      "width": 1605,
+      "height": 2272,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 4618,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "replace": {
+        "xref": 4665,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "jpeg_sha256": "0808c9a80ed2a1c9ffff88b7b1215c71764dd153b3aab2bd305d1b1971a7cfcd",
+      "width": 1605,
+      "height": 2272,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 4618,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "replace": {
+        "xref": 4820,
+        "color_space": [
+          "xref",
+          "4821 0 R"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "jpeg_sha256": "0808c9a80ed2a1c9ffff88b7b1215c71764dd153b3aab2bd305d1b1971a7cfcd",
+      "width": 1605,
+      "height": 2272,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 4618,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "replace": {
+        "xref": 4928,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 431275
+      },
+      "jpeg_sha256": "0808c9a80ed2a1c9ffff88b7b1215c71764dd153b3aab2bd305d1b1971a7cfcd",
+      "width": 1605,
+      "height": 2272,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 4962,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 263512
+      },
+      "replace": {
+        "xref": 5027,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 263512
+      },
+      "jpeg_sha256": "c02bb9900e07a0449eac56e3d6c0f55c958f9fc1dd6b6c0a5a1fdca1d0f85c6d",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 4962,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 263512
+      },
+      "replace": {
+        "xref": 4993,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 263512
+      },
+      "jpeg_sha256": "c02bb9900e07a0449eac56e3d6c0f55c958f9fc1dd6b6c0a5a1fdca1d0f85c6d",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 4962,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 263512
+      },
+      "replace": {
+        "xref": 5058,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 263512
+      },
+      "jpeg_sha256": "c02bb9900e07a0449eac56e3d6c0f55c958f9fc1dd6b6c0a5a1fdca1d0f85c6d",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5091,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 283206
+      },
+      "replace": {
+        "xref": 5194,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 283206
+      },
+      "jpeg_sha256": "ffc49cc04f278a087e25a48b12e1c282c97604b85894c2d36409ec00ba46ea4a",
+      "width": 1604,
+      "height": 2271,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5091,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 283206
+      },
+      "replace": {
+        "xref": 5157,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 283206
+      },
+      "jpeg_sha256": "ffc49cc04f278a087e25a48b12e1c282c97604b85894c2d36409ec00ba46ea4a",
+      "width": 1604,
+      "height": 2271,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5091,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 283206
+      },
+      "replace": {
+        "xref": 5258,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 283206
+      },
+      "jpeg_sha256": "ffc49cc04f278a087e25a48b12e1c282c97604b85894c2d36409ec00ba46ea4a",
+      "width": 1604,
+      "height": 2271,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5307,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1280221
+      },
+      "replace": {
+        "xref": 5391,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1280221
+      },
+      "jpeg_sha256": "8f5e7f6bb224cb46654f80e2e2729900158d21c80b78a780c122f026daa5ad1c",
+      "width": 3446,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5307,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1280221
+      },
+      "replace": {
+        "xref": 5339,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 1280221
+      },
+      "jpeg_sha256": "8f5e7f6bb224cb46654f80e2e2729900158d21c80b78a780c122f026daa5ad1c",
+      "width": 3446,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5463,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "replace": {
+        "xref": 5538,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "jpeg_sha256": "56fd3669ec620cbf75f218f6c6f5f324a21c7c63c7f78180663152b131584e6b",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5463,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "replace": {
+        "xref": 5692,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "jpeg_sha256": "56fd3669ec620cbf75f218f6c6f5f324a21c7c63c7f78180663152b131584e6b",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5463,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "replace": {
+        "xref": 5507,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "jpeg_sha256": "56fd3669ec620cbf75f218f6c6f5f324a21c7c63c7f78180663152b131584e6b",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5463,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "replace": {
+        "xref": 5627,
+        "color_space": [
+          "xref",
+          "4821 0 R"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "jpeg_sha256": "56fd3669ec620cbf75f218f6c6f5f324a21c7c63c7f78180663152b131584e6b",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5463,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "replace": {
+        "xref": 5736,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 1161719
+      },
+      "jpeg_sha256": "56fd3669ec620cbf75f218f6c6f5f324a21c7c63c7f78180663152b131584e6b",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5829,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 870666
+      },
+      "replace": {
+        "xref": 5907,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 870666
+      },
+      "jpeg_sha256": "fcae67936691d0d2787091833de1d2f3bc0aa52d380a134ca313b4332abc57fa",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5829,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 870666
+      },
+      "replace": {
+        "xref": 5869,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 870666
+      },
+      "jpeg_sha256": "fcae67936691d0d2787091833de1d2f3bc0aa52d380a134ca313b4332abc57fa",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 5829,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 870666
+      },
+      "replace": {
+        "xref": 5947,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 870666
+      },
+      "jpeg_sha256": "fcae67936691d0d2787091833de1d2f3bc0aa52d380a134ca313b4332abc57fa",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 6579,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 877523
+      },
+      "replace": {
+        "xref": 6655,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 877523
+      },
+      "jpeg_sha256": "1ee2b4b63ad44df0129cdbac513a05459e87cc8ec2ad2ed626da1252e42811c3",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 6579,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 877523
+      },
+      "replace": {
+        "xref": 6607,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 877523
+      },
+      "jpeg_sha256": "1ee2b4b63ad44df0129cdbac513a05459e87cc8ec2ad2ed626da1252e42811c3",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 6579,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 877523
+      },
+      "replace": {
+        "xref": 6683,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 877523
+      },
+      "jpeg_sha256": "1ee2b4b63ad44df0129cdbac513a05459e87cc8ec2ad2ed626da1252e42811c3",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 6917,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 453537
+      },
+      "replace": {
+        "xref": 6999,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 453537
+      },
+      "jpeg_sha256": "081343932ee42445e116938f67fec9d2b66a6a6a2e7de3e1415f0c622a38fd36",
+      "width": 1542,
+      "height": 2183,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 6917,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 453537
+      },
+      "replace": {
+        "xref": 6940,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 453537
+      },
+      "jpeg_sha256": "081343932ee42445e116938f67fec9d2b66a6a6a2e7de3e1415f0c622a38fd36",
+      "width": 1542,
+      "height": 2183,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 7118,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 234647
+      },
+      "replace": {
+        "xref": 7252,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 234647
+      },
+      "jpeg_sha256": "94bdb13d2b10e328d1c54b6af3a787ec3ddbc91ac951a64275d8bc01752932bc",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 7118,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 234647
+      },
+      "replace": {
+        "xref": 7191,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 234647
+      },
+      "jpeg_sha256": "94bdb13d2b10e328d1c54b6af3a787ec3ddbc91ac951a64275d8bc01752932bc",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 7118,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 234647
+      },
+      "replace": {
+        "xref": 7325,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 234647
+      },
+      "jpeg_sha256": "94bdb13d2b10e328d1c54b6af3a787ec3ddbc91ac951a64275d8bc01752932bc",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 7938,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 566950
+      },
+      "replace": {
+        "xref": 8012,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 566950
+      },
+      "jpeg_sha256": "7e78db9f5d52c8af472b9e0912dac250d1afcb2b8bb8e25ee007ea3a6d8f4112",
+      "width": 1548,
+      "height": 2191,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 7938,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 566950
+      },
+      "replace": {
+        "xref": 7963,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 566950
+      },
+      "jpeg_sha256": "7e78db9f5d52c8af472b9e0912dac250d1afcb2b8bb8e25ee007ea3a6d8f4112",
+      "width": 1548,
+      "height": 2191,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8129,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 309663
+      },
+      "replace": {
+        "xref": 8208,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 309663
+      },
+      "jpeg_sha256": "1bc1c1a2492824d0ddf6bac530dd9766fd5fa0a8d974311e4470d41d0f46a858",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8129,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 309663
+      },
+      "replace": {
+        "xref": 8169,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 309663
+      },
+      "jpeg_sha256": "1bc1c1a2492824d0ddf6bac530dd9766fd5fa0a8d974311e4470d41d0f46a858",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8273,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 416580
+      },
+      "replace": {
+        "xref": 8328,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 416580
+      },
+      "jpeg_sha256": "3240e96532ae7b700a9db2f04aa52dfdc8ad28e6c93d1b046e8b57cce7bd265c",
+      "width": 1604,
+      "height": 2271,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8273,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 416580
+      },
+      "replace": {
+        "xref": 8298,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 416580
+      },
+      "jpeg_sha256": "3240e96532ae7b700a9db2f04aa52dfdc8ad28e6c93d1b046e8b57cce7bd265c",
+      "width": 1604,
+      "height": 2271,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8390,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1261049
+      },
+      "replace": {
+        "xref": 8411,
+        "color_space": [
+          "xref",
+          "8412 0 R"
+        ],
+        "jpeg_bytes": 1261049
+      },
+      "jpeg_sha256": "49c16bf103a96e15083678ca290f8cd6c84e1916931345f789a358985e1c4c5c",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8390,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 1261049
+      },
+      "replace": {
+        "xref": 8417,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 1261049
+      },
+      "jpeg_sha256": "49c16bf103a96e15083678ca290f8cd6c84e1916931345f789a358985e1c4c5c",
+      "width": 3442,
+      "height": 4864,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8554,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 303799
+      },
+      "replace": {
+        "xref": 8617,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 303799
+      },
+      "jpeg_sha256": "e986c74eaab5c66923cecc8fc077a0964337728c318c5c3fba480b4cad2d2ec8",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8554,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 303799
+      },
+      "replace": {
+        "xref": 8581,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 303799
+      },
+      "jpeg_sha256": "e986c74eaab5c66923cecc8fc077a0964337728c318c5c3fba480b4cad2d2ec8",
+      "width": 1535,
+      "height": 2170,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8671,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 445240
+      },
+      "replace": {
+        "xref": 8730,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 445240
+      },
+      "jpeg_sha256": "9a545f287252af8dd70b20884cea9fe94a8411d46eb4d42fcc46eaa045099ea4",
+      "width": 1659,
+      "height": 2348,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8671,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 445240
+      },
+      "replace": {
+        "xref": 8698,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 445240
+      },
+      "jpeg_sha256": "9a545f287252af8dd70b20884cea9fe94a8411d46eb4d42fcc46eaa045099ea4",
+      "width": 1659,
+      "height": 2348,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8671,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 445240
+      },
+      "replace": {
+        "xref": 8757,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 445240
+      },
+      "jpeg_sha256": "9a545f287252af8dd70b20884cea9fe94a8411d46eb4d42fcc46eaa045099ea4",
+      "width": 1659,
+      "height": 2348,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8806,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 553358
+      },
+      "replace": {
+        "xref": 8894,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 553358
+      },
+      "jpeg_sha256": "c682b8d03ccbacf9697ffd7fa3a80b1f70c28508df0e7ff5705311074d46676e",
+      "width": 1570,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 8806,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 553358
+      },
+      "replace": {
+        "xref": 8835,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 553358
+      },
+      "jpeg_sha256": "c682b8d03ccbacf9697ffd7fa3a80b1f70c28508df0e7ff5705311074d46676e",
+      "width": 1570,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 9059,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 328285
+      },
+      "replace": {
+        "xref": 9160,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 328285
+      },
+      "jpeg_sha256": "2032ff41cd7770fd0044aefe214cc22e561a952042ea7ae74934644fb9026a95",
+      "width": 1534,
+      "height": 2169,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 9059,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 328285
+      },
+      "replace": {
+        "xref": 9107,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 328285
+      },
+      "jpeg_sha256": "2032ff41cd7770fd0044aefe214cc22e561a952042ea7ae74934644fb9026a95",
+      "width": 1534,
+      "height": 2169,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 9059,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 328285
+      },
+      "replace": {
+        "xref": 9208,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 328285
+      },
+      "jpeg_sha256": "2032ff41cd7770fd0044aefe214cc22e561a952042ea7ae74934644fb9026a95",
+      "width": 1534,
+      "height": 2169,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 9882,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 427562
+      },
+      "replace": {
+        "xref": 9963,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 427562
+      },
+      "jpeg_sha256": "8ad8605905671138d69e8eb64cc91c4a6ba5e6c3ae79d30c27d7c0a7e61ded90",
+      "width": 1583,
+      "height": 2239,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 9882,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 427562
+      },
+      "replace": {
+        "xref": 9918,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 427562
+      },
+      "jpeg_sha256": "8ad8605905671138d69e8eb64cc91c4a6ba5e6c3ae79d30c27d7c0a7e61ded90",
+      "width": 1583,
+      "height": 2239,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 10653,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 346496
+      },
+      "replace": {
+        "xref": 10743,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 346496
+      },
+      "jpeg_sha256": "b4a307ff3e9dc8a371410659543ca5bd489c9bec687cc0a5eed18373260e8067",
+      "width": 1570,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 10653,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 346496
+      },
+      "replace": {
+        "xref": 10700,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 346496
+      },
+      "jpeg_sha256": "b4a307ff3e9dc8a371410659543ca5bd489c9bec687cc0a5eed18373260e8067",
+      "width": 1570,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 10653,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 346496
+      },
+      "replace": {
+        "xref": 10790,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 346496
+      },
+      "jpeg_sha256": "b4a307ff3e9dc8a371410659543ca5bd489c9bec687cc0a5eed18373260e8067",
+      "width": 1570,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 10949,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 304269
+      },
+      "replace": {
+        "xref": 11066,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 304269
+      },
+      "jpeg_sha256": "6880ee7ead8cf872f6850c2fc9b2b0807669402797126d2740e13fab1398727f",
+      "width": 1566,
+      "height": 2215,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 10949,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 304269
+      },
+      "replace": {
+        "xref": 11006,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 304269
+      },
+      "jpeg_sha256": "6880ee7ead8cf872f6850c2fc9b2b0807669402797126d2740e13fab1398727f",
+      "width": 1566,
+      "height": 2215,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 10949,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 304269
+      },
+      "replace": {
+        "xref": 11122,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 304269
+      },
+      "jpeg_sha256": "6880ee7ead8cf872f6850c2fc9b2b0807669402797126d2740e13fab1398727f",
+      "width": 1566,
+      "height": 2215,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 11170,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 400534
+      },
+      "replace": {
+        "xref": 11244,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 400534
+      },
+      "jpeg_sha256": "5d2260ca10e744a2183e8dea8a30921eda95ccca030cf63d378fb9827723100f",
+      "width": 1571,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 11170,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 400534
+      },
+      "replace": {
+        "xref": 11206,
+        "color_space": [
+          "xref",
+          "534 0 R"
+        ],
+        "jpeg_bytes": 400534
+      },
+      "jpeg_sha256": "5d2260ca10e744a2183e8dea8a30921eda95ccca030cf63d378fb9827723100f",
+      "width": 1571,
+      "height": 2223,
+      "bpc": 8
+    },
+    {
+      "keep": {
+        "xref": 11170,
+        "color_space": [
+          "name",
+          "/DeviceRGB"
+        ],
+        "jpeg_bytes": 400534
+      },
+      "replace": {
+        "xref": 11280,
+        "color_space": [
+          "xref",
+          "944 0 R"
+        ],
+        "jpeg_bytes": 400534
+      },
+      "jpeg_sha256": "5d2260ca10e744a2183e8dea8a30921eda95ccca030cf63d378fb9827723100f",
+      "width": 1571,
+      "height": 2223,
+      "bpc": 8
+    }
+  ],
+  "pages_compared": 128,
+  "render_scale": 1.0,
+  "different_rgb_pixels_total": 0,
+  "text_different_pages": [],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 2,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 3,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 4,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 5,
+      "width_px": 595,
+      "height_px": 1290,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 6,
+      "width_px": 595,
+      "height_px": 1462,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 7,
+      "width_px": 595,
+      "height_px": 1355,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 8,
+      "width_px": 595,
+      "height_px": 2081,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 9,
+      "width_px": 595,
+      "height_px": 1612,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 10,
+      "width_px": 595,
+      "height_px": 1551,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 11,
+      "width_px": 595,
+      "height_px": 1384,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 12,
+      "width_px": 595,
+      "height_px": 1690,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 13,
+      "width_px": 595,
+      "height_px": 1094,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 14,
+      "width_px": 595,
+      "height_px": 1305,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 15,
+      "width_px": 595,
+      "height_px": 1290,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 16,
+      "width_px": 595,
+      "height_px": 1263,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 17,
+      "width_px": 595,
+      "height_px": 1097,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 18,
+      "width_px": 595,
+      "height_px": 1119,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 19,
+      "width_px": 595,
+      "height_px": 1381,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 20,
+      "width_px": 595,
+      "height_px": 1111,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 21,
+      "width_px": 595,
+      "height_px": 1333,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 22,
+      "width_px": 595,
+      "height_px": 1512,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 23,
+      "width_px": 595,
+      "height_px": 1370,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 24,
+      "width_px": 595,
+      "height_px": 1474,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 25,
+      "width_px": 595,
+      "height_px": 1850,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 26,
+      "width_px": 595,
+      "height_px": 1524,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 27,
+      "width_px": 595,
+      "height_px": 1642,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 28,
+      "width_px": 595,
+      "height_px": 1235,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 29,
+      "width_px": 595,
+      "height_px": 1672,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 30,
+      "width_px": 595,
+      "height_px": 1362,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 31,
+      "width_px": 595,
+      "height_px": 1212,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 32,
+      "width_px": 595,
+      "height_px": 1424,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 33,
+      "width_px": 595,
+      "height_px": 1499,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 34,
+      "width_px": 595,
+      "height_px": 1280,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 35,
+      "width_px": 595,
+      "height_px": 1278,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 36,
+      "width_px": 595,
+      "height_px": 1600,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 37,
+      "width_px": 595,
+      "height_px": 1449,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 38,
+      "width_px": 595,
+      "height_px": 1558,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 39,
+      "width_px": 595,
+      "height_px": 1093,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 40,
+      "width_px": 595,
+      "height_px": 1245,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 41,
+      "width_px": 595,
+      "height_px": 1349,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 42,
+      "width_px": 595,
+      "height_px": 1442,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 43,
+      "width_px": 595,
+      "height_px": 1051,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 44,
+      "width_px": 595,
+      "height_px": 1004,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 45,
+      "width_px": 595,
+      "height_px": 1264,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 46,
+      "width_px": 595,
+      "height_px": 1345,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 47,
+      "width_px": 595,
+      "height_px": 1128,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 48,
+      "width_px": 595,
+      "height_px": 1491,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 49,
+      "width_px": 595,
+      "height_px": 1447,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 50,
+      "width_px": 595,
+      "height_px": 1439,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 51,
+      "width_px": 595,
+      "height_px": 1041,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 52,
+      "width_px": 595,
+      "height_px": 1217,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 53,
+      "width_px": 595,
+      "height_px": 1309,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 54,
+      "width_px": 595,
+      "height_px": 1250,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 55,
+      "width_px": 595,
+      "height_px": 1051,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 56,
+      "width_px": 595,
+      "height_px": 1314,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 57,
+      "width_px": 595,
+      "height_px": 1406,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 58,
+      "width_px": 595,
+      "height_px": 1182,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 59,
+      "width_px": 595,
+      "height_px": 1395,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 60,
+      "width_px": 595,
+      "height_px": 1738,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 61,
+      "width_px": 595,
+      "height_px": 1418,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 62,
+      "width_px": 595,
+      "height_px": 1218,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 63,
+      "width_px": 595,
+      "height_px": 1227,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 64,
+      "width_px": 595,
+      "height_px": 1645,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 65,
+      "width_px": 595,
+      "height_px": 1456,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 66,
+      "width_px": 595,
+      "height_px": 1496,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 67,
+      "width_px": 595,
+      "height_px": 1174,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 68,
+      "width_px": 595,
+      "height_px": 1347,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 69,
+      "width_px": 595,
+      "height_px": 1071,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 70,
+      "width_px": 595,
+      "height_px": 1171,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 71,
+      "width_px": 595,
+      "height_px": 1216,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 72,
+      "width_px": 595,
+      "height_px": 1105,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 73,
+      "width_px": 595,
+      "height_px": 1042,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 74,
+      "width_px": 595,
+      "height_px": 1302,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 75,
+      "width_px": 595,
+      "height_px": 1116,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 76,
+      "width_px": 595,
+      "height_px": 1155,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 77,
+      "width_px": 595,
+      "height_px": 1802,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 78,
+      "width_px": 595,
+      "height_px": 1152,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 79,
+      "width_px": 595,
+      "height_px": 1339,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 80,
+      "width_px": 595,
+      "height_px": 1426,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 81,
+      "width_px": 595,
+      "height_px": 1627,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 82,
+      "width_px": 595,
+      "height_px": 1200,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 83,
+      "width_px": 595,
+      "height_px": 1360,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 84,
+      "width_px": 595,
+      "height_px": 1232,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 85,
+      "width_px": 595,
+      "height_px": 1794,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 86,
+      "width_px": 595,
+      "height_px": 1196,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 87,
+      "width_px": 595,
+      "height_px": 1148,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 88,
+      "width_px": 595,
+      "height_px": 1184,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 89,
+      "width_px": 595,
+      "height_px": 1329,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 90,
+      "width_px": 595,
+      "height_px": 1244,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 91,
+      "width_px": 595,
+      "height_px": 1119,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 92,
+      "width_px": 595,
+      "height_px": 1103,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 93,
+      "width_px": 595,
+      "height_px": 1204,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 94,
+      "width_px": 595,
+      "height_px": 1301,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 95,
+      "width_px": 595,
+      "height_px": 1489,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 96,
+      "width_px": 595,
+      "height_px": 942,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 97,
+      "width_px": 595,
+      "height_px": 1281,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 98,
+      "width_px": 595,
+      "height_px": 1485,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 99,
+      "width_px": 595,
+      "height_px": 1431,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 100,
+      "width_px": 595,
+      "height_px": 1716,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 101,
+      "width_px": 595,
+      "height_px": 1178,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 102,
+      "width_px": 595,
+      "height_px": 1422,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 103,
+      "width_px": 595,
+      "height_px": 1102,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 104,
+      "width_px": 595,
+      "height_px": 1745,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 105,
+      "width_px": 595,
+      "height_px": 1151,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 106,
+      "width_px": 595,
+      "height_px": 1206,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 107,
+      "width_px": 595,
+      "height_px": 1326,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 108,
+      "width_px": 595,
+      "height_px": 1481,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 109,
+      "width_px": 595,
+      "height_px": 1246,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 110,
+      "width_px": 595,
+      "height_px": 1093,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 111,
+      "width_px": 595,
+      "height_px": 1102,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 112,
+      "width_px": 595,
+      "height_px": 1816,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 113,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 114,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 115,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 116,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 117,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 118,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 119,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 120,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 121,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 122,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 123,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 124,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 125,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 126,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 127,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    },
+    {
+      "pdf_page": 128,
+      "width_px": 595,
+      "height_px": 841,
+      "different_rgb_pixels": 0,
+      "max_channel_difference": 0,
+      "extracted_text_identical": true
+    }
+  ],
+  "elapsed_seconds": 155.66639351844788,
+  "scope": "Only original-JPEG byte hashes with matching dimensions, bpc, filters and mask/decode guards were merged. DeviceRGB preferred. All pages independently rendered at the recorded scale and compared pixel by pixel.",
+  "pipeline_changed": false,
+  "candidate_retained": true,
+  "reuse_limit": "This proves only the exact source SHA above. A later full2 file needs its own independent candidate and all-page comparison."
+}

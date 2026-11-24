@@ -1,0 +1,11 @@
+本包的questions、detailed_layout/notes_A到D、ppt_builder/final_answers、当前索引及latex为本次简便计算修订后的活动源文件。
+本次检查的唯一当前入口是simplify_update/qa_current.json。其中ppt_qa_paths引用的两份QA在源码根目录保留同路径、同字节副本；两组完整课件修订源仍在simplify_update/ppt及simplify_update/ppt_1_2。axis_update、followup_style、style_patch及checks下的QA为此前版本历史，除当前入口明确引用外，不得当成本次重新测试的结果。
+latex/详细题内答案.tex有924个实际编译片段（856段非空注释及68处局部替换），使用包内相对字体路径。项目根目录编译：
+  xelatex -interaction=nonstopmode -halt-on-error -output-directory latex latex/详细题内答案.tex
+从本次交付答案PDF恢复原题底层并重建当前答案内容：
+  python recover_detailed_base.py /path/to/小学同步素养四年级上册数学答案.pdf --output recovered/annotated_a4_128.pdf --pure-output recovered/pure_source_128.pdf
+  python build_detailed_answers.py --run-name rebuild --publish --input recovered/annotated_a4_128.pdf --pure-source recovered/pure_source_128.pdf
+恢复器根据当前detailed_layout/current_release.json校验图层、题目位置及局部替换，当前活动源已包含本次修订。重新组合PDF图层可能出现细微抗锯齿差异；精确复现本次发行保留页面像素还依赖此前答案PDF及当前定点合成程序，历史输入大PDF未在源码包重复装入。不要声称任意重建文件与交付文件字节或像素完全相同。
+simplify_update内包含本轮应用、合成、恢复、检查与打包程序、5份审查、采纳清单及独立复核。其余历史定点脚本用于从其对应旧版本升级到新版本，活动源已应用这些修改，不应盲目重复运行；个别一次性补丁仍依赖此前PDF或PPTX，输入路径和具体参数以各程序为准。
+课件源与历史修正分别在ppt_builder、style_patch、followup_style、axis_update；本次两组课件修订源和公式资产在simplify_update/ppt及simplify_update/ppt_1_2。当前交付PPTX以本次inventory哈希为准，不能直接用旧生成器覆盖。普通文字保持可编辑，数学公式采用原生OMML及实际LaTeX生成的SVG/PNG兼容分支，具体保留范围见课件QA。实际做过静态渲染核对，未在PowerPoint中播放。
+Python需要PyMuPDF和NumPy，公式需要XeLaTeX；包内保留284个真正TikZ图形源及必要原字形资产。本次简便计算不改变几何原图。

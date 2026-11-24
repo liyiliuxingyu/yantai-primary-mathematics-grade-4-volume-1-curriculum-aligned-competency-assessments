@@ -1,0 +1,19 @@
+{
+  "snippets": 943,
+  "local_patches": 87,
+  "compiled_tex": "/workspace/scratch/1facfb035d44/bracket_review/project/bracket_update/compiled/详细题内答案.tex",
+  "compiled_pdf": "/workspace/scratch/1facfb035d44/bracket_review/project/bracket_update/compiled/snippets_frozen.pdf",
+  "source_files": {
+    "detailed_layout/notes_A.json": "645d58ef68343e1733fe4247975837668719493038c17c26d63432b1c54d3329",
+    "detailed_layout/notes_B.json": "54ec0891f81d290a11fd35eaf823421964310d4a407e0574eb7632a9af177efb",
+    "detailed_layout/notes_C.json": "226410e3fb445d35d245c26e213c64247b9ce3271fe0088dcfc36d087fac68ca",
+    "detailed_layout/notes_D.json": "7ec9b6b9828227ddf3c610b00be2b836dc57bde4d6e944bf81c8572665c664c4",
+    "inline_layout/slots_A.json": "a558021a7eab7f101b8c80e4a6910bd99afea2b94257f9eecfe979e5a379cebc",
+    "inline_layout/slots_B.json": "783899eaeb800e73328d5cbed9d45ff348a2c7c611a95908c89119805ef6b683",
+    "inline_layout/slots_C.json": "c88e9895afe56b338b60319ff07bd369bf61d73a2380f41fd89bd3dc47bcf73b",
+    "inline_layout/slots_D.json": "0d7944534c0b66887c719fedda9cd9d703b4c782d74f7f3abdff6bd3f3d6e8ef",
+    "average_update/source_masks.json": "1ce7fedbf4e1786118f583455c326172fd7e198efeb1de6324cb7e809d51fd55",
+    "average_update/layout_reuse.json": "8d3d0f819ea0cac0d53b1c528d9ecd2dea19d38d8e4a2d4a3f0b7fce086451df",
+    "bracket_update/source_masks.json": "01e00457191519403d79f1b47c19cfdfff2f187fced6571520233d0d092c2546"
+  }
+}

@@ -1,0 +1,7 @@
+当前入口：q4_update/qa_current.json。活动题源为questions，题内解析为detailed_layout/notes_A到D，当前课件哈希为ppt_builder/current_inventory.json。
+latex/详细题内答案.tex含948个实际编译片段，含92个局部替换，使用相对字体路径。项目根目录编译：
+  xelatex -interaction=nonstopmode -halt-on-error -output-directory latex latex/详细题内答案.tex
+从当前交付PDF恢复与重建：
+  python recover_detailed_base.py /path/to/小学同步素养四年级上册数学答案.pdf --output recovered/annotated_a4_128.pdf --pure-output recovered/pure_source_128.pdf
+  python build_detailed_answers.py --run-name rebuild --publish --input recovered/annotated_a4_128.pdf --pure-source recovered/pure_source_128.pdf
+本次补丁与QA在q4_update，当前答案只列B。第78页原照片、新TikZ、SVG和字体继续保存在p078_update/assets；课件源在ppt_q4，前版课件修复源也保留。历史记录供追溯，课堂作答以当前questions及notes为准，不应盲目重跑旧补丁。重新组合图层可能有抗锯齿差异，不承诺重建文件字节或像素相同。Python需要PyMuPDF/NumPy，公式需要XeLaTeX。

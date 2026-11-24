@@ -1,0 +1,1871 @@
+{
+  "task": "全册脱式保留中括号直到其内全部计算完成",
+  "changes": [
+    {
+      "key": "p003_s04",
+      "book_page": 3,
+      "id": "三、2（4）",
+      "answer_pdf_page": 7,
+      "old_answer_latex": "\\[\\begin{aligned}&76\\times[215-(62+78)]\\\\&=76\\times(215-140)\\\\&=76\\times75\\\\&=5700\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&76\\times75\\\\={}&19\\times4\\times75\\\\={}&19\\times(4\\times75)\\\\={}&19\\times300\\\\={}&5700\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p003.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&76\\times[215-(62+78)]\\\\&=76\\times(215-140)\\\\&=76\\times75\\\\&=5700\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&76\\times75\\\\={}&19\\times4\\times75\\\\={}&19\\times(4\\times75)\\\\={}&19\\times300\\\\={}&5700\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&76\\times[215-(62+78)]\\\\&=76\\times[215-140]\\\\&=76\\times75\\\\&=5700\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&76\\times75\\\\={}&19\\times4\\times75\\\\={}&19\\times(4\\times75)\\\\={}&19\\times300\\\\={}&5700\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "76\\times(215-140)",
+          "new": "76\\times[215-140]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&76\\times[215-(62+78)]\\\\&=76\\times[215-140]\\\\&=76\\times75\\\\&=5700\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&76\\times75\\\\={}&19\\times4\\times75\\\\={}&19\\times(4\\times75)\\\\={}&19\\times300\\\\={}&5700\\end{aligned}\\]",
+      "final_note_latex": "先算最里层\\(62\\)与\\(78\\)的和，再从\\(215\\)中减去这个和，求中括号的值。最后以中括号内的差为一个因数，与\\(76\\)相乘。每算完一层就去掉这一层括号，外面尚未进行的运算仍须保留。\\par 简便提示（学完运算律后）：括号仍按原顺序算；最后把\\(76\\)拆成\\(19\\times4\\)，让\\(4\\)与\\(75\\)先凑成\\(300\\)。\\[\\begin{aligned}&76\\times75\\\\={}&19\\times4\\times75\\\\={}&19\\times(4\\times75)\\\\={}&19\\times300\\\\={}&5700\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            300.54201049804686,
+            192.94595642089843,
+            384.6013916015625,
+            204.6925476074219
+          ],
+          "target_rect": [
+            299.54201049804686,
+            191.94595642089843,
+            392.6013916015625,
+            205.6925476074219
+          ],
+          "latex": "\\(\\displaystyle=76\\times[215-140]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            301.3420104980469,
+            201.71603393554688
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p003_s05",
+      "book_page": 3,
+      "id": "三、2（5）",
+      "answer_pdf_page": 7,
+      "old_answer_latex": "\\[\\begin{aligned}&[396\\div(302-291)]\\times58\\\\&=(396\\div11)\\times58\\\\&=36\\times58\\\\&=2088\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 前面的括号和除法仍按原顺序求得36。最后把58看成60少2，先多算两份36再减回；两个乘法在同一步完成。\\[\\begin{aligned}&36\\times58\\\\={}&36\\times(60-2)\\\\={}&36\\times60-36\\times2\\\\={}&2160-72\\\\={}&2088\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p003.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&[396\\div(302-291)]\\times58\\\\&=(396\\div11)\\times58\\\\&=36\\times58\\\\&=2088\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 前面的括号和除法仍按原顺序求得36。最后把58看成60少2，先多算两份36再减回；两个乘法在同一步完成。\\[\\begin{aligned}&36\\times58\\\\={}&36\\times(60-2)\\\\={}&36\\times60-36\\times2\\\\={}&2160-72\\\\={}&2088\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&[396\\div(302-291)]\\times58\\\\&=[396\\div11]\\times58\\\\&=36\\times58\\\\&=2088\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 前面的括号和除法仍按原顺序求得36。最后把58看成60少2，先多算两份36再减回；两个乘法在同一步完成。\\[\\begin{aligned}&36\\times58\\\\={}&36\\times(60-2)\\\\={}&36\\times60-36\\times2\\\\={}&2160-72\\\\={}&2088\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(396\\div11)\\times58",
+          "new": "[396\\div11]\\times58"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&[396\\div(302-291)]\\times58\\\\&=[396\\div11]\\times58\\\\&=36\\times58\\\\&=2088\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 前面的括号和除法仍按原顺序求得36。最后把58看成60少2，先多算两份36再减回；两个乘法在同一步完成。\\[\\begin{aligned}&36\\times58\\\\={}&36\\times(60-2)\\\\={}&36\\times60-36\\times2\\\\={}&2160-72\\\\={}&2088\\end{aligned}\\]",
+      "final_note_latex": "\\(302\\)与\\(291\\)的差是\\(396\\)的除数，应先求出这个差，再做除法。中括号求得的商与\\(58\\)相乘才是最后一步。乘积可把\\(58\\)看作\\(60-2\\)进行检查，但不能把\\(58\\)并入前面的除数。\\par\\textbf{简便提示（学完运算律后）}\\par 前面的括号和除法仍按原顺序求得36。最后把58看成60少2，先多算两份36再减回；两个乘法在同一步完成。\\[\\begin{aligned}&36\\times58\\\\={}&36\\times(60-2)\\\\={}&36\\times60-36\\times2\\\\={}&2160-72\\\\={}&2088\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            84.11099548339844,
+            303.6619140625,
+            163.19859008789064,
+            315.4085205078125
+          ],
+          "target_rect": [
+            83.11099548339844,
+            302.6619140625,
+            171.19859008789064,
+            316.4085205078125
+          ],
+          "latex": "\\(\\displaystyle=[396\\div11]\\times58\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            84.91099548339844,
+            312.4320068359375
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p003_s06",
+      "book_page": 3,
+      "id": "三、2（6）",
+      "answer_pdf_page": 7,
+      "old_answer_latex": "\\[\\begin{aligned}&184\\div[560\\div(328-258)]\\\\&=184\\div(560\\div70)\\\\&=184\\div8\\\\&=23\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p003.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&184\\div[560\\div(328-258)]\\\\&=184\\div(560\\div70)\\\\&=184\\div8\\\\&=23\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&184\\div[560\\div(328-258)]\\\\&=184\\div[560\\div70]\\\\&=184\\div8\\\\&=23\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "184\\div(560\\div70)",
+          "new": "184\\div[560\\div70]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&184\\div[560\\div(328-258)]\\\\&=184\\div[560\\div70]\\\\&=184\\div8\\\\&=23\\end{aligned}\\]",
+      "final_note_latex": "先从\\(328\\)中减\\(258\\)，所得的差用来除\\(560\\)，这样才得到最外层的除数。最后是\\(184\\)除以中括号内的商。连续出现两个除号时，要特别看清括号：外层除的是整个商，不能改成先用\\(184\\)除以\\(560\\)。",
+      "local_replacements": [
+        {
+          "rect": [
+            299.82799072265624,
+            303.6619140625,
+            383.88807373046876,
+            315.4085205078125
+          ],
+          "target_rect": [
+            298.82799072265624,
+            302.6619140625,
+            391.88807373046876,
+            316.4085205078125
+          ],
+          "latex": "\\(\\displaystyle=184\\div[560\\div70]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            300.62799072265625,
+            312.4320068359375
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p004_s02",
+      "book_page": 4,
+      "id": "四、3",
+      "answer_pdf_page": 8,
+      "old_answer_latex": "\\(10\\)月\\(15\\)日在旺季，学生票每人\\(30\\)元，教师票每人\\(45\\)元。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：分别求两类票价，再算剩款}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\&=9000-(8100+675)\\\\&=9000-8775\\\\&=225\\text{（元）}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：全部按学生票计，再补教师差价}\\par \\[\\begin{aligned}&9000-[30\\times(270+15)+(45-30)\\times15]\\\\&=9000-(30\\times285+15\\times15)\\\\&=9000-(8550+225)\\\\&=9000-8775\\\\&=225\\text{（元）}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par 按“总价\\(=\\)单价\\(\\times\\)数量”分别核算两类票。检验\\(30\\times270+45\\times15+225=9000\\)，票款与剩款合计等于付款。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\={}&9000-(8100+675)\\\\={}&9000-8100-675\\\\={}&900-675\\\\={}&225\\text{（元）}\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p004.json",
+          "field": "answer_latex",
+          "old": "\\(10\\)月\\(15\\)日在旺季，学生票每人\\(30\\)元，教师票每人\\(45\\)元。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：分别求两类票价，再算剩款}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\&=9000-(8100+675)\\\\&=9000-8775\\\\&=225\\text{（元）}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：全部按学生票计，再补教师差价}\\par \\[\\begin{aligned}&9000-[30\\times(270+15)+(45-30)\\times15]\\\\&=9000-(30\\times285+15\\times15)\\\\&=9000-(8550+225)\\\\&=9000-8775\\\\&=225\\text{（元）}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par 按“总价\\(=\\)单价\\(\\times\\)数量”分别核算两类票。检验\\(30\\times270+45\\times15+225=9000\\)，票款与剩款合计等于付款。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\={}&9000-(8100+675)\\\\={}&9000-8100-675\\\\={}&900-675\\\\={}&225\\text{（元）}\\end{aligned}\\]",
+          "new": "\\(10\\)月\\(15\\)日在旺季，学生票每人\\(30\\)元，教师票每人\\(45\\)元。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：分别求两类票价，再算剩款}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\&=9000-(8100+675)\\\\&=9000-8775\\\\&=225\\text{（元）}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：全部按学生票计，再补教师差价}\\par \\[\\begin{aligned}&9000-[30\\times(270+15)+(45-30)\\times15]\\\\&=9000-[30\\times285+15\\times15]\\\\&=9000-[8550+225]\\\\&=9000-8775\\\\&=225\\text{（元）}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par 按“总价\\(=\\)单价\\(\\times\\)数量”分别核算两类票。检验\\(30\\times270+45\\times15+225=9000\\)，票款与剩款合计等于付款。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\={}&9000-(8100+675)\\\\={}&9000-8100-675\\\\={}&900-675\\\\={}&225\\text{（元）}\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_A.json",
+          "field": "latex",
+          "old": "先由日期选票价：\\(10\\)月\\(15\\)日仍在旺季，学生每人\\(30\\)元、教师每人\\(45\\)元。原方法分别用单价乘人数求两类票款，再从\\(9000\\)元中减去总票款。另法先将\\(270+15\\)人都按学生票计费，这会使每位教师少算\\(45-30\\)元，所以须按\\(15\\)位教师补足差价：\\[\\begin{aligned}&9000-[30\\times(270+15)+(45-30)\\times15]\\\\={}&9000-(30\\times285+15\\times15)\\\\={}&9000-(8550+225)\\\\={}&9000-8775\\\\={}&225\\text{（元）}\\end{aligned}\\]补差只针对教师，不能再对全部师生补差；票款与剩款相加应回到\\(9000\\)元。\\par 简便提示（学完运算律后）：减去两笔票款的和，也可连续减去这两笔钱；先减学生票款得\\(900\\)元，更便于再减教师票款。\\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\={}&9000-(8100+675)\\\\={}&9000-8100-675\\\\={}&900-675\\\\={}&225\\text{（元）}\\end{aligned}\\]",
+          "new": "先由日期选票价：\\(10\\)月\\(15\\)日仍在旺季，学生每人\\(30\\)元、教师每人\\(45\\)元。原方法分别用单价乘人数求两类票款，再从\\(9000\\)元中减去总票款。另法先将\\(270+15\\)人都按学生票计费，这会使每位教师少算\\(45-30\\)元，所以须按\\(15\\)位教师补足差价：\\[\\begin{aligned}&9000-[30\\times(270+15)+(45-30)\\times15]\\\\={}&9000-[30\\times285+15\\times15]\\\\={}&9000-[8550+225]\\\\={}&9000-8775\\\\={}&225\\text{（元）}\\end{aligned}\\]补差只针对教师，不能再对全部师生补差；票款与剩款相加应回到\\(9000\\)元。\\par 简便提示（学完运算律后）：减去两笔票款的和，也可连续减去这两笔钱；先减学生票款得\\(900\\)元，更便于再减教师票款。\\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\={}&9000-(8100+675)\\\\={}&9000-8100-675\\\\={}&900-675\\\\={}&225\\text{（元）}\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "9000-(30\\times285+15\\times15)",
+          "new": "9000-[30\\times285+15\\times15]"
+        },
+        {
+          "old": "9000-(8550+225)",
+          "new": "9000-[8550+225]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\(10\\)月\\(15\\)日在旺季，学生票每人\\(30\\)元，教师票每人\\(45\\)元。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：分别求两类票价，再算剩款}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\&=9000-(8100+675)\\\\&=9000-8775\\\\&=225\\text{（元）}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：全部按学生票计，再补教师差价}\\par \\[\\begin{aligned}&9000-[30\\times(270+15)+(45-30)\\times15]\\\\&=9000-[30\\times285+15\\times15]\\\\&=9000-[8550+225]\\\\&=9000-8775\\\\&=225\\text{（元）}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par 按“总价\\(=\\)单价\\(\\times\\)数量”分别核算两类票。检验\\(30\\times270+45\\times15+225=9000\\)，票款与剩款合计等于付款。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\={}&9000-(8100+675)\\\\={}&9000-8100-675\\\\={}&900-675\\\\={}&225\\text{（元）}\\end{aligned}\\]",
+      "final_note_latex": "先由日期选票价：\\(10\\)月\\(15\\)日仍在旺季，学生每人\\(30\\)元、教师每人\\(45\\)元。原方法分别用单价乘人数求两类票款，再从\\(9000\\)元中减去总票款。另法先将\\(270+15\\)人都按学生票计费，这会使每位教师少算\\(45-30\\)元，所以须按\\(15\\)位教师补足差价：\\[\\begin{aligned}&9000-[30\\times(270+15)+(45-30)\\times15]\\\\={}&9000-[30\\times285+15\\times15]\\\\={}&9000-[8550+225]\\\\={}&9000-8775\\\\={}&225\\text{（元）}\\end{aligned}\\]补差只针对教师，不能再对全部师生补差；票款与剩款相加应回到\\(9000\\)元。\\par 简便提示（学完运算律后）：减去两笔票款的和，也可连续减去这两笔钱；先减学生票款得\\(900\\)元，更便于再减教师票款。\\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\={}&9000-(8100+675)\\\\={}&9000-8100-675\\\\={}&900-675\\\\={}&225\\text{（元）}\\end{aligned}\\]",
+      "local_replacements": []
+    },
+    {
+      "key": "p007_s02",
+      "book_page": 7,
+      "id": "三、1",
+      "answer_pdf_page": 11,
+      "old_answer_latex": "\\[\\begin{aligned}&3744-[(85-47)\\times6]\\\\&=3744-38\\times6\\\\&=3744-228\\\\&=3516\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p007.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&3744-[(85-47)\\times6]\\\\&=3744-38\\times6\\\\&=3744-228\\\\&=3516\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&3744-[(85-47)\\times6]\\\\&=3744-[38\\times6]\\\\&=3744-228\\\\&=3516\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "3744-38\\times6",
+          "new": "3744-[38\\times6]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&3744-[(85-47)\\times6]\\\\&=3744-[38\\times6]\\\\&=3744-228\\\\&=3516\\end{aligned}\\]",
+      "final_note_latex": "先算最内层\\(85\\)与\\(47\\)的差，再将这个差乘\\(6\\)，求出中括号内的积。最后从\\(3744\\)中减去这个积；减法虽写在前面，却要等减数全部求出后才算。书写脱式时，括号外的\\(3744\\)和减号应一直保留到最后一步。",
+      "local_replacements": [
+        {
+          "rect": [
+            86.25400085449219,
+            197.94595642089843,
+            157.59229736328126,
+            209.6925476074219
+          ],
+          "target_rect": [
+            85.25400085449219,
+            196.94595642089843,
+            165.59229736328126,
+            210.6925476074219
+          ],
+          "latex": "\\(\\displaystyle=3744-[38\\times6]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            87.05400085449219,
+            206.71603393554688
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p007_s03",
+      "book_page": 7,
+      "id": "三、2",
+      "answer_pdf_page": 11,
+      "old_answer_latex": "\\[\\begin{aligned}&25\\times[(160+512)\\div32]\\\\&=25\\times(672\\div32)\\\\&=25\\times21\\\\&=525\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&25\\times21\\\\={}&25\\times(20+1)\\\\={}&500+25\\\\={}&525\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p007.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&25\\times[(160+512)\\div32]\\\\&=25\\times(672\\div32)\\\\&=25\\times21\\\\&=525\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&25\\times21\\\\={}&25\\times(20+1)\\\\={}&500+25\\\\={}&525\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&25\\times[(160+512)\\div32]\\\\&=25\\times[672\\div32]\\\\&=25\\times21\\\\&=525\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&25\\times21\\\\={}&25\\times(20+1)\\\\={}&500+25\\\\={}&525\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "25\\times(672\\div32)",
+          "new": "25\\times[672\\div32]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&25\\times[(160+512)\\div32]\\\\&=25\\times[672\\div32]\\\\&=25\\times21\\\\&=525\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&25\\times21\\\\={}&25\\times(20+1)\\\\={}&500+25\\\\={}&525\\end{aligned}\\]",
+      "final_note_latex": "先求\\(160\\)与\\(512\\)的和，再把这个和除以\\(32\\)，得到中括号的值。外面的\\(25\\)最后与这个商相乘，不能一开始就与\\(160\\)相乘。中间除法可用\\(32\\)乘所得的商检查；检查后的商才带入最后的乘法。\\par 简便提示（学完运算律后）：前面的括号照常算到\\(25\\times21\\)；最后把\\(21\\)拆成\\(20+1\\)，先算\\(25\\times20=500\\)。\\[\\begin{aligned}&25\\times21\\\\={}&25\\times(20+1)\\\\={}&500+25\\\\={}&525\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            319.82799072265624,
+            197.94595642089843,
+            398.9060791015625,
+            209.6925476074219
+          ],
+          "target_rect": [
+            318.82799072265624,
+            196.94595642089843,
+            406.9060791015625,
+            210.6925476074219
+          ],
+          "latex": "\\(\\displaystyle=25\\times[672\\div32]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            320.62799072265625,
+            206.71603393554688
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p007_s04",
+      "book_page": 7,
+      "id": "三、3",
+      "answer_pdf_page": 11,
+      "old_answer_latex": "\\[\\begin{aligned}&[275\\div(23+32)]\\times45\\\\&=(275\\div55)\\times45\\\\&=5\\times45\\\\&=225\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p007.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&[275\\div(23+32)]\\times45\\\\&=(275\\div55)\\times45\\\\&=5\\times45\\\\&=225\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&[275\\div(23+32)]\\times45\\\\&=[275\\div55]\\times45\\\\&=5\\times45\\\\&=225\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(275\\div55)\\times45",
+          "new": "[275\\div55]\\times45"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&[275\\div(23+32)]\\times45\\\\&=[275\\div55]\\times45\\\\&=5\\times45\\\\&=225\\end{aligned}\\]",
+      "final_note_latex": "小括号内先求\\(23\\)与\\(32\\)的和，它是\\(275\\)的除数。中括号内得到的商再与\\(45\\)相乘，按“加、除、乘”三步完成。这里的\\(45\\)是最后的因数，不能与括号内的和一同作除数。",
+      "local_replacements": [
+        {
+          "rect": [
+            86.25400085449219,
+            283.6619140625,
+            165.3415954589844,
+            295.4085205078125
+          ],
+          "target_rect": [
+            85.25400085449219,
+            282.6619140625,
+            173.3415954589844,
+            296.4085205078125
+          ],
+          "latex": "\\(\\displaystyle=[275\\div55]\\times45\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            87.05400085449219,
+            292.4320068359375
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p007_s05",
+      "book_page": 7,
+      "id": "三、4",
+      "answer_pdf_page": 11,
+      "old_answer_latex": "\\[\\begin{aligned}&[73\\times(38+55)]-2876\\\\&=73\\times93-2876\\\\&=6789-2876\\\\&=3913\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号按原顺序算得93后，把93看成100少7。先多算7份73再减回；乘100与乘7在同一步完成。\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p007.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&[73\\times(38+55)]-2876\\\\&=73\\times93-2876\\\\&=6789-2876\\\\&=3913\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号按原顺序算得93后，把93看成100少7。先多算7份73再减回；乘100与乘7在同一步完成。\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&[73\\times(38+55)]-2876\\\\&=[73\\times93]-2876\\\\&=6789-2876\\\\&=3913\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号按原顺序算得93后，把93看成100少7。先多算7份73再减回；乘100与乘7在同一步完成。\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "73\\times93-2876",
+          "new": "[73\\times93]-2876"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&[73\\times(38+55)]-2876\\\\&=[73\\times93]-2876\\\\&=6789-2876\\\\&=3913\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号按原顺序算得93后，把93看成100少7。先多算7份73再减回；乘100与乘7在同一步完成。\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]",
+      "final_note_latex": "先求\\(38\\)与\\(55\\)的和，再用它与\\(73\\)相乘，整个积才是外面减法的被减数。最后减\\(2876\\)时，应按数位对齐并注意退位。用最终的差加回\\(2876\\)，应能回到前一步求出的乘积，可据此检查减法。\\par\\textbf{简便提示（学完运算律后）}\\par 括号按原顺序算得93后，把93看成100少7。先多算7份73再减回；乘100与乘7在同一步完成。\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            319.82799072265624,
+            283.6619140625,
+            396.14817504882814,
+            295.4085205078125
+          ],
+          "target_rect": [
+            318.82799072265624,
+            282.6619140625,
+            404.14817504882814,
+            296.4085205078125
+          ],
+          "latex": "\\(\\displaystyle=[73\\times93]-2876\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            320.62799072265625,
+            292.4320068359375
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p007_s06",
+      "book_page": 7,
+      "id": "三、5",
+      "answer_pdf_page": 11,
+      "old_answer_latex": "\\[\\begin{aligned}&65\\times[(384+576)\\div12]\\\\&=65\\times(960\\div12)\\\\&=65\\times80\\\\&=5200\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p007.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&65\\times[(384+576)\\div12]\\\\&=65\\times(960\\div12)\\\\&=65\\times80\\\\&=5200\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&65\\times[(384+576)\\div12]\\\\&=65\\times[960\\div12]\\\\&=65\\times80\\\\&=5200\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "65\\times(960\\div12)",
+          "new": "65\\times[960\\div12]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&65\\times[(384+576)\\div12]\\\\&=65\\times[960\\div12]\\\\&=65\\times80\\\\&=5200\\end{aligned}\\]",
+      "final_note_latex": "最里层先求\\(384\\)与\\(576\\)的和，再除以\\(12\\)，得到括号内的商。最后把这个商乘\\(65\\)；可先算\\(65\\times8\\)，再在积的末尾添一个\\(0\\)，检查与\\(80\\)相乘的结果。计算中不能把\\(65\\)放进括号参与求和。",
+      "local_replacements": [
+        {
+          "rect": [
+            86.25400085449219,
+            370.09093017578124,
+            165.33208923339845,
+            381.83753662109376
+          ],
+          "target_rect": [
+            85.25400085449219,
+            369.09093017578124,
+            173.33208923339845,
+            382.83753662109376
+          ],
+          "latex": "\\(\\displaystyle=65\\times[960\\div12]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            87.05400085449219,
+            378.86102294921875
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p007_s07",
+      "book_page": 7,
+      "id": "三、6",
+      "answer_pdf_page": 11,
+      "old_answer_latex": "\\[\\begin{aligned}&336\\div[252\\div(12\\times3)]\\\\&=336\\div(252\\div36)\\\\&=336\\div7\\\\&=48\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p007.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&336\\div[252\\div(12\\times3)]\\\\&=336\\div(252\\div36)\\\\&=336\\div7\\\\&=48\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&336\\div[252\\div(12\\times3)]\\\\&=336\\div[252\\div36]\\\\&=336\\div7\\\\&=48\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "336\\div(252\\div36)",
+          "new": "336\\div[252\\div36]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&336\\div[252\\div(12\\times3)]\\\\&=336\\div[252\\div36]\\\\&=336\\div7\\\\&=48\\end{aligned}\\]",
+      "final_note_latex": "先用\\(12\\times3\\)求最内层的乘积，再用它除\\(252\\)，得到最外层真正的除数。最后才用\\(336\\)除以这个商。两个除号之间有括号约束，不能按从左到右改成先算\\(336\\div252\\)；还可用最后的商乘\\(7\\)检查是否回到\\(336\\)。",
+      "local_replacements": [
+        {
+          "rect": [
+            319.82799072265624,
+            370.09093017578124,
+            403.88807373046876,
+            381.83753662109376
+          ],
+          "target_rect": [
+            318.82799072265624,
+            369.09093017578124,
+            411.88807373046876,
+            382.83753662109376
+          ],
+          "latex": "\\(\\displaystyle=336\\div[252\\div36]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            320.62799072265625,
+            378.86102294921875
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p008_s03",
+      "book_page": 8,
+      "id": "四、4",
+      "answer_pdf_page": 12,
+      "old_answer_latex": "未修复的长度是\\(1\\)份，修复的是\\(3\\)份，总长是\\(4\\)份。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求未修复长度}\\par \\[\\begin{aligned}&440\\div(3+1)\\div5\\\\&=440\\div4\\div5\\\\&=110\\div5\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：合并两次平均分}\\par \\[\\begin{aligned}&440\\div[(3+1)\\times5]\\\\&=440\\div(4\\times5)\\\\&=440\\div20\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法三：先求已修复长度再扣除}\\par \\[\\begin{aligned}&[440-440\\div(3+1)\\times3]\\div5\\\\&=(440-440\\div4\\times3)\\div5\\\\&=(440-110\\times3)\\div5\\\\&=(440-330)\\div5\\\\&=110\\div5\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par 检验：\\(22\\times5=110\\)米是未修部分，\\(110\\times3=330\\)米是已修部分，\\(110+330=440\\)米，份数关系和总长都符合条件。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&440\\div4\\div5\\\\={}&440\\div(4\\times5)\\\\={}&440\\div20\\\\={}&22\\text{（米）}\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p008.json",
+          "field": "answer_latex",
+          "old": "未修复的长度是\\(1\\)份，修复的是\\(3\\)份，总长是\\(4\\)份。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求未修复长度}\\par \\[\\begin{aligned}&440\\div(3+1)\\div5\\\\&=440\\div4\\div5\\\\&=110\\div5\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：合并两次平均分}\\par \\[\\begin{aligned}&440\\div[(3+1)\\times5]\\\\&=440\\div(4\\times5)\\\\&=440\\div20\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法三：先求已修复长度再扣除}\\par \\[\\begin{aligned}&[440-440\\div(3+1)\\times3]\\div5\\\\&=(440-440\\div4\\times3)\\div5\\\\&=(440-110\\times3)\\div5\\\\&=(440-330)\\div5\\\\&=110\\div5\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par 检验：\\(22\\times5=110\\)米是未修部分，\\(110\\times3=330\\)米是已修部分，\\(110+330=440\\)米，份数关系和总长都符合条件。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&440\\div4\\div5\\\\={}&440\\div(4\\times5)\\\\={}&440\\div20\\\\={}&22\\text{（米）}\\end{aligned}\\]",
+          "new": "未修复的长度是\\(1\\)份，修复的是\\(3\\)份，总长是\\(4\\)份。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求未修复长度}\\par \\[\\begin{aligned}&440\\div(3+1)\\div5\\\\&=440\\div4\\div5\\\\&=110\\div5\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：合并两次平均分}\\par \\[\\begin{aligned}&440\\div[(3+1)\\times5]\\\\&=440\\div[4\\times5]\\\\&=440\\div20\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法三：先求已修复长度再扣除}\\par \\[\\begin{aligned}&[440-440\\div(3+1)\\times3]\\div5\\\\&=[440-440\\div4\\times3]\\div5\\\\&=[440-110\\times3]\\div5\\\\&=[440-330]\\div5\\\\&=110\\div5\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par 检验：\\(22\\times5=110\\)米是未修部分，\\(110\\times3=330\\)米是已修部分，\\(110+330=440\\)米，份数关系和总长都符合条件。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&440\\div4\\div5\\\\={}&440\\div[4\\times5]\\\\={}&440\\div20\\\\={}&22\\text{（米）}\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_A.json",
+          "field": "latex",
+          "old": "把未修复长度看作\\(1\\)份，已修复的长度是这样的\\(3\\)份，\\(440\\)米全长共对应\\(4\\)份。先将全长平均分成\\(4\\)份，求出未修复长度，再将这一份平均分给\\(5\\)天，才是每天的任务。\\(440\\div5\\)会把已经修复的部分也计入任务；而直接除以\\(3\\)，又会把总长错当成已修复长度。检查时以每天的长度乘\\(5\\)还原未修部分，再乘\\(3\\)求已修部分，两部分相加应为\\(440\\)米。\\par 简便提示（学完运算律后）：连续除以\\(4\\)和\\(5\\)，等于除以它们的积；先凑\\(4\\times5=20\\)可简算。\\[\\begin{aligned}&440\\div4\\div5\\\\={}&440\\div(4\\times5)\\\\={}&440\\div20\\\\={}&22\\text{（米）}\\end{aligned}\\]",
+          "new": "把未修复长度看作\\(1\\)份，已修复的长度是这样的\\(3\\)份，\\(440\\)米全长共对应\\(4\\)份。先将全长平均分成\\(4\\)份，求出未修复长度，再将这一份平均分给\\(5\\)天，才是每天的任务。\\(440\\div5\\)会把已经修复的部分也计入任务；而直接除以\\(3\\)，又会把总长错当成已修复长度。检查时以每天的长度乘\\(5\\)还原未修部分，再乘\\(3\\)求已修部分，两部分相加应为\\(440\\)米。\\par 简便提示（学完运算律后）：连续除以\\(4\\)和\\(5\\)，等于除以它们的积；先凑\\(4\\times5=20\\)可简算。\\[\\begin{aligned}&440\\div4\\div5\\\\={}&440\\div[4\\times5]\\\\={}&440\\div20\\\\={}&22\\text{（米）}\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "440\\div(4\\times5)",
+          "new": "440\\div[4\\times5]"
+        },
+        {
+          "old": "(440-440\\div4\\times3)\\div5",
+          "new": "[440-440\\div4\\times3]\\div5"
+        },
+        {
+          "old": "(440-110\\times3)\\div5",
+          "new": "[440-110\\times3]\\div5"
+        },
+        {
+          "old": "(440-330)\\div5",
+          "new": "[440-330]\\div5"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "未修复的长度是\\(1\\)份，修复的是\\(3\\)份，总长是\\(4\\)份。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求未修复长度}\\par \\[\\begin{aligned}&440\\div(3+1)\\div5\\\\&=440\\div4\\div5\\\\&=110\\div5\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：合并两次平均分}\\par \\[\\begin{aligned}&440\\div[(3+1)\\times5]\\\\&=440\\div[4\\times5]\\\\&=440\\div20\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法三：先求已修复长度再扣除}\\par \\[\\begin{aligned}&[440-440\\div(3+1)\\times3]\\div5\\\\&=[440-440\\div4\\times3]\\div5\\\\&=[440-110\\times3]\\div5\\\\&=[440-330]\\div5\\\\&=110\\div5\\\\&=22\\text{（米）}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par 检验：\\(22\\times5=110\\)米是未修部分，\\(110\\times3=330\\)米是已修部分，\\(110+330=440\\)米，份数关系和总长都符合条件。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&440\\div4\\div5\\\\={}&440\\div[4\\times5]\\\\={}&440\\div20\\\\={}&22\\text{（米）}\\end{aligned}\\]",
+      "final_note_latex": "把未修复长度看作\\(1\\)份，已修复的长度是这样的\\(3\\)份，\\(440\\)米全长共对应\\(4\\)份。先将全长平均分成\\(4\\)份，求出未修复长度，再将这一份平均分给\\(5\\)天，才是每天的任务。\\(440\\div5\\)会把已经修复的部分也计入任务；而直接除以\\(3\\)，又会把总长错当成已修复长度。检查时以每天的长度乘\\(5\\)还原未修部分，再乘\\(3\\)求已修部分，两部分相加应为\\(440\\)米。\\par 简便提示（学完运算律后）：连续除以\\(4\\)和\\(5\\)，等于除以它们的积；先凑\\(4\\times5=20\\)可简算。\\[\\begin{aligned}&440\\div4\\div5\\\\={}&440\\div[4\\times5]\\\\={}&440\\div20\\\\={}&22\\text{（米）}\\end{aligned}\\]",
+      "local_replacements": []
+    },
+    {
+      "key": "p011_s06",
+      "book_page": 11,
+      "id": "三、2（1）",
+      "answer_pdf_page": 15,
+      "old_answer_latex": "\\[\\begin{aligned}&1008\\div[(73+32)\\div5]\\\\&=1008\\div(105\\div5)\\\\&=1008\\div21\\\\&=48\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p011.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&1008\\div[(73+32)\\div5]\\\\&=1008\\div(105\\div5)\\\\&=1008\\div21\\\\&=48\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&1008\\div[(73+32)\\div5]\\\\&=1008\\div[105\\div5]\\\\&=1008\\div21\\\\&=48\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "1008\\div(105\\div5)",
+          "new": "1008\\div[105\\div5]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&1008\\div[(73+32)\\div5]\\\\&=1008\\div[105\\div5]\\\\&=1008\\div21\\\\&=48\\end{aligned}\\]",
+      "final_note_latex": "外层是用\\(1008\\)除以中括号里的整个数，所以必须先确定这个除数。小括号内\\(73\\)与\\(32\\)相加得到\\(105\\)，再把\\(105\\)除以\\(5\\)，才得到外层要用的除数\\(21\\)。不能先算\\(1008\\)除以\\(105\\)，否则就改变了中括号把商作为整体的作用。",
+      "local_replacements": [
+        {
+          "rect": [
+            86.96800537109375,
+            360.80491943359374,
+            171.02779846191407,
+            372.55152587890626
+          ],
+          "target_rect": [
+            85.96800537109375,
+            359.80491943359374,
+            179.02779846191407,
+            373.55152587890626
+          ],
+          "latex": "\\(\\displaystyle=1008\\div[105\\div5]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            87.76800537109375,
+            369.57501220703125
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p015_s06",
+      "book_page": 15,
+      "id": "三、2（2）",
+      "answer_pdf_page": 19,
+      "old_answer_latex": "\\[\\begin{aligned}&180\\div[(84-12)\\div4]\\\\&=180\\div(72\\div4)\\\\&=180\\div18\\\\&=10\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p015.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&180\\div[(84-12)\\div4]\\\\&=180\\div(72\\div4)\\\\&=180\\div18\\\\&=10\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&180\\div[(84-12)\\div4]\\\\&=180\\div[72\\div4]\\\\&=180\\div18\\\\&=10\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "180\\div(72\\div4)",
+          "new": "180\\div[72\\div4]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&180\\div[(84-12)\\div4]\\\\&=180\\div[72\\div4]\\\\&=180\\div18\\\\&=10\\end{aligned}\\]",
+      "final_note_latex": "先求最内层的差\\(84\\)减\\(12\\)，再把所得的\\(72\\)除以\\(4\\)。中括号把这一步的商作为一个整体，它才是\\(180\\)要除以的数。因而外层除法必须最后做，不能按从左往右的顺序先动\\(180\\)。",
+      "local_replacements": [
+        {
+          "rect": [
+            313.40001220703124,
+            240.80392761230468,
+            387.49677734375,
+            252.55051879882814
+          ],
+          "target_rect": [
+            312.40001220703124,
+            239.80392761230468,
+            395.49677734375,
+            253.55051879882814
+          ],
+          "latex": "\\(\\displaystyle=180\\div[72\\div4]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            314.20001220703125,
+            249.57400512695312
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p015_s07",
+      "book_page": 15,
+      "id": "三、2（3）",
+      "answer_pdf_page": 19,
+      "old_answer_latex": "\\[\\begin{aligned}&34\\times[160-(60-15)]\\\\&=34\\times(160-45)\\\\&=34\\times115\\\\&=3910\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&34\\times[160-(60-15)]\\\\={}&34\\times(160-60+15)\\\\={}&34\\times(100+15)\\\\={}&34\\times100+34\\times15\\\\={}&3400+510\\\\={}&3910\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p015.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&34\\times[160-(60-15)]\\\\&=34\\times(160-45)\\\\&=34\\times115\\\\&=3910\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&34\\times[160-(60-15)]\\\\={}&34\\times(160-60+15)\\\\={}&34\\times(100+15)\\\\={}&34\\times100+34\\times15\\\\={}&3400+510\\\\={}&3910\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&34\\times[160-(60-15)]\\\\&=34\\times[160-45]\\\\&=34\\times115\\\\&=3910\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&34\\times[160-(60-15)]\\\\={}&34\\times[160-60+15]\\\\={}&34\\times[100+15]\\\\={}&34\\times100+34\\times15\\\\={}&3400+510\\\\={}&3910\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_A.json",
+          "field": "latex",
+          "old": "先求小括号中\\(60\\)与\\(15\\)的差，再用\\(160\\)减去整个差，得到中括号表示的数。中括号全部算好后，才用\\(34\\)乘这个数。尤其不能把“减去\\(60-15\\)的差”误算成连续减\\(60\\)再减\\(15\\)，那样会改变减去的数量。\\par 简便提示（学完运算律后）：减去一个差，等于先减前数、再加后数。先用\\(160-60\\)凑\\(100\\)，再按乘法分配律计算；\\(15\\)前应是加号。\\[\\begin{aligned}&34\\times[160-(60-15)]\\\\={}&34\\times(160-60+15)\\\\={}&34\\times(100+15)\\\\={}&34\\times100+34\\times15\\\\={}&3400+510\\\\={}&3910\\end{aligned}\\]",
+          "new": "先求小括号中\\(60\\)与\\(15\\)的差，再用\\(160\\)减去整个差，得到中括号表示的数。中括号全部算好后，才用\\(34\\)乘这个数。尤其不能把“减去\\(60-15\\)的差”误算成连续减\\(60\\)再减\\(15\\)，那样会改变减去的数量。\\par 简便提示（学完运算律后）：减去一个差，等于先减前数、再加后数。先用\\(160-60\\)凑\\(100\\)，再按乘法分配律计算；\\(15\\)前应是加号。\\[\\begin{aligned}&34\\times[160-(60-15)]\\\\={}&34\\times[160-60+15]\\\\={}&34\\times[100+15]\\\\={}&34\\times100+34\\times15\\\\={}&3400+510\\\\={}&3910\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "34\\times(160-45)",
+          "new": "34\\times[160-45]"
+        },
+        {
+          "old": "34\\times(160-60+15)",
+          "new": "34\\times[160-60+15]"
+        },
+        {
+          "old": "34\\times(100+15)",
+          "new": "34\\times[100+15]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&34\\times[160-(60-15)]\\\\&=34\\times[160-45]\\\\&=34\\times115\\\\&=3910\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&34\\times[160-(60-15)]\\\\={}&34\\times[160-60+15]\\\\={}&34\\times[100+15]\\\\={}&34\\times100+34\\times15\\\\={}&3400+510\\\\={}&3910\\end{aligned}\\]",
+      "final_note_latex": "先求小括号中\\(60\\)与\\(15\\)的差，再用\\(160\\)减去整个差，得到中括号表示的数。中括号全部算好后，才用\\(34\\)乘这个数。尤其不能把“减去\\(60-15\\)的差”误算成连续减\\(60\\)再减\\(15\\)，那样会改变减去的数量。\\par 简便提示（学完运算律后）：减去一个差，等于先减前数、再加后数。先用\\(160-60\\)凑\\(100\\)，再按乘法分配律计算；\\(15\\)前应是加号。\\[\\begin{aligned}&34\\times[160-(60-15)]\\\\={}&34\\times[160-60+15]\\\\={}&34\\times[100+15]\\\\={}&34\\times100+34\\times15\\\\={}&3400+510\\\\={}&3910\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            81.96800537109375,
+            340.80491943359374,
+            161.04609375,
+            352.55152587890626
+          ],
+          "target_rect": [
+            80.96800537109375,
+            339.80491943359374,
+            169.04609375,
+            353.55152587890626
+          ],
+          "latex": "\\(\\displaystyle=34\\times[160-45]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            82.76800537109375,
+            349.57501220703125
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p015_s08",
+      "book_page": 15,
+      "id": "三、2（4）",
+      "answer_pdf_page": 19,
+      "old_answer_latex": "\\[\\begin{aligned}&[288\\div(295-289)]\\times17\\\\&=(288\\div6)\\times17\\\\&=48\\times17\\\\&=816\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号与除法照常求得48，最后可把48看成50少2，按乘法分配律同时算50乘17与2乘17。\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p015.json",
+          "field": "answer_latex",
+          "old": "\\[\\begin{aligned}&[288\\div(295-289)]\\times17\\\\&=(288\\div6)\\times17\\\\&=48\\times17\\\\&=816\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号与除法照常求得48，最后可把48看成50少2，按乘法分配律同时算50乘17与2乘17。\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}&[288\\div(295-289)]\\times17\\\\&=[288\\div6]\\times17\\\\&=48\\times17\\\\&=816\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号与除法照常求得48，最后可把48看成50少2，按乘法分配律同时算50乘17与2乘17。\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(288\\div6)\\times17",
+          "new": "[288\\div6]\\times17"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\[\\begin{aligned}&[288\\div(295-289)]\\times17\\\\&=[288\\div6]\\times17\\\\&=48\\times17\\\\&=816\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号与除法照常求得48，最后可把48看成50少2，按乘法分配律同时算50乘17与2乘17。\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]",
+      "final_note_latex": "小括号中的\\(295\\)减\\(289\\)先得到除数\\(6\\)，然后才能求\\(288\\)除以\\(6\\)的商。中括号算完以后，把得到的\\(48\\)再乘\\(17\\)，不能先乘右边的\\(17\\)。最后的乘法可分别求\\(48\\)的\\(10\\)倍和\\(7\\)倍后合并，帮助检查计算。\\par\\textbf{简便提示（学完运算律后）}\\par 括号与除法照常求得48，最后可把48看成50少2，按乘法分配律同时算50乘17与2乘17。\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            313.40001220703124,
+            340.80491943359374,
+            387.50559692382814,
+            352.55152587890626
+          ],
+          "target_rect": [
+            312.40001220703124,
+            339.80491943359374,
+            395.50559692382814,
+            353.55152587890626
+          ],
+          "latex": "\\(\\displaystyle=[288\\div6]\\times17\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            314.20001220703125,
+            349.57501220703125
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p019_s12",
+      "book_page": 19,
+      "id": "三、2（2）",
+      "answer_pdf_page": 23,
+      "old_answer_latex": "先小括号，再中括号。\\[\\begin{aligned} &80\\times[(103+97)-131]\\\\={}&80\\times(200-131)\\\\={}&80\\times69\\\\={}&5520\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&80\\times69\\\\={}&80\\times(70-1)\\\\={}&5600-80\\\\={}&5520\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p019.json",
+          "field": "answer_latex",
+          "old": "先小括号，再中括号。\\[\\begin{aligned} &80\\times[(103+97)-131]\\\\={}&80\\times(200-131)\\\\={}&80\\times69\\\\={}&5520\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&80\\times69\\\\={}&80\\times(70-1)\\\\={}&5600-80\\\\={}&5520\\end{aligned}\\]",
+          "new": "先小括号，再中括号。\\[\\begin{aligned} &80\\times[(103+97)-131]\\\\={}&80\\times[200-131]\\\\={}&80\\times69\\\\={}&5520\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&80\\times69\\\\={}&80\\times(70-1)\\\\={}&5600-80\\\\={}&5520\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "80\\times(200-131)",
+          "new": "80\\times[200-131]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "先小括号，再中括号。\\[\\begin{aligned} &80\\times[(103+97)-131]\\\\={}&80\\times[200-131]\\\\={}&80\\times69\\\\={}&5520\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&80\\times69\\\\={}&80\\times(70-1)\\\\={}&5600-80\\\\={}&5520\\end{aligned}\\]",
+      "final_note_latex": "最里面的小括号先算，\\(103\\)与\\(97\\)相加正好凑成\\(200\\)。再用这个和减去\\(131\\)，得到中括号的值，最后才用\\(80\\)去乘它。\\par 简便提示（学完运算律后）：括号按原顺序算出\\(69\\)后，把它看成\\(70-1\\)，先算\\(70\\)份\\(80\\)，再减去多算的\\(1\\)份\\(80\\)。\\[\\begin{aligned}&80\\times69\\\\={}&80\\times(70-1)\\\\={}&5600-80\\\\={}&5520\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            291.97099609375,
+            200.08890075683593,
+            376.03037719726564,
+            211.8354919433594
+          ],
+          "target_rect": [
+            290.97099609375,
+            199.08890075683593,
+            384.03037719726564,
+            212.8354919433594
+          ],
+          "latex": "\\(\\displaystyle=80\\times[200-131]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            292.77099609375,
+            208.85897827148438
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p042_s09",
+      "book_page": 42,
+      "id": "三、2（1）",
+      "answer_pdf_page": 46,
+      "old_answer_latex": "先求最内层的差，再把16与5相乘凑成整十除数80，直接相除。\\[\\begin{aligned}&640\\div[16\\times(19-14)]\\\\={}&640\\div(16\\times5)\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p042.json",
+          "field": "answer_latex",
+          "old": "先求最内层的差，再把16与5相乘凑成整十除数80，直接相除。\\[\\begin{aligned}&640\\div[16\\times(19-14)]\\\\={}&640\\div(16\\times5)\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]",
+          "new": "先求最内层的差，再把16与5相乘凑成整十除数80，直接相除。\\[\\begin{aligned}&640\\div[16\\times(19-14)]\\\\={}&640\\div[16\\times5]\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_B.json",
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}={}&640\\div(16\\times5)\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}={}&640\\div[16\\times5]\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "640\\div(16\\times5)",
+          "new": "640\\div[16\\times5]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "先求最内层的差，再把16与5相乘凑成整十除数80，直接相除。\\[\\begin{aligned}&640\\div[16\\times(19-14)]\\\\={}&640\\div[16\\times5]\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]",
+      "final_note_latex": "先算最内层小括号，19减14得5；再把16与5相乘凑成整十除数80，直接用640除以80。这里先求易算的积，比拆成先除16再除5更简便。除数是16与5的积，不是它们的和。",
+      "local_replacements": [
+        {
+          "rect": [
+            73,
+            596,
+            250,
+            649
+          ],
+          "target_rect": [
+            72.55447031656901,
+            596,
+            250,
+            649
+          ],
+          "latex": "\\[\\begin{aligned}={}&640\\div[16\\times5]\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]",
+          "clear_to_white": true,
+          "reason": "原黑算式保留，红步骤从等号开始。实际当前PDF第46页红步骤y1033.69–1079.44，源offset436，故为源597.69–643.44；框不含上方黑原题及右侧计算题。",
+          "align_first_number_to_original_x": 84.28599548339844
+        }
+      ]
+    },
+    {
+      "key": "p044_s02",
+      "book_page": 44,
+      "id": "五、4（1）",
+      "answer_pdf_page": 48,
+      "old_answer_latex": "“买5送1”表示每组得到6瓶，只付5瓶的钱。\\par 方法一：直接求付费瓶数。\\[\\begin{aligned}&5\\times[24\\div(5+1)]\\\\&=5\\times(24\\div6)\\\\&=5\\times4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 方法二：先求赠送瓶数，再从总瓶数中扣去。\\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 答：实际要付20瓶的钱。",
+      "field_changes": [
+        {
+          "file": "questions/p044.json",
+          "field": "answer_latex",
+          "old": "“买5送1”表示每组得到6瓶，只付5瓶的钱。\\par 方法一：直接求付费瓶数。\\[\\begin{aligned}&5\\times[24\\div(5+1)]\\\\&=5\\times(24\\div6)\\\\&=5\\times4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 方法二：先求赠送瓶数，再从总瓶数中扣去。\\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 答：实际要付20瓶的钱。",
+          "new": "“买5送1”表示每组得到6瓶，只付5瓶的钱。\\par 方法一：直接求付费瓶数。\\[\\begin{aligned}&5\\times[24\\div(5+1)]\\\\&=5\\times[24\\div6]\\\\&=5\\times4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 方法二：先求赠送瓶数，再从总瓶数中扣去。\\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 答：实际要付20瓶的钱。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "5\\times(24\\div6)",
+          "new": "5\\times[24\\div6]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "“买5送1”表示每组得到6瓶，只付5瓶的钱。\\par 方法一：直接求付费瓶数。\\[\\begin{aligned}&5\\times[24\\div(5+1)]\\\\&=5\\times[24\\div6]\\\\&=5\\times4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 方法二：先求赠送瓶数，再从总瓶数中扣去。\\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 答：实际要付20瓶的钱。",
+      "final_note_latex": "“买5送1”是付5瓶的钱实际得到6瓶，因此先按6瓶分组，不能按5瓶分组。方法一每组付费5瓶，用每组付费瓶数乘组数。方法二每组赠1瓶，先由组数求赠送瓶数，再从实际得到的24瓶中扣除。\\par 每满六瓶赠一瓶。\\par \\textbf{另法：先求赠品瓶数，再扣去}\\par \\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{（瓶）}\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            73.48799438476563,
+            318.15687866210936,
+            132.9263427734375,
+            328.8888671875
+          ],
+          "target_rect": [
+            72.48799438476563,
+            317.15687866210936,
+            140.9263427734375,
+            329.8888671875
+          ],
+          "latex": "\\(\\displaystyle=5\\times[24\\div6]\\)",
+          "font_size": 9,
+          "leading": 12.8,
+          "baseline_anchor": [
+            74.28799438476562,
+            326.1300048828125
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p044_s04",
+      "book_page": 44,
+      "id": "五、5",
+      "answer_pdf_page": 48,
+      "old_answer_latex": "方法一：先求五年级质量，按总回收量列式，再把275与500分别除以25。\\par \\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&(275+500)\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法二：先按四年级的3份算，再扣去少回收50千克对应的棵数。\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法三：两个年级分别换算棵数，再相加。\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+      "field_changes": [
+        {
+          "file": "questions/p044.json",
+          "field": "answer_latex",
+          "old": "方法一：先求五年级质量，按总回收量列式，再把275与500分别除以25。\\par \\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&(275+500)\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法二：先按四年级的3份算，再扣去少回收50千克对应的棵数。\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法三：两个年级分别换算棵数，再相加。\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "new": "方法一：先求五年级质量，按总回收量列式，再把275与500分别除以25。\\par \\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&[275+500]\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法二：先按四年级的3份算，再扣去少回收50千克对应的棵数。\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法三：两个年级分别换算棵数，再相加。\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。"
+        },
+        {
+          "file": "detailed_layout/notes_B.json",
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&(275+500)\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "new": "\\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&[275+500]\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(275+500)\\div25",
+          "new": "[275+500]\\div25"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "方法一：先求五年级质量，按总回收量列式，再把275与500分别除以25。\\par \\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&[275+500]\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法二：先按四年级的3份算，再扣去少回收50千克对应的棵数。\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法三：两个年级分别换算棵数，再相加。\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+      "final_note_latex": "五年级比四年级的2倍少50千克，应先乘2再减50，得到500千克。主法先按总回收量列式，再把275与500分别按每25千克换成树数，同一步得到11与20，不必合成775再除25。另一思路先把两年级看作四年级的3份，再扣去少回收50千克对应的棵数；也可分别计算两个年级的棵数再相加。三条是数量分析路径，简算后的相同计算结构不另算新方法。\\par \\textbf{另法一：按三份推算，再扣少回收部分}\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par \\textbf{另法二：两个年级分别换算棵数}\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+      "local_replacements": [
+        {
+          "rect": [
+            73,
+            646,
+            430,
+            760
+          ],
+          "latex": "\\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&[275+500]\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "reason": "简便计算复核；原位红主解更新，不修改黑色题面。",
+          "target_rect": [
+            73,
+            646,
+            430,
+            760
+          ],
+          "clear_to_white": true
+        }
+      ]
+    },
+    {
+      "key": "p046_s09",
+      "book_page": 46,
+      "id": "三、2（2）",
+      "answer_pdf_page": 50,
+      "old_answer_latex": "按括号层次计算。\\[\\begin{aligned}&45\\times[(63+177)\\div24]\\\\&=45\\times(240\\div24)\\\\&=45\\times10\\\\&=450.\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p046.json",
+          "field": "answer_latex",
+          "old": "按括号层次计算。\\[\\begin{aligned}&45\\times[(63+177)\\div24]\\\\&=45\\times(240\\div24)\\\\&=45\\times10\\\\&=450.\\end{aligned}\\]",
+          "new": "按括号层次计算。\\[\\begin{aligned}&45\\times[(63+177)\\div24]\\\\&=45\\times[240\\div24]\\\\&=45\\times10\\\\&=450.\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "45\\times(240\\div24)",
+          "new": "45\\times[240\\div24]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "按括号层次计算。\\[\\begin{aligned}&45\\times[(63+177)\\div24]\\\\&=45\\times[240\\div24]\\\\&=45\\times10\\\\&=450.\\end{aligned}\\]",
+      "final_note_latex": "先处理最内层小括号，把63与177相加凑成240。再计算中括号内的除法，得到一个完整因数，最后才与45相乘。每去掉一层括号，都应先完成这一层指定的运算。",
+      "local_replacements": [
+        {
+          "rect": [
+            276.97099609375,
+            652.879931640625,
+            356.04908447265626,
+            664.6265380859375
+          ],
+          "target_rect": [
+            275.97099609375,
+            651.879931640625,
+            364.04908447265626,
+            665.6265380859375
+          ],
+          "latex": "\\(\\displaystyle=45\\times[240\\div24]\\)",
+          "font_size": 10,
+          "leading": 12.8,
+          "baseline_anchor": [
+            277.77099609375,
+            661.6500244140625
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p073_s03",
+      "book_page": 73,
+      "id": "一、3",
+      "answer_pdf_page": 77,
+      "old_answer_latex": "填\\(16\\)。用加法交换律、结合律配成两个32，再除以观测次数4。\\[\\begin{aligned}&(8+15+24+17)\\div4\\\\={}&[(8+24)+(15+17)]\\div4\\\\={}&(32+32)\\div4\\\\={}&64\\div4\\\\={}&16\\text{（摄氏度）}\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p073.json",
+          "field": "answer_latex",
+          "old": "填\\(16\\)。用加法交换律、结合律配成两个32，再除以观测次数4。\\[\\begin{aligned}&(8+15+24+17)\\div4\\\\={}&[(8+24)+(15+17)]\\div4\\\\={}&(32+32)\\div4\\\\={}&64\\div4\\\\={}&16\\text{（摄氏度）}\\end{aligned}\\]",
+          "new": "填\\(16\\)。用加法交换律、结合律配成两个32，再除以观测次数4。\\[\\begin{aligned}&(8+15+24+17)\\div4\\\\={}&[(8+24)+(15+17)]\\div4\\\\={}&[32+32]\\div4\\\\={}&64\\div4\\\\={}&16\\text{（摄氏度）}\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "求四次观测温度的平均数，除数是4。用加法交换律、结合律，把8与24、15与17分别配成32；两个相同的和更易算。这里估计的是题目规定的四时刻平均温度。\\[\\begin{aligned}&(8+15+24+17)\\div4\\\\={}&[(8+24)+(15+17)]\\div4\\\\={}&(32+32)\\div4\\\\={}&64\\div4\\\\={}&16\\text{（摄氏度）}\\end{aligned}\\]",
+          "new": "求四次观测温度的平均数，除数是4。用加法交换律、结合律，把8与24、15与17分别配成32；两个相同的和更易算。这里估计的是题目规定的四时刻平均温度。\\[\\begin{aligned}&(8+15+24+17)\\div4\\\\={}&[(8+24)+(15+17)]\\div4\\\\={}&[32+32]\\div4\\\\={}&64\\div4\\\\={}&16\\text{（摄氏度）}\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(32+32)\\div4",
+          "new": "[32+32]\\div4"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "填\\(16\\)。用加法交换律、结合律配成两个32，再除以观测次数4。\\[\\begin{aligned}&(8+15+24+17)\\div4\\\\={}&[(8+24)+(15+17)]\\div4\\\\={}&[32+32]\\div4\\\\={}&64\\div4\\\\={}&16\\text{（摄氏度）}\\end{aligned}\\]",
+      "final_note_latex": "求四次观测温度的平均数，除数是4。用加法交换律、结合律，把8与24、15与17分别配成32；两个相同的和更易算。这里估计的是题目规定的四时刻平均温度。\\[\\begin{aligned}&(8+15+24+17)\\div4\\\\={}&[(8+24)+(15+17)]\\div4\\\\={}&[32+32]\\div4\\\\={}&64\\div4\\\\={}&16\\text{（摄氏度）}\\end{aligned}\\]",
+      "local_replacements": []
+    },
+    {
+      "key": "p075_s01",
+      "book_page": 75,
+      "id": "三、1（1）",
+      "answer_pdf_page": 79,
+      "old_answer_latex": "\\textbf{方法一：分组凑整求总和}\\par 用加法交换律、结合律，把70与130、240与60配对。互相独立的分组在同一步计算。\\[\\begin{aligned}&(70+120+170+240+190+130+60)\\div7\\\\={}&[(70+130)+(240+60)+(120+170+190)]\\div7\\\\={}&[200+300+(290+190)]\\div7\\\\={}&(500+480)\\div7\\\\={}&980\\div7\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。\\par\\textbf{方法二：以100厘米为基准移多补少}\\par 多出20、70、140、90、30，少30、40；利用加减运算的性质，把100与160、90减70分别括成一组。\\[\\begin{aligned}&100+[(70+30)+(20+140)+90-(30+40)]\\div7\\\\={}&100+(100+160+90-70)\\div7\\\\={}&100+[(100+160)+(90-70)]\\div7\\\\={}&100+(260+20)\\div7\\\\={}&100+280\\div7\\\\={}&100+40\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。",
+      "field_changes": [
+        {
+          "file": "questions/p075.json",
+          "field": "answer_latex",
+          "old": "\\textbf{方法一：分组凑整求总和}\\par 用加法交换律、结合律，把70与130、240与60配对。互相独立的分组在同一步计算。\\[\\begin{aligned}&(70+120+170+240+190+130+60)\\div7\\\\={}&[(70+130)+(240+60)+(120+170+190)]\\div7\\\\={}&[200+300+(290+190)]\\div7\\\\={}&(500+480)\\div7\\\\={}&980\\div7\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。\\par\\textbf{方法二：以100厘米为基准移多补少}\\par 多出20、70、140、90、30，少30、40；利用加减运算的性质，把100与160、90减70分别括成一组。\\[\\begin{aligned}&100+[(70+30)+(20+140)+90-(30+40)]\\div7\\\\={}&100+(100+160+90-70)\\div7\\\\={}&100+[(100+160)+(90-70)]\\div7\\\\={}&100+(260+20)\\div7\\\\={}&100+280\\div7\\\\={}&100+40\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。",
+          "new": "\\textbf{方法一：分组凑整求总和}\\par 用加法交换律、结合律，把70与130、240与60配对。互相独立的分组在同一步计算。\\[\\begin{aligned}&(70+120+170+240+190+130+60)\\div7\\\\={}&[(70+130)+(240+60)+(120+170+190)]\\div7\\\\={}&[200+300+(290+190)]\\div7\\\\={}&[500+480]\\div7\\\\={}&980\\div7\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。\\par\\textbf{方法二：以100厘米为基准移多补少}\\par 多出20、70、140、90、30，少30、40；利用加减运算的性质，把100与160、90减70分别括成一组。\\[\\begin{aligned}&100+[(70+30)+(20+140)+90-(30+40)]\\div7\\\\={}&100+[100+160+90-70]\\div7\\\\={}&100+[(100+160)+(90-70)]\\div7\\\\={}&100+[260+20]\\div7\\\\={}&100+280\\div7\\\\={}&100+40\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "\\textbf{方法一：分组凑整求总和}\\par 用加法交换律、结合律，把70与130、240与60配对。互相独立的分组在同一步计算。\\[\\begin{aligned}&(70+120+170+240+190+130+60)\\div7\\\\={}&[(70+130)+(240+60)+(120+170+190)]\\div7\\\\={}&[200+300+(290+190)]\\div7\\\\={}&(500+480)\\div7\\\\={}&980\\div7\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。\\par\\textbf{方法二：以100厘米为基准移多补少}\\par 多出20、70、140、90、30，少30、40；利用加减运算的性质，把100与160、90减70分别括成一组。\\[\\begin{aligned}&100+[(70+30)+(20+140)+90-(30+40)]\\div7\\\\={}&100+(100+160+90-70)\\div7\\\\={}&100+[(100+160)+(90-70)]\\div7\\\\={}&100+(260+20)\\div7\\\\={}&100+280\\div7\\\\={}&100+40\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。",
+          "new": "\\textbf{方法一：分组凑整求总和}\\par 用加法交换律、结合律，把70与130、240与60配对。互相独立的分组在同一步计算。\\[\\begin{aligned}&(70+120+170+240+190+130+60)\\div7\\\\={}&[(70+130)+(240+60)+(120+170+190)]\\div7\\\\={}&[200+300+(290+190)]\\div7\\\\={}&[500+480]\\div7\\\\={}&980\\div7\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。\\par\\textbf{方法二：以100厘米为基准移多补少}\\par 多出20、70、140、90、30，少30、40；利用加减运算的性质，把100与160、90减70分别括成一组。\\[\\begin{aligned}&100+[(70+30)+(20+140)+90-(30+40)]\\div7\\\\={}&100+[100+160+90-70]\\div7\\\\={}&100+[(100+160)+(90-70)]\\div7\\\\={}&100+[260+20]\\div7\\\\={}&100+280\\div7\\\\={}&100+40\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(500+480)\\div7",
+          "new": "[500+480]\\div7"
+        },
+        {
+          "old": "100+(100+160+90-70)\\div7",
+          "new": "100+[100+160+90-70]\\div7"
+        },
+        {
+          "old": "100+(260+20)\\div7",
+          "new": "100+[260+20]\\div7"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\textbf{方法一：分组凑整求总和}\\par 用加法交换律、结合律，把70与130、240与60配对。互相独立的分组在同一步计算。\\[\\begin{aligned}&(70+120+170+240+190+130+60)\\div7\\\\={}&[(70+130)+(240+60)+(120+170+190)]\\div7\\\\={}&[200+300+(290+190)]\\div7\\\\={}&[500+480]\\div7\\\\={}&980\\div7\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。\\par\\textbf{方法二：以100厘米为基准移多补少}\\par 多出20、70、140、90、30，少30、40；利用加减运算的性质，把100与160、90减70分别括成一组。\\[\\begin{aligned}&100+[(70+30)+(20+140)+90-(30+40)]\\div7\\\\={}&100+[100+160+90-70]\\div7\\\\={}&100+[(100+160)+(90-70)]\\div7\\\\={}&100+[260+20]\\div7\\\\={}&100+280\\div7\\\\={}&100+40\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。",
+      "final_note_latex": "\\textbf{方法一：分组凑整求总和}\\par 用加法交换律、结合律，把70与130、240与60配对。互相独立的分组在同一步计算。\\[\\begin{aligned}&(70+120+170+240+190+130+60)\\div7\\\\={}&[(70+130)+(240+60)+(120+170+190)]\\div7\\\\={}&[200+300+(290+190)]\\div7\\\\={}&[500+480]\\div7\\\\={}&980\\div7\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。\\par\\textbf{方法二：以100厘米为基准移多补少}\\par 多出20、70、140、90、30，少30、40；利用加减运算的性质，把100与160、90减70分别括成一组。\\[\\begin{aligned}&100+[(70+30)+(20+140)+90-(30+40)]\\div7\\\\={}&100+[100+160+90-70]\\div7\\\\={}&100+[(100+160)+(90-70)]\\div7\\\\={}&100+[260+20]\\div7\\\\={}&100+280\\div7\\\\={}&100+40\\\\={}&140\\text{（厘米）}\\end{aligned}\\]答：这条河的平均水深是140厘米。",
+      "local_replacements": []
+    },
+    {
+      "key": "p075_s04",
+      "book_page": 75,
+      "id": "三、3（1）",
+      "answer_pdf_page": 79,
+      "old_answer_latex": "\\textbf{方法一：以85分为基准移多补少}\\par 87与83的偏差抵消，88与82的偏差抵消；只剩97比85多12、80比85少5。\\[\\begin{aligned}&85+(12-5)\\div7\\\\={}&85+7\\div7\\\\={}&85+1\\\\={}&86\\text{（分）}\\end{aligned}\\]答：七位裁判评分的平均分是86分。\\par \\textbf{方法二：分组求总分再平均}\\par 用加法交换律、结合律分组，同时计算独立的分组。\\[\\begin{aligned}&(80+87+83+85+88+97+82)\\div7\\\\={}&[(87+83)+(88+82)+(80+85+97)]\\div7\\\\={}&[170+170+(165+97)]\\div7\\\\={}&(340+262)\\div7\\\\={}&602\\div7\\\\={}&86\\text{（分）}\\end{aligned}\\]答：平均分是86分。",
+      "field_changes": [
+        {
+          "file": "questions/p075.json",
+          "field": "answer_latex",
+          "old": "\\textbf{方法一：以85分为基准移多补少}\\par 87与83的偏差抵消，88与82的偏差抵消；只剩97比85多12、80比85少5。\\[\\begin{aligned}&85+(12-5)\\div7\\\\={}&85+7\\div7\\\\={}&85+1\\\\={}&86\\text{（分）}\\end{aligned}\\]答：七位裁判评分的平均分是86分。\\par \\textbf{方法二：分组求总分再平均}\\par 用加法交换律、结合律分组，同时计算独立的分组。\\[\\begin{aligned}&(80+87+83+85+88+97+82)\\div7\\\\={}&[(87+83)+(88+82)+(80+85+97)]\\div7\\\\={}&[170+170+(165+97)]\\div7\\\\={}&(340+262)\\div7\\\\={}&602\\div7\\\\={}&86\\text{（分）}\\end{aligned}\\]答：平均分是86分。",
+          "new": "\\textbf{方法一：以85分为基准移多补少}\\par 87与83的偏差抵消，88与82的偏差抵消；只剩97比85多12、80比85少5。\\[\\begin{aligned}&85+(12-5)\\div7\\\\={}&85+7\\div7\\\\={}&85+1\\\\={}&86\\text{（分）}\\end{aligned}\\]答：七位裁判评分的平均分是86分。\\par \\textbf{方法二：分组求总分再平均}\\par 用加法交换律、结合律分组，同时计算独立的分组。\\[\\begin{aligned}&(80+87+83+85+88+97+82)\\div7\\\\={}&[(87+83)+(88+82)+(80+85+97)]\\div7\\\\={}&[170+170+(165+97)]\\div7\\\\={}&[340+262]\\div7\\\\={}&602\\div7\\\\={}&86\\text{（分）}\\end{aligned}\\]答：平均分是86分。"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "原位主式以85分为基准：87多2、83少2，88多3、82少3，两对偏差正好抵消；只剩97多12与80少5，净多7分平均补给7份。\\par\\textbf{另法：分组求总分再平均}\\par 用加法交换律、结合律分组，再用总分除以7；各组互不依赖的计算同一步完成。\\[\\begin{aligned}&(80+87+83+85+88+97+82)\\div7\\\\={}&[(87+83)+(88+82)+(80+85+97)]\\div7\\\\={}&[170+170+(165+97)]\\div7\\\\={}&(340+262)\\div7\\\\={}&602\\div7\\\\={}&86\\text{（分）}\\end{aligned}\\]答：七位裁判评分的平均分是86分。",
+          "new": "原位主式以85分为基准：87多2、83少2，88多3、82少3，两对偏差正好抵消；只剩97多12与80少5，净多7分平均补给7份。\\par\\textbf{另法：分组求总分再平均}\\par 用加法交换律、结合律分组，再用总分除以7；各组互不依赖的计算同一步完成。\\[\\begin{aligned}&(80+87+83+85+88+97+82)\\div7\\\\={}&[(87+83)+(88+82)+(80+85+97)]\\div7\\\\={}&[170+170+(165+97)]\\div7\\\\={}&[340+262]\\div7\\\\={}&602\\div7\\\\={}&86\\text{（分）}\\end{aligned}\\]答：七位裁判评分的平均分是86分。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(340+262)\\div7",
+          "new": "[340+262]\\div7"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\textbf{方法一：以85分为基准移多补少}\\par 87与83的偏差抵消，88与82的偏差抵消；只剩97比85多12、80比85少5。\\[\\begin{aligned}&85+(12-5)\\div7\\\\={}&85+7\\div7\\\\={}&85+1\\\\={}&86\\text{（分）}\\end{aligned}\\]答：七位裁判评分的平均分是86分。\\par \\textbf{方法二：分组求总分再平均}\\par 用加法交换律、结合律分组，同时计算独立的分组。\\[\\begin{aligned}&(80+87+83+85+88+97+82)\\div7\\\\={}&[(87+83)+(88+82)+(80+85+97)]\\div7\\\\={}&[170+170+(165+97)]\\div7\\\\={}&[340+262]\\div7\\\\={}&602\\div7\\\\={}&86\\text{（分）}\\end{aligned}\\]答：平均分是86分。",
+      "final_note_latex": "原位主式以85分为基准：87多2、83少2，88多3、82少3，两对偏差正好抵消；只剩97多12与80少5，净多7分平均补给7份。\\par\\textbf{另法：分组求总分再平均}\\par 用加法交换律、结合律分组，再用总分除以7；各组互不依赖的计算同一步完成。\\[\\begin{aligned}&(80+87+83+85+88+97+82)\\div7\\\\={}&[(87+83)+(88+82)+(80+85+97)]\\div7\\\\={}&[170+170+(165+97)]\\div7\\\\={}&[340+262]\\div7\\\\={}&602\\div7\\\\={}&86\\text{（分）}\\end{aligned}\\]答：七位裁判评分的平均分是86分。",
+      "local_replacements": [
+        {
+          "rect": [
+            223,
+            520,
+            395,
+            561
+          ],
+          "target_rect": [
+            220,
+            514,
+            410,
+            565
+          ],
+          "latex": "\\[\\begin{aligned}&85+(12-5)\\div7\\\\={}&85+7\\div7\\\\={}&85+1\\\\={}&86\\text{（分）}\\end{aligned}\\]",
+          "current_pdf_rect": [
+            223,
+            698,
+            395,
+            739
+          ],
+          "source_coordinates": "原A4答案页，单位pt；非加长版PDF坐标",
+          "clear_to_white": true,
+          "black_question_or_original_expression_in_region": false,
+          "reason": "仅替换题下原有红色脱式，不碰黑色题干、数据、印刷题号与答语。",
+          "font_size": 9.0
+        }
+      ]
+    },
+    {
+      "key": "p076_s01",
+      "book_page": 76,
+      "id": "三、4（1）",
+      "answer_pdf_page": 80,
+      "old_answer_latex": "五个空依次为\\(70,95,90,97,84\\)。每名学生有3位老师评分，必须沿同一学生所在列取数。补未知评分可用移多补少，求平均可先配对凑整或取基准数；以下按表中五个空依次说明。\\par 四（1）班4号：另外两次评分比平均67分别少2、1，李老师应比67多3；利用加法结合律先合并2与1。\\[\\begin{aligned}&67+(67-65)+(67-66)\\\\={}&67+2+1\\\\={}&67+(2+1)\\\\={}&67+3\\\\={}&70\\text{（分）}\\end{aligned}\\]四（1）班3号：以95分为基准，96多1分，94少1分，移多补少恰好抵消。\\[\\begin{aligned}&95+[(96-95)-(95-94)]\\div3\\\\={}&95+(1-1)\\div3\\\\={}&95+0\\div3\\\\={}&95+0\\\\={}&95\\text{（分）}\\end{aligned}\\]四（2）班5号：88与92先凑180，原式已易算，保持。\\[\\begin{aligned}&90\\times3-(88+92)\\\\={}&270-180\\\\={}&90\\text{（分）}\\end{aligned}\\]四（2）班3号：一次95恰等于平均，另一次93少2，刘老师应比95多2。\\[\\begin{aligned}&95+(95-93)\\\\={}&95+2\\\\={}&97\\text{（分）}\\end{aligned}\\]四（2）班4号：以83为基准，86多出的3分平均分给3份。\\[\\begin{aligned}&83+(86-83)\\div3\\\\={}&83+3\\div3\\\\={}&83+1\\\\={}&84\\text{（分）}\\end{aligned}\\]填完后分别求该列三次评分的平均，检查与表中平均分相符。\\par 答：四（1）班应补70分、95分；四（2）班应补90分、97分、84分。",
+      "field_changes": [
+        {
+          "file": "questions/p076.json",
+          "field": "answer_latex",
+          "old": "五个空依次为\\(70,95,90,97,84\\)。每名学生有3位老师评分，必须沿同一学生所在列取数。补未知评分可用移多补少，求平均可先配对凑整或取基准数；以下按表中五个空依次说明。\\par 四（1）班4号：另外两次评分比平均67分别少2、1，李老师应比67多3；利用加法结合律先合并2与1。\\[\\begin{aligned}&67+(67-65)+(67-66)\\\\={}&67+2+1\\\\={}&67+(2+1)\\\\={}&67+3\\\\={}&70\\text{（分）}\\end{aligned}\\]四（1）班3号：以95分为基准，96多1分，94少1分，移多补少恰好抵消。\\[\\begin{aligned}&95+[(96-95)-(95-94)]\\div3\\\\={}&95+(1-1)\\div3\\\\={}&95+0\\div3\\\\={}&95+0\\\\={}&95\\text{（分）}\\end{aligned}\\]四（2）班5号：88与92先凑180，原式已易算，保持。\\[\\begin{aligned}&90\\times3-(88+92)\\\\={}&270-180\\\\={}&90\\text{（分）}\\end{aligned}\\]四（2）班3号：一次95恰等于平均，另一次93少2，刘老师应比95多2。\\[\\begin{aligned}&95+(95-93)\\\\={}&95+2\\\\={}&97\\text{（分）}\\end{aligned}\\]四（2）班4号：以83为基准，86多出的3分平均分给3份。\\[\\begin{aligned}&83+(86-83)\\div3\\\\={}&83+3\\div3\\\\={}&83+1\\\\={}&84\\text{（分）}\\end{aligned}\\]填完后分别求该列三次评分的平均，检查与表中平均分相符。\\par 答：四（1）班应补70分、95分；四（2）班应补90分、97分、84分。",
+          "new": "五个空依次为\\(70,95,90,97,84\\)。每名学生有3位老师评分，必须沿同一学生所在列取数。补未知评分可用移多补少，求平均可先配对凑整或取基准数；以下按表中五个空依次说明。\\par 四（1）班4号：另外两次评分比平均67分别少2、1，李老师应比67多3；利用加法结合律先合并2与1。\\[\\begin{aligned}&67+(67-65)+(67-66)\\\\={}&67+2+1\\\\={}&67+(2+1)\\\\={}&67+3\\\\={}&70\\text{（分）}\\end{aligned}\\]四（1）班3号：以95分为基准，96多1分，94少1分，移多补少恰好抵消。\\[\\begin{aligned}&95+[(96-95)-(95-94)]\\div3\\\\={}&95+[1-1]\\div3\\\\={}&95+0\\div3\\\\={}&95+0\\\\={}&95\\text{（分）}\\end{aligned}\\]四（2）班5号：88与92先凑180，原式已易算，保持。\\[\\begin{aligned}&90\\times3-(88+92)\\\\={}&270-180\\\\={}&90\\text{（分）}\\end{aligned}\\]四（2）班3号：一次95恰等于平均，另一次93少2，刘老师应比95多2。\\[\\begin{aligned}&95+(95-93)\\\\={}&95+2\\\\={}&97\\text{（分）}\\end{aligned}\\]四（2）班4号：以83为基准，86多出的3分平均分给3份。\\[\\begin{aligned}&83+(86-83)\\div3\\\\={}&83+3\\div3\\\\={}&83+1\\\\={}&84\\text{（分）}\\end{aligned}\\]填完后分别求该列三次评分的平均，检查与表中平均分相符。\\par 答：四（1）班应补70分、95分；四（2）班应补90分、97分、84分。"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "每名学生有3位老师评分，必须沿同一学生所在列取数。补未知评分可用移多补少，求平均可先配对凑整或取基准数；以下按表中五个空依次说明。\\par 四（1）班4号：另外两次评分比平均67分别少2、1，李老师应比67多3；利用加法结合律先合并2与1。\\[\\begin{aligned}&67+(67-65)+(67-66)\\\\={}&67+2+1\\\\={}&67+(2+1)\\\\={}&67+3\\\\={}&70\\text{（分）}\\end{aligned}\\]四（1）班3号：以95分为基准，96多1分，94少1分，移多补少恰好抵消。\\[\\begin{aligned}&95+[(96-95)-(95-94)]\\div3\\\\={}&95+(1-1)\\div3\\\\={}&95+0\\div3\\\\={}&95+0\\\\={}&95\\text{（分）}\\end{aligned}\\]四（2）班5号：88与92先凑180，原式已易算，保持。\\[\\begin{aligned}&90\\times3-(88+92)\\\\={}&270-180\\\\={}&90\\text{（分）}\\end{aligned}\\]四（2）班3号：一次95恰等于平均，另一次93少2，刘老师应比95多2。\\[\\begin{aligned}&95+(95-93)\\\\={}&95+2\\\\={}&97\\text{（分）}\\end{aligned}\\]四（2）班4号：以83为基准，86多出的3分平均分给3份。\\[\\begin{aligned}&83+(86-83)\\div3\\\\={}&83+3\\div3\\\\={}&83+1\\\\={}&84\\text{（分）}\\end{aligned}\\]填完后分别求该列三次评分的平均，检查与表中平均分相符。",
+          "new": "每名学生有3位老师评分，必须沿同一学生所在列取数。补未知评分可用移多补少，求平均可先配对凑整或取基准数；以下按表中五个空依次说明。\\par 四（1）班4号：另外两次评分比平均67分别少2、1，李老师应比67多3；利用加法结合律先合并2与1。\\[\\begin{aligned}&67+(67-65)+(67-66)\\\\={}&67+2+1\\\\={}&67+(2+1)\\\\={}&67+3\\\\={}&70\\text{（分）}\\end{aligned}\\]四（1）班3号：以95分为基准，96多1分，94少1分，移多补少恰好抵消。\\[\\begin{aligned}&95+[(96-95)-(95-94)]\\div3\\\\={}&95+[1-1]\\div3\\\\={}&95+0\\div3\\\\={}&95+0\\\\={}&95\\text{（分）}\\end{aligned}\\]四（2）班5号：88与92先凑180，原式已易算，保持。\\[\\begin{aligned}&90\\times3-(88+92)\\\\={}&270-180\\\\={}&90\\text{（分）}\\end{aligned}\\]四（2）班3号：一次95恰等于平均，另一次93少2，刘老师应比95多2。\\[\\begin{aligned}&95+(95-93)\\\\={}&95+2\\\\={}&97\\text{（分）}\\end{aligned}\\]四（2）班4号：以83为基准，86多出的3分平均分给3份。\\[\\begin{aligned}&83+(86-83)\\div3\\\\={}&83+3\\div3\\\\={}&83+1\\\\={}&84\\text{（分）}\\end{aligned}\\]填完后分别求该列三次评分的平均，检查与表中平均分相符。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "95+(1-1)\\div3",
+          "new": "95+[1-1]\\div3"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "五个空依次为\\(70,95,90,97,84\\)。每名学生有3位老师评分，必须沿同一学生所在列取数。补未知评分可用移多补少，求平均可先配对凑整或取基准数；以下按表中五个空依次说明。\\par 四（1）班4号：另外两次评分比平均67分别少2、1，李老师应比67多3；利用加法结合律先合并2与1。\\[\\begin{aligned}&67+(67-65)+(67-66)\\\\={}&67+2+1\\\\={}&67+(2+1)\\\\={}&67+3\\\\={}&70\\text{（分）}\\end{aligned}\\]四（1）班3号：以95分为基准，96多1分，94少1分，移多补少恰好抵消。\\[\\begin{aligned}&95+[(96-95)-(95-94)]\\div3\\\\={}&95+[1-1]\\div3\\\\={}&95+0\\div3\\\\={}&95+0\\\\={}&95\\text{（分）}\\end{aligned}\\]四（2）班5号：88与92先凑180，原式已易算，保持。\\[\\begin{aligned}&90\\times3-(88+92)\\\\={}&270-180\\\\={}&90\\text{（分）}\\end{aligned}\\]四（2）班3号：一次95恰等于平均，另一次93少2，刘老师应比95多2。\\[\\begin{aligned}&95+(95-93)\\\\={}&95+2\\\\={}&97\\text{（分）}\\end{aligned}\\]四（2）班4号：以83为基准，86多出的3分平均分给3份。\\[\\begin{aligned}&83+(86-83)\\div3\\\\={}&83+3\\div3\\\\={}&83+1\\\\={}&84\\text{（分）}\\end{aligned}\\]填完后分别求该列三次评分的平均，检查与表中平均分相符。\\par 答：四（1）班应补70分、95分；四（2）班应补90分、97分、84分。",
+      "final_note_latex": "每名学生有3位老师评分，必须沿同一学生所在列取数。补未知评分可用移多补少，求平均可先配对凑整或取基准数；以下按表中五个空依次说明。\\par 四（1）班4号：另外两次评分比平均67分别少2、1，李老师应比67多3；利用加法结合律先合并2与1。\\[\\begin{aligned}&67+(67-65)+(67-66)\\\\={}&67+2+1\\\\={}&67+(2+1)\\\\={}&67+3\\\\={}&70\\text{（分）}\\end{aligned}\\]四（1）班3号：以95分为基准，96多1分，94少1分，移多补少恰好抵消。\\[\\begin{aligned}&95+[(96-95)-(95-94)]\\div3\\\\={}&95+[1-1]\\div3\\\\={}&95+0\\div3\\\\={}&95+0\\\\={}&95\\text{（分）}\\end{aligned}\\]四（2）班5号：88与92先凑180，原式已易算，保持。\\[\\begin{aligned}&90\\times3-(88+92)\\\\={}&270-180\\\\={}&90\\text{（分）}\\end{aligned}\\]四（2）班3号：一次95恰等于平均，另一次93少2，刘老师应比95多2。\\[\\begin{aligned}&95+(95-93)\\\\={}&95+2\\\\={}&97\\text{（分）}\\end{aligned}\\]四（2）班4号：以83为基准，86多出的3分平均分给3份。\\[\\begin{aligned}&83+(86-83)\\div3\\\\={}&83+3\\div3\\\\={}&83+1\\\\={}&84\\text{（分）}\\end{aligned}\\]填完后分别求该列三次评分的平均，检查与表中平均分相符。",
+      "local_replacements": []
+    },
+    {
+      "key": "p077_s01",
+      "book_page": 77,
+      "id": "一、1",
+      "answer_pdf_page": 81,
+      "old_answer_latex": "填\\(17\\)。按加法交换律、结合律配成三对34块，每对2天。用乘除运算的性质先算3除以3，最后求34块分给2天的平均销量。\\[\\begin{aligned}&(16+15+20+18+14+19)\\div6\\\\={}&[(16+18)+(15+19)+(20+14)]\\div6\\\\={}&(34+34+34)\\div6\\\\={}&(34\\times3)\\div(3\\times2)\\\\={}&34\\times(3\\div3)\\div2\\\\={}&34\\times1\\div2\\\\={}&34\\div2\\\\={}&17\\text{（块）}\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p077.json",
+          "field": "answer_latex",
+          "old": "填\\(17\\)。按加法交换律、结合律配成三对34块，每对2天。用乘除运算的性质先算3除以3，最后求34块分给2天的平均销量。\\[\\begin{aligned}&(16+15+20+18+14+19)\\div6\\\\={}&[(16+18)+(15+19)+(20+14)]\\div6\\\\={}&(34+34+34)\\div6\\\\={}&(34\\times3)\\div(3\\times2)\\\\={}&34\\times(3\\div3)\\div2\\\\={}&34\\times1\\div2\\\\={}&34\\div2\\\\={}&17\\text{（块）}\\end{aligned}\\]",
+          "new": "填\\(17\\)。按加法交换律、结合律配成三对34块，每对2天。用乘除运算的性质先算3除以3，最后求34块分给2天的平均销量。\\[\\begin{aligned}&(16+15+20+18+14+19)\\div6\\\\={}&[(16+18)+(15+19)+(20+14)]\\div6\\\\={}&[34+34+34]\\div6\\\\={}&[34\\times3]\\div(3\\times2)\\\\={}&34\\times(3\\div3)\\div2\\\\={}&34\\times1\\div2\\\\={}&34\\div2\\\\={}&17\\text{（块）}\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "第7天准备量取前6天的平均，除数是6。先配成三对34块，再把6拆成3乘2，利用乘除运算的性质先算3除以3，避免先求总量102。\\[\\begin{aligned}&(16+15+20+18+14+19)\\div6\\\\={}&[(16+18)+(15+19)+(20+14)]\\div6\\\\={}&(34+34+34)\\div6\\\\={}&(34\\times3)\\div(3\\times2)\\\\={}&34\\times(3\\div3)\\div2\\\\={}&34\\times1\\div2\\\\={}&34\\div2\\\\={}&17\\text{（块）}\\end{aligned}\\]",
+          "new": "第7天准备量取前6天的平均，除数是6。先配成三对34块，再把6拆成3乘2，利用乘除运算的性质先算3除以3，避免先求总量102。\\[\\begin{aligned}&(16+15+20+18+14+19)\\div6\\\\={}&[(16+18)+(15+19)+(20+14)]\\div6\\\\={}&[34+34+34]\\div6\\\\={}&[34\\times3]\\div(3\\times2)\\\\={}&34\\times(3\\div3)\\div2\\\\={}&34\\times1\\div2\\\\={}&34\\div2\\\\={}&17\\text{（块）}\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(34+34+34)\\div6",
+          "new": "[34+34+34]\\div6"
+        },
+        {
+          "old": "(34\\times3)\\div(3\\times2)",
+          "new": "[34\\times3]\\div(3\\times2)"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "填\\(17\\)。按加法交换律、结合律配成三对34块，每对2天。用乘除运算的性质先算3除以3，最后求34块分给2天的平均销量。\\[\\begin{aligned}&(16+15+20+18+14+19)\\div6\\\\={}&[(16+18)+(15+19)+(20+14)]\\div6\\\\={}&[34+34+34]\\div6\\\\={}&[34\\times3]\\div(3\\times2)\\\\={}&34\\times(3\\div3)\\div2\\\\={}&34\\times1\\div2\\\\={}&34\\div2\\\\={}&17\\text{（块）}\\end{aligned}\\]",
+      "final_note_latex": "第7天准备量取前6天的平均，除数是6。先配成三对34块，再把6拆成3乘2，利用乘除运算的性质先算3除以3，避免先求总量102。\\[\\begin{aligned}&(16+15+20+18+14+19)\\div6\\\\={}&[(16+18)+(15+19)+(20+14)]\\div6\\\\={}&[34+34+34]\\div6\\\\={}&[34\\times3]\\div(3\\times2)\\\\={}&34\\times(3\\div3)\\div2\\\\={}&34\\times1\\div2\\\\={}&34\\div2\\\\={}&17\\text{（块）}\\end{aligned}\\]",
+      "local_replacements": []
+    },
+    {
+      "key": "p077_s05",
+      "book_page": 77,
+      "id": "一、5",
+      "answer_pdf_page": 81,
+      "old_answer_latex": "填\\(52\\)。把两人相差的8次分成两半，较多的一方减4就成为平均数。\\[\\begin{aligned}&56-8\\div2\\\\={}&56-4\\\\={}&52\\text{（次）}\\end{aligned}\\]另一方法先求总次数再平均：\\[\\begin{aligned}&[56+(56-8)]\\div2\\\\={}&(56+48)\\div2\\\\={}&104\\div2\\\\={}&52\\text{（次）}\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p077.json",
+          "field": "answer_latex",
+          "old": "填\\(52\\)。把两人相差的8次分成两半，较多的一方减4就成为平均数。\\[\\begin{aligned}&56-8\\div2\\\\={}&56-4\\\\={}&52\\text{（次）}\\end{aligned}\\]另一方法先求总次数再平均：\\[\\begin{aligned}&[56+(56-8)]\\div2\\\\={}&(56+48)\\div2\\\\={}&104\\div2\\\\={}&52\\text{（次）}\\end{aligned}\\]",
+          "new": "填\\(52\\)。把两人相差的8次分成两半，较多的一方减4就成为平均数。\\[\\begin{aligned}&56-8\\div2\\\\={}&56-4\\\\={}&52\\text{（次）}\\end{aligned}\\]另一方法先求总次数再平均：\\[\\begin{aligned}&[56+(56-8)]\\div2\\\\={}&[56+48]\\div2\\\\={}&104\\div2\\\\={}&52\\text{（次）}\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "填\\(52\\)。把两人相差的8次分成两半，较多的一方减4就成为平均数。\\[\\begin{aligned}&56-8\\div2\\\\={}&56-4\\\\={}&52\\text{（次）}\\end{aligned}\\]另一方法先求总次数再平均：\\[\\begin{aligned}&[56+(56-8)]\\div2\\\\={}&(56+48)\\div2\\\\={}&104\\div2\\\\={}&52\\text{（次）}\\end{aligned}\\]",
+          "new": "填\\(52\\)。把两人相差的8次分成两半，较多的一方减4就成为平均数。\\[\\begin{aligned}&56-8\\div2\\\\={}&56-4\\\\={}&52\\text{（次）}\\end{aligned}\\]另一方法先求总次数再平均：\\[\\begin{aligned}&[56+(56-8)]\\div2\\\\={}&[56+48]\\div2\\\\={}&104\\div2\\\\={}&52\\text{（次）}\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(56+48)\\div2",
+          "new": "[56+48]\\div2"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "填\\(52\\)。把两人相差的8次分成两半，较多的一方减4就成为平均数。\\[\\begin{aligned}&56-8\\div2\\\\={}&56-4\\\\={}&52\\text{（次）}\\end{aligned}\\]另一方法先求总次数再平均：\\[\\begin{aligned}&[56+(56-8)]\\div2\\\\={}&[56+48]\\div2\\\\={}&104\\div2\\\\={}&52\\text{（次）}\\end{aligned}\\]",
+      "final_note_latex": "填\\(52\\)。把两人相差的8次分成两半，较多的一方减4就成为平均数。\\[\\begin{aligned}&56-8\\div2\\\\={}&56-4\\\\={}&52\\text{（次）}\\end{aligned}\\]另一方法先求总次数再平均：\\[\\begin{aligned}&[56+(56-8)]\\div2\\\\={}&[56+48]\\div2\\\\={}&104\\div2\\\\={}&52\\text{（次）}\\end{aligned}\\]",
+      "local_replacements": []
+    },
+    {
+      "key": "p077_s06",
+      "book_page": 77,
+      "id": "一、6（1）",
+      "answer_pdf_page": 81,
+      "old_answer_latex": "填\\(156\\)。\\textbf{方法一：以155厘米为基准移多补少}\\par 以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+(160-155)\\div5\\\\={}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&(310+310+160)\\div5\\\\={}&(620+160)\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。",
+      "field_changes": [
+        {
+          "file": "questions/p077.json",
+          "field": "answer_latex",
+          "old": "填\\(156\\)。\\textbf{方法一：以155厘米为基准移多补少}\\par 以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+(160-155)\\div5\\\\={}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&(310+310+160)\\div5\\\\={}&(620+160)\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。",
+          "new": "填\\(156\\)。\\textbf{方法一：以155厘米为基准移多补少}\\par 以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+(160-155)\\div5\\\\={}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&[310+310+160]\\div5\\\\={}&[620+160]\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+(160-155)\\div5\\\\={}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&(310+310+160)\\div5\\\\={}&(620+160)\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。",
+          "new": "以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+(160-155)\\div5\\\\={}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&[310+310+160]\\div5\\\\={}&[620+160]\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(310+310+160)\\div5",
+          "new": "[310+310+160]\\div5"
+        },
+        {
+          "old": "(620+160)\\div5",
+          "new": "[620+160]\\div5"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "填\\(156\\)。\\textbf{方法一：以155厘米为基准移多补少}\\par 以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+(160-155)\\div5\\\\={}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&[310+310+160]\\div5\\\\={}&[620+160]\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。",
+      "final_note_latex": "以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+(160-155)\\div5\\\\={}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&[310+310+160]\\div5\\\\={}&[620+160]\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。",
+      "local_replacements": []
+    },
+    {
+      "key": "p077_s07",
+      "book_page": 77,
+      "id": "一、6（2）",
+      "answer_pdf_page": 81,
+      "old_answer_latex": "填\\(159\\)。由平均数还原总身高，已知四人先配150与160凑310，再减已知总和。\\[\\begin{aligned}&157\\times5-(150+159+157+160)\\\\={}&157\\times5-[(150+160)+(159+157)]\\\\={}&785-(310+316)\\\\={}&785-626\\\\={}&159\\text{（厘米）}\\end{aligned}\\]检验：\\((150+159+157+160+159)\\div5=785\\div5=157\\)。书后150不符，不能取A队5号数据。",
+      "field_changes": [
+        {
+          "file": "questions/p077.json",
+          "field": "answer_latex",
+          "old": "填\\(159\\)。由平均数还原总身高，已知四人先配150与160凑310，再减已知总和。\\[\\begin{aligned}&157\\times5-(150+159+157+160)\\\\={}&157\\times5-[(150+160)+(159+157)]\\\\={}&785-(310+316)\\\\={}&785-626\\\\={}&159\\text{（厘米）}\\end{aligned}\\]检验：\\((150+159+157+160+159)\\div5=785\\div5=157\\)。书后150不符，不能取A队5号数据。",
+          "new": "填\\(159\\)。由平均数还原总身高，已知四人先配150与160凑310，再减已知总和。\\[\\begin{aligned}&157\\times5-(150+159+157+160)\\\\={}&157\\times5-[(150+160)+(159+157)]\\\\={}&785-[310+316]\\\\={}&785-626\\\\={}&159\\text{（厘米）}\\end{aligned}\\]检验：\\((150+159+157+160+159)\\div5=785\\div5=157\\)。书后150不符，不能取A队5号数据。"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "B队平均157厘米、共5人，总身高是5份157厘米。已知四人身高先用150与160凑310，159与157合计316；总身高的乘法与两个分组相互独立，同一步算出。剩下的才是5号身高；填回可验平均仍为157厘米。\\[\\begin{aligned}&157\\times5-(150+159+157+160)\\\\={}&157\\times5-[(150+160)+(159+157)]\\\\={}&785-(310+316)\\\\={}&785-626\\\\={}&159\\text{（厘米）}\\end{aligned}\\]",
+          "new": "B队平均157厘米、共5人，总身高是5份157厘米。已知四人身高先用150与160凑310，159与157合计316；总身高的乘法与两个分组相互独立，同一步算出。剩下的才是5号身高；填回可验平均仍为157厘米。\\[\\begin{aligned}&157\\times5-(150+159+157+160)\\\\={}&157\\times5-[(150+160)+(159+157)]\\\\={}&785-[310+316]\\\\={}&785-626\\\\={}&159\\text{（厘米）}\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "785-(310+316)",
+          "new": "785-[310+316]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "填\\(159\\)。由平均数还原总身高，已知四人先配150与160凑310，再减已知总和。\\[\\begin{aligned}&157\\times5-(150+159+157+160)\\\\={}&157\\times5-[(150+160)+(159+157)]\\\\={}&785-[310+316]\\\\={}&785-626\\\\={}&159\\text{（厘米）}\\end{aligned}\\]检验：\\((150+159+157+160+159)\\div5=785\\div5=157\\)。书后150不符，不能取A队5号数据。",
+      "final_note_latex": "B队平均157厘米、共5人，总身高是5份157厘米。已知四人身高先用150与160凑310，159与157合计316；总身高的乘法与两个分组相互独立，同一步算出。剩下的才是5号身高；填回可验平均仍为157厘米。\\[\\begin{aligned}&157\\times5-(150+159+157+160)\\\\={}&157\\times5-[(150+160)+(159+157)]\\\\={}&785-[310+316]\\\\={}&785-626\\\\={}&159\\text{（厘米）}\\end{aligned}\\]",
+      "local_replacements": []
+    },
+    {
+      "key": "p079_s03",
+      "book_page": 79,
+      "id": "三、2（1）",
+      "answer_pdf_page": 83,
+      "old_answer_latex": "\\textbf{方法一：分组凑整后求平均}\\[\\begin{aligned}&(123+145+156+172+184)\\div5\\\\={}&[(156+184)+(123+145+172)]\\div5\\\\={}&[340+(268+172)]\\div5\\\\={}&(340+440)\\div5\\\\={}&780\\div5\\\\={}&156\\text{（克）}\\end{aligned}\\]答：抽出的土豆平均每个重156克。\\par \\textbf{方法二：以150克为基准移多补少}\\par 多出6、22、34克，不足27、5克；先把6与34凑40；不足的27与5合为32。\\[\\begin{aligned}&150+[(6+34)+22-(27+5)]\\div5\\\\={}&150+(40+22-32)\\div5\\\\={}&150+(62-32)\\div5\\\\={}&150+30\\div5\\\\={}&150+6\\\\={}&156\\text{（克）}\\end{aligned}\\]答：平均每个重156克。",
+      "field_changes": [
+        {
+          "file": "questions/p079.json",
+          "field": "answer_latex",
+          "old": "\\textbf{方法一：分组凑整后求平均}\\[\\begin{aligned}&(123+145+156+172+184)\\div5\\\\={}&[(156+184)+(123+145+172)]\\div5\\\\={}&[340+(268+172)]\\div5\\\\={}&(340+440)\\div5\\\\={}&780\\div5\\\\={}&156\\text{（克）}\\end{aligned}\\]答：抽出的土豆平均每个重156克。\\par \\textbf{方法二：以150克为基准移多补少}\\par 多出6、22、34克，不足27、5克；先把6与34凑40；不足的27与5合为32。\\[\\begin{aligned}&150+[(6+34)+22-(27+5)]\\div5\\\\={}&150+(40+22-32)\\div5\\\\={}&150+(62-32)\\div5\\\\={}&150+30\\div5\\\\={}&150+6\\\\={}&156\\text{（克）}\\end{aligned}\\]答：平均每个重156克。",
+          "new": "\\textbf{方法一：分组凑整后求平均}\\[\\begin{aligned}&(123+145+156+172+184)\\div5\\\\={}&[(156+184)+(123+145+172)]\\div5\\\\={}&[340+(268+172)]\\div5\\\\={}&[340+440]\\div5\\\\={}&780\\div5\\\\={}&156\\text{（克）}\\end{aligned}\\]答：抽出的土豆平均每个重156克。\\par \\textbf{方法二：以150克为基准移多补少}\\par 多出6、22、34克，不足27、5克；先把6与34凑40；不足的27与5合为32。\\[\\begin{aligned}&150+[(6+34)+22-(27+5)]\\div5\\\\={}&150+[40+22-32]\\div5\\\\={}&150+[62-32]\\div5\\\\={}&150+30\\div5\\\\={}&150+6\\\\={}&156\\text{（克）}\\end{aligned}\\]答：平均每个重156克。"
+        },
+        {
+          "file": "detailed_layout/notes_C.json",
+          "field": "latex",
+          "old": "\\textbf{方法一：分组凑整后求平均}\\[\\begin{aligned}&(123+145+156+172+184)\\div5\\\\={}&[(156+184)+(123+145+172)]\\div5\\\\={}&[340+(268+172)]\\div5\\\\={}&(340+440)\\div5\\\\={}&780\\div5\\\\={}&156\\text{（克）}\\end{aligned}\\]答：抽出的土豆平均每个重156克。\\par \\textbf{方法二：以150克为基准移多补少}\\par 多出6、22、34克，不足27、5克；先把6与34凑40；不足的27与5合为32。\\[\\begin{aligned}&150+[(6+34)+22-(27+5)]\\div5\\\\={}&150+(40+22-32)\\div5\\\\={}&150+(62-32)\\div5\\\\={}&150+30\\div5\\\\={}&150+6\\\\={}&156\\text{（克）}\\end{aligned}\\]答：平均每个重156克。",
+          "new": "\\textbf{方法一：分组凑整后求平均}\\[\\begin{aligned}&(123+145+156+172+184)\\div5\\\\={}&[(156+184)+(123+145+172)]\\div5\\\\={}&[340+(268+172)]\\div5\\\\={}&[340+440]\\div5\\\\={}&780\\div5\\\\={}&156\\text{（克）}\\end{aligned}\\]答：抽出的土豆平均每个重156克。\\par \\textbf{方法二：以150克为基准移多补少}\\par 多出6、22、34克，不足27、5克；先把6与34凑40；不足的27与5合为32。\\[\\begin{aligned}&150+[(6+34)+22-(27+5)]\\div5\\\\={}&150+[40+22-32]\\div5\\\\={}&150+[62-32]\\div5\\\\={}&150+30\\div5\\\\={}&150+6\\\\={}&156\\text{（克）}\\end{aligned}\\]答：平均每个重156克。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(340+440)\\div5",
+          "new": "[340+440]\\div5"
+        },
+        {
+          "old": "150+(40+22-32)\\div5",
+          "new": "150+[40+22-32]\\div5"
+        },
+        {
+          "old": "150+(62-32)\\div5",
+          "new": "150+[62-32]\\div5"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\textbf{方法一：分组凑整后求平均}\\[\\begin{aligned}&(123+145+156+172+184)\\div5\\\\={}&[(156+184)+(123+145+172)]\\div5\\\\={}&[340+(268+172)]\\div5\\\\={}&[340+440]\\div5\\\\={}&780\\div5\\\\={}&156\\text{（克）}\\end{aligned}\\]答：抽出的土豆平均每个重156克。\\par \\textbf{方法二：以150克为基准移多补少}\\par 多出6、22、34克，不足27、5克；先把6与34凑40；不足的27与5合为32。\\[\\begin{aligned}&150+[(6+34)+22-(27+5)]\\div5\\\\={}&150+[40+22-32]\\div5\\\\={}&150+[62-32]\\div5\\\\={}&150+30\\div5\\\\={}&150+6\\\\={}&156\\text{（克）}\\end{aligned}\\]答：平均每个重156克。",
+      "final_note_latex": "\\textbf{方法一：分组凑整后求平均}\\[\\begin{aligned}&(123+145+156+172+184)\\div5\\\\={}&[(156+184)+(123+145+172)]\\div5\\\\={}&[340+(268+172)]\\div5\\\\={}&[340+440]\\div5\\\\={}&780\\div5\\\\={}&156\\text{（克）}\\end{aligned}\\]答：抽出的土豆平均每个重156克。\\par \\textbf{方法二：以150克为基准移多补少}\\par 多出6、22、34克，不足27、5克；先把6与34凑40；不足的27与5合为32。\\[\\begin{aligned}&150+[(6+34)+22-(27+5)]\\div5\\\\={}&150+[40+22-32]\\div5\\\\={}&150+[62-32]\\div5\\\\={}&150+30\\div5\\\\={}&150+6\\\\={}&156\\text{（克）}\\end{aligned}\\]答：平均每个重156克。",
+      "local_replacements": []
+    },
+    {
+      "key": "p083_s03",
+      "book_page": 83,
+      "id": "三、2（6）",
+      "answer_pdf_page": 87,
+      "old_answer_latex": "\\textbf{先小括号再中括号}\\[\\begin{aligned}&246\\div[96\\div(854-838)]\\\\&=246\\div(96\\div16)\\\\&=246\\div6\\\\&=41\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p083.json",
+          "field": "answer_latex",
+          "old": "\\textbf{先小括号再中括号}\\[\\begin{aligned}&246\\div[96\\div(854-838)]\\\\&=246\\div(96\\div16)\\\\&=246\\div6\\\\&=41\\end{aligned}\\]",
+          "new": "\\textbf{先小括号再中括号}\\[\\begin{aligned}&246\\div[96\\div(854-838)]\\\\&=246\\div[96\\div16]\\\\&=246\\div6\\\\&=41\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}={}&246\\div(96\\div16)\\\\={}&246\\div6\\\\={}&41\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}={}&246\\div[96\\div16]\\\\={}&246\\div6\\\\={}&41\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "246\\div(96\\div16)",
+          "new": "246\\div[96\\div16]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\textbf{先小括号再中括号}\\[\\begin{aligned}&246\\div[96\\div(854-838)]\\\\&=246\\div[96\\div16]\\\\&=246\\div6\\\\&=41\\end{aligned}\\]",
+      "final_note_latex": "先计算最里面的减法，得到16，再计算中括号中的\\(96\\div16\\)。最后才用246除以中括号的结果；不能把原式改成连续除以96和16，因为除数是一个完整的商。",
+      "local_replacements": [
+        {
+          "rect": [
+            380,
+            64,
+            568,
+            113
+          ],
+          "latex": "\\[\\begin{aligned}={}&246\\div[96\\div16]\\\\={}&246\\div6\\\\={}&41\\end{aligned}\\]",
+          "reason": "黑题干已有原式，红步骤从第一个等号开始。补齐独立乘法同时计算的中间行，并明确写乘号；不能用括号并置代替×。",
+          "target_rect": [
+            350.933,
+            64,
+            568,
+            113
+          ]
+        }
+      ]
+    },
+    {
+      "key": "p088_s02",
+      "book_page": 88,
+      "id": "五、3",
+      "answer_pdf_page": 92,
+      "old_answer_latex": "平行四边形两组对边分别相等，四条边是两条\\(24\\)厘米和两条\\(24+2=26\\)厘米；求周长要把四边相加，不能把邻边误当成也长\\(24\\)厘米。\\textbf{方法一：先求邻边，再算周长}\\[\\begin{aligned}&[24+(24+2)]\\times2\\\\&=(24+26)\\times2\\\\&=50\\times2\\\\&=100\\text{（厘米）}\\end{aligned}\\]答：平行四边形周长\\(100\\)厘米。\\textbf{方法二：先按四条\\(24\\)厘米，再补两条边各多的\\(2\\)厘米}\\[\\begin{aligned}&24\\times4+2\\times2\\\\&=96+4\\\\&=100\\text{（厘米）}\\end{aligned}\\]答：周长\\(100\\)厘米。",
+      "field_changes": [
+        {
+          "file": "questions/p088.json",
+          "field": "answer_latex",
+          "old": "平行四边形两组对边分别相等，四条边是两条\\(24\\)厘米和两条\\(24+2=26\\)厘米；求周长要把四边相加，不能把邻边误当成也长\\(24\\)厘米。\\textbf{方法一：先求邻边，再算周长}\\[\\begin{aligned}&[24+(24+2)]\\times2\\\\&=(24+26)\\times2\\\\&=50\\times2\\\\&=100\\text{（厘米）}\\end{aligned}\\]答：平行四边形周长\\(100\\)厘米。\\textbf{方法二：先按四条\\(24\\)厘米，再补两条边各多的\\(2\\)厘米}\\[\\begin{aligned}&24\\times4+2\\times2\\\\&=96+4\\\\&=100\\text{（厘米）}\\end{aligned}\\]答：周长\\(100\\)厘米。",
+          "new": "平行四边形两组对边分别相等，四条边是两条\\(24\\)厘米和两条\\(24+2=26\\)厘米；求周长要把四边相加，不能把邻边误当成也长\\(24\\)厘米。\\textbf{方法一：先求邻边，再算周长}\\[\\begin{aligned}&[24+(24+2)]\\times2\\\\&=[24+26]\\times2\\\\&=50\\times2\\\\&=100\\text{（厘米）}\\end{aligned}\\]答：平行四边形周长\\(100\\)厘米。\\textbf{方法二：先按四条\\(24\\)厘米，再补两条边各多的\\(2\\)厘米}\\[\\begin{aligned}&24\\times4+2\\times2\\\\&=96+4\\\\&=100\\text{（厘米）}\\end{aligned}\\]答：周长\\(100\\)厘米。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(24+26)\\times2",
+          "new": "[24+26]\\times2"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "平行四边形两组对边分别相等，四条边是两条\\(24\\)厘米和两条\\(24+2=26\\)厘米；求周长要把四边相加，不能把邻边误当成也长\\(24\\)厘米。\\textbf{方法一：先求邻边，再算周长}\\[\\begin{aligned}&[24+(24+2)]\\times2\\\\&=[24+26]\\times2\\\\&=50\\times2\\\\&=100\\text{（厘米）}\\end{aligned}\\]答：平行四边形周长\\(100\\)厘米。\\textbf{方法二：先按四条\\(24\\)厘米，再补两条边各多的\\(2\\)厘米}\\[\\begin{aligned}&24\\times4+2\\times2\\\\&=96+4\\\\&=100\\text{（厘米）}\\end{aligned}\\]答：周长\\(100\\)厘米。",
+      "final_note_latex": "24厘米这条边比邻边短2厘米，所以邻边应在24厘米上加2厘米，再把一组邻边的和乘2。另法先把四边都按24厘米计，只有两条较长边各少算2厘米，合计补2份2厘米；不能给四条边都加2。\\par 另法：四边先都按较短边算，再补两条邻边各多的长度。\\[\\begin{aligned}&24\\times4+2\\times2\\\\&=96+4\\\\&=100\\text{（厘米）}\\end{aligned}\\]",
+      "local_replacements": [
+        {
+          "rect": [
+            259.9760009765625,
+            289.06788940429686,
+            324.027783203125,
+            299.7998779296875
+          ],
+          "target_rect": [
+            258.9760009765625,
+            288.06788940429686,
+            332.027783203125,
+            300.7998779296875
+          ],
+          "latex": "\\(\\displaystyle=[24+26]\\times2\\)",
+          "font_size": 9,
+          "leading": 12.8,
+          "baseline_anchor": [
+            260.7760009765625,
+            297.041015625
+          ],
+          "clear_to_white": true,
+          "kind": "bracket_retention_single_row",
+          "align": "left",
+          "reason": "仅把该原红续行的外括号保留为中括号；黑首式、后续红行、数值、答语和原基线保持。"
+        }
+      ]
+    },
+    {
+      "key": "p089_s03",
+      "book_page": 89,
+      "id": "一、3",
+      "answer_pdf_page": 93,
+      "old_answer_latex": "填10。用加法结合律凑两个20：\\[\\begin{aligned}&(12+8+7+13)\\div4\\\\={}&[(12+8)+(7+13)]\\div4\\\\={}&(20+20)\\div4\\\\={}&40\\div4\\\\={}&10\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p089.json",
+          "field": "answer_latex",
+          "old": "填10。用加法结合律凑两个20：\\[\\begin{aligned}&(12+8+7+13)\\div4\\\\={}&[(12+8)+(7+13)]\\div4\\\\={}&(20+20)\\div4\\\\={}&40\\div4\\\\={}&10\\end{aligned}\\]",
+          "new": "填10。用加法结合律凑两个20：\\[\\begin{aligned}&(12+8+7+13)\\div4\\\\={}&[(12+8)+(7+13)]\\div4\\\\={}&[20+20]\\div4\\\\={}&40\\div4\\\\={}&10\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "latex",
+          "old": "用加法结合律把12与8、7与13分别配成20：\\[\\begin{aligned}&(12+8+7+13)\\div4\\\\={}&[(12+8)+(7+13)]\\div4\\\\={}&(20+20)\\div4\\\\={}&40\\div4\\\\={}&10\\end{aligned}\\]4个数据，除数仍为4。",
+          "new": "用加法结合律把12与8、7与13分别配成20：\\[\\begin{aligned}&(12+8+7+13)\\div4\\\\={}&[(12+8)+(7+13)]\\div4\\\\={}&[20+20]\\div4\\\\={}&40\\div4\\\\={}&10\\end{aligned}\\]4个数据，除数仍为4。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(20+20)\\div4",
+          "new": "[20+20]\\div4"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "填10。用加法结合律凑两个20：\\[\\begin{aligned}&(12+8+7+13)\\div4\\\\={}&[(12+8)+(7+13)]\\div4\\\\={}&[20+20]\\div4\\\\={}&40\\div4\\\\={}&10\\end{aligned}\\]",
+      "final_note_latex": "用加法结合律把12与8、7与13分别配成20：\\[\\begin{aligned}&(12+8+7+13)\\div4\\\\={}&[(12+8)+(7+13)]\\div4\\\\={}&[20+20]\\div4\\\\={}&40\\div4\\\\={}&10\\end{aligned}\\]4个数据，除数仍为4。",
+      "local_replacements": []
+    },
+    {
+      "key": "p089_s07",
+      "book_page": 89,
+      "id": "一、7",
+      "answer_pdf_page": 93,
+      "old_answer_latex": "填96。去掉一个最高分99和一个最低分92，剩5个评分。\\textbf{方法一：以96分为基准移多补少}98多2分，两个95各少1分，两次96不变。连续减去两个数，等于减去它们的和：\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+[2-(1+1)]\\div5\\\\={}&96+(2-2)\\div5\\\\={}&96+0\\div5\\\\={}&96+0\\\\={}&96\\text{（分）}\\end{aligned}\\]\\textbf{方法二：分组求总分再平均}用加法交换律、结合律分组：\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&[98+(96+96)+(95+95)]\\div5\\\\={}&(98+192+190)\\div5\\\\={}&(290+190)\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：张梦最后得分是96分。",
+      "field_changes": [
+        {
+          "file": "questions/p089.json",
+          "field": "answer_latex",
+          "old": "填96。去掉一个最高分99和一个最低分92，剩5个评分。\\textbf{方法一：以96分为基准移多补少}98多2分，两个95各少1分，两次96不变。连续减去两个数，等于减去它们的和：\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+[2-(1+1)]\\div5\\\\={}&96+(2-2)\\div5\\\\={}&96+0\\div5\\\\={}&96+0\\\\={}&96\\text{（分）}\\end{aligned}\\]\\textbf{方法二：分组求总分再平均}用加法交换律、结合律分组：\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&[98+(96+96)+(95+95)]\\div5\\\\={}&(98+192+190)\\div5\\\\={}&(290+190)\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：张梦最后得分是96分。",
+          "new": "填96。去掉一个最高分99和一个最低分92，剩5个评分。\\textbf{方法一：以96分为基准移多补少}98多2分，两个95各少1分，两次96不变。连续减去两个数，等于减去它们的和：\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+[2-(1+1)]\\div5\\\\={}&96+[2-2]\\div5\\\\={}&96+0\\div5\\\\={}&96+0\\\\={}&96\\text{（分）}\\end{aligned}\\]\\textbf{方法二：分组求总分再平均}用加法交换律、结合律分组：\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&[98+(96+96)+(95+95)]\\div5\\\\={}&[98+192+190]\\div5\\\\={}&[290+190]\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：张梦最后得分是96分。"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "latex",
+          "old": "只去掉99和92，剩5项。\\textbf{方法一：以96分为基准}98多2分，两个95各少1分，余两项正好96分。连续减去两个数，等于减去它们的和。\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+[2-(1+1)]\\div5\\\\={}&96+(2-2)\\div5\\\\={}&96+0\\div5\\\\={}&96+0\\\\={}&96\\text{（分）}\\end{aligned}\\]\\textbf{方法二：分组求总分}用加法交换律、结合律：\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&[98+(96+96)+(95+95)]\\div5\\\\={}&(98+192+190)\\div5\\\\={}&(290+190)\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：最后得分是96分。",
+          "new": "只去掉99和92，剩5项。\\textbf{方法一：以96分为基准}98多2分，两个95各少1分，余两项正好96分。连续减去两个数，等于减去它们的和。\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+[2-(1+1)]\\div5\\\\={}&96+[2-2]\\div5\\\\={}&96+0\\div5\\\\={}&96+0\\\\={}&96\\text{（分）}\\end{aligned}\\]\\textbf{方法二：分组求总分}用加法交换律、结合律：\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&[98+(96+96)+(95+95)]\\div5\\\\={}&[98+192+190]\\div5\\\\={}&[290+190]\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：最后得分是96分。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "96+(2-2)\\div5",
+          "new": "96+[2-2]\\div5"
+        },
+        {
+          "old": "(98+192+190)\\div5",
+          "new": "[98+192+190]\\div5"
+        },
+        {
+          "old": "(290+190)\\div5",
+          "new": "[290+190]\\div5"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "填96。去掉一个最高分99和一个最低分92，剩5个评分。\\textbf{方法一：以96分为基准移多补少}98多2分，两个95各少1分，两次96不变。连续减去两个数，等于减去它们的和：\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+[2-(1+1)]\\div5\\\\={}&96+[2-2]\\div5\\\\={}&96+0\\div5\\\\={}&96+0\\\\={}&96\\text{（分）}\\end{aligned}\\]\\textbf{方法二：分组求总分再平均}用加法交换律、结合律分组：\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&[98+(96+96)+(95+95)]\\div5\\\\={}&[98+192+190]\\div5\\\\={}&[290+190]\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：张梦最后得分是96分。",
+      "final_note_latex": "只去掉99和92，剩5项。\\textbf{方法一：以96分为基准}98多2分，两个95各少1分，余两项正好96分。连续减去两个数，等于减去它们的和。\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+[2-(1+1)]\\div5\\\\={}&96+[2-2]\\div5\\\\={}&96+0\\div5\\\\={}&96+0\\\\={}&96\\text{（分）}\\end{aligned}\\]\\textbf{方法二：分组求总分}用加法交换律、结合律：\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&[98+(96+96)+(95+95)]\\div5\\\\={}&[98+192+190]\\div5\\\\={}&[290+190]\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：最后得分是96分。",
+      "local_replacements": []
+    },
+    {
+      "key": "p091_s01",
+      "book_page": 91,
+      "id": "四、1",
+      "answer_pdf_page": 95,
+      "old_answer_latex": "第3、4项字形有缺损，不能认定原题已核清。以下只按96、88、92、88计算。\\textbf{方法一：分组求总分再平均}先按加法结合律分成两组，才能同一步求两个和：\\[\\begin{aligned}&(96+88+92+88)\\div4\\\\={}&[(96+88)+(92+88)]\\div4\\\\={}&(184+180)\\div4\\\\={}&364\\div4\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par\\textbf{方法二：以88分为基准移多补少}\\[\\begin{aligned}&88+[(96-88)+(92-88)]\\div4\\\\={}&88+(8+4)\\div4\\\\={}&88+12\\div4\\\\={}&88+3\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par若缺损两项实际为82、18，则：\\[\\begin{aligned}&(96+88+82+18)\\div4\\\\={}&[(96+88)+(82+18)]\\div4\\\\={}&(184+100)\\div4\\\\={}&284\\div4\\\\={}&71\\text{（分）}\\end{aligned}\\]答：仅按该备选读法，平均成绩是71分；仍须核清原题。",
+      "field_changes": [
+        {
+          "file": "questions/p091.json",
+          "field": "answer_latex",
+          "old": "第3、4项字形有缺损，不能认定原题已核清。以下只按96、88、92、88计算。\\textbf{方法一：分组求总分再平均}先按加法结合律分成两组，才能同一步求两个和：\\[\\begin{aligned}&(96+88+92+88)\\div4\\\\={}&[(96+88)+(92+88)]\\div4\\\\={}&(184+180)\\div4\\\\={}&364\\div4\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par\\textbf{方法二：以88分为基准移多补少}\\[\\begin{aligned}&88+[(96-88)+(92-88)]\\div4\\\\={}&88+(8+4)\\div4\\\\={}&88+12\\div4\\\\={}&88+3\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par若缺损两项实际为82、18，则：\\[\\begin{aligned}&(96+88+82+18)\\div4\\\\={}&[(96+88)+(82+18)]\\div4\\\\={}&(184+100)\\div4\\\\={}&284\\div4\\\\={}&71\\text{（分）}\\end{aligned}\\]答：仅按该备选读法，平均成绩是71分；仍须核清原题。",
+          "new": "第3、4项字形有缺损，不能认定原题已核清。以下只按96、88、92、88计算。\\textbf{方法一：分组求总分再平均}先按加法结合律分成两组，才能同一步求两个和：\\[\\begin{aligned}&(96+88+92+88)\\div4\\\\={}&[(96+88)+(92+88)]\\div4\\\\={}&[184+180]\\div4\\\\={}&364\\div4\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par\\textbf{方法二：以88分为基准移多补少}\\[\\begin{aligned}&88+[(96-88)+(92-88)]\\div4\\\\={}&88+[8+4]\\div4\\\\={}&88+12\\div4\\\\={}&88+3\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par若缺损两项实际为82、18，则：\\[\\begin{aligned}&(96+88+82+18)\\div4\\\\={}&[(96+88)+(82+18)]\\div4\\\\={}&[184+100]\\div4\\\\={}&284\\div4\\\\={}&71\\text{（分）}\\end{aligned}\\]答：仅按该备选读法，平均成绩是71分；仍须核清原题。"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "latex",
+          "old": "第3、4项字形有缺损，不能认定原题已核清。以下只按96、88、92、88计算。\\textbf{方法一：分组求总分再平均}先按加法结合律分成两组，才能同一步求两个和：\\[\\begin{aligned}&(96+88+92+88)\\div4\\\\={}&[(96+88)+(92+88)]\\div4\\\\={}&(184+180)\\div4\\\\={}&364\\div4\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par\\textbf{方法二：以88分为基准移多补少}\\[\\begin{aligned}&88+[(96-88)+(92-88)]\\div4\\\\={}&88+(8+4)\\div4\\\\={}&88+12\\div4\\\\={}&88+3\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par若缺损两项实际为82、18，则：\\[\\begin{aligned}&(96+88+82+18)\\div4\\\\={}&[(96+88)+(82+18)]\\div4\\\\={}&(184+100)\\div4\\\\={}&284\\div4\\\\={}&71\\text{（分）}\\end{aligned}\\]答：仅按该备选读法，平均成绩是71分；仍须核清原题。",
+          "new": "第3、4项字形有缺损，不能认定原题已核清。以下只按96、88、92、88计算。\\textbf{方法一：分组求总分再平均}先按加法结合律分成两组，才能同一步求两个和：\\[\\begin{aligned}&(96+88+92+88)\\div4\\\\={}&[(96+88)+(92+88)]\\div4\\\\={}&[184+180]\\div4\\\\={}&364\\div4\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par\\textbf{方法二：以88分为基准移多补少}\\[\\begin{aligned}&88+[(96-88)+(92-88)]\\div4\\\\={}&88+[8+4]\\div4\\\\={}&88+12\\div4\\\\={}&88+3\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par若缺损两项实际为82、18，则：\\[\\begin{aligned}&(96+88+82+18)\\div4\\\\={}&[(96+88)+(82+18)]\\div4\\\\={}&[184+100]\\div4\\\\={}&284\\div4\\\\={}&71\\text{（分）}\\end{aligned}\\]答：仅按该备选读法，平均成绩是71分；仍须核清原题。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(184+180)\\div4",
+          "new": "[184+180]\\div4"
+        },
+        {
+          "old": "88+(8+4)\\div4",
+          "new": "88+[8+4]\\div4"
+        },
+        {
+          "old": "(184+100)\\div4",
+          "new": "[184+100]\\div4"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "第3、4项字形有缺损，不能认定原题已核清。以下只按96、88、92、88计算。\\textbf{方法一：分组求总分再平均}先按加法结合律分成两组，才能同一步求两个和：\\[\\begin{aligned}&(96+88+92+88)\\div4\\\\={}&[(96+88)+(92+88)]\\div4\\\\={}&[184+180]\\div4\\\\={}&364\\div4\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par\\textbf{方法二：以88分为基准移多补少}\\[\\begin{aligned}&88+[(96-88)+(92-88)]\\div4\\\\={}&88+[8+4]\\div4\\\\={}&88+12\\div4\\\\={}&88+3\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par若缺损两项实际为82、18，则：\\[\\begin{aligned}&(96+88+82+18)\\div4\\\\={}&[(96+88)+(82+18)]\\div4\\\\={}&[184+100]\\div4\\\\={}&284\\div4\\\\={}&71\\text{（分）}\\end{aligned}\\]答：仅按该备选读法，平均成绩是71分；仍须核清原题。",
+      "final_note_latex": "第3、4项字形有缺损，不能认定原题已核清。以下只按96、88、92、88计算。\\textbf{方法一：分组求总分再平均}先按加法结合律分成两组，才能同一步求两个和：\\[\\begin{aligned}&(96+88+92+88)\\div4\\\\={}&[(96+88)+(92+88)]\\div4\\\\={}&[184+180]\\div4\\\\={}&364\\div4\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par\\textbf{方法二：以88分为基准移多补少}\\[\\begin{aligned}&88+[(96-88)+(92-88)]\\div4\\\\={}&88+[8+4]\\div4\\\\={}&88+12\\div4\\\\={}&88+3\\\\={}&91\\text{（分）}\\end{aligned}\\]答：按这组数据，平均成绩是91分。\\par若缺损两项实际为82、18，则：\\[\\begin{aligned}&(96+88+82+18)\\div4\\\\={}&[(96+88)+(82+18)]\\div4\\\\={}&[184+100]\\div4\\\\={}&284\\div4\\\\={}&71\\text{（分）}\\end{aligned}\\]答：仅按该备选读法，平均成绩是71分；仍须核清原题。",
+      "local_replacements": []
+    },
+    {
+      "key": "p091_s03",
+      "book_page": 91,
+      "id": "四、3",
+      "answer_pdf_page": 95,
+      "old_answer_latex": "\\textbf{方法一：总本数除以总天数}\\par 前2天借书总量是每天160本乘2天，再加后6天的464本。\\[\\begin{aligned} &(160\\times2+464)\\div(2+6)\\\\ ={}&(320+464)\\div8\\\\ ={}&784\\div8\\\\ ={}&98\\text{（本）}\\end{aligned}\\]答：平均每天借书98本。\\par \\textbf{基准复核：与每天100本比较}\\par 主法已求得总量784本。8天若平均每天100本，共应借800本，少的16本平均到8天，每天少2本。\\[\\begin{aligned} &100-[100\\times8-(160\\times2+464)]\\div8\\\\ ={}&100-[800-(320+464)]\\div8\\\\ ={}&100-(800-784)\\div8\\\\ ={}&100-16\\div8\\\\ ={}&100-2\\\\ ={}&98\\text{（本）}\\end{aligned}\\]答：平均每天借书98本。\\par ",
+      "field_changes": [
+        {
+          "file": "questions/p091.json",
+          "field": "answer_latex",
+          "old": "\\textbf{方法一：总本数除以总天数}\\par 前2天借书总量是每天160本乘2天，再加后6天的464本。\\[\\begin{aligned} &(160\\times2+464)\\div(2+6)\\\\ ={}&(320+464)\\div8\\\\ ={}&784\\div8\\\\ ={}&98\\text{（本）}\\end{aligned}\\]答：平均每天借书98本。\\par \\textbf{基准复核：与每天100本比较}\\par 主法已求得总量784本。8天若平均每天100本，共应借800本，少的16本平均到8天，每天少2本。\\[\\begin{aligned} &100-[100\\times8-(160\\times2+464)]\\div8\\\\ ={}&100-[800-(320+464)]\\div8\\\\ ={}&100-(800-784)\\div8\\\\ ={}&100-16\\div8\\\\ ={}&100-2\\\\ ={}&98\\text{（本）}\\end{aligned}\\]答：平均每天借书98本。\\par ",
+          "new": "\\textbf{方法一：总本数除以总天数}\\par 前2天借书总量是每天160本乘2天，再加后6天的464本。\\[\\begin{aligned} &(160\\times2+464)\\div(2+6)\\\\ ={}&(320+464)\\div8\\\\ ={}&784\\div8\\\\ ={}&98\\text{（本）}\\end{aligned}\\]答：平均每天借书98本。\\par \\textbf{基准复核：与每天100本比较}\\par 主法已求得总量784本。8天若平均每天100本，共应借800本，少的16本平均到8天，每天少2本。\\[\\begin{aligned} &100-[100\\times8-(160\\times2+464)]\\div8\\\\ ={}&100-[800-(320+464)]\\div8\\\\ ={}&100-[800-784]\\div8\\\\ ={}&100-16\\div8\\\\ ={}&100-2\\\\ ={}&98\\text{（本）}\\end{aligned}\\]答：平均每天借书98本。\\par "
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "100-(800-784)\\div8",
+          "new": "100-[800-784]\\div8"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\textbf{方法一：总本数除以总天数}\\par 前2天借书总量是每天160本乘2天，再加后6天的464本。\\[\\begin{aligned} &(160\\times2+464)\\div(2+6)\\\\ ={}&(320+464)\\div8\\\\ ={}&784\\div8\\\\ ={}&98\\text{（本）}\\end{aligned}\\]答：平均每天借书98本。\\par \\textbf{基准复核：与每天100本比较}\\par 主法已求得总量784本。8天若平均每天100本，共应借800本，少的16本平均到8天，每天少2本。\\[\\begin{aligned} &100-[100\\times8-(160\\times2+464)]\\div8\\\\ ={}&100-[800-(320+464)]\\div8\\\\ ={}&100-[800-784]\\div8\\\\ ={}&100-16\\div8\\\\ ={}&100-2\\\\ ={}&98\\text{（本）}\\end{aligned}\\]答：平均每天借书98本。\\par ",
+      "final_note_latex": "前2天给的是每天平均本数，须乘2才能得到这两天总数；后6天464本已经是总数，不再乘6。合并8天的784本后再求平均；求出总量后，也可与每天100本比较作复核，8天总共少16本，把差额平均到8天再从100中扣除。\\par 基准复核：沿用主法已求出的总数784本，与每天100本比较。\\[\\begin{aligned}&100-(100\\times8-784)\\div8\\\\={}&100-(800-784)\\div8\\\\={}&100-16\\div8\\\\={}&100-2\\\\={}&98\\text{（本）}\\end{aligned}\\]",
+      "local_replacements": [],
+      "ppt_only_row_replacements": [
+        {
+          "old": "100-(100\\times8-784)\\div8",
+          "new": "100-[100\\times8-784]\\div8",
+          "reason": "PPT保留沿用主法784的缩写首行，仅把该首行外层小括号改中括号，使与后续中括号连续；源与PDF不变。"
+        }
+      ]
+    },
+    {
+      "key": "p091_s04",
+      "book_page": 91,
+      "id": "四、4",
+      "answer_pdf_page": 95,
+      "old_answer_latex": "平均数有重影，以下仅按2500毫升作条件计算。\\textbf{方法一：先合并甲、乙的量}用减法性质合并两个减数：\\[\\begin{aligned}&2500\\times3-(2700+2200)\\\\={}&7500-4900\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par\\textbf{方法二：移多补少}乙少300毫升，甲多200毫升，丙应在平均数上补足100毫升：\\[\\begin{aligned}&2500+[(2500-2200)-(2700-2500)]\\\\={}&2500+(300-200)\\\\={}&2500+100\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par若原平均数实际为3000毫升，则：\\[\\begin{aligned}&3000\\times3-(2700+2200)\\\\={}&9000-4900\\\\={}&4100\\text{（毫升）}\\end{aligned}\\]答：若平均数是3000毫升，丙的肺活量是4100毫升。须核清原题后确定唯一答案。",
+      "field_changes": [
+        {
+          "file": "questions/p091.json",
+          "field": "answer_latex",
+          "old": "平均数有重影，以下仅按2500毫升作条件计算。\\textbf{方法一：先合并甲、乙的量}用减法性质合并两个减数：\\[\\begin{aligned}&2500\\times3-(2700+2200)\\\\={}&7500-4900\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par\\textbf{方法二：移多补少}乙少300毫升，甲多200毫升，丙应在平均数上补足100毫升：\\[\\begin{aligned}&2500+[(2500-2200)-(2700-2500)]\\\\={}&2500+(300-200)\\\\={}&2500+100\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par若原平均数实际为3000毫升，则：\\[\\begin{aligned}&3000\\times3-(2700+2200)\\\\={}&9000-4900\\\\={}&4100\\text{（毫升）}\\end{aligned}\\]答：若平均数是3000毫升，丙的肺活量是4100毫升。须核清原题后确定唯一答案。",
+          "new": "平均数有重影，以下仅按2500毫升作条件计算。\\textbf{方法一：先合并甲、乙的量}用减法性质合并两个减数：\\[\\begin{aligned}&2500\\times3-(2700+2200)\\\\={}&7500-4900\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par\\textbf{方法二：移多补少}乙少300毫升，甲多200毫升，丙应在平均数上补足100毫升：\\[\\begin{aligned}&2500+[(2500-2200)-(2700-2500)]\\\\={}&2500+[300-200]\\\\={}&2500+100\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par若原平均数实际为3000毫升，则：\\[\\begin{aligned}&3000\\times3-(2700+2200)\\\\={}&9000-4900\\\\={}&4100\\text{（毫升）}\\end{aligned}\\]答：若平均数是3000毫升，丙的肺活量是4100毫升。须核清原题后确定唯一答案。"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "latex",
+          "old": "平均数有重影，以下仅按2500毫升作条件计算。\\textbf{方法一：先合并甲、乙的量}用减法性质合并两个减数：\\[\\begin{aligned}&2500\\times3-(2700+2200)\\\\={}&7500-4900\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par\\textbf{方法二：移多补少}乙少300毫升，甲多200毫升，丙应在平均数上补足100毫升：\\[\\begin{aligned}&2500+[(2500-2200)-(2700-2500)]\\\\={}&2500+(300-200)\\\\={}&2500+100\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par若原平均数实际为3000毫升，则：\\[\\begin{aligned}&3000\\times3-(2700+2200)\\\\={}&9000-4900\\\\={}&4100\\text{（毫升）}\\end{aligned}\\]答：若平均数是3000毫升，丙的肺活量是4100毫升。须核清原题后确定唯一答案。",
+          "new": "平均数有重影，以下仅按2500毫升作条件计算。\\textbf{方法一：先合并甲、乙的量}用减法性质合并两个减数：\\[\\begin{aligned}&2500\\times3-(2700+2200)\\\\={}&7500-4900\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par\\textbf{方法二：移多补少}乙少300毫升，甲多200毫升，丙应在平均数上补足100毫升：\\[\\begin{aligned}&2500+[(2500-2200)-(2700-2500)]\\\\={}&2500+[300-200]\\\\={}&2500+100\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par若原平均数实际为3000毫升，则：\\[\\begin{aligned}&3000\\times3-(2700+2200)\\\\={}&9000-4900\\\\={}&4100\\text{（毫升）}\\end{aligned}\\]答：若平均数是3000毫升，丙的肺活量是4100毫升。须核清原题后确定唯一答案。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "2500+(300-200)",
+          "new": "2500+[300-200]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "平均数有重影，以下仅按2500毫升作条件计算。\\textbf{方法一：先合并甲、乙的量}用减法性质合并两个减数：\\[\\begin{aligned}&2500\\times3-(2700+2200)\\\\={}&7500-4900\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par\\textbf{方法二：移多补少}乙少300毫升，甲多200毫升，丙应在平均数上补足100毫升：\\[\\begin{aligned}&2500+[(2500-2200)-(2700-2500)]\\\\={}&2500+[300-200]\\\\={}&2500+100\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par若原平均数实际为3000毫升，则：\\[\\begin{aligned}&3000\\times3-(2700+2200)\\\\={}&9000-4900\\\\={}&4100\\text{（毫升）}\\end{aligned}\\]答：若平均数是3000毫升，丙的肺活量是4100毫升。须核清原题后确定唯一答案。",
+      "final_note_latex": "平均数有重影，以下仅按2500毫升作条件计算。\\textbf{方法一：先合并甲、乙的量}用减法性质合并两个减数：\\[\\begin{aligned}&2500\\times3-(2700+2200)\\\\={}&7500-4900\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par\\textbf{方法二：移多补少}乙少300毫升，甲多200毫升，丙应在平均数上补足100毫升：\\[\\begin{aligned}&2500+[(2500-2200)-(2700-2500)]\\\\={}&2500+[300-200]\\\\={}&2500+100\\\\={}&2600\\text{（毫升）}\\end{aligned}\\]答：若平均数是2500毫升，丙的肺活量是2600毫升。\\par若原平均数实际为3000毫升，则：\\[\\begin{aligned}&3000\\times3-(2700+2200)\\\\={}&9000-4900\\\\={}&4100\\text{（毫升）}\\end{aligned}\\]答：若平均数是3000毫升，丙的肺活量是4100毫升。须核清原题后确定唯一答案。",
+      "local_replacements": []
+    },
+    {
+      "key": "p095_s01",
+      "book_page": 95,
+      "id": "三、3（1）",
+      "answer_pdf_page": 99,
+      "old_answer_latex": "先用减法性质，将\\(175\\)与\\(75\\)相减凑整。\\[\\begin{aligned}&40\\times[175-(75+67)]\\\\={}&40\\times(175-75-67)\\\\={}&40\\times(100-67)\\\\={}&40\\times33\\\\={}&1320\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p095.json",
+          "field": "answer_latex",
+          "old": "先用减法性质，将\\(175\\)与\\(75\\)相减凑整。\\[\\begin{aligned}&40\\times[175-(75+67)]\\\\={}&40\\times(175-75-67)\\\\={}&40\\times(100-67)\\\\={}&40\\times33\\\\={}&1320\\end{aligned}\\]",
+          "new": "先用减法性质，将\\(175\\)与\\(75\\)相减凑整。\\[\\begin{aligned}&40\\times[175-(75+67)]\\\\={}&40\\times[175-75-67]\\\\={}&40\\times[100-67]\\\\={}&40\\times33\\\\={}&1320\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}={}&40\\times(175-75-67)\\\\={}&40\\times(100-67)\\\\={}&40\\times33\\\\={}&1320\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}={}&40\\times[175-75-67]\\\\={}&40\\times[100-67]\\\\={}&40\\times33\\\\={}&1320\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "40\\times(175-75-67)",
+          "new": "40\\times[175-75-67]"
+        },
+        {
+          "old": "40\\times(100-67)",
+          "new": "40\\times[100-67]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "先用减法性质，将\\(175\\)与\\(75\\)相减凑整。\\[\\begin{aligned}&40\\times[175-(75+67)]\\\\={}&40\\times[175-75-67]\\\\={}&40\\times[100-67]\\\\={}&40\\times33\\\\={}&1320\\end{aligned}\\]",
+      "final_note_latex": "中括号内减去75与67的和，可以改成先减75再减67，使175与75先凑成整百。括号外的40仍乘整个差，先得到33再相乘；去括号时两个加数都变为减数，不能把67改成加数。",
+      "local_replacements": [
+        {
+          "rect": [
+            70,
+            90,
+            242,
+            144
+          ],
+          "latex": "\\[\\begin{aligned}={}&40\\times[175-75-67]\\\\={}&40\\times[100-67]\\\\={}&40\\times33\\\\={}&1320\\end{aligned}\\]",
+          "reason": "黑题干已有原式，红步骤从第一个等号开始。补齐独立乘法同时计算的中间行，并明确写乘号；不能用括号并置代替×。",
+          "target_rect": [
+            68.433,
+            90,
+            242,
+            144
+          ]
+        }
+      ]
+    },
+    {
+      "key": "p096_s03",
+      "book_page": 96,
+      "id": "五、4（2）",
+      "answer_pdf_page": 100,
+      "old_answer_latex": "\\textbf{方法一：先扣前100千瓦时的电费}\\par 前100千瓦时收费\\(2\\times100=200\\)元。\\(260>200\\)，可确定确实用到了每千瓦时3元的高档电量；余60元除以高档单价，求得超过100千瓦时的部分。\\[\\begin{aligned} &(260-2\\times100)\\div3+100\\\\ ={}&(260-200)\\div3+100\\\\ ={}&60\\div3+100\\\\ ={}&20+100\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。\\par \\textbf{方法二：把已付费用补成全按3元计费}\\par 前100千瓦时每千瓦时少收1元，补上100元后除以每千瓦时3元。\\[\\begin{aligned} &[260+(3-2)\\times100]\\div3\\\\ ={}&(260+1\\times100)\\div3\\\\ ={}&(260+100)\\div3\\\\ ={}&360\\div3\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。\\par ",
+      "field_changes": [
+        {
+          "file": "questions/p096.json",
+          "field": "answer_latex",
+          "old": "\\textbf{方法一：先扣前100千瓦时的电费}\\par 前100千瓦时收费\\(2\\times100=200\\)元。\\(260>200\\)，可确定确实用到了每千瓦时3元的高档电量；余60元除以高档单价，求得超过100千瓦时的部分。\\[\\begin{aligned} &(260-2\\times100)\\div3+100\\\\ ={}&(260-200)\\div3+100\\\\ ={}&60\\div3+100\\\\ ={}&20+100\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。\\par \\textbf{方法二：把已付费用补成全按3元计费}\\par 前100千瓦时每千瓦时少收1元，补上100元后除以每千瓦时3元。\\[\\begin{aligned} &[260+(3-2)\\times100]\\div3\\\\ ={}&(260+1\\times100)\\div3\\\\ ={}&(260+100)\\div3\\\\ ={}&360\\div3\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。\\par ",
+          "new": "\\textbf{方法一：先扣前100千瓦时的电费}\\par 前100千瓦时收费\\(2\\times100=200\\)元。\\(260>200\\)，可确定确实用到了每千瓦时3元的高档电量；余60元除以高档单价，求得超过100千瓦时的部分。\\[\\begin{aligned} &(260-2\\times100)\\div3+100\\\\ ={}&(260-200)\\div3+100\\\\ ={}&60\\div3+100\\\\ ={}&20+100\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。\\par \\textbf{方法二：把已付费用补成全按3元计费}\\par 前100千瓦时每千瓦时少收1元，补上100元后除以每千瓦时3元。\\[\\begin{aligned} &[260+(3-2)\\times100]\\div3\\\\ ={}&[260+1\\times100]\\div3\\\\ ={}&[260+100]\\div3\\\\ ={}&360\\div3\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。\\par "
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "latex",
+          "old": "前100千瓦时收费200元，260元已超过这个金额，才可确定用了第二档电量。方法一用超出200元的费用除以每千瓦时3元，求超出100千瓦时的部分后再加100；方法二把前100千瓦时少收的差价补回，使费用相当于全按3元收取，再求总电量。\\par 先核实\\(260>2\\times100\\)，已用到第二档电量。\\textbf{方法一：先扣第一档电费}\\[\\begin{aligned} &(260-2\\times100)\\div3+100\\\\ ={}&(260-200)\\div3+100\\\\ ={}&60\\div3+100\\\\ ={}&20+100\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]\\textbf{方法二：把费用补成全按高价计费}\\[\\begin{aligned} &[260+(3-2)\\times100]\\div3\\\\ ={}&(260+1\\times100)\\div3\\\\ ={}&(260+100)\\div3\\\\ ={}&360\\div3\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。",
+          "new": "前100千瓦时收费200元，260元已超过这个金额，才可确定用了第二档电量。方法一用超出200元的费用除以每千瓦时3元，求超出100千瓦时的部分后再加100；方法二把前100千瓦时少收的差价补回，使费用相当于全按3元收取，再求总电量。\\par 先核实\\(260>2\\times100\\)，已用到第二档电量。\\textbf{方法一：先扣第一档电费}\\[\\begin{aligned} &(260-2\\times100)\\div3+100\\\\ ={}&(260-200)\\div3+100\\\\ ={}&60\\div3+100\\\\ ={}&20+100\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]\\textbf{方法二：把费用补成全按高价计费}\\[\\begin{aligned} &[260+(3-2)\\times100]\\div3\\\\ ={}&[260+1\\times100]\\div3\\\\ ={}&[260+100]\\div3\\\\ ={}&360\\div3\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "(260+1\\times100)\\div3",
+          "new": "[260+1\\times100]\\div3"
+        },
+        {
+          "old": "(260+100)\\div3",
+          "new": "[260+100]\\div3"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\textbf{方法一：先扣前100千瓦时的电费}\\par 前100千瓦时收费\\(2\\times100=200\\)元。\\(260>200\\)，可确定确实用到了每千瓦时3元的高档电量；余60元除以高档单价，求得超过100千瓦时的部分。\\[\\begin{aligned} &(260-2\\times100)\\div3+100\\\\ ={}&(260-200)\\div3+100\\\\ ={}&60\\div3+100\\\\ ={}&20+100\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。\\par \\textbf{方法二：把已付费用补成全按3元计费}\\par 前100千瓦时每千瓦时少收1元，补上100元后除以每千瓦时3元。\\[\\begin{aligned} &[260+(3-2)\\times100]\\div3\\\\ ={}&[260+1\\times100]\\div3\\\\ ={}&[260+100]\\div3\\\\ ={}&360\\div3\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。\\par ",
+      "final_note_latex": "前100千瓦时收费200元，260元已超过这个金额，才可确定用了第二档电量。方法一用超出200元的费用除以每千瓦时3元，求超出100千瓦时的部分后再加100；方法二把前100千瓦时少收的差价补回，使费用相当于全按3元收取，再求总电量。\\par 先核实\\(260>2\\times100\\)，已用到第二档电量。\\textbf{方法一：先扣第一档电费}\\[\\begin{aligned} &(260-2\\times100)\\div3+100\\\\ ={}&(260-200)\\div3+100\\\\ ={}&60\\div3+100\\\\ ={}&20+100\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]\\textbf{方法二：把费用补成全按高价计费}\\[\\begin{aligned} &[260+(3-2)\\times100]\\div3\\\\ ={}&[260+1\\times100]\\div3\\\\ ={}&[260+100]\\div3\\\\ ={}&360\\div3\\\\ ={}&120\\text{（千瓦时）}\\end{aligned}\\]答：11月份用了120千瓦时电。",
+      "local_replacements": []
+    },
+    {
+      "key": "p099_s05",
+      "book_page": 99,
+      "id": "三、2（3）",
+      "answer_pdf_page": 103,
+      "old_answer_latex": "除以一个商，可以先除以被除数，再乘除数；先算\\(960\\div48\\)较简便。\\[\\begin{aligned}&960\\div[(32+16)\\div4]\\\\={}&960\\div(48\\div4)\\\\={}&960\\div48\\times4\\\\={}&20\\times4\\\\={}&80\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p099.json",
+          "field": "answer_latex",
+          "old": "除以一个商，可以先除以被除数，再乘除数；先算\\(960\\div48\\)较简便。\\[\\begin{aligned}&960\\div[(32+16)\\div4]\\\\={}&960\\div(48\\div4)\\\\={}&960\\div48\\times4\\\\={}&20\\times4\\\\={}&80\\end{aligned}\\]",
+          "new": "除以一个商，可以先除以被除数，再乘除数；先算\\(960\\div48\\)较简便。\\[\\begin{aligned}&960\\div[(32+16)\\div4]\\\\={}&960\\div[48\\div4]\\\\={}&960\\div48\\times4\\\\={}&20\\times4\\\\={}&80\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}={}&960\\div(48\\div4)\\\\={}&960\\div48\\times4\\\\={}&20\\times4\\\\={}&80\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}={}&960\\div[48\\div4]\\\\={}&960\\div48\\times4\\\\={}&20\\times4\\\\={}&80\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "960\\div(48\\div4)",
+          "new": "960\\div[48\\div4]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "除以一个商，可以先除以被除数，再乘除数；先算\\(960\\div48\\)较简便。\\[\\begin{aligned}&960\\div[(32+16)\\div4]\\\\={}&960\\div[48\\div4]\\\\={}&960\\div48\\times4\\\\={}&20\\times4\\\\={}&80\\end{aligned}\\]",
+      "final_note_latex": "先算最内层的和32加16，得到48，中括号内整体是48除以4的商。除以这个商可转为先除以48再乘4，这里的除以4要变为乘4，才能保持商不变；也可先把中括号算成12再除，检验结果相同。",
+      "local_replacements": [
+        {
+          "rect": [
+            388,
+            290,
+            560,
+            359
+          ],
+          "latex": "\\[\\begin{aligned}={}&960\\div[48\\div4]\\\\={}&960\\div48\\times4\\\\={}&20\\times4\\\\={}&80\\end{aligned}\\]",
+          "reason": "黑题干已有原式，红步骤从第一个等号开始。补齐独立乘法同时计算的中间行，并明确写乘号；不能用括号并置代替×。 本次单独扩大旧红擦除区至覆盖左侧旧等号，摆放框独立设置。",
+          "target_rect": [
+            366.767,
+            290,
+            560,
+            359
+          ]
+        }
+      ]
+    },
+    {
+      "key": "p104_s02",
+      "book_page": 104,
+      "id": "五、2",
+      "answer_pdf_page": 108,
+      "old_answer_latex": "\\textbf{方法一：按六双一组，求付费双数}\\par 买5双送1双，6双为一组；12双有2组，每组付5双的钱。\\[\\begin{aligned}&4.68\\times[5\\times(12\\div(5+1))]\\\\={}&4.68\\times[5\\times(12\\div6)]\\\\={}&4.68\\times(5\\times2)\\\\={}&4.68\\times10\\\\={}&46.8\\text{（元）}\\end{aligned}\\]答：12双袜子共花46.8元。\\par \\textbf{方法二：化成整数分，再扣赠品标价}\\par \\(4.68\\text{元}=468\\text{分}\\)。12双中有2双赠送，列总标价减赠品标价，再用乘法分配律合并为10份，避免先算两个大乘积。\\[\\begin{aligned}&468\\times12-468\\times[12\\div(5+1)]\\\\={}&468\\times12-468\\times(12\\div6)\\\\={}&468\\times12-468\\times2\\\\={}&468\\times(12-2)\\\\={}&468\\times10\\\\={}&4680\\text{（分）}\\end{aligned}\\]\\(4680\\text{分}=46.8\\text{元}\\)。答：12双袜子共花46.8元。",
+      "field_changes": [
+        {
+          "file": "questions/p104.json",
+          "field": "answer_latex",
+          "old": "\\textbf{方法一：按六双一组，求付费双数}\\par 买5双送1双，6双为一组；12双有2组，每组付5双的钱。\\[\\begin{aligned}&4.68\\times[5\\times(12\\div(5+1))]\\\\={}&4.68\\times[5\\times(12\\div6)]\\\\={}&4.68\\times(5\\times2)\\\\={}&4.68\\times10\\\\={}&46.8\\text{（元）}\\end{aligned}\\]答：12双袜子共花46.8元。\\par \\textbf{方法二：化成整数分，再扣赠品标价}\\par \\(4.68\\text{元}=468\\text{分}\\)。12双中有2双赠送，列总标价减赠品标价，再用乘法分配律合并为10份，避免先算两个大乘积。\\[\\begin{aligned}&468\\times12-468\\times[12\\div(5+1)]\\\\={}&468\\times12-468\\times(12\\div6)\\\\={}&468\\times12-468\\times2\\\\={}&468\\times(12-2)\\\\={}&468\\times10\\\\={}&4680\\text{（分）}\\end{aligned}\\]\\(4680\\text{分}=46.8\\text{元}\\)。答：12双袜子共花46.8元。",
+          "new": "\\textbf{方法一：按六双一组，求付费双数}\\par 买5双送1双，6双为一组；12双有2组，每组付5双的钱。\\[\\begin{aligned}&4.68\\times[5\\times(12\\div(5+1))]\\\\={}&4.68\\times[5\\times(12\\div6)]\\\\={}&4.68\\times[5\\times2]\\\\={}&4.68\\times10\\\\={}&46.8\\text{（元）}\\end{aligned}\\]答：12双袜子共花46.8元。\\par \\textbf{方法二：化成整数分，再扣赠品标价}\\par \\(4.68\\text{元}=468\\text{分}\\)。12双中有2双赠送，列总标价减赠品标价，再用乘法分配律合并为10份，避免先算两个大乘积。\\[\\begin{aligned}&468\\times12-468\\times[12\\div(5+1)]\\\\={}&468\\times12-468\\times[12\\div6]\\\\={}&468\\times12-468\\times2\\\\={}&468\\times(12-2)\\\\={}&468\\times10\\\\={}&4680\\text{（分）}\\end{aligned}\\]\\(4680\\text{分}=46.8\\text{元}\\)。答：12双袜子共花46.8元。"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "latex",
+          "old": "买五送一是每6双中付5双的钱，12双正好两组。原法先求付费双数，再用4.68乘10移动小数点，已经简便，予以保留。另法把4.68元换成468分，从12双的总标价中扣2双赠品的标价；计算时用乘法分配律先合并为10份468分，不必先算两个大乘积。\\par 另法：\\(4.68\\text{元}=468\\text{分}\\)。\\[\\begin{aligned}&468\\times12-468\\times[12\\div(5+1)]\\\\={}&468\\times12-468\\times(12\\div6)\\\\={}&468\\times12-468\\times2\\\\={}&468\\times(12-2)\\\\={}&468\\times10\\\\={}&4680\\text{（分）}\\end{aligned}\\]\\(4680\\text{分}=46.8\\text{元}\\)。",
+          "new": "买五送一是每6双中付5双的钱，12双正好两组。原法先求付费双数，再用4.68乘10移动小数点，已经简便，予以保留。另法把4.68元换成468分，从12双的总标价中扣2双赠品的标价；计算时用乘法分配律先合并为10份468分，不必先算两个大乘积。\\par 另法：\\(4.68\\text{元}=468\\text{分}\\)。\\[\\begin{aligned}&468\\times12-468\\times[12\\div(5+1)]\\\\={}&468\\times12-468\\times[12\\div6]\\\\={}&468\\times12-468\\times2\\\\={}&468\\times(12-2)\\\\={}&468\\times10\\\\={}&4680\\text{（分）}\\end{aligned}\\]\\(4680\\text{分}=46.8\\text{元}\\)。"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}&4.68\\times[5\\times(12\\div(5+1))]\\\\={}&4.68\\times[5\\times(12\\div6)]\\\\={}&4.68\\times(5\\times2)\\\\={}&4.68\\times10\\\\={}&46.8\\text{（元）}\\end{aligned}\\]答：12双袜子共花46.8元。",
+          "new": "\\[\\begin{aligned}&4.68\\times[5\\times(12\\div(5+1))]\\\\={}&4.68\\times[5\\times(12\\div6)]\\\\={}&4.68\\times[5\\times2]\\\\={}&4.68\\times10\\\\={}&46.8\\text{（元）}\\end{aligned}\\]答：12双袜子共花46.8元。"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "4.68\\times(5\\times2)",
+          "new": "4.68\\times[5\\times2]"
+        },
+        {
+          "old": "468\\times12-468\\times(12\\div6)",
+          "new": "468\\times12-468\\times[12\\div6]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "\\textbf{方法一：按六双一组，求付费双数}\\par 买5双送1双，6双为一组；12双有2组，每组付5双的钱。\\[\\begin{aligned}&4.68\\times[5\\times(12\\div(5+1))]\\\\={}&4.68\\times[5\\times(12\\div6)]\\\\={}&4.68\\times[5\\times2]\\\\={}&4.68\\times10\\\\={}&46.8\\text{（元）}\\end{aligned}\\]答：12双袜子共花46.8元。\\par \\textbf{方法二：化成整数分，再扣赠品标价}\\par \\(4.68\\text{元}=468\\text{分}\\)。12双中有2双赠送，列总标价减赠品标价，再用乘法分配律合并为10份，避免先算两个大乘积。\\[\\begin{aligned}&468\\times12-468\\times[12\\div(5+1)]\\\\={}&468\\times12-468\\times[12\\div6]\\\\={}&468\\times12-468\\times2\\\\={}&468\\times(12-2)\\\\={}&468\\times10\\\\={}&4680\\text{（分）}\\end{aligned}\\]\\(4680\\text{分}=46.8\\text{元}\\)。答：12双袜子共花46.8元。",
+      "final_note_latex": "买五送一是每6双中付5双的钱，12双正好两组。原法先求付费双数，再用4.68乘10移动小数点，已经简便，予以保留。另法把4.68元换成468分，从12双的总标价中扣2双赠品的标价；计算时用乘法分配律先合并为10份468分，不必先算两个大乘积。\\par 另法：\\(4.68\\text{元}=468\\text{分}\\)。\\[\\begin{aligned}&468\\times12-468\\times[12\\div(5+1)]\\\\={}&468\\times12-468\\times[12\\div6]\\\\={}&468\\times12-468\\times2\\\\={}&468\\times(12-2)\\\\={}&468\\times10\\\\={}&4680\\text{（分）}\\end{aligned}\\]\\(4680\\text{分}=46.8\\text{元}\\)。",
+      "local_replacements": [
+        {
+          "rect": [
+            70.5,
+            270,
+            315,
+            340
+          ],
+          "latex": "\\[\\begin{aligned}&4.68\\times[5\\times(12\\div(5+1))]\\\\={}&4.68\\times[5\\times(12\\div6)]\\\\={}&4.68\\times[5\\times2]\\\\={}&4.68\\times10\\\\={}&46.8\\text{（元）}\\end{aligned}\\]答：12双袜子共花46.8元。",
+          "reason": "原红区仍按rect恢复背景；目标延伸到本题答区下方白处，距下一黑题干仍有空隙。保留12÷6必要中间行和一次完整答语，不缩字号。 本次单独扩大旧红擦除区至覆盖左侧旧等号，摆放框独立设置。",
+          "target_rect": [
+            72,
+            270,
+            315,
+            369
+          ]
+        }
+      ],
+      "ppt_only_row_replacements": [
+        {
+          "old": "4.68\\times(5\\times(12\\div6))",
+          "new": "4.68\\times[5\\times(12\\div6)]",
+          "reason": "源本行已正确用中括号，旧PPT续行外层未同步；仅改外层括号，不改内层、数字或步骤。"
+        }
+      ]
+    },
+    {
+      "key": "p107_s08",
+      "book_page": 107,
+      "id": "三、3（4）",
+      "answer_pdf_page": 111,
+      "old_answer_latex": "先算最内层差，再把15与4凑成整十除数60。\\[\\begin{aligned}&840\\div[15\\times(81-77)]\\\\={}&840\\div(15\\times4)\\\\={}&840\\div60\\\\={}&14\\end{aligned}\\]",
+      "field_changes": [
+        {
+          "file": "questions/p107.json",
+          "field": "answer_latex",
+          "old": "先算最内层差，再把15与4凑成整十除数60。\\[\\begin{aligned}&840\\div[15\\times(81-77)]\\\\={}&840\\div(15\\times4)\\\\={}&840\\div60\\\\={}&14\\end{aligned}\\]",
+          "new": "先算最内层差，再把15与4凑成整十除数60。\\[\\begin{aligned}&840\\div[15\\times(81-77)]\\\\={}&840\\div[15\\times4]\\\\={}&840\\div60\\\\={}&14\\end{aligned}\\]"
+        },
+        {
+          "file": "detailed_layout/notes_D.json",
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}={}&840\\div(15\\times4)\\\\={}&840\\div60\\\\={}&14\\end{aligned}\\]",
+          "new": "\\[\\begin{aligned}={}&840\\div[15\\times4]\\\\={}&840\\div60\\\\={}&14\\end{aligned}\\]"
+        }
+      ],
+      "row_replacements": [
+        {
+          "old": "840\\div(15\\times4)",
+          "new": "840\\div[15\\times4]"
+        }
+      ],
+      "reason": "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。",
+      "answer_latex": "先算最内层差，再把15与4凑成整十除数60。\\[\\begin{aligned}&840\\div[15\\times(81-77)]\\\\={}&840\\div[15\\times4]\\\\={}&840\\div60\\\\={}&14\\end{aligned}\\]",
+      "final_note_latex": "先算最内层81减77得4，再把15与4相乘凑成整十数60，直接用840除以60。这里除以的是积，算出这个易算的积比拆成先除以15再除以4更简便；除数是60，不能误当成15与4的和。",
+      "local_replacements": [
+        {
+          "rect": [
+            277,
+            447,
+            478,
+            527
+          ],
+          "latex": "\\[\\begin{aligned}={}&840\\div[15\\times4]\\\\={}&840\\div60\\\\={}&14\\end{aligned}\\]",
+          "reason": "黑题干已有原式，红步骤从第一个等号开始。补齐独立乘法同时计算的中间行，并明确写乘号；不能用括号并置代替×。 本次单独扩大旧红擦除区至覆盖左侧旧等号，摆放框独立设置。",
+          "target_rect": [
+            276.433,
+            447,
+            478,
+            527
+          ]
+        }
+      ]
+    }
+  ],
+  "records_reviewed": 867,
+  "only_bracket_glyphs_changed": true,
+  "no_new_calculation_steps": true,
+  "results_unchanged": true,
+  "source_pdf_baseline_sha256": "6368cf44ed10565b8249b02791c38dafbe6b6a42ecc81a0ccef6ab63afc1f9b8",
+  "original_source_row_sync_manifest": "bracket_update/new_local_patches.json",
+  "field_change_count": 66,
+  "ppt_only_row_replacement_count": 2,
+  "source_unique_row_replacement_count": 60,
+  "ppt_total_row_replacement_count": 62
+}

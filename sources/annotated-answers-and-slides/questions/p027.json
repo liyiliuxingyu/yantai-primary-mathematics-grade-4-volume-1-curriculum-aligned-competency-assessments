@@ -1,0 +1,295 @@
+{
+  "book_page": 27,
+  "source_page": 31,
+  "title": "",
+  "records": [
+    {
+      "key": "p027_s01",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 0,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\(435-142-58\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先把减数合并为整百数。\\[\\begin{aligned} &435-142-58\\\\={}&435-(142+58)\\\\={}&435-200\\\\={}&235\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得235，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s02",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 1,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\(68\\times67+32\\times67\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "反用乘法分配律。\\[\\begin{aligned} &68\\times67+32\\times67\\\\={}&(68+32)\\times67\\\\={}&100\\times67\\\\={}&6700\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得6700，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s03",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 2,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\(215-98\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把98看作100，减多的2要补回。\\[\\begin{aligned} &215-98\\\\={}&215-100+2\\\\={}&115+2\\\\={}&117\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得117，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s04",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 3,
+      "id": "三、2（4）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\(99\\times99+99\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把末尾99看作99乘1。\\[\\begin{aligned} &99\\times99+99\\\\={}&99\\times(99+1)\\\\={}&99\\times100\\\\={}&9900\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得9900，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s05",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 4,
+      "id": "三、2（5）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\(3600\\div25\\div4\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "连续除以两数，改成除以它们的积。\\[\\begin{aligned} &3600\\div25\\div4\\\\={}&3600\\div(25\\times4)\\\\={}&3600\\div100\\\\={}&36\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得36，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s06",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 5,
+      "id": "三、2（6）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\(25\\times32\\times125\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把\\(32\\)分成\\(4\\times8\\)，用乘法结合律把\\(25\\)与\\(4\\)、\\(8\\)与\\(125\\)分别结合凑整。\\par \\[\\begin{aligned} &25\\times32\\times125\\\\={}&(25\\times4)\\times(8\\times125)\\\\={}&100\\times1000\\\\={}&100000\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得100000，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s07",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 6,
+      "id": "三、2（7）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\((25+11)\\times40\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "用乘法分配律。\\[\\begin{aligned} &(25+11)\\times40\\\\={}&25\\times40+11\\times40\\\\={}&1000+440\\\\={}&1440\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得1440，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s08",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 7,
+      "id": "三、2（8）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\(357-156-144+43\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先用减法的性质合并减数156和144，再用加法交换律、结合律，让357与43凑400；每个减数仍须被减去。\\par 把加数凑400、减数凑300。\\[\\begin{aligned} &357-156-144+43\\\\={}&(357+43)-(156+144)\\\\={}&400-300\\\\={}&100\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得100，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s09",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 8,
+      "id": "三、2（9）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：\\(280\\div35\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "35拆成7乘5。\\[\\begin{aligned} &280\\div35\\\\={}&280\\div7\\div5\\\\={}&40\\div5\\\\={}&8\\end{aligned}\\]另一算法：\\[\\begin{aligned} &280\\div35\\\\={}&(280\\times2)\\div(35\\times2)\\\\={}&560\\div70\\\\={}&8\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "按凑整/运算律简算并独立验得8，不以普通顺序运算另列一法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s10",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 9,
+      "id": "四、1",
+      "kind": "application",
+      "question_latex": "为了迎接学校的体质健康达标测试，小明从周一到周四坚持每天练习跳绳，每天的跳绳次数如下：156下、195下、144下、205下。这四天他一共跳了多少下？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "四天总数就是四天各自次数的和。先用运算律使计算简便，再按原顺序复核；这是同一个数量关系的两种计算次序。\\par 主解：用交换律和结合律先凑整\\par \\[\\begin{aligned} &156+195+144+205\\\\={}&(156+144)+(195+205)\\\\={}&300+400\\\\={}&700\\text{(下)}\\end{aligned}\\]答：这四天一共跳了700下。\\par 验算：按日期依次求累计数\\par \\[\\begin{aligned} &156+195+144+205\\\\={}&351+144+205\\\\={}&495+205\\\\={}&700\\text{(下)}\\end{aligned}\\]答：这四天一共跳了700下。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "凑整(156+144)+(195+205)=300+400=700下；按日累计仅作验算不另计解法。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p027_s11",
+      "book_page": 27,
+      "source_page": 31,
+      "section_index": 10,
+      "id": "四、2",
+      "kind": "application",
+      "question_latex": "AI智能物流仓库采用机器人分拣快递，仓库一共有12个分拣区，每个分拣区域分成4个工作小组，每个工作小组有25台智能分拣机器人。这个仓库一共有多少台分拣机器人？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先求每区台数，再求全仓库台数。\\[\\begin{aligned}&25\\times4\\times12\\\\={}&100\\times12\\\\={}&1200\\text{(台)}\\end{aligned}\\]答：这个仓库一共有1200台分拣机器人。\\par 方法二：按全仓库小组数列式，再用乘法结合律先凑100。\\[\\begin{aligned}&25\\times(4\\times12)\\\\={}&(25\\times4)\\times12\\\\={}&100\\times12\\\\={}&1200\\text{(台)}\\end{aligned}\\]答：这个仓库一共有1200台分拣机器人。两者是数量分析路径不同，变形后的计算方法相同。",
+      "verification": {
+        "status": "verified",
+        "reason": "每组25台×每区4组×12区=1200台；可先求每区台数或先求全部组数。",
+        "changes": [
+          "简便计算复核：主法已把25与4凑100；另一路数量分析却直接算25×48。保留先求总小组数的分析，计算按乘法结合律先凑100；这不是增加一种新方法。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

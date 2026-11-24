@@ -1,0 +1,371 @@
+{
+  "book_page": 85,
+  "source_page": 89,
+  "records": [
+    {
+      "key": "p085_s01",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "总复习（二）（图形与几何）。时间：90分钟；满分：100分（知识：98分，卷面：2分）。\\par 一、填空。（每空1分，共23分）\\par 1. 一条直线的平行线有（    ）条，过直线外一点可以画（    ）条直线与这条直线垂直。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填无数、\\(1\\)。一条直线可有无数条不同距离的平行线；在同一平面内，过直线外同一点只能作一条垂线。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s02",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "2. 长方形的邻边相互（    ），对边相互（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填垂直、平行。长方形的四个内角都是直角，相邻两边互相垂直；两组对边分别平行。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s03",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "3. 以平行四边形的一条边为底，能作出（    ）条高，这些高的长度（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填无数、相等。以一条边为底，从对边任意一点向这条底作垂线段，都得到这个底上的高，所以有无数条。它们都是同一组平行线之间的垂线段，两条平行线间距离处处相等，因此同一底上的高都相等；不能把另一组底所对应的高混在一起比较。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s04",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "4. 右图中，有（    ）个三角形，有（    ）个平行四边形，有（    ）个梯形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p085_s04_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=1.1]\\coordinate (A) at (0,2);\\coordinate (B) at (1,2);\\coordinate (C) at (2,2);\\coordinate (D) at (4,2);\\coordinate (E) at (1,0);\\coordinate (F) at (2,0);\\coordinate (G) at (3,0);\\draw (A)--(D)--(G)--(E)--cycle;\\draw (B)--(E) (B)--(F) (C)--(F) (C)--(G);\\end{tikzpicture}",
+          "notes": "顶点未加字母；字母仅解析中约定。"
+        }
+      ],
+      "answer_latex": "依次填\\(5,4,6\\)。把上方从左到右四点记为\\(A,B,C,D\\)，下方从左到右三点记为\\(E,F,G\\)。\\par 三角形共\\(5\\)个：\\[\\begin{array}{ccc}ABE&BEF&BCF\\\\CFG&CDG&\\end{array}\\]平行四边形共\\(4\\)个：\\[\\begin{array}{cc}ABFE&ACGE\\\\BCFE&BCGF\\end{array}\\]恰有一组对边平行的梯形共\\(6\\)个：\\[\\begin{array}{cc}ACFE&ADGE\\\\BCGE&BDGE\\\\BDGF&CDGF\\end{array}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s05",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 4,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "5. 已知一个三角形的两条边长分别是\\(5\\,\\mathrm{cm}\\)和\\(9\\,\\mathrm{cm}\\)，第三条边最长是（    ）\\(\\mathrm{cm}\\)，最短是（    ）\\(\\mathrm{cm}\\)。（取整厘米数）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(13\\)、\\(5\\)。三角形任意两边之和都要大于第三边。因此第三边要小于\\(5+9=14\\)，又要满足\\(5+x>9\\)，即大于\\(9-5=4\\)。所以\\(4<x<14\\)，取整厘米时最长\\(13\\)厘米、最短\\(5\\)厘米。取\\(4\\)或\\(14\\)会使两条短边的和等于长边，只能排成线段，不能围成三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s06",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 5,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "6. 如图，在直角三角形\\(ABC\\)中（单位：厘米），\\(BC\\)边上的高是（    ）厘米，\\(AB\\)边上的高是（    ）厘米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p085_s06_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\coordinate[label=below left:A](A) at (0,0);\\coordinate[label=below right:B](B) at (4,0);\\coordinate[label=above:C](C) at (0,3);\\coordinate[label=above right:D](D) at (1.44,1.92);\\draw (A)--(B)--(C)--cycle;\\draw (A)--(D);\\draw (0,.18)--(.18,.18)--(.18,0);\\node[below] at (2,0){4};\\node[left] at (0,1.5){3};\\node[right] at (.68,.8){原标待核};\\end{tikzpicture}",
+          "notes": "只保留可辨AB=4、AC=3与高线位置作示意；不把计算推得的BC=5补作原已知。AD标长待核。"
+        }
+      ],
+      "answer_latex": "以BC为底，高是从顶点A向BC所作的线段AD；以AB为底，高是线段AC，AC=3厘米。原扫描AD斜标末位近似6，可能为2.6，不能把原标已核清说成2.4。第一个数值空暂标“待核”，第二个空填3。若原书确认AD=2.4，第一个空填2.4；若原标确为2.6，则按原标读数是2.6，同时需确认其与其余尺寸是否一致。本题不采用尚未学习的面积法反推原图应印何数。",
+      "verification": {
+        "status": "conditional",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [
+          "原图AD等标长干扰严重；原答案按AD=2.4、AC=3条件性作答，须保留。"
+        ],
+        "left_patch": [
+          {
+            "rect": [
+              136.8,
+              520,
+              151.8,
+              532.3
+            ],
+            "old": "2.4",
+            "new_latex": "待核",
+            "size": 8
+          }
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s07",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 6,
+      "id": "一、7（1）",
+      "kind": "fill",
+      "question_latex": "7. 下面哪些是平移现象，哪些是旋转现象？\\par （1）张叔叔在公路上开车，方向盘的运动是（    ）现象。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填旋转。方向盘绕固定的转轴转动，各点围绕同一个中心改变方向。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s08",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 7,
+      "id": "一、7（2）",
+      "kind": "fill",
+      "question_latex": "（2）升国旗时，国旗的上升运动是（    ）现象。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填平移。国旗整体沿旗杆向上移动，形状、大小和朝向不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s09",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 8,
+      "id": "一、7（3）",
+      "kind": "fill",
+      "question_latex": "（3）妈妈用拖布拖地，是（    ）现象。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填平移。用耙布拖地时，按题中直线推动的运动理解，耙布整体沿同一方向移动。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s10",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 9,
+      "id": "一、7（4）",
+      "kind": "fill",
+      "question_latex": "（4）小明骑自行车，车轮的运动是（    ）现象。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填旋转。车轮绕车轴转动。这里判断的是“车轮转动”，不是自行车整体前进。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s11",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 10,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "8. 正方形有（    ）条对称轴，等边三角形有（    ）条对称轴，等腰梯形有（    ）条对称轴。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(4,3,1\\)。正方形的4条对称轴是两条对角线所在的直线和两组对边中点连线所在的直线；等边三角形有3条；通常所说的等腰梯形有经过两底中点的1条。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "规范对称轴的直线表述，条数不变。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p085_s12",
+      "book_page": 85,
+      "source_page": 89,
+      "section_index": 11,
+      "id": "一、9（钟面）",
+      "kind": "fill",
+      "question_latex": "9. 钟面显示的是（    ）时，将分针顺时针旋转〔原扫描中个数不清〕个直角后是（    ）时（    ）分。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p085_s12_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\draw (0,0) circle(1.4);\\foreach \\a/\\n in {90/12,60/1,30/2,0/3,-30/4,-60/5,-90/6,-120/7,-150/8,180/9,150/10,120/11}\\node at (\\a:1.15){\\n};\\draw[line width=1.2pt] (0,0)--(0,1);\\draw[line width=1.8pt] (0,0)--(.6,0);\\fill (0,0)circle(.04);\\end{tikzpicture}",
+          "notes": "可辨钟面为3时；题干直角的个数原扫描不清，未把90°补入已知条件。"
+        }
+      ],
+      "answer_latex": "钟面可以读作\\(3\\)时。原扫描中可辨认“直角”，但旋转几个直角的数字不清，后两个空暂不能唯一确定。\\par 仅在该处为“1个直角”，即\\(90^\\circ\\)的条件下：钟面每一大格对应\\(30^\\circ\\)，分针转过的大格数是\\[\\begin{aligned}&90\\div30\\\\={}&3\\text{(大格)}\\end{aligned}\\]每大格表示5分钟，经过的时间按“每格分钟数\\(\\times\\)格数”计算：\\[\\begin{aligned}&5\\times3\\\\={}&15\\text{(分钟)}\\end{aligned}\\]所以在这个条件下，后两个空填3、15，即3时15分。原题的旋转个数核清前，不能把这个条件解当作无条件答案。",
+      "verification": {
+        "status": "conditional",
+        "reason": "重新查看原始扫描钟面及原题文字，保留可辨的“个直角”表述；缺损个数不猜补。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "修复“旋转[角度原扫描不清]，直角后”的不通顺转录，保留原文可辨的直角单位。",
+          "仅把1个直角（90°）作为条件分支；分钟计算统一为5×3。"
+        ],
+        "uncertainties": [
+          "旋转直角的个数原扫描不清。只有在1个直角（90°）的条件下，后两空才为3、15。"
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

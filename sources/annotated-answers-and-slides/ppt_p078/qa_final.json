@@ -1,0 +1,142 @@
+{
+  "passed": true,
+  "scope": "第78页第1/5/6题与选择题标题；仅第5册9张更新，其余5册原字节保留。",
+  "checks": {
+    "package_integrity": true,
+    "all_relationship_targets_exist": true,
+    "relationship_count_checked": 5458,
+    "only_whitelisted_slide_parts_changed": true,
+    "all_other_original_parts_byte_identical": true,
+    "all_433_slide_timing_xml_byte_identical": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "q4_original_B_D_ambiguity_retained_byte_identical": true,
+    "question_text_editable": true,
+    "formulas_native_omml_with_compiled_svg_png": true,
+    "graph_is_real_tikz_vector": true
+  },
+  "volumes": [
+    {
+      "volume": 1,
+      "output": "/workspace/scratch/1facfb035d44/p78_review/deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+      "output_sha256": "bfa33453d07728ee480a771f3c5f130926e77cf3f41cf9d96c1fbe19f7ca6a57",
+      "source_sha256": "bfa33453d07728ee480a771f3c5f130926e77cf3f41cf9d96c1fbe19f7ca6a57",
+      "slides": 426,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    },
+    {
+      "volume": 2,
+      "output": "/workspace/scratch/1facfb035d44/p78_review/deliverables/讲解课件/小学四上同步素养卷第2册讲解课件答案.pptx",
+      "output_sha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+      "source_sha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+      "slides": 479,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    },
+    {
+      "volume": 3,
+      "output": "/workspace/scratch/1facfb035d44/p78_review/deliverables/讲解课件/小学四上同步素养卷第3册讲解课件答案.pptx",
+      "output_sha256": "7544ada9a6313730ef63b09977f93cf07ae58afe24873eb3c14dbf0788c2bc58",
+      "source_sha256": "7544ada9a6313730ef63b09977f93cf07ae58afe24873eb3c14dbf0788c2bc58",
+      "slides": 406,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    },
+    {
+      "volume": 4,
+      "output": "/workspace/scratch/1facfb035d44/p78_review/deliverables/讲解课件/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "output_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+      "source_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+      "slides": 462,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    },
+    {
+      "volume": 5,
+      "output": "/workspace/scratch/1facfb035d44/p78_review/deliverables/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+      "output_sha256": "78a82b8be17b7ea20eef6c24cc0219242b29d360578e12da3079e4cc228413d6",
+      "source_sha256": "3bb0302a9a348168d58850989e6268892082f898bd2ea7f91549c7c52f32d038",
+      "slides": 433,
+      "changed_slides": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        129,
+        130,
+        132,
+        134
+      ],
+      "byte_identical_to_previous": false
+    },
+    {
+      "volume": 6,
+      "output": "/workspace/scratch/1facfb035d44/p78_review/deliverables/讲解课件/小学四上同步素养卷第6册讲解课件答案.pptx",
+      "output_sha256": "ffff509562a452719d19d614169fb4728271f9de41d84418727104d3791e22fc",
+      "source_sha256": "ffff509562a452719d19d614169fb4728271f9de41d84418727104d3791e22fc",
+      "slides": 464,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    }
+  ],
+  "changed_slides": [
+    115,
+    116,
+    117,
+    118,
+    119,
+    129,
+    130,
+    132,
+    134
+  ],
+  "static_render": {
+    "renderer": "Artifact Tool",
+    "entire_final_deck_imported": true,
+    "imported_slides": 433,
+    "exported_and_visually_reviewed_slides": [
+      115,
+      116,
+      117,
+      118,
+      119,
+      129,
+      130,
+      132,
+      134
+    ],
+    "unmodified_slides_not_rerendered": 424,
+    "render_directory": "/workspace/scratch/1facfb035d44/p78_review/ppt_p078/after_final"
+  },
+  "mathematics": {
+    "example_sums": [
+      408,
+      408,
+      408
+    ],
+    "example_rider_counts": [
+      0,
+      1,
+      2
+    ],
+    "no_140_boundary_admission_claim": true,
+    "total_height": 408,
+    "three_riders_lower_bound": 420,
+    "question5_no_invented_temperature_values": true
+  },
+  "native_powerpoint_playback_tested": false,
+  "native_wps_playback_tested": false,
+  "native_impress_playback_tested": false,
+  "native_playback_limitation": "CUA and Sky application inventories were checked. No Impress, WPS or PowerPoint GUI app was available; only a headless LibreOfficeDev runtime was found. No GUI animation-playback test is claimed.",
+  "original_animations": {
+    "slide_counts_unchanged": true,
+    "original_timing_xml_bytes_unchanged_all_slides": true,
+    "original_shape_id_name_order_preserved": true,
+    "new_section_instruction_static_only": true
+  },
+  "real_limits": [
+    "Static render and package checks do not constitute native click-by-click playback.",
+    "Original question4 B/D ambiguity is retained and explained; no unique choice is fabricated."
+  ]
+}

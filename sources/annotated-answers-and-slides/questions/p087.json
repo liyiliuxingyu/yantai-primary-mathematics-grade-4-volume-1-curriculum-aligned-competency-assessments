@@ -1,0 +1,891 @@
+{
+  "book_page": 87,
+  "source_page": 91,
+  "records": [
+    {
+      "key": "p087_s01",
+      "book_page": 87,
+      "source_page": 91,
+      "section_index": 0,
+      "id": "四、1（1）",
+      "kind": "drawing",
+      "question_latex": "四、操作。（共27分）\\par 1.（1）画出左图的另一半，使它成为一个轴对称图形。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p087_s01_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,6);\\draw[dashed] (4,0)--(4,6);\\draw[thick] (4,4)--(2,4)--(1,6)--(1,1)--(2,3)--(4,3);\\draw[thick] (12,3)--(13.5,5)--(15,3)--cycle;\\node[below left] at (12,3){O};\\end{tikzpicture}",
+          "notes": "左半图描粗；虚线轴x=4。",
+          "animation": {
+            "type": "symmetry",
+            "object_points": [
+              [
+                4,
+                4
+              ],
+              [
+                2,
+                4
+              ],
+              [
+                1,
+                6
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            "axis": [
+              [
+                4,
+                0
+              ],
+              [
+                4,
+                6
+              ]
+            ],
+            "diagram_name": "p087_s01_g1"
+          }
+        },
+        {
+          "name": "p087_s01_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,6);\\draw[dashed] (4,0)--(4,6);\\draw[thick] (4,4)--(2,4)--(1,6)--(1,1)--(2,3)--(4,3);\\draw[thick] (12,3)--(13.5,5)--(15,3)--cycle;\\node[below left] at (12,3){O};\\draw[red,thick] (4,4)--(6,4)--(7,6)--(7,1)--(6,3)--(4,3);\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "以虚线为对称轴，逐个顶点数到轴的水平格数，再在轴另一侧同一水平线上取相同距离的点，按原轮廓顺次连接。对称轴上的点保持原位，对应连线垂直于对称轴；不能只凭形状相像。左页红线按这一点对点规则补出。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "symmetry",
+          "object_points": [
+            [
+              4,
+              4
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              6
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "axis": [
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              6
+            ]
+          ],
+          "diagram_name": "p087_s01_g1"
+        }
+      ]
+    },
+    {
+      "key": "p087_s02",
+      "book_page": 87,
+      "source_page": 91,
+      "section_index": 1,
+      "id": "四、1（2）",
+      "kind": "drawing",
+      "question_latex": "（2）将右图绕点\\(O\\)顺时针旋转\\(90^\\circ\\)，再向左平移\\(3\\)格。（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p087_s02_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,6);\\draw[dashed] (4,0)--(4,6);\\draw[thick] (4,4)--(2,4)--(1,6)--(1,1)--(2,3)--(4,3);\\draw[thick] (12,3)--(13.5,5)--(15,3)--cycle;\\node[below left] at (12,3){O};\\end{tikzpicture}",
+          "animations": [
+            {
+              "type": "rotation",
+              "object_points": [
+                [
+                  12,
+                  3
+                ],
+                [
+                  13.5,
+                  5
+                ],
+                [
+                  15,
+                  3
+                ]
+              ],
+              "center": [
+                12,
+                3
+              ],
+              "angle": 90,
+              "direction": "clockwise",
+              "diagram_name": "p087_s02_g1"
+            },
+            {
+              "type": "translation",
+              "object_points": [
+                [
+                  12,
+                  3
+                ],
+                [
+                  14,
+                  1.5
+                ],
+                [
+                  12,
+                  0
+                ]
+              ],
+              "dx": -3,
+              "dy": 0,
+              "diagram_name": "p087_s02_g1"
+            }
+          ]
+        },
+        {
+          "name": "p087_s02_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,6);\\draw[dashed] (4,0)--(4,6);\\draw[thick] (4,4)--(2,4)--(1,6)--(1,1)--(2,3)--(4,3);\\draw[thick] (12,3)--(13.5,5)--(15,3)--cycle;\\node[below left] at (12,3){O};\\draw[red,thick] (9,3)--(11,1.5)--(9,0)--cycle;\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "先绕\\(O\\)顺时针旋转\\(90^\\circ\\)，再向左平移\\(3\\)格。先确认旋转的三个要素：中心\\(O\\)、顺时针方向、角度\\(90^\\circ\\)。\\par 旋转时\\(O\\)不动，其他顶点到\\(O\\)的距离不变；从\\(O\\)出发的每条对应线段顺时针转成直角。再按“向左、\\(3\\)格”将旋转所得图形的三个顶点各移相同格数，依次相连。第二步针对旋转后的图形，不能直接平移原图。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "rotation",
+          "object_points": [
+            [
+              12,
+              3
+            ],
+            [
+              13.5,
+              5
+            ],
+            [
+              15,
+              3
+            ]
+          ],
+          "center": [
+            12,
+            3
+          ],
+          "angle": 90,
+          "direction": "clockwise",
+          "diagram_name": "p087_s02_g1"
+        },
+        {
+          "type": "translation",
+          "object_points": [
+            [
+              12,
+              3
+            ],
+            [
+              14,
+              1.5
+            ],
+            [
+              12,
+              0
+            ]
+          ],
+          "dx": -3,
+          "dy": 0,
+          "diagram_name": "p087_s02_g1"
+        }
+      ]
+    },
+    {
+      "key": "p087_s03",
+      "book_page": 87,
+      "source_page": 91,
+      "section_index": 2,
+      "id": "四、2（1）",
+      "kind": "drawing",
+      "question_latex": "2.（1）将图形向上平移\\(3\\)格后，再向右平移\\(5\\)格。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p087_s03_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,9);\\draw[dashed] (4,0)--(4,9);\\draw[thick] (1,3)--(1,5)--(4,3)--cycle;\\node[below right] at (4,3){O};\\end{tikzpicture}",
+          "animation": {
+            "type": "translation",
+            "object_points": [
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                5
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            "dx": 5,
+            "dy": 3,
+            "diagram_name": "p087_s03_g1"
+          }
+        },
+        {
+          "name": "p087_s03_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,9);\\draw[dashed] (4,0)--(4,9);\\draw[thick] (1,3)--(1,5)--(4,3)--cycle;\\node[below right] at (4,3){O};\\draw[red,thick] (6,6)--(6,8)--(9,6)--cycle;\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "标①的红图是原三角形先向上\\(3\\)格、再向右\\(5\\)格后的图。每个顶点都按同一平移过程移动，两条直角边的方向、长度不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "translation",
+          "object_points": [
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              5
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "dx": 5,
+          "dy": 3,
+          "diagram_name": "p087_s03_g1"
+        }
+      ]
+    },
+    {
+      "key": "p087_s04",
+      "book_page": 87,
+      "source_page": 91,
+      "section_index": 3,
+      "id": "四、2（2）",
+      "kind": "drawing",
+      "question_latex": "（2）将图形绕点\\(O\\)顺时针旋转\\(90^\\circ\\)。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p087_s04_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,9);\\draw[dashed] (4,0)--(4,9);\\draw[thick] (1,3)--(1,5)--(4,3)--cycle;\\node[below right] at (4,3){O};\\end{tikzpicture}",
+          "animation": {
+            "type": "rotation",
+            "object_points": [
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                5
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            "center": [
+              4,
+              3
+            ],
+            "angle": 90,
+            "direction": "clockwise",
+            "diagram_name": "p087_s04_g1"
+          }
+        },
+        {
+          "name": "p087_s04_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,9);\\draw[dashed] (4,0)--(4,9);\\draw[thick] (1,3)--(1,5)--(4,3)--cycle;\\node[below right] at (4,3){O};\\draw[red,thick] (4,6)--(6,6)--(4,3)--cycle;\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "标②的红图是原三角形绕\\(O\\)顺时针旋转\\(90^\\circ\\)后的图。\\(O\\)保持不动，原来朝左的边转到朝上，另一个顶点应随同一方向转动，不能把整个图平移到别处。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "rotation",
+          "object_points": [
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              5
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "center": [
+            4,
+            3
+          ],
+          "angle": 90,
+          "direction": "clockwise",
+          "diagram_name": "p087_s04_g1"
+        }
+      ]
+    },
+    {
+      "key": "p087_s05",
+      "book_page": 87,
+      "source_page": 91,
+      "section_index": 4,
+      "id": "四、2（3）",
+      "kind": "drawing",
+      "question_latex": "（3）以已知直线为对称轴作对称图形。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p087_s05_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,9);\\draw[dashed] (4,0)--(4,9);\\draw[thick] (1,3)--(1,5)--(4,3)--cycle;\\node[below right] at (4,3){O};\\end{tikzpicture}",
+          "animation": {
+            "type": "symmetry",
+            "object_points": [
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                5
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            "axis": [
+              [
+                4,
+                0
+              ],
+              [
+                4,
+                9
+              ]
+            ],
+            "diagram_name": "p087_s05_g1"
+          }
+        },
+        {
+          "name": "p087_s05_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.42]\\draw[step=1,gray!50] (0,0) grid (17,9);\\draw[dashed] (4,0)--(4,9);\\draw[thick] (1,3)--(1,5)--(4,3)--cycle;\\node[below right] at (4,3){O};\\draw[red,thick] (7,3)--(7,5)--(4,3)--cycle;\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "标③的红图是关于已知竖直虚线的轴对称图。原图左侧各顶点映到轴右侧，距离相同；轴上的\\(O\\)保持原位。三次操作分别针对原图，不是把①接着变成②、③。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "symmetry",
+          "object_points": [
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              5
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "axis": [
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              9
+            ]
+          ],
+          "diagram_name": "p087_s05_g1"
+        }
+      ]
+    },
+    {
+      "key": "p087_s06",
+      "book_page": 87,
+      "source_page": 91,
+      "section_index": 5,
+      "id": "四、3",
+      "kind": "drawing",
+      "question_latex": "3. 分别画出下面图形底边上的高。（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p087_s06_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\draw (0,0)--(1,2.5)--(3,0)--cycle;\\node[below] at (1.5,0){底};\\draw (4,0)--(4.5,2)--(7.5,2)--(7,0)--cycle;\\node[below] at (5.5,0){底};\\draw (9,0)--(8.2,1.7)--(11.4,1.7)--(10.6,0)--cycle;\\node[above] at (9.8,1.7){底};\\end{tikzpicture}"
+        },
+        {
+          "name": "p087_s06_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\draw (0,0)--(1,2.5)--(3,0)--cycle;\\node[below] at (1.5,0){底};\\draw (4,0)--(4.5,2)--(7.5,2)--(7,0)--cycle;\\node[below] at (5.5,0){底};\\draw (9,0)--(8.2,1.7)--(11.4,1.7)--(10.6,0)--cycle;\\node[above] at (9.8,1.7){底};\\draw[red,dashed] (1,2.5)--(1,0) (4.5,2)--(4.5,0) (9,0)--(9,1.7);\\draw[red] (1,.18)--(1.18,.18)--(1.18,0) (4.5,.18)--(4.68,.18)--(4.68,0) (9,1.52)--(9.18,1.52)--(9.18,1.7);\\node[red,right] at (1,1.2){高};\\node[red,right] at (4.5,1){高};\\node[red,right] at (9,.8){高};\\end{tikzpicture}",
+          "animations": [
+            {
+              "type": "altitude",
+              "vertex": [
+                1,
+                2.5
+              ],
+              "foot": [
+                1,
+                0
+              ],
+              "base": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  0
+                ]
+              ],
+              "diagram_name": "p087_s06_a1",
+              "object_points": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  1,
+                  2.5
+                ],
+                [
+                  3,
+                  0
+                ]
+              ]
+            },
+            {
+              "type": "altitude",
+              "vertex": [
+                4.5,
+                2
+              ],
+              "foot": [
+                4.5,
+                0
+              ],
+              "base": [
+                [
+                  4,
+                  0
+                ],
+                [
+                  7,
+                  0
+                ]
+              ],
+              "diagram_name": "p087_s06_a1",
+              "object_points": [
+                [
+                  4,
+                  0
+                ],
+                [
+                  4.5,
+                  2
+                ],
+                [
+                  7.5,
+                  2
+                ],
+                [
+                  7,
+                  0
+                ]
+              ]
+            },
+            {
+              "type": "altitude",
+              "vertex": [
+                9,
+                0
+              ],
+              "foot": [
+                9,
+                1.7
+              ],
+              "base": [
+                [
+                  8.2,
+                  1.7
+                ],
+                [
+                  11.4,
+                  1.7
+                ]
+              ],
+              "diagram_name": "p087_s06_a1",
+              "object_points": [
+                [
+                  9,
+                  0
+                ],
+                [
+                  8.2,
+                  1.7
+                ],
+                [
+                  11.4,
+                  1.7
+                ],
+                [
+                  10.6,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "answer_latex": "三角形：从上方顶点向标“底”的下边作垂线段。平行四边形：从上边顶点向下底作垂线段。梯形：从下底端点向标“底”的上边作垂线段。\\par 使用三角尺时，一条直角边靠住底所在直线，沿底移动到需要经过的顶点，再沿另一条直角边画出高。每条高都须与对应底垂直，垂足位于底所在直线上，直角标记贴住垂足；斜腰不能直接当作高。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [
+          [
+            227.5,
+            479.5,
+            229.7,
+            539.7
+          ],
+          [
+            316,
+            489,
+            318.3,
+            539.7
+          ],
+          [
+            434.6,
+            496,
+            436.9,
+            541.2
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "altitude",
+          "vertex": [
+            1,
+            2.5
+          ],
+          "foot": [
+            1,
+            0
+          ],
+          "base": [
+            [
+              0,
+              0
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "diagram_name": "p087_s06_a1",
+          "object_points": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              2.5
+            ],
+            [
+              3,
+              0
+            ]
+          ]
+        },
+        {
+          "type": "altitude",
+          "vertex": [
+            4.5,
+            2
+          ],
+          "foot": [
+            4.5,
+            0
+          ],
+          "base": [
+            [
+              4,
+              0
+            ],
+            [
+              7,
+              0
+            ]
+          ],
+          "diagram_name": "p087_s06_a1",
+          "object_points": [
+            [
+              4,
+              0
+            ],
+            [
+              4.5,
+              2
+            ],
+            [
+              7.5,
+              2
+            ],
+            [
+              7,
+              0
+            ]
+          ]
+        },
+        {
+          "type": "altitude",
+          "vertex": [
+            9,
+            0
+          ],
+          "foot": [
+            9,
+            1.7
+          ],
+          "base": [
+            [
+              8.2,
+              1.7
+            ],
+            [
+              11.4,
+              1.7
+            ]
+          ],
+          "diagram_name": "p087_s06_a1",
+          "object_points": [
+            [
+              9,
+              0
+            ],
+            [
+              8.2,
+              1.7
+            ],
+            [
+              11.4,
+              1.7
+            ],
+            [
+              10.6,
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "p087_s07",
+      "book_page": 87,
+      "source_page": 91,
+      "section_index": 6,
+      "id": "五、1（1）",
+      "kind": "drawing",
+      "question_latex": "五、解决问题。（共24分）\\par 1.（1）请你画一条从王庄到加油站最近的路。（3分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p087_s07_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw (0,0)--(3,3) (.7,-.7)--(3.7,2.3);\\node[rotate=45,fill=white] at (2,1.2){公路};\\coordinate (W) at (5,0);\\coordinate (G) at (1.3,-.1);\\fill(W)circle(.04)node[below]{王庄};\\fill(G)circle(.04)node[left]{加油站};\\end{tikzpicture}"
+        },
+        {
+          "name": "p087_s07_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw (0,0)--(3,3) (.7,-.7)--(3.7,2.3);\\node[rotate=45,fill=white] at (2,1.2){公路};\\coordinate (W) at (5,0);\\coordinate (G) at (1.3,-.1);\\fill(W)circle(.04)node[below]{王庄};\\fill(G)circle(.04)node[left]{加油站};\\draw[red,thick] (W)--(G);\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "王庄与加油站作为两个位置点，直接连接这两点，得到最短路线；依据是两点之间线段最短。左页“到加油站”的红线连接的是这两个位置。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p087_s08",
+      "book_page": 87,
+      "source_page": 91,
+      "section_index": 7,
+      "id": "五、1（2）",
+      "kind": "drawing",
+      "question_latex": "（2）请你画一条从王庄到公路最近的路。（3分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p087_s08_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw (0,0)--(3,3) (.7,-.7)--(3.7,2.3);\\node[rotate=45,fill=white] at (2,1.2){公路};\\coordinate (W) at (5,0);\\coordinate (G) at (1.3,-.1);\\fill(W)circle(.04)node[below]{王庄};\\fill(G)circle(.04)node[left]{加油站};\\end{tikzpicture}"
+        },
+        {
+          "name": "p087_s08_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw (0,0)--(3,3) (.7,-.7)--(3.7,2.3);\\node[rotate=45,fill=white] at (2,1.2){公路};\\coordinate (W) at (5,0);\\coordinate (G) at (1.3,-.1);\\fill(W)circle(.04)node[below]{王庄};\\fill(G)circle(.04)node[left]{加油站};\\coordinate(H) at (3.2,1.8);\\draw[red,dashed] (W)--(H);\\draw[red] (3.32,1.68)--(3.44,1.8)--(3.32,1.92);\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "从王庄向靠近王庄的公路边线作垂线段，垂足就在该边线上，直角标记须贴住交点。这条“到公路”的红线最短，依据是点到直线的所有连线中垂线段最短。两道“最短”所对应的对象不同。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

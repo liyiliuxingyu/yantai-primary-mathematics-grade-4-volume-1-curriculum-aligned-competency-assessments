@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "baseline_sha256": "7ee463cc70a39ee8bf42a1acfbeac4750635163c2e715a57157c1d4a3828039b",
+  "pptx_sha256": "ce1bcd5f88be540cff76995d59d5e8995ec3466aefef7b0cf44f455e666a3b46",
+  "slides": 426,
+  "changed_slides": [
+    218,
+    219,
+    220,
+    221
+  ],
+  "changed_zip_parts": [
+    "ppt/slides/slide218.xml",
+    "ppt/slides/slide219.xml",
+    "ppt/media/image765.png",
+    "ppt/media/image765.svg",
+    "ppt/slides/slide220.xml",
+    "ppt/slides/slide221.xml"
+  ],
+  "all_unaffected_parts_identical": true,
+  "shape_ids_names_and_order_unchanged": true,
+  "animation_timing_xml_unchanged": true,
+  "answer": "A",
+  "AC_cm": 3,
+  "AB_cm": 4,
+  "BC_cm": 5,
+  "native_playback_tested": false,
+  "source_files": [
+    "tikz/p010_s04_g1.tikz.tex",
+    "figures/p010_s04_g1.tex",
+    "diagram_index.json",
+    "tikz_index.json",
+    "ppt_builder/current_metadata/volume01/manifest.json",
+    "ppt_builder/current_metadata/volume01/manifest.index.json",
+    "ppt_builder/final_answers.json",
+    "ppt_builder/final_answers_a.json",
+    "ppt_builder/merge_final_answers.py",
+    "vertical_update/ppt/assets/p010_s04_g1.svg",
+    "vertical_update/ppt/assets/p010_s04_g1.png",
+    "ppt_builder/current_inventory.json",
+    "ppt_builder/final_answers_audit.json",
+    "vertical_update/ppt/geometry_patch.json",
+    "vertical_update/ppt/qa_geometry.json",
+    "vertical_update/ppt/finalizer.json"
+  ],
+  "static_rendered_slides": [
+    218,
+    219,
+    220,
+    221
+  ],
+  "visual_review_passed": true,
+  "finalizer_passed": true,
+  "whole_deck_import_passed": true,
+  "package_integrity_passed": true,
+  "layout_passed": true,
+  "changed_media_owner_slides": [
+    219
+  ]
+}

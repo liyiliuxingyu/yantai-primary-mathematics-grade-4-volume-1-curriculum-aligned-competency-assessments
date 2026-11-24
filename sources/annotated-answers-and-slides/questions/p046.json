@@ -1,0 +1,352 @@
+{
+  "book_page": 46,
+  "source_page": 50,
+  "records": [
+    {
+      "key": "p046_s01",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 0,
+      "id": "一、10",
+      "kind": "fill",
+      "question_latex": "在直角三角形\\(ABC\\)中（单位：厘米），\\(AC\\)边上的高是（　）厘米，\\(AB\\)边上的高是（　）厘米。三角形（　）中（　）边上的高是1.9厘米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p046_s01_g1",
+          "tikz": "\\begin{tikzpicture}[scale=1.1]\\coordinate(A)at(0,3.4);\\coordinate(B)at(0,0);\\coordinate(C)at(4,0);\\coordinate(D)at($(A)!(B)!(C)$);\\coordinate(H)at($(B)!(D)!(C)$);\\draw(A)--(B)--(C)--cycle;\\draw[dashed](B)--node[above left]{1.8}(D)--node[right]{1.9}(H);\\pic[draw,angle radius=2mm]{right angle=B--D--C};\\pic[draw,angle radius=2mm]{right angle=D--H--C};\\draw(0,0)rectangle(.22,.22);\\node[left]at(0,1.7){3.4};\\node[below]at(2,0){4};\\node[above]at(A){$A$};\\node[below left]at(B){$B$};\\node[below right]at(C){$C$};\\node[above right]at(D){$D$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "原图给定标注本身矛盾，本重绘保留条件标注与底高关系，不声称按量值比例。"
+        }
+      ],
+      "answer_latex": "依次填\\(1.8,4,BCD,BC\\)。先找底，再找“从对面顶点到这条底所在直线”的垂线段，不能看哪一条边画得较斜或较短。\\par 以\\(AC\\)为底，高是\\(BD\\)，按标注为1.8厘米；以\\(AB\\)为底，高是与它垂直的\\(BC\\)，长4厘米。直角三角形的两条直角边可以互为底和高。\\(D\\)到\\(BC\\)的垂线段标为1.9厘米，因此在三角形\\(BCD\\)中，以\\(BC\\)为底，对应高按图为1.9厘米。\\par 原图的尺寸不能同时成立：\\(D\\)到\\(BC\\)的垂直线段长1.9厘米，却比从\\(D\\)到直线上一点\\(B\\)的线段\\(DB=1.8\\)厘米还长，违反“垂线段最短”。以上只按题图标示识别底高关系，不能据这些冲突尺寸另作精确图。",
+      "verification": {
+        "status": "needs_review",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [
+          "原图尺寸互相矛盾：D到BC的垂直距离1.9厘米大于DB的1.8厘米。只能按标注识别对应底高，不能绘成全部量值同时成立的精确图。"
+        ],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s02",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 1,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "下列算式中正确的是（　）。",
+      "options": [
+        "A. \\(480\\div12\\times4=480\\div(12\\times4)\\)",
+        "B. \\(630\\div(7\\times9)=630\\div7\\times9\\)",
+        "C. \\(25\\times(40+8)=25\\times40+8\\)",
+        "D. \\(900\\div25\\div4=900\\div(25\\times4)\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选D。\\(900\\div25\\div4=900\\div(25\\times4)=9\\)，符合连续除法的性质。A把“除后乘4”改成“再除4”；B同样把除以9改成乘9；C漏乘了括号里的8。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s03",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 2,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "一幢大楼有25层，每层有18扇窗户，每扇窗户有4块玻璃，这幢大楼一共有多少块玻璃？下面列式正确的是（　）。",
+      "options": [
+        "A. \\(25\\times(18+4)\\)",
+        "B. \\(25\\times18\\times4\\)",
+        "C. \\(25\\times18-4\\)",
+        "D. \\(25\\times18\\div4\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。每扇4块，先求18扇一层的玻璃数，再求25层：\\[\\begin{aligned}&4\\times18\\times25\\\\={}&(4\\times25)\\times18\\\\={}&100\\times18\\\\={}&1800\\text{(块)}\\end{aligned}\\]选项\\(25\\times18\\times4\\)与此式由乘法交换律相等。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "简便计算复核：原旁注只解释三个因数的数量含义，没有展示4×25凑100的适合简算。选择答案B保持不变，先按每窗4块的数量关系列式，再依法交换结合。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s04",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 3,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "下列各组小棒中（单位：厘米），能围成三角形的是（　）。",
+      "options": [
+        "A. 3、4、7",
+        "B. 2、3、6",
+        "C. 6、6、10",
+        "D. 5、2、2"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。C中两短边之和\\(6+6=12>10\\)，能围成三角形。A为\\(3+4=7\\)，B为\\(2+3<6\\)，D为\\(2+2<5\\)，均不行。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s05",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 4,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "\\(34\\times(\\triangle+\\square)=34\\times\\triangle+34\\times\\square\\)，这是运用了（　）。",
+      "options": [
+        "A. 加法交换律",
+        "B. 乘法结合律",
+        "C. 乘法分配律",
+        "D. 乘法交换律"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。\\(34\\times(\\triangle+\\square)=34\\times\\triangle+34\\times\\square\\)，把34分别乘两个加数，应用的是乘法分配律。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s06",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 5,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "在梯形里画一条线段，把梯形分成两个图形，这两个图形不可能是（　）。",
+      "options": [
+        "A. 两个梯形",
+        "B. 两个三角形",
+        "C. 两个平行四边形",
+        "D. 一个三角形和一个平行四边形"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。一刀分成两个平行四边形，会使外部图形也具有两组对边分别平行，与原梯形“只有一组对边平行”矛盾。因此不可能分成两个平行四边形；其余三类均能画出实例。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s07",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 6,
+      "id": "三、1",
+      "kind": "calculation",
+      "question_latex": "直接写得数。\\(12\\times9=\\)，\\(152\\times4=\\)，\\(600\\div25=\\)，\\((12+8)\\times5=\\)，\\(397-23\\times6=\\)；\\(125\\times8=\\)，\\(24\\times5=\\)，\\(480\\div80\\div6=\\)，\\(49\\times31\\approx\\)，\\(61\\times95\\approx\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "第一行依次为\\(108,608,24,100,259\\)，第二行依次为\\(1000,120,1,1500,6000\\)。\\par \\(12\\times9=108\\)，\\(152\\times4=608\\)，\\(600\\div25=600\\times4\\div100=24\\)，\\((12+8)\\times5=100\\)。\\par \\(397-23\\times6=397-138=259\\)；\\(125\\times8=1000\\)，\\(24\\times5=120\\)，\\(480\\div80\\div6=6\\div6=1\\)。\\par 估算：\\(49\\times31\\approx50\\times30=1500\\)，\\(61\\times95\\approx60\\times100=6000\\)。估算写约等号，不能把估计值当精确值。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s08",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 7,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "计算下面各题，能简算的要简算。\\(480-12\\times(360\\div18)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先算括号内除法。\\[\\begin{aligned}&480-12\\times(360\\div18)\\\\&=480-12\\times20\\\\&=480-240\\\\&=240.\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s09",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 8,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "计算下面各题，能简算的要简算。\\(45\\times[(63+177)\\div24]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按括号层次计算。\\[\\begin{aligned}&45\\times[(63+177)\\div24]\\\\&=45\\times[240\\div24]\\\\&=45\\times10\\\\&=450.\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s10",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 9,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "计算下面各题，能简算的要简算。\\(136\\times101-136\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把单独的136看作\\(136\\times1\\)，运用乘法分配律逆用凑出100。\\[\\begin{aligned}&136\\times101-136\\\\={}&136\\times(101-1)\\\\={}&136\\times100\\\\={}&13600\\end{aligned}\\]展开成“13600加136再减136”是同一凑整结构的另写法，不另列一种解法。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "合并同一凑100结构的重复方法。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p046_s11",
+      "book_page": 46,
+      "source_page": 50,
+      "section_index": 10,
+      "id": "三、2（4）",
+      "kind": "calculation",
+      "question_latex": "计算下面各题，能简算的要简算。\\(125\\times48\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：拆48为\\(8\\times6\\)，运用乘法结合律。\\[\\begin{aligned}&125\\times48\\\\={}&125\\times(8\\times6)\\\\={}&(125\\times8)\\times6\\\\={}&1000\\times6\\\\={}&6000\\end{aligned}\\]\\par 方法二：把48看作\\(50-2\\)，用乘法分配律。\\[\\begin{aligned}&125\\times48\\\\={}&125\\times(50-2)\\\\={}&125\\times50-125\\times2\\\\={}&6250-250\\\\={}&6000\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "补全结合律括号与分配律展开行。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

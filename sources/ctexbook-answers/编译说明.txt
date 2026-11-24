@@ -1,0 +1,16 @@
+小学同步素养四年级上册数学答案 · ctexbook 窄边距重排版
+
+从源码目录打开 main.tex，用 XeLaTeX 连续编译两次生成目录和页签。
+建议使用已安装 ctex、Fandol、TikZ、AMS-LaTeX 和 hyperref 的完整 TeX Live。
+使用命令行时，在源码目录执行：
+
+    xelatex -halt-on-error -interaction=nonstopmode main.tex
+    xelatex -halt-on-error -interaction=nonstopmode main.tex
+
+若 TeX 环境尚未配置 Latin Modern 字体映射，请先完成 TeX Live 的
+字体映射配置。在分步编译的环境中，可用 XeLaTeX 的 -no-pdf 选项生成
+main.xdv，再用 xdvipdfmx 加载发行版自带的 lm.map 转为 PDF。
+
+main.tex 使用 ctexbook 文档类。正文内边距 22 毫米，外边距 18 毫米。chapters 存放正文与目录结构，
+figures 中的 TeX 文件可直接编辑 TikZ 图。assets/reference.pdf 为
+原书参考答案的矢量复刻，保留题序、原字形与图表。符号子集字体的授权见同目录内的许可证文件。

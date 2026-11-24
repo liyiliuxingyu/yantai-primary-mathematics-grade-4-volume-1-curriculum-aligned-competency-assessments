@@ -1,0 +1,333 @@
+{
+  "book_page": 15,
+  "source_page": 19,
+  "title": "",
+  "records": [
+    {
+      "key": "p015_s01",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 0,
+      "id": "三、1（1）",
+      "kind": "calculation",
+      "question_latex": "列竖式计算：\\(258\\times13=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(258\\times13\\)的部分积是\\(774\\)与\\(2580\\)，合计\\(3354\\)。\\[\\begin{array}{r}258\\\\\\times13\\\\\\hline774\\\\2580\\\\\\hline3354\\end{array}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "258×3=774，258×10=2580，共3354。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p015_s02",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 1,
+      "id": "三、1（2）",
+      "kind": "calculation",
+      "question_latex": "列竖式计算：\\(754\\div26=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(754\\div26=29\\)。先用\\(75\\)商\\(2\\)，\\(26\\times2=52\\)，余\\(23\\)；落下\\(4\\)得\\(234\\)，再商\\(9\\)，\\(26\\times9=234\\)，余\\(0\\)。检验\\(26\\times29=754\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "26×29=754，商29。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p015_s03",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 2,
+      "id": "三、1（3）",
+      "kind": "calculation",
+      "question_latex": "列竖式计算：\\(308\\times25=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(308\\times25\\)的部分积是\\(1540\\)与\\(6160\\)，合计\\(7700\\)。也可把\\(25\\)看作\\(100\\div4\\)，算\\(308\\div4\\times100=77\\times100=7700\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "308×5=1540，308×20=6160，共7700。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p015_s04",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 3,
+      "id": "三、1（4）",
+      "kind": "calculation",
+      "question_latex": "列竖式计算：\\(552\\div69=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(552\\div69=8\\)。因为\\(69\\times8=552\\)，正好除尽，余数是\\(0\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "69×8=552，商8。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p015_s05",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 4,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(4000-15\\times(24+195)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&4000-15\\times(24+195)\\\\&=4000-15\\times219\\\\&=4000-3285\\\\&=715\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&4000-15\\times219\\\\={}&4000-15\\times(220-1)\\\\={}&4000-(3300-15)\\\\={}&4000-3300+15\\\\={}&700+15\\\\={}&715\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "24+195=219，15×219=3285，4000−3285=715。",
+        "changes": [
+          "简便计算复核：把219看成220−1，乘积为3300−15，外层减法先得700，再补回15；避免15×219及4000−3285。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p015_s06",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 5,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(180\\div[(84-12)\\div4]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&180\\div[(84-12)\\div4]\\\\&=180\\div[72\\div4]\\\\&=180\\div18\\\\&=10\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "84−12=72，72÷4=18，180÷18=10。",
+        "changes": [
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p015_s07",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 6,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(34\\times[160-(60-15)]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&34\\times[160-(60-15)]\\\\&=34\\times[160-45]\\\\&=34\\times115\\\\&=3910\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&34\\times[160-(60-15)]\\\\={}&34\\times[160-60+15]\\\\={}&34\\times[100+15]\\\\={}&34\\times100+34\\times15\\\\={}&3400+510\\\\={}&3910\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "60−15=45，160−45=115，34×115=3910。",
+        "changes": [
+          "简便计算复核：减去60−15改成减60加15，160−60凑100，再分配34×(100+15)，明确简算依据及符号。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p015_s08",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 7,
+      "id": "三、2（4）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\([288\\div(295-289)]\\times17\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&[288\\div(295-289)]\\times17\\\\&=[288\\div6]\\times17\\\\&=48\\times17\\\\&=816\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号与除法照常求得48，最后可把48看成50少2，按乘法分配律同时算50乘17与2乘17。\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "295−289=6，288÷6=48，48×17=816。",
+        "changes": [
+          "本轮复核：48×17可用48=50−2作补偿，把两个因数均两位的乘法改成乘50减乘2。原48×(10+7)仅为常规分位口算；此补偿为可选较顺手结构，不宜把所有分位乘法都新增。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p015_s09",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 8,
+      "id": "四、画一画",
+      "kind": "drawing",
+      "question_latex": "过点\\(A\\)作已知直线的垂线段，在该垂线段上取点\\(B\\)，使\\(AB=3\\)厘米，再过点\\(B\\)画出已知直线的平行线。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(-1,.3)--(4,-1.2);\\fill(3,-.9)circle(1.5pt)node[below left]{$A$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。",
+          "name": "p015_s09_g1"
+        },
+        {
+          "name": "p015_s09_answer",
+          "tikz": "\\begin{tikzpicture}\\draw(-1,.3)--(4,-1.2);\\fill(3,-.9)circle(1.5pt)node[below left]{$A$};\\draw[red,dashed](3.000000,-0.900000)--(3.862044,1.973479);\\draw[red](1.862044,2.573479)--(5.862044,1.373479);\\draw[red](3.124517,-0.937355)--(3.161873,-0.812838)--(3.037355,-0.775483);\\fill[red](3.862044,1.973479) circle(1.5pt)node[above]{$B$};\\node[red,right]at(3.431022,0.536739){3厘米};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "AB取3厘米且垂直已知线，过B的新线平行已知线。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "先过黑点\\(A\\)作已知直线的垂线，再沿该垂线量取\\(AB=3\\)厘米，标出点\\(B\\)。最后过\\(B\\)作与原直线平行的直线。\\par 核对三点：\\(A,B\\)都在同一条垂线上；\\(AB\\)的实际长度是\\(3\\)厘米；过\\(B\\)的新直线与原线方向相同。直角符号标在\\(A\\)处。",
+      "verification": {
+        "status": "verified",
+        "reason": "A在已知线上，AB应垂直已知线且长3厘米；过B平行线与已知线间距3厘米。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 218,
+        "y0": 510,
+        "x1": 379,
+        "y1": 580
+      },
+      "animation": {
+        "type": "perpendicular",
+        "vertex": [
+          3,
+          -0.9
+        ],
+        "foot": [
+          3,
+          -0.9
+        ],
+        "base": [
+          [
+            -1,
+            0.3
+          ],
+          [
+            4,
+            -1.2
+          ]
+        ],
+        "endpoint": [
+          3.862044,
+          1.973479
+        ],
+        "length_cm": 3,
+        "labels": {
+          "vertex": "A",
+          "endpoint": "B"
+        }
+      }
+    },
+    {
+      "key": "p015_s10",
+      "book_page": 15,
+      "source_page": 19,
+      "section_index": 9,
+      "id": "五、1",
+      "kind": "drawing",
+      "question_latex": "小鸭很擅长游泳，在陆地上走路却很费劲。它打算从自己家到小鸡家玩耍（如图）。想一想，怎样走才能最省力气？请画出路线图。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(0,2)--(4,.5);\\draw(-.4,1.7)--(3.2,-1);\\foreach \\y in {.8,1.05,1.3}{\\draw[dashed,gray](.4,\\y)to[bend left=8](2.7,\\y-.8);}\\fill(-.6,-.9)circle(1.5pt)node[right]{小鸭家};\\fill(4,1.9)circle(1.5pt)node[above]{小鸡家};\\node at(3.5,-.65){河};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "原图河岸为斜边非定量示意，不额外设为平行；先分别最短化两段陆路。",
+          "name": "p015_s10_g1"
+        },
+        {
+          "name": "p015_s10_answer",
+          "tikz": "\\begin{tikzpicture}\\draw(0,2)--(4,.5);\\draw(-.4,1.7)--(3.2,-1);\\foreach \\y in {.8,1.05,1.3}{\\draw[dashed,gray](.4,\\y)to[bend left=8](2.7,\\y-.8);}\\fill(-.6,-.9)circle(1.5pt)node[right]{小鸭家};\\fill(4,1.9)circle(1.5pt)node[above]{小鸡家};\\node at(3.5,-.65){河};\\draw[red](-0.600000,-0.900000)--(0.720000,0.860000);\\draw[red](0.720000,0.860000)--(3.539726,0.672603);\\draw[red](3.539726,0.672603)--(4.000000,1.900000);\\draw[red](0.824000,0.782000)--(0.746000,0.678000)--(0.642000,0.756000);\\draw[red](3.661449,0.626957)--(3.707095,0.748679)--(3.585372,0.794326);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "两段陆路分别取到各自近岸的垂线段，水路连接两垂足。"
+        }
+      ],
+      "answer_latex": "题目强调小鸭在陆地上走路费劲，因此让两段\\textbf{陆地路程最短}：从小鸭家向近岸作垂线段，到垂足下水；再从小鸡家向另一岸作垂线段，把垂足作为上岸点；水中连接两个垂足。\\par 两段陆地路线都应与对应河岸垂直。这里依据“点到直线的垂线段最短”；水中连接两点则用线段最短。",
+      "verification": {
+        "status": "verified",
+        "reason": "在不计水中费力的题意下，从两家分别向各自近岸作垂线段，水中连接两垂足；不将整体最短距离冒充最省陆地力气。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 380,
+        "y0": 657,
+        "x1": 519,
+        "y1": 771
+      }
+    }
+  ]
+}

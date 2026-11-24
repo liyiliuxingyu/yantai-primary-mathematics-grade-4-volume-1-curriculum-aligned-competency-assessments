@@ -1,0 +1,23 @@
+{
+  "import_succeeded": true,
+  "import_scope": "Only the selected exact slide XML subset; full-deck import failed twice with WASM memory access out of bounds.",
+  "native_powerpoint_playback_tested": false,
+  "source_sha256": "ffff509562a452719d19d614169fb4728271f9de41d84418727104d3791e22fc",
+  "subset_sha256": "eb3b67fcc5ecb298131abdf72938f33b59c2ca052eefccebb45d66ac1b9bc9b1",
+  "rendered": [
+    2,
+    4,
+    5,
+    13,
+    16,
+    92,
+    128,
+    222,
+    350,
+    352,
+    433
+  ],
+  "selected_parts_byte_identical": true,
+  "slides": 11,
+  "renderer": "ArtifactTool"
+}

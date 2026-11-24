@@ -1,0 +1,59 @@
+[
+  {
+    "diagram_name": "p086_s05_g1",
+    "book_page": 86,
+    "source_pdf_page": 90,
+    "input_pdf_page": 116,
+    "question_key": "p086_s05",
+    "question_id": "二、5",
+    "role": "question",
+    "image": "preserved_glyphs/p086_s05_g1.png",
+    "sha256": "9e6e0b6c796610200e98800ccc711b6b7c742ae401a1d01162a4dfc7aed642a7",
+    "source_region": {
+      "x0": 80,
+      "y0": 455,
+      "x1": 570,
+      "y1": 525
+    },
+    "notes": "判断对象图形保留扫描轮廓；D局部扫描缺损。",
+    "treatment": "原扫描字形/结构保留，未声称为TikZ重绘。"
+  },
+  {
+    "diagram_name": "p086_s06_g1",
+    "book_page": 86,
+    "source_pdf_page": 90,
+    "input_pdf_page": 116,
+    "question_key": "p086_s06",
+    "question_id": "二、6",
+    "role": "question",
+    "image": "preserved_glyphs/p086_s06_g1.png",
+    "sha256": "7fefe15ea6d4e49888506410fa4ba22916979752aa50bb912505bb0eef11c757",
+    "source_region": {
+      "x0": 80,
+      "y0": 542,
+      "x1": 565,
+      "y1": 602
+    },
+    "notes": "整体标识含内部结构本身为判断对象，不能更换字体或简化闪电。",
+    "treatment": "原扫描字形/结构保留，未声称为TikZ重绘。"
+  },
+  {
+    "diagram_name": "p102_s02_g1",
+    "book_page": 102,
+    "source_pdf_page": 106,
+    "input_pdf_page": 136,
+    "question_key": "p102_s02",
+    "question_id": "二、2",
+    "role": "question",
+    "image": "preserved_glyphs/p102_s02_g1.png",
+    "sha256": "eea5469b2f95af396efec24c8c51be4036967b61448169e064b7b6bb66c831a8",
+    "source_region": {
+      "x0": 420,
+      "y0": 140,
+      "x1": 535,
+      "y1": 222
+    },
+    "notes": "竖式48×37的原图数字局部缺损，保留原图；解答按48×(30+7)说明运算律。",
+    "treatment": "原扫描字形/结构保留，未声称为TikZ重绘。"
+  }
+]

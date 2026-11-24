@@ -1,0 +1,82 @@
+{
+  "passed": true,
+  "volumes": [
+    {
+      "volume": 1,
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+      "output_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+      "parent_sha256": "f027fc4bf7571b8d7ce84166be54b830ce6fbe29b5ca8b3c89e3028f2d7d1202",
+      "slides": 426,
+      "changed_slides": [
+        28,
+        29,
+        66,
+        73,
+        120,
+        162,
+        256,
+        339
+      ],
+      "static_rendered_changed_slide_count": 8,
+      "human_inspected_changed_slide_count": 8,
+      "all_original_timing_xml_bytes_unchanged": true,
+      "all_original_ids_names_order_preserved": true,
+      "native_math_count_before": 1725,
+      "native_math_count_after": 1785,
+      "unrelated_zip_parts_byte_identical": 4523,
+      "package_finalizer": "qa/finalizer_v1.json",
+      "artifacttool_import_passed": true,
+      "package_finalizer_passed": true
+    }
+  ],
+  "powerpoint_playback_tested": false,
+  "wps_playback_tested": false,
+  "actual_visual_review": {
+    "before": "before_v1",
+    "final_render_source": "draft2",
+    "after": "after2_v1",
+    "slides": [
+      28,
+      29,
+      66,
+      73,
+      120,
+      162,
+      256,
+      339
+    ],
+    "each_final_modified_slide_individually_viewed": true,
+    "retained_methods": true,
+    "original_trees_unchanged": true
+  },
+  "mathematics": "qa_math_v1.json",
+  "native_formula_implementation": "New calculations are real native OMML plus actual XeLaTeX SVG/PNG fallbacks. Equals and following expressions have explicit columns. Original early primary methods remain. p003_s07 optimizes only its second quantity analysis; p011_s08 is labelled an arithmetic-law oral-calculation hint, not a typical round-number shortcut.",
+  "obsolete_runs": "On slide120 three obsolete run objects remain as empty 1px animation anchors. They share the same original clickEffect with the meaningful new hint title/formulas, so there is no additional empty click.",
+  "click_group_evidence_slide120": {
+    "8": "4",
+    "9": "4",
+    "10": "4",
+    "11": "4",
+    "12": "4",
+    "13": "4",
+    "14": "4",
+    "15": "13",
+    "16": "16",
+    "17": "16",
+    "18": "20",
+    "19": "20",
+    "20": "24",
+    "21": "24",
+    "22": "28",
+    "23": "28",
+    "24": "28",
+    "25": "28",
+    "26": "28",
+    "27": "28",
+    "28": "28"
+  },
+  "limits": [
+    "Actual final-render PNGs were inspected in ArtifactTool, not in PowerPoint or WPS.",
+    "Untouched slides were verified by unchanged ZIP content and timing; they were not all visually rereviewed this round."
+  ]
+}

@@ -1,0 +1,5198 @@
+[
+  {
+    "book_page": 1,
+    "source_pdf_page": 5,
+    "input_pdf_page": 5,
+    "answer_pdf_page": 5,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p001_s01": [
+        5
+      ],
+      "p001_s02": [
+        5
+      ],
+      "p001_s03": [
+        5
+      ],
+      "p001_s04": [
+        5
+      ],
+      "p001_s05": [
+        5
+      ],
+      "p001_s06": [
+        5
+      ],
+      "p001_s07": [
+        5
+      ],
+      "p001_s08": [
+        5
+      ],
+      "p001_s09": [
+        5
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2（1）",
+      "一、2（2）",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6（1）",
+      "一、6（2）",
+      "一、7（跨页）"
+    ],
+    "page_size": [
+      595,
+      1305.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 2,
+    "source_pdf_page": 6,
+    "input_pdf_page": 6,
+    "answer_pdf_page": 6,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p002_s01": [
+        6
+      ],
+      "p002_s02": [
+        6
+      ],
+      "p002_s03": [
+        6
+      ],
+      "p002_s04": [
+        6
+      ],
+      "p002_s05": [
+        6
+      ],
+      "p002_s06": [
+        6
+      ],
+      "p002_s07": [
+        6
+      ],
+      "p002_s08": [
+        6
+      ]
+    },
+    "sections": [
+      "一、7（续）",
+      "一、8",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "三、1"
+    ],
+    "page_size": [
+      595,
+      1703.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 3,
+    "source_pdf_page": 7,
+    "input_pdf_page": 7,
+    "answer_pdf_page": 7,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p003_s01": [
+        7
+      ],
+      "p003_s02": [
+        7
+      ],
+      "p003_s03": [
+        7
+      ],
+      "p003_s04": [
+        7
+      ],
+      "p003_s05": [
+        7
+      ],
+      "p003_s06": [
+        7
+      ],
+      "p003_s07": [
+        7
+      ]
+    },
+    "sections": [
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）",
+      "三、2（5）",
+      "三、2（6）",
+      "四、1"
+    ],
+    "page_size": [
+      595,
+      1522.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 4,
+    "source_pdf_page": 8,
+    "input_pdf_page": 8,
+    "answer_pdf_page": 8,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p004_s01": [
+        8
+      ],
+      "p004_s02": [
+        8
+      ],
+      "p004_s03": [
+        8
+      ],
+      "p004_s04": [
+        8
+      ],
+      "p004_s05": [
+        8
+      ]
+    },
+    "sections": [
+      "四、2",
+      "四、3",
+      "四、4（方案一）",
+      "四、4（方案二）",
+      "五、24点（五种结构）"
+    ],
+    "page_size": [
+      595,
+      2081.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 5,
+    "source_pdf_page": 9,
+    "input_pdf_page": 11,
+    "answer_pdf_page": 9,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p005_s01": [
+        9
+      ],
+      "p005_s02": [
+        9
+      ],
+      "p005_s03": [
+        9
+      ],
+      "p005_s04": [
+        9
+      ],
+      "p005_s05": [
+        9
+      ],
+      "p005_s06": [
+        9
+      ],
+      "p005_s07": [
+        9
+      ],
+      "p005_s08": [
+        9
+      ],
+      "p005_s09": [
+        9
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2（1）",
+      "一、2（2）",
+      "一、3",
+      "一、4",
+      "一、5①",
+      "一、5②及发现",
+      "一、6①",
+      "一、6②"
+    ],
+    "page_size": [
+      595,
+      1723.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 6,
+    "source_pdf_page": 10,
+    "input_pdf_page": 12,
+    "answer_pdf_page": 10,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p006_s01": [
+        10
+      ],
+      "p006_s02": [
+        10
+      ],
+      "p006_s03": [
+        10
+      ],
+      "p006_s04": [
+        10
+      ],
+      "p006_s05": [
+        10
+      ],
+      "p006_s06": [
+        10
+      ],
+      "p006_s07": [
+        10
+      ],
+      "p006_s08": [
+        10
+      ]
+    },
+    "sections": [
+      "一、7",
+      "一、8",
+      "一、9",
+      "二、1",
+      "二、2",
+      "二、3（两个空）",
+      "二、4",
+      "二、5"
+    ],
+    "page_size": [
+      595,
+      1577.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 7,
+    "source_pdf_page": 11,
+    "input_pdf_page": 13,
+    "answer_pdf_page": 11,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p007_s01": [
+        11
+      ],
+      "p007_s02": [
+        11
+      ],
+      "p007_s03": [
+        11
+      ],
+      "p007_s04": [
+        11
+      ],
+      "p007_s05": [
+        11
+      ],
+      "p007_s06": [
+        11
+      ],
+      "p007_s07": [
+        11
+      ],
+      "p007_s08": [
+        11
+      ]
+    },
+    "sections": [
+      "二、6",
+      "三、1",
+      "三、2",
+      "三、3",
+      "三、4",
+      "三、5",
+      "三、6",
+      "四、1"
+    ],
+    "page_size": [
+      595,
+      1507.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 8,
+    "source_pdf_page": 12,
+    "input_pdf_page": 14,
+    "answer_pdf_page": 12,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p008_s01": [
+        12
+      ],
+      "p008_s02": [
+        12
+      ],
+      "p008_s03": [
+        12
+      ],
+      "p008_s04": [
+        12
+      ],
+      "p008_s05": [
+        12
+      ]
+    },
+    "sections": [
+      "四、2",
+      "四、3",
+      "四、4",
+      "五、1",
+      "五、2（括号条件）"
+    ],
+    "page_size": [
+      595,
+      1690.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 9,
+    "source_pdf_page": 13,
+    "input_pdf_page": 16,
+    "answer_pdf_page": 13,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p009_s01": [
+        13
+      ],
+      "p009_s02": [
+        13
+      ],
+      "p009_s03": [
+        13
+      ],
+      "p009_s04": [
+        13
+      ],
+      "p009_s05": [
+        13
+      ],
+      "p009_s06": [
+        13
+      ],
+      "p009_s07": [
+        13
+      ]
+    },
+    "sections": [
+      "一、1（逐组）",
+      "一、2（逐图）",
+      "一、3（全部空）",
+      "一、4",
+      "一、5（全部空）",
+      "一、6（两个空）",
+      "一、7（跨页）"
+    ],
+    "page_size": [
+      595,
+      1123.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 10,
+    "source_pdf_page": 14,
+    "input_pdf_page": 17,
+    "answer_pdf_page": 14,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p010_s01": [
+        14
+      ],
+      "p010_s02": [
+        14
+      ],
+      "p010_s03": [
+        14
+      ],
+      "p010_s04": [
+        14
+      ],
+      "p010_s05": [
+        14
+      ],
+      "p010_s06": [
+        14
+      ],
+      "p010_s07": [
+        14
+      ],
+      "p010_s08": [
+        14
+      ],
+      "p010_s09": [
+        14
+      ],
+      "p010_s10": [
+        14
+      ],
+      "p010_s11": [
+        14
+      ]
+    },
+    "sections": [
+      "一、7（续）",
+      "一、8（两个空）",
+      "二、1",
+      "二、2（读图条件）",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "二、7",
+      "二、8",
+      "二、9"
+    ],
+    "page_size": [
+      595,
+      1322.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 11,
+    "source_pdf_page": 15,
+    "input_pdf_page": 18,
+    "answer_pdf_page": 15,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p011_s01": [
+        15
+      ],
+      "p011_s02": [
+        15
+      ],
+      "p011_s03": [
+        15
+      ],
+      "p011_s04": [
+        15
+      ],
+      "p011_s05": [
+        15
+      ],
+      "p011_s06": [
+        15
+      ],
+      "p011_s07": [
+        15
+      ],
+      "p011_s08": [
+        15
+      ],
+      "p011_s09": [
+        15
+      ],
+      "p011_s10": [
+        15
+      ]
+    },
+    "sections": [
+      "二、10",
+      "三、1（1）",
+      "三、1（2）",
+      "三、1（3）",
+      "三、1（4）",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "四、1",
+      "四、2"
+    ],
+    "page_size": [
+      595,
+      1418.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 12,
+    "source_pdf_page": 16,
+    "input_pdf_page": 19,
+    "answer_pdf_page": 16,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p012_s01": [
+        16
+      ],
+      "p012_s02": [
+        16
+      ],
+      "p012_s03": [
+        16
+      ],
+      "p012_s04": [
+        16
+      ],
+      "p012_s05": [
+        16
+      ],
+      "p012_s06": [
+        16
+      ]
+    },
+    "sections": [
+      "四、3",
+      "五、1（1）",
+      "五、1（2）",
+      "五、2（1）",
+      "五、2（2）",
+      "五、3"
+    ],
+    "page_size": [
+      595,
+      1278.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 13,
+    "source_pdf_page": 17,
+    "input_pdf_page": 20,
+    "answer_pdf_page": 17,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p013_s01": [
+        17
+      ],
+      "p013_s02": [
+        17
+      ],
+      "p013_s03": [
+        17
+      ],
+      "p013_s04": [
+        17
+      ],
+      "p013_s05": [
+        17
+      ],
+      "p013_s06": [
+        17
+      ],
+      "p013_s07": [
+        17
+      ]
+    },
+    "sections": [
+      "一、1（两个空）",
+      "一、2（全部空）",
+      "一、3",
+      "一、4",
+      "一、5（两个空）",
+      "一、6（全部空）",
+      "一、7（两个空）"
+    ],
+    "page_size": [
+      595,
+      1115.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 14,
+    "source_pdf_page": 18,
+    "input_pdf_page": 21,
+    "answer_pdf_page": 18,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p014_s01": [
+        18
+      ],
+      "p014_s02": [
+        18
+      ],
+      "p014_s03": [
+        18
+      ],
+      "p014_s04": [
+        18
+      ],
+      "p014_s05": [
+        18
+      ],
+      "p014_s06": [
+        18
+      ],
+      "p014_s07": [
+        18
+      ],
+      "p014_s08": [
+        18
+      ]
+    },
+    "sections": [
+      "一、7（续）",
+      "二、1",
+      "二、2",
+      "二、3（两个空）",
+      "二、4",
+      "二、5",
+      "二、6",
+      "二、7"
+    ],
+    "page_size": [
+      595,
+      1132.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 15,
+    "source_pdf_page": 19,
+    "input_pdf_page": 22,
+    "answer_pdf_page": 19,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p015_s01": [
+        19
+      ],
+      "p015_s02": [
+        19
+      ],
+      "p015_s03": [
+        19
+      ],
+      "p015_s04": [
+        19
+      ],
+      "p015_s05": [
+        19
+      ],
+      "p015_s06": [
+        19
+      ],
+      "p015_s07": [
+        19
+      ],
+      "p015_s08": [
+        19
+      ],
+      "p015_s09": [
+        19
+      ],
+      "p015_s10": [
+        19
+      ]
+    },
+    "sections": [
+      "三、1（1）",
+      "三、1（2）",
+      "三、1（3）",
+      "三、1（4）",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）",
+      "四、画一画",
+      "五、1"
+    ],
+    "page_size": [
+      595,
+      1508.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 16,
+    "source_pdf_page": 20,
+    "input_pdf_page": 23,
+    "answer_pdf_page": 20,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p016_s01": [
+        20
+      ],
+      "p016_s02": [
+        20
+      ],
+      "p016_s03": [
+        20
+      ],
+      "p016_s04": [
+        20
+      ]
+    },
+    "sections": [
+      "五、2（1）",
+      "五、2（2）",
+      "五、3",
+      "六、动脑筋"
+    ],
+    "page_size": [
+      595,
+      1111.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 17,
+    "source_pdf_page": 21,
+    "input_pdf_page": 24,
+    "answer_pdf_page": 21,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p017_s01": [
+        21
+      ],
+      "p017_s02": [
+        21
+      ],
+      "p017_s03": [
+        21
+      ],
+      "p017_s04": [
+        21
+      ],
+      "p017_s05": [
+        21
+      ],
+      "p017_s06": [
+        21
+      ],
+      "p017_s07": [
+        21
+      ],
+      "p017_s08": [
+        21
+      ],
+      "p017_s09": [
+        21
+      ],
+      "p017_s10": [
+        21
+      ]
+    },
+    "sections": [
+      "一、1（全部空）",
+      "一、2（牛奶）",
+      "一、2（鸡蛋）",
+      "一、2（奶茶）",
+      "一、3（全部空）",
+      "一、4（两个空）",
+      "一、5",
+      "一、6",
+      "一、7",
+      "一、8（跨页）"
+    ],
+    "page_size": [
+      595,
+      1351.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 18,
+    "source_pdf_page": 22,
+    "input_pdf_page": 25,
+    "answer_pdf_page": 22,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p018_s01": [
+        22
+      ],
+      "p018_s02": [
+        22
+      ],
+      "p018_s03": [
+        22
+      ],
+      "p018_s04": [
+        22
+      ],
+      "p018_s05": [
+        22
+      ],
+      "p018_s06": [
+        22
+      ],
+      "p018_s07": [
+        22
+      ],
+      "p018_s08": [
+        22
+      ],
+      "p018_s09": [
+        22
+      ]
+    },
+    "sections": [
+      "一、8（续）",
+      "一、9（1）",
+      "一、9（2）（两个空）",
+      "二、1",
+      "二、2（两个空）",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6（A、C都正确）"
+    ],
+    "page_size": [
+      595,
+      1515.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 19,
+    "source_pdf_page": 23,
+    "input_pdf_page": 26,
+    "answer_pdf_page": 23,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p019_s01": [
+        23
+      ],
+      "p019_s02": [
+        23
+      ],
+      "p019_s03": [
+        23
+      ],
+      "p019_s04": [
+        23
+      ],
+      "p019_s05": [
+        23
+      ],
+      "p019_s06": [
+        23
+      ],
+      "p019_s07": [
+        23
+      ],
+      "p019_s08": [
+        23
+      ],
+      "p019_s09": [
+        23
+      ],
+      "p019_s10": [
+        23
+      ],
+      "p019_s11": [
+        23
+      ],
+      "p019_s12": [
+        23
+      ],
+      "p019_s13": [
+        23
+      ],
+      "p019_s14": [
+        23
+      ],
+      "p019_s15": [
+        23
+      ],
+      "p019_s16": [
+        23
+      ]
+    },
+    "sections": [
+      "三、1（1）",
+      "三、1（2）",
+      "三、1（3）",
+      "三、1（4）",
+      "三、1（5）",
+      "三、1（6）",
+      "三、1（7）",
+      "三、1（8）",
+      "三、1（9）",
+      "三、1（10）",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）",
+      "四、1",
+      "四、2"
+    ],
+    "page_size": [
+      595,
+      1385.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 20,
+    "source_pdf_page": 24,
+    "input_pdf_page": 28,
+    "answer_pdf_page": 24,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p020_s01": [
+        24
+      ],
+      "p020_s02": [
+        24
+      ],
+      "p020_s03": [
+        24
+      ],
+      "p020_s04": [
+        24
+      ]
+    },
+    "sections": [
+      "四、3",
+      "四、4",
+      "四、5",
+      "四、6"
+    ],
+    "page_size": [
+      595,
+      1474.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 21,
+    "source_pdf_page": 25,
+    "input_pdf_page": 30,
+    "answer_pdf_page": 25,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p021_s01": [
+        25
+      ],
+      "p021_s02": [
+        25
+      ],
+      "p021_s03": [
+        25
+      ],
+      "p021_s04": [
+        25
+      ],
+      "p021_s05": [
+        25
+      ],
+      "p021_s06": [
+        25
+      ],
+      "p021_s07": [
+        25
+      ],
+      "p021_s08": [
+        25
+      ],
+      "p021_s09": [
+        25
+      ],
+      "p021_s10": [
+        25
+      ],
+      "p021_s11": [
+        25
+      ],
+      "p021_s12": [
+        25
+      ],
+      "p021_s13": [
+        25
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2（已知条件）",
+      "一、2（单价和读法）",
+      "一、3（汽车）",
+      "一、3（步行）",
+      "一、4（步行速度）",
+      "一、4（骑车路程）",
+      "一、4（船行时间）",
+      "一、4（汽车速度）",
+      "一、5",
+      "一、6",
+      "一、7（每千克价格）",
+      "一、7（24元购买质量）"
+    ],
+    "page_size": [
+      595,
+      1851.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 22,
+    "source_pdf_page": 26,
+    "input_pdf_page": 31,
+    "answer_pdf_page": 26,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p022_s01": [
+        26
+      ],
+      "p022_s02": [
+        26
+      ],
+      "p022_s03": [
+        26
+      ],
+      "p022_s04": [
+        26
+      ],
+      "p022_s05": [
+        26
+      ],
+      "p022_s06": [
+        26
+      ],
+      "p022_s07": [
+        26
+      ],
+      "p022_s08": [
+        26
+      ],
+      "p022_s09": [
+        26
+      ]
+    },
+    "sections": [
+      "一、8",
+      "一、9",
+      "一、10",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6"
+    ],
+    "page_size": [
+      595,
+      1538.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 23,
+    "source_pdf_page": 27,
+    "input_pdf_page": 32,
+    "answer_pdf_page": 27,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p023_s01": [
+        27
+      ],
+      "p023_s02": [
+        27
+      ],
+      "p023_s03": [
+        27
+      ],
+      "p023_s04": [
+        27
+      ],
+      "p023_s05": [
+        27
+      ],
+      "p023_s06": [
+        27
+      ],
+      "p023_s07": [
+        27
+      ],
+      "p023_s08": [
+        27
+      ],
+      "p023_s09": [
+        27
+      ],
+      "p023_s10": [
+        27
+      ],
+      "p023_s11": [
+        27
+      ],
+      "p023_s12": [
+        27
+      ],
+      "p023_s13": [
+        27
+      ],
+      "p023_s14": [
+        27
+      ],
+      "p023_s15": [
+        27
+      ],
+      "p023_s16": [
+        27
+      ]
+    },
+    "sections": [
+      "三、1（1）",
+      "三、1（2）",
+      "三、1（3）",
+      "三、1（4）",
+      "三、1（5）",
+      "三、1（6）",
+      "三、1（7）",
+      "三、1（8）",
+      "三、1（9）",
+      "三、1（10）",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）",
+      "四、1（1）",
+      "四、1（2）"
+    ],
+    "page_size": [
+      595,
+      1664.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 24,
+    "source_pdf_page": 28,
+    "input_pdf_page": 34,
+    "answer_pdf_page": 28,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p024_s01": [
+        28
+      ],
+      "p024_s02": [
+        28
+      ],
+      "p024_s03": [
+        28
+      ],
+      "p024_s04": [
+        28
+      ]
+    },
+    "sections": [
+      "四、2",
+      "四、3",
+      "四、4",
+      "四、5"
+    ],
+    "page_size": [
+      595,
+      1369.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 25,
+    "source_pdf_page": 29,
+    "input_pdf_page": 36,
+    "answer_pdf_page": 29,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p025_s01": [
+        29
+      ],
+      "p025_s02": [
+        29
+      ],
+      "p025_s03": [
+        29
+      ],
+      "p025_s04": [
+        29
+      ],
+      "p025_s05": [
+        29
+      ],
+      "p025_s06": [
+        29
+      ],
+      "p025_s07": [
+        29
+      ],
+      "p025_s08": [
+        29
+      ],
+      "p025_s09": [
+        29
+      ],
+      "p025_s10": [
+        29
+      ],
+      "p025_s11": [
+        29
+      ],
+      "p025_s12": [
+        29
+      ],
+      "p025_s13": [
+        29
+      ],
+      "p025_s14": [
+        29
+      ],
+      "p025_s15": [
+        29
+      ],
+      "p025_s16": [
+        29
+      ],
+      "p025_s17": [
+        29
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4（左上）",
+      "一、4（左中）",
+      "一、4（左下）",
+      "一、4（右上）",
+      "一、4（右中）",
+      "一、4（右下）",
+      "一、5（左上）",
+      "一、5（右上）",
+      "一、5（左中）",
+      "一、5（右中）",
+      "一、5（左下）",
+      "一、5（右下）",
+      "一、6",
+      "一、7"
+    ],
+    "page_size": [
+      595,
+      1687.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 26,
+    "source_pdf_page": 30,
+    "input_pdf_page": 37,
+    "answer_pdf_page": 30,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p026_s01": [
+        30
+      ],
+      "p026_s02": [
+        30
+      ],
+      "p026_s03": [
+        30
+      ],
+      "p026_s04": [
+        30
+      ],
+      "p026_s05": [
+        30
+      ],
+      "p026_s06": [
+        30
+      ],
+      "p026_s07": [
+        30
+      ],
+      "p026_s08": [
+        30
+      ],
+      "p026_s09": [
+        30
+      ],
+      "p026_s10": [
+        30
+      ],
+      "p026_s11": [
+        30
+      ],
+      "p026_s12": [
+        30
+      ],
+      "p026_s13": [
+        30
+      ],
+      "p026_s14": [
+        30
+      ]
+    },
+    "sections": [
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "三、1（1）",
+      "三、1（2）",
+      "三、1（3）",
+      "三、1（4）",
+      "三、1（5）",
+      "三、1（6）",
+      "三、1（7）",
+      "三、1（8）"
+    ],
+    "page_size": [
+      595,
+      1427.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 27,
+    "source_pdf_page": 31,
+    "input_pdf_page": 38,
+    "answer_pdf_page": 31,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p027_s01": [
+        31
+      ],
+      "p027_s02": [
+        31
+      ],
+      "p027_s03": [
+        31
+      ],
+      "p027_s04": [
+        31
+      ],
+      "p027_s05": [
+        31
+      ],
+      "p027_s06": [
+        31
+      ],
+      "p027_s07": [
+        31
+      ],
+      "p027_s08": [
+        31
+      ],
+      "p027_s09": [
+        31
+      ],
+      "p027_s10": [
+        31
+      ],
+      "p027_s11": [
+        31
+      ]
+    },
+    "sections": [
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）",
+      "三、2（5）",
+      "三、2（6）",
+      "三、2（7）",
+      "三、2（8）",
+      "三、2（9）",
+      "四、1",
+      "四、2"
+    ],
+    "page_size": [
+      595,
+      1230.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 28,
+    "source_pdf_page": 32,
+    "input_pdf_page": 40,
+    "answer_pdf_page": 32,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p028_s01": [
+        32
+      ],
+      "p028_s02": [
+        32
+      ],
+      "p028_s03": [
+        32
+      ],
+      "p028_s04": [
+        32
+      ]
+    },
+    "sections": [
+      "四、3",
+      "四、4",
+      "四、5（1）",
+      "四、5（2）"
+    ],
+    "page_size": [
+      595,
+      1424.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 29,
+    "source_pdf_page": 33,
+    "input_pdf_page": 42,
+    "answer_pdf_page": 33,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p029_s01": [
+        33
+      ],
+      "p029_s02": [
+        33
+      ],
+      "p029_s03": [
+        33
+      ],
+      "p029_s04": [
+        33
+      ],
+      "p029_s05": [
+        33
+      ],
+      "p029_s06": [
+        33
+      ],
+      "p029_s07": [
+        33
+      ],
+      "p029_s08": [
+        33
+      ],
+      "p029_s09": [
+        33
+      ],
+      "p029_s10": [
+        33
+      ],
+      "p029_s11": [
+        33
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3（左上）",
+      "一、3（右上）",
+      "一、3（左中）",
+      "一、3（右中）",
+      "一、3（左下）",
+      "一、3（右下）",
+      "一、4",
+      "一、5",
+      "一、6（1）上半"
+    ],
+    "page_size": [
+      595,
+      1521.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 30,
+    "source_pdf_page": 34,
+    "input_pdf_page": 43,
+    "answer_pdf_page": 34,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p030_s01": [
+        34
+      ],
+      "p030_s02": [
+        34
+      ],
+      "p030_s03": [
+        34
+      ],
+      "p030_s04": [
+        34
+      ],
+      "p030_s05": [
+        34
+      ],
+      "p030_s06": [
+        34
+      ],
+      "p030_s07": [
+        34
+      ],
+      "p030_s08": [
+        34
+      ],
+      "p030_s09": [
+        34
+      ],
+      "p030_s10": [
+        34
+      ],
+      "p030_s11": [
+        34
+      ]
+    },
+    "sections": [
+      "一、6（1）下半",
+      "一、6（1）比较及规律",
+      "一、6（2）",
+      "一、7（例式）",
+      "一、7（字母规律）",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6"
+    ],
+    "page_size": [
+      595,
+      1404.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 31,
+    "source_pdf_page": 35,
+    "input_pdf_page": 44,
+    "answer_pdf_page": 35,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p031_s01": [
+        35
+      ],
+      "p031_s02": [
+        35
+      ],
+      "p031_s03": [
+        35
+      ],
+      "p031_s04": [
+        35
+      ],
+      "p031_s05": [
+        35
+      ],
+      "p031_s06": [
+        35
+      ],
+      "p031_s07": [
+        35
+      ],
+      "p031_s08": [
+        35
+      ],
+      "p031_s09": [
+        35
+      ],
+      "p031_s10": [
+        35
+      ],
+      "p031_s11": [
+        35
+      ],
+      "p031_s12": [
+        35
+      ],
+      "p031_s13": [
+        35
+      ],
+      "p031_s14": [
+        35
+      ],
+      "p031_s15": [
+        35
+      ],
+      "p031_s16": [
+        35
+      ]
+    },
+    "sections": [
+      "三、1（1）",
+      "三、1（2）",
+      "三、1（3）",
+      "三、1（4）",
+      "三、1（5）",
+      "三、1（6）",
+      "三、1（7）",
+      "三、1（8）",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）",
+      "三、2（5）",
+      "三、2（6）",
+      "四、操作",
+      "五、1"
+    ],
+    "page_size": [
+      595,
+      1364.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 32,
+    "source_pdf_page": 36,
+    "input_pdf_page": 46,
+    "answer_pdf_page": 36,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p032_s01": [
+        36
+      ],
+      "p032_s02": [
+        36
+      ],
+      "p032_s03": [
+        36
+      ],
+      "p032_s04": [
+        36
+      ]
+    },
+    "sections": [
+      "五、2",
+      "五、3（1）",
+      "五、3（2）",
+      "五、4"
+    ],
+    "page_size": [
+      595,
+      1633.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 33,
+    "source_pdf_page": 37,
+    "input_pdf_page": 48,
+    "answer_pdf_page": 37,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p033_s01": [
+        37
+      ],
+      "p033_s02": [
+        37
+      ],
+      "p033_s03": [
+        37
+      ],
+      "p033_s04": [
+        37
+      ],
+      "p033_s05": [
+        37
+      ],
+      "p033_s06": [
+        37
+      ],
+      "p033_s07": [
+        37
+      ],
+      "p033_s08": [
+        37
+      ],
+      "p033_s09": [
+        37
+      ],
+      "p033_s10": [
+        37
+      ],
+      "p033_s11": [
+        37
+      ],
+      "p033_s12": [
+        37
+      ],
+      "p033_s13": [
+        37
+      ]
+    },
+    "sections": [
+      "一、1（锐角）",
+      "一、1（钝角）",
+      "一、2（内角和）",
+      "一、2（三边关系）",
+      "一、3",
+      "一、4",
+      "一、5（三角形）",
+      "一、5（平行四边形）",
+      "一、6（等腰三角形）",
+      "一、6（直角三角形）",
+      "一、7",
+      "一、8",
+      "一、9（答案接下页）"
+    ],
+    "page_size": [
+      595,
+      1480.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 34,
+    "source_pdf_page": 38,
+    "input_pdf_page": 49,
+    "answer_pdf_page": 38,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p034_s01": [
+        38
+      ],
+      "p034_s02": [
+        38
+      ],
+      "p034_s03": [
+        38
+      ],
+      "p034_s04": [
+        38
+      ],
+      "p034_s05": [
+        38
+      ],
+      "p034_s06": [
+        38
+      ],
+      "p034_s07": [
+        38
+      ],
+      "p034_s08": [
+        38
+      ],
+      "p034_s09": [
+        38
+      ],
+      "p034_s10": [
+        38
+      ],
+      "p034_s11": [
+        38
+      ],
+      "p034_s12": [
+        38
+      ]
+    },
+    "sections": [
+      "一、9（接上页）",
+      "一、10（80度是顶角）",
+      "一、10（80度是底角）",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "三、1",
+      "三、2",
+      "三、3"
+    ],
+    "page_size": [
+      595,
+      1585.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 35,
+    "source_pdf_page": 39,
+    "input_pdf_page": 50,
+    "answer_pdf_page": 39,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p035_s01": [
+        39
+      ],
+      "p035_s02": [
+        39
+      ],
+      "p035_s03": [
+        39
+      ],
+      "p035_s04": [
+        39
+      ],
+      "p035_s05": [
+        39
+      ],
+      "p035_s06": [
+        39
+      ],
+      "p035_s07": [
+        39
+      ],
+      "p035_s08": [
+        39
+      ]
+    },
+    "sections": [
+      "三、4",
+      "四、1（平行四边形）",
+      "四、1（三角形）",
+      "四、2（1）",
+      "四、2（2）",
+      "四、2（3）",
+      "四、3",
+      "五、1"
+    ],
+    "page_size": [
+      595,
+      1125.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 36,
+    "source_pdf_page": 40,
+    "input_pdf_page": 51,
+    "answer_pdf_page": 40,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p036_s01": [
+        40
+      ],
+      "p036_s02": [
+        40
+      ],
+      "p036_s03": [
+        40
+      ]
+    },
+    "sections": [
+      "五、2",
+      "五、3",
+      "六、动脑筋"
+    ],
+    "page_size": [
+      595,
+      1245.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 37,
+    "source_pdf_page": 41,
+    "input_pdf_page": 53,
+    "answer_pdf_page": 41,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p037_s01": [
+        41
+      ],
+      "p037_s02": [
+        41
+      ],
+      "p037_s03": [
+        41
+      ],
+      "p037_s04": [
+        41
+      ],
+      "p037_s05": [
+        41
+      ],
+      "p037_s06": [
+        41
+      ],
+      "p037_s07": [
+        41
+      ],
+      "p037_s08": [
+        41
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7",
+      "一、8"
+    ],
+    "page_size": [
+      595,
+      1351.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 38,
+    "source_pdf_page": 42,
+    "input_pdf_page": 54,
+    "answer_pdf_page": 42,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p038_s01": [
+        42
+      ],
+      "p038_s02": [
+        42
+      ],
+      "p038_s03": [
+        42
+      ],
+      "p038_s04": [
+        42
+      ],
+      "p038_s05": [
+        42
+      ],
+      "p038_s06": [
+        42
+      ],
+      "p038_s07": [
+        42
+      ],
+      "p038_s08": [
+        42
+      ],
+      "p038_s09": [
+        42
+      ],
+      "p038_s10": [
+        42
+      ],
+      "p038_s11": [
+        42
+      ],
+      "p038_s12": [
+        42
+      ],
+      "p038_s13": [
+        42
+      ],
+      "p038_s14": [
+        42
+      ]
+    },
+    "sections": [
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "二、7",
+      "三、1",
+      "三、2",
+      "三、3",
+      "三、4",
+      "三、5",
+      "三、6",
+      "三、7"
+    ],
+    "page_size": [
+      595,
+      1467.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 39,
+    "source_pdf_page": 43,
+    "input_pdf_page": 55,
+    "answer_pdf_page": 43,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p039_s01": [
+        43
+      ],
+      "p039_s02": [
+        43
+      ],
+      "p039_s03": [
+        43
+      ],
+      "p039_s04": [
+        43
+      ],
+      "p039_s05": [
+        43
+      ]
+    },
+    "sections": [
+      "四、1（1）",
+      "四、1（2）",
+      "四、2（1）",
+      "四、2（2）",
+      "五、1"
+    ],
+    "page_size": [
+      595,
+      1008.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 40,
+    "source_pdf_page": 44,
+    "input_pdf_page": 56,
+    "answer_pdf_page": 44,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p040_s01": [
+        44
+      ],
+      "p040_s02": [
+        44
+      ],
+      "p040_s03": [
+        44
+      ]
+    },
+    "sections": [
+      "五、2",
+      "五、3",
+      "六、思考题"
+    ],
+    "page_size": [
+      595,
+      1004.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 41,
+    "source_pdf_page": 45,
+    "input_pdf_page": 58,
+    "answer_pdf_page": 45,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p041_s01": [
+        45
+      ],
+      "p041_s02": [
+        45
+      ],
+      "p041_s03": [
+        45
+      ],
+      "p041_s04": [
+        45
+      ],
+      "p041_s05": [
+        45
+      ],
+      "p041_s06": [
+        45
+      ],
+      "p041_s07": [
+        45
+      ],
+      "p041_s08": [
+        45
+      ],
+      "p041_s09": [
+        45
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3（1）",
+      "一、3（2）",
+      "一、3（3）",
+      "一、4（1）",
+      "一、4（2）",
+      "一、5",
+      "一、6"
+    ],
+    "page_size": [
+      595,
+      1281.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 42,
+    "source_pdf_page": 46,
+    "input_pdf_page": 59,
+    "answer_pdf_page": 46,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p042_s01": [
+        46
+      ],
+      "p042_s02": [
+        46
+      ],
+      "p042_s03": [
+        46
+      ],
+      "p042_s04": [
+        46
+      ],
+      "p042_s05": [
+        46
+      ],
+      "p042_s06": [
+        46
+      ],
+      "p042_s07": [
+        46
+      ],
+      "p042_s08": [
+        46
+      ],
+      "p042_s09": [
+        46
+      ],
+      "p042_s10": [
+        46
+      ],
+      "p042_s11": [
+        46
+      ],
+      "p042_s12": [
+        46
+      ]
+    },
+    "sections": [
+      "一、7",
+      "一、8",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "三、1",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）"
+    ],
+    "page_size": [
+      595,
+      1367.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 43,
+    "source_pdf_page": 47,
+    "input_pdf_page": 60,
+    "answer_pdf_page": 47,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p043_s01": [
+        47
+      ],
+      "p043_s02": [
+        47
+      ],
+      "p043_s03": [
+        47
+      ],
+      "p043_s04": [
+        47
+      ]
+    },
+    "sections": [
+      "四、1",
+      "四、2",
+      "五、1",
+      "五、2"
+    ],
+    "page_size": [
+      595,
+      1128.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 44,
+    "source_pdf_page": 48,
+    "input_pdf_page": 61,
+    "answer_pdf_page": 48,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p044_s01": [
+        48
+      ],
+      "p044_s02": [
+        48
+      ],
+      "p044_s03": [
+        48
+      ],
+      "p044_s04": [
+        48
+      ]
+    },
+    "sections": [
+      "五、3",
+      "五、4（1）",
+      "五、4（2）",
+      "五、5"
+    ],
+    "page_size": [
+      595,
+      1460.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 45,
+    "source_pdf_page": 49,
+    "input_pdf_page": 63,
+    "answer_pdf_page": 49,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p045_s01": [
+        49
+      ],
+      "p045_s02": [
+        49
+      ],
+      "p045_s03": [
+        49
+      ],
+      "p045_s04": [
+        49
+      ],
+      "p045_s05": [
+        49
+      ],
+      "p045_s06": [
+        49
+      ],
+      "p045_s07": [
+        49
+      ],
+      "p045_s08": [
+        49
+      ],
+      "p045_s09": [
+        49
+      ],
+      "p045_s10": [
+        49
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5（1）",
+      "一、5（2）",
+      "一、6",
+      "一、7",
+      "一、8",
+      "一、9"
+    ],
+    "page_size": [
+      595,
+      1475.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 46,
+    "source_pdf_page": 50,
+    "input_pdf_page": 64,
+    "answer_pdf_page": 50,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p046_s01": [
+        50
+      ],
+      "p046_s02": [
+        50
+      ],
+      "p046_s03": [
+        50
+      ],
+      "p046_s04": [
+        50
+      ],
+      "p046_s05": [
+        50
+      ],
+      "p046_s06": [
+        50
+      ],
+      "p046_s07": [
+        50
+      ],
+      "p046_s08": [
+        50
+      ],
+      "p046_s09": [
+        50
+      ],
+      "p046_s10": [
+        50
+      ],
+      "p046_s11": [
+        50
+      ]
+    },
+    "sections": [
+      "一、10",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "三、1",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）"
+    ],
+    "page_size": [
+      595,
+      1482.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 47,
+    "source_pdf_page": 51,
+    "input_pdf_page": 65,
+    "answer_pdf_page": 51,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p047_s01": [
+        51
+      ],
+      "p047_s02": [
+        51
+      ],
+      "p047_s03": [
+        51
+      ],
+      "p047_s04": [
+        51
+      ]
+    },
+    "sections": [
+      "四、1",
+      "四、2",
+      "五、1",
+      "五、2"
+    ],
+    "page_size": [
+      595,
+      1054.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 48,
+    "source_pdf_page": 52,
+    "input_pdf_page": 66,
+    "answer_pdf_page": 52,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p048_s01": [
+        52
+      ],
+      "p048_s02": [
+        52
+      ],
+      "p048_s03": [
+        52
+      ],
+      "p048_s04": [
+        52
+      ]
+    },
+    "sections": [
+      "五、3",
+      "五、4（1）",
+      "五、4（2）",
+      "五、5"
+    ],
+    "page_size": [
+      595,
+      1217.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 49,
+    "source_pdf_page": 53,
+    "input_pdf_page": 68,
+    "answer_pdf_page": 53,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p049_s01": [
+        53
+      ],
+      "p049_s02": [
+        53
+      ],
+      "p049_s03": [
+        53
+      ],
+      "p049_s04": [
+        53
+      ],
+      "p049_s05": [
+        53
+      ],
+      "p049_s06": [
+        53
+      ],
+      "p049_s07": [
+        53
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7"
+    ],
+    "page_size": [
+      595,
+      1459.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 50,
+    "source_pdf_page": 54,
+    "input_pdf_page": 69,
+    "answer_pdf_page": 54,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p050_s01": [
+        54
+      ],
+      "p050_s02": [
+        54
+      ],
+      "p050_s03": [
+        54
+      ],
+      "p050_s04": [
+        54
+      ],
+      "p050_s05": [
+        54
+      ],
+      "p050_s06": [
+        54
+      ],
+      "p050_s07": [
+        54
+      ],
+      "p050_s08": [
+        54
+      ]
+    },
+    "sections": [
+      "一、8",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "二、7"
+    ],
+    "page_size": [
+      595,
+      1276.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 51,
+    "source_pdf_page": 55,
+    "input_pdf_page": 70,
+    "answer_pdf_page": 55,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p051_s01": [
+        55
+      ],
+      "p051_s02": [
+        55
+      ],
+      "p051_s03": [
+        55
+      ],
+      "p051_s04": [
+        55
+      ],
+      "p051_s05": [
+        55
+      ],
+      "p051_s06": [
+        55
+      ]
+    },
+    "sections": [
+      "三、1",
+      "三、2",
+      "三、3",
+      "四、1",
+      "四、2",
+      "五、1（1）"
+    ],
+    "page_size": [
+      595,
+      1077.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 52,
+    "source_pdf_page": 56,
+    "input_pdf_page": 71,
+    "answer_pdf_page": 56,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p052_s01": [
+        56
+      ],
+      "p052_s02": [
+        56
+      ],
+      "p052_s03": [
+        56
+      ],
+      "p052_s04": [
+        56
+      ]
+    },
+    "sections": [
+      "五、1（2）",
+      "五、2",
+      "五、3",
+      "五、4"
+    ],
+    "page_size": [
+      595,
+      1421.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 53,
+    "source_pdf_page": 57,
+    "input_pdf_page": 73,
+    "answer_pdf_page": 57,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p053_s01": [
+        57
+      ],
+      "p053_s02": [
+        57
+      ],
+      "p053_s03": [
+        57
+      ],
+      "p053_s04": [
+        57
+      ],
+      "p053_s05": [
+        57
+      ],
+      "p053_s06": [
+        57
+      ],
+      "p053_s07": [
+        57
+      ],
+      "p053_s08": [
+        57
+      ],
+      "p053_s09": [
+        57
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7",
+      "一、8",
+      "一、9"
+    ],
+    "page_size": [
+      595,
+      1523.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 54,
+    "source_pdf_page": 58,
+    "input_pdf_page": 74,
+    "answer_pdf_page": 58,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p054_s01": [
+        58
+      ],
+      "p054_s02": [
+        58
+      ],
+      "p054_s03": [
+        58
+      ],
+      "p054_s04": [
+        58
+      ],
+      "p054_s05": [
+        58
+      ],
+      "p054_s06": [
+        58
+      ],
+      "p054_s07": [
+        58
+      ]
+    },
+    "sections": [
+      "一、10",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "三、1"
+    ],
+    "page_size": [
+      595,
+      1250.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 55,
+    "source_pdf_page": 59,
+    "input_pdf_page": 75,
+    "answer_pdf_page": 59,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p055_s01": [
+        59
+      ],
+      "p055_s02": [
+        59
+      ],
+      "p055_s03": [
+        59
+      ],
+      "p055_s04": [
+        59
+      ],
+      "p055_s05": [
+        59
+      ],
+      "p055_s06": [
+        59
+      ],
+      "p055_s07": [
+        59
+      ],
+      "p055_s08": [
+        59
+      ],
+      "p055_s09": [
+        59
+      ],
+      "p055_s10": [
+        59
+      ],
+      "p055_s11": [
+        59
+      ],
+      "p055_s12": [
+        59
+      ],
+      "p055_s13": [
+        59
+      ]
+    },
+    "sections": [
+      "三、2（1）",
+      "三、2（2）",
+      "三、3（1）",
+      "三、3（2）",
+      "三、3（3）",
+      "三、3（4）",
+      "三、3（5）",
+      "三、3（6）",
+      "四、1",
+      "四、2（1）",
+      "四、2（2）",
+      "四、2（3）",
+      "五、1"
+    ],
+    "page_size": [
+      595,
+      1466.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 56,
+    "source_pdf_page": 60,
+    "input_pdf_page": 76,
+    "answer_pdf_page": 60,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p056_s01": [
+        60
+      ],
+      "p056_s02": [
+        60
+      ],
+      "p056_s03": [
+        60
+      ],
+      "p056_s04": [
+        60
+      ],
+      "p056_s05": [
+        60
+      ]
+    },
+    "sections": [
+      "五、2",
+      "五、3（1）",
+      "五、3（2）",
+      "五、3（3）",
+      "五、4"
+    ],
+    "page_size": [
+      595,
+      1736.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 57,
+    "source_pdf_page": 61,
+    "input_pdf_page": 78,
+    "answer_pdf_page": 61,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p057_s01": [
+        61
+      ],
+      "p057_s02": [
+        61
+      ],
+      "p057_s03": [
+        61
+      ],
+      "p057_s04": [
+        61
+      ],
+      "p057_s05": [
+        61
+      ],
+      "p057_s06": [
+        61
+      ],
+      "p057_s07": [
+        61
+      ],
+      "p057_s08": [
+        61
+      ],
+      "p057_s09": [
+        61
+      ],
+      "p057_s10": [
+        61
+      ],
+      "p057_s11": [
+        61
+      ],
+      "p057_s12": [
+        61
+      ],
+      "p057_s13": [
+        61
+      ],
+      "p057_s14": [
+        61
+      ],
+      "p057_s15": [
+        61
+      ],
+      "p057_s16": [
+        61
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5（1）",
+      "一、5（2）",
+      "一、5（3）",
+      "一、6",
+      "一、7",
+      "一、8",
+      "一、9",
+      "一、10（1）",
+      "一、10（2）",
+      "一、10（3）",
+      "一、10（4）",
+      "一、11"
+    ],
+    "page_size": [
+      595,
+      1519.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 58,
+    "source_pdf_page": 62,
+    "input_pdf_page": 79,
+    "answer_pdf_page": 62,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p058_s01": [
+        62
+      ],
+      "p058_s02": [
+        62
+      ],
+      "p058_s03": [
+        62
+      ],
+      "p058_s04": [
+        62
+      ],
+      "p058_s05": [
+        62
+      ],
+      "p058_s06": [
+        62
+      ],
+      "p058_s07": [
+        62
+      ],
+      "p058_s08": [
+        62
+      ],
+      "p058_s09": [
+        62
+      ]
+    },
+    "sections": [
+      "一、12",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "三、1",
+      "三、2"
+    ],
+    "page_size": [
+      595,
+      1324.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 59,
+    "source_pdf_page": 63,
+    "input_pdf_page": 80,
+    "answer_pdf_page": 63,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p059_s01": [
+        63
+      ],
+      "p059_s02": [
+        63
+      ],
+      "p059_s03": [
+        63
+      ],
+      "p059_s04": [
+        63
+      ],
+      "p059_s05": [
+        63
+      ],
+      "p059_s06": [
+        63
+      ],
+      "p059_s07": [
+        63
+      ]
+    },
+    "sections": [
+      "三、3（1）",
+      "三、3（2）",
+      "三、3（3）",
+      "三、3（4）",
+      "四、1",
+      "四、2",
+      "四、3"
+    ],
+    "page_size": [
+      595,
+      1243.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 60,
+    "source_pdf_page": 64,
+    "input_pdf_page": 82,
+    "answer_pdf_page": 64,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p060_s01": [
+        64
+      ],
+      "p060_s02": [
+        64
+      ],
+      "p060_s03": [
+        64
+      ],
+      "p060_s04": [
+        64
+      ]
+    },
+    "sections": [
+      "四、4",
+      "四、5",
+      "四、6（1）",
+      "四、6（2）"
+    ],
+    "page_size": [
+      595,
+      1645.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 61,
+    "source_pdf_page": 65,
+    "input_pdf_page": 84,
+    "answer_pdf_page": 65,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p061_s01": [
+        65
+      ],
+      "p061_s02": [
+        65
+      ],
+      "p061_s03": [
+        65
+      ],
+      "p061_s04": [
+        65
+      ],
+      "p061_s05": [
+        65
+      ],
+      "p061_s06": [
+        65
+      ],
+      "p061_s07": [
+        65
+      ],
+      "p061_s08": [
+        65
+      ],
+      "p061_s09": [
+        65
+      ],
+      "p061_s10": [
+        65
+      ],
+      "p061_s11": [
+        65
+      ],
+      "p061_s12": [
+        65
+      ],
+      "p061_s13": [
+        65
+      ],
+      "p061_s14": [
+        65
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6（1）",
+      "一、6（2）",
+      "一、6（3）",
+      "一、7",
+      "一、8",
+      "一、9",
+      "一、10（1）",
+      "一、10（2）",
+      "一、11（两空，续下页）"
+    ],
+    "page_size": [
+      595,
+      1487.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 62,
+    "source_pdf_page": 66,
+    "input_pdf_page": 85,
+    "answer_pdf_page": 66,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p062_s01": [
+        66
+      ],
+      "p062_s02": [
+        66
+      ],
+      "p062_s03": [
+        66
+      ],
+      "p062_s04": [
+        66
+      ],
+      "p062_s05": [
+        66
+      ],
+      "p062_s06": [
+        66
+      ],
+      "p062_s07": [
+        66
+      ],
+      "p062_s08": [
+        66
+      ],
+      "p062_s09": [
+        66
+      ]
+    },
+    "sections": [
+      "一、11（续）",
+      "一、12",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "三、1"
+    ],
+    "page_size": [
+      595,
+      1496.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 63,
+    "source_pdf_page": 67,
+    "input_pdf_page": 86,
+    "answer_pdf_page": 67,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p063_s01": [
+        67
+      ],
+      "p063_s02": [
+        67
+      ],
+      "p063_s03": [
+        67
+      ],
+      "p063_s04": [
+        67
+      ],
+      "p063_s05": [
+        67
+      ],
+      "p063_s06": [
+        67
+      ],
+      "p063_s07": [
+        67
+      ]
+    },
+    "sections": [
+      "三、2",
+      "三、3（1）",
+      "三、3（2）",
+      "三、3（3）",
+      "三、3（4）",
+      "四、1",
+      "四、2"
+    ],
+    "page_size": [
+      595,
+      1206.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 64,
+    "source_pdf_page": 68,
+    "input_pdf_page": 88,
+    "answer_pdf_page": 68,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p064_s01": [
+        68
+      ],
+      "p064_s02": [
+        68
+      ],
+      "p064_s03": [
+        68
+      ],
+      "p064_s04": [
+        68
+      ]
+    },
+    "sections": [
+      "四、3",
+      "四、4",
+      "四、5",
+      "四、6"
+    ],
+    "page_size": [
+      595,
+      1347.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 65,
+    "source_pdf_page": 69,
+    "input_pdf_page": 90,
+    "answer_pdf_page": 69,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p065_s01": [
+        69
+      ],
+      "p065_s02": [
+        69
+      ],
+      "p065_s03": [
+        69
+      ],
+      "p065_s04": [
+        69
+      ],
+      "p065_s05": [
+        69
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3（1）",
+      "一、3（2）",
+      "一、4"
+    ],
+    "page_size": [
+      595,
+      1085.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 66,
+    "source_pdf_page": 70,
+    "input_pdf_page": 91,
+    "answer_pdf_page": 70,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p066_s01": [
+        70
+      ],
+      "p066_s02": [
+        70
+      ],
+      "p066_s03": [
+        70
+      ],
+      "p066_s04": [
+        70
+      ],
+      "p066_s05": [
+        70
+      ],
+      "p066_s06": [
+        70
+      ],
+      "p066_s07": [
+        70
+      ],
+      "p066_s08": [
+        70
+      ]
+    },
+    "sections": [
+      "一、5",
+      "一、6（1）",
+      "一、6（2）",
+      "一、7（①）",
+      "一、7（②）",
+      "二、1",
+      "二、2",
+      "二、3"
+    ],
+    "page_size": [
+      595,
+      1202.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 67,
+    "source_pdf_page": 71,
+    "input_pdf_page": 92,
+    "answer_pdf_page": 71,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p067_s01": [
+        71
+      ],
+      "p067_s02": [
+        71
+      ],
+      "p067_s03": [
+        71
+      ],
+      "p067_s04": [
+        71
+      ],
+      "p067_s05": [
+        71
+      ],
+      "p067_s06": [
+        71
+      ],
+      "p067_s07": [
+        71
+      ],
+      "p067_s08": [
+        71
+      ],
+      "p067_s09": [
+        71
+      ],
+      "p067_s10": [
+        71
+      ]
+    },
+    "sections": [
+      "二、4",
+      "二、5",
+      "三、1（第1图）",
+      "三、1（第2图）",
+      "三、1（第3图）",
+      "三、2（第1图）",
+      "三、2（第2图）",
+      "三、2（第3图）",
+      "三、2（第4图）",
+      "三、3（1）"
+    ],
+    "page_size": [
+      595,
+      1252.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 68,
+    "source_pdf_page": 72,
+    "input_pdf_page": 93,
+    "answer_pdf_page": 72,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p068_s01": [
+        72
+      ],
+      "p068_s02": [
+        72
+      ],
+      "p068_s03": [
+        72
+      ],
+      "p068_s04": [
+        72
+      ],
+      "p068_s05": [
+        72
+      ],
+      "p068_s06": [
+        72
+      ]
+    },
+    "sections": [
+      "三、3（2）",
+      "三、3（3）填空",
+      "三、3（3）作图",
+      "三、4（1）",
+      "三、4（2）",
+      "四、逆操作"
+    ],
+    "page_size": [
+      595,
+      1120.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 69,
+    "source_pdf_page": 73,
+    "input_pdf_page": 94,
+    "answer_pdf_page": 73,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p069_s01": [
+        73
+      ],
+      "p069_s02": [
+        73
+      ],
+      "p069_s03": [
+        73
+      ],
+      "p069_s04": [
+        73
+      ],
+      "p069_s05": [
+        73
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5"
+    ],
+    "page_size": [
+      595,
+      1055.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 70,
+    "source_pdf_page": 74,
+    "input_pdf_page": 95,
+    "answer_pdf_page": 74,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p070_s01": [
+        74
+      ],
+      "p070_s02": [
+        74
+      ],
+      "p070_s03": [
+        74
+      ],
+      "p070_s04": [
+        74
+      ],
+      "p070_s05": [
+        74
+      ],
+      "p070_s06": [
+        74
+      ],
+      "p070_s07": [
+        74
+      ],
+      "p070_s08": [
+        74
+      ],
+      "p070_s09": [
+        74
+      ],
+      "p070_s10": [
+        74
+      ],
+      "p070_s11": [
+        74
+      ],
+      "p070_s12": [
+        74
+      ],
+      "p070_s13": [
+        74
+      ]
+    },
+    "sections": [
+      "一、6",
+      "一、7",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "三、1",
+      "三、2",
+      "三、3",
+      "三、4",
+      "三、5",
+      "三、6"
+    ],
+    "page_size": [
+      595,
+      1335.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 71,
+    "source_pdf_page": 75,
+    "input_pdf_page": 96,
+    "answer_pdf_page": 75,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p071_s01": [
+        75
+      ],
+      "p071_s02": [
+        75
+      ],
+      "p071_s03": [
+        75
+      ],
+      "p071_s04": [
+        75
+      ],
+      "p071_s05": [
+        75
+      ],
+      "p071_s06": [
+        75
+      ],
+      "p071_s07": [
+        75
+      ]
+    },
+    "sections": [
+      "三、7",
+      "四、1",
+      "四、2（1）",
+      "四、2（2）",
+      "四、2（3）",
+      "四、3",
+      "四、4"
+    ],
+    "page_size": [
+      595,
+      1148.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 72,
+    "source_pdf_page": 76,
+    "input_pdf_page": 97,
+    "answer_pdf_page": 76,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p072_s01": [
+        76
+      ],
+      "p072_s02": [
+        76
+      ],
+      "p072_s03": [
+        76
+      ],
+      "p072_s04": [
+        76
+      ],
+      "p072_s05": [
+        76
+      ],
+      "p072_s06": [
+        76
+      ],
+      "p072_s07": [
+        76
+      ]
+    },
+    "sections": [
+      "五、1（图②）",
+      "五、1（图③）",
+      "五、2",
+      "五、3（1）",
+      "五、3（2）",
+      "五、3（3）",
+      "六、添一格的3种方法"
+    ],
+    "page_size": [
+      595,
+      1173.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 73,
+    "source_pdf_page": 77,
+    "input_pdf_page": 98,
+    "answer_pdf_page": 77,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p073_s01": [
+        77
+      ],
+      "p073_s02": [
+        77
+      ],
+      "p073_s03": [
+        77
+      ],
+      "p073_s04": [
+        77
+      ],
+      "p073_s05": [
+        77
+      ],
+      "p073_s06": [
+        77
+      ],
+      "p073_s07": [
+        77
+      ],
+      "p073_s08": [
+        77
+      ],
+      "p073_s09": [
+        77
+      ],
+      "p073_s10": [
+        77
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7",
+      "一、8",
+      "一、9",
+      "一、10"
+    ],
+    "page_size": [
+      595,
+      1906.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 74,
+    "source_pdf_page": 78,
+    "input_pdf_page": 99,
+    "answer_pdf_page": 78,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p074_s01": [
+        78
+      ],
+      "p074_s02": [
+        78
+      ],
+      "p074_s03": [
+        78
+      ],
+      "p074_s04": [
+        78
+      ],
+      "p074_s05": [
+        78
+      ],
+      "p074_s06": [
+        78
+      ],
+      "p074_s07": [
+        78
+      ]
+    },
+    "sections": [
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "三、1（题图）"
+    ],
+    "page_size": [
+      595,
+      1178.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 75,
+    "source_pdf_page": 79,
+    "input_pdf_page": 100,
+    "answer_pdf_page": 79,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p075_s01": [
+        79
+      ],
+      "p075_s02": [
+        79
+      ],
+      "p075_s03": [
+        79
+      ],
+      "p075_s04": [
+        79
+      ],
+      "p075_s05": [
+        79
+      ],
+      "p075_s06": [
+        79
+      ]
+    },
+    "sections": [
+      "三、1（1）",
+      "三、1（2）",
+      "三、2",
+      "三、3（1）",
+      "三、3（2）",
+      "三、3（3）"
+    ],
+    "page_size": [
+      595,
+      1668.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 76,
+    "source_pdf_page": 80,
+    "input_pdf_page": 102,
+    "answer_pdf_page": 80,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p076_s01": [
+        80
+      ],
+      "p076_s02": [
+        80
+      ],
+      "p076_s03": [
+        80
+      ]
+    },
+    "sections": [
+      "三、4（1）",
+      "三、4（2）",
+      "三、4（3）"
+    ],
+    "page_size": [
+      595,
+      1468.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 77,
+    "source_pdf_page": 81,
+    "input_pdf_page": 103,
+    "answer_pdf_page": 81,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p077_s01": [
+        81
+      ],
+      "p077_s02": [
+        81
+      ],
+      "p077_s03": [
+        81
+      ],
+      "p077_s04": [
+        81
+      ],
+      "p077_s05": [
+        81
+      ],
+      "p077_s06": [
+        81
+      ],
+      "p077_s07": [
+        81
+      ],
+      "p077_s08": [
+        81
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6（1）",
+      "一、6（2）",
+      "一、6（3）"
+    ],
+    "page_size": [
+      595,
+      2154.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 78,
+    "source_pdf_page": 82,
+    "input_pdf_page": 104,
+    "answer_pdf_page": 82,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p078_s01": [
+        82
+      ],
+      "p078_s02": [
+        82
+      ],
+      "p078_s03": [
+        82
+      ],
+      "p078_s04": [
+        82
+      ],
+      "p078_s05": [
+        82
+      ],
+      "p078_s06": [
+        82
+      ]
+    },
+    "sections": [
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6"
+    ],
+    "page_size": [
+      595,
+      1248.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 79,
+    "source_pdf_page": 83,
+    "input_pdf_page": 105,
+    "answer_pdf_page": 83,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p079_s01": [
+        83
+      ],
+      "p079_s02": [
+        83
+      ],
+      "p079_s03": [
+        83
+      ],
+      "p079_s04": [
+        83
+      ],
+      "p079_s05": [
+        83
+      ]
+    },
+    "sections": [
+      "三、1（1）",
+      "三、1（2）",
+      "三、2（1）",
+      "三、2（2）",
+      "三、3"
+    ],
+    "page_size": [
+      595,
+      1505.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 80,
+    "source_pdf_page": 84,
+    "input_pdf_page": 107,
+    "answer_pdf_page": 84,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p080_s01": [
+        84
+      ],
+      "p080_s02": [
+        84
+      ],
+      "p080_s03": [
+        84
+      ],
+      "p080_s04": [
+        84
+      ]
+    },
+    "sections": [
+      "三、4",
+      "三、5（1）",
+      "三、5（2）",
+      "三、5（3）"
+    ],
+    "page_size": [
+      595,
+      1246.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 81,
+    "source_pdf_page": 85,
+    "input_pdf_page": 109,
+    "answer_pdf_page": 85,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p081_s01": [
+        85
+      ],
+      "p081_s02": [
+        85
+      ],
+      "p081_s03": [
+        85
+      ],
+      "p081_s04": [
+        85
+      ],
+      "p081_s05": [
+        85
+      ],
+      "p081_s06": [
+        85
+      ],
+      "p081_s07": [
+        85
+      ],
+      "p081_s08": [
+        85
+      ],
+      "p081_s09": [
+        85
+      ],
+      "p081_s10": [
+        85
+      ],
+      "p081_s11": [
+        85
+      ],
+      "p081_s12": [
+        85
+      ],
+      "p081_s13": [
+        85
+      ],
+      "p081_s14": [
+        85
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7（面积）",
+      "一、7（钱数）",
+      "一、7（质量一）",
+      "一、7（长度）",
+      "一、7（质量二）",
+      "一、8",
+      "一、9",
+      "一、10"
+    ],
+    "page_size": [
+      595,
+      2004.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 82,
+    "source_pdf_page": 86,
+    "input_pdf_page": 110,
+    "answer_pdf_page": 86,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p082_s01": [
+        86
+      ],
+      "p082_s02": [
+        86
+      ],
+      "p082_s03": [
+        86
+      ],
+      "p082_s04": [
+        86
+      ],
+      "p082_s05": [
+        86
+      ],
+      "p082_s06": [
+        86
+      ],
+      "p082_s07": [
+        86
+      ],
+      "p082_s08": [
+        86
+      ],
+      "p082_s09": [
+        86
+      ],
+      "p082_s10": [
+        86
+      ],
+      "p082_s11": [
+        86
+      ],
+      "p082_s12": [
+        86
+      ]
+    },
+    "sections": [
+      "一、11",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "三、1（1）—（4）",
+      "三、1（5）—（8）",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）"
+    ],
+    "page_size": [
+      595,
+      1245.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 83,
+    "source_pdf_page": 87,
+    "input_pdf_page": 111,
+    "answer_pdf_page": 87,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p083_s01": [
+        87
+      ],
+      "p083_s02": [
+        87
+      ],
+      "p083_s03": [
+        87
+      ],
+      "p083_s04": [
+        87
+      ],
+      "p083_s05": [
+        87
+      ],
+      "p083_s06": [
+        87
+      ]
+    },
+    "sections": [
+      "三、2（4）",
+      "三、2（5）",
+      "三、2（6）",
+      "四、1",
+      "四、2",
+      "四、3"
+    ],
+    "page_size": [
+      595,
+      1017.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 84,
+    "source_pdf_page": 88,
+    "input_pdf_page": 113,
+    "answer_pdf_page": 88,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p084_s01": [
+        88
+      ],
+      "p084_s02": [
+        88
+      ],
+      "p084_s03": [
+        88
+      ],
+      "p084_s04": [
+        88
+      ]
+    },
+    "sections": [
+      "四、4（1）",
+      "四、4（2）",
+      "四、5",
+      "五、思考题"
+    ],
+    "page_size": [
+      595,
+      1215.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 85,
+    "source_pdf_page": 89,
+    "input_pdf_page": 115,
+    "answer_pdf_page": 89,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p085_s01": [
+        89
+      ],
+      "p085_s02": [
+        89
+      ],
+      "p085_s03": [
+        89
+      ],
+      "p085_s04": [
+        89
+      ],
+      "p085_s05": [
+        89
+      ],
+      "p085_s06": [
+        89
+      ],
+      "p085_s07": [
+        89
+      ],
+      "p085_s08": [
+        89
+      ],
+      "p085_s09": [
+        89
+      ],
+      "p085_s10": [
+        89
+      ],
+      "p085_s11": [
+        89
+      ],
+      "p085_s12": [
+        89
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7（1）",
+      "一、7（2）",
+      "一、7（3）",
+      "一、7（4）",
+      "一、8",
+      "一、9（钟面）"
+    ],
+    "page_size": [
+      595,
+      1362.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 86,
+    "source_pdf_page": 90,
+    "input_pdf_page": 116,
+    "answer_pdf_page": 90,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p086_s01": [
+        90
+      ],
+      "p086_s02": [
+        90
+      ],
+      "p086_s03": [
+        90
+      ],
+      "p086_s04": [
+        90
+      ],
+      "p086_s05": [
+        90
+      ],
+      "p086_s06": [
+        90
+      ],
+      "p086_s07": [
+        90
+      ],
+      "p086_s08": [
+        90
+      ],
+      "p086_s09": [
+        90
+      ],
+      "p086_s10": [
+        90
+      ],
+      "p086_s11": [
+        90
+      ],
+      "p086_s12": [
+        90
+      ]
+    },
+    "sections": [
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "三、1",
+      "三、2",
+      "三、3",
+      "三、4",
+      "三、5",
+      "三、6"
+    ],
+    "page_size": [
+      595,
+      1278.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 87,
+    "source_pdf_page": 91,
+    "input_pdf_page": 117,
+    "answer_pdf_page": 91,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p087_s01": [
+        91
+      ],
+      "p087_s02": [
+        91
+      ],
+      "p087_s03": [
+        91
+      ],
+      "p087_s04": [
+        91
+      ],
+      "p087_s05": [
+        91
+      ],
+      "p087_s06": [
+        91
+      ],
+      "p087_s07": [
+        91
+      ],
+      "p087_s08": [
+        91
+      ]
+    },
+    "sections": [
+      "四、1（1）",
+      "四、1（2）",
+      "四、2（1）",
+      "四、2（2）",
+      "四、2（3）",
+      "四、3",
+      "五、1（1）",
+      "五、1（2）"
+    ],
+    "page_size": [
+      595,
+      1138.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 88,
+    "source_pdf_page": 92,
+    "input_pdf_page": 118,
+    "answer_pdf_page": 92,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p088_s01": [
+        92
+      ],
+      "p088_s02": [
+        92
+      ],
+      "p088_s03": [
+        92
+      ]
+    },
+    "sections": [
+      "五、2",
+      "五、3",
+      "五、4"
+    ],
+    "page_size": [
+      595,
+      1118.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 89,
+    "source_pdf_page": 93,
+    "input_pdf_page": 119,
+    "answer_pdf_page": 93,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p089_s01": [
+        93
+      ],
+      "p089_s02": [
+        93
+      ],
+      "p089_s03": [
+        93
+      ],
+      "p089_s04": [
+        93
+      ],
+      "p089_s05": [
+        93
+      ],
+      "p089_s06": [
+        93
+      ],
+      "p089_s07": [
+        93
+      ],
+      "p089_s08": [
+        93
+      ],
+      "p089_s09": [
+        93
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7",
+      "二、1",
+      "二、2"
+    ],
+    "page_size": [
+      595,
+      1835.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 90,
+    "source_pdf_page": 94,
+    "input_pdf_page": 120,
+    "answer_pdf_page": 94,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p090_s01": [
+        94
+      ],
+      "p090_s02": [
+        94
+      ],
+      "p090_s03": [
+        94
+      ],
+      "p090_s04": [
+        94
+      ],
+      "p090_s05": [
+        94
+      ],
+      "p090_s06": [
+        94
+      ],
+      "p090_s07": [
+        94
+      ],
+      "p090_s08": [
+        94
+      ],
+      "p090_s09": [
+        94
+      ]
+    },
+    "sections": [
+      "二、3",
+      "二、4",
+      "二、5",
+      "三、1（1）—（4）",
+      "三、1（5）—（8）",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）及验算"
+    ],
+    "page_size": [
+      595,
+      1474.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 91,
+    "source_pdf_page": 95,
+    "input_pdf_page": 121,
+    "answer_pdf_page": 95,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p091_s01": [
+        95
+      ],
+      "p091_s02": [
+        95
+      ],
+      "p091_s03": [
+        95
+      ],
+      "p091_s04": [
+        95
+      ]
+    },
+    "sections": [
+      "四、1",
+      "四、2",
+      "四、3",
+      "四、4"
+    ],
+    "page_size": [
+      595,
+      1555.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 92,
+    "source_pdf_page": 96,
+    "input_pdf_page": 123,
+    "answer_pdf_page": 96,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p092_s01": [
+        96
+      ],
+      "p092_s02": [
+        96
+      ]
+    },
+    "sections": [
+      "四、5（1）",
+      "四、5（2）"
+    ],
+    "page_size": [
+      595,
+      955.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 93,
+    "source_pdf_page": 97,
+    "input_pdf_page": 124,
+    "answer_pdf_page": 97,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p093_s01": [
+        97
+      ],
+      "p093_s02": [
+        97
+      ],
+      "p093_s03": [
+        97
+      ],
+      "p093_s04": [
+        97
+      ],
+      "p093_s05": [
+        97
+      ],
+      "p093_s06": [
+        97
+      ],
+      "p093_s07": [
+        97
+      ],
+      "p093_s08": [
+        97
+      ],
+      "p093_s09": [
+        97
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7",
+      "一、8",
+      "二、1"
+    ],
+    "page_size": [
+      595,
+      1385.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 94,
+    "source_pdf_page": 98,
+    "input_pdf_page": 125,
+    "answer_pdf_page": 98,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p094_s01": [
+        98
+      ],
+      "p094_s02": [
+        98
+      ],
+      "p094_s03": [
+        98
+      ],
+      "p094_s04": [
+        98
+      ],
+      "p094_s05": [
+        98
+      ],
+      "p094_s06": [
+        98
+      ],
+      "p094_s07": [
+        98
+      ],
+      "p094_s08": [
+        98
+      ],
+      "p094_s09": [
+        98
+      ]
+    },
+    "sections": [
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6",
+      "二、7",
+      "二、8",
+      "三、1",
+      "三、2"
+    ],
+    "page_size": [
+      595,
+      1530.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 95,
+    "source_pdf_page": 99,
+    "input_pdf_page": 126,
+    "answer_pdf_page": 99,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p095_s01": [
+        99
+      ],
+      "p095_s02": [
+        99
+      ],
+      "p095_s03": [
+        99
+      ],
+      "p095_s04": [
+        99
+      ],
+      "p095_s05": [
+        99
+      ],
+      "p095_s06": [
+        99
+      ],
+      "p095_s07": [
+        99
+      ],
+      "p095_s08": [
+        99
+      ]
+    },
+    "sections": [
+      "三、3（1）",
+      "三、3（2）",
+      "三、3（3）",
+      "四、1",
+      "四、2",
+      "五、1",
+      "五、2",
+      "五、3"
+    ],
+    "page_size": [
+      595,
+      1449.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 96,
+    "source_pdf_page": 100,
+    "input_pdf_page": 128,
+    "answer_pdf_page": 100,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p096_s01": [
+        100
+      ],
+      "p096_s02": [
+        100
+      ],
+      "p096_s03": [
+        100
+      ],
+      "p096_s04": [
+        100
+      ],
+      "p096_s05": [
+        100
+      ]
+    },
+    "sections": [
+      "五、3（续）",
+      "五、4（1）",
+      "五、4（2）",
+      "五、5（1）",
+      "五、5（2）"
+    ],
+    "page_size": [
+      595,
+      1716.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 97,
+    "source_pdf_page": 101,
+    "input_pdf_page": 130,
+    "answer_pdf_page": 101,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p097_s01": [
+        101
+      ],
+      "p097_s02": [
+        101
+      ],
+      "p097_s03": [
+        101
+      ],
+      "p097_s04": [
+        101
+      ],
+      "p097_s05": [
+        101
+      ],
+      "p097_s06": [
+        101
+      ],
+      "p097_s07": [
+        101
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7（分割图，问题续下一页）"
+    ],
+    "page_size": [
+      595,
+      1206.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 98,
+    "source_pdf_page": 102,
+    "input_pdf_page": 131,
+    "answer_pdf_page": 102,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p098_s01": [
+        102
+      ],
+      "p098_s02": [
+        102
+      ],
+      "p098_s03": [
+        102
+      ],
+      "p098_s04": [
+        102
+      ],
+      "p098_s05": [
+        102
+      ],
+      "p098_s06": [
+        102
+      ],
+      "p098_s07": [
+        102
+      ]
+    },
+    "sections": [
+      "一、7（续）",
+      "一、8",
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5"
+    ],
+    "page_size": [
+      595,
+      1471.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 99,
+    "source_pdf_page": 103,
+    "input_pdf_page": 132,
+    "answer_pdf_page": 103,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p099_s01": [
+        103
+      ],
+      "p099_s02": [
+        103
+      ],
+      "p099_s03": [
+        103
+      ],
+      "p099_s04": [
+        103
+      ],
+      "p099_s05": [
+        103
+      ],
+      "p099_s06": [
+        103
+      ],
+      "p099_s07": [
+        103
+      ],
+      "p099_s08": [
+        103
+      ]
+    },
+    "sections": [
+      "二、6",
+      "三、1",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "四、1",
+      "四、2（1）",
+      "四、2（2）"
+    ],
+    "page_size": [
+      595,
+      1120.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 100,
+    "source_pdf_page": 104,
+    "input_pdf_page": 133,
+    "answer_pdf_page": 104,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p100_s01": [
+        104
+      ],
+      "p100_s02": [
+        104
+      ],
+      "p100_s03": [
+        104
+      ],
+      "p100_s04": [
+        104
+      ],
+      "p100_s05": [
+        104
+      ]
+    },
+    "sections": [
+      "五、1（1）",
+      "五、1（2）",
+      "五、2",
+      "五、3",
+      "五、4（1）（2）"
+    ],
+    "page_size": [
+      595,
+      1637.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 101,
+    "source_pdf_page": 105,
+    "input_pdf_page": 135,
+    "answer_pdf_page": 105,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p101_s01": [
+        105
+      ],
+      "p101_s02": [
+        105
+      ],
+      "p101_s03": [
+        105
+      ],
+      "p101_s04": [
+        105
+      ],
+      "p101_s05": [
+        105
+      ],
+      "p101_s06": [
+        105
+      ],
+      "p101_s07": [
+        105
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7"
+    ],
+    "page_size": [
+      595,
+      1218.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 102,
+    "source_pdf_page": 106,
+    "input_pdf_page": 136,
+    "answer_pdf_page": 106,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p102_s01": [
+        106
+      ],
+      "p102_s02": [
+        106
+      ],
+      "p102_s03": [
+        106
+      ],
+      "p102_s04": [
+        106
+      ],
+      "p102_s05": [
+        106
+      ],
+      "p102_s06": [
+        106
+      ]
+    },
+    "sections": [
+      "二、1（题干跨页）",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6（接下一页选项）"
+    ],
+    "page_size": [
+      595,
+      1221.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 103,
+    "source_pdf_page": 107,
+    "input_pdf_page": 137,
+    "answer_pdf_page": 107,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p103_s01": [
+        107
+      ],
+      "p103_s02": [
+        107
+      ],
+      "p103_s03": [
+        107
+      ],
+      "p103_s04": [
+        107
+      ],
+      "p103_s05": [
+        107
+      ],
+      "p103_s06": [
+        107
+      ],
+      "p103_s07": [
+        107
+      ],
+      "p103_s08": [
+        107
+      ],
+      "p103_s09": [
+        107
+      ],
+      "p103_s10": [
+        107
+      ],
+      "p103_s11": [
+        107
+      ],
+      "p103_s12": [
+        107
+      ],
+      "p103_s13": [
+        107
+      ]
+    },
+    "sections": [
+      "二、6（选项在本页）",
+      "二、7",
+      "三、1",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、2（4）",
+      "三、3（1）",
+      "三、3（2）",
+      "三、3（3）",
+      "四、（1）",
+      "四、（2）",
+      "四、（3）"
+    ],
+    "page_size": [
+      595,
+      1352.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 104,
+    "source_pdf_page": 108,
+    "input_pdf_page": 138,
+    "answer_pdf_page": 108,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p104_s01": [
+        108
+      ],
+      "p104_s02": [
+        108
+      ],
+      "p104_s03": [
+        108
+      ],
+      "p104_s04": [
+        108
+      ],
+      "p104_s05": [
+        108
+      ]
+    },
+    "sections": [
+      "五、1",
+      "五、2",
+      "五、3",
+      "五、4",
+      "五、5"
+    ],
+    "page_size": [
+      595,
+      1479.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 105,
+    "source_pdf_page": 109,
+    "input_pdf_page": 140,
+    "answer_pdf_page": 109,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p105_s01": [
+        109
+      ],
+      "p105_s02": [
+        109
+      ],
+      "p105_s03": [
+        109
+      ],
+      "p105_s04": [
+        109
+      ],
+      "p105_s05": [
+        109
+      ],
+      "p105_s06": [
+        109
+      ],
+      "p105_s07": [
+        109
+      ],
+      "p105_s08": [
+        109
+      ]
+    },
+    "sections": [
+      "一、1",
+      "一、2",
+      "一、3",
+      "一、4",
+      "一、5",
+      "一、6",
+      "一、7",
+      "一、8"
+    ],
+    "page_size": [
+      595,
+      1387.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 106,
+    "source_pdf_page": 110,
+    "input_pdf_page": 141,
+    "answer_pdf_page": 110,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p106_s01": [
+        110
+      ],
+      "p106_s02": [
+        110
+      ],
+      "p106_s03": [
+        110
+      ],
+      "p106_s04": [
+        110
+      ],
+      "p106_s05": [
+        110
+      ],
+      "p106_s06": [
+        110
+      ]
+    },
+    "sections": [
+      "二、1",
+      "二、2",
+      "二、3",
+      "二、4",
+      "二、5",
+      "二、6"
+    ],
+    "page_size": [
+      595,
+      1161.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 107,
+    "source_pdf_page": 111,
+    "input_pdf_page": 142,
+    "answer_pdf_page": 111,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p107_s01": [
+        111
+      ],
+      "p107_s02": [
+        111
+      ],
+      "p107_s03": [
+        111
+      ],
+      "p107_s04": [
+        111
+      ],
+      "p107_s05": [
+        111
+      ],
+      "p107_s06": [
+        111
+      ],
+      "p107_s07": [
+        111
+      ],
+      "p107_s08": [
+        111
+      ],
+      "p107_s09": [
+        111
+      ],
+      "p107_s10": [
+        111
+      ]
+    },
+    "sections": [
+      "三、1",
+      "三、2（1）",
+      "三、2（2）",
+      "三、2（3）",
+      "三、3（1）",
+      "三、3（2）",
+      "三、3（3）",
+      "三、3（4）",
+      "四、（1）",
+      "四、（2）"
+    ],
+    "page_size": [
+      595,
+      1150.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  },
+  {
+    "book_page": 108,
+    "source_pdf_page": 112,
+    "input_pdf_page": 143,
+    "answer_pdf_page": 112,
+    "analysis_pdf_pages": [],
+    "record_pdf_pages": {
+      "p108_s01": [
+        112
+      ],
+      "p108_s02": [
+        112
+      ],
+      "p108_s03": [
+        112
+      ],
+      "p108_s04": [
+        112
+      ],
+      "p108_s05": [
+        112
+      ]
+    },
+    "sections": [
+      "五、1",
+      "五、2",
+      "五、3",
+      "五、4",
+      "五、5（统计表与填空）"
+    ],
+    "page_size": [
+      595,
+      1740.0
+    ],
+    "layout": "Three-column Kai red explanations within original question gaps."
+  }
+]

@@ -1,0 +1,5 @@
+\begin{tikzpicture}[x=.35cm,y=.35cm]
+\foreach \i in {0,...,26} \draw[black!47,line width=.38bp] (\i,0) -- (\i,15);
+\foreach \j in {0,1,...,6,8,9,...,15} \draw[black!47,line width=.38bp] (0,\j) -- (26,\j);
+\draw[black!47,line width=.38bp] (10,7) -- (26,7);
+\draw[dash pattern=on 2.8bp off 2bp,line width=.63bp](0,7)--(10,7);\draw(1,7)--(1,10)--(3,8)--(3,12)--(9,7);\node at(4.5,8.8){①};\draw(10,11)--(16,11)--(15,9)--(11,9)--cycle;\draw(13,11)--(13,14)--(14,13)--(13,12);\node at(13,10){②};\draw(19,12)--(19,8)--(24,8)node[below right]{$A$}--cycle;\node at(20.5,9.6){③};\end{tikzpicture}

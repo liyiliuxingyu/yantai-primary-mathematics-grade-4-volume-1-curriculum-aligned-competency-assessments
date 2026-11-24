@@ -1,0 +1,468 @@
+{
+  "book_page": 70,
+  "source_page": 74,
+  "records": [
+    {
+      "key": "p070_s01",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 0,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "钟面上指针旋转一大格是（    ）度，指针从“2”到“5”是指针（    ）时针旋转（    ）度。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "钟面一周360°，分成12大格，每大格\\(360^\\circ\\div12=30^\\circ\\)。从2到5沿数字增加方向转动，是顺时针，经过3大格，共90°。填30、“顺”、90。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s02",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 1,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "如图，三角尺向下平移了（    ）毫米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p070_ruler",
+          "tikz": "\\begin{tikzpicture}[x=.8cm,y=.8cm]\\draw(-.45,0)rectangle(0,4.5);\\foreach \\y/\\n in {0/4,1/3,2/2,3/1,4/0}{\\draw(-.45,\\y)--(-.2,\\y);\\node at(-.32,\\y+.2){\\tiny\\n};}\\draw(0,3.5)node[above right]{$B$}--(2,3.5)node[right]{$A$}--(0,2.25)node[right]{$C$}--cycle;\\draw(.3,3.3)--(1.2,3.3)--(.3,2.7)--cycle;\\draw(0,1.5)node[above right]{$B^{\\prime}$}--(2,1.5)node[right]{$A^{\\prime}$}--(0,.25)node[right]{$C^{\\prime}$}--cycle;\\draw(.3,1.3)--(1.2,1.3)--(.3,.7)--cycle;\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "比较同一顶点B与B′在直尺上的位置，向下移动2厘米。题目要求毫米，另行换算：\\[2\\text{厘米}=(2\\times10)\\text{毫米}=20\\text{毫米}\\]原空后已有毫米，只填20。不能拿A与B′两个不对应的顶点比较。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "translation",
+        "object_points": [
+          [
+            0,
+            3.5
+          ],
+          [
+            2,
+            3.5
+          ],
+          [
+            0,
+            2.25
+          ]
+        ],
+        "dx": 0,
+        "dy": -2,
+        "unit": "厘米",
+        "additional_paths": [
+          [
+            [
+              0.3,
+              3.3
+            ],
+            [
+              1.2,
+              3.3
+            ],
+            [
+              0.3,
+              2.7
+            ],
+            [
+              0.3,
+              3.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p070_s03",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 2,
+      "id": "二、1",
+      "kind": "judgment",
+      "question_latex": "判断：三角形都有三条对称轴。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "×。一般三角形不一定有对称轴；等腰三角形通常1条，等边三角形才有3条。反例：不等边三角形没有对称轴。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s04",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 3,
+      "id": "二、2",
+      "kind": "judgment",
+      "question_latex": "判断：物体平移时，物体上的每一个点走过的路程一样长。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "√。平移时各点沿同一方向移动相同距离，所以各点走过的路径长度相同。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s05",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 4,
+      "id": "二、3",
+      "kind": "judgment",
+      "question_latex": "判断：图形经过旋转后，形状会发生改变。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "×。旋转改变位置、朝向，形状和大小保持不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s06",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 5,
+      "id": "二、4",
+      "kind": "judgment",
+      "question_latex": "判断：正方形的对角线是它的对称轴。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(\\times\\)。对角线是线段，对称轴是直线。正确说法：正方形每条对角线所在的直线都是它的对称轴。",
+      "verification": {
+        "status": "verified",
+        "reason": "严格区分对角线（线段）与对称轴（直线）；书后第九单元(B)二4原参考也是×。",
+        "changes": [
+          "区分线段与直线，规范对称轴所在直线表述；p070_s06由√订正为×。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s07",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 6,
+      "id": "二、5",
+      "kind": "judgment",
+      "question_latex": "判断：把图中的图形在对称轴的另一边补充完整，这图形是等腰梯形。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p070_half_trapezoid",
+          "tikz": "\\begin{tikzpicture}\\draw(-1,0)--(-.7,1)--(0,1);\\draw(-1,0)--(0,0);\\draw[dashed](0,-.3)--(0,1.3);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p070_half_trapezoid_answer",
+          "tikz": "\\begin{tikzpicture}\\draw(-1,0)--(-.7,1)--(0,1);\\draw(-1,0)--(0,0);\\draw[dashed](0,-.3)--(0,1.3);\n\\draw[red,thick](0,1)--(.7,1)--(1,0)--(0,0);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "√。图中上下两条半底边平行，把一半关于虚线补齐后，两腰互为镜像且相等，得到等腰梯形。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "半梯形按实际开边界重排动画顶点，轴线上不额外画实线。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "symmetry",
+        "axis": {
+          "p1": [
+            0,
+            -0.3
+          ],
+          "p2": [
+            0,
+            1.3
+          ]
+        },
+        "object_points": [
+          [
+            0,
+            0
+          ],
+          [
+            -1,
+            0
+          ],
+          [
+            -0.7,
+            1
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        "closed": false
+      }
+    },
+    {
+      "key": "p070_s08",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 7,
+      "id": "三、1",
+      "kind": "choice",
+      "question_latex": "下列图形中，对称轴最多的是（    ），对称轴最少的是（    ）。A.内切而不同心的两圆；B.相交的两个等圆；C.同心的两圆；D.三角形排布的三个相等圆。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p070_circle_choices",
+          "tikz": "\\begin{tikzpicture}\\begin{scope}\\draw(0,0)circle(.7);\\draw(0,-.35)circle(.35);\\node at(0,-1){A};\\end{scope}\\begin{scope}[shift={(2.4,0)}]\\draw(-.35,0)circle(.6);\\draw(.35,0)circle(.6);\\node at(0,-1){B};\\end{scope}\\begin{scope}[shift={(4.8,0)}]\\draw(0,0)circle(.7);\\draw(0,0)circle(.35);\\node at(0,-1){C};\\end{scope}\\begin{scope}[shift={(7.2,0)}]\\foreach \\a in {90,210,330}{\\draw(\\a:.36)circle(.36);}\\node at(0,-1){D};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "同心圆图C关于任意过圆心的直线对称，有无数条，是最多；A中一大一小相切圆只有穿过两圆圆心的一条轴，最少。填C、A。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s09",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 8,
+      "id": "三、2",
+      "kind": "choice",
+      "question_latex": "下面不是轴对称图形的是（    ）。A.长方形；B.平行四边形；C.圆；D.半圆。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "一般平行四边形没有对称轴；长方形、圆、半圆都有轴，选B。不能把长方形、菱形等特殊情形代替题图所说的一般平行四边形。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s10",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 9,
+      "id": "三、3",
+      "kind": "choice",
+      "question_latex": "右边的轴对称图形是从纸（    ）上剪下来的。选A、B或C。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p070_papercut",
+          "tikz": "\\begin{tikzpicture}\\begin{scope}[shift={(0,2)}]\\draw(0,-.5)..controls(-.1,-.8)and(-.5,-.7)..(-.3,-.35)..controls(-1,-.3)and(-.8,.5)..(0,.4)..controls(.8,.5)and(1,-.3)..(.3,-.35)..controls(.5,-.7)and(.1,-.8)..cycle;\\end{scope}\\foreach \\x/\\lab in {0/A,3/B,6/C}{\\draw(\\x,-2)rectangle(\\x+1.3,0);\\node at(\\x+.65,-2.5){\\lab};}\\draw(1.3,-.2)..controls(.2,0)and(.2,-1.2)..(1.1,-1.1)..controls(.5,-1.7)and(.9,-2)..(1.3,-1.7);\\draw(4.3,-.2)--(3.6,-.8)--(4.2,-.8)--(3.65,-1.45)--(4.2,-1.4)--(4.3,-1.8);\\draw(7.3,-.2)..controls(6.7,-.2)and(7,-.8)..(7.2,-1)..controls(6,-.5)and(6,-1.8)..(7.2,-1.5)--(7.3,-2);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "将剪纸图样沿折边反射再拼合，A的边缘轮廓可展开成题图的左右对称形状，选A。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s11",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 10,
+      "id": "三、4",
+      "kind": "choice",
+      "question_latex": "一个三角形任意一条边上的高所在的直线都是它的对称轴，这个三角形是（    ）。A.等腰三角形；B.等腰直角三角形；C.等边三角形；D.任意三角形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "若三角形任意一边的高所在直线都是对称轴，则三组对应边都相等，只能是等边三角形，选C。等腰直角三角形只有一条轴，不能满足“任意一边”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s12",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 11,
+      "id": "三、5",
+      "kind": "choice",
+      "question_latex": "小东在描述一个图形：它有四条边，没有平行线，有一条对称轴，以下（    ）是小东描述的。选A、B、C或D。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p070_quadrilaterals",
+          "tikz": "\\begin{tikzpicture}\\draw(0,1)--(-.55,.25)--(0,-.7)--(.55,.25)--cycle;\\node at(0,-1){A};\\draw(2,1)--(3.1,1)--(2.85,0)--(2.25,0)--cycle;\\node at(2.55,-1){B};\\draw(4.2,0)--(5.3,0)--(5.55,1)--(4.45,1)--cycle;\\node at(4.85,-1){C};\\draw(6.5,0)--(7.8,0)--(7.45,1)--(6.8,.75)--cycle;\\node at(7.1,-1){D};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "A为左右对称的风筝形，有四条边，没有平行边，且有1条对称轴；B有一组平行边，C有两组，D不对称，选A。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p070_s13",
+      "book_page": 70,
+      "source_page": 74,
+      "section_index": 12,
+      "id": "三、6",
+      "kind": "choice",
+      "question_latex": "下面四幅图中，（    ）平移到位置M后能与N成轴对称图形。选A、B、C或D。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p070_lightning",
+          "tikz": "\\begin{tikzpicture}[scale=.85]\\def\\bolt{(-.6,.6)--(-.2,.8)--(0,.5)--(-.1,.45)--(.2,.1)--(.12,.05)--(.55,-.6)--(-.05,-.1)--(.04,-.02)--(-.3,.22)--(-.16,.28)--cycle}\\foreach \\x/\\a/\\sx/\\lab in {0/0/1/A,2/0/-1/B,4/180/-1/C,6/180/1/D}{\\begin{scope}[shift={(\\x,0)},rotate=\\a,xscale=\\sx]\\filldraw[fill=gray!60]\\bolt;\\end{scope}\\node at(\\x,-1.1){\\lab};}\\draw(8,-.8)rectangle(11.5,.8);\\draw(9.75,-.8)--(9.75,.8);\\node at(8.8,0){M};\\begin{scope}[shift={(10.6,0)},xscale=-1]\\filldraw[fill=gray!60]\\bolt;\\end{scope}\\node at(10.6,-1.1){N};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "先把右边N图形关于M、N之间的竖直界线反射，所需轮廓与选项A同朝向。把A平移入M后，两边互为镜像，选A。平移不能自行翻转或转向。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "anchors": [
+    {
+      "key": "p075_s02",
+      "source_y": 219.5,
+      "reason": "The standalone original red conversion now uses two lines through source y215.33; start its separate note below at y219.5, maintaining four points clearance."
+    }
+  ]
+}

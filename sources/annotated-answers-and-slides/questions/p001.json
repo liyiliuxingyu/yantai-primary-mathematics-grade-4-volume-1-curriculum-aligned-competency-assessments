@@ -1,0 +1,282 @@
+{
+  "book_page": 1,
+  "source_page": 5,
+  "title": "第一单元素养评价（A） 四则混合运算",
+  "records": [
+    {
+      "key": "p001_s01",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "添加括号使\\(671+29\\times4\\div2\\)的运算顺序变为先求和，再求积，最后求商，则原式变为（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先加括号把\\(671+29\\)作为整体，再乘\\(4\\)，最后除以\\(2\\)。应填\\((671+29)\\times4\\div2\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "先算671+29，再乘4，再除2，应为(671+29)×4÷2。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p001_s02",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 1,
+      "id": "一、2（1）",
+      "kind": "fill",
+      "question_latex": "先在方框里填上合适的数，再列出综合算式。（1）见运算流程图。综合算式：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=1.15cm,minimum height=.45cm}]\\node[b] (n00) at (0.0,0.0) {\\(136\\)};\\node[b] (n01) at (1.9,0.0) {\\(46\\)};\\node at (.95,0.0) {$-$};\\node[b] (n10) at (0.0,-0.85) {\\(450\\)};\\node[b] (n11) at (1.9,-0.85) {};\\node at (.95,-0.85) {$\\div$};\\draw (n00.south)--(n11.north);\\draw (n01.south)--(n11.north);\\node[b] (n20) at (0.0,-1.7) {};\\node[b] (n21) at (1.9,-1.7) {\\(22\\)};\\node at (.95,-1.7) {$\\times$};\\draw (n10.south)--(n20.north);\\draw (n11.south)--(n20.north);\\node[b] (n30) at (0.0,-2.55) {};\\draw (n20.south)--(n30.north);\\draw (n21.south)--(n30.north);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按扫描保持减法、除法、乘法三层依赖顺序。",
+          "name": "p001_s02_g1"
+        },
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=1.15cm,minimum height=.45cm}]\\node[b] (n00) at (0.0,0.0) {\\(136\\)};\\node[b] (n01) at (1.9,0.0) {\\(46\\)};\\node at (.95,0.0) {$-$};\\node[b] (n10) at (0.0,-0.85) {\\(450\\)};\\node[b] (n11) at (1.9,-0.85) {\\(\\color{red}{90}\\)};\\node at (.95,-0.85) {$\\div$};\\draw (n00.south)--(n11.north);\\draw (n01.south)--(n11.north);\\node[b] (n20) at (0.0,-1.7) {\\(\\color{red}{5}\\)};\\node[b] (n21) at (1.9,-1.7) {\\(22\\)};\\node at (.95,-1.7) {$\\times$};\\draw (n10.south)--(n20.north);\\draw (n11.south)--(n20.north);\\node[b] (n30) at (0.0,-2.55) {\\(\\color{red}{110}\\)};\\draw (n20.south)--(n30.north);\\draw (n21.south)--(n30.north);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "黑色保留原已知数与流程；红色只填原三空，讲解后原位回填。",
+          "name": "p001_s02_a1"
+        }
+      ],
+      "answer_latex": "顺箭头依次求数：\\(136-46=90\\)，\\(450\\div90=5\\)，\\(5\\times22=110\\)。三格依次为\\(90,5,110\\)；综合算式为\\(450\\div(136-46)\\times22\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "136−46=90，450÷90=5，5×22=110。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p001_s03",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 2,
+      "id": "一、2（2）",
+      "kind": "fill",
+      "question_latex": "先在方框里填上合适的数，再列出综合算式。（2）见运算流程图。综合算式：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=1.15cm,minimum height=.45cm}]\\node[b] (n00) at (0.0,0.0) {\\(252\\)};\\node[b] (n01) at (1.9,0.0) {\\(42\\)};\\node at (.95,0.0) {$\\div$};\\node[b] (n10) at (0.0,-0.85) {\\(219\\)};\\node[b] (n11) at (1.9,-0.85) {};\\node at (.95,-0.85) {$-$};\\draw (n00.south)--(n11.north);\\draw (n01.south)--(n11.north);\\node[b] (n20) at (0.0,-1.7) {\\(731\\)};\\node[b] (n21) at (1.9,-1.7) {};\\node at (.95,-1.7) {$-$};\\draw (n10.south)--(n21.north);\\draw (n11.south)--(n21.north);\\node[b] (n30) at (0.0,-2.55) {};\\draw (n20.south)--(n30.north);\\draw (n21.south)--(n30.north);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p001_s03_g1"
+        },
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=1.15cm,minimum height=.45cm}]\\node[b] (n00) at (0.0,0.0) {\\(252\\)};\\node[b] (n01) at (1.9,0.0) {\\(42\\)};\\node at (.95,0.0) {$\\div$};\\node[b] (n10) at (0.0,-0.85) {\\(219\\)};\\node[b] (n11) at (1.9,-0.85) {\\(\\color{red}{6}\\)};\\node at (.95,-0.85) {$-$};\\draw (n00.south)--(n11.north);\\draw (n01.south)--(n11.north);\\node[b] (n20) at (0.0,-1.7) {\\(731\\)};\\node[b] (n21) at (1.9,-1.7) {\\(\\color{red}{213}\\)};\\node at (.95,-1.7) {$-$};\\draw (n10.south)--(n21.north);\\draw (n11.south)--(n21.north);\\node[b] (n30) at (0.0,-2.55) {\\(\\color{red}{518}\\)};\\draw (n20.south)--(n30.north);\\draw (n21.south)--(n30.north);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "黑色保留原已知数与流程；红色只填原三空，讲解后原位回填。",
+          "name": "p001_s03_a1"
+        }
+      ],
+      "answer_latex": "顺箭头依次求数：\\(252\\div42=6\\)，\\(219-6=213\\)，\\(731-213=518\\)。三格依次为\\(6,213,518\\)；综合算式为\\(731-(219-252\\div42)\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "252÷42=6，219−6=213，731−213=518。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p001_s04",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 3,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "根据运算顺序，把\\(53-35=18\\)，\\(18\\times4=72\\)，\\(720\\div72=10\\)改写成综合算式是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先算\\(53-35\\)，所得差乘\\(4\\)，最后用\\(720\\)除以这个积。应填\\(720\\div[(53-35)\\times4]\\)，得数为\\(10\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "720除以先减后乘所得积，720÷[(53−35)×4]。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p001_s05",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 4,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "要使\\(8\\times(\\square\\div5)=120\\)，方框里应该填（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "逆着运算顺序还原：括号内的商是\\(120\\div8=15\\)，被除数是\\(15\\times5=75\\)。填\\(75\\)；检验\\(8\\times(75\\div5)=120\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "逆运算120÷8×5=75；8×(75÷5)=120。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p001_s06",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 5,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "小丽在计算一道除法算式时，把除数32看成了23，算出来的商是34，余数是18。这道计算题正确的结果是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "看错除数时，被除数并没有改变。先用“除数\\(\\times\\)商\\(+\\)余数”还原被除数，再除以\\(32\\)。\\[\\begin{aligned}&23\\times34+18\\\\&=782+18\\\\&=800\\\\&800\\div32=25\\end{aligned}\\]所以正确结果是\\(25\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "被除数23×34+18=800，800÷32=25。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p001_s07",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 6,
+      "id": "一、6（1）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：\\(122\\times40-15+328\\ \\bigcirc\\ 122\\times(40-15)+328\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "左式按先乘后加减算：\\(122\\times40-15+328=5193\\)；右式先算括号：\\(122\\times(40-15)+328=3378\\)。\\(5193>3378\\)，填\\(>\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "左5193，右3378，因此＞。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p001_s08",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 7,
+      "id": "一、6（2）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：\\(560\\div(14-6)\\times5\\ \\bigcirc\\ 560\\div[(14-6)\\times5]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(14-6=8\\)。左式为\\(560\\div8\\times5=350\\)，右式为\\(560\\div(8\\times5)=14\\)。\\(350>14\\)，填\\(>\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "左350，右14，因此＞。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p001_s09",
+      "book_page": 1,
+      "source_page": 5,
+      "section_index": 8,
+      "id": "一、7（跨页）",
+      "kind": "fill",
+      "question_latex": "傍晚，王叔叔在小区里走路锻炼，步行2分钟后，他手机计步APP显示如图。照这样计算，后来他又步行32分钟。\\(130+130\\div2\\times32\\)算式求的问题是（    ）。（题干跨至原书第2页。）",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "步数",
+            "步行距离",
+            "消耗热量"
+          ],
+          "rows": [
+            [
+              "200步",
+              "130米",
+              "4千卡"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "\\(130\\div2\\)表示每分钟走的米数，再乘\\(32\\)求后来走的路程，最后加上最初的\\(130\\)米。因此算式求“王叔叔一共走了多少米”。完整计算见下一页。",
+      "verification": {
+        "status": "verified",
+        "reason": "130÷2是每分钟米数，乘32为后来距离，加原130米得总路程。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

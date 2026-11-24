@@ -1,0 +1,97 @@
+{
+  "masks": [
+    {
+      "key": "p078_s01",
+      "book_page": 78,
+      "rect": [
+        446.75,
+        76.25,
+        466.75,
+        87.25
+      ],
+      "replacement_local_id": "p078_s01_local1",
+      "kind": "mean_height",
+      "old_displayed_value": "138",
+      "new_photo_value": "136",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+      "replacement_color": "black",
+      "new_paint_is_added_after_exclusion": true,
+      "neighboring_text_and_diagram_preserved": true
+    },
+    {
+      "key": "p078_s01",
+      "book_page": 78,
+      "rect": [
+        234.25,
+        133.25,
+        251.75,
+        142.75
+      ],
+      "replacement_local_id": "p078_s01_local2",
+      "kind": "ride_threshold",
+      "old_displayed_value": "146",
+      "new_photo_value": "140",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+      "replacement_color": "black",
+      "new_paint_is_added_after_exclusion": true,
+      "neighboring_text_and_diagram_preserved": true
+    },
+    {
+      "key": "p078_s01",
+      "book_page": 78,
+      "rect": [
+        342.25,
+        49.75,
+        467.25,
+        63.75
+      ],
+      "replacement_local_id": "p078_s01_local3",
+      "kind": "section_score",
+      "old_displayed_value": "原黑括注字形受损，且显示共19分",
+      "new_photo_value": "（每题2分，共12分）",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+      "replacement_color": "black",
+      "new_paint_is_added_after_exclusion": true,
+      "neighboring_text_and_diagram_preserved": true,
+      "entire_parenthetical_restored": true
+    },
+    {
+      "key": "p078_s05",
+      "book_page": 78,
+      "rect": [
+        397,
+        550,
+        539,
+        643
+      ],
+      "replacement_local_id": "p078_s05_local1",
+      "kind": "scatter_graph_from_clear_photo",
+      "replacement_color": "black",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+      "new_paint_is_added_after_exclusion": true,
+      "neighboring_text_and_answer_letters_preserved": true,
+      "diagram_source": "p078_update/assets/p078_temperatures_photo.tikz"
+    },
+    {
+      "key": "p078_s06",
+      "book_page": 78,
+      "rect": [
+        282.25,
+        700.25,
+        310.25,
+        713.75
+      ],
+      "replacement_local_id": "p078_s06_local1",
+      "kind": "damaged_term_yangge",
+      "old_displayed_value": "原扫描两字重影、难以可靠辨认",
+      "new_photo_value": "秧歌",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+      "replacement_color": "black",
+      "new_paint_is_added_after_exclusion": true,
+      "neighboring_text_preserved": true
+    }
+  ],
+  "photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+  "coordinate_system": "595x841 A4 source, top-left origin",
+  "purpose": "按原书清晰照片复原平均身高、乘坐标语、完整标题括注、散点图以及重影的秧歌两字；仅精确局部替换。"
+}

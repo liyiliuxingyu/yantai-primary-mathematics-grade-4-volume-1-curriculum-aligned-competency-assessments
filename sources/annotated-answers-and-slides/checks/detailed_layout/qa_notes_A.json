@@ -1,0 +1,554 @@
+{
+  "reviewed_book_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "records_read": 245,
+  "question_files_read": [
+    "questions/p001.json",
+    "questions/p002.json",
+    "questions/p003.json",
+    "questions/p004.json",
+    "questions/p005.json",
+    "questions/p006.json",
+    "questions/p007.json",
+    "questions/p008.json",
+    "questions/p009.json",
+    "questions/p010.json",
+    "questions/p011.json",
+    "questions/p012.json",
+    "questions/p013.json",
+    "questions/p014.json",
+    "questions/p015.json",
+    "questions/p016.json",
+    "questions/p017.json",
+    "questions/p018.json",
+    "questions/p019.json",
+    "questions/p020.json",
+    "questions/p021.json",
+    "questions/p022.json",
+    "questions/p023.json",
+    "questions/p024.json",
+    "questions/p025.json",
+    "questions/p026.json",
+    "questions/p027.json"
+  ],
+  "page_record_counts": {
+    "1": 9,
+    "2": 8,
+    "3": 7,
+    "4": 5,
+    "5": 9,
+    "6": 8,
+    "7": 8,
+    "8": 5,
+    "9": 7,
+    "10": 11,
+    "11": 10,
+    "12": 6,
+    "13": 7,
+    "14": 8,
+    "15": 10,
+    "16": 4,
+    "17": 10,
+    "18": 9,
+    "19": 16,
+    "20": 4,
+    "21": 13,
+    "22": 9,
+    "23": 16,
+    "24": 4,
+    "25": 17,
+    "26": 14,
+    "27": 11
+  },
+  "records_in_output": 245,
+  "detailed_visible_count": 241,
+  "expanded_or_new_count": 241,
+  "previously_empty_now_detailed": 68,
+  "cross_page_empty": [
+    {
+      "key": "p001_s09",
+      "covered_by": "p002_s01",
+      "reason": "同一道原题自然跨页，统一由条件齐全的原题续文记录给一次解析，不在题头再重复。"
+    },
+    {
+      "key": "p009_s07",
+      "covered_by": "p010_s01",
+      "reason": "同一道原题自然跨页，统一由条件齐全的原题续文记录给一次解析，不在题头再重复。"
+    },
+    {
+      "key": "p013_s07",
+      "covered_by": "p014_s01",
+      "reason": "同一道原题自然跨页，在条件齐全的续文记录统一给详细解析，本题头不重复。"
+    },
+    {
+      "key": "p017_s10",
+      "covered_by": "p018_s01",
+      "reason": "同一道原题自然跨页，在条件齐全的续文记录统一给详细解析，本题头不重复。"
+    }
+  ],
+  "numeric_verification": {
+    "pages_1_9": {
+      "independently_checked_records": 60,
+      "keys": [
+        "p001_s01",
+        "p001_s02",
+        "p001_s03",
+        "p001_s04",
+        "p001_s05",
+        "p001_s06",
+        "p001_s07",
+        "p001_s08",
+        "p002_s01",
+        "p002_s02",
+        "p002_s03",
+        "p002_s04",
+        "p002_s05",
+        "p002_s06",
+        "p002_s07",
+        "p002_s08",
+        "p003_s01",
+        "p003_s02",
+        "p003_s03",
+        "p003_s04",
+        "p003_s05",
+        "p003_s06",
+        "p003_s07",
+        "p004_s01",
+        "p004_s02",
+        "p004_s03",
+        "p004_s04",
+        "p004_s05",
+        "p005_s01",
+        "p005_s02",
+        "p005_s03",
+        "p005_s04",
+        "p005_s05",
+        "p005_s06",
+        "p005_s07",
+        "p005_s08",
+        "p005_s09",
+        "p006_s01",
+        "p006_s02",
+        "p006_s03",
+        "p006_s04",
+        "p006_s05",
+        "p006_s06",
+        "p006_s07",
+        "p006_s08",
+        "p007_s01",
+        "p007_s02",
+        "p007_s03",
+        "p007_s04",
+        "p007_s05",
+        "p007_s06",
+        "p007_s07",
+        "p007_s08",
+        "p008_s01",
+        "p008_s02",
+        "p008_s03",
+        "p008_s04",
+        "p008_s05",
+        "p009_s04",
+        "p009_s05"
+      ],
+      "scope": "逐题核算全部数值题、所有原补缺脱式、可替代运算次序、24点五结构及括号五结构；几何题另核概念和题图"
+    },
+    "pages_10_18": {
+      "reviewed_book_pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "question_files_read": 9,
+      "records_read": 75,
+      "canonical_answers_and_old_notes_read": 75,
+      "diagram_sources_read": "全部有图记录的question及answer TikZ与notes均逐条读取",
+      "detailed_explanations_added_or_expanded": 73,
+      "empty_natural_page_continuations": {
+        "p013_s07": "p014_s01",
+        "p017_s10": "p018_s01"
+      },
+      "independent_numeric_checks": {
+        "p010_s02": true,
+        "p011_s02": true,
+        "p011_s03": true,
+        "p011_s04": true,
+        "p011_s05": true,
+        "p011_s06": true,
+        "p011_s07": true,
+        "p011_s08": true,
+        "p012_s02": true,
+        "p012_s03": true,
+        "p013_s03": true,
+        "p014_s04": true,
+        "p015_s01": true,
+        "p015_s02": true,
+        "p015_s03": true,
+        "p015_s04": true,
+        "p015_s05": true,
+        "p015_s06": true,
+        "p015_s07": true,
+        "p015_s08": true,
+        "p016_s02": true,
+        "p017_s01": true,
+        "p017_s02": true,
+        "p017_s03": true,
+        "p017_s04": true,
+        "p017_s05": true,
+        "p017_s06": true,
+        "p017_s07": true,
+        "p017_s08": true,
+        "p017_s09": true,
+        "p018_s01": true,
+        "p018_s02": true,
+        "p018_s03": true,
+        "p018_s05": true,
+        "p018_s06": true,
+        "p018_s09": true
+      },
+      "numeric_records_checked": 36,
+      "geometry_review_scope": "其余题逐条核对小学平行、垂直、点线距离、两点线段最短、长方形与正方形性质及三角板操作；图形中已标的条件与未标条件分开，未改动图。",
+      "preserved_conditions": [
+        "p010_s04扫描长度与直角条件未核清，保留条件式说明，不猜读。",
+        "p012_s01只有O恰居中时上下两条最近路线才等长。",
+        "p014_s06按通常对折方式保留可能关系的限定。",
+        "p018_s02高速路段速度不能无条件套到全程22小时。",
+        "p018_s09保留A、C两式都正确。"
+      ],
+      "canonical_contradictions_newly_discovered": [],
+      "protected_patches_and_figures_unchanged": true,
+      "new_figures_added": 0,
+      "pending_visual_review": "待主代理排版后实际审阅本组9页"
+    },
+    "pages_19_27": {
+      "book_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "source_question_files_read": 9,
+      "source_records_read": 104,
+      "old_note_records_read": 104,
+      "detailed_records_written": 104,
+      "nonempty_detailed_explanations": 104,
+      "newly_filled_previous_blank_notes": 40,
+      "expanded_previous_nonempty_notes": 64,
+      "preserved_indispensable_math_tails": 10,
+      "mathematical_review": "全部104条逐题核对题目、表、图、原答案和verification。数值题用原始数量独立重算，概念及符号运算题逐项核对数量关系/运算律。",
+      "independent_numeric_record_checks": 97,
+      "additional_numeric_checks": 21,
+      "numeric_checks_passed": true,
+      "figures_and_patch_fields_unchanged": true,
+      "latex_delimiter_and_brace_checks_passed": true,
+      "existing_conditions_preserved": [
+        "p020_s04按2成人1儿童，机票往返",
+        "p022_s01按首次相遇，未限定则不唯一",
+        "p026_s03 C、D均可，题干未限定先合并减数"
+      ],
+      "new_source_contradictions_found": [],
+      "render_review_pending": true
+    },
+    "independently_checked_records_total": 193
+  },
+  "preservation_checks": {
+    "record_order_and_keys": true,
+    "extra_figures_unchanged": true,
+    "local_replacements_unchanged": true,
+    "original_replacements_unchanged": true,
+    "no_new_figures": true,
+    "concise_source_unchanged_by_this_task": true
+  },
+  "known_conditions_retained": [
+    "p006_s05: B按给定步骤合成，D数值同值",
+    "p008_s05: 未限定一对括号时最大240，限一对时最大60",
+    "p010_s04: 扫描数值与直角标记未核清，需条件成立才可定数值",
+    "p012_s01: 到边的垂距比较，未给中点不作中点假设",
+    "p018_s02: 高速平均速度不能无条件用于全程",
+    "p020_s04: 按2名成人与1名18岁以下儿童计算",
+    "p022_s01: 按首次相遇理解才唯一",
+    "p026_s03: C、D都能简算，题干未限先合并减数"
+  ],
+  "new_source_conflicts": [],
+  "visual_review": "待主代理排版后提供A组27页成品，逐页实际审阅。",
+  "latex_compilation": {
+    "engine": "xelatex",
+    "exit_code": 0,
+    "compiled_note_blocks": 241,
+    "log": "detailed_layout/A_notes_syntax.log",
+    "overfull_or_underfull_warnings": false
+  },
+  "candidate_math_review": {
+    "candidates_reviewed": 30,
+    "new_numeric_chain_records": 25,
+    "kept_no_addition_records": 5,
+    "changed_keys": [
+      "p005_s05",
+      "p008_s05",
+      "p017_s05",
+      "p017_s09",
+      "p018_s09",
+      "p021_s01",
+      "p021_s03",
+      "p021_s06",
+      "p021_s07",
+      "p021_s08",
+      "p021_s09",
+      "p021_s10",
+      "p021_s11",
+      "p021_s12",
+      "p021_s13",
+      "p022_s01",
+      "p022_s02",
+      "p022_s03",
+      "p022_s05",
+      "p022_s06",
+      "p022_s08",
+      "p025_s03",
+      "p025_s16",
+      "p025_s17",
+      "p026_s03"
+    ],
+    "kept_keys": [
+      "p017_s01",
+      "p018_s02",
+      "p025_s01",
+      "p025_s02",
+      "p026_s02"
+    ],
+    "decisions": [
+      {
+        "key": "p005_s05",
+        "append_latex": "\\par 按题意列式并逐步计算：\\[\\begin{aligned}&(630-78)\\times14\\div7\\\\={}&552\\times14\\div7\\\\={}&7728\\div7\\\\={}&1104\\end{aligned}\\]若按前述简算思路，中间的\\(552\\)直接乘\\(2\\)，同样得到\\(1104\\)。",
+        "decision": "add",
+        "original_evidence": "原书5页第4题原红仅在括号内填1104，无列式和过程；视觉核对original_p005.png。"
+      },
+      {
+        "key": "p008_s05",
+        "append_latex": "\\par 原位最大值所用算式继续计算：\\[\\begin{aligned}={}&1200\\div(10\\div2)\\\\={}&1200\\div5\\\\={}&240\\end{aligned}\\]原位最小值所用算式继续计算：\\[\\begin{aligned}={}&(40-20)\\div2\\\\={}&20\\div2\\\\={}&10\\end{aligned}\\]",
+        "decision": "add",
+        "original_evidence": "原书8页底部只填最大240、最小10及各自原式和一对/嵌套条件提示，没有后续中间计算；保留原式不重抄，只续等号。"
+      },
+      {
+        "key": "p017_s01",
+        "append_latex": "",
+        "decision": "keep",
+        "original_evidence": "原书17页第1题的列式计算空已原红完整写出45÷3=15（元/千克），并已有单价=总价÷数量；当前详注补平均分原因即可，无须重复这条一步计算。"
+      },
+      {
+        "key": "p017_s05",
+        "append_latex": "\\par 用速度乘时间求全程：\\[\\begin{aligned}&305\\times8\\\\={}&2440\\text{（千米）}\\end{aligned}\\]",
+        "decision": "add",
+        "original_evidence": "原书17页第3题原红只有速度名称、单位读法与2440填空，没有305×8的计算式。"
+      },
+      {
+        "key": "p017_s09",
+        "append_latex": "\\par 将整百张和另外两张的票款合并：\\[\\begin{aligned}&38\\times102\\\\={}&38\\times100+38\\times2\\\\={}&3800+76\\\\={}&3876\\text{（元）}\\end{aligned}\\]",
+        "decision": "add",
+        "original_evidence": "原书17页第7题仅在收入括号内原红填3876，缺票价乘售票数和拆分计算链。"
+      },
+      {
+        "key": "p018_s02",
+        "append_latex": "",
+        "decision": "keep",
+        "original_evidence": "原书18页第9题右侧黑竖式已经完整显示106×22、两个部分积212与错位212、总积2332，重复横式无新增过程；本小问仅要求关系式，现详注已保留速度仅对高速路段适用的条件限制。"
+      },
+      {
+        "key": "p018_s09",
+        "append_latex": "\\par C按“先求单价、再求总价”计算：\\[\\begin{aligned}={}&3\\times4\\\\={}&12\\text{（元）}\\end{aligned}\\]A按“先求四组的钱、再平均分成六份”计算：\\[\\begin{aligned}={}&72\\div6\\\\={}&12\\text{（元）}\\end{aligned}\\]",
+        "decision": "add",
+        "original_evidence": "原书18页第6题原红只填A、C，A/C选项黑式是题目列式选项，无后续数值过程；此处应解释并核算两种真正不同的数量整理思路。；补链从选项算式的首个后续等号起，不重抄选项本身。"
+      },
+      {
+        "key": "p021_s01",
+        "append_latex": "\\par \\[\\begin{aligned}&96\\div3\\times10\\\\={}&32\\times10\\\\={}&320\\text{（元）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、1仅在括号填红色320，未列单价和10支总价的计算。"
+      },
+      {
+        "key": "p021_s03",
+        "append_latex": "\\par \\[\\begin{aligned}&40\\div8\\\\={}&5\\text{（元/千克）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、2只填红色5元/千克和5元每千克，并有概念关系式；未出现40÷8。"
+      },
+      {
+        "key": "p021_s06",
+        "append_latex": "\\par \\[\\begin{aligned}&840\\div12\\\\={}&70\\text{（米/分）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、4步行速度格仅填红色70米/分，表外没有计算。"
+      },
+      {
+        "key": "p021_s07",
+        "append_latex": "\\par \\[\\begin{aligned}&280\\times5\\\\={}&1400\\text{（米）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、4自行车路程格仅填红色1400米，表外没有计算。"
+      },
+      {
+        "key": "p021_s08",
+        "append_latex": "\\par \\[\\begin{aligned}&105\\div35\\\\={}&3\\text{（小时）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、4船的时间格仅填红色3小时，表外没有计算。"
+      },
+      {
+        "key": "p021_s09",
+        "append_latex": "\\par \\[\\begin{aligned}&428\\div4\\\\={}&107\\text{（千米/时）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、4汽车速度格仅填红色107千米/时，表外没有计算。"
+      },
+      {
+        "key": "p021_s10",
+        "append_latex": "\\par \\[\\begin{aligned}&435\\times12\\\\={}&435\\times(10+2)\\\\={}&4350+870\\\\={}&5220\\text{（千米）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、5仅填红色5220及路程＝速度×时间，未有435乘12的数值过程。"
+      },
+      {
+        "key": "p021_s11",
+        "append_latex": "\\par 先求往返路程再取一半：\\[\\begin{aligned}&340\\times6\\div2\\\\={}&2040\\div2\\\\={}&1020\\text{（米）}\\end{aligned}\\]先求单程时间再求宽度：\\[\\begin{aligned}&340\\times(6\\div2)\\\\={}&340\\times3\\\\={}&1020\\text{（米）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、6仅填红色1020，没有往返路程或单程时间的算式。"
+      },
+      {
+        "key": "p021_s12",
+        "append_latex": "\\par \\[\\begin{aligned}&16\\div2\\\\={}&8\\text{（元/千克）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、7第一空仅填红色8，没有16÷2的单价计算。"
+      },
+      {
+        "key": "p021_s13",
+        "append_latex": "\\par \\[\\begin{aligned}&24\\div8\\\\={}&3\\text{（千克）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第25页（页脚21）一、7第二空仅填红色3，没有24÷8的购买质量计算。"
+      },
+      {
+        "key": "p022_s01",
+        "append_latex": "\\par 按首次相遇计算：\\[\\begin{aligned}&(65+85)\\times2\\\\={}&150\\times2\\\\={}&300\\text{（米）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第26页（页脚22）一、8仅填红色300，另有首次相遇限定短注，没有速度和乘时间的数值链。"
+      },
+      {
+        "key": "p022_s02",
+        "append_latex": "\\par 先求每分钟打字数：\\[\\begin{aligned}&432\\div6\\times30\\\\={}&72\\times30\\\\={}&2160\\text{（个）}\\end{aligned}\\]按时间倍数求：\\[\\begin{aligned}&432\\times(30\\div6)\\\\={}&432\\times5\\\\={}&2160\\text{（个）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第26页（页脚22）一、9仅填红色2160，未列每分钟法或倍数法的计算。"
+      },
+      {
+        "key": "p022_s03",
+        "append_latex": "\\par \\[\\begin{aligned}&(470-30)\\div4\\\\={}&440\\div4\\\\={}&110\\text{（千米/时）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第26页（页脚22）一、10仅填红色110，没有先减剩余路程再求速度的式子。"
+      },
+      {
+        "key": "p022_s05",
+        "append_latex": "\\par \\[\\begin{aligned}&5\\times2+8\\times3\\\\={}&10+24\\\\={}&34\\text{（元）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第26页（页脚22）二、2仅填红色A，四个黑色选项为总价数值，没有两种文具款项计算。"
+      },
+      {
+        "key": "p022_s06",
+        "append_latex": "\\par \\[\\begin{aligned}&406\\div2\\\\={}&203\\text{（千米/时）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第26页（页脚22）二、3仅填红色B，黑图提供12:43与14:43，没有406÷2。"
+      },
+      {
+        "key": "p022_s08",
+        "append_latex": "\\par \\[\\begin{aligned}&(70+60)\\times6\\\\={}&130\\times6\\\\={}&780\\text{（米）}\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第26页（页脚22）二、5仅填红色B，黑选项为四个长度数值，没有速度和的计算。"
+      },
+      {
+        "key": "p025_s01",
+        "append_latex": "",
+        "decision": "no_addition_needed",
+        "original_evidence": "基底PDF第29页（页脚25）一、1四空红色a、b、a、c已与黑色运算符组成完整符号分配律等式；现详细注释已解释每项都须乘a，无具体数值待计算。"
+      },
+      {
+        "key": "p025_s02",
+        "append_latex": "",
+        "decision": "no_addition_needed",
+        "original_evidence": "基底PDF第29页（页脚25）一、2原红已写45×42＝45×40＋45×2；旁边原黑竖式完整列出部分积90、错位180及总积1890。现详细注释已解释第二行实际表示1800，过程已充分，不再重抄横竖式。"
+      },
+      {
+        "key": "p025_s03",
+        "append_latex": "\\par 原位“先乘\\(100\\)再减一份”的算式继续计算：\\[\\begin{aligned}={}&8700-87\\\\={}&8613\\end{aligned}\\]先加后乘的方法：\\[\\begin{aligned}&(88+11)\\times87\\\\={}&99\\times87\\\\={}&8613\\end{aligned}\\]先乘\\(33\\)再乘\\(3\\)的方法：\\[\\begin{aligned}&87\\times33\\times3\\\\={}&2871\\times3\\\\={}&8613\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第29页（页脚25）一、3原红只写87×100−87，没有后续计算，也没有先88＋11再乘87、先乘33再乘3这两种方法的数值链；因此补首法后续及两个真正不同输入法。"
+      },
+      {
+        "key": "p025_s16",
+        "append_latex": "\\par 反用分配律后继续计算：\\[\\begin{aligned}={}&25\\times(\\bigcirc+\\triangle)\\\\={}&25\\times4\\\\={}&100\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第29页（页脚25）一、6仅填红色100，未列提取共同因数并代入图形和4的步骤。"
+      },
+      {
+        "key": "p025_s17",
+        "append_latex": "\\par 少算的部分为：\\[\\begin{aligned}&8\\times6-6\\\\={}&48-6\\\\={}&42\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第29页（页脚25）一、7仅填红色42，未列两式相差部分的计算。"
+      },
+      {
+        "key": "p026_s02",
+        "append_latex": "",
+        "decision": "no_addition_needed",
+        "original_evidence": "基底PDF第30页（页脚26）二、2仅红色选C，但黑色C选项本身已完整写350÷2÷5＝350÷(2×5)。题目要求辨认运算性质的等式，现详细注释已解释合并除数并指出A、B、D的具体错误；无需再为选性质重复该式或计算到35。"
+      },
+      {
+        "key": "p026_s03",
+        "append_latex": "\\par 选D，先合并两个减数：\\[\\begin{aligned}&783-(256+244)\\\\={}&783-500\\\\={}&283\\end{aligned}\\]选C，先减\\(283\\)凑整：\\[\\begin{aligned}&783-283-256\\\\={}&500-256\\\\={}&244\\end{aligned}\\]",
+        "decision": "append",
+        "original_evidence": "基底PDF第30页（页脚26）二、3原红仅填C、D，另有本题非唯一短注，没有D先合并减数、C先减283的两条具体简算链。"
+      }
+    ],
+    "original_pdf": "recovered/annotated_a4_128.pdf",
+    "original_pdf_pages_reviewed": [
+      9,
+      12,
+      21,
+      22,
+      25,
+      26,
+      29,
+      30
+    ],
+    "existing_notes_preserved": true,
+    "patch_and_figure_fields_unchanged": true,
+    "frozen_for_final2": true
+  }
+}

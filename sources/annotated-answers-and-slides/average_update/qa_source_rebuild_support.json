@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "source_answer_exclusions_idempotent_after_recovery": true,
+  "tested_a4_book_pages": [
+    75,
+    79,
+    88,
+    91
+  ],
+  "render_sha256": {
+    "75": "fda8220daae581c77ef382212b6bfed0c43826d3f6bad27ef8fbd05746ecd041",
+    "79": "17c79262e699761c0d079f068fd78a9ac057f788051db40f81a4770c0a0a4f7a",
+    "88": "bfbbaebe38b5277094e20aa518e8a16b9b423ac2621045a0706fed35226dee96",
+    "91": "db62abca58a3ad017e7a63683647b484722a7202d580bae0ee9a22343e53e955"
+  },
+  "mask_source_path": "average_update/source_masks.json",
+  "layout_anchor_path": "average_update/layout_reuse.json",
+  "all_paths_resolve_from_project_root": true,
+  "recovered_base_keeps_current_clips": true
+}

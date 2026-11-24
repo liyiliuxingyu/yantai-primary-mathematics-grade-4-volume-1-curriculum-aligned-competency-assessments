@@ -1,0 +1,512 @@
+{
+  "scope": "Only original-book page78 photo corrections; slide order, original IDs and animation XML retained.",
+  "slides": [
+    {
+      "slide": 115,
+      "part_number": 113,
+      "record_key": "p078_s01",
+      "objects": [
+        {
+          "name": "p078_s01_b000_0_p0",
+          "type": "native_editable_text",
+          "text": "周末，三个小朋友相约去玩“海盗船”，他们3人的平均身",
+          "rect": [
+            64.0,
+            260.5000524934383,
+            1115.4999475065617,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        },
+        {
+          "name": "p078_s01_b000_1_p0",
+          "type": "native_editable_text",
+          "text": "高是136cm。他们可能有",
+          "rect": [
+            64.0,
+            336.5000524934383,
+            495.166719160105,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        },
+        {
+          "name": "p078_s01_b000_1_p1_left",
+          "type": "native_editable_text",
+          "text": "（",
+          "rect": [
+            555.166719160105,
+            334.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "points": 32,
+          "color": "000000"
+        },
+        {
+          "name": "p078_s01_b000_1_p1_right",
+          "type": "native_editable_text",
+          "text": "）",
+          "rect": [
+            653.7400524934383,
+            334.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "points": 32,
+          "color": "000000"
+        },
+        {
+          "name": "p078_s01_b000_1_p2",
+          "type": "native_editable_text",
+          "text": "人能玩“海盗船”。提示",
+          "rect": [
+            699.406719160105,
+            336.5000524934383,
+            473.3333333333333,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        },
+        {
+          "name": "p078_s01_b000_2_p0",
+          "type": "native_editable_text",
+          "text": "牌：“140cm以下儿童禁止乘坐！”A.0；B.0或1；C.0",
+          "rect": [
+            64.0,
+            412.5000524934383,
+            1117.833280839895,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        },
+        {
+          "name": "p078_s01_b000_3_p0",
+          "type": "native_editable_text",
+          "text": "或1或2；D.1。",
+          "rect": [
+            64.0,
+            486.5000524934383,
+            360.4999475065617,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        },
+        {
+          "name": "p078_section_choice_instruction",
+          "type": "native_editable_text",
+          "text": "二、选择（将正确答案的序号填在括号里）。\n（每题2分，共12分）",
+          "rect": [
+            64,
+            108,
+            1152,
+            116
+          ],
+          "points": 32,
+          "color": "000000"
+        }
+      ],
+      "timing_bytes_unchanged": true
+    },
+    {
+      "slide": 116,
+      "part_number": 114,
+      "record_key": "p078_s01",
+      "objects": [
+        {
+          "name": "p078_s01_b001_0",
+          "type": "tikz_vector",
+          "svg": "ppt_p078/assets/pirate_ship_140/pirate_ship_140.svg",
+          "png": "ppt_p078/assets/pirate_ship_140/pirate_ship_140.png",
+          "rect": [
+            64.0,
+            120.0,
+            965.4071945888696,
+            480.0
+          ]
+        }
+      ],
+      "timing_bytes_unchanged": true
+    },
+    {
+      "slide": 117,
+      "part_number": 115,
+      "record_key": "p078_s01",
+      "objects": [
+        {
+          "name": "p078_s01_b002_0_p0",
+          "type": "native_editable_text",
+          "text": "三人总身高",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            217.33333333333334,
+            58.0
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s01_b002_0_p1",
+          "type": "math",
+          "latex": "136\\times3=408",
+          "plain": "136×3=408",
+          "rect": [
+            277.3333333333333,
+            136.7000524934383,
+            245.28,
+            33.6
+          ],
+          "native_omml": true,
+          "svg_png_compatibility": true
+        },
+        {
+          "name": "p078_s01_b002_0_p2",
+          "type": "native_editable_text",
+          "text": "厘米。能坐者身高至少",
+          "rect": [
+            525.613333,
+            124.500052,
+            426.666667,
+            58
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s01_b002_0_p3",
+          "type": "math",
+          "latex": "140",
+          "plain": "140",
+          "rect": [
+            955.28,
+            138.473385,
+            61.146667,
+            30.053333
+          ],
+          "native_omml": true,
+          "svg_png_compatibility": true
+        },
+        {
+          "name": "p078_s01_b002_0_p4",
+          "type": "native_editable_text",
+          "text": "厘米；",
+          "rect": [
+            1019.426667,
+            124.500052,
+            174.666667,
+            58
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s01_b002_1_p0",
+          "type": "native_editable_text",
+          "text": "3人全能坐，至少需",
+          "rect": [
+            64,
+            198.500052,
+            384,
+            58
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s01_b002_1_p1",
+          "type": "math",
+          "latex": "140\\times3=420",
+          "plain": "140×3=420",
+          "rect": [
+            448,
+            210.700052,
+            245.28,
+            33.6
+          ],
+          "native_omml": true,
+          "svg_png_compatibility": true
+        },
+        {
+          "name": "p078_s01_b002_1_p2",
+          "type": "native_editable_text",
+          "text": "厘米。",
+          "rect": [
+            696.28,
+            198.500052,
+            174.666667,
+            58
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s01_b002_2_p0",
+          "type": "math",
+          "latex": "408<420",
+          "plain": "408<420",
+          "rect": [
+            64,
+            282.340052,
+            201,
+            38.32
+          ],
+          "native_omml": true,
+          "svg_png_compatibility": true
+        },
+        {
+          "name": "p078_s01_b002_2_p1",
+          "type": "native_editable_text",
+          "text": "，所以不可能3人全能坐。",
+          "rect": [
+            268,
+            272.500052,
+            800,
+            58
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s01_b003_3_p1",
+          "type": "math",
+          "latex": "(136,136,136)",
+          "plain": "(136,136,136)",
+          "rect": [
+            362.6666666666667,
+            352.95338582677164,
+            245.50666666666666,
+            45.093333333333334
+          ],
+          "native_omml": true,
+          "svg_png_compatibility": true
+        },
+        {
+          "name": "p078_s01_b004_4_p1",
+          "type": "math",
+          "latex": "(146,131,131)",
+          "plain": "(146,131,131)",
+          "rect": [
+            106.66666666666667,
+            426.95338582677164,
+            245.50666666666666,
+            45.093333333333334
+          ],
+          "native_omml": true,
+          "svg_png_compatibility": true
+        },
+        {
+          "name": "p078_s01_b005_5_p1",
+          "type": "math",
+          "latex": "(146,146,116)",
+          "plain": "(146,146,116)",
+          "rect": [
+            106.66666666666667,
+            500.95338582677164,
+            245.50666666666666,
+            45.093333333333334
+          ],
+          "native_omml": true,
+          "svg_png_compatibility": true
+        }
+      ],
+      "timing_bytes_unchanged": true
+    },
+    {
+      "slide": 118,
+      "part_number": 116,
+      "record_key": "p078_s01",
+      "objects": [
+        {
+          "name": "p078_s01_b006_0_p1",
+          "type": "math",
+          "latex": "136",
+          "plain": "136",
+          "rect": [
+            490.6666666666667,
+            138.47338582677165,
+            61.14666666666667,
+            30.053333333333335
+          ],
+          "native_omml": true,
+          "svg_png_compatibility": true
+        }
+      ],
+      "timing_bytes_unchanged": true
+    },
+    {
+      "slide": 119,
+      "part_number": 117,
+      "record_key": "p078_s01",
+      "objects": [
+        {
+          "name": "p078_s01_b008_1_p0",
+          "type": "native_editable_text",
+          "text": "高是136cm。他们可能有",
+          "rect": [
+            64.0,
+            200.50005249343832,
+            495.166719160105,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        },
+        {
+          "name": "p078_s01_b008_2_p0",
+          "type": "native_editable_text",
+          "text": "牌：“140cm以下儿童禁止乘坐！”A.0；B.0或1；C.0",
+          "rect": [
+            64.0,
+            276.5000524934383,
+            1117.833280839895,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        }
+      ],
+      "timing_bytes_unchanged": true
+    },
+    {
+      "slide": 129,
+      "part_number": 127,
+      "record_key": "p078_s05",
+      "objects": [
+        {
+          "name": "p078_s05_b001_0",
+          "type": "tikz_vector",
+          "svg": "ppt_p078/assets/temperatures_photo/p078_temperatures_photo.svg",
+          "png": "ppt_p078/assets/temperatures_photo/p078_temperatures_photo.png",
+          "rect": [
+            64.0,
+            120.0,
+            677.4674015748031,
+            445.52272844804605
+          ]
+        }
+      ],
+      "timing_bytes_unchanged": true
+    },
+    {
+      "slide": 130,
+      "part_number": 128,
+      "record_key": "p078_s05",
+      "objects": [
+        {
+          "name": "p078_s05_b002_0_p0",
+          "type": "native_editable_text",
+          "text": "观察第二天四个气温点相对",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            516.0,
+            58.0
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s05_b002_0_p2",
+          "type": "native_editable_text",
+          "text": "摄氏度虚线，高出与低下的",
+          "rect": [
+            620.64,
+            124.50005249343832,
+            558.6666666666666,
+            58.0
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s05_b002_1_p0",
+          "type": "native_editable_text",
+          "text": "部分大致相抵，移多补少后平均约为",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            729.3333333333334,
+            58.0
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s05_b002_1_p2",
+          "type": "native_editable_text",
+          "text": "摄氏度。",
+          "rect": [
+            833.9733333333334,
+            198.50005249343832,
+            345.3333333333333,
+            58.0
+          ],
+          "points": 32,
+          "color": "C00000"
+        },
+        {
+          "name": "p078_s05_b002_2_p0",
+          "type": "native_editable_text",
+          "text": "第一天偏高，第三天与第四天整体偏低。",
+          "rect": [
+            64,
+            272.500052,
+            1152,
+            58
+          ],
+          "points": 32,
+          "color": "C00000"
+        }
+      ],
+      "timing_bytes_unchanged": true
+    },
+    {
+      "slide": 132,
+      "part_number": 130,
+      "record_key": "p078_s06",
+      "objects": [
+        {
+          "name": "p078_s06_b000_0_p0",
+          "type": "native_editable_text",
+          "text": "烟台市“非遗小传人”评选中，小兰秧歌和剪纸两项的平均",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        }
+      ],
+      "timing_bytes_unchanged": true
+    },
+    {
+      "slide": 134,
+      "part_number": 132,
+      "record_key": "p078_s06",
+      "objects": [
+        {
+          "name": "p078_s06_b003_0_p0",
+          "type": "native_editable_text",
+          "text": "烟台市“非遗小传人”评选中，小兰秧歌和剪纸两项的平均",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "points": 32,
+          "color": "000000"
+        }
+      ],
+      "timing_bytes_unchanged": true
+    }
+  ]
+}

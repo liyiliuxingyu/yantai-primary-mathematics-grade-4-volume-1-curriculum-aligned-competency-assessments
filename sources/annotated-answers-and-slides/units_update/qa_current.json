@@ -1,0 +1,128 @@
+{
+  "passed": true,
+  "scope": "全册解答单位换算独立行且单位不括号，普通结果单位括号ASCII，同步原位红字与六册课件",
+  "pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "pages": 128,
+  "first_page_blank": true,
+  "no_extra_pages": true,
+  "all_page_widths_unchanged": true,
+  "height_increased_pages": [
+    {
+      "file_page": 14,
+      "delta_pt": 14.0
+    },
+    {
+      "file_page": 21,
+      "delta_pt": 14.0
+    },
+    {
+      "file_page": 26,
+      "delta_pt": 14.0
+    },
+    {
+      "file_page": 28,
+      "delta_pt": 28.0
+    },
+    {
+      "file_page": 53,
+      "delta_pt": 60.0
+    },
+    {
+      "file_page": 56,
+      "delta_pt": 59.0
+    },
+    {
+      "file_page": 57,
+      "delta_pt": 117.0
+    },
+    {
+      "file_page": 58,
+      "delta_pt": 15.0
+    },
+    {
+      "file_page": 59,
+      "delta_pt": 56.0
+    },
+    {
+      "file_page": 62,
+      "delta_pt": 28.0
+    },
+    {
+      "file_page": 65,
+      "delta_pt": 14.0
+    },
+    {
+      "file_page": 67,
+      "delta_pt": 16.0
+    },
+    {
+      "file_page": 79,
+      "delta_pt": 14.0
+    },
+    {
+      "file_page": 85,
+      "delta_pt": 210.0
+    },
+    {
+      "file_page": 86,
+      "delta_pt": 28.0
+    },
+    {
+      "file_page": 97,
+      "delta_pt": 91.0
+    },
+    {
+      "file_page": 101,
+      "delta_pt": 28.0
+    },
+    {
+      "file_page": 105,
+      "delta_pt": 28.0
+    },
+    {
+      "file_page": 109,
+      "delta_pt": 139.0
+    },
+    {
+      "file_page": 110,
+      "delta_pt": 41.0
+    }
+  ],
+  "height_increased_page_count": 20,
+  "compiled_snippets": 1014,
+  "local_patches": 158,
+  "new_local_patches": 66,
+  "source_records_read": 867,
+  "conversion_cases_checked": 43,
+  "Q4_B_and_5_black_repairs_preserved": true,
+  "scope_qa": "units_update/qa_scope.json",
+  "recovery_qa": "units_update/qa_recovery.json",
+  "source_rows_qa": "units_update/qa_source_rows.json",
+  "portability_qa": "units_update/qa_portability.json",
+  "mathematics_qa": "units_update/qa_math_independent.json",
+  "pdf_visual_qa": [
+    "units_update/qa_visual_001_036.json",
+    "units_update/qa_visual_037_072.json",
+    "units_update/qa_visual_073_108.json",
+    "units_update/qa_visual_carryforward.json",
+    "units_update/qa_root_pdf.json"
+  ],
+  "ppt_qa_paths": [
+    "ppt_units/qa_final.json"
+  ],
+  "ppt_independent_visual_qa": [
+    "ppt_units/qa_v1_review.json",
+    "ppt_units/qa_v2_review.json",
+    "ppt_units/qa_v3_4_review.json",
+    "ppt_units/qa_v5_6_review.json"
+  ],
+  "ppt_total_slides": 2670,
+  "ppt_changed_slides": 379,
+  "ppt_actual_exported_pages": 381,
+  "ppt_unit_math_regions_actually_reviewed": 526,
+  "ppt_conversion_whole_pages_actually_reviewed": 58,
+  "native_powerpoint_playback_tested": false,
+  "native_wps_playback_tested": false,
+  "actual_review_limits": "PDF人工看26整页与108目标区；PPT按4份报告看526更正区域及58换算整页，另复查3个等号位置。不声称全部页面人工重解或原生播放通过。",
+  "approved_changes_sha256": "00615bf18d8cf54cbeb3e1eacb153284f38a80ffd2ceb8fe9369164c77bcacbe"
+}

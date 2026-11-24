@@ -1,0 +1,181 @@
+{
+  "records": [
+    {
+      "key": "p016_s02",
+      "book_page": 16,
+      "old_row_text": "60 × 40 ÷ 100",
+      "latex": "\\(60\\times40\\)",
+      "mask_rect": [
+        274.4980102539063,
+        269.5959411621094,
+        334.0199035644531,
+        280.04254760742185
+      ],
+      "text_baseline_anchor": [
+        274.64801025390625,
+        277.7160339355469
+      ],
+      "font_size": 10.0,
+      "container_rect": [
+        274.4980102539063,
+        269.5959411621094,
+        580,
+        280.04254760742185
+      ],
+      "black_pixels_in_mask_at_3x": 0,
+      "scope": "Conversion own line; preserve original row baselines and all unmodified rows."
+    },
+    {
+      "key": "p016_s02",
+      "book_page": 16,
+      "old_row_text": "= 2400 ÷ 100",
+      "latex": "\\(=2400\\text{(厘米)}\\)",
+      "mask_rect": [
+        263.9820190429688,
+        285.0379272460938,
+        321.8438781738281,
+        295.4845336914062
+      ],
+      "text_baseline_anchor": [
+        264.13201904296875,
+        293.15802001953125
+      ],
+      "font_size": 10.0,
+      "container_rect": [
+        263.9820190429688,
+        285.0379272460938,
+        580,
+        295.4845336914062
+      ],
+      "black_pixels_in_mask_at_3x": 0,
+      "scope": "Conversion own line; preserve original row baselines and all unmodified rows."
+    },
+    {
+      "key": "p016_s02",
+      "book_page": 16,
+      "old_row_text": "= 24（米）",
+      "latex": "\\(2400\\text{厘米}=(2400\\div100)\\text{米}=24\\text{米}\\)",
+      "mask_rect": [
+        263.9820190429688,
+        300.66494140625,
+        314.6488098144531,
+        311.1221069335937
+      ],
+      "text_baseline_anchor": [
+        264.13201904296875,
+        308.60101318359375
+      ],
+      "font_size": 10.0,
+      "container_rect": [
+        263.9820190429688,
+        300.66494140625,
+        580,
+        311.1221069335937
+      ],
+      "black_pixels_in_mask_at_3x": 0,
+      "scope": "Conversion own line; preserve original row baselines and all unmodified rows."
+    },
+    {
+      "key": "p052_s01",
+      "book_page": 52,
+      "old_row_text": "= 8.15（千克）",
+      "latex": "\\(8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}\\)",
+      "mask_rect": [
+        74.13798675537109,
+        144.9944854736328,
+        136.41358032226563,
+        154.4360107421875
+      ],
+      "text_baseline_anchor": [
+        74.2879867553711,
+        152.15200805664062
+      ],
+      "font_size": 9.0,
+      "container_rect": [
+        74.13798675537109,
+        144.9944854736328,
+        580,
+        154.4360107421875
+      ],
+      "black_pixels_in_mask_at_3x": 0,
+      "scope": "Conversion own line; preserve original row baselines and all unmodified rows."
+    },
+    {
+      "key": "p052_s03",
+      "book_page": 52,
+      "old_row_text": "= 10.8（平方米）",
+      "latex": "\\(108000\\text{平方厘米}=(108000\\div10000)\\text{平方米}=10.8\\text{平方米}\\)",
+      "mask_rect": [
+        74.13799438476562,
+        541.9865356445313,
+        145.37999572753907,
+        551.428076171875
+      ],
+      "text_baseline_anchor": [
+        74.28799438476562,
+        549.14404296875
+      ],
+      "font_size": 9.0,
+      "container_rect": [
+        74.13799438476562,
+        541.9865356445313,
+        580,
+        551.428076171875
+      ],
+      "black_pixels_in_mask_at_3x": 0,
+      "scope": "Conversion own line; preserve original row baselines and all unmodified rows."
+    },
+    {
+      "key": "p079_s04",
+      "book_page": 79,
+      "old_row_text": "= 6.24（千克）",
+      "latex": "\\(6240\\text{克}=(6240\\div1000)\\text{千克}=6.24\\text{千克}\\)",
+      "mask_rect": [
+        277.8630004882813,
+        629.0855346679688,
+        340.13861694335935,
+        638.5270751953125
+      ],
+      "text_baseline_anchor": [
+        278.01300048828125,
+        636.2430419921875
+      ],
+      "font_size": 9,
+      "leading": 14,
+      "container_rect": [
+        277.8630004882813,
+        629.0855346679688,
+        580,
+        638.7270751953125
+      ],
+      "black_pixels_in_mask_at_3x": 0,
+      "scope": "Conversion own line; preserve all unmodified original question content."
+    },
+    {
+      "key": "p075_s02",
+      "book_page": 75,
+      "old_row_text": "有危险。2米= 200厘米，最大水深240厘米> 200厘米，深处超过它的身高。",
+      "latex": "\\(2\\text{米}=200\\text{厘米}\\)\\par 有危险。最大水深\\(240\\text{厘米}>200\\text{厘米}\\)，深处超过它的身高。",
+      "mask_rect": [
+        79.85100708007812,
+        191.29621276855468,
+        429.7076171875,
+        202.61168518066407
+      ],
+      "text_baseline_anchor": [
+        80.00100708007812,
+        199.97201538085938
+      ],
+      "font_size": 11,
+      "leading": 14,
+      "container_rect": [
+        79.85100708007812,
+        191.29621276855468,
+        580,
+        225
+      ],
+      "black_pixels_in_mask_at_3x": 0,
+      "scope": "Conversion own line; preserve all unmodified original question content."
+    }
+  ]
+}

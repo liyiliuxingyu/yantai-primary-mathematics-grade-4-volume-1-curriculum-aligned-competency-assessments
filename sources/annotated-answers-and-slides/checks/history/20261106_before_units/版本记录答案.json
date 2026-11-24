@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-06",
+  "previous_pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+  "current_pdf_sha256": "5b0ec22916bc2f77e3ec9575a8b46466f500ce03d32887ee09d5817cf9d82dda",
+  "changed_question_keys": [
+    "p078_s04"
+  ],
+  "changed_book_pages": [
+    78
+  ],
+  "change": "第78页二、4按平均数数量关系的教学意图只选B，用移多补少说明丙的年龄等于平均年龄；不据此确定具体岁数，原题全部选项保留。",
+  "current_evidence": "q4_update/qa_current.json",
+  "ppt_proofs": [
+    {
+      "path": "ppt_q4/qa_final.json",
+      "sha256": "2ba00566295b046be8c8d54ab3ef28754d0597ad15877088e876691c3b16efee",
+      "volumes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "powerpoint_playback_tested": false
+}

@@ -1,0 +1,8 @@
+\begin{tikzpicture}[x=1cm,y=1cm,line width=.85bp,line join=round]
+  \path[use as bounding box] (-1.4,-1.25) rectangle (1.4,1.25);
+  \foreach \a in {60,180,300}{
+    \begin{scope}[rotate=\a]
+      \draw (0,0)..controls(.55,.2)and(.55,.75)..(0,1.2)
+                    ..controls(-.55,.75)and(-.55,.2)..cycle;
+    \end{scope}}
+\end{tikzpicture}

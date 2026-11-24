@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "snippets": 948,
+  "local_patches": 92,
+  "relative_font_path": true,
+  "portable_tex_sha256": "734972c4fa9da599abc299c0098f525540e8978ef6c30ee431defc12214f1bcf",
+  "missing_characters": 0,
+  "overfull_hbox": 0,
+  "overfull_vbox": 0,
+  "actual_xelatex_compile": true,
+  "tex_engine": "XeTeX0.999996 TeXLive2025/dev",
+  "task_local_format_used": true
+}

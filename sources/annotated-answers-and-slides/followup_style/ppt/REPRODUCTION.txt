@@ -1,0 +1,8 @@
+活动版本：r3/小学四上同步素养卷第1册讲解课件答案.pptx
+本次修改：原书第5页一3、原书第7页四1；第1册第117、118、171、172张。
+以本次之前SHA cb848adba20fdab5365ab0bf31c1675ffad94ea3334fe7624435066ab6f96252的第1册PPTX为输入，放在deliverables/讲解课件同名文件。该源已包含原书3页四1的上次更正。
+1. 从项目根运行 python followup_style/ppt/patch_followup.py；需XeLaTeX、Poppler、lxml、PyMuPDF及fonts/DroidSansFallback.ttf。r3输出路径必须不存在，以防覆盖。脚本为输入sha保护，先重绘可编辑树、编译9组LaTeX公式，嵌入真OMML及SVG/PNG兼容分支，再原样保留426页全部timing。
+2. 运行validate_followup.mjs（按presentation skill设置runtime），创建validated同名等字节副本及qa/finalizer_receipt.json。
+3. 实际导出第117-118、171-172张，存r3/actual_static_export同名.pdf；运行verify_followup.py，检查ZIP、未变组件、9个OMML、14个数量节点、12条native连接线、动画目标、LaTeX编译，并生成qa_ppt.json。
+静态导出实际使用LibreOffice Impress；未在Microsoft PowerPoint放映验证。
+TikZ规范源在项目根tikz/p005_s04_a1.tikz.tex和p007_s08_a1.tikz.tex，由父任务同步。PPT树使用可编辑原生对象重现相同数量关系，未将位图包装冒称TikZ。

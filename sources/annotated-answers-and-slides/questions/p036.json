@@ -1,0 +1,105 @@
+{
+  "book_page": 36,
+  "source_page": 40,
+  "records": [
+    {
+      "key": "p036_s01",
+      "book_page": 36,
+      "source_page": 40,
+      "section_index": 0,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "校园劳动课上，老师给同学们分发直角三角形实木拼接板做手工文创，其中一个锐角的度数是另一个锐角的4倍，请问这块木板上较大的锐角是多少度。（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "直角三角形的两个锐角和是90度。把较小角看作1份，较大角就是4份，共5份。\\par 方法一：先求每份，再求4份\\par \\[\\begin{aligned}&90^\\circ\\div(1+4)\\times4\\\\={}&90^\\circ\\div5\\times4\\\\={}&18^\\circ\\times4\\\\={}&72^\\circ\\end{aligned}\\]答：较大的锐角是72度。\\par 方法二：用90度减去较小角\\par \\[\\begin{aligned}&90^\\circ-90^\\circ\\div(1+4)\\\\={}&90^\\circ-90^\\circ\\div5\\\\={}&90^\\circ-18^\\circ\\\\={}&72^\\circ\\end{aligned}\\]答：较大的锐角是72度。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "补出方法二先算1+4、再除5的顺序层次。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p036_s02",
+      "book_page": 36,
+      "source_page": 40,
+      "section_index": 1,
+      "id": "五、3",
+      "kind": "application",
+      "question_latex": "班级的数学文化角要做一块等腰梯形展示牌，用来介绍古代数学家刘徽的故事。这块展示牌的周长是81厘米，为了让展示牌更稳固，木工给它的两条腰上又钉了26厘米长的加固木条，展示牌的上底长13厘米。这个展示牌的下底长是多少厘米？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p036_s02_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(5,0)--(4.3,2.5)--(.7,2.5)--cycle;\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "等腰梯形两腰各长26厘米。周长＝上底＋下底＋两腰之和，所以先扣除两腰和上底才能得到下底。\\par 等腰梯形两条腰相等；每条腰26厘米，上底13厘米。\\par 主解：从周长减去两腰和上底\\par \\[\\begin{aligned} &81-26\\times2-13\\\\={}&81-52-13\\\\={}&29-13\\\\={}&16\\text{(厘米)}\\end{aligned}\\]答：展示牌的下底长16厘米。\\par 同一周长关系的合并计算：先合计已知三边\\par \\[\\begin{aligned} &81-(26\\times2+13)\\\\={}&81-(52+13)\\\\={}&81-65\\\\={}&16\\text{(厘米)}\\end{aligned}\\]答：展示牌的下底长16厘米。\\par 检验：\\(13+16+26\\times2=81\\text{(厘米)}\\)，与周长相符。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p036_s03",
+      "book_page": 36,
+      "source_page": 40,
+      "section_index": 2,
+      "id": "六、动脑筋",
+      "kind": "application",
+      "question_latex": "如图，正五边形\\(ABCDE\\)的5个内角都相等，且\\(\\angle1=\\angle2\\)，\\(\\angle3=\\angle4\\)，求\\(\\angle5\\)的度数。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p036_s03_g1",
+          "tikz": "\\begin{tikzpicture}[scale=1.4]\\coordinate(A)at(90:2);\\coordinate(B)at(162:2);\\coordinate(C)at(234:2);\\coordinate(D)at(306:2);\\coordinate(E)at(18:2);\\draw(A)--(B)--(C)--(D)--(E)--cycle;\\draw(A)--(C) (A)--(D);\\node[above]at(A){$A$};\\node[left]at(B){$B$};\\node[below]at(C){$C$};\\node[below]at(D){$D$};\\node[right]at(E){$E$};\\node at(-.55,1.05){1};\\node at(-1.13,-.95){2};\\node at(1.13,-.95){3};\\node at(.55,1.05){4};\\node at(0,.85){5};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "\\textbf{共同准备：把五边形转化为三个三角形}\\par 从同一个顶点向两个不相邻的顶点各连一条对角线，把五边形分成3个三角形。每个三角形内角和180度，把总和平均分给5个相等的内角。\\par \\[\\begin{aligned} &180^\\circ\\times3\\div5\\\\={}&540^\\circ\\div5\\\\={}&108^\\circ\\end{aligned}\\]在\\(\\triangle ABC\\)中，\\(\\angle1=\\angle2\\)，而\\(\\angle B=108^\\circ\\)，故：\\[\\begin{aligned} &(180^\\circ-108^\\circ)\\div2\\\\={}&72^\\circ\\div2\\\\={}&36^\\circ\\end{aligned}\\]同理，\\(\\angle3=\\angle4=36^\\circ\\)。\\par 方法一：从A点整个内角中减去两侧小角\\par \\[\\begin{aligned} &\\angle5=108^\\circ-36^\\circ-36^\\circ\\\\={}&72^\\circ-36^\\circ\\\\={}&36^\\circ\\end{aligned}\\]答：\\(\\angle5=36^\\circ\\)。\\par \\(\\triangle ACD\\)在C、D处的角分别为\\(108^\\circ-36^\\circ=72^\\circ\\)。\\par 方法二：改看中间的三角形ACD\\par \\[\\begin{aligned} &\\angle5=180^\\circ-72^\\circ-72^\\circ\\\\={}&108^\\circ-72^\\circ\\\\={}&36^\\circ\\end{aligned}\\]答：\\(\\angle5=36^\\circ\\)。\\par 检验：A点三个小角\\(36^\\circ+36^\\circ+36^\\circ=108^\\circ\\)，与正五边形每个内角相符。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

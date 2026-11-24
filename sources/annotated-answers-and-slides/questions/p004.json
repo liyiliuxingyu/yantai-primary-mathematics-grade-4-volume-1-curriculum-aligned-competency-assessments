@@ -1,0 +1,177 @@
+{
+  "book_page": 4,
+  "source_page": 8,
+  "title": "",
+  "records": [
+    {
+      "key": "p004_s01",
+      "book_page": 4,
+      "source_page": 8,
+      "section_index": 0,
+      "id": "四、2",
+      "kind": "application",
+      "question_latex": "人工分拣员平均每分钟分拣40件快递，全自动分拣机每分钟分拣220件。智能机器人每分钟分拣数量比人工的3倍多20件。全自动分拣机每分钟比智能机器人多分拣多少件？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "数量关系：机器人每分钟分拣量\\(=\\)人工每分钟分拣量的\\(3\\)倍\\(+20\\)；所求差\\(=\\)全自动分拣机每分钟分拣量\\(-\\)机器人每分钟分拣量。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求机器人每分钟分拣量}\\par \\[\\begin{aligned}&220-(40\\times3+20)\\\\&=220-(120+20)\\\\&=220-140\\\\&=80\\text{(件)}\\end{aligned}\\]答：全自动分拣机每分钟比分拣机器人多分拣\\(80\\)件。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：先减人工的三倍，再减多出的量}\\par \\[\\begin{aligned}&220-40\\times3-20\\\\&=220-120-20\\\\&=100-20\\\\&=80\\text{(件)}\\end{aligned}\\]答：全自动分拣机每分钟比分拣机器人多分拣\\(80\\)件。\\end{minipage}\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "机器人40×3+20=140件，220−140=80件。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p004_s02",
+      "book_page": 4,
+      "source_page": 8,
+      "section_index": 1,
+      "id": "四、3",
+      "kind": "application",
+      "question_latex": "10月15日，学校组织270名学生和15名老师去科技馆研学。用9000元购票后还剩多少元？科技馆门票收费标准见表。旺季：4月1日～10月31日；淡季：11月1日～3月31日。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "季节",
+            "成人",
+            "儿童"
+          ],
+          "rows": [
+            [
+              "旺季",
+              "45元",
+              "30元"
+            ],
+            [
+              "淡季",
+              "25元",
+              "15元"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "\\(10\\)月\\(15\\)日在旺季，学生票每人\\(30\\)元，教师票每人\\(45\\)元。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：分别求两类票价，再算剩款}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\&=9000-(8100+675)\\\\&=9000-8775\\\\&=225\\text{(元)}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：全部按学生票计，再补教师差价}\\par \\[\\begin{aligned}&9000-[30\\times(270+15)+(45-30)\\times15]\\\\&=9000-[30\\times285+15\\times15]\\\\&=9000-[8550+225]\\\\&=9000-8775\\\\&=225\\text{(元)}\\end{aligned}\\]答：购票后还剩\\(225\\)元。\\end{minipage}\\par \\par 按“总价\\(=\\)单价\\(\\times\\)数量”分别核算两类票。检验\\(30\\times270+45\\times15+225=9000\\)，票款与剩款合计等于付款。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&9000-(30\\times270+45\\times15)\\\\={}&9000-(8100+675)\\\\={}&9000-8100-675\\\\={}&900-675\\\\={}&225\\text{(元)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "10月15日旺季，30×270+45×15=8100+675=8775，剩225元。",
+        "changes": [
+          "简便计算复核：分别算两类票款后，以连减代替先相加再减；9000−8100先凑900，减少大数加减。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p004_s03",
+      "book_page": 4,
+      "source_page": 8,
+      "section_index": 2,
+      "id": "四、4（方案一）",
+      "kind": "application",
+      "question_latex": "选择合适的信息，提一个三步计算解决的问题并解答。①欣欣小学买了3箱糖果。②每箱糖果有16袋。③每箱糖果有480块。④平均分给6个年级。⑤每个年级有4个班。选择的信息：________（填序号）；提出的问题：________；列式解答。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "所求是“每班的袋数”，用总袋数除以总班数；若先按年级分，再按班分，要连续平均分两次。每箱\\(480\\)块这一信息本问用不到。\\par 选①②④⑤；问题：平均每个班分到多少袋糖果？\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先分年级，再分班}\\par \\[\\begin{aligned}&16\\times3\\div6\\div4\\\\&=48\\div6\\div4\\\\&=8\\div4\\\\&=2\\text{(袋)}\\end{aligned}\\]答：每班分到\\(2\\)袋。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：先求总班数}\\par \\[\\begin{aligned}&16\\times3\\div(4\\times6)\\\\&=48\\div24\\\\&=2\\text{(袋)}\\end{aligned}\\]答：每班分到\\(2\\)袋。\\end{minipage}\\par \\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&16\\times3\\div(4\\times6)\\\\={}&16\\times3\\div24\\\\={}&16\\times3\\div(3\\times8)\\\\={}&16\\times3\\div3\\div8\\\\={}&16\\div8\\\\={}&2\\text{(袋)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "选择①②④⑤，求平均每班袋数：16×3÷6÷4=2袋；或总袋数48除以总班数24，三次运算。",
+        "changes": [
+          "先求总班数须按每个年级4个班×6个年级列4×6；更正方法二分母6×4的数量含义次序，结果不变。",
+          "简便计算复核：24=3×8；除以24等于先除以3再除以8，先乘3又除3还原16，因此可直接16÷8。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p004_s04",
+      "book_page": 4,
+      "source_page": 8,
+      "section_index": 3,
+      "id": "四、4（方案二）",
+      "kind": "application",
+      "question_latex": "选择合适的信息，提一个三步计算解决的问题并解答。①欣欣小学买了3箱糖果。②每箱糖果有16袋。③每箱糖果有480块。④平均分给6个年级。⑤每个年级有4个班。选择的信息：________（填序号）；提出的问题：________；列式解答。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "本问把所求单位换成“块”：总块数\\(=480\\times3\\)，总班数\\(=4\\times6\\)；每班块数\\(=\\)总块数\\(\\div\\)总班数。每箱\\(16\\)袋这一信息不需要。\\par 选①③④⑤；问题：平均每个班分到多少块糖果？\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先分年级，再分班}\\par \\[\\begin{aligned}&480\\times3\\div6\\div4\\\\&=1440\\div6\\div4\\\\&=240\\div4\\\\&=60\\text{(块)}\\end{aligned}\\]答：每班分到\\(60\\)块。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：先求总班数}\\par \\[\\begin{aligned}&480\\times3\\div(4\\times6)\\\\&=1440\\div24\\\\&=60\\text{(块)}\\end{aligned}\\]答：每班分到\\(60\\)块。\\end{minipage}\\par \\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&480\\times3\\div(4\\times6)\\\\={}&480\\times3\\div24\\\\={}&480\\times3\\div(3\\times8)\\\\={}&480\\times3\\div3\\div8\\\\={}&480\\div8\\\\={}&60\\text{(块)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "选择①③④⑤，求平均每班块数：480×3÷6÷4=60块；总块数1440除以总班数24，均三次运算。",
+        "changes": [
+          "先求总班数须按每个年级4个班×6个年级列4×6；更正方法二分母6×4的数量含义次序，结果不变。",
+          "简便计算复核：24=3×8；除以24等于先除以3再除以8，先乘3又除3还原480，接着480÷8。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p004_s05",
+      "book_page": 4,
+      "source_page": 8,
+      "section_index": 4,
+      "id": "五、24点（五种结构）",
+      "kind": "calculation",
+      "question_latex": "“扑克牌24点”需要用四张牌上的数字通过加减乘除计算出24。下面4张牌数字是1、3、6、9。经过怎样运算可以得到24？请列出一个综合算式（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\foreach \\x/\\v in {0/1,1.3/3,2.6/6,3.9/9}{\\draw(\\x,0)rectangle++(.9,1.3);\\node at(\\x+.45,.65){\\Large\\v};}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "保留牌面数字；花色不参与运算，改为清晰数字卡示意。",
+          "name": "p004_s05_g1"
+        }
+      ],
+      "answer_latex": "以下列出小学阶段中间结果不出现负数的五种常用结构。四个数\\(1,3,6,9\\)各用一次；只交换加数、因数的次序不重复列为新方法。\\[\\begin{aligned}&3\\times(9+1)-6\\\\&=3\\times10-6\\\\&=30-6\\\\&=24\\end{aligned}\\]\\[\\begin{aligned}&9+3\\times(6-1)\\\\&=9+3\\times5\\\\&=9+15\\\\&=24\\end{aligned}\\]\\[\\begin{aligned}&(9-1)\\times(6-3)\\\\&=8\\times3\\\\&=24\\end{aligned}\\]\\[\\begin{aligned}&6+9\\times(3-1)\\\\&=6+9\\times2\\\\&=6+18\\\\&=24\\end{aligned}\\]\\[\\begin{aligned}&6\\times(1+9\\div3)\\\\&=6\\times(1+3)\\\\&=6\\times4\\\\&=24\\end{aligned}\\]\\par 枚举范围：四个数各用一次，只用加、减、乘、除，每一步的中间结果均为非负整数；把仅交换加数或因数次序的重复式合并后，此范围内共有上述五种结构。",
+      "verification": {
+        "status": "verified",
+        "reason": "已用独立二叉运算树穷举核对：1、3、6、9各一次，仅四则且各中间结果为非负整数，仅合并加法/乘法交换子式的重复后，恰有五种结构。五式各自验算为24。范围不含负数或非整数中间值。",
+        "changes": [
+          "独立穷举后明确五结构的适用范围与完整性，课堂保留简短范围说明。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

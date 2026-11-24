@@ -1,0 +1,230 @@
+{
+  "passed": true,
+  "pdf_sha256": "a2a3a222c34402a4e057b4c43e8544498909a9b943f1ade253cee6856187374b",
+  "pages": 128,
+  "first_page_blank": true,
+  "all_page_sizes_unchanged": true,
+  "changed_book_pages": [
+    10,
+    11,
+    15,
+    58,
+    63,
+    90,
+    94,
+    103,
+    107
+  ],
+  "unchanged_pages_identical": 119,
+  "all_pages_raster_checked": 128,
+  "new_vertical_results": 30,
+  "original_equals_preserved": true,
+  "geometry": {
+    "key": "p010_s04",
+    "AC_cm": 3,
+    "AB_cm": 4,
+    "BC_cm": 5,
+    "choice": "A",
+    "distance_cm": 3
+  },
+  "page_checks": [
+    {
+      "pdf_page": 14,
+      "book_page": 10,
+      "outside_approved_regions_identical": true
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 11,
+      "outside_approved_regions_identical": true
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 15,
+      "outside_approved_regions_identical": true
+    },
+    {
+      "pdf_page": 62,
+      "book_page": 58,
+      "outside_approved_regions_identical": true
+    },
+    {
+      "pdf_page": 67,
+      "book_page": 63,
+      "outside_approved_regions_identical": true
+    },
+    {
+      "pdf_page": 94,
+      "book_page": 90,
+      "outside_approved_regions_identical": true
+    },
+    {
+      "pdf_page": 98,
+      "book_page": 94,
+      "outside_approved_regions_identical": true
+    },
+    {
+      "pdf_page": 107,
+      "book_page": 103,
+      "outside_approved_regions_identical": true
+    },
+    {
+      "pdf_page": 111,
+      "book_page": 107,
+      "outside_approved_regions_identical": true
+    }
+  ],
+  "arithmetic_checks": [
+    {
+      "expression": "598÷18",
+      "result": "33……4",
+      "independently_verified": true
+    },
+    {
+      "expression": "114×23",
+      "result": "2622",
+      "independently_verified": true
+    },
+    {
+      "expression": "448÷48",
+      "result": "9……16",
+      "independently_verified": true
+    },
+    {
+      "expression": "372÷62",
+      "result": "6",
+      "independently_verified": true
+    },
+    {
+      "expression": "754÷26",
+      "result": "29",
+      "independently_verified": true
+    },
+    {
+      "expression": "308×25",
+      "result": "7700",
+      "independently_verified": true
+    },
+    {
+      "expression": "552÷69",
+      "result": "8",
+      "independently_verified": true
+    },
+    {
+      "expression": "258×13",
+      "result": "3354",
+      "independently_verified": true
+    },
+    {
+      "expression": "4.6+12.95",
+      "result": "17.55",
+      "independently_verified": true
+    },
+    {
+      "expression": "3.58+2.67",
+      "result": "6.25",
+      "independently_verified": true
+    },
+    {
+      "expression": "20.05−7.89",
+      "result": "12.16",
+      "independently_verified": true
+    },
+    {
+      "expression": "50−16.34",
+      "result": "33.66",
+      "independently_verified": true
+    },
+    {
+      "expression": "8.7+12.36",
+      "result": "21.06",
+      "independently_verified": true
+    },
+    {
+      "expression": "5.1−3.59",
+      "result": "1.51",
+      "independently_verified": true
+    },
+    {
+      "expression": "12−2.25",
+      "result": "9.75",
+      "independently_verified": true
+    },
+    {
+      "expression": "15.05+2.63",
+      "result": "17.68",
+      "independently_verified": true
+    },
+    {
+      "expression": "9.06-2.5",
+      "result": "6.56",
+      "independently_verified": true
+    },
+    {
+      "expression": "5.7+12.34",
+      "result": "18.04",
+      "independently_verified": true
+    },
+    {
+      "expression": "12.8-1.24",
+      "result": "11.56",
+      "independently_verified": true
+    },
+    {
+      "expression": "12.4+2.76",
+      "result": "15.16",
+      "independently_verified": true
+    },
+    {
+      "expression": "8.05-4.357",
+      "result": "3.693",
+      "independently_verified": true
+    },
+    {
+      "expression": "28×304",
+      "result": "8512",
+      "independently_verified": true
+    },
+    {
+      "expression": "6270÷30",
+      "result": "209",
+      "independently_verified": true
+    },
+    {
+      "expression": "9.27+15.9",
+      "result": "25.17",
+      "independently_verified": true
+    },
+    {
+      "expression": "25.7+16.4",
+      "result": "42.1",
+      "independently_verified": true
+    },
+    {
+      "expression": "10-4.03",
+      "result": "5.97",
+      "independently_verified": true
+    },
+    {
+      "expression": "18.2-6.78",
+      "result": "11.42",
+      "independently_verified": true
+    },
+    {
+      "expression": "16.8+2.27",
+      "result": "19.07",
+      "independently_verified": true
+    },
+    {
+      "expression": "12-4.5",
+      "result": "7.5",
+      "independently_verified": true
+    },
+    {
+      "expression": "10.02-1.9",
+      "result": "8.12",
+      "independently_verified": true
+    }
+  ],
+  "three_columns_and_Kai_preserved": true
+}

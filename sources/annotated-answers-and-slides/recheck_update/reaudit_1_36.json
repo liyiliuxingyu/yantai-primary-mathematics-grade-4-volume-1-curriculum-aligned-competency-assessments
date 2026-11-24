@@ -1,0 +1,827 @@
+{
+  "scope": "原书1–36页全部canonical题干、答案及对应notes逐record核读；先核对已采纳56处以免重复。本轮只读审查，未修改主源，不处理74页题面争议。",
+  "reviewed_book_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "record_count": 327,
+  "coverage": [
+    {
+      "book_page": 1,
+      "record_count": 9,
+      "checked_keys": [
+        "p001_s01",
+        "p001_s02",
+        "p001_s03",
+        "p001_s04",
+        "p001_s05",
+        "p001_s06",
+        "p001_s07",
+        "p001_s08",
+        "p001_s09"
+      ]
+    },
+    {
+      "book_page": 2,
+      "record_count": 8,
+      "checked_keys": [
+        "p002_s01",
+        "p002_s02",
+        "p002_s03",
+        "p002_s04",
+        "p002_s05",
+        "p002_s06",
+        "p002_s07",
+        "p002_s08"
+      ]
+    },
+    {
+      "book_page": 3,
+      "record_count": 7,
+      "checked_keys": [
+        "p003_s01",
+        "p003_s02",
+        "p003_s03",
+        "p003_s04",
+        "p003_s05",
+        "p003_s06",
+        "p003_s07"
+      ]
+    },
+    {
+      "book_page": 4,
+      "record_count": 5,
+      "checked_keys": [
+        "p004_s01",
+        "p004_s02",
+        "p004_s03",
+        "p004_s04",
+        "p004_s05"
+      ]
+    },
+    {
+      "book_page": 5,
+      "record_count": 9,
+      "checked_keys": [
+        "p005_s01",
+        "p005_s02",
+        "p005_s03",
+        "p005_s04",
+        "p005_s05",
+        "p005_s06",
+        "p005_s07",
+        "p005_s08",
+        "p005_s09"
+      ]
+    },
+    {
+      "book_page": 6,
+      "record_count": 8,
+      "checked_keys": [
+        "p006_s01",
+        "p006_s02",
+        "p006_s03",
+        "p006_s04",
+        "p006_s05",
+        "p006_s06",
+        "p006_s07",
+        "p006_s08"
+      ]
+    },
+    {
+      "book_page": 7,
+      "record_count": 8,
+      "checked_keys": [
+        "p007_s01",
+        "p007_s02",
+        "p007_s03",
+        "p007_s04",
+        "p007_s05",
+        "p007_s06",
+        "p007_s07",
+        "p007_s08"
+      ]
+    },
+    {
+      "book_page": 8,
+      "record_count": 5,
+      "checked_keys": [
+        "p008_s01",
+        "p008_s02",
+        "p008_s03",
+        "p008_s04",
+        "p008_s05"
+      ]
+    },
+    {
+      "book_page": 9,
+      "record_count": 7,
+      "checked_keys": [
+        "p009_s01",
+        "p009_s02",
+        "p009_s03",
+        "p009_s04",
+        "p009_s05",
+        "p009_s06",
+        "p009_s07"
+      ]
+    },
+    {
+      "book_page": 10,
+      "record_count": 11,
+      "checked_keys": [
+        "p010_s01",
+        "p010_s02",
+        "p010_s03",
+        "p010_s04",
+        "p010_s05",
+        "p010_s06",
+        "p010_s07",
+        "p010_s08",
+        "p010_s09",
+        "p010_s10",
+        "p010_s11"
+      ]
+    },
+    {
+      "book_page": 11,
+      "record_count": 10,
+      "checked_keys": [
+        "p011_s01",
+        "p011_s02",
+        "p011_s03",
+        "p011_s04",
+        "p011_s05",
+        "p011_s06",
+        "p011_s07",
+        "p011_s08",
+        "p011_s09",
+        "p011_s10"
+      ]
+    },
+    {
+      "book_page": 12,
+      "record_count": 6,
+      "checked_keys": [
+        "p012_s01",
+        "p012_s02",
+        "p012_s03",
+        "p012_s04",
+        "p012_s05",
+        "p012_s06"
+      ]
+    },
+    {
+      "book_page": 13,
+      "record_count": 7,
+      "checked_keys": [
+        "p013_s01",
+        "p013_s02",
+        "p013_s03",
+        "p013_s04",
+        "p013_s05",
+        "p013_s06",
+        "p013_s07"
+      ]
+    },
+    {
+      "book_page": 14,
+      "record_count": 8,
+      "checked_keys": [
+        "p014_s01",
+        "p014_s02",
+        "p014_s03",
+        "p014_s04",
+        "p014_s05",
+        "p014_s06",
+        "p014_s07",
+        "p014_s08"
+      ]
+    },
+    {
+      "book_page": 15,
+      "record_count": 10,
+      "checked_keys": [
+        "p015_s01",
+        "p015_s02",
+        "p015_s03",
+        "p015_s04",
+        "p015_s05",
+        "p015_s06",
+        "p015_s07",
+        "p015_s08",
+        "p015_s09",
+        "p015_s10"
+      ]
+    },
+    {
+      "book_page": 16,
+      "record_count": 4,
+      "checked_keys": [
+        "p016_s01",
+        "p016_s02",
+        "p016_s03",
+        "p016_s04"
+      ]
+    },
+    {
+      "book_page": 17,
+      "record_count": 10,
+      "checked_keys": [
+        "p017_s01",
+        "p017_s02",
+        "p017_s03",
+        "p017_s04",
+        "p017_s05",
+        "p017_s06",
+        "p017_s07",
+        "p017_s08",
+        "p017_s09",
+        "p017_s10"
+      ]
+    },
+    {
+      "book_page": 18,
+      "record_count": 9,
+      "checked_keys": [
+        "p018_s01",
+        "p018_s02",
+        "p018_s03",
+        "p018_s04",
+        "p018_s05",
+        "p018_s06",
+        "p018_s07",
+        "p018_s08",
+        "p018_s09"
+      ]
+    },
+    {
+      "book_page": 19,
+      "record_count": 16,
+      "checked_keys": [
+        "p019_s01",
+        "p019_s02",
+        "p019_s03",
+        "p019_s04",
+        "p019_s05",
+        "p019_s06",
+        "p019_s07",
+        "p019_s08",
+        "p019_s09",
+        "p019_s10",
+        "p019_s11",
+        "p019_s12",
+        "p019_s13",
+        "p019_s14",
+        "p019_s15",
+        "p019_s16"
+      ]
+    },
+    {
+      "book_page": 20,
+      "record_count": 4,
+      "checked_keys": [
+        "p020_s01",
+        "p020_s02",
+        "p020_s03",
+        "p020_s04"
+      ]
+    },
+    {
+      "book_page": 21,
+      "record_count": 13,
+      "checked_keys": [
+        "p021_s01",
+        "p021_s02",
+        "p021_s03",
+        "p021_s04",
+        "p021_s05",
+        "p021_s06",
+        "p021_s07",
+        "p021_s08",
+        "p021_s09",
+        "p021_s10",
+        "p021_s11",
+        "p021_s12",
+        "p021_s13"
+      ]
+    },
+    {
+      "book_page": 22,
+      "record_count": 9,
+      "checked_keys": [
+        "p022_s01",
+        "p022_s02",
+        "p022_s03",
+        "p022_s04",
+        "p022_s05",
+        "p022_s06",
+        "p022_s07",
+        "p022_s08",
+        "p022_s09"
+      ]
+    },
+    {
+      "book_page": 23,
+      "record_count": 16,
+      "checked_keys": [
+        "p023_s01",
+        "p023_s02",
+        "p023_s03",
+        "p023_s04",
+        "p023_s05",
+        "p023_s06",
+        "p023_s07",
+        "p023_s08",
+        "p023_s09",
+        "p023_s10",
+        "p023_s11",
+        "p023_s12",
+        "p023_s13",
+        "p023_s14",
+        "p023_s15",
+        "p023_s16"
+      ]
+    },
+    {
+      "book_page": 24,
+      "record_count": 4,
+      "checked_keys": [
+        "p024_s01",
+        "p024_s02",
+        "p024_s03",
+        "p024_s04"
+      ]
+    },
+    {
+      "book_page": 25,
+      "record_count": 17,
+      "checked_keys": [
+        "p025_s01",
+        "p025_s02",
+        "p025_s03",
+        "p025_s04",
+        "p025_s05",
+        "p025_s06",
+        "p025_s07",
+        "p025_s08",
+        "p025_s09",
+        "p025_s10",
+        "p025_s11",
+        "p025_s12",
+        "p025_s13",
+        "p025_s14",
+        "p025_s15",
+        "p025_s16",
+        "p025_s17"
+      ]
+    },
+    {
+      "book_page": 26,
+      "record_count": 14,
+      "checked_keys": [
+        "p026_s01",
+        "p026_s02",
+        "p026_s03",
+        "p026_s04",
+        "p026_s05",
+        "p026_s06",
+        "p026_s07",
+        "p026_s08",
+        "p026_s09",
+        "p026_s10",
+        "p026_s11",
+        "p026_s12",
+        "p026_s13",
+        "p026_s14"
+      ]
+    },
+    {
+      "book_page": 27,
+      "record_count": 11,
+      "checked_keys": [
+        "p027_s01",
+        "p027_s02",
+        "p027_s03",
+        "p027_s04",
+        "p027_s05",
+        "p027_s06",
+        "p027_s07",
+        "p027_s08",
+        "p027_s09",
+        "p027_s10",
+        "p027_s11"
+      ]
+    },
+    {
+      "book_page": 28,
+      "record_count": 4,
+      "checked_keys": [
+        "p028_s01",
+        "p028_s02",
+        "p028_s03",
+        "p028_s04"
+      ]
+    },
+    {
+      "book_page": 29,
+      "record_count": 11,
+      "checked_keys": [
+        "p029_s01",
+        "p029_s02",
+        "p029_s03",
+        "p029_s04",
+        "p029_s05",
+        "p029_s06",
+        "p029_s07",
+        "p029_s08",
+        "p029_s09",
+        "p029_s10",
+        "p029_s11"
+      ]
+    },
+    {
+      "book_page": 30,
+      "record_count": 11,
+      "checked_keys": [
+        "p030_s01",
+        "p030_s02",
+        "p030_s03",
+        "p030_s04",
+        "p030_s05",
+        "p030_s06",
+        "p030_s07",
+        "p030_s08",
+        "p030_s09",
+        "p030_s10",
+        "p030_s11"
+      ]
+    },
+    {
+      "book_page": 31,
+      "record_count": 16,
+      "checked_keys": [
+        "p031_s01",
+        "p031_s02",
+        "p031_s03",
+        "p031_s04",
+        "p031_s05",
+        "p031_s06",
+        "p031_s07",
+        "p031_s08",
+        "p031_s09",
+        "p031_s10",
+        "p031_s11",
+        "p031_s12",
+        "p031_s13",
+        "p031_s14",
+        "p031_s15",
+        "p031_s16"
+      ]
+    },
+    {
+      "book_page": 32,
+      "record_count": 4,
+      "checked_keys": [
+        "p032_s01",
+        "p032_s02",
+        "p032_s03",
+        "p032_s04"
+      ]
+    },
+    {
+      "book_page": 33,
+      "record_count": 13,
+      "checked_keys": [
+        "p033_s01",
+        "p033_s02",
+        "p033_s03",
+        "p033_s04",
+        "p033_s05",
+        "p033_s06",
+        "p033_s07",
+        "p033_s08",
+        "p033_s09",
+        "p033_s10",
+        "p033_s11",
+        "p033_s12",
+        "p033_s13"
+      ]
+    },
+    {
+      "book_page": 34,
+      "record_count": 12,
+      "checked_keys": [
+        "p034_s01",
+        "p034_s02",
+        "p034_s03",
+        "p034_s04",
+        "p034_s05",
+        "p034_s06",
+        "p034_s07",
+        "p034_s08",
+        "p034_s09",
+        "p034_s10",
+        "p034_s11",
+        "p034_s12"
+      ]
+    },
+    {
+      "book_page": 35,
+      "record_count": 8,
+      "checked_keys": [
+        "p035_s01",
+        "p035_s02",
+        "p035_s03",
+        "p035_s04",
+        "p035_s05",
+        "p035_s06",
+        "p035_s07",
+        "p035_s08"
+      ]
+    },
+    {
+      "book_page": 36,
+      "record_count": 3,
+      "checked_keys": [
+        "p036_s01",
+        "p036_s02",
+        "p036_s03"
+      ]
+    }
+  ],
+  "new_candidate_count": 12,
+  "changes": [
+    {
+      "key": "p002_s01",
+      "book_page": 2,
+      "id": "一、7（续）",
+      "why": "同速度式中的32、34都能先除2；把65乘32/34改成130乘16/17，后者可用整十数乘法口算，原按运算顺序求速度的主法仍保留。",
+      "priority": "clear_arithmetic_structure",
+      "simple_latex": "\\[\\begin{aligned}&130+130\\div2\\times32\\\\={}&130+130\\times(32\\div2)\\\\={}&130+130\\times16\\\\={}&130+2080\\\\={}&2210\\text{（米）}\\end{aligned}\\]",
+      "new_note_latex": "“照这样计算”表示每分钟走的路程不变，前\\(2\\)分钟的\\(130\\)米平均分成\\(2\\)份，就能求出每分钟走多少米。原式中再乘\\(32\\)求的是后来走的路程，加最初的\\(130\\)米才是全程，不能把\\(32\\)分钟当作总时间。原式的后续计算为：\\[\\begin{aligned}={}&130+65\\times32\\\\={}&130+2080\\\\={}&2210\\text{（米）}\\end{aligned}\\]也可先将前后的\\(2\\)分钟与\\(32\\)分钟相加，求出总时间，再用相同的速度乘总时间：\\[\\begin{aligned}&130\\div2\\times(2+32)\\\\={}&65\\times34\\\\={}&2210\\text{（米）}\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 先求速度的主法保留。计算后段路程时，可用整数乘除的关系先算32除以2；若先合并总时间34分钟，也可先算34除以2。只调整数值计算的次序，没有把32分钟改成总时间。\\[\\begin{aligned}&130+130\\div2\\times32\\\\={}&130+130\\times(32\\div2)\\\\={}&130+130\\times16\\\\={}&130+2080\\\\={}&2210\\text{（米）}\\end{aligned}\\]先合并时间的一路可简算为：\\[\\begin{aligned}&130\\div2\\times(2+32)\\\\={}&130\\div2\\times34\\\\={}&130\\times(34\\div2)\\\\={}&130\\times17\\\\={}&2210\\text{（米）}\\end{aligned}\\]",
+      "new_answer_latex": "“照这样计算”表示速度保持不变。先由前一段求\\(130\\div2=65\\text{（米/分）}\\)，再用“路程\\(=\\)速度\\(\\times\\)时间”分别求后段或全程。\\par 应填“一共走了多少米”。\\[\\begin{aligned}&130+130\\div2\\times32\\\\&=130+65\\times32\\\\&=130+2080\\\\&=2210\\text{（米）}\\end{aligned}\\]\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{另一方法：先合并时间}\\par \\[\\begin{aligned}&130\\div2\\times(2+32)\\\\&=65\\times34\\\\&=2210\\text{（米）}\\end{aligned}\\]\\end{minipage}\\par \\par\\textbf{简便提示（学完运算律后）}\\par 先求速度的主法保留。计算后段路程时，可用整数乘除的关系先算32除以2；若先合并总时间34分钟，也可先算34除以2。只调整数值计算的次序，没有把32分钟改成总时间。\\[\\begin{aligned}&130+130\\div2\\times32\\\\={}&130+130\\times(32\\div2)\\\\={}&130+130\\times16\\\\={}&130+2080\\\\={}&2210\\text{（米）}\\end{aligned}\\]先合并时间的一路可简算为：\\[\\begin{aligned}&130\\div2\\times(2+32)\\\\={}&130\\div2\\times34\\\\={}&130\\times(34\\div2)\\\\={}&130\\times17\\\\={}&2210\\text{（米）}\\end{aligned}\\]",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": null,
+      "alternative_simple_latex": "\\[\\begin{aligned}&130\\div2\\times(2+32)\\\\={}&130\\div2\\times34\\\\={}&130\\times(34\\div2)\\\\={}&130\\times17\\\\={}&2210\\text{（米）}\\end{aligned}\\]"
+    },
+    {
+      "key": "p003_s05",
+      "book_page": 3,
+      "id": "三、2（5）",
+      "why": "现解析已提把58看成60−2，但缺对应简便脱式；补全可避免36乘58的两位数乘法，计算36乘60与36乘2后作差。",
+      "priority": "explicit_formula_missing_for_existing_hint",
+      "simple_latex": "\\[\\begin{aligned}&36\\times58\\\\={}&36\\times(60-2)\\\\={}&36\\times60-36\\times2\\\\={}&2160-72\\\\={}&2088\\end{aligned}\\]",
+      "new_note_latex": "\\(302\\)与\\(291\\)的差是\\(396\\)的除数，应先求出这个差，再做除法。中括号求得的商与\\(58\\)相乘才是最后一步。乘积可把\\(58\\)看作\\(60-2\\)进行检查，但不能把\\(58\\)并入前面的除数。\\par\\textbf{简便提示（学完运算律后）}\\par 前面的括号和除法仍按原顺序求得36。最后把58看成60少2，先多算两份36再减回；两个乘法在同一步完成。\\[\\begin{aligned}&36\\times58\\\\={}&36\\times(60-2)\\\\={}&36\\times60-36\\times2\\\\={}&2160-72\\\\={}&2088\\end{aligned}\\]",
+      "new_answer_latex": "\\[\\begin{aligned}&[396\\div(302-291)]\\times58\\\\&=(396\\div11)\\times58\\\\&=36\\times58\\\\&=2088\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 前面的括号和除法仍按原顺序求得36。最后把58看成60少2，先多算两份36再减回；两个乘法在同一步完成。\\[\\begin{aligned}&36\\times58\\\\={}&36\\times(60-2)\\\\={}&36\\times60-36\\times2\\\\={}&2160-72\\\\={}&2088\\end{aligned}\\]",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": null
+    },
+    {
+      "key": "p003_s07",
+      "book_page": 3,
+      "id": "四、1",
+      "why": "已有另法4×18÷4−32÷4仍先算72；按乘除性质先乘4再除4还原18，并把32÷4同一步算8；保留原3页两树图与主法。",
+      "priority": "clear_arithmetic_structure",
+      "simple_latex": "\\[\\begin{aligned}&4\\times18\\div4-32\\div4\\\\={}&(4\\div4)\\times18-32\\div4\\\\={}&1\\times18-8\\\\={}&18-8\\\\={}&10\\text{（千克）}\\end{aligned}\\]",
+      "new_note_latex": "从条件出发分析：先求一共回收多少千克，再求剩下多少千克，最后求平均每批送多少千克。\\par 从问题出发分析：求每批质量，需要知道剩余质量和批数；求剩余质量，需要知道回收总量和已处理质量；求回收总量，需要知道每班回收质量和班数。两幅图的分析方向不同，原位的综合算式相同。\\par 另法：把总量和已处理量都平均分成\\(4\\)份，再比较每份的差：简便提示（学完运算律后）：总量和已处理量分别分成4份的另法，计算可先做4除以4，避免先求72。两个4虽然数值相同，分别表示每班回收千克数与分批数；这里是运算性质的数值整理，不是把数量含义混在一起。\\[\\begin{aligned}&4\\times18\\div4-32\\div4\\\\={}&(4\\div4)\\times18-32\\div4\\\\={}&1\\times18-8\\\\={}&18-8\\\\={}&10\\text{（千克）}\\end{aligned}\\]\\par 检验：\\[\\begin{aligned}&10\\times4+32\\\\={}&40+32\\\\={}&72\\text{（千克）}\\end{aligned}\\]剩余量与已处理量之和等于回收总量\\(4\\times18=72\\)千克，答案正确。乘法中的\\(4\\)表示每班回收的千克数，除法中的\\(4\\)表示批数。",
+      "new_answer_latex": "从条件出发，先求回收总量，再求剩余质量，最后求平均每批质量。\\par 从问题出发，要求每批质量，需要知道剩余质量和批数；要求剩余质量，需要知道回收总量和已处理质量；要求回收总量，需要知道每班回收质量和班数。\\par 两种分析方向都列同一个综合算式：\\[\\begin{aligned}&(4\\times18-32)\\div4\\\\={}&(72-32)\\div4\\\\={}&40\\div4\\\\={}&10\\text{（千克）}\\end{aligned}\\]答：平均每批送\\(10\\)千克。\\par 另法：将总量与已处理量分别平均分成4份后比较每份之差：简便提示（学完运算律后）：总量和已处理量分别分成4份的另法，计算可先做4除以4，避免先求72。两个4虽然数值相同，分别表示每班回收千克数与分批数；这里是运算性质的数值整理，不是把数量含义混在一起。\\[\\begin{aligned}&4\\times18\\div4-32\\div4\\\\={}&(4\\div4)\\times18-32\\div4\\\\={}&1\\times18-8\\\\={}&18-8\\\\={}&10\\text{（千克）}\\end{aligned}\\]\\par 检验：\\[\\begin{aligned}&10\\times4+32\\\\={}&40+32\\\\={}&72\\text{（千克）}\\end{aligned}\\]与回收总量\\(4\\times18=72\\)千克一致。",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": 10
+    },
+    {
+      "key": "p005_s05",
+      "book_page": 5,
+      "id": "一、4",
+      "why": "原解析文字已经指出14÷7=2，但唯一完整脱式仍先算7728；补上按乘法结合整数除法先求14÷7的脱式，避免大乘积及大除法。",
+      "priority": "explicit_formula_missing_for_existing_hint",
+      "simple_latex": "\\[\\begin{aligned}&(630-78)\\times14\\div7\\\\={}&(630-78)\\times(14\\div7)\\\\={}&552\\times2\\\\={}&1104\\end{aligned}\\]",
+      "new_note_latex": "“\\(630\\)减去\\(78\\)的差”要先求出，必须用括号表示这个差作为后面运算的整体。差算出后再乘\\(14\\)、除以\\(7\\)，按同级运算从左到右计算。也可想到\\(14\\)里面有\\(2\\)个\\(7\\)，乘\\(14\\)再除以\\(7\\)相当于乘\\(2\\)，这样可以避免求较大的中间乘积。\\par 按题意列式并逐步计算：\\[\\begin{aligned}&(630-78)\\times14\\div7\\\\={}&552\\times14\\div7\\\\={}&7728\\div7\\\\={}&1104\\end{aligned}\\]若按前述简算思路，中间的\\(552\\)直接乘\\(2\\)，同样得到\\(1104\\)。\\par\\textbf{简便提示（学完运算律后）}\\par 除以7只作用在前面整个乘积上，可先用14除以7得到2；括号内的减法与14除以7互不依赖，可同一步算完。\\[\\begin{aligned}&(630-78)\\times14\\div7\\\\={}&(630-78)\\times(14\\div7)\\\\={}&552\\times2\\\\={}&1104\\end{aligned}\\]",
+      "new_answer_latex": "“差乘\\(14\\)再除以\\(7\\)”应列\\((630-78)\\times14\\div7\\)。\\[\\begin{aligned}&(630-78)\\times14\\div7\\\\&=552\\times14\\div7\\\\&=7728\\div7\\\\&=1104\\end{aligned}\\]也可先把\\(\\times14\\div7\\)合并成\\(\\times2\\)，得\\(552\\times2=1104\\)。\\par\\textbf{简便提示（学完运算律后）}\\par 除以7只作用在前面整个乘积上，可先用14除以7得到2；括号内的减法与14除以7互不依赖，可同一步算完。\\[\\begin{aligned}&(630-78)\\times14\\div7\\\\={}&(630-78)\\times(14\\div7)\\\\={}&552\\times2\\\\={}&1104\\end{aligned}\\]",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": null
+    },
+    {
+      "key": "p007_s05",
+      "book_page": 7,
+      "id": "三、4",
+      "why": "最终73×93可把93看成100−7，除乘100外只需求一个73×7，避免按93的十位和个位分别求两个非整百部分积。",
+      "priority": "compensation_near_hundred",
+      "simple_latex": "\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]",
+      "new_note_latex": "先求\\(38\\)与\\(55\\)的和，再用它与\\(73\\)相乘，整个积才是外面减法的被减数。最后减\\(2876\\)时，应按数位对齐并注意退位。用最终的差加回\\(2876\\)，应能回到前一步求出的乘积，可据此检查减法。\\par\\textbf{简便提示（学完运算律后）}\\par 括号按原顺序算得93后，把93看成100少7。先多算7份73再减回；乘100与乘7在同一步完成。\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]",
+      "new_answer_latex": "\\[\\begin{aligned}&[73\\times(38+55)]-2876\\\\&=73\\times93-2876\\\\&=6789-2876\\\\&=3913\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号按原顺序算得93后，把93看成100少7。先多算7份73再减回；乘100与乘7在同一步完成。\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": null
+    },
+    {
+      "key": "p011_s08",
+      "book_page": 11,
+      "id": "三、2（3）",
+      "why": "现解析提到63拆60与3，却未列简便脱式。25×60先凑1500、25×3得75，可在旁边补全该口算，原除乘两部分同时算的主法保留。",
+      "priority": "explicit_formula_missing_for_existing_hint",
+      "simple_latex": "\\[\\begin{aligned}&63\\times25\\\\={}&(60+3)\\times25\\\\={}&60\\times25+3\\times25\\\\={}&1500+75\\\\={}&1575\\end{aligned}\\]",
+      "new_note_latex": "加号左右是两个互不依赖的部分：左边先求\\(28\\)除以\\(4\\)的商，右边先求\\(63\\)乘\\(25\\)的积，因此这两步可以同时完成。两个部分都算好后才相加，不能先把\\(4\\)与\\(63\\)相加。计算\\(63\\)乘\\(25\\)时，也可把\\(63\\)分成\\(60\\)和\\(3\\)，分别求积再合并。\\par\\textbf{简便提示（学完运算律后）}\\par 只补充乘法部分的简便计算：把63分成60与3，用乘法分配律分别求积。前面的28除以4仍得7，再与1575相加为1582。\\[\\begin{aligned}&63\\times25\\\\={}&(60+3)\\times25\\\\={}&60\\times25+3\\times25\\\\={}&1500+75\\\\={}&1575\\end{aligned}\\]",
+      "new_answer_latex": "\\[\\begin{aligned}&28\\div4+63\\times25\\\\&=7+1575\\\\&=1582\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 只补充乘法部分的简便计算：把63分成60与3，用乘法分配律分别求积。前面的28除以4仍得7，再与1575相加为1582。\\[\\begin{aligned}&63\\times25\\\\={}&(60+3)\\times25\\\\={}&60\\times25+3\\times25\\\\={}&1500+75\\\\={}&1575\\end{aligned}\\]",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": null
+    },
+    {
+      "key": "p015_s08",
+      "book_page": 15,
+      "id": "三、2（4）",
+      "why": "48×17可用48=50−2作补偿，把两个因数均两位的乘法改成乘50减乘2。原48×(10+7)仅为常规分位口算；此补偿为可选较顺手结构，不宜把所有分位乘法都新增。",
+      "priority": "optional_compensation_improvement",
+      "simple_latex": "\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]",
+      "new_note_latex": "小括号中的\\(295\\)减\\(289\\)先得到除数\\(6\\)，然后才能求\\(288\\)除以\\(6\\)的商。中括号算完以后，把得到的\\(48\\)再乘\\(17\\)，不能先乘右边的\\(17\\)。最后的乘法可分别求\\(48\\)的\\(10\\)倍和\\(7\\)倍后合并，帮助检查计算。\\par\\textbf{简便提示（学完运算律后）}\\par 括号与除法照常求得48，最后可把48看成50少2，按乘法分配律同时算50乘17与2乘17。\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]",
+      "new_answer_latex": "\\[\\begin{aligned}&[288\\div(295-289)]\\times17\\\\&=(288\\div6)\\times17\\\\&=48\\times17\\\\&=816\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号与除法照常求得48，最后可把48看成50少2，按乘法分配律同时算50乘17与2乘17。\\[\\begin{aligned}&48\\times17\\\\={}&(50-2)\\times17\\\\={}&50\\times17-2\\times17\\\\={}&850-34\\\\={}&816\\end{aligned}\\]",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": null
+    },
+    {
+      "key": "p024_s03",
+      "book_page": 24,
+      "id": "四、4",
+      "why": "第2季度30+31+30可交换加数让两个30先凑60，当前主解却先得到61。只补天数小算式，保留第三单元原完整应用步骤。",
+      "priority": "short_grouping_side_note",
+      "simple_latex": "\\[\\begin{aligned}&30+31+30\\\\={}&(30+30)+31\\\\={}&60+31\\\\={}&91\\text{（天）}\\end{aligned}\\]",
+      "new_note_latex": "按照\\(3\\)月的日销量计算，应先将\\(248\\)台平均分到\\(31\\)天，求每天销售的台数。第\\(2\\)季度是\\(4\\)、\\(5\\)、\\(6\\)月，共\\(91\\)天，再用日销量乘天数；不能直接把\\(3\\)月销量乘\\(3\\)，因为这三个月比三个\\(31\\)天少\\(2\\)天。另一法先这样多算，再扣去\\(2\\)天的销量。\\par \\[\\begin{aligned}&248\\times3-(248\\div31)\\times2\\\\={}&744-8\\times2\\\\={}&744-16\\\\={}&728\\text{（台）}\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 计算季度天数时，两个30天可先合起来凑60，再加31天；这只是合计同样三个月的天数。\\[\\begin{aligned}&30+31+30\\\\={}&(30+30)+31\\\\={}&60+31\\\\={}&91\\text{（天）}\\end{aligned}\\]",
+      "new_answer_latex": "3月有31天，4、5、6月分别有30、31、30天，第2季度共91天。\\par 方法一：日销量×季度天数\\par \\[\\begin{aligned} &(248\\div31)\\times(30+31+30)\\\\={}&8\\times(61+30)\\\\={}&8\\times91\\\\={}&728\\text{（台）}\\end{aligned}\\]答：2026年第2季度能卖728台空调。\\par 按3个31天月计算会多算2天，应扣除这2天的销量。\\par 方法二：三个月按31天算再调整\\par \\[\\begin{aligned} &248\\times3-(248\\div31)\\times2\\\\={}&744-8\\times2\\\\={}&744-16\\\\={}&728\\text{（台）}\\end{aligned}\\]答：2026年第2季度能卖728台空调。\\par \\par\\textbf{简便提示（学完运算律后）}\\par 计算季度天数时，两个30天可先合起来凑60，再加31天；这只是合计同样三个月的天数。\\[\\begin{aligned}&30+31+30\\\\={}&(30+30)+31\\\\={}&60+31\\\\={}&91\\text{（天）}\\end{aligned}\\]",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": null
+    },
+    {
+      "key": "p025_s17",
+      "book_page": 25,
+      "id": "一、7",
+      "why": "已说少算7份6，却仍只写48减6；反用分配律直接由8份减1份得到7份，更贴合题目的运算律与数量分析。",
+      "priority": "minor_structural_consistency",
+      "simple_latex": "\\[\\begin{aligned}&8\\times6-6\\\\={}&6\\times(8-1)\\\\={}&6\\times7\\\\={}&42\\end{aligned}\\]",
+      "new_note_latex": "正确计算中括号内的6应取8份，错式只取1份；含方框的部分相同。因此差就是少算的7份6，反用乘法分配律，无须求方框的值。\\[\\begin{aligned}&8\\times6-6\\\\={}&6\\times(8-1)\\\\={}&6\\times7\\\\={}&42\\end{aligned}\\]",
+      "new_answer_latex": "正确式中的6应乘8，错式只有一份6；两结果相差7份6：\\[\\begin{aligned}&8\\times6-6\\\\={}&6\\times(8-1)\\\\={}&6\\times7\\\\={}&42\\end{aligned}\\]",
+      "preserve_original_primary_method": false,
+      "original_answer_needs_replacement": false,
+      "new_value": 42
+    },
+    {
+      "key": "p030_s10",
+      "book_page": 30,
+      "id": "二、5",
+      "why": "识图选D本身可不计算，但既然解析给出39×32的面积数值，39接近40，可补乘法分配律补偿法，避免普通两位数乘法。",
+      "priority": "clear_arithmetic_structure",
+      "simple_latex": "\\[\\begin{aligned}&(15+24)\\times32\\\\={}&39\\times32\\\\={}&(40-1)\\times32\\\\={}&40\\times32-1\\times32\\\\={}&1280-32\\\\={}&1248\\text{（平方米）}\\end{aligned}\\]",
+      "new_note_latex": "先按图认数量：15与24是相邻两块地的宽，32是两块地共同的长。两宽相加后乘共同的长，求合并后长方形面积。豆角区域宽20没有进入算式，所以不在所求总量中，选D。若继续求面积，把39看成40少1：\\[\\begin{aligned}&(15+24)\\times32\\\\={}&39\\times32\\\\={}&(40-1)\\times32\\\\={}&40\\times32-1\\times32\\\\={}&1280-32\\\\={}&1248\\text{（平方米）}\\end{aligned}\\]",
+      "new_answer_latex": "选D。15与24是两块区域的宽，32是共同的长，求两块合并面积。豆角区域宽20不在式中。继续计算时可用39=40−1补偿：\\[\\begin{aligned}&(15+24)\\times32\\\\={}&39\\times32\\\\={}&(40-1)\\times32\\\\={}&40\\times32-1\\times32\\\\={}&1280-32\\\\={}&1248\\text{（平方米）}\\end{aligned}\\]",
+      "preserve_original_primary_method": false,
+      "original_answer_needs_replacement": false,
+      "new_value": 1248
+    },
+    {
+      "key": "p031_s08",
+      "book_page": 31,
+      "id": "三、1（8）",
+      "why": "与已修p006_s06的同类遗漏。乘8与除8还原，保留两个乘5，利用整数乘除性质直接算5×5，避免先求40；不可误写成末尾除5。",
+      "priority": "same_type_as_accepted_change",
+      "simple_latex": "\\[\\begin{aligned}&8\\times5\\div8\\times5\\\\={}&(8\\div8)\\times(5\\times5)\\\\={}&1\\times25\\\\={}&25\\end{aligned}\\]",
+      "new_note_latex": "整数乘除可整理次序：先乘8、再除8会还原，余下两个5仍都是乘数。把8除以8与5乘5同一步算完；不要把末尾的乘5误改为除5。\\[\\begin{aligned}&8\\times5\\div8\\times5\\\\={}&(8\\div8)\\times(5\\times5)\\\\={}&1\\times25\\\\={}&25\\end{aligned}\\]",
+      "new_answer_latex": "先乘8又除8还原，两个5仍相乘：\\[\\begin{aligned}&8\\times5\\div8\\times5\\\\={}&(8\\div8)\\times(5\\times5)\\\\={}&1\\times25\\\\={}&25\\end{aligned}\\]",
+      "preserve_original_primary_method": false,
+      "original_answer_needs_replacement": false,
+      "new_value": 25
+    },
+    {
+      "key": "p032_s02",
+      "book_page": 32,
+      "id": "五、3（1）",
+      "why": "与已采纳p027_s11同类：先按总套数列式的数量思路可保留，但计算先凑4×25=100，避免先做25×12。这不另算第3种数量方法。",
+      "priority": "same_type_as_accepted_change",
+      "simple_latex": "\\[\\begin{aligned}&4\\times(25\\times12)\\\\={}&(4\\times25)\\times12\\\\={}&100\\times12\\\\={}&1200\\text{（本）}\\end{aligned}\\]",
+      "new_note_latex": "每套4本，每箱25套，先按每份本数乘套数，得到一箱图书的本数，再乘12箱。另一种方法先求12箱共有多少套，再用每套4本乘总套数。两条路径改变的是先求“每箱本数”还是“总套数”，图书总量不变。第二种列式仍可按乘法结合律先凑4乘25等于100；只是计算次序优化，不增列新的解法。\\par \\textbf{另法：先求总套数}\\par \\[\\begin{aligned}&4\\times(25\\times12)\\\\={}&(4\\times25)\\times12\\\\={}&100\\times12\\\\={}&1200\\text{（本）}\\end{aligned}\\]",
+      "new_answer_latex": "方法一：先算每箱多少本\\par \\[\\begin{aligned} &4\\times25\\times12\\\\={}&100\\times12\\\\={}&1200\\text{（本）}\\end{aligned}\\]答：一共采购了1200本图书。\\par 方法二：先算共有多少套\\par \\[\\begin{aligned}&4\\times(25\\times12)\\\\={}&(4\\times25)\\times12\\\\={}&100\\times12\\\\={}&1200\\text{（本）}\\end{aligned}\\]答：一共采购了1200本图书。\\par ",
+      "preserve_original_primary_method": true,
+      "original_answer_needs_replacement": false,
+      "new_value": 1200
+    }
+  ],
+  "recommended_clear_keys": [
+    "p002_s01",
+    "p003_s05",
+    "p003_s07",
+    "p005_s05",
+    "p007_s05",
+    "p011_s08",
+    "p030_s10",
+    "p031_s08",
+    "p032_s02"
+  ],
+  "optional_lower_priority_keys": [
+    "p015_s08",
+    "p024_s03",
+    "p025_s17"
+  ],
+  "independent_arithmetic": {
+    "p002_s01": 2210,
+    "p003_s05": 2088,
+    "p003_s07": 10,
+    "p005_s05": 1104,
+    "p007_s05": 6789,
+    "p011_s08": 1575,
+    "p015_s08": 816,
+    "p024_s03": 91,
+    "p025_s17": 42,
+    "p030_s10": 1248,
+    "p031_s08": 25,
+    "p032_s02": 1200
+  },
+  "unchanged_scope_notes": [
+    "已包含完整简便步骤的旧56项全部保留，不因这次复查回滚。",
+    "明确要求列竖式、指定运算顺序、按计算器坏键输入的题，保留其题意；不把普通分位乘法在每题重复扩写为新简算。",
+    "整十数的自然乘除、已给出的更简便数量方法或直接凭结构判大小，不再为增加修订数量重复加式。",
+    "多数几何题只是用内角和等关系直接计算；不把普通加减的任意重排都列作必要修订。"
+  ],
+  "visual_scope": "本轮主体是完整源文本核读；未声称将1–36所有现PDF页面重新逐张人工目视检查。候选均不需要修改题干、图形或原A4红主式。",
+  "source_sha256": {
+    "questions/p001.json": "673e9aeca4c2faf944bf3f300e52bf874dcff68781d17b1a93b66f0547857324",
+    "questions/p002.json": "cdbb65f56d40f04494d55feb068a32c5090919c9de95a9002184f53824c2b9bf",
+    "questions/p003.json": "f85b5140835fc10edcc412e73bd23d656f3b71cabcc708ff890bb2bf599d2b5b",
+    "questions/p004.json": "c45d9737b759a93dfd7dec17e70e55346ab027d0d3681619cffcae112fc768c1",
+    "questions/p005.json": "f488086f7a73d31a705f3c6b4b9f766be79cdf5923a2fd864d65f4b699178b04",
+    "questions/p006.json": "21eb029456566d81b4061eff8e227fcd6194e69f2065733d9ac5f909a0ef9ce5",
+    "questions/p007.json": "985dba4c69e44bc35c3be468a0261fce170821a70c5bd4f384799d8fb8929ac3",
+    "questions/p008.json": "23b721be2008e8e3f49433e4b45b58b6e7eeae00913db690fe9217986fe28997",
+    "questions/p009.json": "be9c51dda56adcc8c04f40c16af00fb23276ded4e4d9448f6c2896759a3ef7d4",
+    "questions/p010.json": "18af50eb82b9ed855a2933800aaf8fdb135cbb82a48fdfbfd71a8d1983e2b4e6",
+    "questions/p011.json": "780860507512debe6bb012a5881461449684a781225d4834f4b0d7630a197609",
+    "questions/p012.json": "b3413ccaa56f5163519184cf98e7efaf9de0335517cfed4c776daff9528e0a5a",
+    "questions/p013.json": "b19ff6a81bab59772c976a34a0f010aa1745dcff8235c6aa953b81bbb33c6f06",
+    "questions/p014.json": "f1eddbd4f0c4708ec03c0877503db20c5a994cfd09bbdc86b6aa1fe58595d4dd",
+    "questions/p015.json": "f7008dd3522cef02bb4f83d1476601e9030ee5cffc7913a50cd289a94f556254",
+    "questions/p016.json": "8856c76622dff9f51b66bdd36d31bc1d688e03fd802f5eb56fcd5fdb09595cc1",
+    "questions/p017.json": "ea142355ac9109d8abf95deee52636fa2461fe8e7b3f1918dd898bb05e6b5a77",
+    "questions/p018.json": "11788775620bdcc5845881a23c8118a81da9f75854d9e5495ccea5646251276b",
+    "questions/p019.json": "ff2ac2f3a16c6da05bc38890dba606855d23b3a8f706e966f2cf3fa174b0dd32",
+    "questions/p020.json": "92d6eb20c6eb8f7cbed6bd9c06bb034162b3038a482fa7ec9c4df89d03349ef3",
+    "questions/p021.json": "15b2a759ea342de1baceb3aab5f6791fe0a36553997d0b32c504929bebd664f6",
+    "questions/p022.json": "6d7a99e3503b0ac128b14644c261c8c6fd78bfa75b130300286d32cee2e0cf74",
+    "questions/p023.json": "85eb2dedf2e617b060f1fa5a36b5963f153b89a45734c4e02ea12bace973b151",
+    "questions/p024.json": "092d9a01fee7f1e341de9a0b339411a6122995934a3ae1b305a86b1f2e4d774c",
+    "questions/p025.json": "164678de187c5968aae1548587af4ce646a681d0e2f918d72ee2a8a608addd55",
+    "questions/p026.json": "20b8acda2f94528d0b43752b96286a6cbecbd71488a059dace7d63ad5eca04b5",
+    "questions/p027.json": "24728ace3cc7e5e9eb7077dcc4ed68ce4848d1465b86d30d5c93df576803d923",
+    "questions/p028.json": "c5794119542ea151c2b83cf1208d5d0bd2ee89316bc16eac97324cda4bc0c048",
+    "questions/p029.json": "c9b7e7b281929838caf51acb9ed170652042423dc1d5d67e0295553ee84c0119",
+    "questions/p030.json": "3551aee37489d01731d2092c7b171b7574655c9facf3d18bd5219dc0a036b2ae",
+    "questions/p031.json": "d3dc5af5a9133a3fbe7ff5e0fb69582f6b051c2e37dbaeb1d6b43f6d550125e2",
+    "questions/p032.json": "a08ae2be103e45c5470567a02e17506ec200bfff7cda681f625ac097c0a868bc",
+    "questions/p033.json": "bd16a91e06bf95d6e33547cd82a3fed7d08272b598033a42eae815606d6726f0",
+    "questions/p034.json": "0e805cdb08636e45be00e9b93a482bcbd229205eda4759548fc847ebf1ab3f9f",
+    "questions/p035.json": "fbf99781ba92903facdf44d59a9151751d90003a4933a659057145f27f315f16",
+    "questions/p036.json": "b6d84c839d7a06768d9efb416ca73ba3953b0083b55161450e31181124980ed0",
+    "detailed_layout/notes_A.json": "87014be445624595204847d92212a916593bfd52fa162744b18b8705fff8f58e",
+    "detailed_layout/notes_B.json": "4c478b117fa3c7b2f960b8729f7e76994c82927a6c92f8075c42c0545fac83ae",
+    "detailed_layout/notes_C.json": "ee28ef033e16fd5447d31e27a46a7cb5fcc46eb25d013a3930da6953efdabc2e",
+    "detailed_layout/notes_D.json": "a4b93b7f42d161c69aab43169f6ea7f79618ee3d96bdace5065977b22dde5256",
+    "simplify_update/accepted_changes.json": "de0783e596e45ebb9e0e8c562bacfdfe5c683d1ae23dad76af467866bc264c55"
+  }
+}

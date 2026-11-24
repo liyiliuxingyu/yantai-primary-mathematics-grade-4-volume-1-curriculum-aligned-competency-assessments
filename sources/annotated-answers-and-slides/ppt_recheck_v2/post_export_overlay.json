@@ -1,0 +1,1708 @@
+{
+  "volume": 2,
+  "sha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+  "slides": [
+    {
+      "volume": 2,
+      "slide": 149,
+      "key": "p024_s03",
+      "rules": {
+        "volume": 2,
+        "key": "p024_s03",
+        "slide": 149,
+        "ops": [
+          {
+            "type": "note",
+            "name": "p024_s03_b013_3",
+            "rect": [
+              650,
+              120,
+              560,
+              360
+            ],
+            "title": "简便提示（学完运算律后）",
+            "text": "两个30天先凑60，再加31天。",
+            "title_points": 26,
+            "note_points": 24,
+            "points": 32,
+            "rows": [
+              "30+31+30",
+              "(30+30)+31",
+              "60+31",
+              "91\\text{（天）}"
+            ]
+          },
+          {
+            "type": "text",
+            "name": "p024_s03_b014_4_p0",
+            "text": "答：2026年第2季度能卖728台空调。",
+            "points": 32,
+            "rect": [
+              64,
+              548,
+              1152,
+              64
+            ]
+          }
+        ]
+      },
+      "actual_objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "149",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p024_s03_b010_0",
+          "rect": [
+            106.0,
+            128.45333333333335,
+            435.52,
+            45.093333333333334
+          ],
+          "text": "248×3-(248÷31)×2",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "p024_s03_b011_1_operator",
+          "rect": [
+            64.0,
+            192.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p024_s03_b011_1",
+          "rect": [
+            106.0,
+            203.2,
+            204.04,
+            33.6
+          ],
+          "text": "744-8×2",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p024_s03_b012_2_operator",
+          "rect": [
+            64.0,
+            261.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p024_s03_b012_2",
+          "rect": [
+            106.0,
+            272.2,
+            152.08,
+            33.6
+          ],
+          "text": "744-16",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p024_s03_b013_3_operator",
+          "rect": [
+            64.0,
+            330.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p024_s03_b013_3_retained_original",
+          "rect": [
+            106.0,
+            336.08,
+            188.66666666666666,
+            43.84
+          ],
+          "text": "728（台）",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p024_s03_b013_3_simplify_title",
+          "rect": [
+            650.0,
+            120.0,
+            560.0,
+            36.0
+          ],
+          "text": "简便提示（学完运算律后）",
+          "native_omml": false
+        },
+        {
+          "id": "15",
+          "name": "p024_s03_b013_3_simplify_explain",
+          "rect": [
+            650.0,
+            158.0,
+            560.0,
+            32.0
+          ],
+          "text": "两个30天先凑60，再加31天。",
+          "native_omml": false
+        },
+        {
+          "id": "17",
+          "name": "p024_s03_b013_3_simplify_steps_simplify_rhs0",
+          "rect": [
+            692.0,
+            190.0,
+            518.0,
+            72.49994750656168
+          ],
+          "text": "30+31+30",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p024_s03_b013_3_simplify_steps_simplify_equals1",
+          "rect": [
+            650.0,
+            262.4999475065617,
+            34.0,
+            72.49994750656168
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p024_s03_b013_3_simplify_steps_simplify_rhs1",
+          "rect": [
+            692.0,
+            262.4999475065617,
+            518.0,
+            72.49994750656168
+          ],
+          "text": "(30+30)+31",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p024_s03_b013_3_simplify_steps_simplify_equals2",
+          "rect": [
+            650.0,
+            335.0,
+            34.0,
+            72.49994750656168
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p024_s03_b013_3_simplify_steps_simplify_rhs2",
+          "rect": [
+            692.0,
+            335.0,
+            518.0,
+            72.49994750656168
+          ],
+          "text": "60+31",
+          "native_omml": true
+        },
+        {
+          "id": "22",
+          "name": "p024_s03_b013_3_simplify_steps_simplify_equals3",
+          "rect": [
+            650.0,
+            407.5000524934383,
+            34.0,
+            72.49994750656168
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "23",
+          "name": "p024_s03_b013_3_simplify_steps_simplify_rhs3",
+          "rect": [
+            692.0,
+            407.5000524934383,
+            518.0,
+            72.49994750656168
+          ],
+          "text": "91（天）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p024_s03_b014_4_p0",
+          "rect": [
+            64.0,
+            548.0,
+            1152.0,
+            64.0
+          ],
+          "text": "答：2026年第2季度能卖728台空调。",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第24页　四、4",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第28页　输入PDF第34页　解析续页3",
+          "native_omml": false
+        }
+      ],
+      "formulas": [
+        {
+          "target": "p024_s03_b010_0",
+          "ast": {
+            "t": "text",
+            "v": "248×3-(248÷31)×2"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b011_1_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b011_1",
+          "ast": {
+            "t": "text",
+            "v": "744-8×2"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b012_2_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b012_2",
+          "ast": {
+            "t": "text",
+            "v": "744-16"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_retained_original",
+          "ast": {
+            "t": "text",
+            "v": "728（台）"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_simplify_steps_simplify_rhs0",
+          "ast": {
+            "t": "text",
+            "v": "30+31+30"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_simplify_steps_simplify_equals1",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_simplify_steps_simplify_rhs1",
+          "ast": {
+            "t": "text",
+            "v": "(30+30)+31"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_simplify_steps_simplify_equals2",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_simplify_steps_simplify_rhs2",
+          "ast": {
+            "t": "text",
+            "v": "60+31"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_simplify_steps_simplify_equals3",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p024_s03_b013_3_simplify_steps_simplify_rhs3",
+          "ast": {
+            "t": "text",
+            "v": "91（天）"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        }
+      ]
+    },
+    {
+      "volume": 2,
+      "slide": 192,
+      "key": "p025_s17",
+      "rules": {
+        "volume": 2,
+        "key": "p025_s17",
+        "slide": 192,
+        "ops": [
+          {
+            "type": "math",
+            "name": "p025_s17_b003_4",
+            "points": 32,
+            "tex": "6\\times(8-1)",
+            "rect": [
+              106,
+              418,
+              1100,
+              54
+            ]
+          },
+          {
+            "type": "math",
+            "name": "p025_s17_b004_5",
+            "points": 32,
+            "rect": [
+              64,
+              487,
+              1152,
+              116
+            ],
+            "rows": [
+              "6\\times7",
+              "42"
+            ]
+          }
+        ]
+      },
+      "actual_objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "192",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p025_s17_b000_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            345.3333333333333,
+            58.0
+          ],
+          "text": "明明在计算时，把",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p025_s17_b000_0_p1",
+          "rect": [
+            405.3333333333333,
+            130.953280839895,
+            206.25333333333333,
+            45.093333333333334
+          ],
+          "text": "8×(□+6)",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p025_s17_b000_0_p2",
+          "rect": [
+            614.5866666666667,
+            124.50005249343832,
+            132.0,
+            58.0
+          ],
+          "text": "错算成",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p025_s17_b000_0_p3",
+          "rect": [
+            742.5866666666667,
+            136.05333333333334,
+            176.14666666666668,
+            34.89333333333333
+          ],
+          "text": "8×□+6",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p025_s17_b000_0_p4",
+          "rect": [
+            921.7333333333333,
+            124.50005249343832,
+            260.0,
+            58.0
+          ],
+          "text": "，他得到的结",
+          "native_omml": false
+        },
+        {
+          "id": "9",
+          "name": "p025_s17_b000_1_p0",
+          "rect": [
+            64.0,
+            200.50005249343832,
+            345.3333333333333,
+            58.0
+          ],
+          "text": "果与正确结果相差",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p025_s17_b000_1_p1_left",
+          "rect": [
+            405.3333333333333,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_omml": false
+        },
+        {
+          "id": "11",
+          "name": "p025_s17_b000_1_p1_right",
+          "rect": [
+            504.64,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "p025_s17_b000_1_p2",
+          "rect": [
+            550.3066666666666,
+            200.50005249343832,
+            46.666666666666664,
+            58.0
+          ],
+          "text": "。",
+          "native_omml": false
+        },
+        {
+          "id": "13",
+          "name": "p025_s17_b001_2_p0",
+          "rect": [
+            64.0,
+            276.5000524934383,
+            1122.0,
+            58.0
+          ],
+          "text": "正确式中，6应乘8；错式中的6没有乘8。两结果相差：",
+          "native_omml": false
+        },
+        {
+          "id": "14",
+          "name": "p025_s17_b002_3",
+          "rect": [
+            106.0,
+            360.2,
+            165.05333333333334,
+            33.6
+          ],
+          "text": "8×6-6",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p025_s17_b003_4_operator",
+          "rect": [
+            64.0,
+            418.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p025_s17_b003_4",
+          "rect": [
+            106.0,
+            418.0,
+            1100.0,
+            54.0
+          ],
+          "text": "6×(8-1)",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p025_s17_b004_5_operator",
+          "rect": [
+            64.0,
+            487.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p025_s17_b004_5_simplify_rhs0",
+          "rect": [
+            106.0,
+            487.0,
+            1110.0,
+            58.0
+          ],
+          "text": "6×7",
+          "native_omml": true
+        },
+        {
+          "id": "21",
+          "name": "p025_s17_b004_5_simplify_equals1",
+          "rect": [
+            64.0,
+            545.0,
+            34.0,
+            58.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "22",
+          "name": "p025_s17_b004_5_simplify_rhs1",
+          "rect": [
+            106.0,
+            545.0,
+            1110.0,
+            58.0
+          ],
+          "text": "42",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第25页　一、7",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第29页　输入PDF第36页",
+          "native_omml": false
+        }
+      ],
+      "formulas": [
+        {
+          "target": "p025_s17_b000_0_p1",
+          "ast": {
+            "t": "text",
+            "v": "8×(□+6)"
+          },
+          "color": "000000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p025_s17_b000_0_p3",
+          "ast": {
+            "t": "text",
+            "v": "8×□+6"
+          },
+          "color": "000000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p025_s17_b002_3",
+          "ast": {
+            "t": "text",
+            "v": "8×6-6"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p025_s17_b003_4_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p025_s17_b003_4",
+          "ast": {
+            "t": "text",
+            "v": "6×(8-1)"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p025_s17_b004_5_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p025_s17_b004_5_simplify_rhs0",
+          "ast": {
+            "t": "text",
+            "v": "6×7"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p025_s17_b004_5_simplify_equals1",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p025_s17_b004_5_simplify_rhs1",
+          "ast": {
+            "t": "text",
+            "v": "42"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        }
+      ]
+    },
+    {
+      "volume": 2,
+      "slide": 310,
+      "key": "p030_s10",
+      "rules": {
+        "volume": 2,
+        "key": "p030_s10",
+        "slide": 310,
+        "ops": [
+          {
+            "type": "note",
+            "name": "p030_s10_b005_0",
+            "rect": [
+              790,
+              120,
+              420,
+              480
+            ],
+            "title": "面积简算",
+            "text": "把39看成40少1。",
+            "title_points": 26,
+            "note_points": 24,
+            "points": 32,
+            "rows": [
+              "(15+24)\\times32",
+              "39\\times32",
+              "(40-1)\\times32",
+              "40\\times32-1\\times32",
+              "1280-32",
+              "1248\\text{（平方米）}"
+            ]
+          }
+        ]
+      },
+      "actual_objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "310",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p030_s10_b005_0_retained_original",
+          "rect": [
+            64.0,
+            120.0,
+            683.7687139107611,
+            480.0
+          ],
+          "text": "",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p030_s10_b005_0_simplify_title",
+          "rect": [
+            790.0,
+            120.0,
+            420.0,
+            36.0
+          ],
+          "text": "面积简算",
+          "native_omml": false
+        },
+        {
+          "id": "8",
+          "name": "p030_s10_b005_0_simplify_explain",
+          "rect": [
+            790.0,
+            158.0,
+            420.0,
+            32.0
+          ],
+          "text": "把39看成40少1。",
+          "native_omml": false
+        },
+        {
+          "id": "10",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_rhs0",
+          "rect": [
+            832.0,
+            190.0,
+            378.0,
+            68.33333333333333
+          ],
+          "text": "(15+24)×32",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_equals1",
+          "rect": [
+            790.0,
+            258.3333333333333,
+            34.0,
+            68.33333333333333
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_rhs1",
+          "rect": [
+            832.0,
+            258.3333333333333,
+            378.0,
+            68.33333333333333
+          ],
+          "text": "39×32",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_equals2",
+          "rect": [
+            790.0,
+            326.6666666666667,
+            34.0,
+            68.33333333333333
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_rhs2",
+          "rect": [
+            832.0,
+            326.6666666666667,
+            378.0,
+            68.33333333333333
+          ],
+          "text": "(40-1)×32",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_equals3",
+          "rect": [
+            790.0,
+            395.0,
+            34.0,
+            68.33333333333333
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "16",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_rhs3",
+          "rect": [
+            832.0,
+            395.0,
+            378.0,
+            68.33333333333333
+          ],
+          "text": "40×32-1×32",
+          "native_omml": true
+        },
+        {
+          "id": "17",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_equals4",
+          "rect": [
+            790.0,
+            463.3333333333333,
+            34.0,
+            68.33333333333333
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "18",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_rhs4",
+          "rect": [
+            832.0,
+            463.3333333333333,
+            378.0,
+            68.33333333333333
+          ],
+          "text": "1280-32",
+          "native_omml": true
+        },
+        {
+          "id": "19",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_equals5",
+          "rect": [
+            790.0,
+            531.6666666666666,
+            34.0,
+            68.33333333333333
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "20",
+          "name": "p030_s10_b005_0_simplify_steps_simplify_rhs5",
+          "rect": [
+            832.0,
+            531.6666666666666,
+            378.0,
+            68.33333333333333
+          ],
+          "text": "1248（平方米）",
+          "native_omml": true
+        },
+        {
+          "id": "5",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第30页　二、5",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第34页　输入PDF第43页　解析续页2",
+          "native_omml": false
+        }
+      ],
+      "formulas": [
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_rhs0",
+          "ast": {
+            "t": "text",
+            "v": "(15+24)×32"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_equals1",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_rhs1",
+          "ast": {
+            "t": "text",
+            "v": "39×32"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_equals2",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_rhs2",
+          "ast": {
+            "t": "text",
+            "v": "(40-1)×32"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_equals3",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_rhs3",
+          "ast": {
+            "t": "text",
+            "v": "40×32-1×32"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_equals4",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_rhs4",
+          "ast": {
+            "t": "text",
+            "v": "1280-32"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_equals5",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p030_s10_b005_0_simplify_steps_simplify_rhs5",
+          "ast": {
+            "t": "text",
+            "v": "1248（平方米）"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        }
+      ]
+    },
+    {
+      "volume": 2,
+      "slide": 333,
+      "key": "p031_s08",
+      "rules": {
+        "volume": 2,
+        "key": "p031_s08",
+        "slide": 333,
+        "ops": [
+          {
+            "type": "text",
+            "name": "p031_s08_b003_2_p0",
+            "text": "乘8再除8还原，两个5仍相乘。",
+            "points": 32,
+            "rect": [
+              64,
+              264.5,
+              1152,
+              58
+            ]
+          },
+          {
+            "type": "math",
+            "name": "p031_s08_b004_3",
+            "points": 32,
+            "tex": "(8\\div8)\\times(5\\times5)",
+            "rect": [
+              106,
+              337,
+              1100,
+              54
+            ]
+          },
+          {
+            "type": "math",
+            "name": "p031_s08_b005_4",
+            "points": 32,
+            "tex": "1\\times25",
+            "rect": [
+              106,
+              406,
+              1100,
+              54
+            ]
+          }
+        ]
+      },
+      "actual_objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "333",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p031_s08_b001_0",
+          "rect": [
+            64.0,
+            120.0,
+            1152.0,
+            64.0
+          ],
+          "text": "口算思路",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p031_s08_b002_1",
+          "rect": [
+            106.0,
+            205.2,
+            236.49333333333334,
+            33.6
+          ],
+          "text": "8×5÷8×5",
+          "native_omml": true
+        },
+        {
+          "id": "6",
+          "name": "p031_s08_b003_2_p0",
+          "rect": [
+            64.0,
+            264.4999475065617,
+            1152.0,
+            58.0
+          ],
+          "text": "乘8再除8还原，两个5仍相乘。",
+          "native_omml": false
+        },
+        {
+          "id": "7",
+          "name": "p031_s08_b004_3_operator",
+          "rect": [
+            64.0,
+            337.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p031_s08_b004_3",
+          "rect": [
+            106.0,
+            337.0,
+            1100.0,
+            54.0
+          ],
+          "text": "(8÷8)×(5×5)",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p031_s08_b005_4_operator",
+          "rect": [
+            64.0,
+            406.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "10",
+          "name": "p031_s08_b005_4",
+          "rect": [
+            106.0,
+            406.0,
+            1100.0,
+            54.0
+          ],
+          "text": "1×25",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p031_s08_b006_5_operator",
+          "rect": [
+            64.0,
+            475.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "12",
+          "name": "p031_s08_b006_5",
+          "rect": [
+            106.0,
+            487.97333333333336,
+            41.64,
+            30.053333333333335
+          ],
+          "text": "25",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第31页　三、1（8）口算思路",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第35页　输入PDF第44页　解析续页2",
+          "native_omml": false
+        }
+      ],
+      "formulas": [
+        {
+          "target": "p031_s08_b002_1",
+          "ast": {
+            "t": "text",
+            "v": "8×5÷8×5"
+          },
+          "color": "000000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p031_s08_b004_3_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p031_s08_b004_3",
+          "ast": {
+            "t": "text",
+            "v": "(8÷8)×(5×5)"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p031_s08_b005_4_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p031_s08_b005_4",
+          "ast": {
+            "t": "text",
+            "v": "1×25"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p031_s08_b006_5_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p031_s08_b006_5",
+          "ast": {
+            "t": "text",
+            "v": "25"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        }
+      ]
+    },
+    {
+      "volume": 2,
+      "slide": 352,
+      "key": "p032_s02",
+      "rules": {
+        "volume": 2,
+        "key": "p032_s02",
+        "slide": 352,
+        "ops": [
+          {
+            "type": "math",
+            "name": "p032_s02_b008_3",
+            "points": 32,
+            "tex": "(4\\times25)\\times12",
+            "rect": [
+              106,
+              340,
+              1100,
+              54
+            ]
+          },
+          {
+            "type": "math",
+            "name": "p032_s02_b009_4",
+            "points": 32,
+            "rect": [
+              64,
+              409,
+              1152,
+              116
+            ],
+            "rows": [
+              "100\\times12",
+              "1200\\text{（本）}"
+            ]
+          },
+          {
+            "type": "text",
+            "name": "p032_s02_b010_5_p0",
+            "text": "答：一共采购了1200本图书。",
+            "points": 32,
+            "rect": [
+              64,
+              548,
+              1152,
+              64
+            ]
+          }
+        ]
+      },
+      "actual_objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "352",
+          "native_omml": false
+        },
+        {
+          "id": "4",
+          "name": "p032_s02_b005_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            588.6666666666666,
+            58.0
+          ],
+          "text": "答：一共采购了1200本图书。",
+          "native_omml": false
+        },
+        {
+          "id": "5",
+          "name": "p032_s02_b006_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            473.3333333333333,
+            58.0
+          ],
+          "text": "方法二：先算共有多少套",
+          "native_omml": false
+        },
+        {
+          "id": "6",
+          "name": "p032_s02_b007_2",
+          "rect": [
+            106.0,
+            276.4533333333333,
+            234.14666666666668,
+            45.093333333333334
+          ],
+          "text": "4×(25×12)",
+          "native_omml": true
+        },
+        {
+          "id": "7",
+          "name": "p032_s02_b008_3_operator",
+          "rect": [
+            64.0,
+            340.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "8",
+          "name": "p032_s02_b008_3",
+          "rect": [
+            106.0,
+            340.0,
+            1100.0,
+            54.0
+          ],
+          "text": "(4×25)×12",
+          "native_omml": true
+        },
+        {
+          "id": "9",
+          "name": "p032_s02_b009_4_operator",
+          "rect": [
+            64.0,
+            409.0,
+            34.0,
+            54.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "13",
+          "name": "p032_s02_b009_4_simplify_rhs0",
+          "rect": [
+            106.0,
+            409.0,
+            1110.0,
+            58.0
+          ],
+          "text": "100×12",
+          "native_omml": true
+        },
+        {
+          "id": "14",
+          "name": "p032_s02_b009_4_simplify_equals1",
+          "rect": [
+            64.0,
+            467.0,
+            34.0,
+            58.0
+          ],
+          "text": "=",
+          "native_omml": true
+        },
+        {
+          "id": "15",
+          "name": "p032_s02_b009_4_simplify_rhs1",
+          "rect": [
+            106.0,
+            467.0,
+            1110.0,
+            58.0
+          ],
+          "text": "1200（本）",
+          "native_omml": true
+        },
+        {
+          "id": "11",
+          "name": "p032_s02_b010_5_p0",
+          "rect": [
+            64.0,
+            548.0,
+            1152.0,
+            64.0
+          ],
+          "text": "答：一共采购了1200本图书。",
+          "native_omml": false
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第32页　五、3（1）",
+          "native_omml": false
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第36页　输入PDF第46页　解析续页2",
+          "native_omml": false
+        }
+      ],
+      "formulas": [
+        {
+          "target": "p032_s02_b007_2",
+          "ast": {
+            "t": "text",
+            "v": "4×(25×12)"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p032_s02_b008_3_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p032_s02_b008_3",
+          "ast": {
+            "t": "text",
+            "v": "(4×25)×12"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p032_s02_b009_4_operator",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p032_s02_b009_4_simplify_rhs0",
+          "ast": {
+            "t": "text",
+            "v": "100×12"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p032_s02_b009_4_simplify_equals1",
+          "ast": {
+            "t": "text",
+            "v": "="
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        },
+        {
+          "target": "p032_s02_b009_4_simplify_rhs1",
+          "ast": {
+            "t": "text",
+            "v": "1200（本）"
+          },
+          "color": "C00000",
+          "points": 32.0,
+          "font": "Droid Sans Fallback"
+        }
+      ]
+    }
+  ]
+}

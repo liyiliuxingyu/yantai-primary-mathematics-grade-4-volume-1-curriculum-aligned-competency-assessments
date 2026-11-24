@@ -1,0 +1,44 @@
+{
+  "passed": true,
+  "scope": "仅原书第78页选择题第4题，课堂答案按本题教学考查意图只列B",
+  "book_page": 78,
+  "question_key": "p078_s04",
+  "answer_pdf_file_page": 82,
+  "pdf_sha256": "5b0ec22916bc2f77e3ec9575a8b46466f500ce03d32887ee09d5817cf9d82dda",
+  "pages": 128,
+  "first_page_blank": true,
+  "no_extra_pages": true,
+  "all_page_dimensions_unchanged": true,
+  "changed_pdf_pages": [
+    82
+  ],
+  "unchanged_pdf_pages_object_graphs_byte_identical": 127,
+  "question_records": 867,
+  "changed_question_keys": [
+    "p078_s04"
+  ],
+  "unchanged_question_records": 866,
+  "compiled_snippets": 948,
+  "local_patches": 92,
+  "previous_black_source_corrections_preserved": 5,
+  "scope_qa": "q4_update/qa_scope.json",
+  "recovery_qa": "q4_update/qa_recovery.json",
+  "portability_qa": "q4_update/qa_portability.json",
+  "mathematics_qa": "q4_update/qa_math_independent.json",
+  "visual_qa": "q4_update/qa_visual.json",
+  "ppt_qa_paths": [
+    "ppt_q4/qa_final.json"
+  ],
+  "manual_visual_review": {
+    "answer_page82_by_root_and_author": true,
+    "choice_B_and_note_crops": true,
+    "ppt_changed_slides_reviewed_by_author_and_root": [
+      126,
+      127
+    ]
+  },
+  "native_powerpoint_playback_tested": false,
+  "native_wps_playback_tested": false,
+  "answer_scope": "甲多6岁与乙少6岁恰好抵消，丙等于平均年龄；只据此确定关系，不指定具体岁数。题干原D选项保留。",
+  "approved_changes_sha256": "16c499909a7a20d55882d077e86f800e815d7bb576009de8d7fe6744ea5f0324"
+}

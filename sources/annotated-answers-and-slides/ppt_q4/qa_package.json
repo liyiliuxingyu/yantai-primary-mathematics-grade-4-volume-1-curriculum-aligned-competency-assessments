@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "source": "q4_review/bundle/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+  "source_sha256": "78a82b8be17b7ea20eef6c24cc0219242b29d360578e12da3079e4cc228413d6",
+  "output": "/workspace/scratch/1facfb035d44/q4_review/deliverables/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+  "output_sha256": "39fe62b4b21a551bee42e2a1c7a54fe0852f6f5acbfb71ed02aa333015e3de02",
+  "total_slides": 433,
+  "changed_parts": [
+    "ppt/slides/slide124.xml",
+    "ppt/slides/slide125.xml"
+  ],
+  "changed_slides": [
+    126,
+    127
+  ],
+  "unchanged_slide_count": 431,
+  "all_other_package_parts_byte_identical": true,
+  "all_slide_timing_xml_byte_identical": true,
+  "all_original_shape_ids_names_order_preserved": true,
+  "changes": [
+    {
+      "slide": 126,
+      "part_number": 124,
+      "record_key": "p078_s04",
+      "shape_id": 16,
+      "name": "p078_s04_b002_4_p0",
+      "rect": [
+        64,
+        420.5,
+        1152,
+        58
+      ],
+      "text": "因此选B。",
+      "points": 32,
+      "native_timing_unchanged": true
+    },
+    {
+      "slide": 127,
+      "part_number": 125,
+      "record_key": "p078_s04",
+      "shape_id": 9,
+      "name": "p078_s04_b003_2_p1_answer",
+      "rect": [
+        238.3,
+        274.5,
+        51.3,
+        58
+      ],
+      "text": "B",
+      "points": 32,
+      "native_timing_unchanged": true
+    }
+  ],
+  "candidate_output": "q4_review/ppt_q4/candidate/小学四上同步素养卷第5册讲解课件答案.pptx"
+}

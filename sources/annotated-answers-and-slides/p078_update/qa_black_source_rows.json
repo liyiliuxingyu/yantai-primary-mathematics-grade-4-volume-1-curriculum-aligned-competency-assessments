@@ -1,0 +1,126 @@
+{
+  "passed": true,
+  "pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+  "checks": [
+    {
+      "replacement_local_id": "p078_s01_local1",
+      "old_source_region_blank_when_new_call_omitted": true,
+      "sampling_rect_inside_mask": [
+        447.0,
+        77.0,
+        466.0,
+        87.0
+      ],
+      "corrected_call_present_in_final_file": true
+    },
+    {
+      "replacement_local_id": "p078_s01_local2",
+      "old_source_region_blank_when_new_call_omitted": true,
+      "sampling_rect_inside_mask": [
+        235.0,
+        134.0,
+        251.0,
+        142.0
+      ],
+      "corrected_call_present_in_final_file": true
+    },
+    {
+      "replacement_local_id": "p078_s01_local3",
+      "old_source_region_blank_when_new_call_omitted": true,
+      "sampling_rect_inside_mask": [
+        343.0,
+        50.0,
+        467.0,
+        63.0
+      ],
+      "corrected_call_present_in_final_file": true
+    },
+    {
+      "replacement_local_id": "p078_s05_local1",
+      "old_source_region_blank_when_new_call_omitted": true,
+      "sampling_rect_inside_mask": [
+        397.0,
+        550.0,
+        539.0,
+        643.0
+      ],
+      "corrected_call_present_in_final_file": true
+    },
+    {
+      "replacement_local_id": "p078_s06_local1",
+      "old_source_region_blank_when_new_call_omitted": true,
+      "sampling_rect_inside_mask": [
+        283.0,
+        701.0,
+        310.0,
+        713.0
+      ],
+      "corrected_call_present_in_final_file": true
+    }
+  ],
+  "vector_checks": [
+    {
+      "id": "p078_s01_local1",
+      "raster_images": 0,
+      "paint_color": "black",
+      "target_rect": [
+        447.5,
+        77.0,
+        466.0,
+        86.5
+      ],
+      "fit_to_original_ink_or_graph_rect": true
+    },
+    {
+      "id": "p078_s01_local2",
+      "raster_images": 0,
+      "paint_color": "black",
+      "target_rect": [
+        235.0,
+        134.0,
+        251.0,
+        142.0
+      ],
+      "fit_to_original_ink_or_graph_rect": true
+    },
+    {
+      "id": "p078_s01_local3",
+      "raster_images": 0,
+      "paint_color": "black",
+      "target_rect": [
+        343.0,
+        50.5,
+        466.5,
+        63.0
+      ],
+      "fit_to_original_ink_or_graph_rect": true
+    },
+    {
+      "id": "p078_s05_local1",
+      "raster_images": 0,
+      "paint_color": "black",
+      "target_rect": [
+        397.0,
+        550.0,
+        539.0,
+        643.0
+      ],
+      "fit_to_original_ink_or_graph_rect": true
+    },
+    {
+      "id": "p078_s06_local1",
+      "raster_images": 0,
+      "paint_color": "black",
+      "target_rect": [
+        283.0,
+        701.0,
+        309.5,
+        713.0
+      ],
+      "fit_to_original_ink_or_graph_rect": true
+    }
+  ],
+  "old_source_paint_excluded": 5,
+  "new_black_corrected_local_calls_retained": 5,
+  "temporary_source_mutation_is_inspection_only": true
+}

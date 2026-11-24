@@ -1,0 +1,1311 @@
+[
+  {
+    "source": "p74_review/bundle/讲解课件/小学四上同步素养卷第3册讲解课件答案.pptx",
+    "source_sha256": "5688439fc7952665bd3f7beaaf30e91d56ac776cf4bb6a2f3dacb2ee720ee959",
+    "output": "p74_review/ppt_recheck/v3_4/draft3/小学四上同步素养卷第3册讲解课件答案.pptx",
+    "output_sha256": "5c7957b3650ff3677dcf9351a866bd59917e91fe297a6e7099f2a15644737bf2",
+    "bytes": 28853245,
+    "total_slides": 406,
+    "changed_slides": [
+      78,
+      79,
+      80,
+      152,
+      153,
+      171,
+      172,
+      338,
+      402,
+      406
+    ],
+    "changed_original_parts": [
+      "ppt/slides/slide78.xml",
+      "ppt/slides/slide79.xml",
+      "ppt/slides/slide80.xml",
+      "ppt/slides/slide152.xml",
+      "ppt/slides/slide153.xml",
+      "ppt/slides/slide171.xml",
+      "ppt/slides/slide172.xml",
+      "ppt/slides/slide338.xml",
+      "ppt/slides/slide402.xml",
+      "ppt/slides/slide406.xml",
+      "ppt/slides/_rels/slide152.xml.rels",
+      "ppt/slides/_rels/slide153.xml.rels",
+      "ppt/slides/_rels/slide171.xml.rels",
+      "ppt/slides/_rels/slide172.xml.rels",
+      "ppt/slides/_rels/slide338.xml.rels",
+      "ppt/slides/_rels/slide402.xml.rels",
+      "ppt/slides/_rels/slide406.xml.rels",
+      "ppt/slides/_rels/slide79.xml.rels",
+      "ppt/slides/_rels/slide80.xml.rels"
+    ],
+    "new_parts": [
+      "ppt/media/simplify_0158a800b0f27f5120c4abbf.png",
+      "ppt/media/simplify_0158a800b0f27f5120c4abbf.svg",
+      "ppt/media/simplify_0e1e050dc3837eebf80f0298.png",
+      "ppt/media/simplify_0e1e050dc3837eebf80f0298.svg",
+      "ppt/media/simplify_1b9e0c3ed3312952a723e6c8.png",
+      "ppt/media/simplify_1b9e0c3ed3312952a723e6c8.svg",
+      "ppt/media/simplify_3522219ae00cd1c1bb58c072.png",
+      "ppt/media/simplify_3522219ae00cd1c1bb58c072.svg",
+      "ppt/media/simplify_38f05729a546c26d89a0ebbf.png",
+      "ppt/media/simplify_38f05729a546c26d89a0ebbf.svg",
+      "ppt/media/simplify_401267bb022cfa2516c921d6.png",
+      "ppt/media/simplify_401267bb022cfa2516c921d6.svg",
+      "ppt/media/simplify_541c977efbb11f919c84dd05.png",
+      "ppt/media/simplify_541c977efbb11f919c84dd05.svg",
+      "ppt/media/simplify_57ea2c465b6b90e3d8548652.png",
+      "ppt/media/simplify_57ea2c465b6b90e3d8548652.svg",
+      "ppt/media/simplify_68059d54473091f92085278b.png",
+      "ppt/media/simplify_68059d54473091f92085278b.svg",
+      "ppt/media/simplify_7508a678dc606d2c3f7cf95a.png",
+      "ppt/media/simplify_7508a678dc606d2c3f7cf95a.svg",
+      "ppt/media/simplify_8410d0e3410b9c52ff415cad.png",
+      "ppt/media/simplify_8410d0e3410b9c52ff415cad.svg",
+      "ppt/media/simplify_8425c5853cd39d799fe73c42.png",
+      "ppt/media/simplify_8425c5853cd39d799fe73c42.svg",
+      "ppt/media/simplify_aaa83d81dadaedb7e6882b87.png",
+      "ppt/media/simplify_aaa83d81dadaedb7e6882b87.svg",
+      "ppt/media/simplify_baa8d236be465fd1265bbe24.png",
+      "ppt/media/simplify_baa8d236be465fd1265bbe24.svg",
+      "ppt/media/simplify_c122336a89f00aaf2f06575a.png",
+      "ppt/media/simplify_c122336a89f00aaf2f06575a.svg",
+      "ppt/media/simplify_cc56001ed3b415402b414c02.png",
+      "ppt/media/simplify_cc56001ed3b415402b414c02.svg",
+      "ppt/media/simplify_d89274303f42284392465072.png",
+      "ppt/media/simplify_d89274303f42284392465072.svg",
+      "ppt/media/simplify_da5064a3e435a38524c03842.png",
+      "ppt/media/simplify_da5064a3e435a38524c03842.svg",
+      "ppt/media/simplify_f4b69f3ccac2a28f2fba3ea5.png",
+      "ppt/media/simplify_f4b69f3ccac2a28f2fba3ea5.svg",
+      "ppt/media/simplify_ff2d1a85045e56df9c33d878.png",
+      "ppt/media/simplify_ff2d1a85045e56df9c33d878.svg",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.png",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.svg"
+    ],
+    "timing_bytes_all_unchanged": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "changes": [
+      {
+        "key": "p039_s05",
+        "slide": 78,
+        "ops": [
+          {
+            "name": "p039_s05_b002_5_p0",
+            "rect": [
+              64.0,
+              494.5000524934383,
+              902.1666141732284,
+              58.0
+            ],
+            "text": "按周长列式，计算时利用乘除性质先除后乘。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p039_s05",
+        "slide": 79,
+        "ops": [
+          {
+            "name": "p039_s05_b004_1",
+            "rect": [
+              64,
+              192,
+              1152,
+              138
+            ],
+            "native_group_anchor": "6",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p039_s05_b004_1_simplify_rhs0",
+                "rect": [
+                  106,
+                  192.0,
+                  1110,
+                  69.0
+                ],
+                "asset": "ff2d1a85045e56df9c33d878",
+                "plain": "9÷3×4",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p039_s05_b004_1_simplify_equals1",
+                "rect": [
+                  64,
+                  261.0,
+                  34,
+                  69.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p039_s05_b004_1_simplify_rhs1",
+                "rect": [
+                  106,
+                  261.0,
+                  1110,
+                  69.0
+                ],
+                "asset": "0158a800b0f27f5120c4abbf",
+                "plain": "3×4",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p039_s05_b005_2_operator",
+            "rect": [
+              64,
+              330,
+              34,
+              54
+            ],
+            "asset": "ff9fc21e1b39c2f40acb8612",
+            "plain": "=",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p039_s05_b005_2",
+            "rect": [
+              106,
+              330,
+              1090,
+              54
+            ],
+            "asset": "541c977efbb11f919c84dd05",
+            "plain": "12（厘米）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p039_s05_b006_3_p0",
+            "rect": [
+              64,
+              410,
+              1152,
+              110
+            ],
+            "text": "另一数量理解：每条原边平均分成三小份，\n每条新边取其中四小份。",
+            "points": 32
+          },
+          {
+            "name": "p039_s05_b006_4_p0",
+            "rect": [
+              64,
+              536,
+              1152,
+              58
+            ],
+            "text": "这与上面的简算式相同，下面检验铁丝总长。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p039_s05",
+        "slide": 80,
+        "ops": [
+          {
+            "name": "p039_s05_b007_0",
+            "rect": [
+              106.0,
+              134.2,
+              165.05333333333334,
+              33.6
+            ],
+            "asset": "baa8d236be465fd1265bbe24",
+            "plain": "12×3",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p039_s05_b008_1",
+            "rect": [
+              106.0,
+              203.2,
+              93.6,
+              33.6
+            ],
+            "asset": "da5064a3e435a38524c03842",
+            "plain": "9×4",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p039_s05_b009_2",
+            "rect": [
+              106.0,
+              267.166719160105,
+              211.68,
+              43.666666666666664
+            ],
+            "asset": "8410d0e3410b9c52ff415cad",
+            "plain": "36（厘米）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p039_s05_b010_3_p0",
+            "rect": [
+              64,
+              332,
+              1152,
+              110
+            ],
+            "text": "两种围法的总长相等。答：三角形的边长是12厘米。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p042_s09",
+        "slide": 152,
+        "ops": [
+          {
+            "name": "p042_s09_b001_1_p0",
+            "rect": [
+              64,
+              198,
+              1152,
+              58
+            ],
+            "text": "先算小括号，再先求易算的积，避免多做一次除法。",
+            "points": 32
+          },
+          {
+            "name": "p042_s09_b001_2_p0",
+            "rect": [
+              64,
+              272,
+              250,
+              58
+            ],
+            "text": "凑整除数：",
+            "points": 32
+          },
+          {
+            "name": "p042_s09_b001_2_p1",
+            "rect": [
+              320,
+              272,
+              620,
+              58
+            ],
+            "asset": "7508a678dc606d2c3f7cf95a",
+            "plain": "16×5=80",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p042_s09_b001_2_p2",
+            "rect": [
+              945,
+              272,
+              70,
+              58
+            ],
+            "text": "。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p042_s09",
+        "slide": 153,
+        "ops": [
+          {
+            "name": "p042_s09_b004_2",
+            "rect": [
+              106.0,
+              272.2,
+              223.53333333333333,
+              33.6
+            ],
+            "asset": "1b9e0c3ed3312952a723e6c8",
+            "plain": "640÷80",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p042_s09_b005_3",
+            "rect": [
+              106.0,
+              341.2,
+              113.09333333333333,
+              33.6
+            ],
+            "asset": "57ea2c465b6b90e3d8548652",
+            "plain": "8",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p042_s09_b006_4_operator",
+            "rect": [
+              64,
+              399,
+              150,
+              54
+            ],
+            "text": "检验：",
+            "points": 28
+          },
+          {
+            "name": "p042_s09_b006_4",
+            "rect": [
+              220,
+              399,
+              900,
+              54
+            ],
+            "asset": "68059d54473091f92085278b",
+            "plain": "8×80=640",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p044_s01",
+        "slide": 171,
+        "ops": [
+          {
+            "name": "p044_s01_b001_3_p0",
+            "rect": [
+              64,
+              346,
+              1152,
+              58
+            ],
+            "text": "按周长列式，计算时利用乘除性质先除后乘。",
+            "points": 32
+          },
+          {
+            "name": "p044_s01_b003_5",
+            "rect": [
+              64,
+              488,
+              1152,
+              112
+            ],
+            "native_group_anchor": "10",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p044_s01_b003_5_simplify_rhs0",
+                "rect": [
+                  106,
+                  488.0,
+                  1110,
+                  56.0
+                ],
+                "asset": "ff2d1a85045e56df9c33d878",
+                "plain": "9÷3×4",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p044_s01_b003_5_simplify_equals1",
+                "rect": [
+                  64,
+                  544.0,
+                  34,
+                  56.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p044_s01_b003_5_simplify_rhs1",
+                "rect": [
+                  106,
+                  544.0,
+                  1110,
+                  56.0
+                ],
+                "asset": "0158a800b0f27f5120c4abbf",
+                "plain": "3×4",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p044_s01_b004_6_operator",
+            "rect": [
+              64,
+              610,
+              34,
+              54
+            ],
+            "asset": "ff9fc21e1b39c2f40acb8612",
+            "plain": "=",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p044_s01_b004_6",
+            "rect": [
+              106,
+              610,
+              1090,
+              54
+            ],
+            "asset": "541c977efbb11f919c84dd05",
+            "plain": "12（厘米）",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p044_s01",
+        "slide": 172,
+        "ops": [
+          {
+            "name": "p044_s01_b005_0_p0",
+            "rect": [
+              64,
+              124,
+              1152,
+              58
+            ],
+            "text": "另一数量理解：原每边平均分三小份，新每边取四小份。",
+            "points": 32
+          },
+          {
+            "name": "p044_s01_b005_1_p0",
+            "rect": [
+              64,
+              198,
+              1152,
+              58
+            ],
+            "text": "与主式为同一简算，下面检验总长：",
+            "points": 32
+          },
+          {
+            "name": "p044_s01_b006_2",
+            "rect": [
+              106.0,
+              282.2,
+              165.05333333333334,
+              33.6
+            ],
+            "asset": "baa8d236be465fd1265bbe24",
+            "plain": "12×3",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p044_s01_b007_3",
+            "rect": [
+              106.0,
+              351.2,
+              93.6,
+              33.6
+            ],
+            "asset": "da5064a3e435a38524c03842",
+            "plain": "9×4",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p044_s01_b008_4",
+            "rect": [
+              106.0,
+              415.166719160105,
+              211.68,
+              43.666666666666664
+            ],
+            "asset": "8410d0e3410b9c52ff415cad",
+            "plain": "36（厘米）",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p052_s01",
+        "slide": 338,
+        "ops": [
+          {
+            "name": "p052_s01_b010_2",
+            "rect": [
+              64,
+              261,
+              1152,
+              138
+            ],
+            "native_group_anchor": "8",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p052_s01_b010_2_simplify_rhs0",
+                "rect": [
+                  106,
+                  261.0,
+                  1110,
+                  69.0
+                ],
+                "asset": "0e1e050dc3837eebf80f0298",
+                "plain": "81.5×(10×10)",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p052_s01_b010_2_simplify_equals1",
+                "rect": [
+                  64,
+                  330.0,
+                  34,
+                  69.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p052_s01_b010_2_simplify_rhs1",
+                "rect": [
+                  106,
+                  330.0,
+                  1110,
+                  69.0
+                ],
+                "asset": "d89274303f42284392465072",
+                "plain": "81.5×100",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p052_s01_b011_3_operator",
+            "rect": [
+              64,
+              399,
+              34,
+              54
+            ],
+            "asset": "ff9fc21e1b39c2f40acb8612",
+            "plain": "=",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p052_s01_b011_3",
+            "rect": [
+              106,
+              399,
+              1090,
+              54
+            ],
+            "asset": "8425c5853cd39d799fe73c42",
+            "plain": "8150（克）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p052_s01_b012_4_operator",
+            "rect": [
+              64,
+              468,
+              34,
+              54
+            ],
+            "asset": "ff9fc21e1b39c2f40acb8612",
+            "plain": "=",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p052_s01_b012_4",
+            "rect": [
+              106,
+              468,
+              1090,
+              54
+            ],
+            "asset": "f4b69f3ccac2a28f2fba3ea5",
+            "plain": "8.15（千克）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p052_s01_b013_5_p0",
+            "rect": [
+              64,
+              545,
+              1152,
+              58
+            ],
+            "text": "答：可以榨出8.15千克西瓜汁。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p054_s07",
+        "slide": 402,
+        "ops": [
+          {
+            "name": "p054_s07_b015_2_p0",
+            "rect": [
+              64,
+              264,
+              1152,
+              58
+            ],
+            "text": "先合并放大、缩小的倍数，小数点只移动一次。",
+            "points": 32
+          },
+          {
+            "name": "p054_s07_b015_3_p0",
+            "rect": [
+              64,
+              336,
+              1152,
+              58
+            ],
+            "text": "合起来扩大十倍。",
+            "points": 32
+          },
+          {
+            "name": "p054_s07_b016_4",
+            "rect": [
+              64,
+              411,
+              1152,
+              116
+            ],
+            "native_group_anchor": "9",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p054_s07_b016_4_simplify_rhs0",
+                "rect": [
+                  106,
+                  411.0,
+                  1110,
+                  58.0
+                ],
+                "asset": "cc56001ed3b415402b414c02",
+                "plain": "45×(100÷10)",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p054_s07_b016_4_simplify_equals1",
+                "rect": [
+                  64,
+                  469.0,
+                  34,
+                  58.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p054_s07_b016_4_simplify_rhs1",
+                "rect": [
+                  106,
+                  469.0,
+                  1110,
+                  58.0
+                ],
+                "asset": "38f05729a546c26d89a0ebbf",
+                "plain": "45×10",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p054_s07_b017_5_operator",
+            "rect": [
+              64,
+              533,
+              34,
+              54
+            ],
+            "asset": "ff9fc21e1b39c2f40acb8612",
+            "plain": "=",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p054_s07_b017_5",
+            "rect": [
+              106,
+              533,
+              1090,
+              54
+            ],
+            "asset": "401267bb022cfa2516c921d6",
+            "plain": "450",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p054_s07",
+        "slide": 406,
+        "ops": [
+          {
+            "name": "p054_s07_b032_2_p0",
+            "rect": [
+              64,
+              264,
+              1152,
+              58
+            ],
+            "text": "先合并放大、缩小的倍数，小数点只移动一次。",
+            "points": 32
+          },
+          {
+            "name": "p054_s07_b032_3_p0",
+            "rect": [
+              64,
+              336,
+              1152,
+              58
+            ],
+            "text": "合起来扩大一百倍。",
+            "points": 32
+          },
+          {
+            "name": "p054_s07_b033_4",
+            "rect": [
+              64,
+              411,
+              1152,
+              116
+            ],
+            "native_group_anchor": "9",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p054_s07_b033_4_simplify_rhs0",
+                "rect": [
+                  106,
+                  411.0,
+                  1110,
+                  58.0
+                ],
+                "asset": "3522219ae00cd1c1bb58c072",
+                "plain": "3.2×(1000÷10)",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p054_s07_b033_4_simplify_equals1",
+                "rect": [
+                  64,
+                  469.0,
+                  34,
+                  58.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p054_s07_b033_4_simplify_rhs1",
+                "rect": [
+                  106,
+                  469.0,
+                  1110,
+                  58.0
+                ],
+                "asset": "c122336a89f00aaf2f06575a",
+                "plain": "3.2×100",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p054_s07_b034_5_operator",
+            "rect": [
+              64,
+              533,
+              34,
+              54
+            ],
+            "asset": "ff9fc21e1b39c2f40acb8612",
+            "plain": "=",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p054_s07_b034_5",
+            "rect": [
+              106,
+              533,
+              1090,
+              54
+            ],
+            "asset": "aaa83d81dadaedb7e6882b87",
+            "plain": "320",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "p74_review/bundle/讲解课件/小学四上同步素养卷第4册讲解课件答案.pptx",
+    "source_sha256": "cf5038e9e36941091a7c595b58200b1d0e6096ab99c2089ad218b6ced6a7dfda",
+    "output": "p74_review/ppt_recheck/v3_4/draft3/小学四上同步素养卷第4册讲解课件答案.pptx",
+    "output_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+    "bytes": 3911253,
+    "total_slides": 462,
+    "changed_slides": [
+      34,
+      35,
+      54,
+      85
+    ],
+    "changed_original_parts": [
+      "ppt/slides/slide34.xml",
+      "ppt/slides/slide35.xml",
+      "ppt/slides/slide54.xml",
+      "ppt/slides/slide85.xml",
+      "ppt/slides/_rels/slide35.xml.rels",
+      "ppt/slides/_rels/slide54.xml.rels",
+      "ppt/slides/_rels/slide85.xml.rels"
+    ],
+    "new_parts": [
+      "ppt/media/simplify_1ec06a63ea86e3d4d13e742b.png",
+      "ppt/media/simplify_1ec06a63ea86e3d4d13e742b.svg",
+      "ppt/media/simplify_632b723e998c5968b560c0cf.png",
+      "ppt/media/simplify_632b723e998c5968b560c0cf.svg",
+      "ppt/media/simplify_6488336eac8990297d94d367.png",
+      "ppt/media/simplify_6488336eac8990297d94d367.svg",
+      "ppt/media/simplify_681c842cd876fac93458737b.png",
+      "ppt/media/simplify_681c842cd876fac93458737b.svg",
+      "ppt/media/simplify_853ee557b6a94b7188f8df63.png",
+      "ppt/media/simplify_853ee557b6a94b7188f8df63.svg",
+      "ppt/media/simplify_95d4e799e63136dad42f4bde.png",
+      "ppt/media/simplify_95d4e799e63136dad42f4bde.svg",
+      "ppt/media/simplify_98994f64557eea2e0134e9fe.png",
+      "ppt/media/simplify_98994f64557eea2e0134e9fe.svg",
+      "ppt/media/simplify_d87577aa0e1d69c11f7b07d9.png",
+      "ppt/media/simplify_d87577aa0e1d69c11f7b07d9.svg",
+      "ppt/media/simplify_dd28a9e7639196432e643c6e.png",
+      "ppt/media/simplify_dd28a9e7639196432e643c6e.svg",
+      "ppt/media/simplify_e267f0205e04f1eeac88be8e.png",
+      "ppt/media/simplify_e267f0205e04f1eeac88be8e.svg",
+      "ppt/media/simplify_e6feeaedc81f218738b5a51c.png",
+      "ppt/media/simplify_e6feeaedc81f218738b5a51c.svg",
+      "ppt/media/simplify_ff344277168e02c8dea4a632.png",
+      "ppt/media/simplify_ff344277168e02c8dea4a632.svg",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.png",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.svg"
+    ],
+    "timing_bytes_all_unchanged": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "changes": [
+      {
+        "key": "p056_s01",
+        "slide": 34,
+        "ops": [
+          {
+            "name": "p056_s01_b005_3_p0",
+            "rect": [
+              64,
+              332,
+              1152,
+              58
+            ],
+            "text": "另一列式：先分给五辆车，再按每车二十件平均分。",
+            "points": 32
+          },
+          {
+            "name": "p056_s01_b005_4_p0",
+            "rect": [
+              64,
+              406,
+              1152,
+              58
+            ],
+            "text": "连续除法可先把两个除数相乘。",
+            "points": 32
+          },
+          {
+            "name": "p056_s01_b005_5_p0",
+            "rect": [
+              64,
+              480,
+              1152,
+              58
+            ],
+            "text": "把五与二十凑成一百，直接用小数点移动规律算。",
+            "points": 32
+          },
+          {
+            "name": "p056_s01_b005_6_p0",
+            "rect": [
+              64,
+              554,
+              1152,
+              58
+            ],
+            "text": "下面列出完整脱式。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p056_s01",
+        "slide": 35,
+        "ops": [
+          {
+            "name": "p056_s01_b007_1",
+            "rect": [
+              106.0,
+              197.45333333333335,
+              253.64,
+              45.093333333333334
+            ],
+            "asset": "ff344277168e02c8dea4a632",
+            "plain": "3750÷(5×20)",
+            "fallback_scale": 0.92863,
+            "points": 32
+          },
+          {
+            "name": "p056_s01_b008_2",
+            "rect": [
+              106.0,
+              272.2,
+              223.53333333333333,
+              33.6
+            ],
+            "asset": "1ec06a63ea86e3d4d13e742b",
+            "plain": "3750÷100",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p056_s01_b009_3",
+            "rect": [
+              106,
+              330,
+              1090,
+              54
+            ],
+            "asset": "853ee557b6a94b7188f8df63",
+            "plain": "37.5（千克）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p056_s01_b010_4_operator",
+            "rect": [
+              64,
+              399,
+              150,
+              54
+            ],
+            "text": "检验：",
+            "points": 28
+          },
+          {
+            "name": "p056_s01_b010_4",
+            "rect": [
+              220,
+              399,
+              990,
+              54
+            ],
+            "asset": "632b723e998c5968b560c0cf",
+            "plain": "37.5×100=3750",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p057_s03",
+        "slide": 54,
+        "ops": [
+          {
+            "name": "p057_s03_b001_2_p0",
+            "rect": [
+              64,
+              276,
+              1152,
+              58
+            ],
+            "text": "另一个加数不变，和也增加一次5.9。",
+            "points": 32
+          },
+          {
+            "name": "p057_s03_b001_3_p0",
+            "rect": [
+              64,
+              350,
+              1152,
+              260
+            ],
+            "native_group_anchor": "13",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p057_s03_b001_3_p0_simplify_rhs0",
+                "rect": [
+                  106,
+                  350.0,
+                  1110,
+                  65.0
+                ],
+                "asset": "98994f64557eea2e0134e9fe",
+                "plain": "36.8+5.9",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p057_s03_b001_3_p0_simplify_equals1",
+                "rect": [
+                  64,
+                  415.0,
+                  34,
+                  65.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p057_s03_b001_3_p0_simplify_rhs1",
+                "rect": [
+                  106,
+                  415.0,
+                  1110,
+                  65.0
+                ],
+                "asset": "6488336eac8990297d94d367",
+                "plain": "36.8+6-0.1",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p057_s03_b001_3_p0_simplify_equals2",
+                "rect": [
+                  64,
+                  480.0,
+                  34,
+                  65.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p057_s03_b001_3_p0_simplify_rhs2",
+                "rect": [
+                  106,
+                  480.0,
+                  1110,
+                  65.0
+                ],
+                "asset": "95d4e799e63136dad42f4bde",
+                "plain": "42.8-0.1",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p057_s03_b001_3_p0_simplify_equals3",
+                "rect": [
+                  64,
+                  545.0,
+                  34,
+                  65.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p057_s03_b001_3_p0_simplify_rhs3",
+                "rect": [
+                  106,
+                  545.0,
+                  1110,
+                  65.0
+                ],
+                "asset": "e267f0205e04f1eeac88be8e",
+                "plain": "42.7",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p057_s03_b001_3_p1",
+            "rect": [
+              64,
+              615,
+              1152,
+              45
+            ],
+            "text": "把5.9凑成6，多加的0.1再减回。填42.7。",
+            "points": 28
+          }
+        ]
+      },
+      {
+        "key": "p058_s02",
+        "slide": 85,
+        "ops": [
+          {
+            "name": "p058_s02_b001_2_p0",
+            "rect": [
+              64,
+              276,
+              1152,
+              90
+            ],
+            "text": "用和减已知加数。把9.5凑成10，\n多减的0.5要加回。",
+            "points": 32
+          },
+          {
+            "name": "p058_s02_b001_3_p0",
+            "rect": [
+              64,
+              370,
+              1152,
+              240
+            ],
+            "native_group_anchor": "18",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p058_s02_b001_3_p0_simplify_rhs0",
+                "rect": [
+                  106,
+                  370.0,
+                  1110,
+                  60.0
+                ],
+                "asset": "e6feeaedc81f218738b5a51c",
+                "plain": "30-9.5",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p058_s02_b001_3_p0_simplify_equals1",
+                "rect": [
+                  64,
+                  430.0,
+                  34,
+                  60.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p058_s02_b001_3_p0_simplify_rhs1",
+                "rect": [
+                  106,
+                  430.0,
+                  1110,
+                  60.0
+                ],
+                "asset": "d87577aa0e1d69c11f7b07d9",
+                "plain": "30-10+0.5",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p058_s02_b001_3_p0_simplify_equals2",
+                "rect": [
+                  64,
+                  490.0,
+                  34,
+                  60.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p058_s02_b001_3_p0_simplify_rhs2",
+                "rect": [
+                  106,
+                  490.0,
+                  1110,
+                  60.0
+                ],
+                "asset": "681c842cd876fac93458737b",
+                "plain": "20+0.5",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p058_s02_b001_3_p0_simplify_equals3",
+                "rect": [
+                  64,
+                  550.0,
+                  34,
+                  60.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p058_s02_b001_3_p0_simplify_rhs3",
+                "rect": [
+                  106,
+                  550.0,
+                  1110,
+                  60.0
+                ],
+                "asset": "dd28a9e7639196432e643c6e",
+                "plain": "20.5",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p058_s02_b001_3_p1",
+            "rect": [
+              64,
+              615,
+              1152,
+              45
+            ],
+            "text": "所以选C。",
+            "points": 28
+          }
+        ]
+      }
+    ]
+  }
+]

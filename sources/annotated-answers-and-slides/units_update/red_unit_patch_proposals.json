@@ -1,0 +1,4647 @@
+{
+  "baseline_sha256": "5b0ec22916bc2f77e3ec9575a8b46466f500ce03d32887ee09d5817cf9d82dda",
+  "proposal_count": 85,
+  "new_local_count": 64,
+  "records": [
+    {
+      "key": "p003_s07",
+      "book_page": 3,
+      "old_unit_text": "（千克）",
+      "new_unit_text": "(千克)",
+      "rect": [
+        279.51900756835937,
+        731.2976635742187,
+        319.6093798828125,
+        741.5401049804688
+      ],
+      "old_text_bbox": [
+        279.6390075683594,
+        731.4176635742188,
+        319.4893798828125,
+        741.4201049804688
+      ],
+      "old_origin": [
+        279.6390075683594,
+        739.0490112304688
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        279.6390075683594,
+        739.0490112304688
+      ],
+      "latex": "\\(\\text{(千克)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p004_s01",
+      "book_page": 4,
+      "old_unit_text": "（件）",
+      "new_unit_text": "(件)",
+      "rect": [
+        265.536982421875,
+        165.28966796875,
+        295.6647692871094,
+        175.532109375
+      ],
+      "old_text_bbox": [
+        265.656982421875,
+        165.40966796875,
+        295.5447692871094,
+        175.412109375
+      ],
+      "old_origin": [
+        265.656982421875,
+        173.041015625
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        265.656982421875,
+        173.041015625
+      ],
+      "latex": "\\(\\text{(件)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p004_s02",
+      "book_page": 4,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        157.4770001220703,
+        313.29168212890625,
+        187.60480224609375,
+        323.53412353515625
+      ],
+      "old_text_bbox": [
+        157.5970001220703,
+        313.41168212890625,
+        187.48480224609375,
+        323.41412353515625
+      ],
+      "old_origin": [
+        157.5970001220703,
+        321.04302978515625
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        157.5970001220703,
+        321.04302978515625
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p007_s08",
+      "book_page": 7,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        276.52804077148437,
+        750.2976635742187,
+        306.65582763671875,
+        760.5401049804688
+      ],
+      "old_text_bbox": [
+        276.6480407714844,
+        750.4176635742188,
+        306.53582763671875,
+        760.4201049804688
+      ],
+      "old_origin": [
+        276.6480407714844,
+        758.0490112304688
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        276.6480407714844,
+        758.0490112304688
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p008_s01",
+      "book_page": 8,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        281.86504638671875,
+        179.29064453125,
+        311.992802734375,
+        189.5330859375
+      ],
+      "old_text_bbox": [
+        281.98504638671875,
+        179.41064453125,
+        311.872802734375,
+        189.4130859375
+      ],
+      "old_origin": [
+        281.98504638671875,
+        187.0419921875
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        281.98504638671875,
+        187.0419921875
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p008_s02",
+      "book_page": 8,
+      "old_unit_text": "（人）",
+      "new_unit_text": "(人)",
+      "rect": [
+        271.90197265625,
+        380.29265869140625,
+        302.0297900390625,
+        390.53510009765625
+      ],
+      "old_text_bbox": [
+        272.02197265625,
+        380.41265869140625,
+        301.9097900390625,
+        390.41510009765625
+      ],
+      "old_origin": [
+        272.02197265625,
+        388.04400634765625
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        272.02197265625,
+        388.04400634765625
+      ],
+      "latex": "\\(\\text{(人)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p008_s03",
+      "book_page": 8,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        270.5190380859375,
+        546.2946728515625,
+        300.64685546875,
+        556.5371142578125
+      ],
+      "old_text_bbox": [
+        270.6390380859375,
+        546.4146728515625,
+        300.52685546875,
+        556.4171142578125
+      ],
+      "old_origin": [
+        270.6390380859375,
+        554.0460205078125
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        270.6390380859375,
+        554.0460205078125
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p012_s03",
+      "book_page": 12,
+      "old_unit_text": "（平方米）",
+      "new_unit_text": "(平方米)",
+      "rect": [
+        295.994990234375,
+        347.7311962890625,
+        343.55753051757813,
+        357.47357666015625
+      ],
+      "old_text_bbox": [
+        296.114990234375,
+        347.8511962890625,
+        343.4375305175781,
+        357.35357666015625
+      ],
+      "old_origin": [
+        296.114990234375,
+        355.10101318359375
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        296.114990234375,
+        355.10101318359375
+      ],
+      "latex": "\\(\\text{(平方米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p016_s02",
+      "book_page": 16,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        284.49102294921875,
+        300.84966552734375,
+        314.61880981445313,
+        311.09210693359375
+      ],
+      "old_text_bbox": [
+        284.61102294921875,
+        300.96966552734375,
+        314.4988098144531,
+        310.97210693359375
+      ],
+      "old_origin": [
+        284.61102294921875,
+        308.60101318359375
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        284.61102294921875,
+        308.60101318359375
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": true,
+      "install_new_local": false
+    },
+    {
+      "key": "p017_s01",
+      "book_page": 17,
+      "old_unit_text": "（元/千克）",
+      "new_unit_text": "(元/千克)",
+      "rect": [
+        355.04400146484375,
+        362.4301708984375,
+        406.15570556640625,
+        372.17255126953125
+      ],
+      "old_text_bbox": [
+        355.16400146484375,
+        362.5501708984375,
+        406.03570556640625,
+        372.05255126953125
+      ],
+      "old_origin": [
+        355.16400146484375,
+        369.79998779296875
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        355.16400146484375,
+        369.79998779296875
+      ],
+      "latex": "\\(\\text{(元/千克)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p019_s15",
+      "book_page": 19,
+      "old_unit_text": "（千克）",
+      "new_unit_text": "(千克)",
+      "rect": [
+        113.89200103759765,
+        549.3996533203125,
+        153.98239624023438,
+        559.6420947265625
+      ],
+      "old_text_bbox": [
+        114.01200103759766,
+        549.5196533203125,
+        153.86239624023438,
+        559.5220947265625
+      ],
+      "old_origin": [
+        114.01200103759766,
+        557.1510009765625
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        114.01200103759766,
+        557.1510009765625
+      ],
+      "latex": "\\(\\text{(千克)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p019_s16",
+      "book_page": 19,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        103.93000305175781,
+        700.9786938476562,
+        134.05780517578125,
+        711.2211352539063
+      ],
+      "old_text_bbox": [
+        104.05000305175781,
+        701.0986938476562,
+        133.93780517578125,
+        711.1011352539062
+      ],
+      "old_origin": [
+        104.05000305175781,
+        708.7300415039062
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        104.05000305175781,
+        708.7300415039062
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p020_s01",
+      "book_page": 20,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        87.4999951171875,
+        139.46763122558593,
+        117.62779724121094,
+        149.71007263183594
+      ],
+      "old_text_bbox": [
+        87.6199951171875,
+        139.58763122558594,
+        117.50779724121094,
+        149.59007263183594
+      ],
+      "old_origin": [
+        87.6199951171875,
+        147.21897888183594
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        87.6199951171875,
+        147.21897888183594
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p020_s02",
+      "book_page": 20,
+      "old_unit_text": "（千米/时）",
+      "new_unit_text": "(千米/时)",
+      "rect": [
+        87.4999951171875,
+        292.80669677734375,
+        141.28897583007813,
+        303.04913818359375
+      ],
+      "old_text_bbox": [
+        87.6199951171875,
+        292.92669677734375,
+        141.16897583007812,
+        302.92913818359375
+      ],
+      "old_origin": [
+        87.6199951171875,
+        300.55804443359375
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        87.6199951171875,
+        300.55804443359375
+      ],
+      "latex": "\\(\\text{(千米/时)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p020_s03",
+      "book_page": 20,
+      "old_unit_text": "（千米）",
+      "new_unit_text": "(千米)",
+      "rect": [
+        91.29099548339843,
+        500.71245849609375,
+        128.99059020996094,
+        510.3548327636719
+      ],
+      "old_text_bbox": [
+        91.41099548339844,
+        500.83245849609375,
+        128.87059020996094,
+        510.2348327636719
+      ],
+      "old_origin": [
+        91.41099548339844,
+        508.0059814453125
+      ],
+      "font_size": 9.4,
+      "text_baseline_anchor": [
+        91.41099548339844,
+        508.0059814453125
+      ],
+      "latex": "\\(\\text{(千米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p020_s04",
+      "book_page": 20,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        97.46199310302734,
+        696.9346875,
+        127.58979522705079,
+        707.17712890625
+      ],
+      "old_text_bbox": [
+        97.58199310302734,
+        697.0546875,
+        127.46979522705078,
+        707.05712890625
+      ],
+      "old_origin": [
+        97.58199310302734,
+        704.68603515625
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        97.58199310302734,
+        704.68603515625
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p023_s15",
+      "book_page": 23,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        111.60900390625,
+        641.2944897460937,
+        139.94369995117188,
+        650.9368334960938
+      ],
+      "old_text_bbox": [
+        111.72900390625,
+        641.4144897460938,
+        139.82369995117188,
+        650.8168334960938
+      ],
+      "old_origin": [
+        111.72900390625,
+        648.5880126953125
+      ],
+      "font_size": 9.4,
+      "text_baseline_anchor": [
+        111.72900390625,
+        648.5880126953125
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p024_s01",
+      "book_page": 24,
+      "old_unit_text": "（小时）。",
+      "new_unit_text": "(小时)。",
+      "rect": [
+        162.2189892578125,
+        104.13265502929687,
+        212.27199279785157,
+        114.37510406494141
+      ],
+      "old_text_bbox": [
+        162.3389892578125,
+        104.25265502929688,
+        212.15199279785156,
+        114.2551040649414
+      ],
+      "old_origin": [
+        162.3389892578125,
+        111.88400268554688
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        162.3389892578125,
+        111.88400268554688
+      ],
+      "latex": "\\(\\text{(小时)。}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p024_s01",
+      "book_page": 24,
+      "old_unit_text": "（千米）",
+      "new_unit_text": "(千米)",
+      "rect": [
+        92.48099029541015,
+        130.84466064453125,
+        132.57138549804688,
+        141.08710205078125
+      ],
+      "old_text_bbox": [
+        92.60099029541016,
+        130.96466064453125,
+        132.45138549804688,
+        140.96710205078125
+      ],
+      "old_origin": [
+        92.60099029541016,
+        138.59600830078125
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        92.60099029541016,
+        138.59600830078125
+      ],
+      "latex": "\\(\\text{(千米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p024_s02",
+      "book_page": 24,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        97.46199310302734,
+        326.64165771484375,
+        127.58979522705079,
+        336.88409912109375
+      ],
+      "old_text_bbox": [
+        97.58199310302734,
+        326.76165771484375,
+        127.46979522705078,
+        336.76409912109375
+      ],
+      "old_origin": [
+        97.58199310302734,
+        334.39300537109375
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        97.58199310302734,
+        334.39300537109375
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p024_s03",
+      "book_page": 24,
+      "old_unit_text": "（台）",
+      "new_unit_text": "(台)",
+      "rect": [
+        92.48099029541015,
+        495.70366943359375,
+        122.6087924194336,
+        505.94611083984375
+      ],
+      "old_text_bbox": [
+        92.60099029541016,
+        495.82366943359375,
+        122.4887924194336,
+        505.82611083984375
+      ],
+      "old_origin": [
+        92.60099029541016,
+        503.45501708984375
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        92.60099029541016,
+        503.45501708984375
+      ],
+      "latex": "\\(\\text{(台)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p024_s04",
+      "book_page": 24,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        97.46199310302734,
+        711.4426220703125,
+        127.58979522705079,
+        721.6850634765625
+      ],
+      "old_text_bbox": [
+        97.58199310302734,
+        711.5626220703125,
+        127.46979522705078,
+        721.5650634765625
+      ],
+      "old_origin": [
+        97.58199310302734,
+        719.1939697265625
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        97.58199310302734,
+        719.1939697265625
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p027_s10",
+      "book_page": 27,
+      "old_unit_text": "（下）",
+      "new_unit_text": "(下)",
+      "rect": [
+        106.77099884033203,
+        542.5646923828125,
+        136.89879333496094,
+        552.8071337890625
+      ],
+      "old_text_bbox": [
+        106.89099884033203,
+        542.6846923828125,
+        136.77879333496094,
+        552.6871337890625
+      ],
+      "old_origin": [
+        106.89099884033203,
+        550.3160400390625
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        106.89099884033203,
+        550.3160400390625
+      ],
+      "latex": "\\(\\text{(下)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p027_s11",
+      "book_page": 27,
+      "old_unit_text": "（台）",
+      "new_unit_text": "(台)",
+      "rect": [
+        111.75200164794921,
+        700.4956616210937,
+        141.8798114013672,
+        710.7381030273438
+      ],
+      "old_text_bbox": [
+        111.87200164794922,
+        700.6156616210938,
+        141.7598114013672,
+        710.6181030273438
+      ],
+      "old_origin": [
+        111.87200164794922,
+        708.2470092773438
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        111.87200164794922,
+        708.2470092773438
+      ],
+      "latex": "\\(\\text{(台)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p028_s01",
+      "book_page": 28,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        106.77099884033203,
+        161.9086407470703,
+        136.89879333496094,
+        172.15108215332032
+      ],
+      "old_text_bbox": [
+        106.89099884033203,
+        162.0286407470703,
+        136.77879333496094,
+        172.0310821533203
+      ],
+      "old_origin": [
+        106.89099884033203,
+        169.6599884033203
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        106.89099884033203,
+        169.6599884033203
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p028_s02",
+      "book_page": 28,
+      "old_unit_text": "（名）",
+      "new_unit_text": "(名)",
+      "rect": [
+        101.79000366210937,
+        358.34063232421875,
+        131.91780578613282,
+        368.58307373046875
+      ],
+      "old_text_bbox": [
+        101.91000366210938,
+        358.46063232421875,
+        131.7978057861328,
+        368.46307373046875
+      ],
+      "old_origin": [
+        101.91000366210938,
+        366.09197998046875
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        101.91000366210938,
+        366.09197998046875
+      ],
+      "latex": "\\(\\text{(名)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p028_s03",
+      "book_page": 28,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        111.75200164794921,
+        558.343623046875,
+        141.8798114013672,
+        568.586064453125
+      ],
+      "old_text_bbox": [
+        111.87200164794922,
+        558.463623046875,
+        141.7598114013672,
+        568.466064453125
+      ],
+      "old_origin": [
+        111.87200164794922,
+        566.094970703125
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        111.87200164794922,
+        566.094970703125
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p028_s04",
+      "book_page": 28,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        101.79000366210937,
+        687.634638671875,
+        131.91780578613282,
+        697.877080078125
+      ],
+      "old_text_bbox": [
+        101.91000366210938,
+        687.754638671875,
+        131.7978057861328,
+        697.757080078125
+      ],
+      "old_origin": [
+        101.91000366210938,
+        695.385986328125
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        101.91000366210938,
+        695.385986328125
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p031_s16",
+      "book_page": 31,
+      "old_unit_text": "（页）",
+      "new_unit_text": "(页)",
+      "rect": [
+        107.48099029541015,
+        721.1376904296875,
+        137.60878479003907,
+        731.3801318359375
+      ],
+      "old_text_bbox": [
+        107.60099029541016,
+        721.2576904296875,
+        137.48878479003906,
+        731.2601318359375
+      ],
+      "old_origin": [
+        107.60099029541016,
+        728.8890380859375
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        107.60099029541016,
+        728.8890380859375
+      ],
+      "latex": "\\(\\text{(页)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p032_s01",
+      "book_page": 32,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        102.44399536132812,
+        159.75867736816406,
+        132.57179748535157,
+        170.00111877441407
+      ],
+      "old_text_bbox": [
+        102.56399536132812,
+        159.87867736816406,
+        132.45179748535156,
+        169.88111877441406
+      ],
+      "old_origin": [
+        102.56399536132812,
+        167.51002502441406
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        102.56399536132812,
+        167.51002502441406
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p032_s02",
+      "book_page": 32,
+      "old_unit_text": "（本）",
+      "new_unit_text": "(本)",
+      "rect": [
+        97.46199310302734,
+        330.49065673828125,
+        127.58979522705079,
+        340.73309814453125
+      ],
+      "old_text_bbox": [
+        97.58199310302734,
+        330.61065673828125,
+        127.46979522705078,
+        340.61309814453125
+      ],
+      "old_origin": [
+        97.58199310302734,
+        338.24200439453125
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        97.58199310302734,
+        338.24200439453125
+      ],
+      "latex": "\\(\\text{(本)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p032_s03",
+      "book_page": 32,
+      "old_unit_text": "（本）",
+      "new_unit_text": "(本)",
+      "rect": [
+        87.4999951171875,
+        486.9226330566406,
+        117.62779724121094,
+        497.16507446289063
+      ],
+      "old_text_bbox": [
+        87.6199951171875,
+        487.0426330566406,
+        117.50779724121094,
+        497.0450744628906
+      ],
+      "old_origin": [
+        87.6199951171875,
+        494.6739807128906
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        87.6199951171875,
+        494.6739807128906
+      ],
+      "latex": "\\(\\text{(本)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p032_s04",
+      "book_page": 32,
+      "old_unit_text": "（平方米）",
+      "new_unit_text": "(平方米)",
+      "rect": [
+        97.46199310302734,
+        644.7946728515625,
+        147.51498901367188,
+        655.0371142578125
+      ],
+      "old_text_bbox": [
+        97.58199310302734,
+        644.9146728515625,
+        147.39498901367188,
+        654.9171142578125
+      ],
+      "old_origin": [
+        97.58199310302734,
+        652.5460205078125
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        97.58199310302734,
+        652.5460205078125
+      ],
+      "latex": "\\(\\text{(平方米)}\\)",
+      "active_local_ids": [
+        "p032_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": " ×",
+          "bbox": [
+            89.64063262939453,
+            636.8870849609375,
+            100.55770874023438,
+            647.7962036132812
+          ],
+          "intersection": [
+            97.46199035644531,
+            644.794677734375,
+            100.55770874023438,
+            647.7962036132812
+          ]
+        },
+        {
+          "text": " 18",
+          "bbox": [
+            100.55770874023438,
+            637.0885620117188,
+            113.90043640136719,
+            647.9976806640625
+          ],
+          "intersection": [
+            100.55770874023438,
+            644.794677734375,
+            113.90043640136719,
+            647.9976806640625
+          ]
+        },
+        {
+          "text": "= 1080",
+          "bbox": [
+            67.23333740234375,
+            650.8375244140625,
+            100.54973602294922,
+            661.7466430664062
+          ],
+          "intersection": [
+            97.46199035644531,
+            650.8375244140625,
+            100.54973602294922,
+            655.037109375
+          ]
+        },
+        {
+          "text": "（平方米）",
+          "bbox": [
+            100.56633758544922,
+            651.350341796875,
+            152.87034606933594,
+            661.85302734375
+          ],
+          "intersection": [
+            100.56633758544922,
+            651.350341796875,
+            147.51498413085938,
+            655.037109375
+          ]
+        },
+        {
+          "text": " ×",
+          "bbox": [
+            89.64063262939453,
+            636.8870849609375,
+            100.55770874023438,
+            647.7962036132812
+          ],
+          "intersection": [
+            97.46199035644531,
+            644.794677734375,
+            100.55770874023438,
+            647.7962036132812
+          ]
+        },
+        {
+          "text": " 18",
+          "bbox": [
+            100.55770874023438,
+            637.0885620117188,
+            113.90043640136719,
+            647.9976806640625
+          ],
+          "intersection": [
+            100.55770874023438,
+            644.794677734375,
+            113.90043640136719,
+            647.9976806640625
+          ]
+        },
+        {
+          "text": "= 1080",
+          "bbox": [
+            67.23333740234375,
+            650.8375244140625,
+            100.54973602294922,
+            661.7466430664062
+          ],
+          "intersection": [
+            97.46199035644531,
+            650.8375244140625,
+            100.54973602294922,
+            655.037109375
+          ]
+        },
+        {
+          "text": "（平方米）",
+          "bbox": [
+            100.56633758544922,
+            651.350341796875,
+            152.87034606933594,
+            661.85302734375
+          ],
+          "intersection": [
+            100.56633758544922,
+            651.350341796875,
+            147.51498413085938,
+            655.037109375
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p032_s04",
+      "book_page": 32,
+      "old_unit_text": "（平方米）",
+      "new_unit_text": "(平方米)",
+      "rect": [
+        100.44633758544921,
+        651.230341796875,
+        152.99034606933594,
+        661.97302734375
+      ],
+      "old_text_bbox": [
+        100.56633758544922,
+        651.350341796875,
+        152.87034606933594,
+        661.85302734375
+      ],
+      "old_origin": [
+        100.56633758544922,
+        659.3633422851562
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        100.56633758544922,
+        659.3633422851562
+      ],
+      "latex": "\\(\\text{(平方米)}\\)",
+      "active_local_ids": [
+        "p032_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "（平方米）",
+          "bbox": [
+            97.58199310302734,
+            644.9146728515625,
+            147.39498901367188,
+            654.9171142578125
+          ],
+          "intersection": [
+            100.44633483886719,
+            651.2303466796875,
+            147.39498901367188,
+            654.9171142578125
+          ]
+        },
+        {
+          "text": "答：面积1080平方米。",
+          "bbox": [
+            67.1409912109375,
+            657.7796630859375,
+            168.7993621826172,
+            667.7821044921875
+          ],
+          "intersection": [
+            100.44633483886719,
+            657.7796630859375,
+            152.99034118652344,
+            661.9730224609375
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p036_s02",
+      "book_page": 36,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        88.21998107910156,
+        374.54265869140625,
+        128.31038391113282,
+        384.78510009765625
+      ],
+      "old_text_bbox": [
+        88.33998107910156,
+        374.66265869140625,
+        128.1903839111328,
+        384.66510009765625
+      ],
+      "old_origin": [
+        88.33998107910156,
+        382.29400634765625
+      ],
+      "font_size": 10.0,
+      "text_baseline_anchor": [
+        88.33998107910156,
+        382.29400634765625
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p039_s05",
+      "book_page": 39,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        102.39700592041015,
+        694.9782055664062,
+        140.495,
+        704.7205859375
+      ],
+      "old_text_bbox": [
+        102.51700592041016,
+        695.0982055664062,
+        140.375,
+        704.6005859375
+      ],
+      "old_origin": [
+        102.51700592041016,
+        702.3480224609375
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        102.51700592041016,
+        702.3480224609375
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [
+        "p039_s05_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": " ×",
+          "bbox": [
+            99.18608093261719,
+            690.8850708007812,
+            110.10370635986328,
+            701.794189453125
+          ],
+          "intersection": [
+            102.39700317382812,
+            694.9782104492188,
+            110.10370635986328,
+            701.794189453125
+          ]
+        },
+        {
+          "text": " 4",
+          "bbox": [
+            110.10370635986328,
+            691.0865478515625,
+            117.99088287353516,
+            701.9956665039062
+          ],
+          "intersection": [
+            110.10370635986328,
+            694.9782104492188,
+            117.99088287353516,
+            701.9956665039062
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p039_s05",
+      "book_page": 39,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        104.53733337402343,
+        705.2283276367187,
+        146.6205340576172,
+        715.9710131835938
+      ],
+      "old_text_bbox": [
+        104.65733337402344,
+        705.3483276367188,
+        146.5005340576172,
+        715.8510131835938
+      ],
+      "old_origin": [
+        104.65733337402344,
+        713.361328125
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        104.65733337402344,
+        713.361328125
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [
+        "p039_s05_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "答：边长12厘米。多解见",
+          "bbox": [
+            83.57400512695312,
+            707.3701782226562,
+            188.64889526367188,
+            716.87255859375
+          ],
+          "intersection": [
+            104.5373306274414,
+            707.3701782226562,
+            146.6205291748047,
+            715.9710083007812
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p040_s03",
+      "book_page": 40,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        95.9679898071289,
+        648.1602124023437,
+        134.06598388671875,
+        657.9025927734375
+      ],
+      "old_text_bbox": [
+        96.0879898071289,
+        648.2802124023438,
+        133.94598388671875,
+        657.7825927734375
+      ],
+      "old_origin": [
+        96.0879898071289,
+        655.530029296875
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        96.0879898071289,
+        655.530029296875
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p043_s03",
+      "book_page": 43,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        106.28901184082031,
+        504.9731396484375,
+        134.92252075195313,
+        514.7155200195313
+      ],
+      "old_text_bbox": [
+        106.40901184082031,
+        505.0931396484375,
+        134.80252075195312,
+        514.5955200195312
+      ],
+      "old_origin": [
+        106.40901184082031,
+        512.3429565429688
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        106.40901184082031,
+        512.3429565429688
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [
+        "p043_s03_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "= 120",
+          "bbox": [
+            83.23333740234375,
+            500.7571716308594,
+            111.09518432617188,
+            511.6662902832031
+          ],
+          "intersection": [
+            106.28900909423828,
+            504.97314453125,
+            111.09518432617188,
+            511.6662902832031
+          ]
+        },
+        {
+          "text": " ÷",
+          "bbox": [
+            111.09518432617188,
+            500.55572509765625,
+            122.01271057128906,
+            511.4648132324219
+          ],
+          "intersection": [
+            111.09518432617188,
+            504.97314453125,
+            122.01271057128906,
+            511.4648132324219
+          ]
+        },
+        {
+          "text": " 6",
+          "bbox": [
+            122.01271057128906,
+            500.7571716308594,
+            129.89988708496094,
+            511.6662902832031
+          ],
+          "intersection": [
+            122.01271057128906,
+            504.97314453125,
+            129.89988708496094,
+            511.6662902832031
+          ]
+        },
+        {
+          "text": " ×",
+          "bbox": [
+            129.89988708496094,
+            500.55572509765625,
+            140.8007049560547,
+            511.4648132324219
+          ],
+          "intersection": [
+            129.89988708496094,
+            504.97314453125,
+            134.92251586914062,
+            511.4648132324219
+          ]
+        },
+        {
+          "text": " ×",
+          "bbox": [
+            105.64063262939453,
+            514.3046875,
+            116.55770874023438,
+            525.2138061523438
+          ],
+          "intersection": [
+            106.28900909423828,
+            514.3046875,
+            116.55770874023438,
+            514.7155151367188
+          ]
+        },
+        {
+          "text": " 8",
+          "bbox": [
+            116.55770874023438,
+            514.5061645507812,
+            124.44588470458984,
+            525.415283203125
+          ],
+          "intersection": [
+            116.55770874023438,
+            514.5061645507812,
+            124.44588470458984,
+            514.7155151367188
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p043_s04",
+      "book_page": 43,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        128.30401123046875,
+        661.5871533203125,
+        166.40201293945313,
+        671.3295336914063
+      ],
+      "old_text_bbox": [
+        128.42401123046875,
+        661.7071533203125,
+        166.28201293945312,
+        671.2095336914062
+      ],
+      "old_origin": [
+        128.42401123046875,
+        668.9569702148438
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        128.42401123046875,
+        668.9569702148438
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p043_s04",
+      "book_page": 43,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        128.30401123046875,
+        691.2251538085937,
+        166.40201293945313,
+        700.9675341796875
+      ],
+      "old_text_bbox": [
+        128.42401123046875,
+        691.3451538085938,
+        166.28201293945312,
+        700.8475341796875
+      ],
+      "old_origin": [
+        128.42401123046875,
+        698.594970703125
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        128.42401123046875,
+        698.594970703125
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p043_s03",
+      "book_page": 43,
+      "old_unit_text": "（米）",
+      "new_unit_text": "(米)",
+      "rect": [
+        110.99233520507812,
+        528.6470288085937,
+        142.61473571777344,
+        539.3897143554688
+      ],
+      "old_text_bbox": [
+        111.11233520507812,
+        528.7670288085938,
+        142.49473571777344,
+        539.2697143554688
+      ],
+      "old_origin": [
+        111.11233520507812,
+        536.780029296875
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        111.11233520507812,
+        536.780029296875
+      ],
+      "latex": "\\(\\text{(米)}\\)",
+      "active_local_ids": [
+        "p043_s03_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p044_s01",
+      "book_page": 44,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        90.25299346923828,
+        123.53515899658203,
+        128.35098754882813,
+        133.2775164794922
+      ],
+      "old_text_bbox": [
+        90.37299346923828,
+        123.65515899658203,
+        128.23098754882812,
+        133.1575164794922
+      ],
+      "old_origin": [
+        90.37299346923828,
+        130.90496826171875
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        90.37299346923828,
+        130.90496826171875
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [
+        "p044_s01_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": " ×",
+          "bbox": [
+            89.18608093261719,
+            118.885009765625,
+            100.10370635986328,
+            129.7941131591797
+          ],
+          "intersection": [
+            90.25299072265625,
+            123.53515625,
+            100.10370635986328,
+            129.7941131591797
+          ]
+        },
+        {
+          "text": " 4",
+          "bbox": [
+            100.10370635986328,
+            119.08648681640625,
+            107.99088287353516,
+            129.99559020996094
+          ],
+          "intersection": [
+            100.10370635986328,
+            123.53515625,
+            107.99088287353516,
+            129.99559020996094
+          ]
+        },
+        {
+          "text": "= 12",
+          "bbox": [
+            72.23333740234375,
+            132.83547973632812,
+            94.64063262939453,
+            143.7445831298828
+          ],
+          "intersection": [
+            90.25299072265625,
+            132.83547973632812,
+            94.64063262939453,
+            133.2775115966797
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p044_s03",
+      "book_page": 44,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        97.71799743652343,
+        465.20516479492187,
+        126.35149871826172,
+        474.94754516601563
+      ],
+      "old_text_bbox": [
+        97.83799743652344,
+        465.3251647949219,
+        126.23149871826172,
+        474.8275451660156
+      ],
+      "old_origin": [
+        97.83799743652344,
+        472.5749816894531
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        97.83799743652344,
+        472.5749816894531
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p044_s04",
+      "book_page": 44,
+      "old_unit_text": "（棵）",
+      "new_unit_text": "(棵)",
+      "rect": [
+        93.11099517822265,
+        690.7317456054687,
+        120.25019561767579,
+        699.9740649414063
+      ],
+      "old_text_bbox": [
+        93.23099517822266,
+        690.8517456054688,
+        120.13019561767578,
+        699.8540649414062
+      ],
+      "old_origin": [
+        93.23099517822266,
+        697.7200317382812
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        93.23099517822266,
+        697.7200317382812
+      ],
+      "latex": "\\(\\text{(棵)}\\)",
+      "active_local_ids": [
+        "p044_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "= 775",
+          "bbox": [
+            75.23335266113281,
+            687.504150390625,
+            103.09519958496094,
+            698.4132690429688
+          ],
+          "intersection": [
+            93.11099243164062,
+            690.7317504882812,
+            103.09519958496094,
+            698.4132690429688
+          ]
+        },
+        {
+          "text": " ÷",
+          "bbox": [
+            103.09519958496094,
+            687.3026733398438,
+            114.01272583007812,
+            698.2117919921875
+          ],
+          "intersection": [
+            103.09519958496094,
+            690.7317504882812,
+            114.01272583007812,
+            698.2117919921875
+          ]
+        },
+        {
+          "text": " 25",
+          "bbox": [
+            114.01272583007812,
+            687.504150390625,
+            127.35445404052734,
+            698.4132690429688
+          ],
+          "intersection": [
+            114.01272583007812,
+            690.7317504882812,
+            120.25019836425781,
+            698.4132690429688
+          ]
+        },
+        {
+          "text": "= 775",
+          "bbox": [
+            75.23335266113281,
+            687.504150390625,
+            103.09519958496094,
+            698.4132690429688
+          ],
+          "intersection": [
+            93.11099243164062,
+            690.7317504882812,
+            103.09519958496094,
+            698.4132690429688
+          ]
+        },
+        {
+          "text": " ÷",
+          "bbox": [
+            103.09519958496094,
+            687.3026733398438,
+            114.01272583007812,
+            698.2117919921875
+          ],
+          "intersection": [
+            103.09519958496094,
+            690.7317504882812,
+            114.01272583007812,
+            698.2117919921875
+          ]
+        },
+        {
+          "text": " 25",
+          "bbox": [
+            114.01272583007812,
+            687.504150390625,
+            127.35445404052734,
+            698.4132690429688
+          ],
+          "intersection": [
+            114.01272583007812,
+            690.7317504882812,
+            120.25019836425781,
+            698.4132690429688
+          ]
+        },
+        {
+          "text": "= 275",
+          "bbox": [
+            75.23335266113281,
+            687.5061645507812,
+            103.09519958496094,
+            698.415283203125
+          ],
+          "intersection": [
+            93.11099243164062,
+            690.7317504882812,
+            103.09519958496094,
+            698.415283203125
+          ]
+        },
+        {
+          "text": " ÷",
+          "bbox": [
+            103.09519958496094,
+            687.3046875,
+            114.01272583007812,
+            698.2138061523438
+          ],
+          "intersection": [
+            103.09519958496094,
+            690.7317504882812,
+            114.01272583007812,
+            698.2138061523438
+          ]
+        },
+        {
+          "text": " 25 + 500",
+          "bbox": [
+            114.01272583007812,
+            687.5061645507812,
+            157.03810119628906,
+            698.415283203125
+          ],
+          "intersection": [
+            114.01272583007812,
+            690.7317504882812,
+            120.25019836425781,
+            698.415283203125
+          ]
+        },
+        {
+          "text": "= 275",
+          "bbox": [
+            75.23333740234375,
+            687.5061645507812,
+            103.09518432617188,
+            698.415283203125
+          ],
+          "intersection": [
+            93.11099243164062,
+            690.7317504882812,
+            103.09518432617188,
+            698.415283203125
+          ]
+        },
+        {
+          "text": " ÷",
+          "bbox": [
+            103.09518432617188,
+            687.3046875,
+            114.01271057128906,
+            698.2138061523438
+          ],
+          "intersection": [
+            103.09518432617188,
+            690.7317504882812,
+            114.01271057128906,
+            698.2138061523438
+          ]
+        },
+        {
+          "text": " 25 + 500",
+          "bbox": [
+            114.01271057128906,
+            687.5061645507812,
+            157.0380859375,
+            698.415283203125
+          ],
+          "intersection": [
+            114.01271057128906,
+            690.7317504882812,
+            120.25019836425781,
+            698.415283203125
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p044_s02",
+      "book_page": 44,
+      "old_unit_text": "（瓶）",
+      "new_unit_text": "(瓶)",
+      "rect": [
+        93.11099517822265,
+        348.3981884765625,
+        121.74449645996094,
+        358.14056884765625
+      ],
+      "old_text_bbox": [
+        93.23099517822266,
+        348.5181884765625,
+        121.62449645996094,
+        358.02056884765625
+      ],
+      "old_origin": [
+        93.23099517822266,
+        355.76800537109375
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        93.23099517822266,
+        355.76800537109375
+      ],
+      "latex": "\\(\\text{(瓶)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p044_s04",
+      "book_page": 44,
+      "old_unit_text": "（棵）",
+      "new_unit_text": "(棵)",
+      "rect": [
+        97.5373486328125,
+        701.6450146484375,
+        129.15974914550782,
+        712.3877001953125
+      ],
+      "old_text_bbox": [
+        97.6573486328125,
+        701.7650146484375,
+        129.0397491455078,
+        712.2677001953125
+      ],
+      "old_origin": [
+        97.6573486328125,
+        709.7780151367188
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        97.6573486328125,
+        709.7780151367188
+      ],
+      "latex": "\\(\\text{(棵)}\\)",
+      "active_local_ids": [
+        "p044_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "答：31棵。完整多解见",
+          "bbox": [
+            74.28799438476562,
+            702.5657348632812,
+            164.8665771484375,
+            711.5680541992188
+          ],
+          "intersection": [
+            97.53734588623047,
+            702.5657348632812,
+            129.1597442626953,
+            711.5680541992188
+          ]
+        },
+        {
+          "text": "= 11 + 20",
+          "bbox": [
+            75.23335266113281,
+            701.2542114257812,
+            121.88066864013672,
+            712.163330078125
+          ],
+          "intersection": [
+            97.53734588623047,
+            701.64501953125,
+            121.88066864013672,
+            712.163330078125
+          ]
+        },
+        {
+          "text": "= 11 + 20",
+          "bbox": [
+            75.23333740234375,
+            701.2542114257812,
+            121.88065338134766,
+            712.163330078125
+          ],
+          "intersection": [
+            97.53734588623047,
+            701.64501953125,
+            121.88065338134766,
+            712.163330078125
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p044_s04",
+      "book_page": 44,
+      "old_unit_text": "（棵）",
+      "new_unit_text": "(棵)",
+      "rect": [
+        97.5373486328125,
+        715.3959912109375,
+        129.15974914550782,
+        726.1386767578125
+      ],
+      "old_text_bbox": [
+        97.6573486328125,
+        715.5159912109375,
+        129.0397491455078,
+        726.0186767578125
+      ],
+      "old_origin": [
+        97.6573486328125,
+        723.5289916992188
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        97.6573486328125,
+        723.5289916992188
+      ],
+      "latex": "\\(\\text{(棵)}\\)",
+      "active_local_ids": [
+        "p044_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "答：两个年级一共可以挽救31棵大树。",
+          "bbox": [
+            73.23335266113281,
+            725.1719970703125,
+            252.1339569091797,
+            735.6746826171875
+          ],
+          "intersection": [
+            97.53734588623047,
+            725.1719970703125,
+            129.1597442626953,
+            726.138671875
+          ]
+        },
+        {
+          "text": "答：两个年级一共可以挽救31棵大树。",
+          "bbox": [
+            73.23335266113281,
+            725.1719970703125,
+            252.1339569091797,
+            735.6746826171875
+          ],
+          "intersection": [
+            97.53734588623047,
+            725.1719970703125,
+            129.1597442626953,
+            726.138671875
+          ]
+        },
+        {
+          "text": "（棵）",
+          "bbox": [
+            97.65733337402344,
+            715.5159912109375,
+            129.03973388671875,
+            726.0186767578125
+          ],
+          "intersection": [
+            97.65733337402344,
+            715.5159912109375,
+            129.03973388671875,
+            726.0186767578125
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p044_s01",
+      "book_page": 44,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        94.53733337402343,
+        133.22831237792968,
+        136.6205340576172,
+        143.9709521484375
+      ],
+      "old_text_bbox": [
+        94.65733337402344,
+        133.3483123779297,
+        136.5005340576172,
+        143.8509521484375
+      ],
+      "old_origin": [
+        94.65733337402344,
+        141.3612823486328
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        94.65733337402344,
+        141.3612823486328
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [
+        "p044_s01_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "答：边长12厘米。另一方法见",
+          "bbox": [
+            71.42999267578125,
+            135.9271697998047,
+            195.43386840820312,
+            145.4295196533203
+          ],
+          "intersection": [
+            94.5373306274414,
+            135.9271697998047,
+            136.6205291748047,
+            143.970947265625
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p047_s04",
+      "book_page": 47,
+      "old_unit_text": "（千米）",
+      "new_unit_text": "(千米)",
+      "rect": [
+        106.61100280761718,
+        714.9782055664062,
+        144.7089892578125,
+        724.7205859375
+      ],
+      "old_text_bbox": [
+        106.73100280761719,
+        715.0982055664062,
+        144.5889892578125,
+        724.6005859375
+      ],
+      "old_origin": [
+        106.73100280761719,
+        722.3480224609375
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        106.73100280761719,
+        722.3480224609375
+      ],
+      "latex": "\\(\\text{(千米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p048_s01",
+      "book_page": 48,
+      "old_unit_text": "（毫克）",
+      "new_unit_text": "(毫克)",
+      "rect": [
+        94.85999572753906,
+        153.65223205566406,
+        132.95798217773438,
+        163.3945819091797
+      ],
+      "old_text_bbox": [
+        94.97999572753906,
+        153.77223205566406,
+        132.83798217773438,
+        163.2745819091797
+      ],
+      "old_origin": [
+        94.97999572753906,
+        161.02203369140625
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        94.97999572753906,
+        161.02203369140625
+      ],
+      "latex": "\\(\\text{(毫克)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p048_s02",
+      "book_page": 48,
+      "old_unit_text": "（人）",
+      "new_unit_text": "(人)",
+      "rect": [
+        94.85999572753906,
+        344.9711865234375,
+        123.49349700927735,
+        354.71356689453125
+      ],
+      "old_text_bbox": [
+        94.97999572753906,
+        345.0911865234375,
+        123.37349700927734,
+        354.59356689453125
+      ],
+      "old_origin": [
+        94.97999572753906,
+        352.34100341796875
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        94.97999572753906,
+        352.34100341796875
+      ],
+      "latex": "\\(\\text{(人)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p048_s03",
+      "book_page": 48,
+      "old_unit_text": "（人）",
+      "new_unit_text": "(人)",
+      "rect": [
+        90.25299346923828,
+        479.0241650390625,
+        118.88649475097657,
+        488.76654541015625
+      ],
+      "old_text_bbox": [
+        90.37299346923828,
+        479.1441650390625,
+        118.76649475097656,
+        488.64654541015625
+      ],
+      "old_origin": [
+        90.37299346923828,
+        486.39398193359375
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        90.37299346923828,
+        486.39398193359375
+      ],
+      "latex": "\\(\\text{(人)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p048_s04",
+      "book_page": 48,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        94.85999572753906,
+        640.4557446289062,
+        121.99919616699219,
+        649.6980639648438
+      ],
+      "old_text_bbox": [
+        94.97999572753906,
+        640.5757446289062,
+        121.87919616699219,
+        649.5780639648438
+      ],
+      "old_origin": [
+        94.97999572753906,
+        647.4440307617188
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        94.97999572753906,
+        647.4440307617188
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [
+        "p048_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "3000",
+          "bbox": [
+            83.74833679199219,
+            633.0091552734375,
+            105.56654357910156,
+            643.9182739257812
+          ],
+          "intersection": [
+            94.85999298095703,
+            640.4557495117188,
+            105.56654357910156,
+            643.9182739257812
+          ]
+        },
+        {
+          "text": " −",
+          "bbox": [
+            105.56654357910156,
+            632.8076782226562,
+            116.46770477294922,
+            643.716796875
+          ],
+          "intersection": [
+            105.56654357910156,
+            640.4557495117188,
+            116.46770477294922,
+            643.716796875
+          ]
+        },
+        {
+          "text": "(20",
+          "bbox": [
+            118.90033721923828,
+            633.0091552734375,
+            134.0421600341797,
+            643.9182739257812
+          ],
+          "intersection": [
+            118.90033721923828,
+            640.4557495117188,
+            121.99919891357422,
+            643.9182739257812
+          ]
+        },
+        {
+          "text": "= 3000",
+          "bbox": [
+            72.23333740234375,
+            646.7571411132812,
+            105.54973602294922,
+            657.666259765625
+          ],
+          "intersection": [
+            94.85999298095703,
+            646.7571411132812,
+            105.54973602294922,
+            649.6980590820312
+          ]
+        },
+        {
+          "text": " −",
+          "bbox": [
+            105.54973602294922,
+            646.5556640625,
+            116.46770477294922,
+            657.4647827148438
+          ],
+          "intersection": [
+            105.54973602294922,
+            646.5556640625,
+            116.46770477294922,
+            649.6980590820312
+          ]
+        },
+        {
+          "text": "(1800 + 600)",
+          "bbox": [
+            118.90033721923828,
+            646.7571411132812,
+            178.86764526367188,
+            657.666259765625
+          ],
+          "intersection": [
+            118.90033721923828,
+            646.7571411132812,
+            121.99919891357422,
+            649.6980590820312
+          ]
+        },
+        {
+          "text": "3000",
+          "bbox": [
+            83.74833679199219,
+            633.0091552734375,
+            105.56654357910156,
+            643.9182739257812
+          ],
+          "intersection": [
+            94.85999298095703,
+            640.4557495117188,
+            105.56654357910156,
+            643.9182739257812
+          ]
+        },
+        {
+          "text": " −",
+          "bbox": [
+            105.56654357910156,
+            632.8076782226562,
+            116.46770477294922,
+            643.716796875
+          ],
+          "intersection": [
+            105.56654357910156,
+            640.4557495117188,
+            116.46770477294922,
+            643.716796875
+          ]
+        },
+        {
+          "text": "(20",
+          "bbox": [
+            118.90033721923828,
+            633.0091552734375,
+            134.0421600341797,
+            643.9182739257812
+          ],
+          "intersection": [
+            118.90033721923828,
+            640.4557495117188,
+            121.99919891357422,
+            643.9182739257812
+          ]
+        },
+        {
+          "text": "= 3000",
+          "bbox": [
+            72.23333740234375,
+            646.7571411132812,
+            105.54973602294922,
+            657.666259765625
+          ],
+          "intersection": [
+            94.85999298095703,
+            646.7571411132812,
+            105.54973602294922,
+            649.6980590820312
+          ]
+        },
+        {
+          "text": " −",
+          "bbox": [
+            105.54973602294922,
+            646.5556640625,
+            116.46770477294922,
+            657.4647827148438
+          ],
+          "intersection": [
+            105.54973602294922,
+            646.5556640625,
+            116.46770477294922,
+            649.6980590820312
+          ]
+        },
+        {
+          "text": "(1800 + 600)",
+          "bbox": [
+            118.90033721923828,
+            646.7571411132812,
+            178.86764526367188,
+            657.666259765625
+          ],
+          "intersection": [
+            118.90033721923828,
+            646.7571411132812,
+            121.99919891357422,
+            649.6980590820312
+          ]
+        },
+        {
+          "text": "3000",
+          "bbox": [
+            83.74833679199219,
+            633.0091552734375,
+            105.56654357910156,
+            643.9182739257812
+          ],
+          "intersection": [
+            94.85999298095703,
+            640.4557495117188,
+            105.56654357910156,
+            643.9182739257812
+          ]
+        },
+        {
+          "text": " −",
+          "bbox": [
+            105.56654357910156,
+            632.8076782226562,
+            116.46770477294922,
+            643.716796875
+          ],
+          "intersection": [
+            105.56654357910156,
+            640.4557495117188,
+            116.46770477294922,
+            643.716796875
+          ]
+        },
+        {
+          "text": "(20",
+          "bbox": [
+            118.90033721923828,
+            633.0091552734375,
+            134.0421600341797,
+            643.9182739257812
+          ],
+          "intersection": [
+            118.90033721923828,
+            640.4557495117188,
+            121.99919891357422,
+            643.9182739257812
+          ]
+        },
+        {
+          "text": "= 3000",
+          "bbox": [
+            72.23333740234375,
+            646.7571411132812,
+            105.54973602294922,
+            657.666259765625
+          ],
+          "intersection": [
+            94.85999298095703,
+            646.7571411132812,
+            105.54973602294922,
+            649.6980590820312
+          ]
+        },
+        {
+          "text": " −",
+          "bbox": [
+            105.54973602294922,
+            646.5556640625,
+            116.46770477294922,
+            657.4647827148438
+          ],
+          "intersection": [
+            105.54973602294922,
+            646.5556640625,
+            116.46770477294922,
+            649.6980590820312
+          ]
+        },
+        {
+          "text": "(1800 + 600)",
+          "bbox": [
+            118.90033721923828,
+            646.7571411132812,
+            178.86764526367188,
+            657.666259765625
+          ],
+          "intersection": [
+            118.90033721923828,
+            646.7571411132812,
+            121.99919891357422,
+            649.6980590820312
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p048_s04",
+      "book_page": 48,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        99.99233520507812,
+        674.6469677734375,
+        131.61473571777344,
+        685.3896533203125
+      ],
+      "old_text_bbox": [
+        100.11233520507812,
+        674.7669677734375,
+        131.49473571777344,
+        685.2696533203125
+      ],
+      "old_origin": [
+        100.11233520507812,
+        682.7799682617188
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        100.11233520507812,
+        682.7799682617188
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [
+        "p048_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p051_s06",
+      "book_page": 51,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        104.9570034790039,
+        685.2112377929687,
+        133.5905047607422,
+        694.9536181640625
+      ],
+      "old_text_bbox": [
+        105.0770034790039,
+        685.3312377929688,
+        133.4705047607422,
+        694.8336181640625
+      ],
+      "old_origin": [
+        105.0770034790039,
+        692.5810546875
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        105.0770034790039,
+        692.5810546875
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p052_s01",
+      "book_page": 52,
+      "old_unit_text": "（克）",
+      "new_unit_text": "(克)",
+      "rect": [
+        102.32598388671875,
+        130.96676147460937,
+        129.46518432617188,
+        140.20901977539063
+      ],
+      "old_text_bbox": [
+        102.44598388671875,
+        131.08676147460938,
+        129.34518432617188,
+        140.08901977539062
+      ],
+      "old_origin": [
+        102.44598388671875,
+        137.95501708984375
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        102.44598388671875,
+        137.95501708984375
+      ],
+      "latex": "\\(\\text{(克)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p052_s01",
+      "book_page": 52,
+      "old_unit_text": "（千克）",
+      "new_unit_text": "(千克)",
+      "rect": [
+        100.27798736572265,
+        145.16375244140625,
+        136.38358032226563,
+        154.4060107421875
+      ],
+      "old_text_bbox": [
+        100.39798736572266,
+        145.28375244140625,
+        136.26358032226562,
+        154.2860107421875
+      ],
+      "old_origin": [
+        100.39798736572266,
+        152.15200805664062
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        100.39798736572266,
+        152.15200805664062
+      ],
+      "latex": "\\(\\text{(千克)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": true,
+      "install_new_local": false
+    },
+    {
+      "key": "p052_s02",
+      "book_page": 52,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        97.71799743652343,
+        334.87374389648437,
+        124.85719787597657,
+        344.11600219726563
+      ],
+      "old_text_bbox": [
+        97.83799743652344,
+        334.9937438964844,
+        124.73719787597656,
+        343.9960021972656
+      ],
+      "old_origin": [
+        97.83799743652344,
+        341.86199951171875
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        97.83799743652344,
+        341.86199951171875
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p052_s03",
+      "book_page": 52,
+      "old_unit_text": "（平方厘米）",
+      "new_unit_text": "(平方厘米)",
+      "rect": [
+        111.54099548339843,
+        527.9587353515625,
+        165.5793963623047,
+        537.2010546875
+      ],
+      "old_text_bbox": [
+        111.66099548339844,
+        528.0787353515625,
+        165.4593963623047,
+        537.0810546875
+      ],
+      "old_origin": [
+        111.66099548339844,
+        534.947021484375
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        111.66099548339844,
+        534.947021484375
+      ],
+      "latex": "\\(\\text{(平方厘米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p052_s03",
+      "book_page": 52,
+      "old_unit_text": "（平方米）",
+      "new_unit_text": "(平方米)",
+      "rect": [
+        100.27799499511718,
+        542.1557568359375,
+        145.34999572753907,
+        551.398076171875
+      ],
+      "old_text_bbox": [
+        100.39799499511719,
+        542.2757568359375,
+        145.22999572753906,
+        551.278076171875
+      ],
+      "old_origin": [
+        100.39799499511719,
+        549.14404296875
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        100.39799499511719,
+        549.14404296875
+      ],
+      "latex": "\\(\\text{(平方米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": true,
+      "install_new_local": false
+    },
+    {
+      "key": "p052_s04",
+      "book_page": 52,
+      "old_unit_text": "（个）",
+      "new_unit_text": "(个)",
+      "rect": [
+        88.50299346923828,
+        670.9086865234375,
+        115.64219390869141,
+        680.151005859375
+      ],
+      "old_text_bbox": [
+        88.62299346923828,
+        671.0286865234375,
+        115.5221939086914,
+        680.031005859375
+      ],
+      "old_origin": [
+        88.62299346923828,
+        677.89697265625
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        88.62299346923828,
+        677.89697265625
+      ],
+      "latex": "\\(\\text{(个)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p075_s04",
+      "book_page": 75,
+      "old_unit_text": "（分）",
+      "new_unit_text": "(分)",
+      "rect": [
+        245.39701354980468,
+        550.2537182617187,
+        272.5362292480469,
+        559.4960375976563
+      ],
+      "old_text_bbox": [
+        245.5170135498047,
+        550.3737182617188,
+        272.4162292480469,
+        559.3760375976562
+      ],
+      "old_origin": [
+        245.5170135498047,
+        557.2420043945312
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        245.5170135498047,
+        557.2420043945312
+      ],
+      "latex": "\\(\\text{(分)}\\)",
+      "active_local_ids": [
+        "p075_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "= 85 + 1",
+          "bbox": [
+            220.23330688476562,
+            541.9452514648438,
+            255.01397705078125,
+            550.91162109375
+          ],
+          "intersection": [
+            245.3970184326172,
+            550.2537231445312,
+            255.01397705078125,
+            550.91162109375
+          ]
+        },
+        {
+          "text": "（分）",
+          "bbox": [
+            239.17630004882812,
+            555.8334350585938,
+            266.07550048828125,
+            564.8357543945312
+          ],
+          "intersection": [
+            245.3970184326172,
+            555.8334350585938,
+            266.07550048828125,
+            559.4960327148438
+          ]
+        },
+        {
+          "text": "= 85 + 1",
+          "bbox": [
+            220.23330688476562,
+            541.9452514648438,
+            255.01397705078125,
+            550.91162109375
+          ],
+          "intersection": [
+            245.3970184326172,
+            550.2537231445312,
+            255.01397705078125,
+            550.91162109375
+          ]
+        },
+        {
+          "text": "（分）",
+          "bbox": [
+            239.17630004882812,
+            555.8334350585938,
+            266.07550048828125,
+            564.8357543945312
+          ],
+          "intersection": [
+            245.3970184326172,
+            555.8334350585938,
+            266.07550048828125,
+            559.4960327148438
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p075_s04",
+      "book_page": 75,
+      "old_unit_text": "（分）",
+      "new_unit_text": "(分)",
+      "rect": [
+        239.05630004882812,
+        555.7134350585937,
+        266.19550048828125,
+        564.9557543945313
+      ],
+      "old_text_bbox": [
+        239.17630004882812,
+        555.8334350585938,
+        266.07550048828125,
+        564.8357543945312
+      ],
+      "old_origin": [
+        239.17630004882812,
+        562.7017211914062
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        239.17630004882812,
+        562.7017211914062
+      ],
+      "latex": "\\(\\text{(分)}\\)",
+      "active_local_ids": [
+        "p075_s04_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "= 86",
+          "bbox": [
+            226.57501220703125,
+            550.2344970703125,
+            245.49411010742188,
+            559.2008666992188
+          ],
+          "intersection": [
+            239.05630493164062,
+            555.7134399414062,
+            245.49411010742188,
+            559.2008666992188
+          ]
+        },
+        {
+          "text": "（分）",
+          "bbox": [
+            245.5170135498047,
+            550.3737182617188,
+            272.4162292480469,
+            559.3760375976562
+          ],
+          "intersection": [
+            245.5170135498047,
+            555.7134399414062,
+            266.19549560546875,
+            559.3760375976562
+          ]
+        }
+      ],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p079_s04",
+      "book_page": 79,
+      "old_unit_text": "（克）",
+      "new_unit_text": "(克)",
+      "rect": [
+        306.0510205078125,
+        615.057734375,
+        333.19022094726563,
+        624.3000537109375
+      ],
+      "old_text_bbox": [
+        306.1710205078125,
+        615.177734375,
+        333.0702209472656,
+        624.1800537109375
+      ],
+      "old_origin": [
+        306.1710205078125,
+        622.0460205078125
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        306.1710205078125,
+        622.0460205078125
+      ],
+      "latex": "\\(\\text{(克)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p079_s04",
+      "book_page": 79,
+      "old_unit_text": "（千克）",
+      "new_unit_text": "(千克)",
+      "rect": [
+        304.00301635742187,
+        629.254755859375,
+        340.1086169433594,
+        638.4970751953125
+      ],
+      "old_text_bbox": [
+        304.1230163574219,
+        629.374755859375,
+        339.9886169433594,
+        638.3770751953125
+      ],
+      "old_origin": [
+        304.1230163574219,
+        636.2430419921875
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        304.1230163574219,
+        636.2430419921875
+      ],
+      "latex": "\\(\\text{(千克)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": true,
+      "install_new_local": false
+    },
+    {
+      "key": "p079_s05",
+      "book_page": 79,
+      "old_unit_text": "（分）",
+      "new_unit_text": "(分)",
+      "rect": [
+        288.6579846191406,
+        763.4526928710937,
+        315.79718505859375,
+        772.6950122070313
+      ],
+      "old_text_bbox": [
+        288.7779846191406,
+        763.5726928710938,
+        315.67718505859375,
+        772.5750122070312
+      ],
+      "old_origin": [
+        288.7779846191406,
+        770.4409790039062
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        288.7779846191406,
+        770.4409790039062
+      ],
+      "latex": "\\(\\text{(分)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p083_s05",
+      "book_page": 83,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        292.81402099609375,
+        475.25274169921875,
+        319.9532214355469,
+        484.495
+      ],
+      "old_text_bbox": [
+        292.93402099609375,
+        475.37274169921875,
+        319.8332214355469,
+        484.375
+      ],
+      "old_origin": [
+        292.93402099609375,
+        482.2409973144531
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        292.93402099609375,
+        482.2409973144531
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [
+        "p083_s05_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "（元）",
+          "bbox": [
+            271.5972900390625,
+            473.2710266113281,
+            302.979736328125,
+            483.773681640625
+          ],
+          "intersection": [
+            292.81402587890625,
+            475.25274658203125,
+            302.979736328125,
+            483.773681640625
+          ]
+        },
+        {
+          "text": "（元）",
+          "bbox": [
+            271.5972900390625,
+            473.2710266113281,
+            302.979736328125,
+            483.773681640625
+          ],
+          "intersection": [
+            292.81402587890625,
+            475.25274658203125,
+            302.979736328125,
+            483.773681640625
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p083_s06",
+      "book_page": 83,
+      "old_unit_text": "（人）",
+      "new_unit_text": "(人)",
+      "rect": [
+        283.8550061035156,
+        672.4517163085937,
+        310.99420654296875,
+        681.6940356445313
+      ],
+      "old_text_bbox": [
+        283.9750061035156,
+        672.5717163085938,
+        310.87420654296875,
+        681.5740356445312
+      ],
+      "old_origin": [
+        283.9750061035156,
+        679.4400024414062
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        283.9750061035156,
+        679.4400024414062
+      ],
+      "latex": "\\(\\text{(人)}\\)",
+      "active_local_ids": [
+        "p083_s06_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "（人）",
+          "bbox": [
+            273.1123352050781,
+            669.02197265625,
+            304.4947509765625,
+            679.524658203125
+          ],
+          "intersection": [
+            283.8550109863281,
+            672.4517211914062,
+            304.4947509765625,
+            679.524658203125
+          ]
+        },
+        {
+          "text": "（人）",
+          "bbox": [
+            273.1123352050781,
+            669.02197265625,
+            304.4947509765625,
+            679.524658203125
+          ],
+          "intersection": [
+            283.8550109863281,
+            672.4517211914062,
+            304.4947509765625,
+            679.524658203125
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p083_s05",
+      "book_page": 83,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        271.4772900390625,
+        473.1510266113281,
+        303.099736328125,
+        483.893681640625
+      ],
+      "old_text_bbox": [
+        271.5972900390625,
+        473.2710266113281,
+        302.979736328125,
+        483.773681640625
+      ],
+      "old_origin": [
+        271.5972900390625,
+        481.28399658203125
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        271.5972900390625,
+        481.28399658203125
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [
+        "p083_s05_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "= 182",
+          "bbox": [
+            262.2160339355469,
+            475.23345947265625,
+            285.7348937988281,
+            484.1998596191406
+          ],
+          "intersection": [
+            271.477294921875,
+            475.23345947265625,
+            285.7348937988281,
+            483.8936767578125
+          ]
+        },
+        {
+          "text": ".",
+          "bbox": [
+            285.76605224609375,
+            475.23345947265625,
+            288.32147216796875,
+            484.1998596191406
+          ],
+          "intersection": [
+            285.76605224609375,
+            475.23345947265625,
+            288.32147216796875,
+            483.8936767578125
+          ]
+        },
+        {
+          "text": "9",
+          "bbox": [
+            288.3260498046875,
+            475.23345947265625,
+            292.9258117675781,
+            484.1998596191406
+          ],
+          "intersection": [
+            288.3260498046875,
+            475.23345947265625,
+            292.9258117675781,
+            483.8936767578125
+          ]
+        },
+        {
+          "text": "（元）",
+          "bbox": [
+            292.93402099609375,
+            475.37274169921875,
+            319.8332214355469,
+            484.375
+          ],
+          "intersection": [
+            292.93402099609375,
+            475.37274169921875,
+            303.0997314453125,
+            483.8936767578125
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p083_s06",
+      "book_page": 83,
+      "old_unit_text": "（人）",
+      "new_unit_text": "(人)",
+      "rect": [
+        272.9923352050781,
+        668.90197265625,
+        304.6147509765625,
+        679.644658203125
+      ],
+      "old_text_bbox": [
+        273.1123352050781,
+        669.02197265625,
+        304.4947509765625,
+        679.524658203125
+      ],
+      "old_origin": [
+        273.1123352050781,
+        677.0349731445312
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        273.1123352050781,
+        677.0349731445312
+      ],
+      "latex": "\\(\\text{(人)}\\)",
+      "active_local_ids": [
+        "p083_s06_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "= 114",
+          "bbox": [
+            260.42401123046875,
+            672.4324951171875,
+            283.94287109375,
+            681.3988647460938
+          ],
+          "intersection": [
+            272.9923400878906,
+            672.4324951171875,
+            283.94287109375,
+            679.6446533203125
+          ]
+        },
+        {
+          "text": "（人）",
+          "bbox": [
+            283.9750061035156,
+            672.5717163085938,
+            310.87420654296875,
+            681.5740356445312
+          ],
+          "intersection": [
+            283.9750061035156,
+            672.5717163085938,
+            304.61474609375,
+            679.6446533203125
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p084_s01",
+      "book_page": 84,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        212.005,
+        240.24976623535156,
+        239.14420043945313,
+        249.49202453613282
+      ],
+      "old_text_bbox": [
+        212.125,
+        240.36976623535156,
+        239.02420043945312,
+        249.3720245361328
+      ],
+      "old_origin": [
+        212.125,
+        247.23802185058594
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        212.125,
+        247.23802185058594
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p084_s02",
+      "book_page": 84,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        207.39800537109375,
+        339.2507275390625,
+        234.53720581054688,
+        348.49298583984375
+      ],
+      "old_text_bbox": [
+        207.51800537109375,
+        339.3707275390625,
+        234.41720581054688,
+        348.37298583984375
+      ],
+      "old_origin": [
+        207.51800537109375,
+        346.2389831542969
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        207.51800537109375,
+        346.2389831542969
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p084_s03",
+      "book_page": 84,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        184.44298828125,
+        472.4487561035156,
+        211.58218872070313,
+        481.6910144042969
+      ],
+      "old_text_bbox": [
+        184.56298828125,
+        472.5687561035156,
+        211.46218872070312,
+        481.5710144042969
+      ],
+      "old_origin": [
+        184.56298828125,
+        479.43701171875
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        184.56298828125,
+        479.43701171875
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p084_s04",
+      "book_page": 84,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        282.7299755859375,
+        745.255732421875,
+        309.86917602539063,
+        754.4980517578125
+      ],
+      "old_text_bbox": [
+        282.8499755859375,
+        745.375732421875,
+        309.7491760253906,
+        754.3780517578125
+      ],
+      "old_origin": [
+        282.8499755859375,
+        752.2440185546875
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        282.8499755859375,
+        752.2440185546875
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p088_s02",
+      "book_page": 88,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        284.20601928710937,
+        318.4467724609375,
+        320.3116198730469,
+        327.68903076171875
+      ],
+      "old_text_bbox": [
+        284.3260192871094,
+        318.5667724609375,
+        320.1916198730469,
+        327.56903076171875
+      ],
+      "old_origin": [
+        284.3260192871094,
+        325.4350280761719
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        284.3260192871094,
+        325.4350280761719
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p088_s03",
+      "book_page": 88,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        262.08333862304687,
+        500.23540771484375,
+        304.16656982421875,
+        510.97806274414063
+      ],
+      "old_text_bbox": [
+        262.2033386230469,
+        500.35540771484375,
+        304.04656982421875,
+        510.8580627441406
+      ],
+      "old_origin": [
+        262.2033386230469,
+        508.3683776855469
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        262.2033386230469,
+        508.3683776855469
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [
+        "p088_s03_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Covered by existing local1 actual ink; text bbox extends beyond ink width. Do not add duplicate unit.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p091_s02",
+      "book_page": 91,
+      "old_unit_text": "（厘米）",
+      "new_unit_text": "(厘米)",
+      "rect": [
+        102.00300109863281,
+        331.43572509765625,
+        138.10860168457032,
+        340.6779833984375
+      ],
+      "old_text_bbox": [
+        102.12300109863281,
+        331.55572509765625,
+        137.9886016845703,
+        340.5579833984375
+      ],
+      "old_origin": [
+        102.12300109863281,
+        338.4239807128906
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        102.12300109863281,
+        338.4239807128906
+      ],
+      "latex": "\\(\\text{(厘米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p091_s03",
+      "book_page": 91,
+      "old_unit_text": "（本）",
+      "new_unit_text": "(本)",
+      "rect": [
+        97.39599884033203,
+        502.15474975585937,
+        124.53519927978516,
+        511.39700805664063
+      ],
+      "old_text_bbox": [
+        97.51599884033203,
+        502.2747497558594,
+        124.41519927978516,
+        511.2770080566406
+      ],
+      "old_origin": [
+        97.51599884033203,
+        509.14300537109375
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        97.51599884033203,
+        509.14300537109375
+      ],
+      "latex": "\\(\\text{(本)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p104_s01",
+      "book_page": 104,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        92.81299102783203,
+        155.6781719970703,
+        121.44649230957032,
+        165.42052185058594
+      ],
+      "old_text_bbox": [
+        92.93299102783203,
+        155.7981719970703,
+        121.32649230957031,
+        165.30052185058594
+      ],
+      "old_origin": [
+        92.93299102783203,
+        163.0479736328125
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        92.93299102783203,
+        163.0479736328125
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p104_s02",
+      "book_page": 104,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        97.41999328613281,
+        317.11175048828125,
+        124.55919372558594,
+        326.3540087890625
+      ],
+      "old_text_bbox": [
+        97.53999328613281,
+        317.23175048828125,
+        124.43919372558594,
+        326.2340087890625
+      ],
+      "old_origin": [
+        97.53999328613281,
+        324.1000061035156
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        97.53999328613281,
+        324.1000061035156
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [
+        "p104_s02_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "68",
+          "bbox": [
+            94.23333740234375,
+            311.5062255859375,
+            105.14244079589844,
+            322.41534423828125
+          ],
+          "intersection": [
+            97.41999053955078,
+            317.11175537109375,
+            105.14244079589844,
+            322.41534423828125
+          ]
+        },
+        {
+          "text": " ×",
+          "bbox": [
+            105.14244079589844,
+            311.30474853515625,
+            116.04270935058594,
+            322.2138671875
+          ],
+          "intersection": [
+            105.14244079589844,
+            317.11175537109375,
+            116.04270935058594,
+            322.2138671875
+          ]
+        },
+        {
+          "text": " 10",
+          "bbox": [
+            116.04270935058594,
+            311.5062255859375,
+            129.38442993164062,
+            322.41534423828125
+          ],
+          "intersection": [
+            116.04270935058594,
+            317.11175537109375,
+            124.55919647216797,
+            322.41534423828125
+          ]
+        },
+        {
+          "text": ".",
+          "bbox": [
+            96.65733337402344,
+            325.25421142578125,
+            99.67915344238281,
+            336.163330078125
+          ],
+          "intersection": [
+            97.41999053955078,
+            325.25421142578125,
+            99.67915344238281,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "8",
+          "bbox": [
+            99.68833923339844,
+            325.25421142578125,
+            105.14289093017578,
+            336.163330078125
+          ],
+          "intersection": [
+            99.68833923339844,
+            325.25421142578125,
+            105.14289093017578,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "（元）",
+          "bbox": [
+            105.142333984375,
+            325.7670593261719,
+            136.5247344970703,
+            336.26971435546875
+          ],
+          "intersection": [
+            105.142333984375,
+            325.7670593261719,
+            124.55919647216797,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "68",
+          "bbox": [
+            94.23333740234375,
+            311.5062255859375,
+            105.14244079589844,
+            322.41534423828125
+          ],
+          "intersection": [
+            97.41999053955078,
+            317.11175537109375,
+            105.14244079589844,
+            322.41534423828125
+          ]
+        },
+        {
+          "text": " ×",
+          "bbox": [
+            105.14244079589844,
+            311.30474853515625,
+            116.04270935058594,
+            322.2138671875
+          ],
+          "intersection": [
+            105.14244079589844,
+            317.11175537109375,
+            116.04270935058594,
+            322.2138671875
+          ]
+        },
+        {
+          "text": " 10",
+          "bbox": [
+            116.04270935058594,
+            311.5062255859375,
+            129.38442993164062,
+            322.41534423828125
+          ],
+          "intersection": [
+            116.04270935058594,
+            317.11175537109375,
+            124.55919647216797,
+            322.41534423828125
+          ]
+        },
+        {
+          "text": ".",
+          "bbox": [
+            96.65733337402344,
+            325.25421142578125,
+            99.67915344238281,
+            336.163330078125
+          ],
+          "intersection": [
+            97.41999053955078,
+            325.25421142578125,
+            99.67915344238281,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "8",
+          "bbox": [
+            99.68833923339844,
+            325.25421142578125,
+            105.14289093017578,
+            336.163330078125
+          ],
+          "intersection": [
+            99.68833923339844,
+            325.25421142578125,
+            105.14289093017578,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "（元）",
+          "bbox": [
+            105.142333984375,
+            325.7670593261719,
+            136.5247344970703,
+            336.26971435546875
+          ],
+          "intersection": [
+            105.142333984375,
+            325.7670593261719,
+            124.55919647216797,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "68",
+          "bbox": [
+            94.23333740234375,
+            311.5062255859375,
+            105.14244079589844,
+            322.41534423828125
+          ],
+          "intersection": [
+            97.41999053955078,
+            317.11175537109375,
+            105.14244079589844,
+            322.41534423828125
+          ]
+        },
+        {
+          "text": " ×",
+          "bbox": [
+            105.14244079589844,
+            311.30474853515625,
+            116.04270935058594,
+            322.2138671875
+          ],
+          "intersection": [
+            105.14244079589844,
+            317.11175537109375,
+            116.04270935058594,
+            322.2138671875
+          ]
+        },
+        {
+          "text": " 10",
+          "bbox": [
+            116.04270935058594,
+            311.5062255859375,
+            129.38442993164062,
+            322.41534423828125
+          ],
+          "intersection": [
+            116.04270935058594,
+            317.11175537109375,
+            124.55919647216797,
+            322.41534423828125
+          ]
+        },
+        {
+          "text": ".",
+          "bbox": [
+            96.65733337402344,
+            325.25421142578125,
+            99.67915344238281,
+            336.163330078125
+          ],
+          "intersection": [
+            97.41999053955078,
+            325.25421142578125,
+            99.67915344238281,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "8",
+          "bbox": [
+            99.68833923339844,
+            325.25421142578125,
+            105.14289093017578,
+            336.163330078125
+          ],
+          "intersection": [
+            99.68833923339844,
+            325.25421142578125,
+            105.14289093017578,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "（元）",
+          "bbox": [
+            105.142333984375,
+            325.7670593261719,
+            136.5247344970703,
+            336.26971435546875
+          ],
+          "intersection": [
+            105.142333984375,
+            325.7670593261719,
+            124.55919647216797,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "68",
+          "bbox": [
+            94.23333740234375,
+            311.5062255859375,
+            105.14244079589844,
+            322.41534423828125
+          ],
+          "intersection": [
+            97.41999053955078,
+            317.11175537109375,
+            105.14244079589844,
+            322.41534423828125
+          ]
+        },
+        {
+          "text": " ×",
+          "bbox": [
+            105.14244079589844,
+            311.30474853515625,
+            116.04270935058594,
+            322.2138671875
+          ],
+          "intersection": [
+            105.14244079589844,
+            317.11175537109375,
+            116.04270935058594,
+            322.2138671875
+          ]
+        },
+        {
+          "text": " 10",
+          "bbox": [
+            116.04270935058594,
+            311.5062255859375,
+            129.38442993164062,
+            322.41534423828125
+          ],
+          "intersection": [
+            116.04270935058594,
+            317.11175537109375,
+            124.55919647216797,
+            322.41534423828125
+          ]
+        },
+        {
+          "text": ".",
+          "bbox": [
+            96.65733337402344,
+            325.25421142578125,
+            99.67915344238281,
+            336.163330078125
+          ],
+          "intersection": [
+            97.41999053955078,
+            325.25421142578125,
+            99.67915344238281,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "8",
+          "bbox": [
+            99.68833923339844,
+            325.25421142578125,
+            105.14289093017578,
+            336.163330078125
+          ],
+          "intersection": [
+            99.68833923339844,
+            325.25421142578125,
+            105.14289093017578,
+            326.35400390625
+          ]
+        },
+        {
+          "text": "（元）",
+          "bbox": [
+            105.142333984375,
+            325.7670593261719,
+            136.5247344970703,
+            336.26971435546875
+          ],
+          "intersection": [
+            105.142333984375,
+            325.7670593261719,
+            124.55919647216797,
+            326.35400390625
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    },
+    {
+      "key": "p104_s03",
+      "book_page": 104,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        100.18299377441406,
+        452.82918823242187,
+        128.81650268554688,
+        462.57156860351563
+      ],
+      "old_text_bbox": [
+        100.30299377441406,
+        452.9491882324219,
+        128.69650268554688,
+        462.4515686035156
+      ],
+      "old_origin": [
+        100.30299377441406,
+        460.1990051269531
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        100.30299377441406,
+        460.1990051269531
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p104_s04",
+      "book_page": 104,
+      "old_unit_text": "（米/分）",
+      "new_unit_text": "(米/分)",
+      "rect": [
+        90.25299346923828,
+        598.5471752929687,
+        131.90018188476563,
+        608.2895556640625
+      ],
+      "old_text_bbox": [
+        90.37299346923828,
+        598.6671752929688,
+        131.78018188476562,
+        608.1695556640625
+      ],
+      "old_origin": [
+        90.37299346923828,
+        605.9169921875
+      ],
+      "font_size": 9.5,
+      "text_baseline_anchor": [
+        90.37299346923828,
+        605.9169921875
+      ],
+      "latex": "\\(\\text{(米/分)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p104_s05",
+      "book_page": 104,
+      "old_unit_text": "（千米）",
+      "new_unit_text": "(千米)",
+      "rect": [
+        99.46799743652343,
+        745.0176953125,
+        135.57359802246094,
+        754.2600146484375
+      ],
+      "old_text_bbox": [
+        99.58799743652344,
+        745.1376953125,
+        135.45359802246094,
+        754.1400146484375
+      ],
+      "old_origin": [
+        99.58799743652344,
+        752.0059814453125
+      ],
+      "font_size": 9.0,
+      "text_baseline_anchor": [
+        99.58799743652344,
+        752.0059814453125
+      ],
+      "latex": "\\(\\text{(千米)}\\)",
+      "active_local_ids": [],
+      "new_local_required": true,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [],
+      "note_change": "Root units audit will convert corresponding result unit to ASCII parentheses; existing note position retained.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": true
+    },
+    {
+      "key": "p104_s02",
+      "book_page": 104,
+      "old_unit_text": "（元）",
+      "new_unit_text": "(元)",
+      "rect": [
+        105.022333984375,
+        325.64705932617187,
+        136.64473449707032,
+        336.38971435546875
+      ],
+      "old_text_bbox": [
+        105.142333984375,
+        325.7670593261719,
+        136.5247344970703,
+        336.26971435546875
+      ],
+      "old_origin": [
+        105.142333984375,
+        333.780029296875
+      ],
+      "font_size": 10.5,
+      "text_baseline_anchor": [
+        105.142333984375,
+        333.780029296875
+      ],
+      "latex": "\\(\\text{(元)}\\)",
+      "active_local_ids": [
+        "p104_s02_local1"
+      ],
+      "new_local_required": false,
+      "black_pixels_in_mask_at_3x": 0,
+      "other_red_span_intersections": [
+        {
+          "text": "（元）",
+          "bbox": [
+            97.53999328613281,
+            317.23175048828125,
+            124.43919372558594,
+            326.2340087890625
+          ],
+          "intersection": [
+            105.02233123779297,
+            325.6470642089844,
+            124.43919372558594,
+            326.2340087890625
+          ]
+        },
+        {
+          "text": "答：花46.8元。完整多解见",
+          "bbox": [
+            71.42999267578125,
+            328.94573974609375,
+            178.3363800048828,
+            337.947998046875
+          ],
+          "intersection": [
+            105.02233123779297,
+            328.94573974609375,
+            136.6447296142578,
+            336.38970947265625
+          ]
+        }
+      ],
+      "note_change": "Covered by whole existing active local: source extraction may include hidden obsolete rows; replace existing local only, do not separately mask this span.",
+      "scope": "Only this red unit text; preceding result/equals and original black problem retained.",
+      "covered_by_conversion_row": false,
+      "install_new_local": false
+    }
+  ],
+  "units_after_conversion_overlap_deduplication": 59,
+  "conversion_row_manifest": "units_update/conversion_row_proposals.json"
+}

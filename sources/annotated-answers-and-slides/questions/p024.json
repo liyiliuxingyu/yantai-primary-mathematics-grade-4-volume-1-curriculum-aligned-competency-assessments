@@ -1,0 +1,115 @@
+{
+  "book_page": 24,
+  "source_page": 28,
+  "title": "",
+  "records": [
+    {
+      "key": "p024_s01",
+      "book_page": 24,
+      "source_page": 28,
+      "section_index": 0,
+      "id": "四、2",
+      "kind": "application",
+      "question_latex": "李叔叔开车从青岛到济南，上午9:00出发，下午1:00到达，汽车平均每小时行驶92千米。青岛到济南的距离是多少千米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先把到达时刻改用二十四时计时法：\\[\\text{下午}1{:}00=13{:}00\\]从9:00到13:00经过\\(13-9=4\\)小时。\\par 主解：速度×总时间\\par \\[\\begin{aligned} &92\\times(13-9)\\\\={}&92\\times4\\\\={}&368\\text{(千米)}\\end{aligned}\\]答：青岛到济南的距离是368千米。\\par 分段验算：按中午12时分段\\par \\[\\begin{aligned} &92\\times3+92\\times1\\\\={}&276+92\\\\={}&368\\text{(千米)}\\end{aligned}\\]答：青岛到济南的距离是368千米。\\par 两种计时都得到4小时；按上午、下午分段计算用来复核总时间，没有改变“路程＝速度×时间”这一数量关系。",
+      "verification": {
+        "status": "verified",
+        "reason": "下午1时=13时，经过4小时，92×4=368千米。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p024_s02",
+      "book_page": 24,
+      "source_page": 28,
+      "section_index": 1,
+      "id": "四、3",
+      "kind": "application",
+      "question_latex": "甲、乙两个工程队分别从两端同时修路，甲队每天修8米，乙队每天修12米，130天后，还有820米没修。这条路一共多少米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先按线段关系整理：全路长＝甲队已修长度＋乙队已修长度＋未修的820米。两队都修130天，既可先求每天合修多少米，也可分别求两队已修多少米。\\par 方法一：先合并两队每天修的长度\\par \\[\\begin{aligned} &(8+12)\\times130+820\\\\={}&20\\times130+820\\\\={}&2600+820\\\\={}&3420\\text{(米)}\\end{aligned}\\]答：这条路一共长3420米。\\par 方法二：分别求已修长度再加未修长度\\par \\[\\begin{aligned} &8\\times130+12\\times130+820\\\\={}&1040+1560+820\\\\={}&2600+820\\\\={}&3420\\text{(米)}\\end{aligned}\\]答：这条路一共长3420米。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "(8+12)×130+820=2600+820=3420米。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p024_s03",
+      "book_page": 24,
+      "source_page": 28,
+      "section_index": 2,
+      "id": "四、4",
+      "kind": "application",
+      "question_latex": "某商厦3月份销售248台空调，按照3月份的日销量计算，2026年第2季度能卖多少台空调？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "3月有31天，4、5、6月分别有30、31、30天，第2季度共91天。\\par 方法一：日销量×季度天数\\par \\[\\begin{aligned} &(248\\div31)\\times(30+31+30)\\\\={}&8\\times(61+30)\\\\={}&8\\times91\\\\={}&728\\text{(台)}\\end{aligned}\\]答：2026年第2季度能卖728台空调。\\par 按3个31天月计算会多算2天，应扣除这2天的销量。\\par 方法二：三个月按31天算再调整\\par \\[\\begin{aligned} &248\\times3-(248\\div31)\\times2\\\\={}&744-8\\times2\\\\={}&744-16\\\\={}&728\\text{(台)}\\end{aligned}\\]答：2026年第2季度能卖728台空调。\\par \\par\\textbf{简便提示（学完运算律后）}\\par 计算季度天数时，两个30天可先合起来凑60，再加31天；这只是合计同样三个月的天数。\\[\\begin{aligned}&30+31+30\\\\={}&(30+30)+31\\\\={}&60+31\\\\={}&91\\text{(天)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "3月31天，日销8台，4/5/6月91天，8×91=728。",
+        "changes": [
+          "日销量与季度天数先同时算248÷31及30+31，再合计剩余30天。",
+          "本轮复核：第2季度30+31+30可交换加数让两个30先凑60，当前主解却先得到61。只补天数小算式，保留第三单元原完整应用步骤。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p024_s04",
+      "book_page": 24,
+      "source_page": 28,
+      "section_index": 3,
+      "id": "四、5",
+      "kind": "application",
+      "question_latex": "根据《中华人民共和国道路交通安全法》相关规定，电动自行车在非机动车道行驶时，每分钟不得超过250米。王叔叔点了一份外卖，骑手正在送货，距离目的地2400米，离约定时间还有8分钟。按照规定骑行，骑手能准时送达吗？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：比较8分钟最多能走的路程\\par \\[\\begin{aligned} &250\\times8\\\\={}&2000\\text{(米)}\\end{aligned}\\]答：按规定骑行，骑手不能准时送达。\\par 因为\\(2000<2400\\)，8分钟内最多骑行2000米，达不到2400米。\\par 方法二：比较准时送达所需的平均速度\\par \\[\\begin{aligned} &2400\\div8\\\\={}&300\\text{(米/分)}\\end{aligned}\\]答：按规定骑行，骑手不能准时送达。\\par 因为\\(300>250\\)，准时送达需要的平均速度超过题目规定。",
+      "verification": {
+        "status": "verified",
+        "reason": "按题给上限250×8=2000<2400，不能；或所需300>250。所引法律文字保留原题，不作为现行法律意见。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

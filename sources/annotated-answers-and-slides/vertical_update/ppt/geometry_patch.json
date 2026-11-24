@@ -1,0 +1,22 @@
+{
+  "question": "p010_s04",
+  "slide_text_replacements": {
+    "220": {
+      "p010_s04_b006_0_p8": "所作的垂线段。",
+      "p010_s04_b006_1_p0": "图中CA与AB互相垂直，垂足在A。",
+      "p010_s04_b006_2_p0": "所以，所求距离就是线段CA的长度。",
+      "p010_s04_b007_3_p0": "图中已知",
+      "p010_s04_b008_5_p0": "垂线段AC的长度是3厘米，不取斜线段BC的长度。",
+      "p010_s04_b008_6_p0": "选A。"
+    },
+    "221": {
+      "p010_s04_b009_0_p5_answer": "A",
+      "unknown_notice": "答案：A（3厘米）。"
+    }
+  },
+  "replaced_media": [
+    "ppt/media/image765.svg",
+    "ppt/media/image765.png"
+  ],
+  "preserve_timing": true
+}

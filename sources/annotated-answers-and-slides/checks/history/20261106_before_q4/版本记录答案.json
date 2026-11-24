@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "previous_pdf_sha256": "69c0f750e07f3e92d75985b56c888199cb10305f1a8b298ce9b350e8eaa798eb",
+  "current_pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+  "changed_question_keys": [
+    "p078_s01",
+    "p078_s05",
+    "p078_s06"
+  ],
+  "changed_book_pages": [
+    78
+  ],
+  "change": "根据清晰原卷更正第78页：每题2分共12分；海盗船平均136厘米与140厘米限制；气温图重绘16圆点和5条横线；快板更正为秧歌。原第4题B、D措辞歧义保留。",
+  "current_evidence": "p078_update/qa_current.json",
+  "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+  "ppt_proofs": [
+    {
+      "path": "ppt_p078/qa_final.json",
+      "sha256": "d0b9b6ae6ab6439812f63a4effd3663a6ac7fdf9168d0534a6ef7fac952dfbc3",
+      "volumes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "powerpoint_playback_tested": false
+}

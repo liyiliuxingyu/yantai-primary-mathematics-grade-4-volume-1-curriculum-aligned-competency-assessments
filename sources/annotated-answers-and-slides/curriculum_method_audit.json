@@ -1,0 +1,168 @@
+{
+  "source": "recovered/source/new_work/side1.json…side6.json（本次恢复的v7源）",
+  "section_count": 867,
+  "scope": {
+    "automated_scan": "全部867个sections；一般小数乘除候选24个，多解项110个；分数/代数/面积/整数简便判据关键词全册筛查。",
+    "manual_review": "复核24个小数乘除候选的上下文、110个多解项的策略描述与首式结构，以及本JSON各条完整latex。并非全867题重新解题或全部原图人工复核。",
+    "grade_basis": "curriculum_report.md；教参本单元内容/后继内容表；70课件逐页文字。",
+    "no_unqualified_exhaustiveness": "多解判定是教学层面的分类判断，不主张已穷尽所有可能算法。"
+  },
+  "counts": {
+    "required": 3,
+    "recommended": 7,
+    "review": 3
+  },
+  "findings": [
+    {
+      "source_page": 59,
+      "print_page": 55,
+      "id": "五、1",
+      "category": "后续知识进入本阶段答案",
+      "severity": "required",
+      "evidence": "旧解明确标出“拓展方法（后续知识）”，并用0.03×0.03×100×100求面积。",
+      "recommendation": "删除这段一般小数乘法拓展；保留0.03×100=3，再3×3=9的适龄解法。",
+      "owner": "questions_c",
+      "status": "reported"
+    },
+    {
+      "source_page": 65,
+      "print_page": 61,
+      "id": "一、9",
+      "category": "一般小数乘法形式",
+      "severity": "required",
+      "evidence": "“也可算10.9×2−0.75”。",
+      "recommendation": "改为10.9+10.9−0.75，或删补充。重复加法思路可以讲，避免直接引入一般小数乘法算法。",
+      "owner": "questions_c",
+      "status": "reported"
+    },
+    {
+      "source_page": 87,
+      "print_page": 83,
+      "id": "四、2",
+      "category": "一般小数乘法形式",
+      "severity": "required",
+      "evidence": "方法二79.5×2+23.9。",
+      "recommendation": "保留“两份大米钱补差价”思路，算式改79.5+79.5+23.9=159+23.9=182.9。",
+      "owner": "questions_d",
+      "status": "reported"
+    },
+    {
+      "source_page": 60,
+      "print_page": 56,
+      "id": "五、2",
+      "category": "商为小数的除法说明",
+      "severity": "recommended",
+      "evidence": "第二法3750÷5÷20=750÷20=37.5。",
+      "recommendation": "若保留此法，展示750÷(2×10)=750÷2÷10=375÷10=37.5，落回已学整数除法与小数点移动。第一法3750÷100本身在范围内。",
+      "owner": "questions_c",
+      "status": "reported"
+    },
+    {
+      "source_page": 54,
+      "print_page": 50,
+      "id": "二、1",
+      "category": "计数单位与乘法形式",
+      "severity": "recommended",
+      "evidence": "百分位6颗珠写为6×0.01=0.06。",
+      "recommendation": "写“6个0.01，即0.06”；不用尚未正式学习的小数乘法书写，不改变结果。",
+      "owner": "questions_b",
+      "status": "reported"
+    },
+    {
+      "source_page": 58,
+      "print_page": 54,
+      "id": "一、10",
+      "category": "数轴计数单位解释",
+      "severity": "recommended",
+      "evidence": "用了0.1×7、0.01×2、0.01×7求对应点。",
+      "recommendation": "用“7个0.1是0.7、2个0.01是0.02、7个0.01是0.07”说明，然后分别列1+0.7、2.4+0.02、48.6+0.07。",
+      "owner": "questions_c",
+      "status": "reported"
+    },
+    {
+      "source_page": 58,
+      "print_page": 54,
+      "id": "二、3",
+      "category": "计数单位用语和乘法形式",
+      "severity": "recommended",
+      "evidence": "0.006=6×0.001，且写“0.001是积新的计数单位”。",
+      "recommendation": "核原题，原则上写0.006由6个0.001组成；若原题本身是乘法组成关系，按原题解释。修正“积新的”的语病。",
+      "owner": "questions_c",
+      "status": "reported"
+    },
+    {
+      "source_page": 107,
+      "print_page": 103,
+      "id": "三、3（2）",
+      "category": "同类算法的变式标签",
+      "severity": "review",
+      "evidence": "方法一45×(100−2)，方法二(50−5)×98。两者同用分配律补偿。",
+      "recommendation": "可作为同一分配律的两种变形展示，择优主解；不因改拆另一个因数就宣称已获得两种实质解题思路。此项不是数值错误。",
+      "owner": "questions_d",
+      "status": "reported"
+    },
+    {
+      "source_page": 46,
+      "print_page": 42,
+      "id": "三、2（3）",
+      "category": "同类凑整结构的变式标签",
+      "severity": "review",
+      "evidence": "99×47+47先提取47；另一写法补成100×47−47+47。",
+      "recommendation": "两种写法都在凑100个47，可保留一个完整主解，另一作为等价变形说明，避免夸大独立思路。",
+      "owner": "questions_b",
+      "status": "reported"
+    },
+    {
+      "source_page": 52,
+      "print_page": 48,
+      "id": "五、2",
+      "category": "乘法意义的两种表达",
+      "severity": "review",
+      "evidence": "62×2与62+62分别标为方法一、方法二。",
+      "recommendation": "可并列“乘法式/重复加法式”说明意义，不把两式夸大为全新实质思路。",
+      "owner": "questions_b",
+      "status": "reported"
+    },
+    {
+      "source_page": 95,
+      "print_page": 91,
+      "id": "四、1",
+      "category": "依赖计算步骤跳跃",
+      "severity": "recommended",
+      "evidence": "88+(8+4)÷4直接写为88+3。",
+      "recommendation": "补88+12÷4，再88+3。原始4个分数字形未核清的条件声明仍要保留，不能以教参答案代替核题。",
+      "owner": "questions_d",
+      "status": "reported"
+    },
+    {
+      "source_page": 95,
+      "print_page": 91,
+      "id": "四、2",
+      "category": "依赖计算步骤跳跃",
+      "severity": "recommended",
+      "evidence": "132+10×12÷20直接写为132+6。",
+      "recommendation": "补132+120÷20，再132+6。",
+      "owner": "questions_d",
+      "status": "reported"
+    },
+    {
+      "source_page": 95,
+      "print_page": 91,
+      "id": "四、3",
+      "category": "依赖计算步骤跳跃",
+      "severity": "recommended",
+      "evidence": "100−[100×8−(160×2+464)]÷8直接成为100−(800−784)÷8，内层320+464未单独展开。",
+      "recommendation": "先同时算独立的100×8和160×2，写100−[800−(320+464)]÷8，再100−(800−784)÷8。",
+      "owner": "questions_d",
+      "status": "reported"
+    }
+  ],
+  "no_new_finding": [
+    "未检出以“得数为整数”作为简便计算判据的文字。",
+    "未检出把三角形/平行四边形/梯形面积公式作为主解的条目。",
+    "53页一2以百分之一表示计数单位不属于分数运算；59页主解0.03×100属于已学小数点移动。",
+    "小数×÷10/100/1000/10000等按点位移动、单位进率处理的候选没有作为一般小数乘除误报。",
+    "108页五2袜子主解先在括号中得到付费10双，再4.68×10，属于点位移动；另一法先元化分做整数乘法也适龄。"
+  ],
+  "notes": "本审查未直接改动任何题目owner文件；对应建议已发送，owner应以原题与最终数据为准判断并同步答案/解析/课件/源码。"
+}

@@ -1,0 +1,4238 @@
+{
+  "masks": [
+    {
+      "book_page": 4,
+      "rect": [
+        144.46666666666667,
+        569.4666666666666,
+        235.2,
+        579.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        216.93499755859375,
+        571.0813598632812,
+        234.80079650878906,
+        580.0499877929688
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        145.16666666666666,
+        570.1666666666666,
+        234.5,
+        579.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 8,
+      "rect": [
+        286.8,
+        715.8,
+        322.8666666666667,
+        725.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        305.15899658203125,
+        717.4114379882812,
+        322.5626220703125,
+        726.1480712890625
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        287.5,
+        716.5,
+        322.1666666666667,
+        725.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 8,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        222.2,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：五、2（括号条件）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        226.15994262695312,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        221.5,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 10,
+      "rect": [
+        255.01666666666665,
+        197.13333333333335,
+        278.2,
+        206.53333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        262.677001953125,
+        198.8388214111328,
+        277.565185546875,
+        206.3126983642578
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        255.16666666666666,
+        197.83333333333334,
+        277.5,
+        205.83333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.15,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 10,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        222.2,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：二、2（读图条件）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        226.15994262695312,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        221.5,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 12,
+      "rect": [
+        96.46666666666667,
+        262.4666666666667,
+        192.2,
+        273.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        172.91799926757812,
+        264.1213073730469,
+        191.77621459960938,
+        273.588134765625
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        97.16666666666667,
+        263.1666666666667,
+        191.5,
+        272.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 12,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        179.2,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：四、3。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        182.9599609375,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        178.5,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 18,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        197.53333333333333,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：一、9（1）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        201.31996154785156,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        196.83333333333334,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 19,
+      "rect": [
+        82.8,
+        573.4666666666666,
+        153.86666666666665,
+        584.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        133.58499145507812,
+        574.9711303710938,
+        153.435791015625,
+        584.9362182617188
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        83.5,
+        574.1666666666666,
+        153.16666666666666,
+        584.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 19,
+      "rect": [
+        82.8,
+        724.8,
+        153.86666666666665,
+        736.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        133.58499145507812,
+        726.5512084960938,
+        153.435791015625,
+        736.5162963867188
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        83.5,
+        725.5,
+        153.16666666666666,
+        735.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 20,
+      "rect": [
+        66.46666666666667,
+        163.46666666666667,
+        137.2,
+        174.86666666666665
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        117.15499877929688,
+        165.03314208984375,
+        137.00579833984375,
+        174.9982452392578
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.16666666666667,
+        164.16666666666666,
+        136.5,
+        174.16666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 20,
+      "rect": [
+        166.8,
+        511.8,
+        233.86666666666665,
+        522.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        214.65200805664062,
+        513.5892333984375,
+        233.31179809570312,
+        522.9564819335938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        167.5,
+        512.5,
+        233.16666666666666,
+        522.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 20,
+      "rect": [
+        166.46666666666667,
+        708.8,
+        217.2,
+        720.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        196.8560028076172,
+        710.5512084960938,
+        216.70680236816406,
+        720.5162963867188
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        167.16666666666666,
+        709.5,
+        216.5,
+        719.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 23,
+      "rect": [
+        178.8,
+        652.4666666666666,
+        226.53333333333333,
+        663.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        207.427001953125,
+        654.1732177734375,
+        226.0867919921875,
+        663.5404663085938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        179.5,
+        653.1666666666666,
+        225.83333333333334,
+        662.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 23,
+      "rect": [
+        113.46666666666667,
+        773.1333333333333,
+        304.8666666666667,
+        783.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 已放大人工核对并扩展覆盖同一提示行的引号题号尾部或前缀。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        231.05599975585938,
+        774.7814331054688,
+        248.9217987060547,
+        783.7500610351562
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        114.16666666666667,
+        773.8333333333334,
+        304.1666666666667,
+        782.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 24,
+      "rect": [
+        172.46666666666667,
+        142.8,
+        243.53333333333333,
+        154.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        223.28799438476562,
+        144.4541473388672,
+        243.1387939453125,
+        154.41925048828125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        173.16666666666666,
+        143.5,
+        242.83333333333334,
+        153.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 24,
+      "rect": [
+        148.13333333333335,
+        338.4666666666667,
+        219.2,
+        350.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        198.88900756835938,
+        340.2531433105469,
+        218.73980712890625,
+        350.2182312011719
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        148.83333333333334,
+        339.1666666666667,
+        218.5,
+        349.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 24,
+      "rect": [
+        142.46666666666667,
+        507.8,
+        213.53333333333333,
+        519.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        193.3990020751953,
+        509.31817626953125,
+        213.2498016357422,
+        519.2832641601562
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        143.16666666666666,
+        508.5,
+        212.83333333333334,
+        518.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 24,
+      "rect": [
+        66.8,
+        735.4666666666666,
+        167.2,
+        746.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.04299926757812,
+        737.0151977539062,
+        166.893798828125,
+        746.9802856445312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.5,
+        736.1666666666666,
+        166.5,
+        746.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 27,
+      "rect": [
+        166.8,
+        554.4666666666666,
+        237.86666666666665,
+        565.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        217.65200805664062,
+        556.1791381835938,
+        237.5028076171875,
+        566.1442260742188
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        167.5,
+        555.1666666666666,
+        237.16666666666666,
+        565.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 27,
+      "rect": [
+        172.46666666666667,
+        712.4666666666666,
+        243.2,
+        723.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        223.14199829101562,
+        714.1121215820312,
+        242.9927978515625,
+        724.0772094726562
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        173.16666666666666,
+        713.1666666666666,
+        242.5,
+        723.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 27,
+      "rect": [
+        83.46666666666667,
+        357.8,
+        204.53333333333333,
+        368.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        183.13299560546875,
+        359.576416015625,
+        200.99879455566406,
+        368.5450439453125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        84.16666666666667,
+        358.5,
+        203.83333333333334,
+        367.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 28,
+      "rect": [
+        156.8,
+        173.8,
+        227.86666666666665,
+        185.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        207.69000244140625,
+        175.5181427001953,
+        227.54080200195312,
+        185.48324584960938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        157.5,
+        174.5,
+        227.16666666666666,
+        184.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 28,
+      "rect": [
+        171.46666666666667,
+        370.1333333333333,
+        242.2,
+        381.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        222.12600708007812,
+        371.9521484375,
+        241.976806640625,
+        381.917236328125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        172.16666666666666,
+        370.8333333333333,
+        241.5,
+        381.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 28,
+      "rect": [
+        162.46666666666667,
+        570.1333333333333,
+        233.53333333333333,
+        581.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        213.17898559570312,
+        571.9581909179688,
+        233.02978515625,
+        581.9232788085938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        163.16666666666666,
+        570.8333333333334,
+        232.83333333333334,
+        581.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 28,
+      "rect": [
+        171.46666666666667,
+        699.4666666666666,
+        242.2,
+        711.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        222.12600708007812,
+        701.2511596679688,
+        241.976806640625,
+        711.2162475585938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        172.16666666666666,
+        700.1666666666666,
+        241.5,
+        710.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 31,
+      "rect": [
+        157.46666666666667,
+        733.1333333333333,
+        228.53333333333333,
+        744.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        208.39999389648438,
+        734.7542114257812,
+        228.25079345703125,
+        744.7192993164062
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        158.16666666666666,
+        733.8333333333334,
+        227.83333333333334,
+        743.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 31,
+      "rect": [
+        85.46666666666667,
+        378.4666666666667,
+        206.86666666666665,
+        388.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        185.23300170898438,
+        380.2763977050781,
+        203.0988006591797,
+        389.2450256347656
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        86.16666666666667,
+        379.1666666666667,
+        206.16666666666666,
+        388.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 32,
+      "rect": [
+        163.46666666666667,
+        171.8,
+        238.2,
+        183.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        214.34100341796875,
+        173.36813354492188,
+        234.19180297851562,
+        183.33323669433594
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        164.16666666666666,
+        172.5,
+        237.5,
+        182.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 32,
+      "rect": [
+        148.13333333333335,
+        342.4666666666667,
+        219.2,
+        353.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        198.88900756835938,
+        344.1021423339844,
+        218.73980712890625,
+        354.0672302246094
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        148.83333333333334,
+        343.1666666666667,
+        218.5,
+        353.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 32,
+      "rect": [
+        147.13333333333335,
+        498.8,
+        218.2,
+        510.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        197.8730010986328,
+        500.5361633300781,
+        217.7238006591797,
+        510.5012512207031
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        147.83333333333334,
+        499.5,
+        217.5,
+        509.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 32,
+      "rect": [
+        116.13333333333333,
+        668.8,
+        187.2,
+        680.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        166.96800231933594,
+        670.3661499023438,
+        186.8188018798828,
+        680.3312377929688
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        116.83333333333333,
+        669.5,
+        186.5,
+        679.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 33,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        229.53333333333333,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：一、5（平行四边形）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        233.3599395751953,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        228.83333333333334,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 35,
+      "rect": [
+        170.46666666666667,
+        720.8,
+        241.53333333333333,
+        732.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        221.406005859375,
+        722.4291381835938,
+        241.25680541992188,
+        732.3942260742188
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        171.16666666666666,
+        721.5,
+        240.83333333333334,
+        731.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 36,
+      "rect": [
+        157.8,
+        185.8,
+        228.86666666666665,
+        197.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        208.55499267578125,
+        187.46914672851562,
+        228.40579223632812,
+        197.4342498779297
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        158.5,
+        186.5,
+        228.16666666666666,
+        196.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 36,
+      "rect": [
+        157.8,
+        386.4666666666667,
+        232.53333333333333,
+        397.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        208.55499267578125,
+        388.1541442871094,
+        228.40579223632812,
+        398.1192321777344
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        158.5,
+        387.1666666666667,
+        231.83333333333334,
+        397.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 36,
+      "rect": [
+        236.8,
+        592.4666666666666,
+        291.5333333333333,
+        603.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        267.61199951171875,
+        594.1581420898438,
+        287.46282958984375,
+        604.1232299804688
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        237.5,
+        593.1666666666666,
+        290.8333333333333,
+        603.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 36,
+      "rect": [
+        137.46666666666667,
+        722.4666666666666,
+        207.86666666666665,
+        733.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        187.76600646972656,
+        724.0121459960938,
+        207.61680603027344,
+        733.9772338867188
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        138.16666666666666,
+        723.1666666666666,
+        207.16666666666666,
+        733.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 38,
+      "rect": [
+        63.46666666666667,
+        789.8,
+        144.2,
+        799.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        128.01100158691406,
+        791.3694458007812,
+        143.8321990966797,
+        799.3117065429688
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        64.16666666666667,
+        790.5,
+        143.5,
+        798.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 39,
+      "rect": [
+        159.8,
+        706.4666666666666,
+        208.2,
+        717.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        188.85000610351562,
+        707.9802856445312,
+        207.70822143554688,
+        717.4471435546875
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        160.5,
+        707.1666666666666,
+        207.5,
+        716.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 40,
+      "rect": [
+        77.8,
+        144.8,
+        168.86666666666665,
+        155.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        150.5050048828125,
+        146.35440063476562,
+        168.3708038330078,
+        155.3230438232422
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        78.5,
+        145.5,
+        168.16666666666666,
+        154.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 40,
+      "rect": [
+        153.13333333333335,
+        659.4666666666666,
+        201.53333333333333,
+        670.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        182.42100524902344,
+        661.1613159179688,
+        201.27920532226562,
+        670.628173828125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        153.83333333333334,
+        660.1666666666666,
+        200.83333333333334,
+        669.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 43,
+      "rect": [
+        155.13333333333335,
+        516.4666666666666,
+        221.86666666666665,
+        527.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        202.81500244140625,
+        517.9722290039062,
+        221.6732177734375,
+        527.4390869140625
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        155.83333333333334,
+        517.1666666666666,
+        221.16666666666666,
+        526.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 44,
+      "rect": [
+        147.8,
+        134.8,
+        214.86666666666665,
+        145.86666666666665
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        195.63499450683594,
+        136.53030395507812,
+        214.49319458007812,
+        145.9971160888672
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        148.5,
+        135.5,
+        214.16666666666666,
+        145.16666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 44,
+      "rect": [
+        137.13333333333335,
+        476.4666666666667,
+        207.53333333333333,
+        487.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        184.7790069580078,
+        478.204345703125,
+        203.63720703125,
+        487.6711730957031
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        137.83333333333334,
+        477.1666666666667,
+        206.83333333333334,
+        486.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 44,
+      "rect": [
+        119.46666666666667,
+        701.4666666666666,
+        183.53333333333333,
+        711.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        165.0679931640625,
+        703.1543579101562,
+        182.9337921142578,
+        712.1229858398438
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        120.16666666666667,
+        702.1666666666666,
+        182.83333333333334,
+        711.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 44,
+      "rect": [
+        150.8,
+        359.8,
+        221.2,
+        370.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        198.49400329589844,
+        361.39630126953125,
+        217.35220336914062,
+        370.8631286621094
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        151.5,
+        360.5,
+        220.5,
+        370.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 46,
+      "rect": [
+        153.8,
+        111.8,
+        229.86666666666665,
+        120.86666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 已放大人工核对并扩展覆盖同一提示行的引号题号尾部或前缀。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        196.9770050048828,
+        113.4131088256836,
+        211.8096160888672,
+        120.85906982421875
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        154.5,
+        112.5,
+        229.16666666666666,
+        120.16666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 46,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        183.2,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：一、10。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        186.9199676513672,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        182.5,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 47,
+      "rect": [
+        78.13333333333333,
+        458.1333333333333,
+        141.86666666666665,
+        468.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        123.60600280761719,
+        459.7073669433594,
+        141.47181701660156,
+        468.6759948730469
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        78.83333333333333,
+        458.8333333333333,
+        141.16666666666666,
+        467.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 47,
+      "rect": [
+        165.46666666666667,
+        726.4666666666666,
+        232.53333333333333,
+        737.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        213.20901489257812,
+        727.9802856445312,
+        232.06723022460938,
+        737.4471435546875
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        166.16666666666666,
+        727.1666666666666,
+        231.83333333333334,
+        736.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 48,
+      "rect": [
+        158.46666666666667,
+        164.8,
+        225.53333333333333,
+        175.86666666666665
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        206.20999145507812,
+        166.6103057861328,
+        225.06820678710938,
+        176.07711791992188
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        159.16666666666666,
+        165.5,
+        224.83333333333334,
+        175.16666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 48,
+      "rect": [
+        124.46666666666667,
+        356.4666666666667,
+        191.53333333333333,
+        367.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        172.45700073242188,
+        358.0063171386719,
+        191.31521606445312,
+        367.47314453125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        125.16666666666667,
+        357.1666666666667,
+        190.83333333333334,
+        366.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 48,
+      "rect": [
+        128.8,
+        490.4666666666667,
+        195.86666666666665,
+        501.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        176.70599365234375,
+        492.0233154296875,
+        195.564208984375,
+        501.4901428222656
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        129.5,
+        491.1666666666667,
+        195.16666666666666,
+        500.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 48,
+      "rect": [
+        139.46666666666667,
+        651.1333333333333,
+        203.53333333333333,
+        661.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        185.0830078125,
+        652.8773803710938,
+        202.9488067626953,
+        661.8460083007812
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        140.16666666666666,
+        651.8333333333334,
+        202.83333333333334,
+        660.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 51,
+      "rect": [
+        162.13333333333335,
+        696.4666666666666,
+        210.53333333333333,
+        707.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        191.406005859375,
+        698.2133178710938,
+        210.26422119140625,
+        707.68017578125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        162.83333333333334,
+        697.1666666666666,
+        209.83333333333334,
+        706.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 52,
+      "rect": [
+        136.13333333333335,
+        155.8,
+        199.86666666666665,
+        166.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        181.39599609375,
+        157.54339599609375,
+        199.2617950439453,
+        166.5120391845703
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        136.83333333333334,
+        156.5,
+        199.16666666666666,
+        165.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 52,
+      "rect": [
+        124.8,
+        345.4666666666667,
+        188.53333333333333,
+        355.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        170.00799560546875,
+        347.2574157714844,
+        187.87379455566406,
+        356.2260437011719
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        125.5,
+        346.1666666666667,
+        187.83333333333334,
+        355.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 52,
+      "rect": [
+        145.13333333333335,
+        552.8,
+        208.86666666666665,
+        563.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        190.36199951171875,
+        554.5414428710938,
+        208.22779846191406,
+        563.5100708007812
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        145.83333333333334,
+        553.5,
+        208.16666666666666,
+        562.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 52,
+      "rect": [
+        73.8,
+        692.1333333333333,
+        137.86666666666665,
+        702.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        119.32099914550781,
+        693.7094116210938,
+        137.1868133544922,
+        702.6780395507812
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        74.5,
+        692.8333333333334,
+        137.16666666666666,
+        701.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 55,
+      "rect": [
+        85.13333333333333,
+        656.8,
+        185.86666666666665,
+        668.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        165.61300659179688,
+        658.4201049804688,
+        185.46380615234375,
+        668.3851928710938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        85.83333333333333,
+        657.5,
+        185.16666666666666,
+        667.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 56,
+      "rect": [
+        67.13333333333333,
+        99.46666666666667,
+        167.86666666666665,
+        111.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.76300048828125,
+        101.25614929199219,
+        167.61380004882812,
+        111.22125244140625
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.83333333333333,
+        100.16666666666667,
+        167.16666666666666,
+        110.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 56,
+      "rect": [
+        67.13333333333333,
+        432.1333333333333,
+        167.86666666666665,
+        443.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.76300048828125,
+        433.7841491699219,
+        167.61380004882812,
+        443.7492370605469
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.83333333333333,
+        432.8333333333333,
+        167.16666666666666,
+        442.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 56,
+      "rect": [
+        67.13333333333333,
+        631.4666666666666,
+        167.86666666666665,
+        643.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.76300048828125,
+        633.2501831054688,
+        167.61380004882812,
+        643.2152709960938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.83333333333333,
+        632.1666666666666,
+        167.16666666666666,
+        642.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 58,
+      "rect": [
+        359.1333333333333,
+        230.25,
+        475.5333333333333,
+        239.2
+      ],
+      "text": "保留两位、暂不化简时选B，见续页。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        360.2040100097656,
+        231.56341552734375,
+        479.4281005859375,
+        238.7652130126953
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        359.8333333333333,
+        230.5,
+        474.8333333333333,
+        238.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.25,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 58,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        179.2,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：二、3。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        182.9599609375,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        178.5,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 59,
+      "rect": [
+        77.8,
+        395.4666666666667,
+        178.53333333333333,
+        406.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        158.47300720214844,
+        396.9741516113281,
+        178.3238067626953,
+        406.9392395019531
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        78.5,
+        396.1666666666667,
+        177.83333333333334,
+        406.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 59,
+      "rect": [
+        77.8,
+        541.1333333333333,
+        178.53333333333333,
+        552.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        158.47300720214844,
+        542.9161987304688,
+        178.3238067626953,
+        552.8812866210938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        78.5,
+        541.8333333333334,
+        177.83333333333334,
+        552.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 59,
+      "rect": [
+        77.8,
+        686.1333333333333,
+        178.53333333333333,
+        697.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        158.47300720214844,
+        687.7802124023438,
+        178.3238067626953,
+        697.7453002929688
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        78.5,
+        686.8333333333334,
+        177.83333333333334,
+        696.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 60,
+      "rect": [
+        67.13333333333333,
+        85.46666666666667,
+        167.86666666666665,
+        96.86666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.76300048828125,
+        87.00614929199219,
+        167.61380004882812,
+        96.97125244140625
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.83333333333333,
+        86.16666666666667,
+        167.16666666666666,
+        96.16666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 60,
+      "rect": [
+        67.13333333333333,
+        244.8,
+        167.86666666666665,
+        256.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.76300048828125,
+        246.3001251220703,
+        167.61380004882812,
+        256.2652282714844
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.83333333333333,
+        245.5,
+        167.16666666666666,
+        255.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 60,
+      "rect": [
+        67.13333333333333,
+        492.8,
+        167.86666666666665,
+        504.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.76300048828125,
+        494.3961486816406,
+        167.61380004882812,
+        504.3612365722656
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.83333333333333,
+        493.5,
+        167.16666666666666,
+        503.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 60,
+      "rect": [
+        67.13333333333333,
+        642.1333333333333,
+        167.86666666666665,
+        653.5333333333334
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.76300048828125,
+        643.6401977539062,
+        167.61380004882812,
+        653.6052856445312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        67.83333333333333,
+        642.8333333333334,
+        167.16666666666666,
+        652.8333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 63,
+      "rect": [
+        77.8,
+        542.8,
+        178.53333333333333,
+        554.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        158.47300720214844,
+        544.4671020507812,
+        178.3238067626953,
+        554.4321899414062
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        78.5,
+        543.5,
+        177.83333333333334,
+        553.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 63,
+      "rect": [
+        77.8,
+        688.4666666666666,
+        178.53333333333333,
+        699.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        158.47300720214844,
+        690.0302124023438,
+        178.3238067626953,
+        699.9953002929688
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        78.5,
+        689.1666666666666,
+        177.83333333333334,
+        699.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 64,
+      "rect": [
+        70.8,
+        124.46666666666667,
+        171.53333333333333,
+        136.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        151.3330078125,
+        126.296142578125,
+        171.18380737304688,
+        136.26124572753906
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        71.5,
+        125.16666666666667,
+        170.83333333333334,
+        135.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 64,
+      "rect": [
+        70.8,
+        288.8,
+        171.53333333333333,
+        300.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        151.3330078125,
+        290.5801696777344,
+        171.18380737304688,
+        300.5452575683594
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        71.5,
+        289.5,
+        170.83333333333334,
+        299.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 64,
+      "rect": [
+        70.8,
+        469.8,
+        171.53333333333333,
+        481.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        151.3330078125,
+        471.3461608886719,
+        171.18380737304688,
+        481.3112487792969
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        71.5,
+        470.5,
+        170.83333333333334,
+        480.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 64,
+      "rect": [
+        70.8,
+        631.8,
+        171.53333333333333,
+        643.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        151.3330078125,
+        633.4601440429688,
+        171.18380737304688,
+        643.4252319335938
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        71.5,
+        632.5,
+        170.83333333333334,
+        642.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 65,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        179.2,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：一、2。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        182.9599609375,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        178.5,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 68,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        241.2,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：三、4（1）、三、4（2）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        245.23995971679688,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        240.5,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 74,
+      "rect": [
+        259.4666666666667,
+        362.1333333333333,
+        402.5333333333333,
+        371.5333333333333
+      ],
+      "text": "仅在全班每人至少参加一项时选C，见续页。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        260.2019958496094,
+        363.5804443359375,
+        406.66815185546875,
+        371.08233642578125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        260.1666666666667,
+        362.8333333333333,
+        401.8333333333333,
+        370.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 74,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        179.2,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：二、3。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        182.9599609375,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        178.5,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 77,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        285.2,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：一、6（1）、一、6（2）、一、6（3）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        289.15997314453125,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        284.5,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 80,
+      "rect": [
+        73.46666666666667,
+        204.46666666666667,
+        241.53333333333333,
+        215.53333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 已放大人工核对并扩展覆盖同一提示行的引号题号尾部或前缀。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        187.77699279785156,
+        206.11932373046875,
+        206.63519287109375,
+        215.5861358642578
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        74.16666666666667,
+        205.16666666666666,
+        240.83333333333334,
+        214.83333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 83,
+      "rect": [
+        79.46666666666667,
+        318.4666666666667,
+        247.53333333333333,
+        329.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 已放大人工核对并扩展覆盖同一提示行的引号题号尾部或前缀。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        193.77699279785156,
+        320.1233215332031,
+        212.63519287109375,
+        329.59014892578125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        80.16666666666667,
+        319.1666666666667,
+        246.83333333333334,
+        328.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 85,
+      "rect": [
+        291.4666666666667,
+        774.1333333333333,
+        317.8666666666667,
+        783.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        300.4169921875,
+        775.6377563476562,
+        317.2271728515625,
+        784.0764770507812
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        292.1666666666667,
+        774.8333333333334,
+        317.1666666666667,
+        783.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 85,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        233.53333333333333,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：一、6、一、9（钟面）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        237.3199462890625,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        232.83333333333334,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 86,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        230.2,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：二、5、二、6、三、3。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        234.0799560546875,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        229.5,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 90,
+      "rect": [
+        301.4666666666667,
+        219.13333333333335,
+        385.5333333333333,
+        228.86666666666665
+      ],
+      "text": "原选项均不符，见续页。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        302.2030029296875,
+        220.60391235351562,
+        389.87408447265625,
+        228.60589599609375
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        302.1666666666667,
+        219.83333333333334,
+        384.8333333333333,
+        228.16666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 90,
+      "rect": [
+        183.46666666666667,
+        368.1333333333333,
+        308.2,
+        377.8666666666667
+      ],
+      "text": "原选项均不符；原数为20，见续页。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        184.2010040283203,
+        369.60589599609375,
+        312.5355529785156,
+        377.6078796386719
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        184.16666666666666,
+        368.8333333333333,
+        307.5,
+        377.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 91,
+      "rect": [
+        195.13333333333335,
+        168.13333333333335,
+        259.5333333333333,
+        178.53333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        241.08499145507812,
+        169.9263916015625,
+        258.9507751464844,
+        178.89503479003906
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        195.83333333333334,
+        168.83333333333334,
+        258.8333333333333,
+        177.83333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 91,
+      "rect": [
+        155.46666666666667,
+        342.1333333333333,
+        201.53333333333333,
+        352.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        183.25999450683594,
+        343.81842041015625,
+        201.1258087158203,
+        352.78704833984375
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        156.16666666666666,
+        342.8333333333333,
+        200.83333333333334,
+        351.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 91,
+      "rect": [
+        159.46666666666667,
+        512.8,
+        205.53333333333333,
+        523.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        187.28599548339844,
+        514.5403442382812,
+        205.1518096923828,
+        523.5089721679688
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        160.16666666666666,
+        513.5,
+        204.83333333333334,
+        522.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 91,
+      "rect": [
+        196.46666666666667,
+        697.8,
+        287.2,
+        708.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        268.8990173339844,
+        699.3964233398438,
+        286.7648010253906,
+        708.3650512695312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        197.16666666666666,
+        698.5,
+        286.5,
+        707.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 91,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        204.53333333333333,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：四、1、四、4。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        208.51995849609375,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        203.83333333333334,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 92,
+      "rect": [
+        328.8,
+        236.46666666666667,
+        367.8666666666667,
+        246.21666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 与下一行题干极接近，底缘分块避开黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        348.5329895019531,
+        237.98826599121094,
+        367.3207702636719,
+        247.41973876953125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        329.5,
+        237.16666666666666,
+        367.1666666666667,
+        246.16666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.05
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 92,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        241.2,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：四、5（1）、四、5（2）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        245.23995971679688,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        240.5,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 93,
+      "rect": [
+        319.4666666666667,
+        498.8,
+        433.8666666666667,
+        509.2
+      ],
+      "text": "本题不唯一，其他可能见续页。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        320.2030029296875,
+        500.5993347167969,
+        438.7578125,
+        509.1014099121094
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        320.1666666666667,
+        499.5,
+        433.1666666666667,
+        508.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 93,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        179.2,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：一、5。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        182.9599609375,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        178.5,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 95,
+      "rect": [
+        78.8,
+        503.8,
+        174.53333333333333,
+        514.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        155.2050018310547,
+        505.5442810058594,
+        174.06320190429688,
+        515.0111083984375
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        79.5,
+        504.5,
+        173.83333333333334,
+        514.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 95,
+      "rect": [
+        77.8,
+        601.8,
+        173.86666666666665,
+        612.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        154.49000549316406,
+        603.4063110351562,
+        173.34820556640625,
+        612.8731689453125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        78.5,
+        602.5,
+        173.16666666666666,
+        612.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 96,
+      "rect": [
+        78.8,
+        85.46666666666667,
+        174.53333333333333,
+        96.53333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        155.2050018310547,
+        86.99630737304688,
+        174.06320190429688,
+        96.46311950683594
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        79.5,
+        86.16666666666667,
+        173.83333333333334,
+        95.83333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 96,
+      "rect": [
+        78.8,
+        233.8,
+        174.53333333333333,
+        245.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        155.2050018310547,
+        235.62631225585938,
+        174.06320190429688,
+        245.09312438964844
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        79.5,
+        234.5,
+        173.83333333333334,
+        244.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 96,
+      "rect": [
+        78.8,
+        288.8,
+        174.53333333333333,
+        299.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        155.2050018310547,
+        290.4963073730469,
+        174.06320190429688,
+        299.963134765625
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        79.5,
+        289.5,
+        173.83333333333334,
+        299.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 98,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        179.2,
+        834.8666666666667
+      ],
+      "text": "题源条件或资料口径说明见解析续页：二、1。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        182.9599609375,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        178.5,
+        834.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 100,
+      "rect": [
+        73.8,
+        136.8,
+        169.53333333333333,
+        147.86666666666665
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        150.2050018310547,
+        138.44131469726562,
+        169.06320190429688,
+        147.9081268310547
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        74.5,
+        137.5,
+        168.83333333333334,
+        147.16666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 100,
+      "rect": [
+        73.8,
+        233.8,
+        169.53333333333333,
+        245.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        150.2050018310547,
+        235.62631225585938,
+        169.06320190429688,
+        245.09312438964844
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        74.5,
+        234.5,
+        168.83333333333334,
+        244.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 100,
+      "rect": [
+        73.8,
+        351.8,
+        169.53333333333333,
+        362.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        150.2050018310547,
+        353.3563232421875,
+        169.06320190429688,
+        362.8231506347656
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        74.5,
+        352.5,
+        168.83333333333334,
+        362.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 100,
+      "rect": [
+        75.13333333333333,
+        494.1333333333333,
+        170.86666666666665,
+        505.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        151.63299560546875,
+        495.89630126953125,
+        170.4912109375,
+        505.3631286621094
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        75.83333333333333,
+        494.8333333333333,
+        170.16666666666666,
+        504.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 102,
+      "rect": [
+        34.13333333333333,
+        825.8,
+        222.2,
+        835.2
+      ],
+      "text": "题源条件或资料口径说明见解析续页：二、1（题干跨页）。",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        35.0,
+        825.4976196289062,
+        226.15994262695312,
+        834.9080200195312
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        34.833333333333336,
+        826.5,
+        221.5,
+        834.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 104,
+      "rect": [
+        150.13333333333335,
+        167.13333333333335,
+        217.53333333333333,
+        178.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        198.1909942626953,
+        168.71031188964844,
+        217.0491943359375,
+        178.1771240234375
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        150.83333333333334,
+        167.83333333333334,
+        216.83333333333334,
+        177.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 104,
+      "rect": [
+        132.8,
+        327.8,
+        196.86666666666665,
+        338.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        178.53799438476562,
+        329.5294189453125,
+        196.40379333496094,
+        338.498046875
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        133.5,
+        328.5,
+        196.16666666666666,
+        337.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 104,
+      "rect": [
+        149.13333333333335,
+        464.1333333333333,
+        216.53333333333333,
+        475.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        197.3159942626953,
+        465.8653564453125,
+        216.1741943359375,
+        475.3321838378906
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        149.83333333333334,
+        464.8333333333333,
+        215.83333333333334,
+        474.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 104,
+      "rect": [
+        175.8,
+        609.8,
+        243.2,
+        620.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        224.02902221679688,
+        611.5852661132812,
+        242.88723754882812,
+        621.0521240234375
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        176.5,
+        610.5,
+        242.5,
+        620.1666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 104,
+      "rect": [
+        153.46666666666667,
+        755.8,
+        217.53333333333333,
+        766.2
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        198.99002075195312,
+        757.4414672851562,
+        216.85581970214844,
+        766.4100952148438
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        154.16666666666666,
+        756.5,
+        216.83333333333334,
+        765.5
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 108,
+      "rect": [
+        70.8,
+        121.8,
+        166.53333333333333,
+        132.86666666666665
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.3470001220703,
+        123.42532348632812,
+        166.2052001953125,
+        132.8921356201172
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        71.5,
+        122.5,
+        165.83333333333334,
+        132.16666666666666
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 108,
+      "rect": [
+        70.8,
+        258.8,
+        166.53333333333333,
+        269.8666666666667
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.3470001220703,
+        260.5353088378906,
+        166.2052001953125,
+        270.00213623046875
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        71.5,
+        259.5,
+        165.83333333333334,
+        269.1666666666667
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 108,
+      "rect": [
+        70.8,
+        380.4666666666667,
+        166.53333333333333,
+        391.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.3470001220703,
+        381.96929931640625,
+        166.2052001953125,
+        391.4361267089844
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        71.5,
+        381.1666666666667,
+        165.83333333333334,
+        390.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 108,
+      "rect": [
+        70.8,
+        490.4666666666667,
+        166.53333333333333,
+        501.5333333333333
+      ],
+      "text": "续页",
+      "reason": "可见红色续页指引；横向红像素连通扩展覆盖同一行旧提示前缀，保留原黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        147.3470001220703,
+        491.9722900390625,
+        166.2052001953125,
+        501.4391174316406
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        71.5,
+        491.1666666666667,
+        165.83333333333334,
+        500.8333333333333
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 92,
+      "rect": [
+        331.25,
+        245.46666666666667,
+        367.8666666666667,
+        246.98333333333335
+      ],
+      "text": "续页",
+      "reason": "第92页提示下缘补块，仅盖红字；避开左下方下一行黑字。 复核长页试排后各侧扩至0.7pt以清除浅红抗锯齿边缘；遇邻近黑字按侧限制。",
+      "source_span_rect": [
+        348.5329895019531,
+        237.98826599121094,
+        367.3207702636719,
+        247.41973876953125
+      ],
+      "baseline_black_pixels_in_mask": 0,
+      "original_scan_black_pixels_in_mask": 0,
+      "previous_rect": [
+        331.0,
+        246.16666666666666,
+        367.1666666666667,
+        246.83333333333334
+      ],
+      "antialias_expansion_by_side_LRTB_pt": [
+        -0.25,
+        0.7,
+        0.7,
+        0.15
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0
+    },
+    {
+      "book_page": 20,
+      "rect": [
+        66.4409912109375,
+        709.219677734375,
+        197.35480041503905,
+        720.622119140625
+      ],
+      "text": "自由游总费用及比较、多解见",
+      "reason": "清除同一旧续页指引的前半行，补足原框遗漏的说明前缀；原结果与答句不动。 原v8实际放大核对，源bbox各侧扩0.7pt覆盖浅红边缘。",
+      "source_span_rect": [
+        67.1409912109375,
+        709.919677734375,
+        196.65480041503906,
+        719.922119140625
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0,
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    {
+      "book_page": 74,
+      "rect": [
+        65.01499633789062,
+        749.0476806640625,
+        152.05308837890624,
+        759.45
+      ],
+      "text": "第1题解答见下一页。",
+      "reason": "完整两问将嵌回本页该题内部，此数字红色跨页指引已不适用。 原v8实际放大核对，源bbox各侧扩0.7pt覆盖浅红边缘。",
+      "source_span_rect": [
+        65.71499633789062,
+        749.7476806640625,
+        151.35308837890625,
+        758.75
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0,
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    {
+      "book_page": 36,
+      "rect": [
+        67.16099243164062,
+        131.28062133789064,
+        212.75966186523436,
+        142.6830627441406
+      ],
+      "text": "两个锐角共90度，份数比为1:4。",
+      "reason": "完整解答已改用小角一份、大角四份、共五份的本阶段表达；只清除该旧红批整行，保留下面90÷(1+4)×4及各步。 原v8实际放大核对，源bbox各侧扩0.7pt覆盖浅红边缘。",
+      "source_span_rect": [
+        67.86099243164062,
+        131.98062133789062,
+        212.05966186523438,
+        141.98306274414062
+      ],
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0,
+      "antialias_expansion_by_side_LRTB_pt": [
+        0.7,
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    {
+      "book_page": 32,
+      "rect": [
+        66.4,
+        668.5,
+        117,
+        680.5
+      ],
+      "text": "其余分割、",
+      "reason": "full1实际放大后发现旧指引前缀残留。仅补盖该红色前缀，并与已有x116.133起的旧提示框相接；下方原红面积答语和右侧图形不动。源黑图3x灰度核验该框无灰/黑墨。",
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0,
+      "actual_ink_rect_full1_cleaned_a4": [
+        67.75,
+        669.25,
+        109.75,
+        678.25
+      ]
+    }
+  ],
+  "passed": true,
+  "source_pdf": "versions/before_margin_v8/answer_a4.pdf",
+  "source_map": "versions/before_margin_v8/answer_page_map_a4.json",
+  "count": 125,
+  "books": [
+    4,
+    8,
+    10,
+    12,
+    18,
+    19,
+    20,
+    23,
+    24,
+    27,
+    28,
+    31,
+    32,
+    33,
+    35,
+    36,
+    38,
+    39,
+    40,
+    43,
+    44,
+    46,
+    47,
+    48,
+    51,
+    52,
+    55,
+    56,
+    58,
+    59,
+    60,
+    63,
+    64,
+    65,
+    68,
+    74,
+    77,
+    80,
+    83,
+    85,
+    86,
+    90,
+    91,
+    92,
+    93,
+    95,
+    96,
+    98,
+    100,
+    102,
+    104,
+    108
+  ],
+  "actual_review_scope": "逐项查看120处旧提示的3倍裁切总览，放大第4、23、31、40、46、58、74、80、83、85、91、92、93、108页重点提示；108页抽文逐项查续页关键词，并要求目标有实际可见红像素。全部覆盖框与原v8及纯扫描在3倍栅格核对，黑字像素均为0。",
+  "excluded": [
+    {
+      "book_page": 67,
+      "text": "右侧红图：再平移。",
+      "reason": "图内运动阶段方向说明，不是解析续页指引，保留。"
+    }
+  ],
+  "unfinished": [],
+  "limitations": "仅清除原题108页的可见旧续页指引；完整答案新文字中的指引由主构建代码处理。第92页使用两块覆盖以避开下一行黑字。",
+  "antialias_revision": {
+    "scope": "在原掩膜基础上各侧尽可能扩0.7pt；4倍栅格，灰黑墨迹阈值210且RGB色差<55，基线及纯扫描均要求覆盖区0像素。比原阈值150更严格。",
+    "limited_by_neighboring_ink": [
+      {
+        "index": 3,
+        "book_page": 10,
+        "expansions_LRTB": [
+          0.15,
+          0.7,
+          0.7,
+          0.7
+        ]
+      },
+      {
+        "index": 64,
+        "book_page": 58,
+        "expansions_LRTB": [
+          0.7,
+          0.7,
+          0.25,
+          0.7
+        ]
+      },
+      {
+        "index": 96,
+        "book_page": 92,
+        "expansions_LRTB": [
+          0.7,
+          0.7,
+          0.7,
+          0.05
+        ]
+      },
+      {
+        "index": 120,
+        "book_page": 92,
+        "expansions_LRTB": [
+          -0.25,
+          0.7,
+          0.7,
+          0.15
+        ]
+      }
+    ],
+    "minimum_font_or_answer_content_changed": false
+  },
+  "late_revision": {
+    "added_masks": 3,
+    "added_original_pages": [
+      20,
+      74,
+      36
+    ],
+    "scope": "实际查看三处原页红注上下文后精准新增覆盖；四倍灰黑阈值210检查，基线与纯扫描覆盖区均为0像素。未更改前121框。",
+    "frozen": true
+  },
+  "late_revision_concise_B": {
+    "added": {
+      "book_page": 32,
+      "rect": [
+        66.4,
+        668.5,
+        117,
+        680.5
+      ],
+      "text": "其余分割、",
+      "reason": "full1实际放大后发现旧指引前缀残留。仅补盖该红色前缀，并与已有x116.133起的旧提示框相接；下方原红面积答语和右侧图形不动。源黑图3x灰度核验该框无灰/黑墨。",
+      "baseline_gray_ink_pixels_threshold_210": 0,
+      "original_scan_gray_ink_pixels_threshold_210": 0,
+      "actual_ink_rect_full1_cleaned_a4": [
+        67.75,
+        669.25,
+        109.75,
+        678.25
+      ]
+    },
+    "before_sha256": "3d138b77b5257885c5e2aa85524858a04ba5be6f376fcd2ebbfe36332eb61493",
+    "actual_check": "实际看full1 p032局部，核基底与原始扫描图像3x灰度像素，阈值210的暗像素均0。"
+  }
+}

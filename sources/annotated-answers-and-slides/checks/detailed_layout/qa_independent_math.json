@@ -1,0 +1,1018 @@
+{
+  "audit_type": "independent_sample_math_review",
+  "created_at_utc": "2026-11-02T00:36:37.672451+00:00",
+  "reviewer": "detail_math_audit",
+  "scope_statement": "实际独立审核以下58个key，覆盖全部4组，并非对867条记录或856条非空解析逐条独立计算。逐项阅读canonical题干、题内表图数据、新详细解析与旧concise短注；canonical答案仅作为待验主张，未视为真值。",
+  "reviewed_count": 58,
+  "group_counts": {
+    "A": 9,
+    "B": 8,
+    "C": 10,
+    "D": 31
+  },
+  "reviewed_keys": [
+    "p003_s07",
+    "p004_s05",
+    "p006_s02",
+    "p007_s08",
+    "p008_s05",
+    "p012_s02",
+    "p018_s01",
+    "p020_s04",
+    "p023_s16",
+    "p032_s04",
+    "p033_s09",
+    "p036_s03",
+    "p040_s01",
+    "p044_s04",
+    "p047_s03",
+    "p048_s04",
+    "p052_s01",
+    "p056_s01",
+    "p056_s03",
+    "p056_s04",
+    "p060_s04",
+    "p063_s02",
+    "p063_s07",
+    "p064_s03",
+    "p078_s04",
+    "p079_s01",
+    "p080_s01",
+    "p087_s01",
+    "p087_s02",
+    "p087_s03",
+    "p087_s04",
+    "p087_s05",
+    "p087_s06",
+    "p087_s07",
+    "p087_s08",
+    "p090_s01",
+    "p090_s02",
+    "p090_s03",
+    "p090_s04",
+    "p090_s05",
+    "p090_s06",
+    "p090_s07",
+    "p090_s08",
+    "p090_s09",
+    "p091_s01",
+    "p091_s02",
+    "p091_s04",
+    "p093_s05",
+    "p095_s07",
+    "p096_s01",
+    "p096_s02",
+    "p096_s03",
+    "p098_s01",
+    "p100_s02",
+    "p100_s04",
+    "p104_s02",
+    "p106_s06",
+    "p108_s04"
+  ],
+  "math_errors_found": 0,
+  "editorial_findings_count": 2,
+  "overall_result": "本抽样范围未发现新增实质数学错误；发现2处用词笔误，已即时通知主代理。源字未核清的题保留条件，不据此声称原图读数已解决。",
+  "findings": [
+    {
+      "key": "p090_s03",
+      "severity": "minor_editorial",
+      "observed_text": "人数仍是6",
+      "problem": "题干是6个数，不是6人；该新增名词与题目对象不符，虽不改变计算。",
+      "suggested_replacement": "数的个数仍是6",
+      "present_at_report_write": true,
+      "math_conclusion_affected": false
+    },
+    {
+      "key": "p079_s01",
+      "severity": "minor_editorial",
+      "observed_text": "三次金额合计仍相同",
+      "problem": "移多补少操作中的对象是三组捐款金额，“三次金额”指代不清。",
+      "suggested_replacement": "三组金额合计不变",
+      "present_at_report_write": true,
+      "math_conclusion_affected": false
+    }
+  ],
+  "reviewed_records": [
+    {
+      "key": "p003_s07",
+      "group": "A",
+      "category": "应用/同数异义",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "4×18=72；72−32=40；40÷4=10千克。另式把总量和已处理量均分4份后相减成立；每班4千克与4批明确区分。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p004_s05",
+      "group": "A",
+      "category": "24点/全枚举",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "按四数各用一次、每一步非负整数、只合并加乘交换的条件重新穷举，恰有5种结构，所有列式均为24。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p006_s02",
+      "group": "A",
+      "category": "应用/份数",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "每盒12个×15盒=180个；剩100个÷5班=20个。分别除以5再相减成立。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p007_s08",
+      "group": "A",
+      "category": "应用/费用分摊",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "桌款80×2=160元；椅款230−160=70元；70÷5=14元。另法每份总费用减每份桌款，未把两类商品直接平均。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p008_s05",
+      "group": "A",
+      "category": "加括号/全枚举",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "固定数与运算符次序的5个二叉括号树结果为10、60、30、240、60；允许嵌套最大240、最小10；只添一对最大60的限定正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p012_s02",
+      "group": "A",
+      "category": "长方形/单位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "对边距离对应边长；半周长42米减12米得30米，另一法扣24后除2也得30。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p018_s01",
+      "group": "A",
+      "category": "单价/单位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "288÷8=36元/盒，36÷3=12元/条；总条数3×8=24，288÷24=12，单位分别保留。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p020_s04",
+      "group": "A",
+      "category": "旅游/条件/单位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "按2成人1未满18岁儿童，团费6200元；往返机票5400元，5天3人两项食宿交通3600元，自由游9000元，差2800元。新注开头保留了家庭构成假设，未当成无条件已知。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": [
+        "conditional_family_composition"
+      ]
+    },
+    {
+      "key": "p023_s16",
+      "group": "A",
+      "category": "行程/条件",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "同地同时同向且5分钟内均未到校，速度差40米/分×5分=200米；分算1300−1100同值。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p032_s04",
+      "group": "B",
+      "category": "组合图形面积/多法",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "读canonical L形：下条41×18=738，上左18×19=342，总1080平方米；纵分666+414和补形1517−437均同值。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p033_s09",
+      "group": "B",
+      "category": "等腰三角形/分类",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "底角=(180−60)÷2=60度；三角均锐，按角分锐角；按边分等边。新增未沿用旧短注无关的直角三角形提示。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p036_s03",
+      "group": "B",
+      "category": "五边形/角度/课程范围",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "由同一顶点分3个三角形得总角540度，等分5个内角108度；两旁小角各36度；中角36度。两种角度推导无需借用未解释的多边形内角公式或外角定理。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p040_s01",
+      "group": "B",
+      "category": "三角形外角/课程范围",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "内角3=180−75−60=45度；外侧平角余角135度。外角=另两内角之和由两个180度扣共同角推出，未直接要求新定理。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p044_s04",
+      "group": "B",
+      "category": "倍数应用/单位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "五年级275×2−50=500千克，总775千克÷25=31棵；按三份换算33−2、两部分11+20均31。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p047_s03",
+      "group": "B",
+      "category": "角度/多法",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "角2=180−138=42度；角1=180−61−42=77度。直接138−61由共同角消去得到，依据充分。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p048_s04",
+      "group": "B",
+      "category": "票价/条件",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "国庆属于旺季；儿童20×90=1800元、成人30×20=600元，余600元；全按儿童后补20位老师每人10元的费用正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p052_s01",
+      "group": "B",
+      "category": "质量换算/课程范围",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "10千克=10000克=100份100克，81.5×100=8150克=8.15千克；另法只用乘10和单位换算，无需一般小数乘法。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p056_s01",
+      "group": "C",
+      "category": "单位/平均分/课程范围",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "3.75吨=3750千克，总件数20×5=100，平均37.5千克；分车再分件可把÷20拆÷2÷10；10000件375000千克。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p056_s03",
+      "group": "C",
+      "category": "小数总分/排名",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "三人总分199、215.5、247，3号最高；28.75+76.25=105、89.25+75.75=165均确为整数，简便叙述匹配。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p056_s04",
+      "group": "C",
+      "category": "开放规则/排名",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "各去最低轮后，三人170.25、182.5、171.25，2号最高；新注明确同一规则及非唯一，未强称唯一规则。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p060_s04",
+      "group": "C",
+      "category": "凑整/购物",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "26.35+13.65=40，三项89.8元，余10.2元；把该对称为凑成40与实算匹配。按每类一件的常规购货模型写明。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p063_s02",
+      "group": "C",
+      "category": "运算变形/简便名称",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "35−3.7+6.3=35+(6.3−3.7)=37.6；没有直接成整数的配对，新注明确不称凑整；保留减号后重排说明足以避免减去和。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p063_s07",
+      "group": "C",
+      "category": "单位/分段",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "2米=200厘米，扣入泥16与露出54后130厘米=1.3米；米法2−0.16−0.54同值，非水深两段均扣除。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p064_s03",
+      "group": "C",
+      "category": "小数应用/单位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "10月1.8−0.26=1.54万箱，总3.34万箱；两份1.8仅扣一次0.26成立，万箱单位一致。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p078_s04",
+      "group": "C",
+      "category": "平均年龄/歧义",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "若平均A，甲A+6、乙A−6，则丙A；A未知，示例(16,4,10)与(26,14,20)均成立。B和按具体岁数理解的D可同时成立，限定保留。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p079_s01",
+      "group": "C",
+      "category": "平均每组/移多补少",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "总600元÷3组=200元；224移22和2后200，178+22和198+2均200，人数9/11/10不作组平均分母。发现新注“三次金额”用词笔误。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": [
+        "editorial_issue"
+      ]
+    },
+    {
+      "key": "p080_s01",
+      "group": "C",
+      "category": "容斥/枚举名单",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "两名单6、5人，交集王晴/赵磊/周敏3人；并集8人，三个不交区域3、3、2人，姓名分类一致。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p087_s01",
+      "group": "D",
+      "category": "轴对称/原图",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "查看原A4第91页：虚线竖轴，原顶点距轴2或3格，两个轴上端点不动；新注逐点对应描述吻合。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p087_s02",
+      "group": "D",
+      "category": "旋转后平移/原图",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "查看原图：三角形先绕O顺时针90度，再向左3格；新注旋转中心不动、点到O距离不变及从旋转后顶点起平移正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p087_s03",
+      "group": "D",
+      "category": "平移/原图",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "查看原图与标①红图：每点上3右5；边长朝向不变，不把起点算作1格正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p087_s04",
+      "group": "D",
+      "category": "旋转/原图",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "原图从O向左3格的边，顺时针转后向上3格，与标②红图吻合；本小问针对原图而非前问图。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p087_s05",
+      "group": "D",
+      "category": "轴对称/原图",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "原三角形另两顶点均在O左3格，关于经过O的竖轴映到右3格；标③及新注一致。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p087_s06",
+      "group": "D",
+      "category": "高/原图",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "查看原图三角形与平行四边形标底在下、梯形标底在上；相应顶点向底所在直线作垂线段及垂足直角符合。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p087_s07",
+      "group": "D",
+      "category": "点到点最短/原图",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "查看原图王庄与加油站为固定位置；直接连线为两点间最短，不误以到公路的垂足替代加油站。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p087_s08",
+      "group": "D",
+      "category": "点到直线距离/原图",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "查看公路双边线，王庄在公路外侧；到靠近王庄的边线的垂线段为到公路最短路，垂足直角位置正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p090_s01",
+      "group": "D",
+      "category": "平均数/数据个数",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "求4次温度8/15/26/19的平均，应(8+15+26+19)÷4=17度；时刻不是平均数据，除数不取24。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p090_s02",
+      "group": "D",
+      "category": "平均数/无正确选项",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "有序a满足81≤a≤87；其余和336，总平均83.4至84.6，四选项72/85/95/96均不在内，不能自取整85。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p090_s03",
+      "group": "D",
+      "category": "平均数/无正确选项",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "6个数平均增10，总和增60；改后80故原20，原四选项均非20。发现新注误写“人数”，应为数的个数。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": [
+        "editorial_issue"
+      ]
+    },
+    {
+      "key": "p090_s04",
+      "group": "D",
+      "category": "小数口算/借退位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "四式0.9、0.3、8、0.4；第三式十分位满10进1，第四式从个位退1，新增解释准确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p090_s05",
+      "group": "D",
+      "category": "小数口算/进位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "四式1.6、6、9.1、10；第2与第4小数部分相同，第3十分位3+8=11进1，解释一致。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p090_s06",
+      "group": "D",
+      "category": "小数竖式/数位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "15.05+2.63=17.68，无进位；百分位5+3、十分位0+6、保留十位1均正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p090_s07",
+      "group": "D",
+      "category": "小数竖式/借位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "9.06−2.50=6.56；百分位6−0，十分位向个位9退1变10−5，个位余8−2，新增逐位过程正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p090_s08",
+      "group": "D",
+      "category": "小数竖式/进位",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "5.70+12.34=18.04；十分位7+3=10进1写0，个位5+2+1=8，中间0须保留。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p090_s09",
+      "group": "D",
+      "category": "小数减法/验算",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "12.80−1.24=11.56；百分位从十分位8退1；差+减数=12.80=12.8，验算方向正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p091_s01",
+      "group": "D",
+      "category": "源字缺损/平均数条件",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "按96/88/92/88总364÷4=91；以88作基准多12÷4=3；备选96/88/82/18总284÷4=71。两套计算皆正确，缺损并未假装核清。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": [
+        "source_reading_remains_uncertain"
+      ]
+    },
+    {
+      "key": "p091_s02",
+      "group": "D",
+      "category": "不等人数平均/基准法",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "男身高总1056、女1704，总2760÷20=138厘米；基准132+120÷20=138，明确不把两均值直接平均。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p091_s04",
+      "group": "D",
+      "category": "源字重影/平均数条件",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "按2500平均：总7500−2700−2200=2600；相对平均偏差+200−300需丙+100。若平均3000，则4100；条件限定保留。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": [
+        "source_reading_remains_uncertain"
+      ]
+    },
+    {
+      "key": "p093_s05",
+      "group": "D",
+      "category": "三角形组合/全枚举",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "从两种长度取3根无序多重集恰4组：24/24/24、24/24/48、24/48/48、48/48/48；退化组排除，库存足够时周长72/120/144；同时用两长度才唯一120。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p095_s07",
+      "group": "D",
+      "category": "加权平均/基准法",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "前3天63页+后2天27页=90，÷5=18页；每日21页基准少15页÷全部5天=3，21−3=18。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p096_s01",
+      "group": "D",
+      "category": "跨页购货/等价费用",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "补读前页p095_s08：鸡蛋12元/千克、奶36元；实付84元减奶36元=48元，÷12=4千克。另法84÷12−36÷12=4为费用等值换算，未混实物单位。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p096_s02",
+      "group": "D",
+      "category": "阶梯收费/单价×数量",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "105电量：2×100+3×5=215元；全按高价315元扣前100度差价100元得215，数量归属与乘法意义正确。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p096_s03",
+      "group": "D",
+      "category": "阶梯收费逆推/条件",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "260>200先确定第二档；扣200余60÷3=20，再加首100得120千瓦时。补差100后360÷3也120，超档条件未遗漏。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p098_s01",
+      "group": "D",
+      "category": "跨页等腰梯形/分割",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "补读p097_s07得周长10、两底2/4，腰各2。所给分割平行四边形DE=AB=2、BE=AD=2，EC=2、BC=2，三角形周长6米。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p100_s02",
+      "group": "D",
+      "category": "净收入/跨问",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "补读p100_s01：上午32×15+24×12=768元；核桃净43×80=3440，全天4208元；服务费2×80=160只扣核桃。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p100_s04",
+      "group": "D",
+      "category": "相向行程/两法",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "3小时共行720−240=480千米，速度和160，乙70；另求乙路210÷3=70；结尾“约”保留题干约720的意义。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p104_s02",
+      "group": "D",
+      "category": "买赠/单位/课程范围",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "总12双含赠品按6双一组共2组，付10双，4.68×10=46.8元；分法468×12−468×2=4680分=46.8元，避免一般小数乘整数。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p106_s06",
+      "group": "D",
+      "category": "乘法分配律/图示/份数",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "查看原A4第110页：①原图每行3个共6行；②每列3个共4列。①旋转后再并排才每列3个共10列；3×6+3×4=3×(6+4)，每份数×份数始终一致。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    },
+    {
+      "key": "p108_s04",
+      "group": "D",
+      "category": "加权平均/基准法",
+      "math_result": "no_error_found_in_reviewed_reasoning",
+      "independent_check": "前4天总2500米、后3天2400米，总4900÷7=700米；每日800基准前4天少700，平均扣全周100得700，未直接平均两个不同含义的数。",
+      "source_read": [
+        "canonical_question",
+        "canonical_answer_checked_as_claim_not_truth",
+        "old_concise_note",
+        "new_detailed_note"
+      ],
+      "flags": []
+    }
+  ],
+  "exhaustive_checks": {
+    "p004_s05": {
+      "method": "以精确分数逐个二叉树、拆分、四则运算枚举所有四数各用一次的表达式；每一步过滤负数、非整数和除零，仅以排序合并加乘交换。",
+      "solution_count": 5,
+      "canonical_structures": [
+        "((1+9)*3)-6",
+        "((3-1)*9)+6",
+        "((6-1)*3)+9",
+        "((9/3)+1)*6",
+        "(6-3)*(9-1)"
+      ]
+    },
+    "p008_s05": {
+      "method": "固定四数及÷、−、÷的次序，列出全部5种完全括号树。",
+      "values_in_tree_order": [
+        10,
+        60,
+        30,
+        240,
+        60
+      ]
+    },
+    "p093_s05": {
+      "method": "按48厘米竹条根数0、1、2、3分组，检验三角形两短边之和大于最长边。",
+      "candidate_multisets": [
+        [
+          24,
+          24,
+          24
+        ],
+        [
+          24,
+          24,
+          48
+        ],
+        [
+          24,
+          48,
+          48
+        ],
+        [
+          48,
+          48,
+          48
+        ]
+      ],
+      "valid_perimeters_with_sufficient_stock": [
+        72,
+        120,
+        144
+      ]
+    }
+  },
+  "visual_source_checks": [
+    {
+      "book_page": 87,
+      "pdf": "recovered/annotated_a4_128.pdf",
+      "physical_page_1based": 91,
+      "keys": [
+        "p087_s01",
+        "p087_s02",
+        "p087_s03",
+        "p087_s04",
+        "p087_s05",
+        "p087_s06",
+        "p087_s07",
+        "p087_s08"
+      ],
+      "inspection": "整页栅格原图及红绘图实际查看，核查顶点格数、变换顺序、高、加油站点位与公路边线。"
+    },
+    {
+      "book_page": 106,
+      "pdf": "recovered/annotated_a4_128.pdf",
+      "physical_page_1based": 110,
+      "keys": [
+        "p106_s06"
+      ],
+      "inspection": "实际查看图①为3列6行，图②为4列3行，拼图为10列3行；核查旋转前后的每行/每列描述。"
+    }
+  ],
+  "context_only_keys_not_counted": [
+    "p095_s08",
+    "p097_s07",
+    "p100_s01"
+  ],
+  "limitations": [
+    "未对未列出的记录声称独立计算或独立复核。",
+    "除87页与106页外，几何题依据canonical的TikZ与数量关系复算，未逐个回看纸书原图。",
+    "p091_s01与p091_s04只验证各个明确列出的读数条件下的推理，未核清缺损或重影的原始数字。",
+    "p020_s04的2800元差额仍依赖2成人1未满18岁儿童的显式假设；未凭“一家3口”独立确认年龄构成。",
+    "本文件不改变任何notes或题目文件。"
+  ],
+  "reviewed_note_file_sha256": {
+    "notes_A.json": "c99811e7d0585ad481d9a2385812914c6923bb666c4daea6fd237f59ebd0833b",
+    "notes_B.json": "2f5eb2b7c67e43061481c1f5304135aebe1f95ef175aa878c527df6bcef1cf86",
+    "notes_C.json": "584b9c86b0d577b9b0ff8fc91517c3c25fd10a23afc249e880cfb6d994e9383a",
+    "notes_D.json": "ae8d29c43010d42be1f7330ad315b4319f2ee391b7a52760d3541aabf8799dc1"
+  }
+}

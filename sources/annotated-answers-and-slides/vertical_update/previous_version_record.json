@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-06",
+  "previous_pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "current_pdf_sha256": "a171f4fbe834ad9963d709d86b7b4c0bb88f84cc9025b57acac35a07000ffa90",
+  "format": "三栏楷体红笔解析",
+  "visible_note_blocks": 856,
+  "relocated_original_prose_rows": 42,
+  "pages": 128,
+  "first_page_blank": true,
+  "current_checks": [
+    "threecols_update/qa.json",
+    "threecols_update/qa_source_graph.json"
+  ],
+  "previous_record": "threecols_update/previous_version_record.json"
+}

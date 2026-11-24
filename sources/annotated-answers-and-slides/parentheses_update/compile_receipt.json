@@ -1,0 +1,16 @@
+{
+  "snippets": 929,
+  "local_patches": 73,
+  "compiled_tex": "/workspace/scratch/1facfb035d44/paren75_review/project/parentheses_update/compiled/详细题内答案.tex",
+  "compiled_pdf": "/workspace/scratch/1facfb035d44/paren75_review/project/parentheses_update/compiled/snippets_frozen.pdf",
+  "source_files": {
+    "detailed_layout/notes_A.json": "31af5546e177e187544cf7d69e3d69f7b375422518227e6c6c2e034d01549b41",
+    "detailed_layout/notes_B.json": "3a45ca6d57836f63e9498f912fa44d5a6d2f03e4f72adbaf2280576d117a4d46",
+    "detailed_layout/notes_C.json": "55214dcd66584325e1e7bc02aa0f35fb15b35e10f3c7c2969557b239e4e290bd",
+    "detailed_layout/notes_D.json": "89d726176eb1592e08aea7827c45e12eb27b77087d0acad1f9174828bbc9eca6",
+    "inline_layout/slots_A.json": "a558021a7eab7f101b8c80e4a6910bd99afea2b94257f9eecfe979e5a379cebc",
+    "inline_layout/slots_B.json": "783899eaeb800e73328d5cbed9d45ff348a2c7c611a95908c89119805ef6b683",
+    "inline_layout/slots_C.json": "c88e9895afe56b338b60319ff07bd369bf61d73a2380f41fd89bd3dc47bcf73b",
+    "inline_layout/slots_D.json": "0d7944534c0b66887c719fedda9cd9d703b4c782d74f7f3abdff6bd3f3d6e8ef"
+  }
+}

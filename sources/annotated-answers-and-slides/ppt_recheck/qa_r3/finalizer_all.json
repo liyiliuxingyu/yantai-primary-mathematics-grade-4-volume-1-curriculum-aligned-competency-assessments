@@ -1,0 +1,361 @@
+[
+  {
+    "finalPath": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/validated_r3/小学四上同步素养卷第5册讲解课件答案.pptx",
+    "receiptPath": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/qa_r3/finalizer_v5.json",
+    "schemaVersion": "presentation-finalization.v1",
+    "finalSha256": "908da19faeb06de40270ed0e12c6586232fe743490f91e4f185c42a24dd3044c",
+    "byteCount": 5565987,
+    "packageIntegrity": {
+      "chart_count": 0,
+      "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+      "finding_count": 0,
+      "findings": [],
+      "notes_parts_skipped": 430,
+      "relationship_part_count": 870,
+      "slide_count": 430,
+      "status": "pass",
+      "exitCode": 0,
+      "findingCount": 0,
+      "warnings": []
+    },
+    "presentationLayout": {
+      "finding_count": 0,
+      "findings": [],
+      "font_policy": {
+        "checked_text_script_count": 6406,
+        "native_font_rendering_verified": false,
+        "observed_font_families": [
+          "Droid Sans Fallback"
+        ],
+        "observed_font_use_counts": {
+          "Droid Sans Fallback": 6406
+        },
+        "passed": true,
+        "performed": true
+      },
+      "slide_count": 430,
+      "slide_size_in": [
+        13.3333,
+        7.5
+      ],
+      "warning_count": 0,
+      "warnings": [],
+      "exitCode": 0,
+      "findingCount": 0,
+      "fontPolicy": {
+        "checked_text_script_count": 6406,
+        "native_font_rendering_verified": false,
+        "observed_font_families": [
+          "Droid Sans Fallback"
+        ],
+        "observed_font_use_counts": {
+          "Droid Sans Fallback": 6406
+        },
+        "passed": true,
+        "performed": true
+      }
+    },
+    "fontSelection": {
+      "basis": "reference",
+      "approvedFamilies": [
+        "Droid Sans Fallback"
+      ],
+      "scriptFonts": {},
+      "referenceSha256": "13b58d1bad2535fb8f465c9aee782ca32ec18fe8134a011e4c2415ab4bb53511",
+      "referenceFontsVerifiedInEncodedText": true,
+      "checked_text_script_count": 6406,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Droid Sans Fallback"
+      ],
+      "observed_font_use_counts": {
+        "Droid Sans Fallback": 6406
+      },
+      "passed": true,
+      "performed": true
+    },
+    "firstPartyImport": {
+      "performed": true,
+      "passed": true,
+      "slideCount": 430,
+      "sha256": "908da19faeb06de40270ed0e12c6586232fe743490f91e4f185c42a24dd3044c",
+      "nodeExecutable": "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/bin/node"
+    },
+    "nativeTableArithmetic": {
+      "performed": true,
+      "checked_column_count": 0,
+      "checks": [],
+      "claim_boundary": "Displayed-value arithmetic with rounding tolerance; not source-data verification.",
+      "eligible_table_count": 0,
+      "finding_count": 0,
+      "findings": [],
+      "native_table_count": 45,
+      "passed": true,
+      "schema_version": "presentation-native-table-arithmetic.v1",
+      "skipped_tables": [
+        {
+          "reason": "insufficient_rows",
+          "slide": 54,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 59,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 63,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 66,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 67,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 73,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 74,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 76,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 77,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 78,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 80,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 80,
+          "table": 2
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 82,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 83,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 84,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 85,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 87,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 99,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 100,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 103,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 104,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 107,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 108,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 109,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 112,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 133,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 137,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 140,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 144,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 156,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 158,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 158,
+          "table": 2
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 161,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 163,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 167,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 169,
+          "table": 1
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 173,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 256,
+          "table": 1
+        },
+        {
+          "reason": "no_unambiguous_bottom_total",
+          "slide": 260,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 274,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 274,
+          "table": 2
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 275,
+          "table": 1
+        },
+        {
+          "reason": "insufficient_rows",
+          "slide": 275,
+          "table": 2
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 275,
+          "table": 3
+        },
+        {
+          "reason": "no_numeric_amounts",
+          "slide": 275,
+          "table": 4
+        }
+      ],
+      "slide_count": 430,
+      "warning_count": 0,
+      "warnings": []
+    },
+    "nativeChartTitles": {
+      "performed": true,
+      "checks": [],
+      "finding_count": 0,
+      "findings": [],
+      "native_chart_count": 0,
+      "native_powerpoint_verified": false,
+      "passed": true,
+      "presentation_sha256": "908da19faeb06de40270ed0e12c6586232fe743490f91e4f185c42a24dd3044c",
+      "schema_version": "presentation-native-chart-titles.v1",
+      "slide_count": 430,
+      "source_text_emitted": false,
+      "unresolved_linked_title_count": 0
+    },
+    "sourceDerivedPolicyFlags": [
+      "--expected-slide-size-emu",
+      "12192000,6858000",
+      "--validate-bullet-geometry",
+      "--validate-heading-fit",
+      "--cover-role",
+      "none",
+      "--expected-slide-count",
+      "430",
+      "--approved-font-family",
+      "Droid Sans Fallback"
+    ],
+    "nativeChartValidation": {
+      "detectedOwnerSlides": [],
+      "detectedChartCount": 0,
+      "targetApplication": "portable",
+      "sourceChartOwnersExplicitlyDeclared": true,
+      "validatorRan": false,
+      "passed": true
+    }
+  }
+]

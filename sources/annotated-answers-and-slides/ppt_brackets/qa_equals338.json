@@ -1,0 +1,14 @@
+{
+  "slide": 338,
+  "volume": 1,
+  "baseline_and_current_equal_sign_rect": [
+    615,
+    365,
+    655,
+    418
+  ],
+  "equal_sign_pixels_identical": true,
+  "baseline_contains_one_logical_equals_object": true,
+  "logical_name": "p015_s07_b004_4_simplify_steps_simplify_equals2",
+  "interpretation": "No duplicate logical equals in OOXML; exact old rendering retained in this unmodified equals region."
+}

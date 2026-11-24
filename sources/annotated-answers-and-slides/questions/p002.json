@@ -1,0 +1,249 @@
+{
+  "book_page": 2,
+  "source_page": 6,
+  "title": "",
+  "records": [
+    {
+      "key": "p002_s01",
+      "book_page": 2,
+      "source_page": 6,
+      "section_index": 0,
+      "id": "一、7（续）",
+      "kind": "fill",
+      "question_latex": "（接原书第1页第7题）王叔叔步行2分钟走130米，后来又步行32分钟。\\(130+130\\div2\\times32\\)算式求的问题是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "“照这样计算”表示速度保持不变。先由前一段求\\(130\\div2=65\\text{(米/分)}\\)，再用“路程\\(=\\)速度\\(\\times\\)时间”分别求后段或全程。\\par 应填“一共走了多少米”。\\[\\begin{aligned}&130+130\\div2\\times32\\\\&=130+65\\times32\\\\&=130+2080\\\\&=2210\\text{(米)}\\end{aligned}\\]\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{另一方法：先合并时间}\\par \\[\\begin{aligned}&130\\div2\\times(2+32)\\\\&=65\\times34\\\\&=2210\\text{(米)}\\end{aligned}\\]\\end{minipage}\\par \\par\\textbf{简便提示（学完运算律后）}\\par 先求速度的主法保留。计算后段路程时，可用整数乘除的关系先算32除以2；若先合并总时间34分钟，也可先算34除以2。只调整数值计算的次序，没有把32分钟改成总时间。\\[\\begin{aligned}&130+130\\div2\\times32\\\\={}&130+130\\times(32\\div2)\\\\={}&130+130\\times16\\\\={}&130+2080\\\\={}&2210\\text{(米)}\\end{aligned}\\]先合并时间的一路可简算为：\\[\\begin{aligned}&130\\div2\\times(2+32)\\\\={}&130\\div2\\times34\\\\={}&130\\times(34\\div2)\\\\={}&130\\times17\\\\={}&2210\\text{(米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "总时长34分钟，速度65米/分，总路程2210米。",
+        "changes": [
+          "本轮复核：同速度式中的32、34都能先除2；把65乘32/34改成130乘16/17，后者可用整十数乘法口算，原按运算顺序求速度的主法仍保留。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p002_s02",
+      "book_page": 2,
+      "source_page": 6,
+      "section_index": 1,
+      "id": "一、8",
+      "kind": "application",
+      "question_latex": "学校手工社团买来320米长的绳子。做手工时，先剪了15段，每段长6米，又剪了48米备用，还剩下（    ）米绳子。梳理条件信息，应先求（    ），再求（    ），最后求（    ）。列综合算式为：（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "三个文字空依次可填：\\textbf{做手工用去的米数、共用去的米数、剩下的米数}；数值空填\\(182\\)。综合算式可填\\(320-(6\\times15+48)\\)。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先合计用去的长度}\\par \\[\\begin{aligned}&320-(6\\times15+48)\\\\&=320-(90+48)\\\\&=320-138\\\\&=182\\text{(米)}\\end{aligned}\\]答：还剩\\(182\\)米绳子。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：依剪绳的次序扣除}\\par \\[\\begin{aligned}&320-6\\times15-48\\\\&=320-90-48\\\\&=230-48\\\\&=182\\text{(米)}\\end{aligned}\\]答：还剩\\(182\\)米绳子。\\end{minipage}\\par \\par 回顾检验：\\(182+6\\times15+48=320\\)，即“剩下的\\(+\\)手工用去的\\(+\\)备用的\\(=\\)总长”，与题意相符。",
+      "verification": {
+        "status": "verified",
+        "reason": "已剪90+48=138米，剩182米，数量关系6×15为每段长×段数。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p002_s03",
+      "book_page": 2,
+      "source_page": 6,
+      "section_index": 2,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "计算\\(4\\times25\\div25\\times4\\)的结果，正确的是（    ）。",
+      "options": [
+        "A.1",
+        "B.16",
+        "C.0",
+        "D.都不对"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。乘除同级，从左往右：\\(4\\times25\\div25\\times4=100\\div25\\times4=16\\)。也可把\\(\\times25\\div25\\)抵消，剩\\(4\\times4=16\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "乘除同级左到右100÷25×4=16，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p002_s04",
+      "book_page": 2,
+      "source_page": 6,
+      "section_index": 3,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "计算\\(21\\times[950\\div(22+28)-12]\\)时，运算顺序是（    ）。",
+      "options": [
+        "A.加→减→乘→除",
+        "B.除→加→减→乘",
+        "C.加→除→减→乘",
+        "D.加→除→乘→减"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm C\\)。先算\\(22+28\\)，再算\\(950\\div50\\)，接着减\\(12\\)，最后乘\\(21\\)；顺序为“加、除、减、乘”。",
+      "verification": {
+        "status": "verified",
+        "reason": "先小括号加，除，中括号减，最后乘，C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p002_s05",
+      "book_page": 2,
+      "source_page": 6,
+      "section_index": 4,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "如果\\(90\\times35-25\\div5\\)先算减法，再算除法，最后算乘法，正确的算式是（    ）。",
+      "options": [
+        "A.\\(90\\times(35-25)\\div5\\)",
+        "B.\\(90\\times[(35-25)\\div5]\\)",
+        "C.\\(90\\times(35-25\\div5)\\)",
+        "D.\\((90\\times35-25)\\div5\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。先减得到\\(35-25\\)，再将这个差除以\\(5\\)，最后乘\\(90\\)，应写\\(90\\times[(35-25)\\div5]\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "减法结果须先除5，所得商才与90相乘，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p002_s06",
+      "book_page": 2,
+      "source_page": 6,
+      "section_index": 5,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "豆豆不小心将作业本弄脏了，遮住了解决问题的部分内容。已知爸爸往物业费账户里充值了945元，第一季度扣除了405元。豆豆列式\\((945-405)\\div(405\\div3)=4\\)（个）。本题想要解决的问题是（    ）。",
+      "options": [
+        "A.物业费账户里还剩多少元",
+        "B.一共需要缴纳多少元物业费",
+        "C.物业费账户里的钱够扣除几个月",
+        "D.物业费账户里剩余的钱够扣除几个月"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm D\\)。\\(945-405\\)是账户余额，\\(405\\div3\\)是每月物业费；“余额\\(\\div\\)每月费用”求剩余的钱够交几个月。",
+      "verification": {
+        "status": "verified",
+        "reason": "945−405为剩余钱，405÷3为每月费用，商为剩余钱够扣月数，D。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p002_s07",
+      "book_page": 2,
+      "source_page": 6,
+      "section_index": 6,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "爸爸带豆豆去离家2000米的图书馆看书，父子俩步行速度是70米/分，他们从家出发25分钟后，位置大约在（    ）处。",
+      "options": [
+        "A.A处",
+        "B.B处",
+        "C.C处",
+        "D.D处"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm]\\draw(0,0)--(7,0);\\foreach \\x/\\t in {0/豆豆家,3.5/A,4.25/B,6.05/C,7/图书馆}{\\draw(\\x,0)--(\\x,.12);\\node[below]at(\\x,0){\\t};}\\node[above]at(7,.12){D};\\node[above]at(3.5,.4){全程2000米};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "字母位置根据原图相对位置示意；图无等分刻度，不添加虚构数值。",
+          "name": "p002_s07_g1"
+        }
+      ],
+      "answer_latex": "选\\(\\mathrm C\\)。父子\\(25\\)分钟走\\(70\\times25=1750\\)米，距图书馆还剩\\(2000-1750=250\\)米，即全程的八分之一。图中与此位置最接近的是\\(C\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "70×25=1750米，为全程7/8，接近图书馆C处。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p002_s08",
+      "book_page": 2,
+      "source_page": 6,
+      "section_index": 7,
+      "id": "三、1",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(84\\div4=\\ \\)，\\(23\\times3=\\ \\)，\\(360\\times4=\\ \\)，\\(8+36\\div4+8=\\ \\)，\\(163-45=\\ \\)，\\(98\\div7=\\ \\)，\\(84\\div6=\\ \\)，\\((28+32)\\div5=\\ \\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按题目从左到右、先上后下，得数依次为\\(21,69,1440,25\\)；\\(118,14,14,12\\)。\\par 其中\\(8+36\\div4+8=8+9+8=25\\)，\\((28+32)\\div5=60\\div5=12\\)；其余直接做整数乘除或减法。",
+      "verification": {
+        "status": "verified",
+        "reason": "逐式独立验得21、69、1440、25、118、14、14、12。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

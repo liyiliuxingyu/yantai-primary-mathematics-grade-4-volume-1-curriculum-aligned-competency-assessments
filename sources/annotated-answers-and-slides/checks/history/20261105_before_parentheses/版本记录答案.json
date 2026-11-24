@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-05",
+  "previous_pdf_sha256": "0a6f9c0fce5f7b33811450ece77e360af0e482faabd72c4f1ea35477b66cf4ea",
+  "current_pdf_sha256": "8dc0adf438a2798377532f7b1045bc80399f3d8556d781b3f2a33c2102cd2617",
+  "changed_keys": [
+    "p002_s01",
+    "p003_s05",
+    "p003_s07",
+    "p005_s05",
+    "p007_s05",
+    "p011_s08",
+    "p015_s08",
+    "p024_s03",
+    "p025_s17",
+    "p030_s10",
+    "p031_s08",
+    "p032_s02",
+    "p039_s05",
+    "p042_s09",
+    "p044_s01",
+    "p052_s01",
+    "p054_s07",
+    "p056_s01",
+    "p057_s03",
+    "p058_s02",
+    "p073_s07",
+    "p074_s04",
+    "p075_s03",
+    "p075_s05",
+    "p077_s06",
+    "p083_s04",
+    "p084_s01",
+    "p084_s02",
+    "p088_s03",
+    "p089_s07",
+    "p091_s03",
+    "p098_s02",
+    "p100_s02",
+    "p104_s03",
+    "p104_s05",
+    "p108_s03"
+  ],
+  "changed_book_pages": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    15,
+    24,
+    25,
+    30,
+    31,
+    32,
+    39,
+    42,
+    44,
+    52,
+    54,
+    56,
+    57,
+    58,
+    73,
+    74,
+    75,
+    77,
+    83,
+    84,
+    88,
+    89,
+    91,
+    98,
+    100,
+    104,
+    108
+  ],
+  "changes_by_kind": {
+    "simplification": 33,
+    "multiplication_mental_hint": 1,
+    "source_answer_conflict_clarification": 1,
+    "method_classification": 1
+  },
+  "audit_coverage": [
+    {
+      "file": "reaudit_1_36.json",
+      "sha256": "ebc592fd612ddd977ee9810b67ce2bf401706a3c9618242abc5e62c447170449",
+      "book_pages": [
+        1,
+        36
+      ],
+      "records_read": 327,
+      "candidates": 12
+    },
+    {
+      "file": "reaudit_37_72.json",
+      "sha256": "0720aac85e4682a7ebe9fbcab43c8f37756d975eab1916df0d7e35a6071c912e",
+      "book_pages": [
+        37,
+        72
+      ],
+      "records_read": 278,
+      "candidates": 8
+    },
+    {
+      "file": "reaudit_73_108.json",
+      "sha256": "51ea6941d71ab84cdcc4495fdeb9b5fab2ad227f33a51d657180be13da5076c8",
+      "book_pages": [
+        73,
+        108
+      ],
+      "records_read": 262,
+      "candidates": 14
+    }
+  ],
+  "current_evidence": "recheck_update/qa_current.json",
+  "ppt_evidence": [
+    {
+      "path": "project/ppt_recheck/qa_final.json",
+      "sha256": "0ef8fef3f63d6354ba18cc49bccf9a653e41db79aa31f37e9e96414218c7cae8",
+      "volumes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "powerpoint_playback_tested": false,
+  "source_conflict": "74页二4原图平均15千克，加入39千克，当前按题面保留C；若原平均为45千克则A。未据书后字母擅改原题。"
+}

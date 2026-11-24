@@ -1,0 +1,44 @@
+{
+  "passed": true,
+  "previous_pdf_sha256": "8dc0adf438a2798377532f7b1045bc80399f3d8556d781b3f2a33c2102cd2617",
+  "pdf_sha256": "6753f42510d3bfbcd3a63776cc9a78eaa43f258b1dc79861b36fd33c62510c00",
+  "changed_book_pages": [
+    75
+  ],
+  "changed_question_keys": [
+    "p075_s03"
+  ],
+  "old_formula_do_operation_removed": true,
+  "old_note_do_operation_removed": true,
+  "old_formula_rect": [
+    225.4,
+    338.4,
+    322.4,
+    403.7333333333333
+  ],
+  "new_formula_rect": [
+    225.4,
+    338.4,
+    331.06666666666666,
+    403.7333333333333
+  ],
+  "old_note_rect": [
+    78.0,
+    557.0,
+    579.3333333333333,
+    595.7700004577637
+  ],
+  "new_note_rect": [
+    78.0,
+    557.0,
+    582.0,
+    581.8199996948242
+  ],
+  "font_sizes_pt": {
+    "formula": 10.5,
+    "note": 11.5
+  },
+  "pages": 128,
+  "no_page_reflow": true,
+  "separate_analysis_pages": 0
+}

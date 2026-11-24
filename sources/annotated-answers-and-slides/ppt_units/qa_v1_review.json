@@ -1,0 +1,996 @@
+{
+  "volume": 1,
+  "status": "pass",
+  "final_pptx_sha256": "7ee463cc70a39ee8bf42a1acfbeac4750635163c2e715a57157c1d4a3828039b",
+  "reviewed_pptx": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final/小学四上同步素养卷第1册讲解课件答案.pptx",
+  "index_sha_matches": true,
+  "manual_visual_scope": {
+    "contact_sheets_actually_viewed": 16,
+    "edited_regions_actually_viewed": 93,
+    "object_ordinal_range": [
+      1,
+      93
+    ],
+    "modified_slides_represented": 61,
+    "whole_slides_actually_viewed": [
+      213,
+      355,
+      356,
+      357,
+      358,
+      384,
+      172,
+      398
+    ],
+    "whole_conversion_slides_actually_viewed": [
+      213,
+      355,
+      356,
+      357,
+      358,
+      384
+    ],
+    "not_claimed": "未逐页人工查看整册426页；仅全部93更正区域与8张整页。未PowerPoint/WPS放映测试。",
+    "latest_sha_reopened_whole_slides": [
+      356,
+      357,
+      358
+    ]
+  },
+  "unit_findings": "全部已审结果单位括号为半角，换算行独行且单位未套括号；未见单位贴碰、缺字或数字改变。",
+  "xml_changed_object_count": 93,
+  "xml_text_mismatch_count": 0,
+  "xml_checks": [
+    {
+      "slide": 27,
+      "name": "p002_s01_b001_4_p0",
+      "expected": "130÷2=65(米/分)",
+      "actual": "130÷2=65(米/分)",
+      "matches": true
+    },
+    {
+      "slide": 28,
+      "name": "p002_s01_b006_3_retained_original",
+      "expected": "2210(米)",
+      "actual": "2210(米)",
+      "matches": true
+    },
+    {
+      "slide": 28,
+      "name": "p002_s01_b006_3_simplify_steps_simplify_rhs4",
+      "expected": "2210(米)",
+      "actual": "2210(米)",
+      "matches": true
+    },
+    {
+      "slide": 29,
+      "name": "p002_s01_b010_2_retained_original",
+      "expected": "2210(米)",
+      "actual": "2210(米)",
+      "matches": true
+    },
+    {
+      "slide": 29,
+      "name": "p002_s01_b010_2_simplify_steps_simplify_rhs4",
+      "expected": "2210(米)",
+      "actual": "2210(米)",
+      "matches": true
+    },
+    {
+      "slide": 33,
+      "name": "p002_s02_b006_3",
+      "expected": "182(米)",
+      "actual": "182(米)",
+      "matches": true
+    },
+    {
+      "slide": 34,
+      "name": "p002_s02_b012_3",
+      "expected": "182(米)",
+      "actual": "182(米)",
+      "matches": true
+    },
+    {
+      "slide": 72,
+      "name": "p003_s07_b010_4",
+      "expected": "10(千克)",
+      "actual": "10(千克)",
+      "matches": true
+    },
+    {
+      "slide": 73,
+      "name": "p003_s07_b016_4_simplify_rhs1",
+      "expected": "10(千克)",
+      "actual": "10(千克)",
+      "matches": true
+    },
+    {
+      "slide": 74,
+      "name": "p003_s07_b018_0_p1",
+      "expected": "10×4+32=40+32=72(千克)",
+      "actual": "10×4+32=40+32=72(千克)",
+      "matches": true
+    },
+    {
+      "slide": 74,
+      "name": "p003_s07_b018_0_p3",
+      "expected": "4×18=72(千克)",
+      "actual": "4×18=72(千克)",
+      "matches": true
+    },
+    {
+      "slide": 75,
+      "name": "p003_s07_equation_0",
+      "expected": "4×18=72(千克)",
+      "actual": "4×18=72(千克)",
+      "matches": true
+    },
+    {
+      "slide": 75,
+      "name": "p003_s07_equation_1",
+      "expected": "72−32=40(千克)",
+      "actual": "72−32=40(千克)",
+      "matches": true
+    },
+    {
+      "slide": 75,
+      "name": "p003_s07_equation_2",
+      "expected": "40÷4=10(千克)",
+      "actual": "40÷4=10(千克)",
+      "matches": true
+    },
+    {
+      "slide": 76,
+      "name": "p003_s07_equation_0",
+      "expected": "40÷4=10(千克)",
+      "actual": "40÷4=10(千克)",
+      "matches": true
+    },
+    {
+      "slide": 76,
+      "name": "p003_s07_equation_1",
+      "expected": "72−32=40(千克)",
+      "actual": "72−32=40(千克)",
+      "matches": true
+    },
+    {
+      "slide": 76,
+      "name": "p003_s07_equation_2",
+      "expected": "4×18=72(千克)",
+      "actual": "4×18=72(千克)",
+      "matches": true
+    },
+    {
+      "slide": 78,
+      "name": "p004_s01_b006_4",
+      "expected": "80(件)",
+      "actual": "80(件)",
+      "matches": true
+    },
+    {
+      "slide": 79,
+      "name": "p004_s01_b012_4",
+      "expected": "80(件)",
+      "actual": "80(件)",
+      "matches": true
+    },
+    {
+      "slide": 82,
+      "name": "p004_s02_b007_3_retained_original",
+      "expected": "225(元)",
+      "actual": "225(元)",
+      "matches": true
+    },
+    {
+      "slide": 82,
+      "name": "p004_s02_b007_3_simplify_steps_simplify_rhs4",
+      "expected": "225(元)",
+      "actual": "225(元)",
+      "matches": true
+    },
+    {
+      "slide": 83,
+      "name": "p004_s02_b014_4",
+      "expected": "225(元)",
+      "actual": "225(元)",
+      "matches": true
+    },
+    {
+      "slide": 87,
+      "name": "p004_s03_b007_3",
+      "expected": "2(袋)",
+      "actual": "2(袋)",
+      "matches": true
+    },
+    {
+      "slide": 88,
+      "name": "p004_s03_b012_2_retained_original",
+      "expected": "2(袋)",
+      "actual": "2(袋)",
+      "matches": true
+    },
+    {
+      "slide": 88,
+      "name": "p004_s03_b012_2_simplify_steps_simplify_rhs4",
+      "expected": "2(袋)",
+      "actual": "2(袋)",
+      "matches": true
+    },
+    {
+      "slide": 92,
+      "name": "p004_s04_b007_3",
+      "expected": "60(块)",
+      "actual": "60(块)",
+      "matches": true
+    },
+    {
+      "slide": 93,
+      "name": "p004_s04_b012_2_retained_original",
+      "expected": "60(块)",
+      "actual": "60(块)",
+      "matches": true
+    },
+    {
+      "slide": 93,
+      "name": "p004_s04_b012_2_simplify_steps_simplify_rhs4",
+      "expected": "60(块)",
+      "actual": "60(块)",
+      "matches": true
+    },
+    {
+      "slide": 115,
+      "name": "p005_s04_b007_6",
+      "expected": "334(元)",
+      "actual": "334(元)",
+      "matches": true
+    },
+    {
+      "slide": 116,
+      "name": "p005_s04_b013_5",
+      "expected": "334(元)",
+      "actual": "334(元)",
+      "matches": true
+    },
+    {
+      "slide": 117,
+      "name": "p005_s04_b015_0_p1",
+      "expected": "(334−10)÷3=324÷3=108(元)",
+      "actual": "(334−10)÷3=324÷3=108(元)",
+      "matches": true
+    },
+    {
+      "slide": 117,
+      "name": "p005_s04_b015_0_p3",
+      "expected": "12+96=108(元)",
+      "actual": "12+96=108(元)",
+      "matches": true
+    },
+    {
+      "slide": 118,
+      "name": "p005_s04_equation_0",
+      "expected": "12+96=108(元)",
+      "actual": "12+96=108(元)",
+      "matches": true
+    },
+    {
+      "slide": 118,
+      "name": "p005_s04_equation_1",
+      "expected": "108×3=324(元)",
+      "actual": "108×3=324(元)",
+      "matches": true
+    },
+    {
+      "slide": 118,
+      "name": "p005_s04_equation_2",
+      "expected": "324+10=334(元)",
+      "actual": "324+10=334(元)",
+      "matches": true
+    },
+    {
+      "slide": 135,
+      "name": "p006_s02_b006_6",
+      "expected": "20(个)",
+      "actual": "20(个)",
+      "matches": true
+    },
+    {
+      "slide": 136,
+      "name": "p006_s02_b012_5_retained_original",
+      "expected": "20(个)",
+      "actual": "20(个)",
+      "matches": true
+    },
+    {
+      "slide": 136,
+      "name": "p006_s02_b012_5_simplify_steps_simplify_rhs4",
+      "expected": "20(个)",
+      "actual": "20(个)",
+      "matches": true
+    },
+    {
+      "slide": 169,
+      "name": "p007_s08_b008_3",
+      "expected": "14(元)",
+      "actual": "14(元)",
+      "matches": true
+    },
+    {
+      "slide": 170,
+      "name": "p007_s08_b014_3",
+      "expected": "14(元)",
+      "actual": "14(元)",
+      "matches": true
+    },
+    {
+      "slide": 171,
+      "name": "p007_s08_b017_0_p1",
+      "expected": "80×2+14×5=160+70=230(元)",
+      "actual": "80×2+14×5=160+70=230(元)",
+      "matches": true
+    },
+    {
+      "slide": 172,
+      "name": "p007_s08_equation_0",
+      "expected": "70÷5=14(元)",
+      "actual": "70÷5=14(元)",
+      "matches": true
+    },
+    {
+      "slide": 172,
+      "name": "p007_s08_equation_1",
+      "expected": "230−160=70(元)",
+      "actual": "230−160=70(元)",
+      "matches": true
+    },
+    {
+      "slide": 172,
+      "name": "p007_s08_equation_2",
+      "expected": "80×2=160(元)",
+      "actual": "80×2=160(元)",
+      "matches": true
+    },
+    {
+      "slide": 176,
+      "name": "p008_s01_b007_6_retained_original",
+      "expected": "2340(元)",
+      "actual": "2340(元)",
+      "matches": true
+    },
+    {
+      "slide": 176,
+      "name": "p008_s01_b007_6_simplify_steps_simplify_rhs4",
+      "expected": "2340(元)",
+      "actual": "2340(元)",
+      "matches": true
+    },
+    {
+      "slide": 177,
+      "name": "p008_s01_b013_5",
+      "expected": "2340(元)",
+      "actual": "2340(元)",
+      "matches": true
+    },
+    {
+      "slide": 179,
+      "name": "p008_s02_b006_4",
+      "expected": "360(人)",
+      "actual": "360(人)",
+      "matches": true
+    },
+    {
+      "slide": 180,
+      "name": "p008_s02_b012_4",
+      "expected": "360(人)",
+      "actual": "360(人)",
+      "matches": true
+    },
+    {
+      "slide": 183,
+      "name": "p008_s03_b006_3",
+      "expected": "22(米)",
+      "actual": "22(米)",
+      "matches": true
+    },
+    {
+      "slide": 184,
+      "name": "p008_s03_b012_3",
+      "expected": "22(米)",
+      "actual": "22(米)",
+      "matches": true
+    },
+    {
+      "slide": 185,
+      "name": "p008_s03_b020_5",
+      "expected": "22(米)",
+      "actual": "22(米)",
+      "matches": true
+    },
+    {
+      "slide": 205,
+      "name": "p009_s05_b001_4_p0",
+      "expected": "(100+60)×2=320(米)",
+      "actual": "(100+60)×2=320(米)",
+      "matches": true
+    },
+    {
+      "slide": 213,
+      "name": "p010_s02_b001_2_p0_units_row_1",
+      "expected": "21时=晚上9时",
+      "actual": "21时=晚上9时",
+      "matches": true
+    },
+    {
+      "slide": 213,
+      "name": "p010_s02_b001_3_p0_units_row_2",
+      "expected": "90°",
+      "actual": "90°",
+      "matches": true
+    },
+    {
+      "slide": 272,
+      "name": "p012_s02_b005_2",
+      "expected": "30(米)",
+      "actual": "30(米)",
+      "matches": true
+    },
+    {
+      "slide": 273,
+      "name": "p012_s02_b011_3",
+      "expected": "30(米)",
+      "actual": "30(米)",
+      "matches": true
+    },
+    {
+      "slide": 275,
+      "name": "p012_s03_b006_3",
+      "expected": "360(平方米)",
+      "actual": "360(平方米)",
+      "matches": true
+    },
+    {
+      "slide": 355,
+      "name": "p016_s02_b001_4_p0",
+      "expected": "100厘米=1米",
+      "actual": "100厘米=1米",
+      "matches": true
+    },
+    {
+      "slide": 356,
+      "name": "p016_s02_b003_1",
+      "expected": "60×40",
+      "actual": "60×40",
+      "matches": true
+    },
+    {
+      "slide": 356,
+      "name": "p016_s02_b004_2",
+      "expected": "2400(厘米)",
+      "actual": "2400(厘米)",
+      "matches": true
+    },
+    {
+      "slide": 356,
+      "name": "p016_s02_b005_3",
+      "expected": "2400厘米=(2400÷100)米=24米",
+      "actual": "2400厘米=(2400÷100)米=24米",
+      "matches": true
+    },
+    {
+      "slide": 357,
+      "name": "p016_s02_b008_0",
+      "expected": "60×10=600(厘米),    40÷10=4(段)",
+      "actual": "60×10=600(厘米),    40÷10=4(段)",
+      "matches": true
+    },
+    {
+      "slide": 357,
+      "name": "p016_s02_b009_1",
+      "expected": "600厘米=(600÷100)米=6米",
+      "actual": "600厘米=(600÷100)米=6米",
+      "matches": true
+    },
+    {
+      "slide": 357,
+      "name": "p016_s02_b010_2",
+      "expected": "6×4",
+      "actual": "6×4",
+      "matches": true
+    },
+    {
+      "slide": 357,
+      "name": "p016_s02_b011_3",
+      "expected": "24(米)",
+      "actual": "24(米)",
+      "matches": true
+    },
+    {
+      "slide": 358,
+      "name": "p016_s02_b014_0_p0_units_row_1",
+      "expected": "24米=2400厘米",
+      "actual": "24米=2400厘米",
+      "matches": true
+    },
+    {
+      "slide": 358,
+      "name": "p016_s02_b014_1_p0_units_row_0",
+      "expected": "2400÷40",
+      "actual": "2400÷40",
+      "matches": true
+    },
+    {
+      "slide": 358,
+      "name": "p016_s02_b014_1_p0_units_row_2",
+      "expected": "60(厘米/秒)",
+      "actual": "60(厘米/秒)",
+      "matches": true
+    },
+    {
+      "slide": 367,
+      "name": "p017_s01_b003_3",
+      "expected": "15(元/千克)",
+      "actual": "15(元/千克)",
+      "matches": true
+    },
+    {
+      "slide": 367,
+      "name": "p017_s01_b005_5_p5",
+      "expected": "15×3=45(元)",
+      "actual": "15×3=45(元)",
+      "matches": true
+    },
+    {
+      "slide": 368,
+      "name": "p017_s01_b006_4_p0_answer",
+      "expected": "45÷3=15(元/千克)",
+      "actual": "45÷3=15(元/千克)",
+      "matches": true
+    },
+    {
+      "slide": 370,
+      "name": "p017_s02_b002_0_p1",
+      "expected": "195÷65=3(箱)",
+      "actual": "195÷65=3(箱)",
+      "matches": true
+    },
+    {
+      "slide": 374,
+      "name": "p017_s03_b002_0_p1",
+      "expected": "108÷6=18(元/盒)",
+      "actual": "108÷6=18(元/盒)",
+      "matches": true
+    },
+    {
+      "slide": 378,
+      "name": "p017_s04_b002_0_p1",
+      "expected": "12×5=60(元)",
+      "actual": "12×5=60(元)",
+      "matches": true
+    },
+    {
+      "slide": 382,
+      "name": "p017_s05_b004_2",
+      "expected": "2440(千米)",
+      "actual": "2440(千米)",
+      "matches": true
+    },
+    {
+      "slide": 384,
+      "name": "p017_s06_b001_2_p0_units_row_1",
+      "expected": "1千米=1000米",
+      "actual": "1千米=1000米",
+      "matches": true
+    },
+    {
+      "slide": 384,
+      "name": "p017_s06_b001_3_p0",
+      "expected": "1000÷100=10(分)",
+      "actual": "1000÷100=10(分)",
+      "matches": true
+    },
+    {
+      "slide": 384,
+      "name": "p017_s06_b001_4_p0_units_row_1",
+      "expected": "时间=路程÷速度",
+      "actual": "时间=路程÷速度",
+      "matches": true
+    },
+    {
+      "slide": 388,
+      "name": "p017_s08_b001_3_p0",
+      "expected": "360÷5=72(千米/时)",
+      "actual": "360÷5=72(千米/时)",
+      "matches": true
+    },
+    {
+      "slide": 388,
+      "name": "p017_s08_b001_4_p0",
+      "expected": "320÷4=80(千米/时)",
+      "actual": "320÷4=80(千米/时)",
+      "matches": true
+    },
+    {
+      "slide": 390,
+      "name": "p017_s09_b005_6",
+      "expected": "3876(元)",
+      "actual": "3876(元)",
+      "matches": true
+    },
+    {
+      "slide": 396,
+      "name": "p018_s01_b004_2",
+      "expected": "36(元)",
+      "actual": "36(元)",
+      "matches": true
+    },
+    {
+      "slide": 396,
+      "name": "p018_s01_b007_5",
+      "expected": "12(元)",
+      "actual": "12(元)",
+      "matches": true
+    },
+    {
+      "slide": 397,
+      "name": "p018_s01_b012_3",
+      "expected": "12(元)",
+      "actual": "12(元)",
+      "matches": true
+    },
+    {
+      "slide": 397,
+      "name": "p018_s01_b015_6",
+      "expected": "36(元)",
+      "actual": "36(元)",
+      "matches": true
+    },
+    {
+      "slide": 398,
+      "name": "p018_s01_b017_2_p1",
+      "expected": "12×3×8=288(元)",
+      "actual": "12×3×8=288(元)",
+      "matches": true
+    },
+    {
+      "slide": 401,
+      "name": "p018_s02_b004_4",
+      "expected": "2332(千米)",
+      "actual": "2332(千米)",
+      "matches": true
+    },
+    {
+      "slide": 411,
+      "name": "p018_s05_b005_0_p3",
+      "expected": "3×12=36(元)",
+      "actual": "3×12=36(元)",
+      "matches": true
+    },
+    {
+      "slide": 411,
+      "name": "p018_s05_b006_2_p0",
+      "expected": "1400÷5=280(米/分)",
+      "actual": "1400÷5=280(米/分)",
+      "matches": true
+    },
+    {
+      "slide": 423,
+      "name": "p018_s09_b009_3",
+      "expected": "12(元)",
+      "actual": "12(元)",
+      "matches": true
+    },
+    {
+      "slide": 424,
+      "name": "p018_s09_b013_2",
+      "expected": "12(元)",
+      "actual": "12(元)",
+      "matches": true
+    },
+    {
+      "slide": 425,
+      "name": "p018_s09_b015_1_p0",
+      "expected": "12÷4=18÷6=3(元/本)",
+      "actual": "12÷4=18÷6=3(元/本)",
+      "matches": true
+    }
+  ],
+  "reviewed_images_hashes": {
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-001.png": {
+      "file_sha256": "a2f388f114f1b9b9f08797a18f0c15375455dd59b856325bef86cfda1464b0b8",
+      "body_without_header_pixel_sha256": "3436f216770e64942850e9121aeb7b59ef95460f27cb1d51a1472c5a65e81c70",
+      "size": [
+        1280,
+        617
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-002.png": {
+      "file_sha256": "d33c9d059ca505901c6c5375a1771c64cd63667bf230d768ae041ec088e4c3cc",
+      "body_without_header_pixel_sha256": "4b949a71aff38c2130ea9611fe1f702f387aa82c8c6a8db26f76544017356ee2",
+      "size": [
+        1280,
+        614
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-003.png": {
+      "file_sha256": "33b244bfab9e387a0b5584dbbab16c8ec640dd22df6d37d6d247c419954bd4d1",
+      "body_without_header_pixel_sha256": "f81c5d82ae90b68be3da89806684b80153a5c92453106dc2171d347061add8f4",
+      "size": [
+        1280,
+        576
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-004.png": {
+      "file_sha256": "924274d4be270f461004aa1e0fc3487ca54fd70938a2da433882f5781c55b4a6",
+      "body_without_header_pixel_sha256": "b03538bd2f54136234f63ade9207b34865cbb4492d1e3a8c31142deca3c3a218",
+      "size": [
+        1280,
+        602
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-005.png": {
+      "file_sha256": "c8346f499f989d08952269815c957b13235ebe058e373a7acbc2dffece3d4c79",
+      "body_without_header_pixel_sha256": "6aad3ff44d8eeeee05fd1fe454649440bcdd2bd571103f4003b71b769836587a",
+      "size": [
+        1280,
+        598
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-006.png": {
+      "file_sha256": "63dbefb2cfc5e58a42e870e58c36f2bb7e1295672da19036a569ad2c6c4a24ea",
+      "body_without_header_pixel_sha256": "d5e0fd11826ca6970f68a9d1e8ce222a63e13547e0ba859ff415f5dfc103a655",
+      "size": [
+        1280,
+        596
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-007.png": {
+      "file_sha256": "03fec6e3af26935ced2b664a08da09a0b7d9848fa679be5892e7a5dcb7397c0d",
+      "body_without_header_pixel_sha256": "10170daac3f120b0a68c5be6eb69f9e6992e0f7e225b8dc15f8f98a1db6cc3e9",
+      "size": [
+        1280,
+        596
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-008.png": {
+      "file_sha256": "3782ec05150e6c607fd3155ec301d667cf12cebf1738703cdd38cf6a808ca702",
+      "body_without_header_pixel_sha256": "0fb67b23570a14d9df8f18a373572f6688961a7640ca70ea249fffbf12b7d173",
+      "size": [
+        1280,
+        586
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-009.png": {
+      "file_sha256": "23672292967f36a6c366538e82aa422f488a15712b57a5deceed01914bc55276",
+      "body_without_header_pixel_sha256": "cecab93e4dd5347304014ca8d6f6bf5eb55e82a32cea6d635ce0fb163b198c8c",
+      "size": [
+        1280,
+        616
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-010.png": {
+      "file_sha256": "11c82434bd50eb93eb8b73dd88737127352c9d8115faeabcc7d36fb170b0425f",
+      "body_without_header_pixel_sha256": "888e98a7aac535b9c740bdb4fe7c27cb83d207c3b5396fcfd16c2cd318c8c5ce",
+      "size": [
+        1280,
+        600
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-011.png": {
+      "file_sha256": "363a0ee0152a0a3318dfcdf5c46c7b868b3565cb5579c2f237e8f91c74c5e87b",
+      "body_without_header_pixel_sha256": "fb33bf4963e874402111f91eb2afbc358d02a6b1fd0a0ebbd9bbb196621aa518",
+      "size": [
+        1280,
+        617
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-012.png": {
+      "file_sha256": "4c9ec6dac8fa1557231a7c02ea49673f950f3a100c81cbe0d868f85a0dba2ae9",
+      "body_without_header_pixel_sha256": "48f3fa3802329810ec4c86746521017e3e6e46de41be39005c087df534b27df4",
+      "size": [
+        1280,
+        600
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-013.png": {
+      "file_sha256": "2933f230e3b3b458c3a9fb94d5167c1d904a106add544ea2f4f506fd71cf47e5",
+      "body_without_header_pixel_sha256": "2a77af541dfe3e0063d0fc2e2ae07cecf429618c75d504cfad3febf18d53c64c",
+      "size": [
+        1280,
+        605
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-014.png": {
+      "file_sha256": "1a7fed288a51298873414b0782e93e5e8bc51cbe832824d771acab30b27daf00",
+      "body_without_header_pixel_sha256": "98a2878dfbe104da169570fe7287874b2313e9aa8003f567bd96c2748179cfea",
+      "size": [
+        1280,
+        598
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-015.png": {
+      "file_sha256": "bea10c7dcee23df7f3ebd925800cefa98b525904ae2423ce60542a0ac79885c2",
+      "body_without_header_pixel_sha256": "5c14cb0fee9956752b508826e08a61a37cd6d6bfd1511ed04ecf0713860243e1",
+      "size": [
+        1280,
+        600
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-016.png": {
+      "file_sha256": "5faf787bedae6e0208bfe7381278db74c86ff6c363440ccb4a1ba362cc21681e",
+      "body_without_header_pixel_sha256": "3532abfae5c27e0d669e30a8cbd90dc38bf5646f7955069804cb3200eb936e11",
+      "size": [
+        1280,
+        319
+      ],
+      "header_removed_px": 32
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-213.png": {
+      "file_sha256": "146af5bf16cbec49874113b49319355d787b81d7e86f3d6ba06baef47cf6cc11"
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-355.png": {
+      "file_sha256": "9ca0bf81164ab9b9cfe2544854143797322eb807b7e4ff580d80ac3049f58511"
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-356.png": {
+      "file_sha256": "840e5742331c56cb6875b01f53b8830ffc911cfafd9bba4e53d85003c969c2b4"
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-357.png": {
+      "file_sha256": "a52c75b8d3071e6d5bef9ffea6d86c5a5f88cba7fec0274c16170c613691be7a"
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-358.png": {
+      "file_sha256": "eadf34f5d8bb8eb5cebebfa34fd4bdec2a26e011fe07b0daf46f5a8fc46935d4"
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-384.png": {
+      "file_sha256": "c670dd487aadcc28d2883df9218eae34a152529079da57c3ccaf876a9d9be0d1"
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-172.png": {
+      "file_sha256": "32df05f747f322d3a4bc06b0f19f9c997a69cc09d6a81088c1c83c58446438a0"
+    },
+    "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-398.png": {
+      "file_sha256": "450db1b41fc3665c90339d5a069e549dc3e0ca2decb985e6fdf2f865de1d4014"
+    }
+  },
+  "original_visual_review_pptx_sha256": "7831dff1bc6d195c7bb9b34d2491753c23859b672111214c3ed1d46c68639a3f",
+  "issues_resolved": [
+    {
+      "slide": 356,
+      "shape": "p016_s02_b004_2_operator",
+      "issue": "等号高于同一行2400数字约15px",
+      "requested_dy_px": 15
+    },
+    {
+      "slide": 357,
+      "shape": "p016_s02_b011_3_operator",
+      "issue": "等号高于同一行24数字约10px",
+      "requested_dy_px": 10
+    },
+    {
+      "slide": 358,
+      "shape": "p016_s02_b014_1_p0_units_row_1",
+      "issue": "等号高于同一行60数字约12px",
+      "requested_dy_px": 12
+    }
+  ],
+  "issues": [],
+  "alignment_recheck": {
+    "actual_whole_pages_reopened": [
+      356,
+      357,
+      358
+    ],
+    "result": "三个等号均已与右侧数字对齐；整页无新增遮挡、裁切或内容变动。",
+    "only_y_shift_px": {
+      "356": 15,
+      "357": 10,
+      "358": 12
+    },
+    "evidence": "/workspace/scratch/1facfb035d44/units_review/ppt_units/alignment_recheck.json"
+  },
+  "carryforward": {
+    "method": "原先已实际目视16联系图/93区域与8整页；等号仅3页变化后再次实际打开3整页。其余联系图去SHA标题后的像素逐字节复核，5张未变整页PNG哈希复核；包级证据显示只3个slide XML的等号位置变更。",
+    "contact_body_pixel_checks": [
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-001.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-002.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-003.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-004.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-005.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-006.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-007.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-008.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-009.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-010.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-011.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-012.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-013.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-014.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-015.png",
+        "body_without_header_pixels_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume01/sheet-016.png",
+        "body_without_header_pixels_identical": true
+      }
+    ],
+    "unmodified_whole_page_file_checks": [
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-213.png",
+        "file_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-355.png",
+        "file_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-384.png",
+        "file_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-172.png",
+        "file_identical": true
+      },
+      {
+        "file": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume01/slide-398.png",
+        "file_identical": true
+      }
+    ],
+    "all_contact_bodies_identical": true,
+    "all_other_whole_pages_identical": true,
+    "package_evidence": "/workspace/scratch/1facfb035d44/units_review/ppt_units/alignment_recheck.json"
+  }
+}

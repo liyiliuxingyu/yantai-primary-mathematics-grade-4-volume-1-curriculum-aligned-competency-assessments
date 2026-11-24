@@ -1,0 +1,448 @@
+{
+  "passed": true,
+  "scope": "Independent mathematics/text/source-scope verification for photo-confirmed original page78; all six questions reviewed, only records1/5/6 may change.",
+  "source_final": true,
+  "question_records_compared": 867,
+  "changed_record_count": 3,
+  "changed_record_keys": [
+    "p078_s01",
+    "p078_s05",
+    "p078_s06"
+  ],
+  "other_records_unchanged": 864,
+  "unchanged_this_page_keys": [
+    "p078_s02",
+    "p078_s03",
+    "p078_s04"
+  ],
+  "approved_changes_sha256": "012146e80018a231c103ade6ea63bacd94e939477ad7d7b8f83f11a8d6367f22",
+  "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+  "active_photo_trace_tikz_sha256": "a9432476a1074da7a814981e692c7487dcf28f12a64f423c8f4e359434241263",
+  "source_black_correction_values": [
+    136,
+    140,
+    12
+  ],
+  "source_black_section_heading": "（每题2分，共12分）",
+  "entire_black_heading_parenthetical_restored_in_source": true,
+  "source_black_term_restored": "秧歌",
+  "source_new_black_patch_count": 5,
+  "source_black_graph_patch_count": 1,
+  "other_diagram_index_entries_unchanged": true,
+  "standalone_tikz_and_question_source_consistent": true,
+  "source_photo_actually_viewed": true,
+  "q6_enlargement_actually_viewed": true,
+  "q6_verified_term": "秧歌",
+  "question_results": {
+    "1": {
+      "choice": "C",
+      "mean_cm": 136,
+      "total_cm": 408,
+      "minimum_total_cm_for_three_riders": 420,
+      "three_riders_impossible": true,
+      "constructive_cases": [
+        {
+          "heights_cm": [
+            136,
+            136,
+            136
+          ],
+          "sum_cm": 408,
+          "mean_cm": 136,
+          "can_ride_both_boundary_interpretations": 0
+        },
+        {
+          "heights_cm": [
+            146,
+            131,
+            131
+          ],
+          "sum_cm": 408,
+          "mean_cm": 136,
+          "can_ride_both_boundary_interpretations": 1
+        },
+        {
+          "heights_cm": [
+            146,
+            146,
+            116
+          ],
+          "sum_cm": 408,
+          "mean_cm": 136,
+          "can_ride_both_boundary_interpretations": 2
+        }
+      ],
+      "all_possible_counts": [
+        0,
+        1,
+        2
+      ],
+      "no_example_uses_140": true
+    },
+    "2": {
+      "choice": "D",
+      "actual_union": 35,
+      "both": 3,
+      "only_first": 18,
+      "only_second": 14,
+      "neither": 10,
+      "total": 45
+    },
+    "3": {
+      "choice": "C",
+      "total": 135,
+      "max_lower_bound": 45,
+      "max_strict_upper_bound": 55,
+      "possible_offered_value": 49,
+      "witness": [
+        49,
+        43,
+        43
+      ]
+    },
+    "4": {
+      "B_true": true,
+      "D_true_when_age_means_specific_years": true,
+      "nonunique_single_choice_preserved": true,
+      "counterexamples_to_unique_age": [
+        [
+          16,
+          4,
+          10
+        ],
+        [
+          26,
+          14,
+          20
+        ]
+      ]
+    },
+    "5": {
+      "choice": "B",
+      "point_count": 16,
+      "points_per_day": 4,
+      "only_given_reference_temperature_C": 22,
+      "exact_point_temperatures_not_inferred": true,
+      "fixed_photo_relative_coordinates_preserved": true,
+      "days": [
+        {
+          "day": 1,
+          "points": 4,
+          "mean_photo_relative_horizontal_offset": "19123/40000",
+          "is_temperature_value": false
+        },
+        {
+          "day": 2,
+          "points": 4,
+          "mean_photo_relative_horizontal_offset": "-3/320",
+          "is_temperature_value": false
+        },
+        {
+          "day": 3,
+          "points": 4,
+          "mean_photo_relative_horizontal_offset": "-19557/20000",
+          "is_temperature_value": false
+        },
+        {
+          "day": 4,
+          "points": 4,
+          "mean_photo_relative_horizontal_offset": "-9633/20000",
+          "is_temperature_value": false
+        }
+      ]
+    },
+    "6": {
+      "choice": "A",
+      "score": 93,
+      "score_unit": "分",
+      "term": "秧歌",
+      "independent_calculation_rows": [
+        "281-94*2",
+        "281-188",
+        "93"
+      ],
+      "all_rows_equal_93": true
+    }
+  },
+  "live_source_numeric_equalities_checked": 19,
+  "live_source_numeric_equality_evidence": [
+    {
+      "key": "p078_s01",
+      "origin": "answer",
+      "kind": "inline",
+      "expression": "136\\times3=408",
+      "value": "408"
+    },
+    {
+      "key": "p078_s01",
+      "origin": "answer",
+      "kind": "inline",
+      "expression": "140\\times3=420",
+      "value": "420"
+    },
+    {
+      "key": "p078_s01",
+      "origin": "note",
+      "kind": "inline",
+      "expression": "136\\times3=408",
+      "value": "408"
+    },
+    {
+      "key": "p078_s01",
+      "origin": "note",
+      "kind": "inline",
+      "expression": "140\\times3=420",
+      "value": "420"
+    },
+    {
+      "key": "p078_s02",
+      "origin": "answer",
+      "kind": "inline",
+      "expression": "45-10=35",
+      "value": "35"
+    },
+    {
+      "key": "p078_s02",
+      "origin": "answer",
+      "kind": "inline",
+      "expression": "21+17-35=3",
+      "value": "3"
+    },
+    {
+      "key": "p078_s02",
+      "origin": "answer",
+      "kind": "inline",
+      "expression": "21-3=18",
+      "value": "18"
+    },
+    {
+      "key": "p078_s02",
+      "origin": "answer",
+      "kind": "inline",
+      "expression": "17-3=14",
+      "value": "14"
+    },
+    {
+      "key": "p078_s02",
+      "origin": "answer",
+      "kind": "inline",
+      "expression": "18+3+14+10=45",
+      "value": "45"
+    },
+    {
+      "key": "p078_s02",
+      "origin": "note",
+      "kind": "aligned",
+      "block": 0,
+      "row": 1,
+      "value": "3"
+    },
+    {
+      "key": "p078_s02",
+      "origin": "note",
+      "kind": "aligned",
+      "block": 0,
+      "row": 2,
+      "value": "3"
+    },
+    {
+      "key": "p078_s03",
+      "origin": "answer",
+      "kind": "aligned",
+      "block": 0,
+      "row": 1,
+      "value": "55"
+    },
+    {
+      "key": "p078_s03",
+      "origin": "answer",
+      "kind": "aligned",
+      "block": 0,
+      "row": 2,
+      "value": "55"
+    },
+    {
+      "key": "p078_s03",
+      "origin": "note",
+      "kind": "aligned",
+      "block": 0,
+      "row": 1,
+      "value": "55"
+    },
+    {
+      "key": "p078_s03",
+      "origin": "note",
+      "kind": "aligned",
+      "block": 0,
+      "row": 2,
+      "value": "55"
+    },
+    {
+      "key": "p078_s06",
+      "origin": "answer",
+      "kind": "aligned",
+      "block": 0,
+      "row": 1,
+      "value": "93"
+    },
+    {
+      "key": "p078_s06",
+      "origin": "answer",
+      "kind": "aligned",
+      "block": 0,
+      "row": 2,
+      "value": "93"
+    },
+    {
+      "key": "p078_s06",
+      "origin": "note",
+      "kind": "aligned",
+      "block": 0,
+      "row": 1,
+      "value": "93"
+    },
+    {
+      "key": "p078_s06",
+      "origin": "note",
+      "kind": "aligned",
+      "block": 0,
+      "row": 2,
+      "value": "93"
+    }
+  ],
+  "boundary_limit": "Sign says140cm以下. The exclusion of three riders uses the necessary weak bound at least140 each, which remains valid under either boundary convention; all constructive heights avoid140.",
+  "chart_limit": "Numeric x/y values are drawing coordinates measured relative to the photograph. They are not inferred Celsius measurements; only approximate balance about the22°C reference supports choiceB.",
+  "preserved_ambiguity": "Question4 original optionD says无法确定丙的年龄. B describes the relation to the average; D remains true if it asks for a concrete number of years. No silent forced single choice.",
+  "source_files_sha256": {
+    "detailed_layout/notes_A.json": "645d58ef68343e1733fe4247975837668719493038c17c26d63432b1c54d3329",
+    "detailed_layout/notes_B.json": "54ec0891f81d290a11fd35eaf823421964310d4a407e0574eb7632a9af177efb",
+    "detailed_layout/notes_C.json": "cf7f4c416a120f688fe2d1309e6fbdc110e6186f38a4893c3f042d9ae8692164",
+    "detailed_layout/notes_D.json": "7ec9b6b9828227ddf3c610b00be2b836dc57bde4d6e944bf81c8572665c664c4",
+    "diagram_index.json": "c9e8122ee51101cdc4a2d30e0634dcbc9287a25192155c66eb7c2d60605ad380",
+    "questions/p001.json": "673e9aeca4c2faf944bf3f300e52bf874dcff68781d17b1a93b66f0547857324",
+    "questions/p002.json": "a8441e049566a2942ee16c63af9f78160bfd294d1926d20b3c22514e86f52bf4",
+    "questions/p003.json": "c770f98da9ee5d8476a46ea14a45dc87ad347cb62b4fb5b0a78542e918082fbd",
+    "questions/p004.json": "5700abd38dce8a85ab7361c04ee2ed1f6e16113100d18cc78990d46d36638c41",
+    "questions/p005.json": "5d3d1354cd6bca0058f9c987516e41326d5bf52fe515ef46bed6ffabfed4cfcc",
+    "questions/p006.json": "21eb029456566d81b4061eff8e227fcd6194e69f2065733d9ac5f909a0ef9ce5",
+    "questions/p007.json": "831090a113a439f8c673a6ea8977bd50fe98b8222fe2cd0688e37c469f714e45",
+    "questions/p008.json": "7e00fd6a125e0c0c32a152e62f759abbccc55ffcae0556440ff177e09c1ea1f7",
+    "questions/p009.json": "be9c51dda56adcc8c04f40c16af00fb23276ded4e4d9448f6c2896759a3ef7d4",
+    "questions/p010.json": "18af50eb82b9ed855a2933800aaf8fdb135cbb82a48fdfbfd71a8d1983e2b4e6",
+    "questions/p011.json": "d0b4fe835109d9ee37b998cb393db05f260b491a8084dd01bae0e75fbf280e0c",
+    "questions/p012.json": "b3413ccaa56f5163519184cf98e7efaf9de0335517cfed4c776daff9528e0a5a",
+    "questions/p013.json": "b19ff6a81bab59772c976a34a0f010aa1745dcff8235c6aa953b81bbb33c6f06",
+    "questions/p014.json": "f1eddbd4f0c4708ec03c0877503db20c5a994cfd09bbdc86b6aa1fe58595d4dd",
+    "questions/p015.json": "7f161438bc8ed253858b836f30c2f3956d9f32ae39ffff45e556788b351f094b",
+    "questions/p016.json": "8856c76622dff9f51b66bdd36d31bc1d688e03fd802f5eb56fcd5fdb09595cc1",
+    "questions/p017.json": "ea142355ac9109d8abf95deee52636fa2461fe8e7b3f1918dd898bb05e6b5a77",
+    "questions/p018.json": "11788775620bdcc5845881a23c8118a81da9f75854d9e5495ccea5646251276b",
+    "questions/p019.json": "8981aefac832ccbd52b8f5460fdc06635ae9940fbfcedb58567fde304c995cd1",
+    "questions/p020.json": "92d6eb20c6eb8f7cbed6bd9c06bb034162b3038a482fa7ec9c4df89d03349ef3",
+    "questions/p021.json": "15b2a759ea342de1baceb3aab5f6791fe0a36553997d0b32c504929bebd664f6",
+    "questions/p022.json": "6d7a99e3503b0ac128b14644c261c8c6fd78bfa75b130300286d32cee2e0cf74",
+    "questions/p023.json": "85eb2dedf2e617b060f1fa5a36b5963f153b89a45734c4e02ea12bace973b151",
+    "questions/p024.json": "df7263d3c31ca83b93a75d5b5c76b5248bf05f6d9e960e0d1120fa1eef9f79f5",
+    "questions/p025.json": "40584d5bd7b72aa32a8b8be4d0368b0c6048c048a1c7a78470ac0ec04e93b242",
+    "questions/p026.json": "20b8acda2f94528d0b43752b96286a6cbecbd71488a059dace7d63ad5eca04b5",
+    "questions/p027.json": "24728ace3cc7e5e9eb7077dcc4ed68ce4848d1465b86d30d5c93df576803d923",
+    "questions/p028.json": "c5794119542ea151c2b83cf1208d5d0bd2ee89316bc16eac97324cda4bc0c048",
+    "questions/p029.json": "c9b7e7b281929838caf51acb9ed170652042423dc1d5d67e0295553ee84c0119",
+    "questions/p030.json": "f8656024d4318635a55f9225a3040a0f39c1b02b899383e6232355c168e8a232",
+    "questions/p031.json": "89f1fd11ca2e3f25b735c799635f1afcf443ff0282262998b198ead1f02bb137",
+    "questions/p032.json": "34ed108faddeac326f0d3581b6eade5ef6b76e1a9410ef9b2caefe0072fe7f00",
+    "questions/p033.json": "bd16a91e06bf95d6e33547cd82a3fed7d08272b598033a42eae815606d6726f0",
+    "questions/p034.json": "0e805cdb08636e45be00e9b93a482bcbd229205eda4759548fc847ebf1ab3f9f",
+    "questions/p035.json": "fbf99781ba92903facdf44d59a9151751d90003a4933a659057145f27f315f16",
+    "questions/p036.json": "b6d84c839d7a06768d9efb416ca73ba3953b0083b55161450e31181124980ed0",
+    "questions/p037.json": "cdd65bd8835838e33d1cdc674fa0a2af52bb3f1d9442fd0e047608ad080a2fe0",
+    "questions/p038.json": "c24a4211fb9f4b8d65d7db7a9985cd5a8b1efd03cc82ec1d1e9b652dd52a83e6",
+    "questions/p039.json": "ff2ee29921728d49f7ae27a7e1135f125a5c315aac7bee1b3fbcdc03646cc768",
+    "questions/p040.json": "05ffa9886404287e1e5c57152fca13c08f1afb203c4bfa1e586460269dadbf0f",
+    "questions/p041.json": "aa8ea77b2971e30d1cc6b7d6b9dacb36748be0a3c8265312f6e10bd4bdaaf938",
+    "questions/p042.json": "d33f509b514802d0ea8b513b90b41db7e4eca864decb3f6e7d415faecbc5d855",
+    "questions/p043.json": "7e5e74758db031d457fe3eaf3d049d680bcae821de7e10309b9bc38fc588534e",
+    "questions/p044.json": "f83d3271519005569a6971a6333ff0432836d282d32eb5b113d0e9a279ff81e9",
+    "questions/p045.json": "f78c491bc0144e4205a4037a0806128c727276938c480e838075c892e88eab1d",
+    "questions/p046.json": "c6ebb0f959c95e4e1427c3bf687df58761ac640aebe74476dcfa77236f2837b2",
+    "questions/p047.json": "4dcbcd8b2500b8d3e06868be61f87255b36245776171a03ef388109dd7466ba7",
+    "questions/p048.json": "9bc08cb02b937a43c963bff15c0c740c32cb08d84f3317395b5c1f5604f625dc",
+    "questions/p049.json": "e5963b4fedb088ff162e17c25b2d51cae8a7cc7bd99c91663bec9ad5ca37f362",
+    "questions/p050.json": "34ec650b176340d57a72942012c824ee9c5ada24c06c68519040fb7aa26955b5",
+    "questions/p051.json": "11331afb15d20ffdf59e9f15e56b9a93159e1898f0adca83155d0dae419154fe",
+    "questions/p052.json": "b353c2510d4da797c50d2a1ff4f614bc541a1c84d29ba687bfe5ebaf48f41425",
+    "questions/p053.json": "79e9eecce2c401c4e064c15286a3b16025e2da8e608c5ae0d87f710fb7738f24",
+    "questions/p054.json": "ae698e5e7e1204c6798df4edfb0f65920a64412e47230153d794f6383562286e",
+    "questions/p055.json": "130311d083ff4ec675bdd73a556b40da1996c88e0b5802f112030039ddfe1ee3",
+    "questions/p056.json": "278cba233770c6430b7fa9651939f747f463b469847b50e203c3f514be39cf6b",
+    "questions/p057.json": "67edeac151b9880727cc58360f4973e9509f2c7fa67c501aef85475d009893f6",
+    "questions/p058.json": "5217946e335f8e1837e2f3eada533c6a0b04d2e9f53d9dcd1a25c3f0c18ac0a6",
+    "questions/p059.json": "50105b97b945dadf9512111a166f3bea5e7b73c777b6db0fa8540e989a9bdf4d",
+    "questions/p060.json": "4f7a16b92771641eb46ca811362c54f82a936d4e3332eb56ce6ef0480765e2df",
+    "questions/p061.json": "13d6a8597e4ab20d658f418fcbb00c3a1d8548f1edae6430468f300fcbb1b4c4",
+    "questions/p062.json": "423815bd55ae116a180c4d6621a47c9625796415dc06504827c7aa31f5f5ed80",
+    "questions/p063.json": "6182d87c032fbd5e4bce5cc160f4f852431cef59ff9629f513fe68b640a5e445",
+    "questions/p064.json": "4d0c042e39abdff0560aca7a31be4fb91680cd756733b412d869e76ee5952ad6",
+    "questions/p065.json": "46db477e9a1bc92e65b4141629d11e2f5a8f9ba9f5c9124c2f3dce9ad7e1c757",
+    "questions/p066.json": "369ea866f6786d39cc323dceba62d8cab0ec6a62854efb852b05ce889c276372",
+    "questions/p067.json": "d394e92020d8220000ac45380aa0122110fce5a26e9ed9d6287f964803291b0c",
+    "questions/p068.json": "2d6dc73ce1a1a0f965a4f22e735bbc1e195bf2d0aba71a27e954be4919815271",
+    "questions/p069.json": "2c27d37f98ed1274fbf41eb127b87b8f75f6c0f7ea0ad8102d447d0e5b708432",
+    "questions/p070.json": "c5ace25326851c5a3f6973cbe0fcedd8ad0bb7daac85638176b0c038e1e16133",
+    "questions/p071.json": "86561759cc5b9dabf55f3699f0b1d83d301ec8dad664204124c6aaa95cd9fd3f",
+    "questions/p072.json": "bf89a52a4509f979d9e471ce0d94b31ee5f8bfa874be9d321836193fcbafdb24",
+    "questions/p073.json": "4031cee07f568c2cb778ab1a83f5c8f10fafd6644697725e5718fe8f8d674734",
+    "questions/p074.json": "cea962f0d26c6bb049b4c4211374b44799e34740b6606ce97113fbb90aaf3ee9",
+    "questions/p075.json": "bae89934d2383e7c725fbc8a37c89bf1194469cb3951b525eab258160f786f3f",
+    "questions/p076.json": "21b89244964e56c7ba00ed27b0d8907f97edb182b8da0d50a959c3e0563227d4",
+    "questions/p077.json": "bfcfdd2511db3fbf5027018005c7ec211585e72f2faf6e5558cf616e2e88f64a",
+    "questions/p078.json": "4eef3a4b2eaf596e631b7b6d714d27063bbac9ae9db3a094625a83d86e28135e",
+    "questions/p079.json": "bc3074c1658fa10d2acaad2b25da7ded13265c11b41671822991f0d5a95a8588",
+    "questions/p080.json": "c42c3438b7985b9ba42b9179d85451812e809e70f82fb2c6a3d374f83cd22bd9",
+    "questions/p081.json": "2e93990453a787a7265fb07938260f1c1a62853dc99a61cac789ac3f1493156f",
+    "questions/p082.json": "c4256ed40c2c9498e41ff5a1d85ce87e91ec29ac37c9757e7eb8216dc3d1183c",
+    "questions/p083.json": "b85afaaec5361d3ca833c1cb1218642947103a23701a8cdc675aeaa24b852ecb",
+    "questions/p084.json": "905e78e88f8db9c1a1a7a90d64e01d5d43f06112b1ceea37a1c1fe47481e2879",
+    "questions/p085.json": "0e7619c4f7b9c94bf2177af13aa4bce3f0cc8d8cf294222745a497444d7de1a8",
+    "questions/p086.json": "06dae103fe531f507560d31ea74a4dbd182ff324cfb8f513049a63307edc1535",
+    "questions/p087.json": "63a10ff9df236562d4abd666a9864f20a5a428fa8b54ecbe59c132936b5da463",
+    "questions/p088.json": "f3ed89809004427d61257780cba80cc4d563f921d2628e94576f15d8f2260985",
+    "questions/p089.json": "0a909c3feeab752d393de3e3148d43ce120662affe99eb7191838920748269e2",
+    "questions/p090.json": "c8d371c47946a352e0017973286c009c96e04f27deae689a9d661c4cebbd584c",
+    "questions/p091.json": "4344bc9b71542e2c485e85f93b15755ada8f7f62aaa7bcf4a5e71602f20db1e1",
+    "questions/p092.json": "b65137aea79fd64c3f964189dc34043852b4efaac0be940852234286d0e5749b",
+    "questions/p093.json": "7dce306fd35a181b7df1de49fc38316aac7f8f0adf202b05fbf7df09fc17c044",
+    "questions/p094.json": "b2a2d1c040788b348456690235a011a8be8f966d76b686190ce434e4a6340cf0",
+    "questions/p095.json": "f7c0742adb718f5777826000cd2a319a05a6b6c3630ffe15134b0bd17bcdc1f5",
+    "questions/p096.json": "d0f7d9fed414406fe1122d6016fca07d0ef6c39da1dce5a9cf4481a6a1c47c68",
+    "questions/p097.json": "2b1e577e0a790913673215a0adac018e1d9c619e754ad68096fee56211cd1054",
+    "questions/p098.json": "a58ab0167d55136a722c1ebc56349451127786cda52f1d73a11e5e73805f0f65",
+    "questions/p099.json": "57a3b974bdcbdba60de04e7595b5b50f794715bc6d577d781dfb9eca60ce0b24",
+    "questions/p100.json": "be33d86d7536c90aead6543e2218c7d9e5c0aebcfc5b5710ab76900df7bc82f1",
+    "questions/p101.json": "4af30cebd8c4bacd2cb40054a53ab33a707bd0c15baf36239feb1498a8077f0c",
+    "questions/p102.json": "bbc33071f5254f29846defac3ceb7082da848a82e02475216c5f10d4b3569413",
+    "questions/p103.json": "3a543387ff54e9082a7c4701e38dda4d0e79782ea1a2147939c3759d0a1ce20c",
+    "questions/p104.json": "c0c2fbb6ad8b692cf494b07bba6d056cb7f1bd395260fc7fbefd69ca32bf137b",
+    "questions/p105.json": "6f376d1d14dab041addeafc30da9cd31a7e5778f07fc958e62d35761db9e58cf",
+    "questions/p106.json": "3a5fbcf8f3e225759c67c229798ae255452af93640a1b03f742f3bd20cafe532",
+    "questions/p107.json": "5540a9911be153c0c724591f0b536ccf71ff0f12d7fb1a9b993fd75f35d1c43f",
+    "questions/p108.json": "410b64e99c249161eb2ba6b80421912a294219a98eb1fe7063adf5cb8e8a639b",
+    "tikz_index.json": "8630b31fa00b6f4b566ebb232758f493a442f1378f0789c2a216d6be998a87e1"
+  },
+  "baseline_source_snapshot_sha256": "0850536325884e31a788c39fb240cc6ba3997c9605bf8101c99f9b28488b231d",
+  "other_pages_prompts_diagrams_conditions_unchanged": true,
+  "pdf_layout_or_native_powerpoint_playback_signoff_in_this_report": false,
+  "evidence": [
+    "check_p078_math_independent.py",
+    "baseline_source_snapshot.json",
+    "approved_changes.json",
+    "assets/p078_original_photo.jpg"
+  ],
+  "black_display_manual_observation": {
+    "qa": "qa_black_display_independent.json",
+    "passed": true,
+    "pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+    "historical_manual_observation_of_named_export": true,
+    "scope": "实际查看最终PDF两个局部放大图，仅核完整黑标题与第6题黑色术语，不代替全页排版或动画验收。"
+  }
+}

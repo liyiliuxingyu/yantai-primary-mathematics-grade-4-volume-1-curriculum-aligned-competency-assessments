@@ -1,0 +1,109 @@
+{
+  "passed": true,
+  "updates": [
+    {
+      "file": "ppt_builder/final_answers_a.json",
+      "fields": 1
+    },
+    {
+      "file": "ppt_builder/final_answers.json",
+      "fields": 1
+    },
+    {
+      "file": "followup_style/ppt/patch_followup.py",
+      "replacement_count": 1476
+    },
+    {
+      "file": "style_patch/ppt_final_r3/patch_p003_math.py",
+      "replacement_count": 220
+    },
+    {
+      "file": "style_patch/ppt_final_r3/patch_p003_native_stage.py",
+      "replacement_count": 132
+    },
+    {
+      "file": "ppt_average/build/make_rules.py",
+      "replacement_count": 618
+    },
+    {
+      "file": "simplify_update/ppt_1_2/build/make_rules.py",
+      "replacement_count": 21
+    },
+    {
+      "file": "simplify_update/ppt/build/make_rules_extra.py",
+      "replacement_count": 649
+    },
+    {
+      "file": "ppt_recheck/v3_4/make_rules.py",
+      "replacement_count": 219
+    },
+    {
+      "file": "ppt_recheck/build/make_rules_late.py",
+      "replacement_count": 194
+    },
+    {
+      "file": "ppt_recheck/late/build/make_rules_late.py",
+      "replacement_count": 194
+    },
+    {
+      "file": "ppt_recheck/v1_2/build/apply_v1.py",
+      "replacement_count": 114
+    },
+    {
+      "file": "ppt_recheck/v1_2/v2/build/patch_v2.py",
+      "replacement_count": 18
+    },
+    {
+      "file": "ppt_recheck_v2/build/patch_v2.py",
+      "replacement_count": 18
+    }
+  ],
+  "answer_unit_parser_guard": "ppt_builder/convert_inputs.py",
+  "conversion_source_answer_keys": [
+    "p010_s02",
+    "p016_s02",
+    "p017_s06",
+    "p022_s02",
+    "p022_s07",
+    "p024_s01",
+    "p049_s03",
+    "p049_s04",
+    "p049_s07",
+    "p052_s01",
+    "p052_s02",
+    "p052_s03",
+    "p053_s08",
+    "p053_s09",
+    "p054_s02",
+    "p054_s06",
+    "p055_s02",
+    "p055_s05",
+    "p055_s06",
+    "p055_s07",
+    "p056_s01",
+    "p058_s03",
+    "p061_s09",
+    "p063_s07",
+    "p070_s02",
+    "p075_s02",
+    "p079_s04",
+    "p081_s07",
+    "p081_s08",
+    "p081_s09",
+    "p081_s10",
+    "p081_s11",
+    "p082_s07",
+    "p093_s01",
+    "p093_s02",
+    "p093_s06",
+    "p097_s01",
+    "p100_s03",
+    "p101_s03",
+    "p104_s02",
+    "p105_s02",
+    "p106_s02"
+  ],
+  "display_override_source_hashes_updated": true,
+  "leading_conclusion_hashes_rebound": true,
+  "no_original_question_or_known_label_changes": true
+}

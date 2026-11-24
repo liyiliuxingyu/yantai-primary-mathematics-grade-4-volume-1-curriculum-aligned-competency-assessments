@@ -1,0 +1,290 @@
+{
+  "book_page": 73,
+  "source_page": 77,
+  "records": [
+    {
+      "key": "p073_s01",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "学校体育社团开展1分钟单人跳绳达标练习，三位同学一分钟跳绳成绩分别为：小红112个、小丽105个、小芳119个。这三名同学平均每人一分钟跳绳（    ）个。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(112\\)。以112个为基准，105个少7个、119个多7个，多、少抵消。\\[\\begin{aligned}&112+(7-7)\\div3\\\\={}&112+0\\div3\\\\={}&112+0\\\\={}&112\\text{(个)}\\end{aligned}\\]移多补少后每人同为112个，总数不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "简便计算复核：现式逐个求和；已有移多补少文字但未落实到简便脱式。用112为基准，两个7抵消。",
+          "本轮平均数完整脱式复核：补齐先除后加所得112+0一步。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s02",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "有两瓶果汁，甲瓶重500克，乙瓶重400克，从甲瓶倒（    ）克到乙瓶中，两瓶果汁一样重，此时两瓶果汁都是（    ）克。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(50\\)、\\(450\\)。甲倒出的质量是两瓶质量差的一半：\\[\\begin{aligned}&(500-400)\\div2\\\\={}&100\\div2\\\\={}&50\\text{(克)}\\end{aligned}\\]总质量不变，再求两瓶相等时每瓶的质量：\\[\\begin{aligned}&(500+400)\\div2\\\\={}&900\\div2\\\\={}&450\\text{(克)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "本轮平均数完整脱式复核：PDF题旁已完整，源码原答案只有横式，统一为完整脱式。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s03",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "气象台在某天的2时、8时、14时、20时测得的温度分别是\\(8^\\circ\\mathrm C\\)、\\(15^\\circ\\mathrm C\\)、\\(24^\\circ\\mathrm C\\)、\\(17^\\circ\\mathrm C\\)，由此估计这天的平均温度是（    ）\\({}^\\circ\\mathrm C\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(16\\)。用加法交换律、结合律配成两个32，再除以观测次数4。\\[\\begin{aligned}&(8+15+24+17)\\div4\\\\={}&[(8+24)+(15+17)]\\div4\\\\={}&[32+32]\\div4\\\\={}&64\\div4\\\\={}&16\\text{(摄氏度)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "简便计算复核：8+24与15+17都是32；与逐次累计23、47相比形成相同的易算结构。不是因结果16为整数而判简便。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s04",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "三个数的平均数是30，其中两个数分别是24和16，第三个数是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(50\\)。总和是3份30，先将24与16凑成40再减。\\[\\begin{aligned}&30\\times3-24-16\\\\={}&30\\times3-(24+16)\\\\={}&90-40\\\\={}&50\\end{aligned}\\]检验：\\((24+16+50)\\div3=30\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "简便计算复核：连续减24、16可先凑40，原式先算66再减16。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s05",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 4,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "投篮比赛，甲队有6人，共投中102个球，乙队有7人，共投中112个球。（    ）队的成绩好。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填甲。两队人数不同，不能只比较投中总个数，要用总个数除以各队人数。甲队\\(102\\div6=17\\)(个)，乙队\\(112\\div7=16\\)(个)；\\(17>16\\)，甲队平均每人投中更多，整体成绩更好。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s06",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 5,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "某手机旗舰店，5月上旬卖了98部手机，中旬卖了125部，下旬卖了149部，这个月平均每天卖（    ）部。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(12\\)。五月有31天，“平均每天”应把全月销量除以31，不能除以三个旬。\\[\\begin{aligned}&(98+125+149)\\div31\\\\={}&(223+149)\\div31\\\\={}&372\\div31\\\\={}&12\\text{(部)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "本轮平均数完整脱式复核：PDF题旁已完整，源码同步全月求和及每天平均的完整脱式。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s07",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 6,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "甲、乙两个数的平均数是80，丙是50，这三个数的平均数是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(70\\)。\\textbf{方法一：以80为基准移多补少}\\par 以80为基准，甲、乙的总量正好是2份80；若丙也为80，三数平均仍为80。丙实际少30，应把这30平均从3份中扣去，所以先用30除以3得10，再从80减10，避免先求210。\\[\\begin{aligned}&80-(80-50)\\div3\\\\={}&80-30\\div3\\\\={}&80-10\\\\={}&70\\end{aligned}\\]原“先求总量再平均”的数量思路也成立，但不能把代表两份的80和代表一份的50直接平均。\\par\\textbf{方法二：先求总量再平均}\\[\\begin{aligned}&(80\\times2+50)\\div3\\\\={}&(160+50)\\div3\\\\={}&210\\div3\\\\={}&70\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "本轮复核：甲乙已平均为80，丙低30；从基准80扣去30÷3即可，避免160+50与210÷3。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s08",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 7,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "两根同样长的木板，每根长20厘米，粘连在一起，重复部分长4厘米。粘连后木板总长（    ）厘米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(36\\)。两块木板长度相加时，接头的\\(4\\)厘米被算了两次，实际只应计一次，所以\\(20\\times2-4=36\\)(厘米)。另可先留整块，再加第二块不重叠的部分：\\(20+(20-4)=36\\)(厘米)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s09",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 8,
+      "id": "一、9",
+      "kind": "fill",
+      "question_latex": "右图直条分别表示小明、小红和小华的身高，虚线（    ）的高度最接近他们的平均身高。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p073_height_bars",
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=.65cm]\\draw[->](0,0)--(3.8,0)node[right]{姓名};\\draw[->](0,0)--(0,6)node[above]{身高};\\foreach \\y/\\lab in {1.6/①,2.5/②,3.4/③,5.5/④}{\\draw[dashed](0,\\y)--(3.5,\\y)node[right]{\\lab};}\\foreach \\x/\\h/\\lab in {.5/2.5/小明,1.6/1.6/小红,2.7/5.5/小华}{\\filldraw[fill=gray!30](\\x,0)rectangle(\\x+.5,\\h);\\node[below]at(\\x+.25,0){\\lab};}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "保留原图三条直条的相对高度和①②③④虚线顺序；原题未给数值，图中不增添数值或单位。"
+        }
+      ],
+      "answer_latex": "填③。把较高直条超过平均线的部分，移去填补较矮直条的不足，使三条一样高；移多补少前后总高度不变。由图形比较，③最接近平衡后的高度。②处上方多出的高度明显多于下方不足，④又高于所有直条中的两条；不能把某一人的身高直接当作平均身高。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p073_s10",
+      "book_page": 73,
+      "source_page": 77,
+      "section_index": 9,
+      "id": "一、10",
+      "kind": "fill",
+      "question_latex": "四个数的平均数是20，去掉一个数，剩下的三个数的平均数是18，去掉的这个数是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(26\\)。简便思路：留下3个数平均各比20少2，去掉的数应比20多3份2。\\[\\begin{aligned}&20+(20-18)\\times3\\\\={}&20+2\\times3\\\\={}&20+6\\\\={}&26\\end{aligned}\\]另可用总和之差，同时计算两个乘法：\\[\\begin{aligned}&20\\times4-18\\times3\\\\={}&80-54\\\\={}&26\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "简便计算复核：在总和相减法之外，平均数补差可只算3份2，避免先算80、54；按本单元移多补少知识处理。",
+          "本轮平均数完整脱式复核：移多补少主法完整；源码的总量差另法也写为对齐脱式，两个独立乘法同时完成。题内也补齐此另法，确保多种方法并同步完整。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

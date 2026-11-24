@@ -1,0 +1,20 @@
+当前补订：原书第10页选择第2题AC核定3厘米，选A；8页共30道竖式原题在已有等号后补齐得数。当前检查入口为vertical_update/qa.json、vertical_update/qa_vertical_visual.json；对应第1册课件核验在vertical_update/ppt。
+
+当前版式：红笔解析文字采用三栏楷体，数学公式保留完整步骤。超出单栏宽度的公式独占通栏，不缩小字号。原位填空、判断符号和局部算式仍保留各自原始位置与字体。
+
+当前题源为 questions，解析正文为 detailed_layout/notes_A.json 至 notes_D.json；原位答语的三栏迁移记录为 threecols_update/original_prose.json，旧位置排除区为 threecols_update/source_masks.json；当前成品页码与几何信息为 detailed_layout/current_release.json、answer_page_map.json。三栏排版源与检查资料在 threecols_update。两套随附字体均在 fonts：FandolKai-Regular.otf 用于解析文字，DroidSansFallback.ttf 用于原位局部片段。
+
+修改解析后的编译顺序（均在项目根目录执行）：
+  python threecols_update/build_threecols.py compile
+  python -c "from pathlib import Path; from build_detailed_answers import load_data,snippets,compile_fragments; r,n,s,_=load_data(); items,_=snippets(r,n,s); compile_fragments(items,Path('latex'))"
+第一步更新已核准的三栏排版正文；第二步生成并编译 latex/详细题内答案.tex，含856个三栏解析片段和190个原位局部片段，共1046个片段。编译器默认调用 xelatex，可通过 XELATEX 环境变量指定可执行文件。若解析正文已改但第一步未重编译，主编译器会明确报错，不会退回单栏。
+
+仅复编随附 TeX（无需改正文）：
+  xelatex -interaction=nonstopmode -halt-on-error -output-directory latex latex/详细题内答案.tex
+
+从当前交付PDF恢复底图并重建：
+  python recover_detailed_base.py /path/to/小学同步素养四年级上册数学答案.pdf --output recovered/annotated_a4_128.pdf --pure-output recovered/pure_source_128.pdf
+  python build_detailed_answers.py --run-name rebuild --publish --input recovered/annotated_a4_128.pdf --pure-source recovered/pure_source_128.pdf
+重建继续使用核准的三栏楷体解析，不会恢复历史单栏版式；较长公式和单位换算仍保持完整。重建允许重新计算题间留白，第一页空白、原题顺序和总页数要求不变。图层重新组合可能产生抗锯齿差异，不承诺文件字节或像素完全相同。
+
+Python依赖：PyMuPDF、NumPy；排版依赖：XeLaTeX及随附TeX宏包。课堂作答以当前 questions、notes 和交付PDF为准；历史补丁仅供追溯，不应盲目重跑。课件相关源保存在 ppt_builder/current_metadata 与各次 ppt_* 更新目录。

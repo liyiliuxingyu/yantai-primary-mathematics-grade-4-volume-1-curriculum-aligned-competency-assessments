@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "root_actual_visual_review": {
+    "whole_pages": [
+      53
+    ],
+    "specific_note_crops": [
+      "p052_s01",
+      "p052_s03",
+      "p075_s02",
+      "p079_s04"
+    ],
+    "specific_local_crops": [
+      "p075_s02_local1"
+    ],
+    "initial_whole53_and_note52_render_sha256": "ead262667f6398e8027af765e6b9d9f2066418b0007a774b57bd1e4b10247c2b",
+    "final_75_and_79_crop_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+    "carryforward": "除75/79的3张裁图外，105裁图像素相同；同页原题、未动区域由final scope与carryforward证据复用。"
+  },
+  "team_actual_visual_review": {
+    "whole_original_book_pages": [
+      10,
+      16,
+      17,
+      22,
+      24,
+      49,
+      52,
+      53,
+      54,
+      55,
+      56,
+      58,
+      61,
+      63,
+      70,
+      75,
+      79,
+      81,
+      82,
+      93,
+      97,
+      100,
+      101,
+      104,
+      105,
+      106
+    ],
+    "conversion_note_regions": 42,
+    "new_local_regions": 66,
+    "proofs": [
+      "qa_visual_001_036.json",
+      "qa_visual_037_072.json",
+      "qa_visual_073_108.json",
+      "qa_visual_carryforward.json"
+    ]
+  },
+  "limits": "上述26整页与108转换/原位修改区有实际目视记录，不声称全部128页人工逐页复算或看过。其余变动范围按源一致性、片段实编和实际导出scope核对。"
+}

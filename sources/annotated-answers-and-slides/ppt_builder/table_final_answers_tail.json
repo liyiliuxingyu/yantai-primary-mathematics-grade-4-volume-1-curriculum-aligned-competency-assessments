@@ -1,0 +1,767 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p055_s12": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "1.\\square4",
+          "answer_latex": "1.24",
+          "note": "依本小问第三名条件，十分位为2；表头已为米，不重复单位。",
+          "allow_nonblank_override": true,
+          "override_reason": "依本小问第三名条件，十分位为2；表头已为米，不重复单位。"
+        }
+      ]
+    },
+    "p076_s01": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "70"
+        },
+        {
+          "table_index": 0,
+          "row_index": 3,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "95"
+        },
+        {
+          "table_index": 1,
+          "row_index": 1,
+          "column_index": 5,
+          "expected_original": "",
+          "answer_latex": "90"
+        },
+        {
+          "table_index": 1,
+          "row_index": 2,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "97"
+        },
+        {
+          "table_index": 1,
+          "row_index": 3,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "84"
+        }
+      ]
+    },
+    "p076_s02": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "70"
+        },
+        {
+          "table_index": 0,
+          "row_index": 3,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "95"
+        },
+        {
+          "table_index": 1,
+          "row_index": 1,
+          "column_index": 5,
+          "expected_original": "",
+          "answer_latex": "90"
+        },
+        {
+          "table_index": 1,
+          "row_index": 2,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "97"
+        },
+        {
+          "table_index": 1,
+          "row_index": 3,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "84"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "0"
+        }
+      ]
+    },
+    "p076_s03": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "0"
+        }
+      ]
+    },
+    "p077_s07": {
+      "table_final_answers": [
+        {
+          "table_index": 1,
+          "row_index": 0,
+          "column_index": 5,
+          "expected_original": "",
+          "answer_latex": "159",
+          "note": "由本题上一小问已给B队平均157厘米求得；不提前回填第一小问尚无该条件的空。"
+        }
+      ]
+    },
+    "p077_s08": {
+      "table_final_answers": [
+        {
+          "table_index": 1,
+          "row_index": 0,
+          "column_index": 5,
+          "expected_original": "",
+          "answer_latex": "159",
+          "note": "由本题上一小问已给B队平均157厘米求得；不提前回填第一小问尚无该条件的空。"
+        }
+      ]
+    },
+    "p080_s02": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "5"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "11"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "8"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "12"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "5"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "13"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "23"
+        }
+      ]
+    },
+    "p080_s03": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "5"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "11"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "8"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "12"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "5"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "13"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "23"
+        }
+      ]
+    },
+    "p080_s04": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "5"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "11"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "8"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "12"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "5"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "13"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "23"
+        }
+      ]
+    },
+    "p084_s03": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "被污渍遮挡",
+          "answer_latex": "22",
+          "note": "两项共1014，桌125×6=750，椅总264，264÷12=22。仅替原污损单价空，不修改给定125/6/12/合计1014。",
+          "allow_nonblank_override": true,
+          "override_reason": "两项共1014，桌125×6=750，椅总264，264÷12=22。仅替原污损单价空，不修改给定125/6/12/合计1014。"
+        }
+      ]
+    },
+    "p092_s01": {
+      "table_final_answers": [
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "7"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "12"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": null,
+          "display_label": "待核",
+          "unresolved": true,
+          "note": "女生特大号人数末位不清；依赖该数的合计也待核。"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 5,
+          "expected_original": "",
+          "answer_latex": null,
+          "display_label": "待核",
+          "unresolved": true,
+          "note": "女生特大号人数末位不清；依赖该数的合计也待核。"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "12"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "7"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 2,
+          "row_index": 1,
+          "column_index": 5,
+          "expected_original": "",
+          "answer_latex": "24"
+        },
+        {
+          "table_index": 2,
+          "row_index": 2,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "10"
+        },
+        {
+          "table_index": 2,
+          "row_index": 2,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "24"
+        },
+        {
+          "table_index": 2,
+          "row_index": 2,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "8"
+        },
+        {
+          "table_index": 2,
+          "row_index": 2,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": null,
+          "display_label": "待核",
+          "unresolved": true,
+          "note": "女生特大号人数末位不清；依赖该数的合计也待核。"
+        },
+        {
+          "table_index": 2,
+          "row_index": 2,
+          "column_index": 5,
+          "expected_original": "",
+          "answer_latex": null,
+          "display_label": "待核",
+          "unresolved": true,
+          "note": "女生特大号人数末位不清；依赖该数的合计也待核。"
+        }
+      ]
+    },
+    "p096_s04": {
+      "table_final_answers": [
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "1"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "9"
+        },
+        {
+          "table_index": 2,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "11"
+        },
+        {
+          "table_index": 3,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "2"
+        },
+        {
+          "table_index": 3,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "7"
+        },
+        {
+          "table_index": 3,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "11"
+        },
+        {
+          "table_index": 3,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "4"
+        }
+      ]
+    },
+    "p100_s05": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "36"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "23"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "7"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "3"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 5,
+          "expected_original": "",
+          "answer_latex": "3"
+        }
+      ]
+    },
+    "p108_s05": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 1,
+          "expected_original": "",
+          "answer_latex": "9"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "",
+          "answer_latex": "8"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 3,
+          "expected_original": "",
+          "answer_latex": "6"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 4,
+          "expected_original": "",
+          "answer_latex": "5"
+        }
+      ]
+    }
+  }
+}

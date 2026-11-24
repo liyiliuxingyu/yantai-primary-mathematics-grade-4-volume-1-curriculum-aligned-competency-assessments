@@ -1,0 +1,675 @@
+{
+  "final_pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "previous_reviewed_pdf_sha256": "ead262667f6398e8027af765e6b9d9f2066418b0007a774b57bd1e4b10247c2b",
+  "crop_checks": [
+    {
+      "key": "p003_s07_local15",
+      "kind": "local",
+      "path": "local_crops/p003_s07_local15.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p004_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p004_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p004_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p004_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p007_s08_local8",
+      "kind": "local",
+      "path": "local_crops/p007_s08_local8.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p008_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p008_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p008_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p008_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p008_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p008_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p012_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p012_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p017_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p017_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p019_s15_local1",
+      "kind": "local",
+      "path": "local_crops/p019_s15_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p019_s16_local1",
+      "kind": "local",
+      "path": "local_crops/p019_s16_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p020_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p020_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p020_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p020_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p020_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p020_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p020_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p020_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p023_s15_local1",
+      "kind": "local",
+      "path": "local_crops/p023_s15_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p024_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p024_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p024_s01_local2",
+      "kind": "local",
+      "path": "local_crops/p024_s01_local2.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p024_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p024_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p024_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p024_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p024_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p024_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p027_s10_local1",
+      "kind": "local",
+      "path": "local_crops/p027_s10_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p027_s11_local1",
+      "kind": "local",
+      "path": "local_crops/p027_s11_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p028_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p028_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p028_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p028_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p028_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p028_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p028_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p028_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p031_s16_local1",
+      "kind": "local",
+      "path": "local_crops/p031_s16_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p032_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p032_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p032_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p032_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p032_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p032_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p036_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p036_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p040_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p040_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p043_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p043_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p043_s04_local2",
+      "kind": "local",
+      "path": "local_crops/p043_s04_local2.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p044_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p044_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p044_s02_local2",
+      "kind": "local",
+      "path": "local_crops/p044_s02_local2.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p047_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p047_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p048_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p048_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p048_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p048_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p048_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p048_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p051_s06_local1",
+      "kind": "local",
+      "path": "local_crops/p051_s06_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p052_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p052_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p052_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p052_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p079_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p079_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p079_s05_local1",
+      "kind": "local",
+      "path": "local_crops/p079_s05_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p084_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p084_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p084_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p084_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p084_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p084_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p084_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p084_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p088_s02_local2",
+      "kind": "local",
+      "path": "local_crops/p088_s02_local2.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p091_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p091_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p091_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p091_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p104_s01_local1",
+      "kind": "local",
+      "path": "local_crops/p104_s01_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p104_s03_local1",
+      "kind": "local",
+      "path": "local_crops/p104_s03_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p104_s04_local1",
+      "kind": "local",
+      "path": "local_crops/p104_s04_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p104_s05_local1",
+      "kind": "local",
+      "path": "local_crops/p104_s05_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p016_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p016_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p016_s02_local2",
+      "kind": "local",
+      "path": "local_crops/p016_s02_local2.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p016_s02_local3",
+      "kind": "local",
+      "path": "local_crops/p016_s02_local3.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s01_local2",
+      "kind": "local",
+      "path": "local_crops/p052_s01_local2.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s03_local2",
+      "kind": "local",
+      "path": "local_crops/p052_s03_local2.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p079_s04_local2",
+      "kind": "local",
+      "path": "local_crops/p079_s04_local2.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p075_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p075_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": false
+    },
+    {
+      "key": "p010_s02",
+      "kind": "note",
+      "path": "crops/p010_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p016_s02",
+      "kind": "note",
+      "path": "crops/p016_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p017_s06",
+      "kind": "note",
+      "path": "crops/p017_s06_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p022_s02",
+      "kind": "note",
+      "path": "crops/p022_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p022_s07",
+      "kind": "note",
+      "path": "crops/p022_s07_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p024_s01",
+      "kind": "note",
+      "path": "crops/p024_s01_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p049_s03",
+      "kind": "note",
+      "path": "crops/p049_s03_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p049_s04",
+      "kind": "note",
+      "path": "crops/p049_s04_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p049_s07",
+      "kind": "note",
+      "path": "crops/p049_s07_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s01",
+      "kind": "note",
+      "path": "crops/p052_s01_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s02",
+      "kind": "note",
+      "path": "crops/p052_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p052_s03",
+      "kind": "note",
+      "path": "crops/p052_s03_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p053_s08",
+      "kind": "note",
+      "path": "crops/p053_s08_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p053_s09",
+      "kind": "note",
+      "path": "crops/p053_s09_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p054_s02",
+      "kind": "note",
+      "path": "crops/p054_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p054_s06",
+      "kind": "note",
+      "path": "crops/p054_s06_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p055_s02",
+      "kind": "note",
+      "path": "crops/p055_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p055_s05",
+      "kind": "note",
+      "path": "crops/p055_s05_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p055_s06",
+      "kind": "note",
+      "path": "crops/p055_s06_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p055_s07",
+      "kind": "note",
+      "path": "crops/p055_s07_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p056_s01",
+      "kind": "note",
+      "path": "crops/p056_s01_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p058_s03",
+      "kind": "note",
+      "path": "crops/p058_s03_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p061_s09",
+      "kind": "note",
+      "path": "crops/p061_s09_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p063_s07",
+      "kind": "note",
+      "path": "crops/p063_s07_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p070_s02",
+      "kind": "note",
+      "path": "crops/p070_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p075_s02",
+      "kind": "note",
+      "path": "crops/p075_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": false
+    },
+    {
+      "key": "p079_s04",
+      "kind": "note",
+      "path": "crops/p079_s04_note.png",
+      "same_pixels_as_preceding_reviewed_crops": false
+    },
+    {
+      "key": "p081_s07",
+      "kind": "note",
+      "path": "crops/p081_s07_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p081_s08",
+      "kind": "note",
+      "path": "crops/p081_s08_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p081_s09",
+      "kind": "note",
+      "path": "crops/p081_s09_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p081_s10",
+      "kind": "note",
+      "path": "crops/p081_s10_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p081_s11",
+      "kind": "note",
+      "path": "crops/p081_s11_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p082_s07",
+      "kind": "note",
+      "path": "crops/p082_s07_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p093_s01",
+      "kind": "note",
+      "path": "crops/p093_s01_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p093_s02",
+      "kind": "note",
+      "path": "crops/p093_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p093_s06",
+      "kind": "note",
+      "path": "crops/p093_s06_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p097_s01",
+      "kind": "note",
+      "path": "crops/p097_s01_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p100_s03",
+      "kind": "note",
+      "path": "crops/p100_s03_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p101_s03",
+      "kind": "note",
+      "path": "crops/p101_s03_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p104_s02",
+      "kind": "note",
+      "path": "crops/p104_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p105_s02",
+      "kind": "note",
+      "path": "crops/p105_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    },
+    {
+      "key": "p106_s02",
+      "kind": "note",
+      "path": "crops/p106_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": true
+    }
+  ],
+  "identical_crops": 105,
+  "changed_crops": [
+    {
+      "key": "p075_s02_local1",
+      "kind": "local",
+      "path": "local_crops/p075_s02_local1.png",
+      "same_pixels_as_preceding_reviewed_crops": false
+    },
+    {
+      "key": "p075_s02",
+      "kind": "note",
+      "path": "crops/p075_s02_note.png",
+      "same_pixels_as_preceding_reviewed_crops": false
+    },
+    {
+      "key": "p079_s04",
+      "kind": "note",
+      "path": "crops/p079_s04_note.png",
+      "same_pixels_as_preceding_reviewed_crops": false
+    }
+  ]
+}

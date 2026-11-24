@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "original_book_pages_compared": 108,
+  "scale": 1,
+  "changed_book_pages": [
+    3
+  ],
+  "other107_question_page_png_bytes_identical": true,
+  "scope": "只原书第3页改变；其他107题页同参数渲染PNG逐字节相同。"
+}

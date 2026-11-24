@@ -1,0 +1,357 @@
+{
+  "schemaVersion": "presentation-finalization.v1",
+  "finalSha256": "c91ec824291a6a1015ee07b9ba5b5ed97fd274b1896c0cd4847a04729a3df699",
+  "byteCount": 4258124,
+  "packageIntegrity": {
+    "chart_count": 0,
+    "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+    "finding_count": 0,
+    "findings": [],
+    "notes_parts_skipped": 430,
+    "relationship_part_count": 870,
+    "slide_count": 430,
+    "status": "pass",
+    "exitCode": 0,
+    "findingCount": 0,
+    "warnings": []
+  },
+  "presentationLayout": {
+    "finding_count": 0,
+    "findings": [],
+    "font_policy": {
+      "checked_text_script_count": 6434,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Droid Sans Fallback"
+      ],
+      "observed_font_use_counts": {
+        "Droid Sans Fallback": 6434
+      },
+      "passed": true,
+      "performed": true
+    },
+    "slide_count": 430,
+    "slide_size_in": [
+      13.3333,
+      7.5
+    ],
+    "warning_count": 0,
+    "warnings": [],
+    "exitCode": 0,
+    "findingCount": 0,
+    "fontPolicy": {
+      "checked_text_script_count": 6434,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Droid Sans Fallback"
+      ],
+      "observed_font_use_counts": {
+        "Droid Sans Fallback": 6434
+      },
+      "passed": true,
+      "performed": true
+    }
+  },
+  "fontSelection": {
+    "basis": "reference",
+    "approvedFamilies": [
+      "Droid Sans Fallback"
+    ],
+    "scriptFonts": {},
+    "referenceSha256": "d4b11c9e51fd40172aa3f12c0934538b1287034ef4ef4caae840c8bbc52d4958",
+    "referenceFontsVerifiedInEncodedText": true,
+    "checked_text_script_count": 6434,
+    "native_font_rendering_verified": false,
+    "observed_font_families": [
+      "Droid Sans Fallback"
+    ],
+    "observed_font_use_counts": {
+      "Droid Sans Fallback": 6434
+    },
+    "passed": true,
+    "performed": true
+  },
+  "firstPartyImport": {
+    "performed": true,
+    "passed": true,
+    "slideCount": 430,
+    "sha256": "c91ec824291a6a1015ee07b9ba5b5ed97fd274b1896c0cd4847a04729a3df699",
+    "nodeExecutable": "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/bin/node"
+  },
+  "nativeTableArithmetic": {
+    "performed": true,
+    "checked_column_count": 0,
+    "checks": [],
+    "claim_boundary": "Displayed-value arithmetic with rounding tolerance; not source-data verification.",
+    "eligible_table_count": 0,
+    "finding_count": 0,
+    "findings": [],
+    "native_table_count": 45,
+    "passed": true,
+    "schema_version": "presentation-native-table-arithmetic.v1",
+    "skipped_tables": [
+      {
+        "reason": "insufficient_rows",
+        "slide": 54,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 59,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 63,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 66,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 67,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 73,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 74,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 76,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 77,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 78,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 80,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 80,
+        "table": 2
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 82,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 83,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 84,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 85,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 87,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 99,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 100,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 103,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 104,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 107,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 108,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 109,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 112,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 133,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 137,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 140,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 144,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 156,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 158,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 158,
+        "table": 2
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 161,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 163,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 167,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 169,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 173,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 256,
+        "table": 1
+      },
+      {
+        "reason": "no_unambiguous_bottom_total",
+        "slide": 260,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 274,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 274,
+        "table": 2
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 275,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 275,
+        "table": 2
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 275,
+        "table": 3
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 275,
+        "table": 4
+      }
+    ],
+    "slide_count": 430,
+    "warning_count": 0,
+    "warnings": []
+  },
+  "nativeChartTitles": {
+    "performed": true,
+    "checks": [],
+    "finding_count": 0,
+    "findings": [],
+    "native_chart_count": 0,
+    "native_powerpoint_verified": false,
+    "passed": true,
+    "presentation_sha256": "c91ec824291a6a1015ee07b9ba5b5ed97fd274b1896c0cd4847a04729a3df699",
+    "schema_version": "presentation-native-chart-titles.v1",
+    "slide_count": 430,
+    "source_text_emitted": false,
+    "unresolved_linked_title_count": 0
+  },
+  "sourceDerivedPolicyFlags": [
+    "--expected-slide-size-emu",
+    "12192000,6858000",
+    "--validate-bullet-geometry",
+    "--validate-heading-fit",
+    "--cover-role",
+    "none",
+    "--expected-slide-count",
+    "430",
+    "--approved-font-family",
+    "Droid Sans Fallback"
+  ],
+  "nativeChartValidation": {
+    "detectedOwnerSlides": [],
+    "detectedChartCount": 0,
+    "targetApplication": "portable",
+    "sourceChartOwnersExplicitlyDeclared": true,
+    "validatorRan": false,
+    "passed": true
+  }
+}

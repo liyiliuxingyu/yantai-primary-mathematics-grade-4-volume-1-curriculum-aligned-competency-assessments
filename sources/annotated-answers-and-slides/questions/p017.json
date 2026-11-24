@@ -1,0 +1,354 @@
+{
+  "book_page": 17,
+  "source_page": 21,
+  "title": "第三单元素养评价（A） 解决问题",
+  "records": [
+    {
+      "key": "p017_s01",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 0,
+      "id": "一、1（全部空）",
+      "kind": "fill",
+      "question_latex": "妈妈花45元买了3千克草莓，每千克草莓多少元。“45元”叫作（    ），“3千克”叫作（    ），每千克草莓的价钱叫作（    ）。数量关系式：________，列式计算：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(45\\)元是买草莓的\\textbf{总价}，\\(3\\)千克是\\textbf{数量}，每千克的价钱叫\\textbf{单价}。数量关系为“单价\\(=\\)总价\\(\\div\\)数量”。\\[\\begin{aligned}&45\\div3\\\\&=15\\text{(元/千克)}\\end{aligned}\\]所以草莓每千克\\(15\\)元。\\par 用“总价\\(=\\)单价\\(\\times\\)数量”检验：\\(15\\times3=45\\text{(元)}\\)，与妈妈花的钱一致。",
+      "verification": {
+        "status": "verified",
+        "reason": "总价45元，数量3千克，单价=总价÷数量=15元/千克。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s02",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 1,
+      "id": "一、2（牛奶）",
+      "kind": "fill",
+      "question_latex": "将表格补充完整：牛奶65元/箱，总价195元，数量应填（    ）。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "物品",
+            "单价",
+            "数量",
+            "总价"
+          ],
+          "rows": [
+            [
+              "牛奶",
+              "65元/箱",
+              "（    ）",
+              "195元"
+            ],
+            [
+              "鸡蛋",
+              "（    ）",
+              "6盒",
+              "108元"
+            ],
+            [
+              "奶茶",
+              "12元/杯",
+              "5杯",
+              "（    ）"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "已知总价和单价，求数量：\\(195\\div65=3\\text{(箱)}\\)。数量栏填\\(3\\)箱。",
+      "verification": {
+        "status": "verified",
+        "reason": "195÷65=3箱。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s03",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 2,
+      "id": "一、2（鸡蛋）",
+      "kind": "fill",
+      "question_latex": "将表格补充完整：鸡蛋6盒，总价108元，单价应填（    ）。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "物品",
+            "单价",
+            "数量",
+            "总价"
+          ],
+          "rows": [
+            [
+              "牛奶",
+              "65元/箱",
+              "（    ）",
+              "195元"
+            ],
+            [
+              "鸡蛋",
+              "（    ）",
+              "6盒",
+              "108元"
+            ],
+            [
+              "奶茶",
+              "12元/杯",
+              "5杯",
+              "（    ）"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "已知总价和数量，求单价：\\(108\\div6=18\\text{(元/盒)}\\)。单价栏填\\(18\\)元/盒。",
+      "verification": {
+        "status": "verified",
+        "reason": "108÷6=18元/盒。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s04",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 3,
+      "id": "一、2（奶茶）",
+      "kind": "fill",
+      "question_latex": "将表格补充完整：奶茶12元/杯，数量5杯，总价应填（    ）。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "物品",
+            "单价",
+            "数量",
+            "总价"
+          ],
+          "rows": [
+            [
+              "牛奶",
+              "65元/箱",
+              "（    ）",
+              "195元"
+            ],
+            [
+              "鸡蛋",
+              "（    ）",
+              "6盒",
+              "108元"
+            ],
+            [
+              "奶茶",
+              "12元/杯",
+              "5杯",
+              "（    ）"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "已知单价和数量，求总价：\\(12\\times5=60\\text{(元)}\\)。总价栏填\\(60\\)元。乘法按“每杯价格\\(\\times\\)杯数”列式。",
+      "verification": {
+        "status": "verified",
+        "reason": "每杯12元×5杯=60元。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s05",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 4,
+      "id": "一、3（全部空）",
+      "kind": "fill",
+      "question_latex": "高铁列车每小时约行驶305千米，这是这列高铁列车的（    ），可以写成（    ），读作（    ），这列高铁列车从甲地到乙地需要8小时，甲地到乙地全程约有（    ）千米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "每小时行\\(305\\)千米表示\\textbf{速度}，写作\\(305\\text{千米/时}\\)，读作“\\(305\\)千米每时”。\\par 由“路程\\(=\\)速度\\(\\times\\)时间”：\\[\\begin{aligned}&305\\times8\\\\&=2440\\text{(千米)}\\end{aligned}\\]路程空填\\(2440\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "速度305千米/时，路程305×8=2440千米。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s06",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 5,
+      "id": "一、4（两个空）",
+      "kind": "fill",
+      "question_latex": "王老师每分钟大约走100米，（    ）分钟大约走1千米。数量关系式：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先统一长度单位：\\[1\\text{千米}=1000\\text{米}\\]所需时间\\(1000\\div100=10\\text{(分)}\\)，数值空填\\(10\\)；关系式填“时间\\(=\\)路程\\(\\div\\)速度”。",
+      "verification": {
+        "status": "verified",
+        "reason": "1千米1000米，时间=1000÷100=10分钟。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s07",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 6,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "每根跳绳8元，老师用245元最多能买（    ）根跳绳。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(245=8\\times30+5\\)，买\\(30\\)根后剩\\(5\\)元，不够再买一根；又有\\(8\\times31=248>245\\)。所以最多买\\(30\\)根。",
+      "verification": {
+        "status": "verified",
+        "reason": "245÷8=30余5，只能买30根。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s08",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 7,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "大货车5小时行驶了360千米，冷藏车4小时行驶了320千米。两辆车相比，（    ）的速度更快。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "比较速度而不是只比较路程。大货车\\(360\\div5=72\\text{(千米/时)}\\)，冷藏车\\(320\\div4=80\\text{(千米/时)}\\)。\\(80>72\\)，填“冷藏车”。",
+      "verification": {
+        "status": "verified",
+        "reason": "360÷5=72，320÷4=80，冷藏车更快。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s09",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 8,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "万达影城的2号厅播放一部电影，该厅共有102个座位，全部坐满，每人票价38元，则该厅共能收入（    ）元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "座位全部坐满，收入\\(=\\)每张票价\\(\\times\\)售票张数。\\[\\begin{aligned}&38\\times102\\\\&=38\\times(100+2)\\\\&=3800+76\\\\&=3876\\text{(元)}\\end{aligned}\\]填\\(3876\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "票价38元×102人=3876元。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p017_s10",
+      "book_page": 17,
+      "source_page": 21,
+      "section_index": 9,
+      "id": "一、8（跨页）",
+      "kind": "fill",
+      "question_latex": "新疆棉日照充足、纤维细长、柔软透气、品质优良，李阿姨用288元买了一批新疆棉毛巾，一共买了8盒，每盒有3条，每盒毛巾单价是（    ）元，平均每条毛巾（    ）元。（后半题续于原书第18页。）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "题目续到下一页：\\(288\\)元买\\(8\\)盒，每盒\\(3\\)条。每盒单价\\(288\\div8=36\\)元，每条单价\\(36\\div3=12\\)元。两空分别为\\(36,12\\)，完整脱式与另一方法见下一页。",
+      "verification": {
+        "status": "verified",
+        "reason": "288÷8=36元/盒，36÷3=12元/条，书后10元不符合题面。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "book_page": 53,
+  "source_page": 57,
+  "records": [
+    {
+      "key": "p053_s01",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "和1相邻的一位小数分别是（　）和（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(0.9,1.1\\)。一位小数的计数单位是0.1，1可写成1.0；它前后相邻的一位小数分别为\\(1.0-0.1=0.9\\)、\\(1.0+0.1=1.1\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p053_s02",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "科学家们发现，当外界环境温度达到人体正常温度与0.618的乘积时，人会感到最舒服。0.618的计数单位是（　），它含有（　）个这样的计数单位，如果改写成以万分之一为计数单位的数，这个数是（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填“千分之一、618、0.6180”。0.618写到千分位，计数单位是\\(0.001\\)，含有618个这样的单位。\\par 最后一问要求改写成以“万分之一”为计数单位，须按小数性质在末尾添一个0，写成四位小数\\(0.6180\\)。它有6180个\\(0.0001\\)。\\(0.618=0.6180\\)，数值没有改变，但按题目指定数位表达时，末尾0用来明确写到了万分位，不能省略。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p053_s03",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "图中两个“4”表示的意义不同，这两个“4”相差（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p053_s03_g1",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\foreach\\x/\\t in{0/个位,1/十分位,2/百分位}{\\draw({1.4*\\x},0)--({1.4*\\x},2.2);\\node[below]at({1.4*\\x},0){\\t};}\\foreach\\y in{.2,.5,.8,1.1}\\draw[fill=gray!50](2.8,\\y)ellipse(.32 and .13);\\begin{scope}[xshift=5cm,yshift=.8cm]\\fill[gray!50](0,0)--(36:1)arc(36:180:1)--cycle;\\draw(0,0)circle(1);\\foreach\\a in{0,36,...,324}\\draw(0,0)--(\\a:1);\\node[below]at(0,-1.2){1};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。 扩大算盘杆间距以分离数位标签；四颗珠仍在百分位杆，右侧圆的十分之四不变。"
+        }
+      ],
+      "answer_latex": "填\\(0.36\\)。计数器百分位4颗珠表示0.04；圆平均分成10份，涂4份表示0.4。两者相差\\(0.4-0.04=0.36\\)。同一个数字在不同数位，表示的大小不同。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "消除算盘数位名标签重叠，仅调整杆间距，不改变四颗珠所在数位和圆的涂色。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p053_s04",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "在0.03、0.003、0.030这三个数中，计数单位相同的是（　）和（　）；大小相等的是（　）和（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "计数单位相同的是\\(0.003\\)与\\(0.030\\)，大小相等的是\\(0.03\\)与\\(0.030\\)。前两者写成三位小数，计数单位均为千分之一；0.03写成两位小数，计数单位为百分之一。小数末尾添0大小不变，所以0.03=0.030。必须区分“数的大小”和“指定写法的计数单位”。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p053_s05",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 4,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "一个数由3个十，8个十分之一和5个千分之一组成，这个数写作（　），读这个数时，有（　）个零不必读出来。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(30.805,1\\)。3个十是30，8个十分之一是0.8，5个千分之一是0.005，合成30.805。整数部分30末尾的0不读，小数部分的0要逐位读，读作“三十点八零五”，所以有1个零不读。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p053_s06",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 5,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "甲数是3.8，乙数是38，在它们的末尾都填上两个零，这时乙数是甲数的（　）倍。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(1000\\)。甲的小数末尾添两个0，3.8变成3.800，大小不变；乙的整数末尾添两个0，38变成3800，扩大100倍。乙原来是甲的10倍，变化后是\\(10\\times100=1000\\)倍。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p053_s07",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 6,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "一个三位小数，各个数位上的数字之和是9，且各个数位上的数字都不相同，符合条件的三位小数最小是（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(0.126\\)。“各个数位上的数字都不相同”包括个位。先让个位为0，十分位最小只能取1，百分位最小取2，千分位由数字和决定：\\(9-0-1-2=6\\)。所以最小为0.126。0.018虽然更小，但个位与十分位都为0，不符合数位数字互不相同的条件。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p053_s08",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 7,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "在括号里填上合适的单位，使等式成立。45（　）＝0.45（　）；3540（　）＝3.540（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "一组答案为“厘米、米；克、千克”。前式进率100，后式进率1000：\\[\\begin{aligned}45\\text{厘米}&=(45\\div100)\\text{米}=0.45\\text{米}\\\\3540\\text{克}&=(3540\\div1000)\\text{千克}=3.540\\text{千克}\\end{aligned}\\]题目未限定单位种类，原有其他合理组合也分别列出：\\[\\begin{aligned}45\\text{分}&=0.45\\text{元}\\\\45\\text{平方厘米}&=0.45\\text{平方分米}\\\\45\\text{平方分米}&=0.45\\text{平方米}\\\\45\\text{公顷}&=0.45\\text{平方千米}\\\\3540\\text{毫米}&=3.540\\text{米}\\\\3540\\text{米}&=3.540\\text{千米}\\\\3540\\text{千克}&=3.540\\text{吨}\\end{aligned}\\]保留题面给定的3.540写法。两边必须是同一种量，不能把长度与质量混配。这里只在原单位空填写单位，不重复数值。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p053_s09",
+      "book_page": 53,
+      "source_page": 57,
+      "section_index": 8,
+      "id": "一、9",
+      "kind": "fill",
+      "question_latex": "10千克花生可以榨4.5千克花生油，1吨花生可以榨（　）千克花生油，合（　）吨花生油。（第二空接下页）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(450,0.45\\)。\\[1\\text{吨}=1000\\text{千克}\\]是10千克的100倍。\\[\\begin{aligned}&4.5\\times(1000\\div10)\\\\&=4.5\\times100\\\\&=450\\text{(千克)}\\end{aligned}\\]\\[450\\text{千克}=(450\\div1000)\\text{吨}=0.45\\text{吨}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

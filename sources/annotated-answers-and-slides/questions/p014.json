@@ -1,0 +1,267 @@
+{
+  "book_page": 14,
+  "source_page": 18,
+  "title": "",
+  "records": [
+    {
+      "key": "p014_s01",
+      "book_page": 14,
+      "source_page": 18,
+      "section_index": 0,
+      "id": "一、7（续）",
+      "kind": "fill",
+      "question_latex": "（接原书第13页第7题）\\(b\\perp d\\)，\\(b\\perp c\\)，那么\\(c\\)与\\(d\\)的位置关系是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填“互相平行”。因为\\(c\\perp b,d\\perp b\\)，两条不同直线垂直于同一条直线时互相平行。",
+      "verification": {
+        "status": "verified",
+        "reason": "同一平面两不同直线同垂直b，则互相平行。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p014_s02",
+      "book_page": 14,
+      "source_page": 18,
+      "section_index": 1,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "在下面的字母中，线段的位置关系既有平行又有垂直的是（    ）。",
+      "options": [
+        "A.A",
+        "B.H",
+        "C.L",
+        "D.X"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)，字母\\(\\mathrm H\\)的两条竖线平行，中间横线又与竖线垂直，兼有两种关系。",
+      "verification": {
+        "status": "verified",
+        "reason": "按原字母主要笔画，H兼有两竖平行与横竖垂直，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "preserve_glyph": true,
+      "glyph_regions": [
+        {
+          "x0": 80,
+          "y0": 118,
+          "x1": 477,
+          "y1": 141,
+          "notes": "保留原A、H、L、X字形作为判断对象，不以其他字体替代。"
+        }
+      ]
+    },
+    {
+      "key": "p014_s03",
+      "book_page": 14,
+      "source_page": 18,
+      "section_index": 2,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "我国战国时期《墨经》中记载“平，同高也”，它的意思是两条平行线间的距离（    ）。",
+      "options": [
+        "A.不相等",
+        "B.处处相等",
+        "C.有时相等",
+        "D.无法确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。“平，同高也”说明平行线之间的垂直距离在各处相等，而不是有时相等。",
+      "verification": {
+        "status": "verified",
+        "reason": "平行线之间垂直距离处处相等，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p014_s04",
+      "book_page": 14,
+      "source_page": 18,
+      "section_index": 3,
+      "id": "二、3（两个空）",
+      "kind": "choice",
+      "question_latex": "在同一平面内，三条直线两两相交，最多有（    ）个交点，最少有（    ）个交点。",
+      "options": [
+        "A.0",
+        "B.1",
+        "C.2",
+        "D.3"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "最多有\\(3\\)个交点，选\\(\\mathrm D\\)：三条直线两两相交且不共点，形成三个不同交点。最少有\\(1\\)个交点，选\\(\\mathrm B\\)：三条直线共同经过一点。题目已经要求“两两相交”，不能用平行线构造\\(0\\)个交点。",
+      "verification": {
+        "status": "verified",
+        "reason": "不共点时三个交点，三线共点时一个交点；两空D、B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p014_s05",
+      "book_page": 14,
+      "source_page": 18,
+      "section_index": 4,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "若\\(a\\parallel b\\)，\\(b\\parallel c\\)，则\\(a\\)与\\(c\\)的位置关系是（    ）。",
+      "options": [
+        "A.互相平行",
+        "B.相交",
+        "C.互相垂直",
+        "D.可能互相平行，也可能互相垂直"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm A\\)。\\(a\\parallel b,b\\parallel c\\)，说明\\(a,c\\)都与同一直线\\(b\\)平行，因此\\(a\\parallel c\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "同一平面平行传递，A。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p014_s06",
+      "book_page": 14,
+      "source_page": 18,
+      "section_index": 5,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "美术手工课上，同学们将一张正方形纸片对折2次，展开后得到的两条折痕（    ）。",
+      "options": [
+        "A.互相垂直",
+        "B.可能互相垂直，也可能互相平行",
+        "C.互相平行",
+        "D.既不互相垂直，也不互相平行"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按通常的折纸方式，选\\(\\mathrm B\\)。两次沿同一方向对折，可得到平行折痕；分别沿横、竖方向对折，可得到垂直折痕。题目没有限定两次的方向，不能只选其中一种。",
+      "verification": {
+        "status": "verified",
+        "reason": "常规同向两折平行，横竖各一折垂直，未限制折向故B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p014_s07",
+      "book_page": 14,
+      "source_page": 18,
+      "section_index": 6,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "某景区救援船停在人工湖的\\(B\\)点，发现\\(A\\)点有游客落水，救援船从\\(B\\)点赶往\\(A\\)点的最短行驶路线，对应的数学原理是（    ）。",
+      "options": [
+        "A.垂直线段最短",
+        "B.两点之间线段最短",
+        "C.平行线间距离相等",
+        "D.过一点有且只有一条直线与已知直线平行"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)rectangle(3,2.1);\\fill(0,1.5)circle(1.5pt)node[left]{$A$};\\fill(1.5,.6)circle(1.5pt)node[right]{$B$};\\draw[->](3.4,1.4)--(3.4,2.5)node[right]{北};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p014_s07_g1"
+        }
+      ],
+      "answer_latex": "选\\(\\mathrm B\\)。\\(A,B\\)是两个已确定的点，要走最短的救援路线，就沿线段\\(AB\\)直接前进；依据是“两点之间线段最短”。",
+      "verification": {
+        "status": "verified",
+        "reason": "A、B固定，直接线段AB最短，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p014_s08",
+      "book_page": 14,
+      "source_page": 18,
+      "section_index": 7,
+      "id": "二、7",
+      "kind": "choice",
+      "question_latex": "国家推进城乡供水一体化改造，在农村饮水安全工程中，从村庄垂直向河边拉输水管道，水管最短，节约管材、降低成本，其中蕴含的数学道理是（    ）。",
+      "options": [
+        "A.两点之间线段最短",
+        "B.垂直线段最短",
+        "C.两点确定一条直线",
+        "D.平行线间距离相等"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。河边在题中看作一条直线，村庄是线外一点。从村庄垂直到河边的线段最短；依据是“垂线段最短”。",
+      "verification": {
+        "status": "verified",
+        "reason": "线外点到河边直线，垂线段最短，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

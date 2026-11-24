@@ -1,0 +1,10 @@
+\begin{tikzpicture}[x=.50bp,y=1bp,font=\small\kaishu,inner sep=1pt,outer sep=0pt,line width=.48bp,color=red!80!black]
+\draw (0,0)--(540,0);
+\foreach \x in {0,80,160,240,340,440,540} {\draw (\x,-2)--(\x,2);}
+\node[left] at (0,0){济南}; \node[right] at (540,0){威海};
+\node[left] at (0,12){面包车}; \node[right] at (540,12){轿车};
+\node[above] at (240,5){相遇点};
+\draw[decorate,decoration={brace,amplitude=3bp}] (0,4)--node[midway,above=4bp]{$80$千米}(80,4);
+\draw[decorate,decoration={brace,amplitude=3bp}] (440,4)--node[midway,above=4bp]{$100$千米}(540,4);
+\draw[decorate,decoration={brace,amplitude=3bp,mirror}] (0,-4)--node[midway,below=4bp]{$?$千米}(540,-4);
+\end{tikzpicture}

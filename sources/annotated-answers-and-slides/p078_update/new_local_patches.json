@@ -1,0 +1,129 @@
+{
+  "records": [
+    {
+      "key": "p078_s01",
+      "id": "p078_s01_local1",
+      "book_page": 78,
+      "kind": "mean_height",
+      "old_displayed_value": "138",
+      "new_photo_value": "136",
+      "mask_rect": [
+        446.75,
+        76.25,
+        466.75,
+        87.25
+      ],
+      "target_rect": [
+        447.5,
+        77,
+        466,
+        86.5
+      ],
+      "latex": "{\\color{black}\\(\\mathrm{136}\\)}",
+      "fit_policy": "vector glyph ink fitted to original number ink rectangle",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+    },
+    {
+      "key": "p078_s01",
+      "id": "p078_s01_local2",
+      "book_page": 78,
+      "kind": "ride_threshold",
+      "old_displayed_value": "146",
+      "new_photo_value": "140",
+      "mask_rect": [
+        234.25,
+        133.25,
+        251.75,
+        142.75
+      ],
+      "target_rect": [
+        235,
+        134,
+        251,
+        142
+      ],
+      "latex": "{\\color{black}\\(\\mathrm{140}\\)}",
+      "fit_policy": "vector glyph ink fitted to original number ink rectangle",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+    },
+    {
+      "key": "p078_s01",
+      "id": "p078_s01_local3",
+      "book_page": 78,
+      "kind": "section_score",
+      "old_displayed_value": "原黑括注字形受损，且显示共19分",
+      "new_photo_value": "（每题2分，共12分）",
+      "mask_rect": [
+        342.25,
+        49.75,
+        467.25,
+        63.75
+      ],
+      "target_rect": [
+        343,
+        50.5,
+        466.5,
+        63
+      ],
+      "latex": "{\\color{black}（每题2分，共12分）}",
+      "fit_policy": "correct full parenthetical rendered inside original parenthetical ink rectangle",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+      "entire_parenthetical_restored": true
+    },
+    {
+      "key": "p078_s05",
+      "id": "p078_s05_local1",
+      "book_page": 78,
+      "kind": "black_scatter_graph_photo_reconstruction",
+      "mask_rect": [
+        397,
+        550,
+        539,
+        643
+      ],
+      "target_rect": [
+        397,
+        550,
+        539,
+        643
+      ],
+      "latex": "{\\color{black}\\input{p078_update/assets/p078_temperatures_photo.tikz}}",
+      "fit_policy": "fit compiled TikZ vector ink to original graph rectangle",
+      "diagram_source": "p078_update/assets/p078_temperatures_photo.tikz",
+      "point_count": 16,
+      "rows": 4,
+      "points_per_row": 4
+    },
+    {
+      "key": "p078_s06",
+      "id": "p078_s06_local1",
+      "book_page": 78,
+      "kind": "black_term_photo_reconstruction",
+      "mask_rect": [
+        282.25,
+        700.25,
+        310.25,
+        713.75
+      ],
+      "target_rect": [
+        283,
+        701,
+        309.5,
+        713
+      ],
+      "latex": "{\\color{black}秧歌}",
+      "new_photo_value": "秧歌",
+      "fit_policy": "restore exact two Chinese glyphs inside original damaged-word rectangle",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+    }
+  ],
+  "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+  "black_digit_patches": 2,
+  "new_graph_patch_pending": false,
+  "existing_local_p078_s04_unchanged": true,
+  "added_local_patch_count": 5,
+  "added_snippet_count": 5,
+  "black_text_patches": 4,
+  "black_heading_patches": 1,
+  "black_damaged_term_patches": 1
+}

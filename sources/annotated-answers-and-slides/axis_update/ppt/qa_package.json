@@ -1,0 +1,68 @@
+{
+  "passed": true,
+  "volumes": [
+    {
+      "volume": 4,
+      "source": "/workspace/scratch/1facfb035d44/axis_revision/bundle/讲解课件/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "source_sha256": "16c8ec03f0984a8534a99db00884480cedf9d7ef935185a30d1faa68116cc10a",
+      "output": "/workspace/scratch/1facfb035d44/axis_revision/ppt/final/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "output_sha256": "e6305c8e23b0c1454a2ccb8450f382c044b9bc35869ab2dd1e707e31425f4597",
+      "slide_count": 462,
+      "changed_slides": [
+        374,
+        375
+      ],
+      "modified_original_parts": [
+        "ppt/slides/slide374.xml",
+        "ppt/slides/slide375.xml",
+        "ppt/slides/_rels/slide375.xml.rels"
+      ],
+      "added_media_parts": [
+        "ppt/media/axis_times_20261103.png",
+        "ppt/media/axis_times_20261103.svg"
+      ],
+      "all_timing_xml_byte_identical": 462,
+      "all_shape_id_sequences_identical": 462,
+      "all_other_original_components_byte_identical": true,
+      "changes": [
+        {
+          "slide": 374,
+          "old1": "√。沿正方形任一条对角线对折，两侧能完全重合，所以对",
+          "old2": "角线是对称轴。"
+        },
+        {
+          "slide": 375,
+          "native_omml": "✓ → ×",
+          "compatibility_branches": "actual XeLaTeX SVG+PNG replaced at this slide only"
+        }
+      ]
+    },
+    {
+      "volume": 5,
+      "source": "/workspace/scratch/1facfb035d44/axis_revision/bundle/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+      "source_sha256": "d4b11c9e51fd40172aa3f12c0934538b1287034ef4ef4caae840c8bbc52d4958",
+      "output": "/workspace/scratch/1facfb035d44/axis_revision/ppt/final/小学四上同步素养卷第5册讲解课件答案.pptx",
+      "output_sha256": "c91ec824291a6a1015ee07b9ba5b5ed97fd274b1896c0cd4847a04729a3df699",
+      "slide_count": 430,
+      "changed_slides": [
+        293
+      ],
+      "modified_original_parts": [
+        "ppt/slides/slide293.xml"
+      ],
+      "added_media_parts": [],
+      "all_timing_xml_byte_identical": 430,
+      "all_shape_id_sequences_identical": 430,
+      "all_other_original_components_byte_identical": true,
+      "changes": [
+        {
+          "slide": 293,
+          "old": "正方形有两条对角线和两条对边中点连线，共",
+          "new": "对角线和对边中点连线所在的直线，共"
+        }
+      ]
+    }
+  ],
+  "all_six_decks_scan": "scan.json",
+  "powerpoint_playback_tested": false
+}

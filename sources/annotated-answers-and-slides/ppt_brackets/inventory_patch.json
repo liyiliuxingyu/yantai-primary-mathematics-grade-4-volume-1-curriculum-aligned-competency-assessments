@@ -1,0 +1,110 @@
+[
+  {
+    "volume": 1,
+    "pptx": "小学四上同步素养卷第1册讲解课件答案.pptx",
+    "sha256": "bfa33453d07728ee480a771f3c5f130926e77cf3f41cf9d96c1fbe19f7ca6a57",
+    "parent_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slides": 426,
+    "bracket_continuation_revision": "ppt_brackets/qa_final.json",
+    "changed_slides": [
+      65,
+      66,
+      67,
+      83,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      184,
+      185,
+      254,
+      337,
+      338,
+      339
+    ]
+  },
+  {
+    "volume": 2,
+    "pptx": "小学四上同步素养卷第2册讲解课件答案.pptx",
+    "sha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+    "parent_sha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+    "slides": 479,
+    "bracket_continuation_revision": "ppt_brackets/qa_final.json",
+    "changed_slides": [
+      22
+    ]
+  },
+  {
+    "volume": 3,
+    "pptx": "小学四上同步素养卷第3册讲解课件答案.pptx",
+    "sha256": "7544ada9a6313730ef63b09977f93cf07ae58afe24873eb3c14dbf0788c2bc58",
+    "parent_sha256": "5c7957b3650ff3677dcf9351a866bd59917e91fe297a6e7099f2a15644737bf2",
+    "slides": 406,
+    "bracket_continuation_revision": "ppt_brackets/qa_final.json",
+    "changed_slides": [
+      153,
+      174,
+      179,
+      235
+    ]
+  },
+  {
+    "volume": 4,
+    "pptx": "小学四上同步素养卷第4册讲解课件答案.pptx",
+    "sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+    "parent_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+    "slides": 462,
+    "bracket_continuation_revision": "ppt_brackets/qa_final.json",
+    "changed_slides": []
+  },
+  {
+    "volume": 5,
+    "pptx": "小学四上同步素养卷第5册讲解课件答案.pptx",
+    "sha256": "3bb0302a9a348168d58850989e6268892082f898bd2ea7f91549c7c52f32d038",
+    "parent_sha256": "a34f6bf39d5fc55bc5fa8acc593b17d36d82708c1310b3d731465d99d7a7160e",
+    "slides": 433,
+    "bracket_continuation_revision": "ppt_brackets/qa_final.json",
+    "changed_slides": [
+      7,
+      46,
+      48,
+      56,
+      69,
+      88,
+      98,
+      101,
+      102,
+      107,
+      143,
+      145,
+      242,
+      381,
+      389,
+      398,
+      399
+    ]
+  },
+  {
+    "volume": 6,
+    "pptx": "小学四上同步素养卷第6册讲解课件答案.pptx",
+    "sha256": "ffff509562a452719d19d614169fb4728271f9de41d84418727104d3791e22fc",
+    "parent_sha256": "767a71698edb16a556c373f7e5fe3e85e48a25eefb1f5d6fd555fc83ca517094",
+    "slides": 464,
+    "bracket_continuation_revision": "ppt_brackets/qa_final.json",
+    "changed_slides": [
+      2,
+      4,
+      5,
+      13,
+      16,
+      92,
+      128,
+      222,
+      350,
+      352,
+      433
+    ]
+  }
+]

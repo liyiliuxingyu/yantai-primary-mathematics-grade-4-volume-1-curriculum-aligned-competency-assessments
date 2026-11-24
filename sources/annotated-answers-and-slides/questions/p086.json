@@ -1,0 +1,416 @@
+{
+  "book_page": 86,
+  "source_page": 90,
+  "records": [
+    {
+      "key": "p086_s01",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 0,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "二、选择（将正确答案的序号填在括号里）。（每题3分，共18分）\\par 1. 将图形顺时针旋转\\(90^\\circ\\)后可以得到下面图形（    ）。",
+      "options": [
+        "A. 三格横排，最右格上方再一格",
+        "B. 三格竖排，最下格右侧再一格",
+        "C. 三格竖排，最上格左侧再一格",
+        "D. 无法确定"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p086_s01_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.65]\\draw (0,1) rectangle ++(1,1);\\draw (1,1) rectangle ++(1,1);\\draw (2,1) rectangle ++(1,1);\\draw (0,0) rectangle ++(1,1);\\end{tikzpicture}",
+          "notes": "原图四格L形。"
+        },
+        {
+          "name": "p086_s01_A",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.65]\\draw (0,0) rectangle ++(1,1);\\draw (1,0) rectangle ++(1,1);\\draw (2,0) rectangle ++(1,1);\\draw (2,1) rectangle ++(1,1);\\end{tikzpicture}"
+        },
+        {
+          "name": "p086_s01_B",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.65]\\draw (0,0) rectangle ++(1,1);\\draw (0,1) rectangle ++(1,1);\\draw (0,2) rectangle ++(1,1);\\draw (1,0) rectangle ++(1,1);\\end{tikzpicture}"
+        },
+        {
+          "name": "p086_s01_C",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.65]\\draw (0,0) rectangle ++(1,1);\\draw (0,1) rectangle ++(1,1);\\draw (0,2) rectangle ++(1,1);\\draw (-1,2) rectangle ++(1,1);\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "选C。顺时针转\\(90^\\circ\\)后，原来的三格横排变成竖排，左下伸出的那一格转到上端左侧，与C相同。旋转只改变方向，不能反射翻面。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s02",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 1,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "2. 在同一平面内的\\(a,b,c\\)三条直线，直线\\(a\\)与直线\\(b\\)都和直线\\(c\\)相交成直角，则直线\\(a\\)与直线\\(b\\)（    ）。",
+      "options": [
+        "A. 互相平行",
+        "B. 互相垂直",
+        "C. 不平行也不垂直",
+        "D. 无法确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选A。同一平面内，两条直线都垂直于同一条直线，这两条直线互相平行，即\\(a\\perp c\\)、\\(b\\perp c\\)推出\\(a\\parallel b\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s03",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 2,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "3. 等腰三角形中，有一个内角是\\(40^\\circ\\)，另外两个内角是（    ）。",
+      "options": [
+        "A. \\(40^\\circ\\)和\\(100^\\circ\\)",
+        "B. \\(70^\\circ\\)和\\(50^\\circ\\)",
+        "C. \\(40^\\circ\\)和\\(100^\\circ\\)或者\\(70^\\circ\\)和\\(70^\\circ\\)",
+        "D. 无法确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。按给定内角\\(40^\\circ\\)：若它是顶角，另两角均为\\((180-40)\\div2=70^\\circ\\)；若它是底角，另一底角也是\\(40^\\circ\\)，顶角\\(180-40\\times2=100^\\circ\\)。两种情况都要考虑。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s04",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 3,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "4. 把一个长方形框架拉成一个平行四边形，平行四边形的周长与原长方形的周长（    ）。",
+      "options": [
+        "A. 大",
+        "B. 小",
+        "C. 一样大",
+        "D. 无法比较大小"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。铁丝框拉成平行四边形，四条边的长度没有变，只是角度和高改变，所以周长不变，与原长方形一样大。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s05",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 4,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "5. 下列图形中，不是轴对称图形的是（    ）。",
+      "options": [
+        "A. 向右箭头",
+        "B. 一般平行四边形",
+        "C. 十字形轮廓",
+        "D. 圆形轮廓（原扫描局部缺损）"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p086_s05_g1",
+          "role": "question",
+          "preserve_glyph": true,
+          "source_region": {
+            "x0": 80,
+            "y0": 455,
+            "x1": 570,
+            "y1": 525
+          },
+          "notes": "判断对象图形保留扫描轮廓；D局部扫描缺损。",
+          "glyph_image": "preserved_glyphs/p086_s05_g1.png"
+        }
+      ],
+      "answer_latex": "选B。一般平行四边形没有对称轴。A箭头可沿水平中线对折，C的左右、上下轮廓对应；不能把一般平行四边形误当成长方形。",
+      "verification": {
+        "status": "conditional",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [
+          "D轮廓扫描缺损，按原图理想圆形作答；B一般平行四边形明确无对称轴。"
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s06",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 5,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "6. 以下是某手机地图APP中的四个工具标识图，哪个不是轴对称图形？（    ）",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p086_s06_g1",
+          "role": "question",
+          "preserve_glyph": true,
+          "source_region": {
+            "x0": 80,
+            "y0": 542,
+            "x1": 565,
+            "y1": 602
+          },
+          "notes": "整体标识含内部结构本身为判断对象，不能更换字体或简化闪电。",
+          "glyph_image": "preserved_glyphs/p086_s06_g1.png"
+        }
+      ],
+      "answer_latex": "选C。按图示完整标志判断，C中闪电及轮廓不能沿某条直线对折重合；其余标志按所示对称轮廓设计可找到对应的对称轴。",
+      "verification": {
+        "status": "conditional",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [
+          "图标细字模糊，保留完整原图；A可辨为家人地图，其余不猜写名称。"
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s07",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 6,
+      "id": "三、1",
+      "kind": "judgment",
+      "question_latex": "三、判断（对的打“√”，错的打“×”）。（共6分）\\par 1. 过直线外一点只能画一条与已知直线方向平行的直线。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\checkmark\\)。在同一平面内，过直线外一点，有且只有一条直线与已知直线平行。这是平行线的唯一性。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s08",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 7,
+      "id": "三、2",
+      "kind": "judgment",
+      "question_latex": "2. 不相交的两条直线互相平行。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\times\\)。必须补充“在同一平面内”。空间里两条直线可能既不相交，也不平行，例如不同方向且不在同一平面的两条棱所在直线。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s09",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 8,
+      "id": "三、3",
+      "kind": "judgment",
+      "question_latex": "3. 一个等腰三角形，底角是[疑读\\(26^\\circ\\)，原扫描末位不清]，它一定是钝角三角形。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判断为\\(\\checkmark\\)。若底角为\\(26^\\circ\\)，顶角\\(180^\\circ-26^\\circ\\times2=128^\\circ\\)，是钝角三角形；若原字确为\\(25^\\circ\\)，顶角则为\\(130^\\circ\\)，结论同样为钝角。原扫描末位近似6，不能把130度作为已核清的唯一顶角；判断√不受这两种读法影响。",
+      "verification": {
+        "status": "conditional",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [
+          "底角数字原图近26，旧转录25，末位扫描不清；顶角128/130随条件变化，判断√确定。"
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s10",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 9,
+      "id": "三、4",
+      "kind": "judgment",
+      "question_latex": "4. 旋转后图形的大小、形状都改变了。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\times\\)。旋转前后形状、大小都不变，改变的是位置和朝向。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s11",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 10,
+      "id": "三、5",
+      "kind": "judgment",
+      "question_latex": "5. 相交后的四个角都是直角的两条直线一定互相垂直。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\checkmark\\)。相交形成的四个角都是直角，正是两条直线互相垂直的定义，所以可判垂直。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p086_s12",
+      "book_page": 86,
+      "source_page": 90,
+      "section_index": 11,
+      "id": "三、6",
+      "kind": "judgment",
+      "question_latex": "6. 两个等底等高的梯形一定能拼成一个平行四边形。（    ）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "判\\(\\times\\)。等底等高不保证两个梯形的腰长、倾斜方式都相同，未必能拼成两组对边分别平行的四边形。能够保证拼成平行四边形的是两个完全相同的梯形，沿合适的腰拼接；不能把“等底等高”当成“形状、大小完全相同”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

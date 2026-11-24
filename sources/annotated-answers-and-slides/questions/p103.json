@@ -1,0 +1,663 @@
+{
+  "book_page": 103,
+  "source_page": 107,
+  "records": [
+    {
+      "key": "p103_s01",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 0,
+      "id": "二、6（选项在本页）",
+      "kind": "choice",
+      "question_latex": "二、6（续）。请结合上一页题干及本页成绩表，选择使二组在三局两胜制中获胜的方案。",
+      "options": [
+        "A. 丙—A，乙—B，甲—C",
+        "B. 丙—B，乙—C，甲—A",
+        "C. 丙—A，乙—C，甲—B",
+        "D. 丙—C，乙—A，甲—B"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "",
+            "第一名",
+            "第二名",
+            "第三名"
+          ],
+          "rows": [
+            [
+              "一组",
+              "A：15秒",
+              "B：20秒",
+              "C：23秒"
+            ],
+            [
+              "二组",
+              "甲：16秒",
+              "乙：21秒",
+              "丙：24秒"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "选C，丙对A、乙对C、甲对B，二组依次输、赢、赢。具体用时比较为\\(24>15\\)、\\(21<23\\)、\\(16<20\\)，所以二组赢两场。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s02",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 1,
+      "id": "二、7",
+      "kind": "choice",
+      "question_latex": "7. 小军在探索四边形的内角和时，采用了如下图所示的分割转化法，下列选项中，（    ）体现了他的推算过程。",
+      "options": [
+        "A. \\(4\\times180^\\circ-360^\\circ\\)",
+        "B. \\(\\angle1+\\angle2+\\angle3+\\angle4\\)",
+        "C. \\(3\\times180^\\circ-180^\\circ\\)"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p103_s02_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\coordinate[label=above left:A](A)at(0,2);\\coordinate[label=below left:B](B)at(.7,0);\\coordinate[label=below right:C](C)at(2.5,-.3);\\coordinate[label=above right:D](D)at(4,2.1);\\coordinate[label=below:E](E)at(1.6,1.2);\\draw(A)--(B)--(C)--(D)--cycle;\\draw(A)--(E)(B)--(E)(C)--(E)(D)--(E);\\node at(.4,1.5){1};\\node at(.85,.65){2};\\node at(2.5,.3){3};\\node at(3.3,1.6){4};\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "选A。连接内点E与四个顶点，得到4个三角形；四个三角形内角和共\\(180^\\circ\\times4\\)，其中E周围的周角\\(360^\\circ\\)不是四边形内角，须减去。\\[\\begin{aligned}&180^\\circ\\times4-360^\\circ\\\\={}&720^\\circ-360^\\circ\\\\={}&360^\\circ\\end{aligned}\\]B只合计了图中部分小角，漏掉了其他内角部分。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s03",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 2,
+      "id": "三、1",
+      "kind": "calculation",
+      "question_latex": "三、计算。（共30分）\\par 1. 直接写得数。（8分）\\par \\(3.26+0.4=\\quad4.37+2.7=\\quad5.6-4=\\quad62+38\\times0=\\)\\par \\(0.65+0.35=\\quad0.6\\div100=\\quad8-2.68=\\quad4.32\\times1000=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按原题行列依次为：\\par 第一行\\(3.66,7.07,1.6,62\\)；\\par 第二行\\(1,0.006,5.32,4320\\)。\\par 要点：\\(62+38\\times0=62+0=62\\)，先乘后加；\\(0.6\\div100=0.006\\)；\\(4.32\\times1000=4320\\)。小数加减对齐小数点。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s04",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 3,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "2. 列竖式计算。（带★的要验算）（13分）\\par \\(9.27+15.9=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把15.9末尾补0，与9.27对齐小数点。\\[\\begin{array}{r}9.27\\\\+15.90\\\\\\hline25.17\\end{array}\\]百分位\\(7+0=7\\)，十分位\\(2+9=11\\)，满十进一，结果25.17。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s05",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 4,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "\\(25.7+16.4=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "小数点对齐，十分位\\(7+4=11\\)，向个位进1：\\[\\begin{array}{r}25.7\\\\+16.4\\\\\\hline42.1\\end{array}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s06",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 5,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "\\(10-4.03=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把10写作10.00，以便按位退位相减：\\[\\begin{array}{r}10.00\\\\-4.03\\\\\\hline5.97\\end{array}\\]检验可算\\(5.97+4.03=10.00\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s07",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 6,
+      "id": "三、2（4）",
+      "kind": "calculation",
+      "question_latex": "★\\(18.2-6.78=\\)（要验算）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把18.2写作18.20，小数点对齐：\\[\\begin{array}{r}18.20\\\\-6.78\\\\\\hline11.42\\end{array}\\]\\par 验算用差加减数，恢复被减数：\\[\\begin{array}{r}11.42\\\\+6.78\\\\\\hline18.20\\end{array}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s08",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 7,
+      "id": "三、3（1）",
+      "kind": "calculation",
+      "question_latex": "3. 计算下列各题，能简便计算的要简便计算。（9分）\\par \\(45.01+6.1+0.99+2.9\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "凑整相加。\\[\\begin{aligned} &45.01+6.1+0.99+2.9\\\\ ={}&(45.01+0.99)+(6.1+2.9)\\\\ ={}&46+9\\\\ ={}&55\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s09",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 8,
+      "id": "三、3（2）",
+      "kind": "calculation",
+      "question_latex": "\\(45\\times98\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "简便方法：98看作100少2。\\[\\begin{aligned} &45\\times98\\\\ ={}&45\\times(100-2)\\\\ ={}&4500-90\\\\ ={}&4410\\end{aligned}\\]同一分配律的另一种拆法（不另计解法）：45拆成50少5。\\[\\begin{aligned} &45\\times98\\\\ ={}&(50-5)\\times98\\\\ ={}&4900-490\\\\ ={}&4410\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "修正或补足解析。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s10",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 9,
+      "id": "三、3（3）",
+      "kind": "calculation",
+      "question_latex": "\\(101\\times101-101\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "提取101，减去一份101。\\[\\begin{aligned} &101\\times101-101\\\\ ={}&101\\times(101-1)\\\\ ={}&101\\times100\\\\ ={}&10100\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p103_s11",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 10,
+      "id": "四、（1）",
+      "kind": "drawing",
+      "question_latex": "四、操作。（共12分）\\par （1）画出三角形\\(ABC\\)中\\(AC\\)边上的高。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p103_s11_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.43]\\draw[gray!50,step=1](0,0)grid(15,8);\\coordinate[label=above right:A](A)at(4,7);\\coordinate[label=below right:B](B)at(4,3);\\coordinate[label=below left:C](C)at(1,3);\\draw[thick](A)--(B)--(C)--cycle;\\end{tikzpicture}"
+        },
+        {
+          "name": "p103_s11_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.43]\\draw[gray!50,step=1](0,0)grid(15,8);\\coordinate[label=above right:A](A)at(4,7);\\coordinate[label=below right:B](B)at(4,3);\\coordinate[label=below left:C](C)at(1,3);\\draw[thick](A)--(B)--(C)--cycle;\\coordinate[label={[red]left:D}](D)at(2.08,4.44);\\draw[red,dashed](B)--(D);\\draw[red](2.2,4.6)--(2.36,4.48)--(2.24,4.32);\\node[red,above]at(3.4,3.7){高};\\node[above left]at(2.5,5){底};\\end{tikzpicture}",
+          "animation": {
+            "type": "altitude",
+            "vertex": [
+              4,
+              3
+            ],
+            "foot": [
+              2.08,
+              4.44
+            ],
+            "base": [
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                7
+              ]
+            ],
+            "diagram_name": "p103_s11_a1",
+            "object_points": [
+              [
+                4,
+                7
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                1,
+                3
+              ]
+            ]
+          },
+          "notes": " 只把高字移到虚线BD上侧，避开底边BC与点B；全部几何坐标、线段、直角符号和动画元数据不变。"
+        }
+      ],
+      "answer_latex": "AC作为底，应从与AC相对的顶点B作高；过B作\\(AC\\)的垂线，与AC交于D。高是线段BD，不是“直线BD”，D处要有直角标记。左图D已落在AC上。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "将高字移到虚线BD上侧，避免压住BC；仅改文字anchor及offset，几何和动画不变。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [
+          [
+            351.5,
+            716.2,
+            380.4,
+            738.3
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "altitude",
+          "vertex": [
+            4,
+            3
+          ],
+          "foot": [
+            2.08,
+            4.44
+          ],
+          "base": [
+            [
+              1,
+              3
+            ],
+            [
+              4,
+              7
+            ]
+          ],
+          "diagram_name": "p103_s11_a1",
+          "object_points": [
+            [
+              4,
+              7
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              1,
+              3
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "p103_s12",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 11,
+      "id": "四、（2）",
+      "kind": "drawing",
+      "question_latex": "（2）以\\(AB\\)边所在直线为对称轴，画出轴对称图形的另一半。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p103_s12_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.43]\\draw[gray!50,step=1](0,0)grid(15,8);\\coordinate[label=above right:A](A)at(4,7);\\coordinate[label=below right:B](B)at(4,3);\\coordinate[label=below left:C](C)at(1,3);\\draw[thick](A)--(B)--(C)--cycle;\\end{tikzpicture}",
+          "animation": {
+            "type": "symmetry",
+            "object_points": [
+              [
+                4,
+                7
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                1,
+                3
+              ]
+            ],
+            "axis": [
+              [
+                4,
+                0
+              ],
+              [
+                4,
+                8
+              ]
+            ],
+            "diagram_name": "p103_s12_g1"
+          }
+        },
+        {
+          "name": "p103_s12_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.43]\\draw[gray!50,step=1](0,0)grid(15,8);\\coordinate[label=above right:A](A)at(4,7);\\coordinate[label=below right:B](B)at(4,3);\\coordinate[label=below left:C](C)at(1,3);\\draw[thick](A)--(B)--(C)--cycle;\\draw[red,dashed](4,0)--(4,8);\\draw[red](4,7)--(7,3)--(4,3);\\node[red,below]at(7,3){\\(C_1\\)};\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "以AB所在直线为对称轴，A、B在轴上保持不动。C的对应点\\(C_1\\)位于轴的右侧，到AB的格数等于C到AB的格数；连\\(AC_1,BC_1\\)补全图形；\\(CC_1\\)与\\(AB\\)垂直。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "symmetry",
+          "object_points": [
+            [
+              4,
+              7
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              1,
+              3
+            ]
+          ],
+          "axis": [
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              8
+            ]
+          ],
+          "diagram_name": "p103_s12_g1"
+        }
+      ]
+    },
+    {
+      "key": "p103_s13",
+      "book_page": 103,
+      "source_page": 107,
+      "section_index": 12,
+      "id": "四、（3）",
+      "kind": "drawing",
+      "question_latex": "（3）把三角形\\(ABC\\)先绕点\\(A\\)逆时针旋转\\(90^\\circ\\)，再向右平移\\(4\\)格。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p103_s13_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.43]\\draw[gray!50,step=1](0,0)grid(15,8);\\coordinate[label=above right:A](A)at(4,7);\\coordinate[label=below right:B](B)at(4,3);\\coordinate[label=below left:C](C)at(1,3);\\draw[thick](A)--(B)--(C)--cycle;\\end{tikzpicture}",
+          "animations": [
+            {
+              "type": "rotation",
+              "object_points": [
+                [
+                  4,
+                  7
+                ],
+                [
+                  4,
+                  3
+                ],
+                [
+                  1,
+                  3
+                ]
+              ],
+              "center": [
+                4,
+                7
+              ],
+              "angle": 90,
+              "direction": "counterclockwise",
+              "diagram_name": "p103_s13_g1"
+            },
+            {
+              "type": "translation",
+              "object_points": [
+                [
+                  4,
+                  7
+                ],
+                [
+                  8,
+                  7
+                ],
+                [
+                  8,
+                  4
+                ]
+              ],
+              "dx": 4,
+              "dy": 0,
+              "diagram_name": "p103_s13_g1"
+            }
+          ]
+        },
+        {
+          "name": "p103_s13_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.43]\\draw[gray!50,step=1](0,0)grid(15,8);\\coordinate[label=above right:A](A)at(4,7);\\coordinate[label=below right:B](B)at(4,3);\\coordinate[label=below left:C](C)at(1,3);\\draw[thick](A)--(B)--(C)--cycle;\\draw[red](4,7)--(8,7)--(8,4)--cycle;\\draw[red](8,7)--(12,7)--(12,4)--cycle;\\node[red,above]at(6,8.8){旋转后};\\node[red,above]at(10,8.8){平移后};\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "先绕A逆时针旋转\\(90^\\circ\\)：A不动，其余两个顶点到A的距离不变，方向逆时针转直角；连成旋转后的三角形。再把所得三个顶点都向右移动4格，依次连接得到终图。平移的4格应从“旋转后的各顶点”起数，不能仍从原图顶点起数。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "rotation",
+          "object_points": [
+            [
+              4,
+              7
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              1,
+              3
+            ]
+          ],
+          "center": [
+            4,
+            7
+          ],
+          "angle": 90,
+          "direction": "counterclockwise",
+          "diagram_name": "p103_s13_g1"
+        },
+        {
+          "type": "translation",
+          "object_points": [
+            [
+              4,
+              7
+            ],
+            [
+              8,
+              7
+            ],
+            [
+              8,
+              4
+            ]
+          ],
+          "dx": 4,
+          "dy": 0,
+          "diagram_name": "p103_s13_g1"
+        }
+      ]
+    }
+  ]
+}

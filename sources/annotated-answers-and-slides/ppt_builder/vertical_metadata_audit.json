@@ -1,0 +1,7 @@
+{
+  "records": 26,
+  "calculations": 40,
+  "checks": 416,
+  "issues": [],
+  "scope": "independent reconstruction of every digit grid, decimal point, shifted partial product, quotient placement, trial product, remainder, and required rule. This is metadata validation, not a PowerPoint visual or playback test."
+}

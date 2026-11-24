@@ -1,0 +1,57 @@
+[
+  {
+    "volume": 1,
+    "manifest": "/workspace/scratch/1facfb035d44/simplify_review/project/ppt_builder/current_metadata/volume01/manifest.json",
+    "changed_slides": [
+      64,
+      65,
+      82,
+      88,
+      93,
+      136,
+      139,
+      147,
+      160,
+      176,
+      255,
+      336,
+      338
+    ],
+    "index_changed": false,
+    "index_reason": "Structural mapping and final numeric answers unchanged.",
+    "output_sha256": "f027fc4bf7571b8d7ce84166be54b830ce6fbe29b5ca8b3c89e3028f2d7d1202",
+    "parent_sha256": "164d1508e5b90ca2c2e259e6bcc3ca95e7d4fb9048fb5f594c59ccf99ba1c762",
+    "simplify_revision": "simplify_review/ppt_1_2/qa_final.json"
+  },
+  {
+    "volume": 2,
+    "manifest": "/workspace/scratch/1facfb035d44/simplify_review/project/ppt_builder/current_metadata/volume02/manifest.json",
+    "changed_slides": [
+      22,
+      23,
+      33,
+      114,
+      129,
+      248,
+      249,
+      251,
+      253,
+      254,
+      256,
+      257,
+      259,
+      260,
+      349,
+      350,
+      358,
+      359,
+      360,
+      361
+    ],
+    "index_changed": false,
+    "index_reason": "Structural mapping and final numeric answers unchanged.",
+    "output_sha256": "06c352e213cf93115face9bc15505d478bb64069136fe879da48dfb6159ba941",
+    "parent_sha256": "152a5ccafd19e7e1ab113444c3b34e7c8e64578739cfdbeff7a6074acc53a61b",
+    "simplify_revision": "simplify_review/ppt_1_2/qa_final.json"
+  }
+]

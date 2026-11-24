@@ -1,0 +1,1869 @@
+{
+  "task": "Screen later original-book pages 44–83 for quantity-analysis trees like p003_s07",
+  "scope": {
+    "first_book_page": 44,
+    "last_book_page": 83,
+    "present_pages": 40,
+    "records": 304,
+    "missing_pages": [],
+    "all_record_question_and_diagram_fields_scanned": true,
+    "all_present_source_pages_visual_screened": true,
+    "visual_screen_resolution_note": "Contact sheets sufficient for identifying whether printed tree frames are present; not a full character-by-character math audit of all pages."
+  },
+  "pages": [
+    {
+      "book_page": 44,
+      "source_page": 48,
+      "record_count": 4,
+      "question_keys": [
+        "p044_s01",
+        "p044_s02",
+        "p044_s03",
+        "p044_s04"
+      ],
+      "question_json_sha256": "361ca2ff6e4407e941f6e3631f5dea4e97a300da5af65f38d89d5756de3442fc",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 45,
+      "source_page": 49,
+      "record_count": 10,
+      "question_keys": [
+        "p045_s01",
+        "p045_s02",
+        "p045_s03",
+        "p045_s04",
+        "p045_s05",
+        "p045_s06",
+        "p045_s07",
+        "p045_s08",
+        "p045_s09",
+        "p045_s10"
+      ],
+      "question_json_sha256": "ce22b395a96eaf38cd147b40a45996d6fc38cc2da8a053272f8cb1d0885aa542",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 46,
+      "source_page": 50,
+      "record_count": 11,
+      "question_keys": [
+        "p046_s01",
+        "p046_s02",
+        "p046_s03",
+        "p046_s04",
+        "p046_s05",
+        "p046_s06",
+        "p046_s07",
+        "p046_s08",
+        "p046_s09",
+        "p046_s10",
+        "p046_s11"
+      ],
+      "question_json_sha256": "604a96c23ad1566960295f74aaf9153893729d1127d08dbf0d8f08bc92a2d559",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 47,
+      "source_page": 51,
+      "record_count": 4,
+      "question_keys": [
+        "p047_s01",
+        "p047_s02",
+        "p047_s03",
+        "p047_s04"
+      ],
+      "question_json_sha256": "4dcbcd8b2500b8d3e06868be61f87255b36245776171a03ef388109dd7466ba7",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 48,
+      "source_page": 52,
+      "record_count": 4,
+      "question_keys": [
+        "p048_s01",
+        "p048_s02",
+        "p048_s03",
+        "p048_s04"
+      ],
+      "question_json_sha256": "4ba98a28f85f2a348aba7654ff05a509a9b73530483840fe4c6087cf5d3ad1ec",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 49,
+      "source_page": 53,
+      "record_count": 7,
+      "question_keys": [
+        "p049_s01",
+        "p049_s02",
+        "p049_s03",
+        "p049_s04",
+        "p049_s05",
+        "p049_s06",
+        "p049_s07"
+      ],
+      "question_json_sha256": "e5963b4fedb088ff162e17c25b2d51cae8a7cc7bd99c91663bec9ad5ca37f362",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 50,
+      "source_page": 54,
+      "record_count": 8,
+      "question_keys": [
+        "p050_s01",
+        "p050_s02",
+        "p050_s03",
+        "p050_s04",
+        "p050_s05",
+        "p050_s06",
+        "p050_s07",
+        "p050_s08"
+      ],
+      "question_json_sha256": "34ec650b176340d57a72942012c824ee9c5ada24c06c68519040fb7aa26955b5",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 51,
+      "source_page": 55,
+      "record_count": 6,
+      "question_keys": [
+        "p051_s01",
+        "p051_s02",
+        "p051_s03",
+        "p051_s04",
+        "p051_s05",
+        "p051_s06"
+      ],
+      "question_json_sha256": "11331afb15d20ffdf59e9f15e56b9a93159e1898f0adca83155d0dae419154fe",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 52,
+      "source_page": 56,
+      "record_count": 4,
+      "question_keys": [
+        "p052_s01",
+        "p052_s02",
+        "p052_s03",
+        "p052_s04"
+      ],
+      "question_json_sha256": "11497925bea2539f70063681419f4deb2e597b29f5409ba75362909df36c99d4",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 53,
+      "source_page": 57,
+      "record_count": 9,
+      "question_keys": [
+        "p053_s01",
+        "p053_s02",
+        "p053_s03",
+        "p053_s04",
+        "p053_s05",
+        "p053_s06",
+        "p053_s07",
+        "p053_s08",
+        "p053_s09"
+      ],
+      "question_json_sha256": "79e9eecce2c401c4e064c15286a3b16025e2da8e608c5ae0d87f710fb7738f24",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 54,
+      "source_page": 58,
+      "record_count": 7,
+      "question_keys": [
+        "p054_s01",
+        "p054_s02",
+        "p054_s03",
+        "p054_s04",
+        "p054_s05",
+        "p054_s06",
+        "p054_s07"
+      ],
+      "question_json_sha256": "539f35181c13be8b3a19ab236fba03dca632fad282955bf86d2585ef1481a9bd",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 55,
+      "source_page": 59,
+      "record_count": 13,
+      "question_keys": [
+        "p055_s01",
+        "p055_s02",
+        "p055_s03",
+        "p055_s04",
+        "p055_s05",
+        "p055_s06",
+        "p055_s07",
+        "p055_s08",
+        "p055_s09",
+        "p055_s10",
+        "p055_s11",
+        "p055_s12",
+        "p055_s13"
+      ],
+      "question_json_sha256": "130311d083ff4ec675bdd73a556b40da1996c88e0b5802f112030039ddfe1ee3",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 56,
+      "source_page": 60,
+      "record_count": 5,
+      "question_keys": [
+        "p056_s01",
+        "p056_s02",
+        "p056_s03",
+        "p056_s04",
+        "p056_s05"
+      ],
+      "question_json_sha256": "96495ff946509413d4f21675053a8e9c6e484ce916b055d0f15cd1fc270ed3ce",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 57,
+      "source_page": 61,
+      "record_count": 16,
+      "question_keys": [
+        "p057_s01",
+        "p057_s02",
+        "p057_s03",
+        "p057_s04",
+        "p057_s05",
+        "p057_s06",
+        "p057_s07",
+        "p057_s08",
+        "p057_s09",
+        "p057_s10",
+        "p057_s11",
+        "p057_s12",
+        "p057_s13",
+        "p057_s14",
+        "p057_s15",
+        "p057_s16"
+      ],
+      "question_json_sha256": "74c99e1c83c88106a6440c6a7005b63c7ffaf5d942fd7cd681a125c3fac2ded4",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 58,
+      "source_page": 62,
+      "record_count": 9,
+      "question_keys": [
+        "p058_s01",
+        "p058_s02",
+        "p058_s03",
+        "p058_s04",
+        "p058_s05",
+        "p058_s06",
+        "p058_s07",
+        "p058_s08",
+        "p058_s09"
+      ],
+      "question_json_sha256": "fdf198a26bbe08c5fc13991dbd18ee05b3673232a401edcf6e887800497b7f2f",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 59,
+      "source_page": 63,
+      "record_count": 7,
+      "question_keys": [
+        "p059_s01",
+        "p059_s02",
+        "p059_s03",
+        "p059_s04",
+        "p059_s05",
+        "p059_s06",
+        "p059_s07"
+      ],
+      "question_json_sha256": "50105b97b945dadf9512111a166f3bea5e7b73c777b6db0fa8540e989a9bdf4d",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 60,
+      "source_page": 64,
+      "record_count": 4,
+      "question_keys": [
+        "p060_s01",
+        "p060_s02",
+        "p060_s03",
+        "p060_s04"
+      ],
+      "question_json_sha256": "4f7a16b92771641eb46ca811362c54f82a936d4e3332eb56ce6ef0480765e2df",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 61,
+      "source_page": 65,
+      "record_count": 14,
+      "question_keys": [
+        "p061_s01",
+        "p061_s02",
+        "p061_s03",
+        "p061_s04",
+        "p061_s05",
+        "p061_s06",
+        "p061_s07",
+        "p061_s08",
+        "p061_s09",
+        "p061_s10",
+        "p061_s11",
+        "p061_s12",
+        "p061_s13",
+        "p061_s14"
+      ],
+      "question_json_sha256": "ab66aa0fabad7cb158e70f38d837443beeb82794690bed471a4388f53f9b46fe",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 62,
+      "source_page": 66,
+      "record_count": 9,
+      "question_keys": [
+        "p062_s01",
+        "p062_s02",
+        "p062_s03",
+        "p062_s04",
+        "p062_s05",
+        "p062_s06",
+        "p062_s07",
+        "p062_s08",
+        "p062_s09"
+      ],
+      "question_json_sha256": "423815bd55ae116a180c4d6621a47c9625796415dc06504827c7aa31f5f5ed80",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 63,
+      "source_page": 67,
+      "record_count": 7,
+      "question_keys": [
+        "p063_s01",
+        "p063_s02",
+        "p063_s03",
+        "p063_s04",
+        "p063_s05",
+        "p063_s06",
+        "p063_s07"
+      ],
+      "question_json_sha256": "52ab0f265a968673ed15486f61d3f5bb36a85d061055a93f9528f02e83ee6de0",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 64,
+      "source_page": 68,
+      "record_count": 4,
+      "question_keys": [
+        "p064_s01",
+        "p064_s02",
+        "p064_s03",
+        "p064_s04"
+      ],
+      "question_json_sha256": "4d0c042e39abdff0560aca7a31be4fb91680cd756733b412d869e76ee5952ad6",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 65,
+      "source_page": 69,
+      "record_count": 5,
+      "question_keys": [
+        "p065_s01",
+        "p065_s02",
+        "p065_s03",
+        "p065_s04",
+        "p065_s05"
+      ],
+      "question_json_sha256": "b0163ef0921f099d873764b4235e34dc2e0ed89b8d667cb980820871d354235f",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 66,
+      "source_page": 70,
+      "record_count": 8,
+      "question_keys": [
+        "p066_s01",
+        "p066_s02",
+        "p066_s03",
+        "p066_s04",
+        "p066_s05",
+        "p066_s06",
+        "p066_s07",
+        "p066_s08"
+      ],
+      "question_json_sha256": "369ea866f6786d39cc323dceba62d8cab0ec6a62854efb852b05ce889c276372",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 67,
+      "source_page": 71,
+      "record_count": 10,
+      "question_keys": [
+        "p067_s01",
+        "p067_s02",
+        "p067_s03",
+        "p067_s04",
+        "p067_s05",
+        "p067_s06",
+        "p067_s07",
+        "p067_s08",
+        "p067_s09",
+        "p067_s10"
+      ],
+      "question_json_sha256": "d394e92020d8220000ac45380aa0122110fce5a26e9ed9d6287f964803291b0c",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 68,
+      "source_page": 72,
+      "record_count": 6,
+      "question_keys": [
+        "p068_s01",
+        "p068_s02",
+        "p068_s03",
+        "p068_s04",
+        "p068_s05",
+        "p068_s06"
+      ],
+      "question_json_sha256": "2d6dc73ce1a1a0f965a4f22e735bbc1e195bf2d0aba71a27e954be4919815271",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 69,
+      "source_page": 73,
+      "record_count": 5,
+      "question_keys": [
+        "p069_s01",
+        "p069_s02",
+        "p069_s03",
+        "p069_s04",
+        "p069_s05"
+      ],
+      "question_json_sha256": "2c27d37f98ed1274fbf41eb127b87b8f75f6c0f7ea0ad8102d447d0e5b708432",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 70,
+      "source_page": 74,
+      "record_count": 13,
+      "question_keys": [
+        "p070_s01",
+        "p070_s02",
+        "p070_s03",
+        "p070_s04",
+        "p070_s05",
+        "p070_s06",
+        "p070_s07",
+        "p070_s08",
+        "p070_s09",
+        "p070_s10",
+        "p070_s11",
+        "p070_s12",
+        "p070_s13"
+      ],
+      "question_json_sha256": "514680a5a23aa9c5953fdf3f304dcb297dc45974cf9768f5aa990dddc4c2fc3f",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 71,
+      "source_page": 75,
+      "record_count": 7,
+      "question_keys": [
+        "p071_s01",
+        "p071_s02",
+        "p071_s03",
+        "p071_s04",
+        "p071_s05",
+        "p071_s06",
+        "p071_s07"
+      ],
+      "question_json_sha256": "86561759cc5b9dabf55f3699f0b1d83d301ec8dad664204124c6aaa95cd9fd3f",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 72,
+      "source_page": 76,
+      "record_count": 7,
+      "question_keys": [
+        "p072_s01",
+        "p072_s02",
+        "p072_s03",
+        "p072_s04",
+        "p072_s05",
+        "p072_s06",
+        "p072_s07"
+      ],
+      "question_json_sha256": "bf89a52a4509f979d9e471ce0d94b31ee5f8bfa874be9d321836193fcbafdb24",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 73,
+      "source_page": 77,
+      "record_count": 10,
+      "question_keys": [
+        "p073_s01",
+        "p073_s02",
+        "p073_s03",
+        "p073_s04",
+        "p073_s05",
+        "p073_s06",
+        "p073_s07",
+        "p073_s08",
+        "p073_s09",
+        "p073_s10"
+      ],
+      "question_json_sha256": "2a3f909d310330ce9e4b16d721a0b8a1b6cd12ad3a64e374394bc3de50b79cc7",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 74,
+      "source_page": 78,
+      "record_count": 7,
+      "question_keys": [
+        "p074_s01",
+        "p074_s02",
+        "p074_s03",
+        "p074_s04",
+        "p074_s05",
+        "p074_s06",
+        "p074_s07"
+      ],
+      "question_json_sha256": "7a3079a4f023181e0d5fe007c58a89836c07bdc87bdd694029e9115f1859f813",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 75,
+      "source_page": 79,
+      "record_count": 6,
+      "question_keys": [
+        "p075_s01",
+        "p075_s02",
+        "p075_s03",
+        "p075_s04",
+        "p075_s05",
+        "p075_s06"
+      ],
+      "question_json_sha256": "328921d9863cb287774b55c2af309b192b67e79c1a0dc79ec31f8800cf701c88",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 76,
+      "source_page": 80,
+      "record_count": 3,
+      "question_keys": [
+        "p076_s01",
+        "p076_s02",
+        "p076_s03"
+      ],
+      "question_json_sha256": "11f8182fadc5f2a5389678b840826c7497f9dc3670caf49aa013b102d28725b1",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 77,
+      "source_page": 81,
+      "record_count": 8,
+      "question_keys": [
+        "p077_s01",
+        "p077_s02",
+        "p077_s03",
+        "p077_s04",
+        "p077_s05",
+        "p077_s06",
+        "p077_s07",
+        "p077_s08"
+      ],
+      "question_json_sha256": "c24f96dca5a3019e483a9fd487ce46715f7152ab2e02e2709f8b7b8b1f2bb908",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 78,
+      "source_page": 82,
+      "record_count": 6,
+      "question_keys": [
+        "p078_s01",
+        "p078_s02",
+        "p078_s03",
+        "p078_s04",
+        "p078_s05",
+        "p078_s06"
+      ],
+      "question_json_sha256": "b34929084d848721ddbb8f5243d96bc2b32f2846b5703f3753f2fbe84a401413",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 79,
+      "source_page": 83,
+      "record_count": 5,
+      "question_keys": [
+        "p079_s01",
+        "p079_s02",
+        "p079_s03",
+        "p079_s04",
+        "p079_s05"
+      ],
+      "question_json_sha256": "2e824862cdc8e779a127fe8fb3a91506f25bd866998331f7bed0ef6a9f1e9dcb",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 80,
+      "source_page": 84,
+      "record_count": 4,
+      "question_keys": [
+        "p080_s01",
+        "p080_s02",
+        "p080_s03",
+        "p080_s04"
+      ],
+      "question_json_sha256": "1cb47c4f5e953f9fdc08d0573fafef579bf370208e69ef0473ae8534fbb1df85",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 81,
+      "source_page": 85,
+      "record_count": 14,
+      "question_keys": [
+        "p081_s01",
+        "p081_s02",
+        "p081_s03",
+        "p081_s04",
+        "p081_s05",
+        "p081_s06",
+        "p081_s07",
+        "p081_s08",
+        "p081_s09",
+        "p081_s10",
+        "p081_s11",
+        "p081_s12",
+        "p081_s13",
+        "p081_s14"
+      ],
+      "question_json_sha256": "a9a1d79b571a4c517c13b2c9aba14a07fba717c743904c3179d547c60a4b371d",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 82,
+      "source_page": 86,
+      "record_count": 12,
+      "question_keys": [
+        "p082_s01",
+        "p082_s02",
+        "p082_s03",
+        "p082_s04",
+        "p082_s05",
+        "p082_s06",
+        "p082_s07",
+        "p082_s08",
+        "p082_s09",
+        "p082_s10",
+        "p082_s11",
+        "p082_s12"
+      ],
+      "question_json_sha256": "c4256ed40c2c9498e41ff5a1d85ce87e91ec29ac37c9757e7eb8216dc3d1183c",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    },
+    {
+      "book_page": 83,
+      "source_page": 87,
+      "record_count": 6,
+      "question_keys": [
+        "p083_s01",
+        "p083_s02",
+        "p083_s03",
+        "p083_s04",
+        "p083_s05",
+        "p083_s06"
+      ],
+      "question_json_sha256": "8723b1107be8d98e32910b9ec3d2b3c5625093ddc12f3913c222855e8ad2a7d5",
+      "source_page_visual_screening": "reviewed_contact_sheet"
+    }
+  ],
+  "matching_candidates": [],
+  "exclusions": [
+    {
+      "key": "p047_s04",
+      "id": "五、2",
+      "book_page": 47,
+      "source_page": 51,
+      "reason": "同起点反向运动，原题要求画图整理条件与问题；应保留路程线段图，非框式数量分析树。已看原题和当前答案大图。",
+      "known_quantities": [
+        "甲速度800千米/时",
+        "乙速度850千米/时",
+        "共同时间2小时"
+      ],
+      "calculation": "(800+850)×2=1650×2=3300千米；另法800×2+850×2=1600+1700=3300千米",
+      "current_answer": "图中保留两架飞机路程及机场，解析和两种脱式计算均在题间。未发现需按信息窗三修改的空框。"
+    },
+    {
+      "key": "p083_s04",
+      "id": "四、1",
+      "book_page": 83,
+      "source_page": 87,
+      "reason": "相向行驶尚未相遇，原题要求画图表示数量关系；应保留三段路程线段图，非框式数量分析树。已看原题和当前答案大图。",
+      "known_quantities": [
+        "小汽车速度95千米/时",
+        "货车速度75千米/时",
+        "共同时间3小时",
+        "尚距193千米"
+      ],
+      "calculation": "(95+75)×3+193=170×3+193=510+193=703千米；另法95×3+75×3+193=285+225+193=510+193=703千米",
+      "current_answer": "题间线段图、数量标记、两种脱式计算和答语均存在。保留原图题型，不转换成树形。"
+    }
+  ],
+  "keyword_exclusions": [
+    {
+      "key": "p046_s01",
+      "id": "一、10",
+      "question": "在直角三角形\\(ABC\\)中（单位：厘米），\\(AC\\)边上的高是（　）厘米，\\(AB\\)边上的高是（　）厘米。三角形（　）中（　）边上的高是1.9厘米。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p047_s04",
+      "id": "五、2",
+      "question": "两架客机从同一机场向相反方向起飞，甲机巡航速度为800千米/时，乙机巡航速度为850千米/时。两架飞机同时飞出2小时后，它们之间相距多少千米？（先画图整理条件和问题，再解答）（6分）",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p050_s05",
+      "id": "二、4",
+      "question": "下图是某小学运动会3名选手的跳远情况，方框里数是（　）。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p050_s06",
+      "id": "二、5",
+      "question": "\\(0.\\square8<0.6\\)，方框里可以填的数有（　）个。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p051_s02",
+      "id": "三、2",
+      "question": "在圆圈里填上“×”或“÷”，在方框里填上适当的数。\\(3.2\\bigcirc\\square=0.32\\)，\\(2.4\\bigcirc\\square=240\\)，\\(\\square\\div10=3.9\\)；\\(0.8\\bigcirc\\square=8\\)，\\(\\square\\bigcirc10=6.7\\)，\\(\\square\\div1000=0.735\\)。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p051_s03",
+      "id": "三、3",
+      "question": "在每道题的方框里填上相邻的两个整数。\\(\\square<2.5<\\square\\)，\\(\\square<10.08<\\square\\)，\\(\\square>6.94>\\square\\)；\\(\\square>35.618>\\square\\)，\\(\\square<99.2<\\square\\)，\\(\\square<275.2<\\square\\)。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p053_s07",
+      "id": "一、7",
+      "question": "一个三位小数，各个数位上的数字之和是9，且各个数位上的数字都不相同，符合条件的三位小数最小是（　）。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p054_s05",
+      "id": "二、4",
+      "question": "学校运动会上，三名同学参加100米短跑比赛，成绩如下表。根据比赛排名，浩浩获得了一等奖，那么方框里最大能填（　）。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s09",
+      "id": "四、1",
+      "question": "涂色表示下面的小数：\\(1.4\\)，\\(1.07\\)。每个完整正方形表示1。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s10",
+      "id": "四、2（1）",
+      "question": "如下表是4名同学的身高信息。根据线段图回答问题。（1）箭头所表示的是（    ）的身高。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s11",
+      "id": "四、2（2）",
+      "question": "如下表是4名同学的身高信息。根据线段图回答问题。（2）在图中标出乐乐和王华的身高。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s12",
+      "id": "四、2（3）",
+      "question": "如下表是4名同学的身高信息。根据线段图回答问题。（3）冬冬的身高从高到低排第三，他的身高是（    ）米。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p062_s04",
+      "id": "二、2",
+      "question": "在右图的加法竖式中，虚线框中的“9”和“5”相加得（    ）。A.14个一；B.14个十分之一；C.14个百分之一。竖式为\\(34.95+2.5\\)，小数点对齐。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p065_s01",
+      "id": "一、1",
+      "question": "在轴对称图形下面的括号里画“√”。按从左到右、先上后下观察图中的10个图案。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p065_s03",
+      "id": "一、3（1）",
+      "question": "观察方格图。（1）“小船”先向（    ）平移了（    ）格，再向（    ）平移了（    ）格。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p065_s04",
+      "id": "一、3（2）",
+      "question": "观察方格图。（2）“小鱼”先向（    ）平移了（    ）格，再向（    ）平移了（    ）格。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s01",
+      "id": "一、5",
+      "question": "奥运五环连在一起代表着五大洲的人们友好相处，齐聚奥运盛会。它可以由（    ）形（平移、旋转）（在正确答案下面画“√”）而成，它有（    ）条对称轴，请在图中画出来。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s02",
+      "id": "一、6（1）",
+      "question": "找规律，画一画。（1）四格中小房子朝向依次为上、右、空白、左，在空白处补画。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s03",
+      "id": "一、6（2）",
+      "question": "找规律，画一画。（2）四格中折箭头依次旋转，在第四格空白处补画。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s07",
+      "id": "二、2",
+      "question": "下面几组图形中，甲图旋转得到乙图的是（    ）。一组、二组的三角形朝向发生改变，三组的三角形朝向相同。A.一组；B.二组；C.一组和二组；D.二组和三组。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s08",
+      "id": "二、3",
+      "question": "左图黑白风车图案是用（    ）图形，（    ）得到的。A.空白正方形，平移；B.黑三角形，平移；C.空白三角形，旋转；D.图示黑白三角形组成的四边形拼块，旋转。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s01",
+      "id": "二、4",
+      "question": "剪纸是我国国家级非物质文化遗产，将纸对折后剪出重复的图案是剪纸中最基础的技法，右图是下面（    ）项剪出的。选择A、B、C或D。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s03",
+      "id": "三、1（第1图）",
+      "question": "画出下面图形的另一半，使它成为轴对称图形。（第1图，竖直虚线为对称轴。）",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s04",
+      "id": "三、1（第2图）",
+      "question": "画出下面图形的另一半，使它成为轴对称图形。（第2图，竖直虚线为对称轴，内部小三角形也要补画。）",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s05",
+      "id": "三、1（第3图）",
+      "question": "画出下面图形的另一半，使它成为轴对称图形。（第3图，竖直虚线为对称轴。）",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s06",
+      "id": "三、2（第1图）",
+      "question": "画出下面图形的对称轴（有几条画几条）：第1图，三叶图案。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s07",
+      "id": "三、2（第2图）",
+      "question": "画出下面图形的对称轴（有几条画几条）：第2图，圆环与斜带组成的禁止标志。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s08",
+      "id": "三、2（第3图）",
+      "question": "画出下面图形的对称轴（有几条画几条）：第3图，扇形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s09",
+      "id": "三、2（第4图）",
+      "question": "画出下面图形的对称轴（有几条画几条）：第4图，正六边形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s10",
+      "id": "三、3（1）",
+      "question": "将下面的图形绕O点顺时针旋转\\(90^\\circ\\)画出图形，再向右平移3格画出图形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s01",
+      "id": "三、3（2）",
+      "question": "先将下面三角形绕B点逆时针旋转\\(90^\\circ\\)后画出图形，再将长方形绕D点顺时针旋转\\(90^\\circ\\)后画出图形，最后请画出组合图形的对称轴。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s02",
+      "id": "三、3（3）填空",
+      "question": "移一移，画一画。图形①先向右平移（    ）格，再向（    ）平移（    ）格，就会与图形②拼成一个长方形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s03",
+      "id": "三、3（3）作图",
+      "question": "移一移，画一画。将图形①移入图形②的凹口拼成长方形，把拼成的图形绕O点逆时针旋转\\(90^\\circ\\)，请在网格图中画出旋转后的图形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s04",
+      "id": "三、4（1）",
+      "question": "认真观察，填一填。（1）图①是以点（    ）为中心（    ）时针旋转的，在图中相应的括号里标出点A的对应点\\(A^{\\prime}\\)。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s05",
+      "id": "三、4（2）",
+      "question": "认真观察，填一填。（2）图②是以点（    ）为中心（    ）时针旋转的，在图中相应的括号里标出点B的对应点\\(B^{\\prime}\\)。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p069_s04",
+      "id": "一、4",
+      "question": "如图，李阿姨将2千克物品放在台秤上，指针从0刻度开始顺时针旋转\\(90^\\circ\\)，再放2千克物品，指针会（    ）时针再旋转（    ）度；如果李阿姨把4千克物品全部拿走，那么指针会（    ）时针旋转（    ）度。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p069_s05",
+      "id": "一、5",
+      "question": "如图，若AB的长度是4厘米，则A点到对称轴的距离是（    ）厘米，点C和点F到对称轴的距离都是（    ）厘米，点D的对称点是点（    ）。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s02",
+      "id": "一、7",
+      "question": "如图，三角尺向下平移了（    ）毫米。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s07",
+      "id": "二、5",
+      "question": "判断：把图中的图形在对称轴的另一边补充完整，这图形是等腰梯形。（    ）",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s08",
+      "id": "三、1",
+      "question": "下列图形中，对称轴最多的是（    ），对称轴最少的是（    ）。A.内切而不同心的两圆；B.相交的两个等圆；C.同心的两圆；D.三角形排布的三个相等圆。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s10",
+      "id": "三、3",
+      "question": "右边的轴对称图形是从纸（    ）上剪下来的。选A、B或C。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s12",
+      "id": "三、5",
+      "question": "小东在描述一个图形：它有四条边，没有平行线，有一条对称轴，以下（    ）是小东描述的。选A、B、C或D。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s13",
+      "id": "三、6",
+      "question": "下面四幅图中，（    ）平移到位置M后能与N成轴对称图形。选A、B、C或D。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s01",
+      "id": "三、7",
+      "question": "下列交通标志，可以经过旋转得到的是（    ）。选A、B、C或D。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s02",
+      "id": "四、1",
+      "question": "下图中，点O是线段AB上的一点，将线段AB绕点O顺时针方向旋转\\(90^\\circ\\)，旋转后的线段与原线段的位置有何关系？如果逆时针方向旋转\\(90^\\circ\\)呢？请分别在下面的图上画出来。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s03",
+      "id": "四、2（1）",
+      "question": "按要求画图。（1）画出图①的另一半，使它成为一个轴对称图形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s04",
+      "id": "四、2（2）",
+      "question": "按要求画图。（2）画出图②向下平移7格后的图形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s05",
+      "id": "四、2（3）",
+      "question": "按要求画图。（3）画出图③绕点A逆时针旋转\\(90^\\circ\\)后的图形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s06",
+      "id": "四、3",
+      "question": "围绕点O，旋转三角形画一个风车。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s07",
+      "id": "四、4",
+      "question": "画出镜子中看到的时刻。原钟的分针指向12，时针指向4。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s01",
+      "id": "五、1（图②）",
+      "question": "按图①的规律，补全图②中缺少的部分。图①的T形按顺时针方向逐次转\\(90^\\circ\\)，图②已给左上Y形与右下转\\(180^\\circ\\)后的Y形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s02",
+      "id": "五、1（图③）",
+      "question": "按图①的规律，补全图③中缺少的部分。图③已给左上F形与右上顺时针转\\(90^\\circ\\)后的F形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s04",
+      "id": "五、3（1）",
+      "question": "下面是华华画的自己家新建房屋平面图，每个小正方形的边长是2米，但图中有三处错误，你能按下面的要求帮她改正吗？（1）画出花圃的另一半，使它成为一个轴对称图形。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s05",
+      "id": "五、3（2）",
+      "question": "房屋平面图中，每格边长2米。（2）将厨房先向下平移12米，再向右平移4米。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s06",
+      "id": "五、3（3）",
+      "question": "房屋平面图中，每格边长2米。（3）将车库绕点C按逆时针方向旋转\\(90^\\circ\\)。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s07",
+      "id": "六、添一格的3种方法",
+      "question": "在下面的方格上再涂一个小方格，使涂色部分成为一个轴对称图形。你有几种涂法？请在下图中涂一涂，并画出它的对称轴。三幅图的已涂部分相同。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p074_s06",
+      "id": "二、6",
+      "question": "有三条不同长度的丝带，虚线处表示三条丝带的平均长度。想一想，第一条丝带的长度是（    ）cm。第二条20cm，第三条14cm，第三条的终点恰好在平均长度虚线上。A.8；B.14；C.17；D.6。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p076_s03",
+      "id": "三、4（3）",
+      "question": "结合统计表，分析一下两班学生绘画能力的情况。",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p080_s01",
+      "id": "三、4",
+      "question": "班级开展“绿色AI”活动，参加“AI环保创意赛”的有：李想、王晴、赵磊、周敏、刘浩、陈西；参加“低碳编程挑战赛”的有：王晴、赵磊、周敏、林芳、郭瑞。将下图补充完整，并求出参与“绿色AI”活动的一共有多少人。",
+      "classification": "not_quantity_analysis_tree"
+    }
+  ],
+  "diagram_inventory": [
+    {
+      "key": "p046_s01",
+      "id": "一、10",
+      "diagram": "p046_s01_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p047_s01",
+      "id": "四、1",
+      "diagram": "p047_s01_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p047_s01",
+      "id": "四、1",
+      "diagram": "p047_s01_a1",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p047_s02",
+      "id": "四、2",
+      "diagram": "p047_s02_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p047_s02",
+      "id": "四、2",
+      "diagram": "p047_s02_a1",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p047_s03",
+      "id": "五、1",
+      "diagram": "p047_s03_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p047_s04",
+      "id": "五、2",
+      "diagram": "p047_s04_a1",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p050_s02",
+      "id": "二、1",
+      "diagram": "p050_s02_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p050_s05",
+      "id": "二、4",
+      "diagram": "p050_s05_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p050_s05",
+      "id": "二、4",
+      "diagram": "p050_s05_a1",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p051_s04",
+      "id": "四、1",
+      "diagram": "p051_s04_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p051_s04",
+      "id": "四、1",
+      "diagram": "p051_s04_a1",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p051_s05",
+      "id": "四、2",
+      "diagram": "p051_s05_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p051_s05",
+      "id": "四、2",
+      "diagram": "p051_s05_a1",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p053_s03",
+      "id": "一、3",
+      "diagram": "p053_s03_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p054_s01",
+      "id": "一、10",
+      "diagram": "p054_s01_g1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s09",
+      "id": "四、1",
+      "diagram": "p055_shading",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s09",
+      "id": "四、1",
+      "diagram": "p055_shading_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s10",
+      "id": "四、2（1）",
+      "diagram": "p055_numberline",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s11",
+      "id": "四、2（2）",
+      "diagram": "p055_numberline",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s11",
+      "id": "四、2（2）",
+      "diagram": "p055_numberline_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p055_s12",
+      "id": "四、2（3）",
+      "diagram": "p055_numberline",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p062_s04",
+      "id": "二、2",
+      "diagram": "p062_vertical",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p065_s01",
+      "id": "一、1",
+      "diagram": "p065_symmetry_patterns",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p065_s01",
+      "id": "一、1",
+      "diagram": "p065_symmetry_patterns_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p065_s02",
+      "id": "一、2",
+      "diagram": "p065_paifang",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p065_s03",
+      "id": "一、3（1）",
+      "diagram": "p065_translation_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p065_s04",
+      "id": "一、3（2）",
+      "diagram": "p065_translation_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s01",
+      "id": "一、5",
+      "diagram": "p066_rings",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s01",
+      "id": "一、5",
+      "diagram": "p066_rings_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s02",
+      "id": "一、6（1）",
+      "diagram": "p066_houses",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s02",
+      "id": "一、6（1）",
+      "diagram": "p066_houses_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s03",
+      "id": "一、6（2）",
+      "diagram": "p066_arrows",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s03",
+      "id": "一、6（2）",
+      "diagram": "p066_arrows_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s04",
+      "id": "一、7（①）",
+      "diagram": "p066_horse_parts",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s04",
+      "id": "一、7（①）",
+      "diagram": "p066_horse_parts_answer_3",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s05",
+      "id": "一、7（②）",
+      "diagram": "p066_horse_parts",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s05",
+      "id": "一、7（②）",
+      "diagram": "p066_horse_parts_answer_4",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s06",
+      "id": "二、1",
+      "diagram": "p066_everyday_motion",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s07",
+      "id": "二、2",
+      "diagram": "p066_rotation_groups",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s08",
+      "id": "二、3",
+      "diagram": "p066_windmill",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p066_s08",
+      "id": "二、3",
+      "diagram": "p066_windmill_choices",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s01",
+      "id": "二、4",
+      "diagram": "p067_fold_choice",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s03",
+      "id": "三、1（第1图）",
+      "diagram": "p067_half_1",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s03",
+      "id": "三、1（第1图）",
+      "diagram": "p067_half_1_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s04",
+      "id": "三、1（第2图）",
+      "diagram": "p067_half_2",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s04",
+      "id": "三、1（第2图）",
+      "diagram": "p067_half_2_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s05",
+      "id": "三、1（第3图）",
+      "diagram": "p067_half_3",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s05",
+      "id": "三、1（第3图）",
+      "diagram": "p067_half_3_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s06",
+      "id": "三、2（第1图）",
+      "diagram": "p067_leaves",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s06",
+      "id": "三、2（第1图）",
+      "diagram": "p067_leaves_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s07",
+      "id": "三、2（第2图）",
+      "diagram": "p067_prohibition",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s07",
+      "id": "三、2（第2图）",
+      "diagram": "p067_prohibition_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s08",
+      "id": "三、2（第3图）",
+      "diagram": "p067_sector",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s08",
+      "id": "三、2（第3图）",
+      "diagram": "p067_sector_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s09",
+      "id": "三、2（第4图）",
+      "diagram": "p067_hexagon",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s09",
+      "id": "三、2（第4图）",
+      "diagram": "p067_hexagon_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s10",
+      "id": "三、3（1）",
+      "diagram": "p067_turn_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p067_s10",
+      "id": "三、3（1）",
+      "diagram": "p067_turn_grid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s01",
+      "id": "三、3（2）",
+      "diagram": "p068_roof_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s01",
+      "id": "三、3（2）",
+      "diagram": "p068_roof_grid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s02",
+      "id": "三、3（3）填空",
+      "diagram": "p068_notch_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s02",
+      "id": "三、3（3）填空",
+      "diagram": "p068_notch_grid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s03",
+      "id": "三、3（3）作图",
+      "diagram": "p068_notch_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s03",
+      "id": "三、3（3）作图",
+      "diagram": "p068_notch_grid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s04",
+      "id": "三、4（1）",
+      "diagram": "p068_rotation_read",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s04",
+      "id": "三、4（1）",
+      "diagram": "p068_rotation_read_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s05",
+      "id": "三、4（2）",
+      "diagram": "p068_rotation_read",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p068_s05",
+      "id": "三、4（2）",
+      "diagram": "p068_rotation_read_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p069_s03",
+      "id": "一、3",
+      "diagram": "p069_everyday_motion",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p069_s04",
+      "id": "一、4",
+      "diagram": "p069_scale",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p069_s05",
+      "id": "一、5",
+      "diagram": "p069_tree",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s02",
+      "id": "一、7",
+      "diagram": "p070_ruler",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s07",
+      "id": "二、5",
+      "diagram": "p070_half_trapezoid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s07",
+      "id": "二、5",
+      "diagram": "p070_half_trapezoid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s08",
+      "id": "三、1",
+      "diagram": "p070_circle_choices",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s10",
+      "id": "三、3",
+      "diagram": "p070_papercut",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s12",
+      "id": "三、5",
+      "diagram": "p070_quadrilaterals",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p070_s13",
+      "id": "三、6",
+      "diagram": "p070_lightning",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s01",
+      "id": "三、7",
+      "diagram": "p071_traffic",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s02",
+      "id": "四、1",
+      "diagram": "p071_segment",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s02",
+      "id": "四、1",
+      "diagram": "p071_segment_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s03",
+      "id": "四、2（1）",
+      "diagram": "p071_combined_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s03",
+      "id": "四、2（1）",
+      "diagram": "p071_combined_grid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s04",
+      "id": "四、2（2）",
+      "diagram": "p071_combined_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s04",
+      "id": "四、2（2）",
+      "diagram": "p071_combined_grid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s05",
+      "id": "四、2（3）",
+      "diagram": "p071_combined_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s05",
+      "id": "四、2（3）",
+      "diagram": "p071_combined_grid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s06",
+      "id": "四、3",
+      "diagram": "p071_windmill_grid",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s06",
+      "id": "四、3",
+      "diagram": "p071_windmill_grid_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s07",
+      "id": "四、4",
+      "diagram": "p071_mirror_clock",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p071_s07",
+      "id": "四、4",
+      "diagram": "p071_mirror_clock_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s01",
+      "id": "五、1（图②）",
+      "diagram": "p072_letter_patterns",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s01",
+      "id": "五、1（图②）",
+      "diagram": "p072_letter_patterns_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s02",
+      "id": "五、1（图③）",
+      "diagram": "p072_letter_patterns",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s02",
+      "id": "五、1（图③）",
+      "diagram": "p072_letter_patterns_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s03",
+      "id": "五、2",
+      "diagram": "p072_papercut_relations",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s04",
+      "id": "五、3（1）",
+      "diagram": "p072_house_plan",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s04",
+      "id": "五、3（1）",
+      "diagram": "p072_house_plan_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s05",
+      "id": "五、3（2）",
+      "diagram": "p072_house_plan",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s05",
+      "id": "五、3（2）",
+      "diagram": "p072_house_plan_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s06",
+      "id": "五、3（3）",
+      "diagram": "p072_house_plan",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s06",
+      "id": "五、3（3）",
+      "diagram": "p072_house_plan_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s07",
+      "id": "六、添一格的3种方法",
+      "diagram": "p072_add_square",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p072_s07",
+      "id": "六、添一格的3种方法",
+      "diagram": "p072_add_square_answer",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p073_s09",
+      "id": "一、9",
+      "diagram": "p073_height_bars",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p074_s06",
+      "id": "二、6",
+      "diagram": "p074_ribbons",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p074_s07",
+      "id": "三、1（题图）",
+      "diagram": "p074_river",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p078_s01",
+      "id": "二、1",
+      "diagram": "p078_pirate_ship",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p078_s05",
+      "id": "二、5",
+      "diagram": "p078_temperatures",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p080_s01",
+      "id": "三、4",
+      "diagram": "p080_venn",
+      "role": "question",
+      "classification": "not_quantity_analysis_tree"
+    },
+    {
+      "key": "p083_s04",
+      "id": "四、1",
+      "diagram": "p083_s04_g1",
+      "role": "answer",
+      "classification": "not_quantity_analysis_tree"
+    }
+  ],
+  "visual_evidence": {
+    "contact_sheets": [
+      "mid_contact1.jpg",
+      "mid_contact2.jpg",
+      "mid_contact3.jpg",
+      "mid_contact4.jpg"
+    ],
+    "full_size_pages": [
+      "mid_source_p047.png",
+      "mid_answer_p047.png",
+      "mid_source_p083.png",
+      "mid_answer_p083.png"
+    ]
+  },
+  "conclusion": "本范围未发现与原书3页四1相同的数量关系树形分析图，暂无对应需改题。",
+  "edits_made": "仅新增本审核及内部预览，没有修改任何题目、PDF、PPT、notes或源码。"
+}

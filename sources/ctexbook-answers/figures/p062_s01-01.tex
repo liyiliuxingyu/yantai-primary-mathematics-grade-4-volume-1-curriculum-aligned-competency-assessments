@@ -1,0 +1,16 @@
+\begin{tikzpicture}[x=100bp,y=1bp,font=\small\kaishu,inner sep=1pt,outer sep=0pt,line width=.48bp,color=red!80!black]
+\node[left] at (0,0){异侧}; \draw (0,0)--(2.14,0);
+\foreach \x in {0,1.36,2.14} {\draw (\x,-2)--(\x,2);}
+\node[below] at (0,-2){天天家}; \node[below] at (1.36,-2){学校}; \node[below] at (2.14,-2){云云家};
+\draw[decorate,decoration={brace,amplitude=3bp}] (0,4)--node[midway,above=4bp]{$1.36$千米}(1.36,4);
+\draw[decorate,decoration={brace,amplitude=3bp}] (1.36,4)--node[midway,above=4bp]{$0.78$千米}(2.14,4);
+\draw[decorate,decoration={brace,amplitude=3bp,mirror}] (0,-16)--node[midway,below=4bp]{最远$?$千米}(2.14,-16);
+\begin{scope}[yshift=-64bp]
+\node[left] at (0,0){同侧}; \draw (0,0)--(1.36,0);
+\foreach \x in {0,0.78,1.36} {\draw (\x,-2)--(\x,2);}
+\node[below] at (0,-2){学校}; \node[below] at (.78,-2){云云家}; \node[below] at (1.36,-2){天天家};
+\draw[decorate,decoration={brace,amplitude=3bp}] (0,4)--node[midway,above=4bp]{$0.78$千米}(0.78,4);
+\draw[decorate,decoration={brace,amplitude=3bp}] (0.78,4)--node[midway,above=4bp]{最近$?$千米}(1.36,4);
+\draw[decorate,decoration={brace,amplitude=3bp,mirror}] (0,-16)--node[midway,below=4bp]{$1.36$千米}(1.36,-16);
+\end{scope}
+\end{tikzpicture}

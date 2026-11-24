@@ -1,0 +1,102 @@
+{
+  "slideCount": 426,
+  "masters": [
+    {
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "placeholders": []
+    },
+    {
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "text": ""
+        },
+        {
+          "name": "subtitle",
+          "type": "subtitle",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Section Header",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "/ppt/slideLayouts/slideLayout3.xml",
+      "name": "Title and Body",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "text": ""
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "/ppt/slideLayouts/slideLayout4.xml",
+      "name": "Title and Two Column",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "text": ""
+        },
+        {
+          "name": "Left column",
+          "type": "body",
+          "text": ""
+        },
+        {
+          "name": "Right column",
+          "type": "body",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "/ppt/slideLayouts/slideLayout5.xml",
+      "name": "Title and One Column",
+      "placeholders": [
+        {
+          "name": "title",
+          "type": "title",
+          "text": ""
+        },
+        {
+          "name": "body",
+          "type": "body",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "/ppt/slideLayouts/slideLayout6.xml",
+      "name": "Blank",
+      "placeholders": []
+    }
+  ],
+  "scope": "Inspect only; the source and final authoring retain unchanged native timing by the OOXML patch."
+}

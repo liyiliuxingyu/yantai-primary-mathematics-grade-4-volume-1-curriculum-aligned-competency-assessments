@@ -1,0 +1,877 @@
+{
+  "scope": {
+    "first_book_page": 73,
+    "last_book_page": 108,
+    "book_pages": 36,
+    "record_count": 262,
+    "read_all_questions_answers_notes": true,
+    "prior56_sources_read": true,
+    "mathematics_checked": "All 14 proposed transformations independently recomputed using exact integer/rational arithmetic. No mathematical facts supplied by the old answers were used as truth."
+  },
+  "coverage": [
+    {
+      "book_page": 73,
+      "record_count": 10,
+      "checked_keys": [
+        "p073_s01",
+        "p073_s02",
+        "p073_s03",
+        "p073_s04",
+        "p073_s05",
+        "p073_s06",
+        "p073_s07",
+        "p073_s08",
+        "p073_s09",
+        "p073_s10"
+      ]
+    },
+    {
+      "book_page": 74,
+      "record_count": 7,
+      "checked_keys": [
+        "p074_s01",
+        "p074_s02",
+        "p074_s03",
+        "p074_s04",
+        "p074_s05",
+        "p074_s06",
+        "p074_s07"
+      ]
+    },
+    {
+      "book_page": 75,
+      "record_count": 6,
+      "checked_keys": [
+        "p075_s01",
+        "p075_s02",
+        "p075_s03",
+        "p075_s04",
+        "p075_s05",
+        "p075_s06"
+      ]
+    },
+    {
+      "book_page": 76,
+      "record_count": 3,
+      "checked_keys": [
+        "p076_s01",
+        "p076_s02",
+        "p076_s03"
+      ]
+    },
+    {
+      "book_page": 77,
+      "record_count": 8,
+      "checked_keys": [
+        "p077_s01",
+        "p077_s02",
+        "p077_s03",
+        "p077_s04",
+        "p077_s05",
+        "p077_s06",
+        "p077_s07",
+        "p077_s08"
+      ]
+    },
+    {
+      "book_page": 78,
+      "record_count": 6,
+      "checked_keys": [
+        "p078_s01",
+        "p078_s02",
+        "p078_s03",
+        "p078_s04",
+        "p078_s05",
+        "p078_s06"
+      ]
+    },
+    {
+      "book_page": 79,
+      "record_count": 5,
+      "checked_keys": [
+        "p079_s01",
+        "p079_s02",
+        "p079_s03",
+        "p079_s04",
+        "p079_s05"
+      ]
+    },
+    {
+      "book_page": 80,
+      "record_count": 4,
+      "checked_keys": [
+        "p080_s01",
+        "p080_s02",
+        "p080_s03",
+        "p080_s04"
+      ]
+    },
+    {
+      "book_page": 81,
+      "record_count": 14,
+      "checked_keys": [
+        "p081_s01",
+        "p081_s02",
+        "p081_s03",
+        "p081_s04",
+        "p081_s05",
+        "p081_s06",
+        "p081_s07",
+        "p081_s08",
+        "p081_s09",
+        "p081_s10",
+        "p081_s11",
+        "p081_s12",
+        "p081_s13",
+        "p081_s14"
+      ]
+    },
+    {
+      "book_page": 82,
+      "record_count": 12,
+      "checked_keys": [
+        "p082_s01",
+        "p082_s02",
+        "p082_s03",
+        "p082_s04",
+        "p082_s05",
+        "p082_s06",
+        "p082_s07",
+        "p082_s08",
+        "p082_s09",
+        "p082_s10",
+        "p082_s11",
+        "p082_s12"
+      ]
+    },
+    {
+      "book_page": 83,
+      "record_count": 6,
+      "checked_keys": [
+        "p083_s01",
+        "p083_s02",
+        "p083_s03",
+        "p083_s04",
+        "p083_s05",
+        "p083_s06"
+      ]
+    },
+    {
+      "book_page": 84,
+      "record_count": 4,
+      "checked_keys": [
+        "p084_s01",
+        "p084_s02",
+        "p084_s03",
+        "p084_s04"
+      ]
+    },
+    {
+      "book_page": 85,
+      "record_count": 12,
+      "checked_keys": [
+        "p085_s01",
+        "p085_s02",
+        "p085_s03",
+        "p085_s04",
+        "p085_s05",
+        "p085_s06",
+        "p085_s07",
+        "p085_s08",
+        "p085_s09",
+        "p085_s10",
+        "p085_s11",
+        "p085_s12"
+      ]
+    },
+    {
+      "book_page": 86,
+      "record_count": 12,
+      "checked_keys": [
+        "p086_s01",
+        "p086_s02",
+        "p086_s03",
+        "p086_s04",
+        "p086_s05",
+        "p086_s06",
+        "p086_s07",
+        "p086_s08",
+        "p086_s09",
+        "p086_s10",
+        "p086_s11",
+        "p086_s12"
+      ]
+    },
+    {
+      "book_page": 87,
+      "record_count": 8,
+      "checked_keys": [
+        "p087_s01",
+        "p087_s02",
+        "p087_s03",
+        "p087_s04",
+        "p087_s05",
+        "p087_s06",
+        "p087_s07",
+        "p087_s08"
+      ]
+    },
+    {
+      "book_page": 88,
+      "record_count": 3,
+      "checked_keys": [
+        "p088_s01",
+        "p088_s02",
+        "p088_s03"
+      ]
+    },
+    {
+      "book_page": 89,
+      "record_count": 9,
+      "checked_keys": [
+        "p089_s01",
+        "p089_s02",
+        "p089_s03",
+        "p089_s04",
+        "p089_s05",
+        "p089_s06",
+        "p089_s07",
+        "p089_s08",
+        "p089_s09"
+      ]
+    },
+    {
+      "book_page": 90,
+      "record_count": 9,
+      "checked_keys": [
+        "p090_s01",
+        "p090_s02",
+        "p090_s03",
+        "p090_s04",
+        "p090_s05",
+        "p090_s06",
+        "p090_s07",
+        "p090_s08",
+        "p090_s09"
+      ]
+    },
+    {
+      "book_page": 91,
+      "record_count": 4,
+      "checked_keys": [
+        "p091_s01",
+        "p091_s02",
+        "p091_s03",
+        "p091_s04"
+      ]
+    },
+    {
+      "book_page": 92,
+      "record_count": 2,
+      "checked_keys": [
+        "p092_s01",
+        "p092_s02"
+      ]
+    },
+    {
+      "book_page": 93,
+      "record_count": 9,
+      "checked_keys": [
+        "p093_s01",
+        "p093_s02",
+        "p093_s03",
+        "p093_s04",
+        "p093_s05",
+        "p093_s06",
+        "p093_s07",
+        "p093_s08",
+        "p093_s09"
+      ]
+    },
+    {
+      "book_page": 94,
+      "record_count": 9,
+      "checked_keys": [
+        "p094_s01",
+        "p094_s02",
+        "p094_s03",
+        "p094_s04",
+        "p094_s05",
+        "p094_s06",
+        "p094_s07",
+        "p094_s08",
+        "p094_s09"
+      ]
+    },
+    {
+      "book_page": 95,
+      "record_count": 8,
+      "checked_keys": [
+        "p095_s01",
+        "p095_s02",
+        "p095_s03",
+        "p095_s04",
+        "p095_s05",
+        "p095_s06",
+        "p095_s07",
+        "p095_s08"
+      ]
+    },
+    {
+      "book_page": 96,
+      "record_count": 5,
+      "checked_keys": [
+        "p096_s01",
+        "p096_s02",
+        "p096_s03",
+        "p096_s04",
+        "p096_s05"
+      ]
+    },
+    {
+      "book_page": 97,
+      "record_count": 7,
+      "checked_keys": [
+        "p097_s01",
+        "p097_s02",
+        "p097_s03",
+        "p097_s04",
+        "p097_s05",
+        "p097_s06",
+        "p097_s07"
+      ]
+    },
+    {
+      "book_page": 98,
+      "record_count": 7,
+      "checked_keys": [
+        "p098_s01",
+        "p098_s02",
+        "p098_s03",
+        "p098_s04",
+        "p098_s05",
+        "p098_s06",
+        "p098_s07"
+      ]
+    },
+    {
+      "book_page": 99,
+      "record_count": 8,
+      "checked_keys": [
+        "p099_s01",
+        "p099_s02",
+        "p099_s03",
+        "p099_s04",
+        "p099_s05",
+        "p099_s06",
+        "p099_s07",
+        "p099_s08"
+      ]
+    },
+    {
+      "book_page": 100,
+      "record_count": 5,
+      "checked_keys": [
+        "p100_s01",
+        "p100_s02",
+        "p100_s03",
+        "p100_s04",
+        "p100_s05"
+      ]
+    },
+    {
+      "book_page": 101,
+      "record_count": 7,
+      "checked_keys": [
+        "p101_s01",
+        "p101_s02",
+        "p101_s03",
+        "p101_s04",
+        "p101_s05",
+        "p101_s06",
+        "p101_s07"
+      ]
+    },
+    {
+      "book_page": 102,
+      "record_count": 6,
+      "checked_keys": [
+        "p102_s01",
+        "p102_s02",
+        "p102_s03",
+        "p102_s04",
+        "p102_s05",
+        "p102_s06"
+      ]
+    },
+    {
+      "book_page": 103,
+      "record_count": 13,
+      "checked_keys": [
+        "p103_s01",
+        "p103_s02",
+        "p103_s03",
+        "p103_s04",
+        "p103_s05",
+        "p103_s06",
+        "p103_s07",
+        "p103_s08",
+        "p103_s09",
+        "p103_s10",
+        "p103_s11",
+        "p103_s12",
+        "p103_s13"
+      ]
+    },
+    {
+      "book_page": 104,
+      "record_count": 5,
+      "checked_keys": [
+        "p104_s01",
+        "p104_s02",
+        "p104_s03",
+        "p104_s04",
+        "p104_s05"
+      ]
+    },
+    {
+      "book_page": 105,
+      "record_count": 8,
+      "checked_keys": [
+        "p105_s01",
+        "p105_s02",
+        "p105_s03",
+        "p105_s04",
+        "p105_s05",
+        "p105_s06",
+        "p105_s07",
+        "p105_s08"
+      ]
+    },
+    {
+      "book_page": 106,
+      "record_count": 6,
+      "checked_keys": [
+        "p106_s01",
+        "p106_s02",
+        "p106_s03",
+        "p106_s04",
+        "p106_s05",
+        "p106_s06"
+      ]
+    },
+    {
+      "book_page": 107,
+      "record_count": 10,
+      "checked_keys": [
+        "p107_s01",
+        "p107_s02",
+        "p107_s03",
+        "p107_s04",
+        "p107_s05",
+        "p107_s06",
+        "p107_s07",
+        "p107_s08",
+        "p107_s09",
+        "p107_s10"
+      ]
+    },
+    {
+      "book_page": 108,
+      "record_count": 5,
+      "checked_keys": [
+        "p108_s01",
+        "p108_s02",
+        "p108_s03",
+        "p108_s04",
+        "p108_s05"
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "key": "p073_s07",
+      "book_page": 73,
+      "id": "一、7",
+      "why": "甲乙已平均为80，丙低30；从基准80扣去30÷3即可，避免160+50与210÷3。",
+      "new_note_latex": "以80为基准，甲、乙的总量正好是2份80；若丙也为80，三数平均仍为80。丙实际少30，应把这30平均从3份中扣去，所以先用30除以3得10，再从80减10，避免先求210。\\[\\begin{aligned}&80-(80-50)\\div3\\\\={}&80-30\\div3\\\\={}&80-10\\\\={}&70\\end{aligned}\\]原“先求总量再平均”的数量思路也成立，但不能把代表两份的80和代表一份的50直接平均。",
+      "new_answer_latex": "填\\(70\\)。\\textbf{方法一：以80为基准移多补少}\\par 以80为基准，甲、乙的总量正好是2份80；若丙也为80，三数平均仍为80。丙实际少30，应把这30平均从3份中扣去，所以先用30除以3得10，再从80减10，避免先求210。\\[\\begin{aligned}&80-(80-50)\\div3\\\\={}&80-30\\div3\\\\={}&80-10\\\\={}&70\\end{aligned}\\]原“先求总量再平均”的数量思路也成立，但不能把代表两份的80和代表一份的50直接平均。\\par\\textbf{方法二：先求总量再平均}\\[\\begin{aligned}&(80\\times2+50)\\div3\\\\={}&(160+50)\\div3\\\\={}&210\\div3\\\\={}&70\\end{aligned}\\]",
+      "simple_latex": "\\[\\begin{aligned}&80-(80-50)\\div3\\\\={}&80-30\\div3\\\\={}&80-10\\\\={}&70\\end{aligned}\\]",
+      "original_answer_needs_replacement": false,
+      "scope": "主解及旁注",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p075_s03",
+      "book_page": 75,
+      "id": "三、2",
+      "why": "20=2×10，720×2÷20可先乘2再除2还原，只算720÷10，比先算1440÷20更便捷。",
+      "new_note_latex": "平均速度仍按来回总路程除以来回总用时。两程各720米，总时间12加8等于20分钟；20是2与10的积，除以20可先除以2再除以10。前面的乘2与接着除2互相还原，直接用720除以10，免算1440。两程用时不同，不能把两段速度直接相加除以2。",
+      "new_answer_latex": "\\textbf{总路程除以总时间，先整理乘除}\\par 来回路程按每程720米乘2程列式。利用除以积等于连续除以两个因数，先乘2再除2还原720。\\[\\begin{aligned}&720\\times2\\div(12+8)\\\\={}&720\\times2\\div20\\\\={}&720\\times2\\div2\\div10\\\\={}&720\\div10\\\\={}&72\\text{（米/分）}\\end{aligned}\\]答：来回平均每分钟走72米。",
+      "simple_latex": "\\[\\begin{aligned}&720\\times2\\div(12+8)\\\\={}&720\\times2\\div20\\\\={}&720\\times2\\div2\\div10\\\\={}&720\\div10\\\\={}&72\\text{（米/分）}\\end{aligned}\\]",
+      "original_answer_needs_replacement": true,
+      "scope": "主解及旁注",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p075_s05",
+      "book_page": 75,
+      "id": "三、3（2）",
+      "why": "现有移多补少法已把五个评分化成85，却又求425再除5；按先乘后除同一个非零数直接还原85。",
+      "new_note_latex": "去掉最高97分和最低80分后，留下5个评分，所以原方法应同时减少总分与评分个数。另法在剩下的五个评分中移多补少，把87的2分补给83，把88的3分补给82，原来的85不动：\\(87-2=83+2=85\\)，\\(88-3=82+3=85\\)。\\[\\begin{aligned}&85\\times5\\div5\\\\={}&85\\text{（分）}\\end{aligned}\\]先乘5又除以5，回到原数85，无须先算425；移多补少后五个评分相同，平均数也就是每个评分85。",
+      "new_answer_latex": "\\textbf{方法一：从总分扣除最高、最低分}\\par 去掉2个评分，评分个数也要相应减少。分子先算602减97，分母同时算7减2。\\[\\begin{aligned}&(602-97-80)\\div(7-2)\\\\&=(505-80)\\div5\\\\&=425\\div5\\\\&=85\\text{（分）}\\end{aligned}\\]答：去掉一个最高分和一个最低分后，平均分是85分。\\par \\textbf{方法二：剩余五个评分移多补少}\\par 将87分中的2分补给83分，将88分中的3分补给82分；原来的85分不动，五份都成85分。\\[\\begin{aligned}87-2&=85,&83+2&=85\\\\88-3&=85,&82+3&=85\\end{aligned}\\]再按每份85分、共5份求平均。\\[\\begin{aligned}&85\\times5\\div5\\\\={}&85\\text{（分）}\\end{aligned}\\]答：平均分是85分。",
+      "simple_latex": "\\[\\begin{aligned}&85\\times5\\div5\\\\={}&85\\text{（分）}\\end{aligned}\\]",
+      "original_answer_needs_replacement": false,
+      "scope": "仅简化方法二中85×5÷5的末段；不改方法一与题意",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p077_s06",
+      "book_page": 77,
+      "id": "一、6（1）",
+      "why": "当前分组仍求310+310+160=780再除5；155基准下±1、±4两对抵消，只需155+5÷5。",
+      "new_note_latex": "以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&(310+310+160)\\div5\\\\={}&(620+160)\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。",
+      "new_answer_latex": "填\\(156\\)。\\textbf{方法一：以155厘米为基准移多补少}\\par 以155厘米为基准：156多1、154少1，151少4、159多4，两对多、少部分分别抵消。只剩160比155多5厘米，平均补到5人，每人多1厘米。\\[\\begin{aligned}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]\\par\\textbf{另法：分组求总身高再平均}\\par 两对身高分别合为310厘米，与160厘米合计后除以5。\\[\\begin{aligned}&(156+154+151+159+160)\\div5\\\\={}&[(156+154)+(151+159)+160]\\div5\\\\={}&(310+310+160)\\div5\\\\={}&(620+160)\\div5\\\\={}&780\\div5\\\\={}&156\\text{（厘米）}\\end{aligned}\\]平均数反映整体水平，不表示每位队员都高156厘米。",
+      "simple_latex": "\\[\\begin{aligned}&155+5\\div5\\\\={}&155+1\\\\={}&156\\text{（厘米）}\\end{aligned}\\]",
+      "original_answer_needs_replacement": false,
+      "scope": "主解及旁注",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p083_s04",
+      "book_page": 83,
+      "id": "四、1",
+      "why": "两车路程分别列式后同乘3，先提取共同3求速度和170，避免分别算285与225。",
+      "new_note_latex": "图中两车都只行驶了3小时，尚未相遇，整段路程由两车已行部分和中间未行的193千米组成。方法一把每小时两车接近的路程先相加，再乘共同的时间；方法二分别用速度乘时间列出各车路程，再用乘法分配律合并共同的时间，求两车已行总路程后加193千米。\\par \\textbf{方法一：先求速度和}\\[\\begin{aligned}&(95+75)\\times3+193\\\\&=170\\times3+193\\\\&=510+193\\\\&=703\\text{（千米）}\\end{aligned}\\]\\textbf{方法二：分别列出两车路程，再合并简算}\\[\\begin{aligned}&95\\times3+75\\times3+193\\\\={}&(95+75)\\times3+193\\\\={}&170\\times3+193\\\\={}&510+193\\\\={}&703\\text{（千米）}\\end{aligned}\\]答：烟台和北京相距703千米。先分别列出的数量分析可以保留，计算再用乘法分配律合并；与原方法归为同一简算结构，不增加一种新方法。",
+      "new_answer_latex": "两车相向行驶后尚未相遇，总距离\\(=\\)两车已走的路程和\\(+\\)剩余距离；两车各走\\(3\\)小时。线段图从烟台到北京依次分成“小汽车\\(3\\)小时所走路程”“尚距\\(193\\)千米”“货车\\(3\\)小时所走路程”三段。\\textbf{方法一：先求两车一共走的路程}\\[\\begin{aligned}&(95+75)\\times3+193\\\\&=170\\times3+193\\\\&=510+193\\\\&=703\\text{（千米）}\\end{aligned}\\]答：烟台和北京相距\\(703\\)千米。\\textbf{方法二：分别列出两车路程，再合并简算}\\[\\begin{aligned}&95\\times3+75\\times3+193\\\\={}&(95+75)\\times3+193\\\\={}&170\\times3+193\\\\={}&510+193\\\\={}&703\\text{（千米）}\\end{aligned}\\]答：两地相距\\(703\\)千米。",
+      "simple_latex": "\\[\\begin{aligned}&95\\times3+75\\times3+193\\\\={}&(95+75)\\times3+193\\\\={}&170\\times3+193\\\\={}&510+193\\\\={}&703\\text{（千米）}\\end{aligned}\\]",
+      "original_answer_needs_replacement": false,
+      "scope": "只改另法计算，保留原有数量分析起点，不增算第三法",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p084_s01",
+      "book_page": 84,
+      "id": "四、4（1）",
+      "why": "两种水果各35箱，另法仍分别算大乘积；乘法分配律先将55与45凑100。",
+      "new_note_latex": "两种水果箱数同为35，可把一箱葡萄与一箱橙子合为一组，先求每组100元，再求35组的总价。也可先按单价乘箱数分别列出两种总价，再用乘法分配律合并简算；两种方法中的35箱都不能漏掉。\\par 另法：先分别列出两种水果的费用，再合并简算。\\[\\begin{aligned}&55\\times35+45\\times35\\\\={}&(55+45)\\times35\\\\={}&100\\times35\\\\={}&3500\\text{（元）}\\end{aligned}\\]先分别列出的数量分析可以保留，计算再用乘法分配律合并；与原方法归为同一简算结构，不增加一种新方法。",
+      "new_answer_latex": "葡萄和橙子各买\\(35\\)箱，可看成\\(35\\)组“各\\(1\\)箱”。两种思路都用“总价\\(=\\)单价\\(\\times\\)数量”，分组相加与分别计算由乘法分配律联系起来。\\textbf{方法一：先求各一箱的总价}\\[\\begin{aligned}&(55+45)\\times35\\\\&=100\\times35\\\\&=3500\\text{（元）}\\end{aligned}\\]答：一共花\\(3500\\)元。\\textbf{方法二：先分别列费用，再用分配律简算}\\[\\begin{aligned}&55\\times35+45\\times35\\\\={}&(55+45)\\times35\\\\={}&100\\times35\\\\={}&3500\\text{（元）}\\end{aligned}\\]答：一共花\\(3500\\)元。",
+      "simple_latex": "\\[\\begin{aligned}&55\\times35+45\\times35\\\\={}&(55+45)\\times35\\\\={}&100\\times35\\\\={}&3500\\text{（元）}\\end{aligned}\\]",
+      "original_answer_needs_replacement": false,
+      "scope": "只改另法计算，保留原有数量分析起点，不增算第三法",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p084_s02",
+      "book_page": 84,
+      "id": "四、4（2）",
+      "why": "价差算式有共同35，先算55−45=10，避免另算1925、1575及它们的差。",
+      "new_note_latex": "两种水果各有35箱，每对应的一对箱子都相差10元，所以总价差是35份10元。另法先分别列出两种水果的费用，再相减；求“多花多少”用差，不能把两种总价相加。\\par 另法：先分别列费用差，再用乘法分配律合并简算。\\[\\begin{aligned}&55\\times35-45\\times35\\\\={}&(55-45)\\times35\\\\={}&10\\times35\\\\={}&350\\text{（元）}\\end{aligned}\\]先分别列出的数量分析可以保留，计算再用乘法分配律合并；与原方法归为同一简算结构，不增加一种新方法。",
+      "new_answer_latex": "两种水果的箱数相同，每箱价差在\\(35\\)箱中重复\\(35\\)次；也可以先分别列出两种总价的式子再求差，计算时用乘法分配律合并。\\textbf{方法一：每箱价差乘箱数}\\[\\begin{aligned}&(55-45)\\times35\\\\&=10\\times35\\\\&=350\\text{（元）}\\end{aligned}\\]答：葡萄比橙子多花\\(350\\)元。\\textbf{方法二：先分别列费用差，再用分配律简算}\\[\\begin{aligned}&55\\times35-45\\times35\\\\={}&(55-45)\\times35\\\\={}&10\\times35\\\\={}&350\\text{（元）}\\end{aligned}\\]答：葡萄比橙子多花\\(350\\)元。",
+      "simple_latex": "\\[\\begin{aligned}&55\\times35-45\\times35\\\\={}&(55-45)\\times35\\\\={}&10\\times35\\\\={}&350\\text{（元）}\\end{aligned}\\]",
+      "original_answer_needs_replacement": false,
+      "scope": "只改另法计算，保留原有数量分析起点，不增算第三法",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p088_s03",
+      "book_page": 88,
+      "id": "五、4",
+      "why": "6可被3整除，先6÷3再乘4，比先算24再除3更直接，保留每份数×份数列式顺序。",
+      "new_note_latex": "同一根铁丝重新围图形，总长不变，先按正方形边长6厘米乘4条边列总长，再平均分给等边三角形的3条边。计算时6能被3整除，可先算6除以3得2，再乘4；这是乘除性质的简便整理，不能把原来的6厘米只除以3而漏乘4。",
+      "new_answer_latex": "\\textbf{总长不变，列式后先算能整除的一组}\\par 按每边6厘米乘4条边求原总长，再除以3。乘积除以3可先用6除以3，再乘4。\\[\\begin{aligned}&6\\times4\\div3\\\\={}&6\\div3\\times4\\\\={}&2\\times4\\\\={}&8\\text{（厘米）}\\end{aligned}\\]答：等边三角形的边长是8厘米。",
+      "simple_latex": "\\[\\begin{aligned}&6\\times4\\div3\\\\={}&6\\div3\\times4\\\\={}&2\\times4\\\\={}&8\\text{（厘米）}\\end{aligned}\\]",
+      "original_answer_needs_replacement": true,
+      "scope": "主解及旁注",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p089_s07",
+      "book_page": 89,
+      "id": "一、7",
+      "why": "原说明已有移多补少，但脱式仍先求480；以96为基准，+2与−1−1抵消，直接确认平均96。",
+      "new_note_latex": "按规则只去掉一个最高分99和一个最低分92，留下5个评分，除数应为5。以96为基准：98多2，两次95各少1，多、少正好抵消，两个96不变。\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+0\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]也可将98多出的2分各补1分给两个95，五份都成96，总分不变。\\par\\textbf{另法：求剩余总分再平均}\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：张梦最后得分是96分。",
+      "new_answer_latex": "填\\(96\\)。\\textbf{方法一：以96分为基准移多补少}\\par 按规则只去掉一个最高分99和一个最低分92，留下5个评分，除数应为5。以96为基准：98多2，两次95各少1，多、少正好抵消，两个96不变。\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+0\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]也可将98多出的2分各补1分给两个95，五份都成96，总分不变。\\par\\textbf{另法：求剩余总分再平均}\\[\\begin{aligned}&(98+95+96+95+96)\\div5\\\\={}&480\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]答：张梦最后得分是96分。",
+      "simple_latex": "\\[\\begin{aligned}&96+(2-1-1)\\div5\\\\={}&96+0\\div5\\\\={}&96\\text{（分）}\\end{aligned}\\]",
+      "original_answer_needs_replacement": false,
+      "scope": "主解及旁注",
+      "already_changed_in_previous_56": false,
+      "checked_exact_value": true
+    },
+    {
+      "key": "p100_s02",
+      "book_page": 100,
+      "id": "五、1（2）",
+      "why": "另法同乘80的两项仍分别算3600、160，再与768混合相减。利用乘法分配律先合并成43×80，减少一个乘积及一次三数加减；保留先列销售额减服务费的数量分析，不新增第三种解法。",
+      "priority": "recommended",
+      "simple_latex": "\\[\\begin{aligned}&768+45\\times80-2\\times80\\\\={}&768+(45-2)\\times80\\\\={}&768+43\\times80\\\\={}&768+3440\\\\={}&4208\\text{（元）}\\end{aligned}\\]",
+      "new_note_latex": "“实际收入”必须扣除平台服务费，每袋45元先减2元，再乘80袋，得到下午实收，最后加上午收入。另法先按核桃销售总额减总服务费列式，计算时用乘法分配律把共同的80合并，只求每袋实收43元的80倍；服务费只收核桃这一部分，上午收入不再重复扣费。\\par \\textbf{方法一：先扣每袋服务费}\\[\\begin{aligned} &768+(45-2)\\times80\\\\ ={}&768+43\\times80\\\\ ={}&768+3440\\\\ ={}&4208\\text{（元）}\\end{aligned}\\]\\textbf{方法二：先算销售额再扣总服务费}\\[\\begin{aligned}&768+45\\times80-2\\times80\\\\={}&768+(45-2)\\times80\\\\={}&768+43\\times80\\\\={}&768+3440\\\\={}&4208\\text{（元）}\\end{aligned}\\]答：全天实际收入4208元。",
+      "new_answer_latex": "\\textbf{方法一：先求每袋核桃实际收入}\\par 每袋售价45元，扣平台服务费2元，每袋实收43元。\\[\\begin{aligned} &768+(45-2)\\times80\\\\ ={}&768+43\\times80\\\\ ={}&768+3440\\\\ ={}&4208\\text{（元）}\\end{aligned}\\]答：全天实际收入4208元。\\par \\textbf{方法二：先加销售收入，再扣总服务费}\\par 先把80袋核桃按每袋45元的收入加到上午收入上，再扣80袋的服务费。列出总销售额减总服务费后，利用乘法分配律先合并同乘80的两项，再计算。\\[\\begin{aligned}&768+45\\times80-2\\times80\\\\={}&768+(45-2)\\times80\\\\={}&768+43\\times80\\\\={}&768+3440\\\\={}&4208\\text{（元）}\\end{aligned}\\]答：全天实际收入4208元。\\par ",
+      "original_answer_needs_replacement": false,
+      "pdf_action": "本次更新题间notes中的计算及对应canonical/PPT；原位填值或已简便的主法均保持。",
+      "verification": {
+        "all_rows_equal": true,
+        "result": 4208,
+        "quantity_order_preserved": true,
+        "no_new_grade_method": true
+      }
+    },
+    {
+      "key": "p104_s03",
+      "book_page": 104,
+      "id": "五、3",
+      "why": "另一数量思路仍先算108×15和92×15两个大积；共同乘15，可先把108与92凑成200，明显减少计算量。主法原本已简便，保留。",
+      "priority": "recommended",
+      "simple_latex": "\\[\\begin{aligned}&108\\times15+92\\times15\\\\={}&(108+92)\\times15\\\\={}&200\\times15\\\\={}&3000\\text{（元）}\\end{aligned}\\]",
+      "new_note_latex": "足球和篮球各15个，可以把一个足球和一个篮球配成一套，先合并每套单价为整百数200，再求15套总价。另法先按两类球分别列出总价式，再用乘法分配律合并共同的15，把108与92先凑成200；保留两种数量分析，不把相同的简算结构再计作新方法。\\par 另法：分别列两种球的总价，再合并共同份数简算。\\[\\begin{aligned}&108\\times15+92\\times15\\\\={}&(108+92)\\times15\\\\={}&200\\times15\\\\={}&3000\\text{（元）}\\end{aligned}\\]",
+      "new_answer_latex": "\\textbf{方法一：先求一套足球和篮球的价钱}\\par 各15个，可把一个足球与一个篮球看作一套，共15套。\\[\\begin{aligned} &(108+92)\\times15\\\\ ={}&200\\times15\\\\ ={}&3000\\text{（元）}\\end{aligned}\\]答：一共需要3000元。\\par \\textbf{方法二：分别求两种球的总价}\\par 足球单价108元乘15个，篮球单价92元乘15个，再相加。分别列出两类球的总价后，用乘法分配律把108与92先凑200，不必先求两个大积。\\[\\begin{aligned}&108\\times15+92\\times15\\\\={}&(108+92)\\times15\\\\={}&200\\times15\\\\={}&3000\\text{（元）}\\end{aligned}\\]答：一共需要3000元。\\par ",
+      "original_answer_needs_replacement": false,
+      "pdf_action": "本次更新题间notes中的计算及对应canonical/PPT；原位填值或已简便的主法均保持。",
+      "verification": {
+        "all_rows_equal": true,
+        "result": 3000,
+        "quantity_order_preserved": true,
+        "no_new_grade_method": true
+      }
+    },
+    {
+      "key": "p104_s05",
+      "book_page": 104,
+      "id": "五、5",
+      "why": "另法两车路程同乘2，仍先算440与560；利用分配律先把220与280凑500，更直接。第一次尚未相遇的判断与尚余200均不改变。",
+      "priority": "recommended",
+      "simple_latex": "\\[\\begin{aligned}&220\\times2+280\\times2+200\\\\={}&(220+280)\\times2+200\\\\={}&500\\times2+200\\\\={}&1000+200\\\\={}&1200\\text{（千米）}\\end{aligned}\\]",
+      "new_note_latex": "“第一次相距200千米”表示两车还未相遇，应在已行路程和上加尚余200千米。原法先求每小时共接近多少千米再乘2小时；另法先分别列两车2小时的路程，计算时把同乘2的两项用乘法分配律合并，220与280先凑500，最后加中间未行的200千米。\\par 另法：分别列两车已行路程，再提取共同的2简算。\\[\\begin{aligned}&220\\times2+280\\times2+200\\\\={}&(220+280)\\times2+200\\\\={}&500\\times2+200\\\\={}&1000+200\\\\={}&1200\\text{（千米）}\\end{aligned}\\]",
+      "new_answer_latex": "\\textbf{方法一：先求速度和}\\par 第一次相距200千米，说明尚未相遇；两车已走路程加这200千米就是两地距离。\\[\\begin{aligned} &(220+280)\\times2+200\\\\ ={}&500\\times2+200\\\\ ={}&1000+200\\\\ ={}&1200\\text{（千米）}\\end{aligned}\\]答：两地之间相距1200千米。\\par \\textbf{方法二：分别求各车已行路程}\\par 甲车每小时220千米乘2小时，乙车每小时280千米乘2小时，再加剩下的200千米。分别列两车已行路程后，用乘法分配律把220与280先凑500，再加尚余距离。\\[\\begin{aligned}&220\\times2+280\\times2+200\\\\={}&(220+280)\\times2+200\\\\={}&500\\times2+200\\\\={}&1000+200\\\\={}&1200\\text{（千米）}\\end{aligned}\\]答：两地之间相距1200千米。\\par ",
+      "original_answer_needs_replacement": false,
+      "pdf_action": "本次更新题间notes中的计算及对应canonical/PPT；原位填值或已简便的主法均保持。",
+      "verification": {
+        "all_rows_equal": true,
+        "result": 1200,
+        "quantity_order_preserved": true,
+        "no_new_grade_method": true
+      }
+    },
+    {
+      "key": "p108_s03",
+      "book_page": 108,
+      "id": "五、3",
+      "why": "另一数量思路仍先求62×45、38×45两个大积。两项同乘45，先把62与38凑100，只需100×45，明显比2790+1710简便。",
+      "priority": "recommended",
+      "simple_latex": "\\[\\begin{aligned}&62\\times45+38\\times45\\\\={}&(62+38)\\times45\\\\={}&100\\times45\\\\={}&4500\\text{（元）}\\end{aligned}\\]",
+      "new_note_latex": "每位学生需要一件上衣和一条裤子，可看作一套，先合并每套单价62与38凑100，再求45套总价。另法先按上衣单价乘45件、裤子单价乘45条列出两项总价，计算时用乘法分配律把62与38先凑成100；不能因有两件衣物就把人数变成90后又乘整套单价。\\par \\textbf{方法一：先求一套单价}\\[\\begin{aligned} &(62+38)\\times45\\\\ ={}&100\\times45\\\\ ={}&4500\\text{（元）}\\end{aligned}\\]\\textbf{方法二：分别列两种衣物总价，再合并简算}\\[\\begin{aligned}&62\\times45+38\\times45\\\\={}&(62+38)\\times45\\\\={}&100\\times45\\\\={}&4500\\text{（元）}\\end{aligned}\\]答：买这批合唱服共需4500元。",
+      "new_answer_latex": "\\textbf{方法一：先求一套合唱服的单价}\\par 一件上衣62元加一条裤子38元为一套，45名学生各买一套。\\[\\begin{aligned} &(62+38)\\times45\\\\ ={}&100\\times45\\\\ ={}&4500\\text{（元）}\\end{aligned}\\]答：买这批合唱服一共需要4500元。\\par \\textbf{方法二：分别求上衣与裤子总价}\\par 上衣单价62元乘45件，裤子单价38元乘45条，再相加。分别列出上衣与裤子总价后，利用乘法分配律合并共同的45，先凑整百单价100。\\[\\begin{aligned}&62\\times45+38\\times45\\\\={}&(62+38)\\times45\\\\={}&100\\times45\\\\={}&4500\\text{（元）}\\end{aligned}\\]答：买这批合唱服一共需要4500元。\\par ",
+      "original_answer_needs_replacement": false,
+      "pdf_action": "本次更新题间notes中的计算及对应canonical/PPT；原位填值或已简便的主法均保持。",
+      "verification": {
+        "all_rows_equal": true,
+        "result": 4500,
+        "quantity_order_preserved": true,
+        "no_new_grade_method": true
+      }
+    },
+    {
+      "key": "p098_s02",
+      "book_page": 98,
+      "id": "一、8",
+      "why": "循环赛原7×8÷2先求56再除2，可利用8能被2整除，先算8÷2=4，再算7×4；保持每场重复统计两次的理由和淘汰赛7场不变。因数很小，属可采用的次要简化，优先级低于四处明显凑整漏项。",
+      "priority": "secondary",
+      "simple_latex": "\\[\\begin{aligned}&7\\times8\\div2\\\\={}&7\\times(8\\div2)\\\\={}&7\\times4\\\\={}&28\\text{（场）}\\end{aligned}\\]",
+      "new_note_latex": "循环赛时，每组都要赛7场，按8组统计会把“甲对乙”与“乙对甲”同一场数两次，所以要除以2。列式后利用8能被2整除，可先算8除以2再乘7，减少中间数。淘汰赛每赛一场只淘汰1组，8组剩下1个冠军就要淘汰7组；这两个空采用的赛制不同，不能使用同一种计数方法。\\par 循环赛：\\[\\begin{aligned}&7\\times8\\div2\\\\={}&7\\times(8\\div2)\\\\={}&7\\times4\\\\={}&28\\text{（场）}\\end{aligned}\\]淘汰赛：\\(8-1=7\\)（场）。",
+      "new_answer_latex": "循环赛时每组与另外7组各赛一次，\\(7\\times8\\)把每场重复计了两次，故列式后先算8除以2，再乘7，运用整数乘除运算的性质。\\[\\begin{aligned}&7\\times8\\div2\\\\={}&7\\times(8\\div2)\\\\={}&7\\times4\\\\={}&28\\text{（场）}\\end{aligned}\\]淘汰赛每场淘汰1组，留下冠军须淘汰\\(8-1=7\\)组，所以共7场。依次填28、7。",
+      "original_answer_needs_replacement": false,
+      "pdf_action": "本次更新题间notes中的计算及对应canonical/PPT；原位填值或已简便的主法均保持。",
+      "verification": {
+        "all_rows_equal": true,
+        "result": 28,
+        "quantity_order_preserved": true,
+        "no_new_grade_method": true
+      }
+    }
+  ],
+  "change_count": 14,
+  "arithmetic_checks": [
+    {
+      "key": "p073_s07",
+      "old_exact_value": "70",
+      "new_exact_value": "70",
+      "equal": true
+    },
+    {
+      "key": "p075_s03",
+      "old_exact_value": "72",
+      "new_exact_value": "72",
+      "equal": true
+    },
+    {
+      "key": "p075_s05",
+      "old_exact_value": "85",
+      "new_exact_value": "85",
+      "equal": true
+    },
+    {
+      "key": "p077_s06",
+      "old_exact_value": "156",
+      "new_exact_value": "156",
+      "equal": true
+    },
+    {
+      "key": "p083_s04",
+      "old_exact_value": "703",
+      "new_exact_value": "703",
+      "equal": true
+    },
+    {
+      "key": "p084_s01",
+      "old_exact_value": "3500",
+      "new_exact_value": "3500",
+      "equal": true
+    },
+    {
+      "key": "p084_s02",
+      "old_exact_value": "350",
+      "new_exact_value": "350",
+      "equal": true
+    },
+    {
+      "key": "p088_s03",
+      "old_exact_value": "8",
+      "new_exact_value": "8",
+      "equal": true
+    },
+    {
+      "key": "p089_s07",
+      "old_exact_value": "96",
+      "new_exact_value": "96",
+      "equal": true
+    },
+    {
+      "key": "p100_s02",
+      "old_exact_value": "4208",
+      "new_exact_value": "4208",
+      "equal": true
+    },
+    {
+      "key": "p104_s03",
+      "old_exact_value": "3000",
+      "new_exact_value": "3000",
+      "equal": true
+    },
+    {
+      "key": "p104_s05",
+      "old_exact_value": "1200",
+      "new_exact_value": "1200",
+      "equal": true
+    },
+    {
+      "key": "p108_s03",
+      "old_exact_value": "4500",
+      "new_exact_value": "4500",
+      "equal": true
+    },
+    {
+      "key": "p098_s02",
+      "old_exact_value": "28",
+      "new_exact_value": "28",
+      "equal": true
+    }
+  ],
+  "p074_s04": "按root已独立实看原图15千克，加入39千克，C正确；本审查不改题意或答案。",
+  "separate_quality_finding": [
+    {
+      "key": "p091_s03",
+      "issue": "题间所称另法以100作基准，直接沿用原式总数784；此法实际依赖主法求和，没有独立展现净差的求法。不是数值错误，也不是本次五条简算变更之一。",
+      "optional_independent_baseline_latex": "\\[\\begin{aligned}&100-[(100\\times6-464)-(160-100)\\times2]\\div8\\\\={}&100-[(600-464)-60\\times2]\\div8\\\\={}&100-(136-120)\\div8\\\\={}&100-16\\div8\\\\={}&100-2\\\\={}&98\\text{（本）}\\end{aligned}\\]",
+      "explanation": "后6天比每天100本少136本，前2天比每天100本多120本，净少16本，再平均到8天。这能独立完成基准法，但操作较多，不应冒称比总数法更简便。"
+    }
+  ],
+  "not_forced": [
+    "p073_s06三项98/125/149没有天然凑整配对，现算法正确，不强拆",
+    "p073_s02、p089_s02两数整十相加后除2已易算，不为添加基准法而改",
+    "p081_s05先求25×12=300再减25本身已凑整，提取25得到11未更省算，不强改",
+    "p081_s14小数三项没有自然凑整，调整次序无明显收益",
+    "p084_s03两种桌椅数量路径现有整数运算均便于计算，不强改",
+    "p090_s03旁注已用平均差×6，不重复提出原有简算",
+    "指定列竖式的90页题按题型保留竖式，不以简算替代要求"
+  ],
+  "no_change_rationale": [
+    {
+      "keys": [
+        "p091_s01",
+        "p091_s02",
+        "p091_s04"
+      ],
+      "reason": "原有移多补少方法已经给出，保持原题扫描疑读条件；未将稍换分组或数值读法当新增简法。"
+    },
+    {
+      "keys": [
+        "p094_s02",
+        "p095_s01",
+        "p095_s02",
+        "p095_s03",
+        "p099_s03",
+        "p099_s04",
+        "p099_s05",
+        "p103_s08",
+        "p103_s09",
+        "p103_s10",
+        "p107_s05",
+        "p107_s06",
+        "p107_s07",
+        "p107_s08"
+      ],
+      "reason": "现计算题均有合法凑整、乘法分配/结合、减法性质或除以商等结构；p099_s05先960÷48得20也是合适易算结构，不为少一行而强换。"
+    },
+    {
+      "keys": [
+        "p093_s06",
+        "p095_s06",
+        "p095_s07",
+        "p096_s01",
+        "p100_s01",
+        "p100_s03",
+        "p100_s04",
+        "p104_s01",
+        "p104_s04",
+        "p108_s01",
+        "p108_s04"
+      ],
+      "reason": "其余顺算数量关系已清楚或已有基准/换算另法；没有能显著凑整、减少复杂乘除的可确认新变换，不能只因结果为整数或同一式换序就强改。"
+    },
+    {
+      "keys": [
+        "p094_s09",
+        "p103_s04",
+        "p103_s05",
+        "p103_s06",
+        "p103_s07",
+        "p107_s02",
+        "p107_s03",
+        "p107_s04"
+      ],
+      "reason": "原题明确要求竖式/验算，应保留这种指定算法；不拿口算补偿替代指定竖式。"
+    }
+  ],
+  "implementation_note": "83/84/100/104/108的分配律另法保留分别列总量的分析入口，但简算后与原主法同一结构。PDF可只新增“分项式=提取公因数后的原位主式”并共用其后脱式，canonical可合并两种分析入口；本候选提供完整式供root裁为不重复版本，不额外计新方法数。",
+  "actual_visual_scope": {
+    "book_pages": [
+      98,
+      104,
+      108
+    ],
+    "source": "late_91_108子审查实际view_image；本轮其余页主要读活动题源与notes，不冒称再次逐页人工排版检查。"
+  },
+  "input_sha256": {
+    "p74_review/reaudit_73_90_sub.json": "cff48a9cf2c423c5856e9acfbc6b6bb8edadcfaba107f26cac8751e06d517aee",
+    "p74_review/reaudit_91_108_sub.json": "8abbe3803a9084e3dfefbef84e178e3583aded11ccf737478b4afff9dea669d1",
+    "p74_review/project/simplify_update/accepted_changes.json": "de0783e596e45ebb9e0e8c562bacfdfe5c683d1ae23dad76af467866bc264c55"
+  }
+}

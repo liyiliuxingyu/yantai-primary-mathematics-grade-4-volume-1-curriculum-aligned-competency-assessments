@@ -1,0 +1,246 @@
+{
+  "book_page": 6,
+  "source_page": 10,
+  "title": "",
+  "records": [
+    {
+      "key": "p006_s01",
+      "book_page": 6,
+      "source_page": 10,
+      "section_index": 0,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "导航显示，从家到公园全程1800米，小明先以每分钟80米的速度走了5分钟，剩下的路程要在15分钟内走完，剩下的路程每分钟需要走多少米？综合算式：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先求已走路程\\(80\\times5=400\\)米，再求剩余路程\\(1800-400=1400\\)米。\\par 所求平均每分钟走的米数\\(=\\)剩余路程\\(\\div\\)剩余时间，所以原空填\\((1800-80\\times5)\\div15\\)。本题要求列综合算式，到此即可。",
+      "verification": {
+        "status": "verified",
+        "reason": "题目本空只要求列综合算式，填(1800−80×5)÷15即可；不强加四上尚未学的分数运算结果。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p006_s02",
+      "book_page": 6,
+      "source_page": 10,
+      "section_index": 1,
+      "id": "一、8",
+      "kind": "application",
+      "question_latex": "学校体育室准备给同学们发放运动器材。①一共有15盒羽毛球。②每盒12个。③已经分给同学们80个。④剩下的羽毛球要分给5个班级。平均每个班分几个？通过信息①和信息②可以求出（    ），然后与信息③合并可以求出（    ），最后再求出剩下的羽毛球平均每个班级能分到（    ）个。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "文字空依次填“一共有多少个羽毛球”“剩下多少个羽毛球”；数值空填\\(20\\)。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求总数，再扣除已分数量}\\par \\[\\begin{aligned}&(12\\times15-80)\\div5\\\\&=(180-80)\\div5\\\\&=100\\div5\\\\&=20\\text{(个)}\\end{aligned}\\]答：平均每班分到\\(20\\)个羽毛球。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：总数和已分数量分别平均分}\\par \\[\\begin{aligned}&12\\times15\\div5-80\\div5\\\\&=180\\div5-16\\\\&=36-16\\\\&=20\\text{(个)}\\end{aligned}\\]答：平均每班分到\\(20\\)个羽毛球。\\end{minipage}\\par \\par 检验\\(20\\times5+80=180\\)，且\\(12\\times15=180\\)：分给各班的数量加上已经分发的数量，正好等于原有总数。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&12\\times15\\div5-80\\div5\\\\={}&12\\times(15\\div5)-80\\div5\\\\={}&12\\times3-16\\\\={}&36-16\\\\={}&20\\text{(个)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "12×15=180个，剩100个，100÷5=20个。",
+        "changes": [
+          "简便计算复核：保留原两种分析，只把另一方法中的12×15÷5先算15÷5，免算180。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p006_s03",
+      "book_page": 6,
+      "source_page": 10,
+      "section_index": 2,
+      "id": "一、9",
+      "kind": "fill",
+      "question_latex": "\\(\\square+\\square+\\square+\\square=100\\)，\\((\\triangle+\\triangle)\\times\\square=100\\)，\\(\\square\\times\\triangle\\times\\triangle=\\)（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "四个\\(\\square\\)相加是\\(100\\)，故\\(\\square=100\\div4=25\\)。再由\\((\\triangle+\\triangle)\\times25=100\\)，得\\(\\triangle+\\triangle=4\\)，所以\\(\\triangle=2\\)。所求\\(25\\times2\\times2=100\\)，填\\(100\\)。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&25\\times2\\times2\\\\={}&25\\times(2\\times2)\\\\={}&25\\times4\\\\={}&100\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "方框25，三角2，25×2×2=100。",
+        "changes": [
+          "简便计算复核：最后25×2×2可结合2×2凑4，与25凑成100。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p006_s04",
+      "book_page": 6,
+      "source_page": 10,
+      "section_index": 3,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "给算式\\(600\\div24+6\\times2\\)添加括号，使运算顺序变为“先求和，再求积，最后求商”，下列添加方式正确的是（    ）。",
+      "options": [
+        "A.\\(600\\div24+(6\\times2)\\)",
+        "B.\\(600\\div(24+6)\\times2\\)",
+        "C.\\(600\\div[(24+6)\\times2]\\)",
+        "D.\\((600\\div24+6)\\times2\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm C\\)。先和\\(24+6\\)，再积\\((24+6)\\times2\\)，最后用\\(600\\)除以这个积，得\\(600\\div[(24+6)\\times2]\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "600除以(24+6)×2的积，C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p006_s05",
+      "book_page": 6,
+      "source_page": 10,
+      "section_index": 4,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "将“\\(520+360=880\\)”，“\\(900-880=20\\)”，“\\(160\\div20=8\\)”三个算式合并成一个综合算式，正确的是（    ）。",
+      "options": [
+        "A.\\(900-(520+360)\\div20\\)",
+        "B.\\(160\\div[900-(520+360)]\\)",
+        "C.\\(160\\div(900-520+360)\\)",
+        "D.\\(160\\div(900-520-360)\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按给出的三个分步算式逐层合成，选\\(\\mathrm B\\)：\\(160\\div[900-(520+360)]\\)。\\par 注意：\\(\\mathrm D\\)的\\(160\\div(900-520-360)\\)与\\(\\mathrm B\\)数值相等，但它没有按原先“先把\\(520\\)与\\(360\\)相加”的结构合成。若题目只要求结果相等，\\(\\mathrm B,\\mathrm D\\)都得\\(8\\)；本题按给定步骤合并，采用\\(\\mathrm B\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "逐次代入可为B。D数值等价，但未按给定先求和过程合并；按合并运算顺序要求选B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p006_s06",
+      "book_page": 6,
+      "source_page": 10,
+      "section_index": 5,
+      "id": "二、3（两个空）",
+      "kind": "choice",
+      "question_latex": "\\(25\\times8\\div25\\times8=\\)（    ），\\(25\\times8\\div(25\\times8)=\\)（    ）。",
+      "options": [
+        "A.1",
+        "B.64",
+        "C.0",
+        "D.625"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "第一空选\\(\\mathrm B\\)：\\(25\\times8\\div25\\times8=200\\div25\\times8=64\\)。\\par 第二空选\\(\\mathrm A\\)：\\(25\\times8\\div(25\\times8)=200\\div200=1\\)。括号使两个乘积整体相除。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&25\\times8\\div25\\times8\\\\={}&(25\\div25)\\times(8\\times8)\\\\={}&1\\times64\\\\={}&64\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "前式64选B，后式1选A。",
+        "changes": [
+          "简便计算复核：第一式25的乘除可抵消，剩8×8；凸显括号与末尾8的作用，不改第二式。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p006_s07",
+      "book_page": 6,
+      "source_page": 10,
+      "section_index": 6,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "被减数、减数与差的和是120，那么被减数是（    ）。",
+      "options": [
+        "A.120",
+        "B.60",
+        "C.40",
+        "D.条件不够"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)，被减数是\\(60\\)。因为“减数\\(+\\)差\\(=\\)被减数”，三个数的和等于被减数的\\(2\\)倍，所以\\(120\\div2=60\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "减数+差=被减数，三者和为被减数2倍，120÷2=60，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p006_s08",
+      "book_page": 6,
+      "source_page": 10,
+      "section_index": 7,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "要使\\(8\\times(\\square\\div3)\\div2=24\\)，下列说法和计算结果正确的是（    ）。",
+      "options": [
+        "A.先算\\(8\\div2=4\\)，再算\\(4\\times24=96\\)，最后算\\(96\\div3=32\\)",
+        "B.先算\\(24\\times2=48\\)，再算\\(48\\div8=6\\)，最后算\\(6\\times3=18\\)",
+        "C.先算\\(24\\times2=48\\)，再算\\(48\\div8=6\\)，最后算\\(6\\div3=2\\)",
+        "D.先算\\(8\\div2=4\\)，再算\\(24\\div4=6\\)，最后算\\(6\\div3=2\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。从结果倒推：先\\(24\\times2=48\\)，再\\(48\\div8=6\\)，最后\\(6\\times3=18\\)。检验：\\(8\\times(18\\div3)\\div2=24\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "逆算括号中数18，8×(18÷3)÷2=24，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

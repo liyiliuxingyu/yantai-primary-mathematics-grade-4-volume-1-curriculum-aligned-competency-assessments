@@ -1,0 +1,8 @@
+\begin{tikzpicture}[x=.082bp,y=1bp,font=\small\kaishu,inner sep=1pt,outer sep=0pt,line width=.48bp,color=red!80!black]
+\draw[<->] (-1600,0)--(1700,0);
+\foreach \x in {-800,0,850} {\draw (\x,-2)--(\x,2);}
+\node[left] at (-1600,0){甲}; \node[right] at (1700,0){乙}; \node[above] at (0,9){机场};
+\draw[decorate,decoration={brace,amplitude=3bp}] (-800,4)--node[midway,above=4bp]{$800$千米}(0,4);
+\draw[decorate,decoration={brace,amplitude=3bp}] (0,4)--node[midway,above=4bp]{$850$千米}(850,4);
+\draw[decorate,decoration={brace,amplitude=3bp,mirror}] (-1600,-4)--node[midway,below=4bp]{$?$千米}(1700,-4);
+\end{tikzpicture}

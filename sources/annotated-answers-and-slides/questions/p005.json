@@ -1,0 +1,261 @@
+{
+  "book_page": 5,
+  "source_page": 9,
+  "title": "第一单元素养评价（B） 四则混合运算",
+  "records": [
+    {
+      "key": "p005_s01",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "计算\\(12\\times8+15\\div3\\)时，可以同时先算（    ）法和（    ）法，再算（    ）法，结果是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "乘法\\(12\\times8\\)和除法\\(15\\div3\\)分别处在两个独立部分，可以先同时计算，再相加。四空依次填“乘、除、加、\\(101\\)”；\\(12\\times8+15\\div3=96+5=101\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "独立乘除同时得到96和5，最后加为101。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p005_s02",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 1,
+      "id": "一、2（1）",
+      "kind": "fill",
+      "question_latex": "按要求在算式\\(32\\times400-200\\div25\\)中添上括号，改变运算顺序。（不改变运算符号）（1）先减再除最后乘：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "要先减、再除、最后乘，先用\\((400-200)\\)，再把商\\((400-200)\\div25\\)整体乘\\(32\\)。填\\(32\\times[(400-200)\\div25]\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "32×[(400−200)÷25]。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p005_s03",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 2,
+      "id": "一、2（2）",
+      "kind": "fill",
+      "question_latex": "按要求在算式\\(32\\times400-200\\div25\\)中添上括号，改变运算顺序。（不改变运算符号）（2）先减再乘最后除：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "只把减法提前，乘除仍从左到右进行。填\\(32\\times(400-200)\\div25\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "[32×(400−200)]÷25。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p005_s04",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 3,
+      "id": "一、3",
+      "kind": "application",
+      "question_latex": "烟台海产品特别有名。扇贝每千克12元，梭子蟹每千克96元，即食海鲜礼盒每盒的价格比扇贝和梭子蟹单价和的3倍多10元。即食海鲜礼盒每盒（    ）元。根据题意进行分析，将流程图填写完整。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=1.15cm,minimum height=.45cm}]\\node[b] (n00) at (0.0,0.0) {};\\node[b] (n01) at (1.9,0.0) {};\\node at (.95,0.0) {$\\bigcirc$};\\node[b] (n10) at (0.0,-0.85) {};\\node[b] (n11) at (1.9,-0.85) {};\\node at (.95,-0.85) {$\\bigcirc$};\\draw (n00.south)--(n10.north);\\draw (n01.south)--(n10.north);\\node[b] (n20) at (0.0,-1.7) {};\\node[b] (n21) at (1.9,-1.7) {};\\node at (.95,-1.7) {$\\bigcirc$};\\draw (n10.south)--(n20.north);\\draw (n11.south)--(n20.north);\\node[b] (n30) at (0.0,-2.55) {};\\draw (n20.south)--(n30.north);\\draw (n21.south)--(n30.north);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p005_s04_g1"
+        },
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=3.7cm,minimum height=.6cm,align=center}]\\node[b](n0)at(0,0){{\\color{red}扇贝单价\\(12\\)元/千克}};\\node[b](n1)at(4.3,0){{\\color{red}梭子蟹单价\\(96\\)元/千克}};\\node[b](n2)at(0,-1){{\\color{red}两种单价和\\(108\\)元}};\\node[b](n3)at(4.3,-1){{\\color{red}\\(3\\)倍}};\\node[b](n4)at(0,-2){{\\color{red}单价和的\\(3\\)倍\\(324\\)元}};\\node[b](n5)at(4.3,-2){{\\color{red}多\\(10\\)元}};\\node[b](n6)at(0,-3){{\\color{red}礼盒单价\\(334\\)元}};\\draw(n0.south)--(n2.north);\\draw(n1.south)--(n2.north);\\draw(n2.south)--(n4.north);\\draw(n3.south)--(n4.north);\\draw(n4.south)--(n6.north);\\draw(n5.south)--(n6.north);\\node[red]at(2.15,0){$+$};\\node[red]at(2.15,-1){$\\times$};\\node[red]at(2.15,-2){$+$};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按第一单元信息窗三的数量关系分析形式补齐数量名称、数据和单位；保留原分析方向与每份数×份数。",
+          "name": "p005_s04_a1"
+        }
+      ],
+      "answer_latex": "从条件开始分析：先求两种单价之和，再求这个和的3倍，最后加多出的10元。\\par 方法一：\\[\\begin{aligned}&(12+96)\\times3+10\\\\={}&108\\times3+10\\\\={}&324+10\\\\={}&334\\text{(元)}\\end{aligned}\\]答：每盒即食海鲜礼盒334元。\\par 方法二（乘法分配律）：\\[\\begin{aligned}&12\\times3+96\\times3+10\\\\={}&36+288+10\\\\={}&324+10\\\\={}&334\\text{(元)}\\end{aligned}\\]答：每盒即食海鲜礼盒334元。\\par 检验：\\[\\begin{aligned}&(334-10)\\div3\\\\={}&324\\div3\\\\={}&108\\end{aligned}\\]与两种单价之和\\(12+96=108\\)一致。",
+      "verification": {
+        "status": "verified",
+        "reason": "(12+96)×3+10=108×3+10=334元。",
+        "changes": [
+          "按第一单元信息窗三补齐原数量关系分析树的名称、数据、单位和回顾检验。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p005_s05",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 4,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "630减去78的差乘14再除以7，商是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "“差乘\\(14\\)再除以\\(7\\)”应列\\((630-78)\\times14\\div7\\)。\\[\\begin{aligned}&(630-78)\\times14\\div7\\\\&=552\\times14\\div7\\\\&=7728\\div7\\\\&=1104\\end{aligned}\\]也可先把\\(\\times14\\div7\\)合并成\\(\\times2\\)，得\\(552\\times2=1104\\)。\\par\\textbf{简便提示（学完运算律后）}\\par 除以7只作用在前面整个乘积上，可先用14除以7得到2；括号内的减法与14除以7互不依赖，可同一步算完。\\[\\begin{aligned}&(630-78)\\times14\\div7\\\\={}&(630-78)\\times(14\\div7)\\\\={}&552\\times2\\\\={}&1104\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "(630−78)×14÷7=552×2=1104。",
+        "changes": [
+          "本轮复核：原解析文字已经指出14÷7=2，但唯一完整脱式仍先算7728；补上按乘法结合整数除法先求14÷7的脱式，避免大乘积及大除法。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p005_s06",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 5,
+      "id": "一、5①",
+      "kind": "fill",
+      "question_latex": "对比算式，在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：①\\(150-75\\div5\\times3\\ \\bigcirc\\ (150-75)\\div5\\times3\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "左式\\(150-75\\div5\\times3=150-45=105\\)，右式\\((150-75)\\div5\\times3=75\\div5\\times3=45\\)。\\(105>45\\)，填\\(>\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "左105，右45，填＞。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p005_s07",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 6,
+      "id": "一、5②及发现",
+      "kind": "fill",
+      "question_latex": "对比算式，在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：②\\(240\\div(6+2)\\times4\\ \\bigcirc\\ 240\\div[(6+2)\\times4]\\)。对比两组算式，我发现：括号能________，从而改变算式的计算结果。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先算\\(6+2=8\\)。左式为\\(240\\div8\\times4=30\\times4=120\\)，比30大；右式为\\(240\\div32\\)，因为\\(32>8\\)，其商比\\(240\\div8=30\\)小。因此左式大于右式，填\\(>\\)。\\par 两组算式说明：括号能改变运算顺序，从而改变计算结果。比较时不必去求尚未学习的一般小数除法。",
+      "verification": {
+        "status": "verified",
+        "reason": "借助共同基准30比较，不计算240÷32的小数商，仍严谨推出左>右。",
+        "changes": [
+          "删去用一般小数除法直接算7.5的比较方法，改用整数基准30。"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p005_s08",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 7,
+      "id": "一、6①",
+      "kind": "fill",
+      "question_latex": "根据分步算式，写出综合算式：①\\(36\\div4=9\\)，\\(12+9=21\\)，\\(21\\times5=105\\)。综合算式：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把\\(36\\div4\\)代入\\(12+9\\)，再把和代入\\(21\\times5\\)。填\\((12+36\\div4)\\times5\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "(12+36÷4)×5。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p005_s09",
+      "book_page": 5,
+      "source_page": 9,
+      "section_index": 8,
+      "id": "一、6②",
+      "kind": "fill",
+      "question_latex": "根据分步算式，写出综合算式：②\\(60-35=25\\)，\\(25\\times4=100\\)，\\(500\\div100=5\\)。综合算式：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先算\\(60-35\\)，再乘\\(4\\)，这个积作除数。填\\(500\\div[(60-35)\\times4]\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "500÷[(60−35)×4]。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

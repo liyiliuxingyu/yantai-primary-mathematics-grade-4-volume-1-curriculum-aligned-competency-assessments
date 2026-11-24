@@ -1,0 +1,648 @@
+{
+  "added_local_patch_count": 17,
+  "added_snippet_count": 17,
+  "old_math_rows_replaced": 17,
+  "records": [
+    {
+      "key": "p003_s04",
+      "book_page": 3,
+      "old_bbox": [
+        301.3420104980469,
+        193.74595642089844,
+        383.8013916015625,
+        203.89254760742188
+      ],
+      "baseline_anchor": [
+        301.3420104980469,
+        201.71603393554688
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 76 × (215 −140)",
+      "new_expression": "76\\times[215-140]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p003.png",
+      "old_row_count_preserved": 1,
+      "id": "p003_s04_local1",
+      "latex": "\\(\\displaystyle=76\\times[215-140]\\)",
+      "mask_rect": [
+        300.54201049804686,
+        192.94595642089843,
+        384.6013916015625,
+        204.6925476074219
+      ],
+      "container_rect": [
+        299.54201049804686,
+        191.94595642089843,
+        392.6013916015625,
+        205.6925476074219
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 525,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p003_s05",
+      "book_page": 3,
+      "old_bbox": [
+        84.91099548339844,
+        304.4619140625,
+        162.39859008789062,
+        314.6085205078125
+      ],
+      "baseline_anchor": [
+        84.91099548339844,
+        312.4320068359375
+      ],
+      "font_size": 10,
+      "old_visible_row": "= (396 ÷ 11) × 58",
+      "new_expression": "[396\\div11]\\times58",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p003.png",
+      "old_row_count_preserved": 1,
+      "id": "p003_s05_local1",
+      "latex": "\\(\\displaystyle=[396\\div11]\\times58\\)",
+      "mask_rect": [
+        84.11099548339844,
+        303.6619140625,
+        163.19859008789064,
+        315.4085205078125
+      ],
+      "container_rect": [
+        83.11099548339844,
+        302.6619140625,
+        171.19859008789064,
+        316.4085205078125
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 520,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p003_s06",
+      "book_page": 3,
+      "old_bbox": [
+        300.62799072265625,
+        304.4619140625,
+        383.08807373046875,
+        314.6085205078125
+      ],
+      "baseline_anchor": [
+        300.62799072265625,
+        312.4320068359375
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 184 ÷ (560 ÷ 70)",
+      "new_expression": "184\\div[560\\div70]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p003.png",
+      "old_row_count_preserved": 1,
+      "id": "p003_s06_local1",
+      "latex": "\\(\\displaystyle=184\\div[560\\div70]\\)",
+      "mask_rect": [
+        299.82799072265624,
+        303.6619140625,
+        383.88807373046876,
+        315.4085205078125
+      ],
+      "container_rect": [
+        298.82799072265624,
+        302.6619140625,
+        391.88807373046876,
+        316.4085205078125
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 562,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p007_s02",
+      "book_page": 7,
+      "old_bbox": [
+        87.05400085449219,
+        198.74595642089844,
+        156.79229736328125,
+        208.89254760742188
+      ],
+      "baseline_anchor": [
+        87.05400085449219,
+        206.71603393554688
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 3744 −38 × 6",
+      "new_expression": "3744-[38\\times6]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p007.png",
+      "old_row_count_preserved": 1,
+      "id": "p007_s02_local1",
+      "latex": "\\(\\displaystyle=3744-[38\\times6]\\)",
+      "mask_rect": [
+        86.25400085449219,
+        197.94595642089843,
+        157.59229736328126,
+        209.6925476074219
+      ],
+      "container_rect": [
+        85.25400085449219,
+        196.94595642089843,
+        165.59229736328126,
+        210.6925476074219
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 454,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p007_s03",
+      "book_page": 7,
+      "old_bbox": [
+        320.62799072265625,
+        198.74595642089844,
+        398.1060791015625,
+        208.89254760742188
+      ],
+      "baseline_anchor": [
+        320.62799072265625,
+        206.71603393554688
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 25 × (672 ÷ 32)",
+      "new_expression": "25\\times[672\\div32]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p007.png",
+      "old_row_count_preserved": 1,
+      "id": "p007_s03_local1",
+      "latex": "\\(\\displaystyle=25\\times[672\\div32]\\)",
+      "mask_rect": [
+        319.82799072265624,
+        197.94595642089843,
+        398.9060791015625,
+        209.6925476074219
+      ],
+      "container_rect": [
+        318.82799072265624,
+        196.94595642089843,
+        406.9060791015625,
+        210.6925476074219
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 511,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p007_s04",
+      "book_page": 7,
+      "old_bbox": [
+        87.05400085449219,
+        284.4619140625,
+        164.54159545898438,
+        294.6085205078125
+      ],
+      "baseline_anchor": [
+        87.05400085449219,
+        292.4320068359375
+      ],
+      "font_size": 10,
+      "old_visible_row": "= (275 ÷ 55) × 45",
+      "new_expression": "[275\\div55]\\times45",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p007.png",
+      "old_row_count_preserved": 1,
+      "id": "p007_s04_local1",
+      "latex": "\\(\\displaystyle=[275\\div55]\\times45\\)",
+      "mask_rect": [
+        86.25400085449219,
+        283.6619140625,
+        165.3415954589844,
+        295.4085205078125
+      ],
+      "container_rect": [
+        85.25400085449219,
+        282.6619140625,
+        173.3415954589844,
+        296.4085205078125
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 482,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p007_s05",
+      "book_page": 7,
+      "old_bbox": [
+        320.62799072265625,
+        284.4619140625,
+        395.3481750488281,
+        294.6085205078125
+      ],
+      "baseline_anchor": [
+        320.62799072265625,
+        292.4320068359375
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 73 × 93 −2876",
+      "new_expression": "[73\\times93]-2876",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p007.png",
+      "old_row_count_preserved": 1,
+      "id": "p007_s05_local1",
+      "latex": "\\(\\displaystyle=[73\\times93]-2876\\)",
+      "mask_rect": [
+        319.82799072265624,
+        283.6619140625,
+        396.14817504882814,
+        295.4085205078125
+      ],
+      "container_rect": [
+        318.82799072265624,
+        282.6619140625,
+        404.14817504882814,
+        296.4085205078125
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 505,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p007_s06",
+      "book_page": 7,
+      "old_bbox": [
+        87.05400085449219,
+        370.89093017578125,
+        164.53208923339844,
+        381.03753662109375
+      ],
+      "baseline_anchor": [
+        87.05400085449219,
+        378.86102294921875
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 65 × (960 ÷ 12)",
+      "new_expression": "65\\times[960\\div12]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p007.png",
+      "old_row_count_preserved": 1,
+      "id": "p007_s06_local1",
+      "latex": "\\(\\displaystyle=65\\times[960\\div12]\\)",
+      "mask_rect": [
+        86.25400085449219,
+        370.09093017578124,
+        165.33208923339845,
+        381.83753662109376
+      ],
+      "container_rect": [
+        85.25400085449219,
+        369.09093017578124,
+        173.33208923339845,
+        382.83753662109376
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 527,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p007_s07",
+      "book_page": 7,
+      "old_bbox": [
+        320.62799072265625,
+        370.89093017578125,
+        403.08807373046875,
+        381.03753662109375
+      ],
+      "baseline_anchor": [
+        320.62799072265625,
+        378.86102294921875
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 336 ÷ (252 ÷ 36)",
+      "new_expression": "336\\div[252\\div36]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p007.png",
+      "old_row_count_preserved": 1,
+      "id": "p007_s07_local1",
+      "latex": "\\(\\displaystyle=336\\div[252\\div36]\\)",
+      "mask_rect": [
+        319.82799072265624,
+        370.09093017578124,
+        403.88807373046876,
+        381.83753662109376
+      ],
+      "container_rect": [
+        318.82799072265624,
+        369.09093017578124,
+        411.88807373046876,
+        382.83753662109376
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 581,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p011_s06",
+      "book_page": 11,
+      "old_bbox": [
+        87.76800537109375,
+        361.60491943359375,
+        170.22779846191406,
+        371.75152587890625
+      ],
+      "baseline_anchor": [
+        87.76800537109375,
+        369.57501220703125
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 1008 ÷ (105 ÷ 5)",
+      "new_expression": "1008\\div[105\\div5]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p011.png",
+      "old_row_count_preserved": 1,
+      "id": "p011_s06_local1",
+      "latex": "\\(\\displaystyle=1008\\div[105\\div5]\\)",
+      "mask_rect": [
+        86.96800537109375,
+        360.80491943359374,
+        171.02779846191407,
+        372.55152587890626
+      ],
+      "container_rect": [
+        85.96800537109375,
+        359.80491943359374,
+        179.02779846191407,
+        373.55152587890626
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 559,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p015_s06",
+      "book_page": 15,
+      "old_bbox": [
+        314.20001220703125,
+        241.6039276123047,
+        386.69677734375,
+        251.75051879882812
+      ],
+      "baseline_anchor": [
+        314.20001220703125,
+        249.57400512695312
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 180 ÷ (72 ÷ 4)",
+      "new_expression": "180\\div[72\\div4]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p015.png",
+      "old_row_count_preserved": 1,
+      "id": "p015_s06_local1",
+      "latex": "\\(\\displaystyle=180\\div[72\\div4]\\)",
+      "mask_rect": [
+        313.40001220703124,
+        240.80392761230468,
+        387.49677734375,
+        252.55051879882814
+      ],
+      "container_rect": [
+        312.40001220703124,
+        239.80392761230468,
+        395.49677734375,
+        253.55051879882814
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 461,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p015_s07",
+      "book_page": 15,
+      "old_bbox": [
+        82.76800537109375,
+        341.60491943359375,
+        160.24609375,
+        351.75152587890625
+      ],
+      "baseline_anchor": [
+        82.76800537109375,
+        349.57501220703125
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 34 × (160 −45)",
+      "new_expression": "34\\times[160-45]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p015.png",
+      "old_row_count_preserved": 1,
+      "id": "p015_s07_local1",
+      "latex": "\\(\\displaystyle=34\\times[160-45]\\)",
+      "mask_rect": [
+        81.96800537109375,
+        340.80491943359374,
+        161.04609375,
+        352.55152587890626
+      ],
+      "container_rect": [
+        80.96800537109375,
+        339.80491943359374,
+        169.04609375,
+        353.55152587890626
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 499,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p015_s08",
+      "book_page": 15,
+      "old_bbox": [
+        314.20001220703125,
+        341.60491943359375,
+        386.7055969238281,
+        351.75152587890625
+      ],
+      "baseline_anchor": [
+        314.20001220703125,
+        349.57501220703125
+      ],
+      "font_size": 10,
+      "old_visible_row": "= (288 ÷ 6) × 17",
+      "new_expression": "[288\\div6]\\times17",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p015.png",
+      "old_row_count_preserved": 1,
+      "id": "p015_s08_local1",
+      "latex": "\\(\\displaystyle=[288\\div6]\\times17\\)",
+      "mask_rect": [
+        313.40001220703124,
+        340.80491943359374,
+        387.50559692382814,
+        352.55152587890626
+      ],
+      "container_rect": [
+        312.40001220703124,
+        339.80491943359374,
+        395.50559692382814,
+        353.55152587890626
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 461,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p019_s12",
+      "book_page": 19,
+      "old_bbox": [
+        292.77099609375,
+        200.88890075683594,
+        375.2303771972656,
+        211.03549194335938
+      ],
+      "baseline_anchor": [
+        292.77099609375,
+        208.85897827148438
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 80 × (200 −131)",
+      "new_expression": "80\\times[200-131]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/geometry_early/p019.png",
+      "old_row_count_preserved": 1,
+      "id": "p019_s12_local1",
+      "latex": "\\(\\displaystyle=80\\times[200-131]\\)",
+      "mask_rect": [
+        291.97099609375,
+        200.08890075683593,
+        376.03037719726564,
+        211.8354919433594
+      ],
+      "container_rect": [
+        290.97099609375,
+        199.08890075683593,
+        384.03037719726564,
+        212.8354919433594
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 544,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p044_s02",
+      "book_page": 44,
+      "old_bbox": [
+        74.28799438476562,
+        318.9568786621094,
+        132.1263427734375,
+        328.0888671875
+      ],
+      "baseline_anchor": [
+        74.28799438476562,
+        326.1300048828125
+      ],
+      "font_size": 9,
+      "old_visible_row": "= 5  ×  (24  ÷  6)",
+      "new_expression": "5\\times[24\\div6]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/pdf_baseline/source_previews/p044.png",
+      "old_row_count_preserved": 1,
+      "id": "p044_s02_local1",
+      "latex": "\\(\\displaystyle=5\\times[24\\div6]\\)",
+      "mask_rect": [
+        73.48799438476563,
+        318.15687866210936,
+        132.9263427734375,
+        328.8888671875
+      ],
+      "container_rect": [
+        72.48799438476563,
+        317.15687866210936,
+        140.9263427734375,
+        329.8888671875
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 284,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p046_s09",
+      "book_page": 46,
+      "old_bbox": [
+        277.77099609375,
+        653.679931640625,
+        355.24908447265625,
+        663.8265380859375
+      ],
+      "baseline_anchor": [
+        277.77099609375,
+        661.6500244140625
+      ],
+      "font_size": 10,
+      "old_visible_row": "= 45  ×  (240  ÷  24)",
+      "new_expression": "45\\times[240\\div24]",
+      "evidence": "/workspace/scratch/1facfb035d44/bracket_review/pdf_baseline/source_previews/p046.png",
+      "old_row_count_preserved": 1,
+      "id": "p046_s09_local1",
+      "latex": "\\(\\displaystyle=45\\times[240\\div24]\\)",
+      "mask_rect": [
+        276.97099609375,
+        652.879931640625,
+        356.04908447265626,
+        664.6265380859375
+      ],
+      "container_rect": [
+        275.97099609375,
+        651.879931640625,
+        364.04908447265626,
+        665.6265380859375
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 517,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    },
+    {
+      "key": "p088_s02",
+      "book_page": 88,
+      "old_bbox": [
+        260.7760009765625,
+        289.8678894042969,
+        323.227783203125,
+        298.9998779296875
+      ],
+      "baseline_anchor": [
+        260.7760009765625,
+        297.041015625
+      ],
+      "font_size": 9,
+      "old_visible_row": "=(24+26)×2",
+      "new_expression": "[24+26]\\times2",
+      "evidence": "actual A4 source rendered below",
+      "old_row_count_preserved": 1,
+      "id": "p088_s02_local1",
+      "latex": "\\(\\displaystyle=[24+26]\\times2\\)",
+      "mask_rect": [
+        259.9760009765625,
+        289.06788940429686,
+        324.027783203125,
+        299.7998779296875
+      ],
+      "container_rect": [
+        258.9760009765625,
+        288.06788940429686,
+        332.027783203125,
+        300.7998779296875
+      ],
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 341,
+      "question_black_first_row_unchanged": true,
+      "other_red_rows_unchanged": true
+    }
+  ],
+  "existing_local_sync": [
+    {
+      "key": "p042_s09",
+      "id": "p042_s09_local1",
+      "old": "\\[\\begin{aligned}={}&640\\div(16\\times5)\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]",
+      "new": "\\[\\begin{aligned}={}&640\\div[16\\times5]\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]",
+      "reason": "原黑题首式含外中括号，原位local片段只有续行，源码初筛未包含首式故漏检；实际PDF核对同步。"
+    }
+  ],
+  "no_extra_rows": true,
+  "no_numeric_changes": true,
+  "no_original_question_changes": true
+}

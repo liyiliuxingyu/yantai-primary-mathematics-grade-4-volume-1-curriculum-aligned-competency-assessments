@@ -1,0 +1,460 @@
+{
+  "book_page": 25,
+  "source_page": 29,
+  "title": "第四单元素养评价（A） 运算律",
+  "records": [
+    {
+      "key": "p025_s01",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "\\(a\\times(b+c)=\\)（    ）\\(\\times\\)（    ）\\(+\\)（    ）\\(\\times\\)（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "用乘法分配律：\\[a\\times(b+c)=a\\times b+a\\times c.\\]四个空依次是\\(a,b,a,c\\)。括号外的\\(a\\)要分别与\\(b,c\\)相乘。",
+      "verification": {
+        "status": "verified",
+        "reason": "乘法分配律a×b+a×c，填a,b,a,c。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s02",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "观察右边的竖式，在计算过程中运用了（    ）律，用横式表示右边竖式的计算过程是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\node at(0,0){$\\begin{array}{r}45\\\\\\times42\\\\\\hline90\\\\180\\phantom0\\\\\\hline1890\\end{array}$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "部分积90在个位起，180在十位起表示1800。",
+          "name": "p025_s02_g1"
+        }
+      ],
+      "answer_latex": "竖式先算\\(45\\times2\\)，再算\\(45\\times40\\)，最后把两部分相加，运用了乘法分配律。\\[\\begin{aligned} &45\\times42\\\\={}&45\\times40+45\\times2\\\\={}&1800+90\\\\={}&1890\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "45×42=45×40+45×2=1800+90=1890，用乘法分配律。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s03",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "小明在用计算器计算\\(87\\times99\\)时，发现按键“9”出现故障，聪明的你想怎样用计算器算出结果？请写出你的算式：（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先把99转化成不用9键输入的等值计算。\\par 输入法一：先乘100再减一份87\\par \\[\\begin{aligned} &87\\times(100-1)\\\\={}&87\\times100-87\\\\={}&8700-87\\\\={}&8613\\end{aligned}\\]按键可依次为\\(87,\\times,100,-,87,=\\)，全程不用9键。\\par 输入法二：先算88加11，再乘87\\par \\[\\begin{aligned} &(88+11)\\times87\\\\={}&99\\times87\\\\={}&8613\\end{aligned}\\]先按\\(88,+,11,=\\)，显示99；再按\\(\\times,87,=\\)。99是计算结果，不是用9键输入，因此没有括号键的普通计算器也能这样算。\\par 输入法三：把99分解成33乘3。由乘法结合律，可先算87乘33，再乘3。\\[\\begin{aligned} &87\\times99\\\\={}&87\\times(33\\times3)\\\\={}&87\\times33\\times3\\\\={}&2871\\times3\\\\={}&8613\\end{aligned}\\]按键可依次为\\(87,\\times,33,\\times,3,=\\)，所有输入数字中都没有9。",
+      "verification": {
+        "status": "verified",
+        "reason": "三种不同思路均得8613且输入不用9键：87×100−87；先88+11再乘87；87×33×3。第三法99=33×3，以乘法结合律依次得2871与8613。",
+        "changes": [
+          "补充因数分解输入法及乘法结合律依据，输入87×33×3全程不用9键。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s04",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 3,
+      "id": "一、4（左上）",
+      "kind": "fill",
+      "question_latex": "在方框里填上合适的数或字母，在圆圈里填上“\\(+\\)、\\(-\\)、\\(\\times\\)、\\(\\div\\)”：\\(98+74+26=\\square+(74+\\square)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "只改变结合顺序，没有交换加数：\\(98+74+26=98+(74+26)\\)。因此这里用加法结合律；两空依次填98、26。",
+      "verification": {
+        "status": "verified",
+        "reason": "加法结合律，98和26。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s05",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 4,
+      "id": "一、4（左中）",
+      "kind": "fill",
+      "question_latex": "在方框里填上合适的数或字母，在圆圈里填运算符号：\\(m\\times21\\times9=m\\times(\\square\\bigcirc\\square)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "乘法结合律：\\(m\\times21\\times9=m\\times(21\\times9)\\)。依次填21、乘号、9。",
+      "verification": {
+        "status": "verified",
+        "reason": "21、×、9。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s06",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 5,
+      "id": "一、4（左下）",
+      "kind": "fill",
+      "question_latex": "在方框里填上合适的数或字母，在圆圈里填运算符号：\\(380\\div5\\div2=380\\bigcirc(\\square\\bigcirc\\square)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "连续除以两个数，等于除以它们的积：\\(380\\div5\\div2=380\\div(5\\times2)\\)。依次填除号、5、乘号、2。",
+      "verification": {
+        "status": "verified",
+        "reason": "÷、5、×、2，连除等于除以积。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s07",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 6,
+      "id": "一、4（右上）",
+      "kind": "fill",
+      "question_latex": "在方框里填上合适的数或字母，在圆圈里填运算符号：\\(612-124-76=612\\bigcirc(\\square\\bigcirc\\square)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "减法的性质：\\(612-124-76=612-(124+76)\\)。依次填减号、124、加号、76。",
+      "verification": {
+        "status": "verified",
+        "reason": "−、124、+、76，减数合并。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s08",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 7,
+      "id": "一、4（右中）",
+      "kind": "fill",
+      "question_latex": "在方框里填上合适的数或字母，在圆圈里填运算符号：\\(389+102=389\\bigcirc\\square\\bigcirc\\square\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把102拆成100与2：\\(389+102=389+100+2\\)。依次填加号、100、加号、2。",
+      "verification": {
+        "status": "verified",
+        "reason": "+、100、+、2，把102分成100与2。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s09",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 8,
+      "id": "一、4（右下）",
+      "kind": "fill",
+      "question_latex": "在方框里填上合适的数或字母：\\((a+b)\\times9=a\\times\\square+\\square\\times\\square\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "乘法分配律：\\((a+b)\\times9=a\\times9+b\\times9\\)。三空依次填9、\\(b\\)、9。",
+      "verification": {
+        "status": "verified",
+        "reason": "分配律，9、b、9。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s10",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 9,
+      "id": "一、5（左上）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：\\(50\\times(12+33)\\ \\bigcirc\\ 50\\times12+33\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(>\\)。左边为\\(50\\times45=2250\\)，右边为\\(600+33=633\\)；左边的33也乘了50。",
+      "verification": {
+        "status": "verified",
+        "reason": "2250>633，＞。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s11",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 10,
+      "id": "一、5（右上）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：\\(132-68-12\\ \\bigcirc\\ 132-68+12\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(<\\)。左边\\(132-68-12=52\\)，右边\\(132-68+12=76\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "52<76，＜。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s12",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 11,
+      "id": "一、5（左中）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：\\(720\\div8\\times6\\ \\bigcirc\\ 720\\div8\\div6\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(>\\)。左边先除8再乘6，得540；右边先除8再除6，得15。",
+      "verification": {
+        "status": "verified",
+        "reason": "540>15，＞。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s13",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 12,
+      "id": "一、5（右中）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：\\(32\\times20\\times8\\ \\bigcirc\\ 32\\times(20\\times8)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(=\\)。\\(32\\times20\\times8=32\\times(20\\times8)\\)，依据乘法结合律。",
+      "verification": {
+        "status": "verified",
+        "reason": "乘法结合律相等，＝。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s14",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 13,
+      "id": "一、5（左下）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：\\(12\\times56\\ \\bigcirc\\ 56\\times12\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(=\\)。\\(12\\times56=56\\times12\\)，依据乘法交换律。",
+      "verification": {
+        "status": "verified",
+        "reason": "乘法交换律相等，＝。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s15",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 14,
+      "id": "一、5（右下）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“\\(>\\)”“\\(<\\)”或“\\(=\\)”：\\(85\\times103\\ \\bigcirc\\ 85\\times100+3\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(>\\)。左边\\(85\\times103=8500+255\\)，右边为\\(8500+3\\)，而\\(255>3\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "左8755右8503，＞。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s16",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 15,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "如果\\(\\bigcirc+\\triangle=4\\)，那么\\(25\\times\\bigcirc+25\\times\\triangle=\\)（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "反用乘法分配律：\\[\\begin{aligned} &25\\times\\bigcirc+25\\times\\triangle\\\\={}&25\\times(\\bigcirc+\\triangle)\\\\={}&25\\times4\\\\={}&100\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "反用分配律25×4=100。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p025_s17",
+      "book_page": 25,
+      "source_page": 29,
+      "section_index": 16,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "明明在计算时，把\\(8\\times(\\square+6)\\)错算成\\(8\\times\\square+6\\)，他得到的结果与正确结果相差（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "正确式中的6应乘8，错式只有一份6；两结果相差7份6：\\[\\begin{aligned}&8\\times6-6\\\\={}&6\\times(8-1)\\\\={}&6\\times7\\\\={}&42\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "6应乘8却只加6，少8×6−6=42。",
+        "changes": [
+          "本轮复核：已说少算7份6，却仍只写48减6；反用分配律直接由8份减1份得到7份，更贴合题目的运算律与数量分析。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "records": 867,
+  "changed_question_keys": [
+    "p075_s03"
+  ],
+  "changed_note_keys": [
+    "p075_s03"
+  ],
+  "unchanged_records": 866,
+  "all_question_text_tables_diagrams_units_and_slots_preserved": true
+}

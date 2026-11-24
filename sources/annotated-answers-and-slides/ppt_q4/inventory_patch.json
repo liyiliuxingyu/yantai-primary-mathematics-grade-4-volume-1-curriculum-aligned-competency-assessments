@@ -1,0 +1,63 @@
+[
+  {
+    "volume": 1,
+    "pptx": "小学四上同步素养卷第1册讲解课件答案.pptx",
+    "sha256": "bfa33453d07728ee480a771f3c5f130926e77cf3f41cf9d96c1fbe19f7ca6a57",
+    "parent_sha256": "bfa33453d07728ee480a771f3c5f130926e77cf3f41cf9d96c1fbe19f7ca6a57",
+    "slides": 426,
+    "q4_teaching_answer_revision": "ppt_q4/qa_final.json",
+    "changed_slides": []
+  },
+  {
+    "volume": 2,
+    "pptx": "小学四上同步素养卷第2册讲解课件答案.pptx",
+    "sha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+    "parent_sha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+    "slides": 479,
+    "q4_teaching_answer_revision": "ppt_q4/qa_final.json",
+    "changed_slides": []
+  },
+  {
+    "volume": 3,
+    "pptx": "小学四上同步素养卷第3册讲解课件答案.pptx",
+    "sha256": "7544ada9a6313730ef63b09977f93cf07ae58afe24873eb3c14dbf0788c2bc58",
+    "parent_sha256": "7544ada9a6313730ef63b09977f93cf07ae58afe24873eb3c14dbf0788c2bc58",
+    "slides": 406,
+    "q4_teaching_answer_revision": "ppt_q4/qa_final.json",
+    "changed_slides": []
+  },
+  {
+    "volume": 4,
+    "pptx": "小学四上同步素养卷第4册讲解课件答案.pptx",
+    "sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+    "parent_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+    "slides": 462,
+    "q4_teaching_answer_revision": "ppt_q4/qa_final.json",
+    "changed_slides": []
+  },
+  {
+    "volume": 5,
+    "pptx": "小学四上同步素养卷第5册讲解课件答案.pptx",
+    "sha256": "39fe62b4b21a551bee42e2a1c7a54fe0852f6f5acbfb71ed02aa333015e3de02",
+    "parent_sha256": "78a82b8be17b7ea20eef6c24cc0219242b29d360578e12da3079e4cc228413d6",
+    "slides": 433,
+    "q4_teaching_answer_revision": "ppt_q4/qa_final.json",
+    "changed_slides": [
+      126,
+      127
+    ],
+    "manifest_path": "/workspace/scratch/1facfb035d44/q4_review/project/ppt_builder/current_metadata/volume05/manifest.json",
+    "manifest_sha256": "b4c3c5076d1f466aefa9817dc1658649944a6871ef9c3284021f4d50582be82b",
+    "index_path": "/workspace/scratch/1facfb035d44/q4_review/project/ppt_builder/current_metadata/volume05/manifest.index.json",
+    "index_sha256": "38733800a754575f83560f3f7caca8b52f1ad052c2af32e05076bdf664901487"
+  },
+  {
+    "volume": 6,
+    "pptx": "小学四上同步素养卷第6册讲解课件答案.pptx",
+    "sha256": "ffff509562a452719d19d614169fb4728271f9de41d84418727104d3791e22fc",
+    "parent_sha256": "ffff509562a452719d19d614169fb4728271f9de41d84418727104d3791e22fc",
+    "slides": 464,
+    "q4_teaching_answer_revision": "ppt_q4/qa_final.json",
+    "changed_slides": []
+  }
+]

@@ -1,0 +1,10 @@
+\begin{tikzpicture}[x=.36bp,y=1bp,font=\small\kaishu,inner sep=1pt,outer sep=0pt,line width=.48bp,color=red!80!black]
+\draw (0,0)--(703,0);
+\foreach \x in {0,95,190,285,478,553,628,703} {\draw (\x,-2)--(\x,2);}
+\node[left] at (0,0){烟台}; \node[right] at (703,0){北京};
+\node[left] at (0,12){小汽车}; \node[right] at (715,12){货车};
+\draw[decorate,decoration={brace,amplitude=3bp}] (0,4)--node[midway,above=4bp]{$95$千米}(95,4);
+\draw[decorate,decoration={brace,amplitude=3bp}] (285,4)--node[midway,above=4bp]{$193$千米}(478,4);
+\draw[decorate,decoration={brace,amplitude=3bp}] (628,4)--node[midway,above=4bp]{$75$千米}(703,4);
+\draw[decorate,decoration={brace,amplitude=3bp,mirror}] (0,-4)--node[midway,below=4bp]{$?$千米}(703,-4);
+\end{tikzpicture}

@@ -1,0 +1,266 @@
+{
+  "book_page": 40,
+  "source_page": 44,
+  "records": [
+    {
+      "key": "p040_s01",
+      "book_page": 40,
+      "source_page": 44,
+      "section_index": 0,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "在下面的三角形中，已知\\(\\angle1=75^\\circ\\)，\\(\\angle2=60^\\circ\\)，你能求出\\(\\angle3\\)和\\(\\angle4\\)的度数吗？想一想：\\(\\angle4\\)、\\(\\angle1\\)、\\(\\angle2\\)有什么关系？（7分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p040_s01_g1",
+          "tikz": "\\begin{tikzpicture}\\coordinate(A)at(0,0);\\coordinate(B)at(4,0);\\coordinate(C)at(3,2.8);\\draw(-1.5,0)--(B)--(C)--(A);\\node at(2.9,2.25){1};\\node at(3.55,.35){2};\\node at(.6,.2){3};\\node at(-.4,.4){4};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "方法一：先用三角形内角和求\\(\\angle3\\)，再用平角求\\(\\angle4\\)。\\[\\begin{aligned}\\angle3&=180^\\circ-75^\\circ-60^\\circ\\\\&=105^\\circ-60^\\circ\\\\&=45^\\circ,\\\\\\angle4&=180^\\circ-45^\\circ\\\\&=135^\\circ.\\end{aligned}\\]\\par 方法二：比较三角形的内角和与底边上的平角，去掉共同的\\(\\angle3\\)，便知\\(\\angle4\\)等于另外两个内角的和。\\[\\begin{aligned}\\angle4&=75^\\circ+60^\\circ\\\\&=135^\\circ,\\\\\\angle3&=180^\\circ-135^\\circ\\\\&=45^\\circ.\\end{aligned}\\]\\par 答：\\(\\angle3=45^\\circ,\\angle4=135^\\circ\\)，关系为\\(\\angle4=\\angle1+\\angle2\\)。这里从已学的内角和、平角推得关系，不要求背诵新的定理名称。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p040_s02",
+      "book_page": 40,
+      "source_page": 44,
+      "section_index": 1,
+      "id": "五、3",
+      "kind": "application",
+      "question_latex": "一根长11厘米的细铁丝，先把它分成三段，再首尾相接围成一个三角形，应该怎样分？小优在2厘米处剪了一刀，再在哪个刻度剪一刀就能围成一个三角形？请你先在图中标出剪的位置，再把想法写出来。（边长为整厘米数）（8分）",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "第二刀刻度（厘米）",
+            "三边长（厘米）",
+            "能否围成"
+          ],
+          "rows": [
+            [
+              3,
+              "2、1、8",
+              "不能"
+            ],
+            [
+              4,
+              "2、2、7",
+              "不能"
+            ],
+            [
+              5,
+              "2、3、6",
+              "不能"
+            ],
+            [
+              6,
+              "2、4、5",
+              "能"
+            ],
+            [
+              7,
+              "2、5、4",
+              "能"
+            ],
+            [
+              8,
+              "2、6、3",
+              "不能"
+            ],
+            [
+              9,
+              "2、7、2",
+              "不能"
+            ],
+            [
+              10,
+              "2、8、1",
+              "不能"
+            ]
+          ],
+          "role": "answer",
+          "answer_cells": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              2
+            ],
+            [
+              5,
+              0
+            ],
+            [
+              5,
+              1
+            ],
+            [
+              5,
+              2
+            ],
+            [
+              6,
+              0
+            ],
+            [
+              6,
+              1
+            ],
+            [
+              6,
+              2
+            ],
+            [
+              7,
+              0
+            ],
+            [
+              7,
+              1
+            ],
+            [
+              7,
+              2
+            ]
+          ]
+        }
+      ],
+      "diagrams": [
+        {
+          "name": "p040_s02_g1",
+          "tikz": "\\begin{tikzpicture}[x=.7cm]\\draw(0,0)--(11,0);\\foreach\\x in{0,...,11}{\\draw(\\x,0)--(\\x,.12);\\node[above,yshift=4pt]at(\\x,.12){\\x};}\\draw(2,-.3)--(2,.25);\\node[below]at(2,-.3){已剪};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        },
+        {
+          "name": "p040_s02_a1",
+          "tikz": "\\begin{tikzpicture}[x=.7cm]\\draw(0,0)--(11,0);\\foreach\\x in{0,...,11}{\\draw(\\x,0)--(\\x,.12);\\node[above,yshift=4pt]at(\\x,.12){\\x};}\\draw(2,-.3)--(2,.25);\\foreach\\x in{6,7}\\draw[red,thick](\\x,-.3)--(\\x,.3);\\node[red,below]at(6.5,-.45){任选一处剪};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "方法一：先确定两条余边，再还原剪切位置。第一刀已剪下2厘米，余下两条边的总长是：\\[\\begin{aligned}&11-2\\\\={}&9\\text{(厘米)}\\end{aligned}\\]另外两边为整厘米数，和为9、差小于2，只能是4厘米和5厘米。第二刀的位置有两种：\\[\\begin{aligned}&2+4\\\\={}&6\\text{(厘米)}\\end{aligned}\\]\\[\\begin{aligned}&2+5\\\\={}&7\\text{(厘米)}\\end{aligned}\\]答：可以在6厘米处或7厘米处剪。两种剪法的三边都是2、4、5厘米，满足\\(2+4>5\\)。\\par 方法二：逐一检查整厘米剪切位置。第二刀须落在余下的9厘米部分，可试3至10厘米处。\\[\\begin{array}{c|c|c}\\text{剪切位置}&\\text{三边长}&\\text{能否围成}\\\\\\hline3&2,1,8&\\times\\\\4&2,2,7&\\times\\\\5&2,3,6&\\times\\\\6&2,4,5&\\checkmark\\\\7&2,5,4&\\checkmark\\\\8&2,6,3&\\times\\\\9&2,7,2&\\times\\\\10&2,8,1&\\times\\end{array}\\]只需检查两条较短边之和是否大于最长边。答：仍为6厘米处或7厘米处；图中两处短线表示备选位置，实际只再剪一处。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p040_s03",
+      "book_page": 40,
+      "source_page": 44,
+      "section_index": 2,
+      "id": "六、思考题",
+      "kind": "application",
+      "question_latex": "科技小组制作AI扫地机器人防撞外壳，取用一块直角梯形塑料板，沿一条线段切割，分成一个平行四边形和一个直角三角形。已知梯形下底比上底长3厘米，梯形两条腰长度之和为10厘米。若给分出的直角三角形围一圈防撞条，你能算出这个直角三角形的周长吗？（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p040_s03_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(6,0)--(6,3)--(2,3)--cycle;\\draw(4,0)--(6,3);\\draw(5.75,0)rectangle(6,.25);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "右侧切出的直角三角形，一条直角边长等于梯形两底之差3厘米。另外两条边分别与梯形的两腰等长（利用平行四边形对边相等），其和为10厘米。\\[\\begin{aligned}&10+3\\\\&=13\\text{(厘米)}\\end{aligned}\\]\\par 答：防撞条一圈的长度，即直角三角形的周长，是13厘米。\\par 也可从周长转移来理解：原来梯形两腰的总长10厘米都保留到三角形中，再增加两底之差3厘米。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

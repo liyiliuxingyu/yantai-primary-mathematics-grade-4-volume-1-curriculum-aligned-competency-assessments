@@ -1,0 +1,162 @@
+{
+  "passed": true,
+  "reviewer": "ppt_v3_4_independent",
+  "volume": 6,
+  "modified_slides_reviewed": [
+    11,
+    12,
+    13,
+    182,
+    244,
+    245,
+    353,
+    354,
+    361,
+    362,
+    453,
+    454
+  ],
+  "modified_slide_count": 12,
+  "actual_view_image_count": 25,
+  "rows": [
+    {
+      "slide": 11,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-11.png",
+      "before_sha256": "2b37c2b0146b332fcb2061b80d0d68a87b331a7a83cb98867faa709e74ef3a92",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-11.png",
+      "after_sha256": "3985f59be4f17a7e91047628da0908c651f17ac841e0ed418ad33a60547051de",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "主法完整保留784÷8=98；原方法二标题改为基准复核，分类准确。"
+    },
+    {
+      "slide": 12,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-12.png",
+      "before_sha256": "f81683aaec190b0a07050801bcf4a97501c7da415be46680bad0f4dd97678de9",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-12.png",
+      "after_sha256": "5b06fab922c055a9bb2a1a747510ba93a1cd62014e0573059df40f253c491698",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "明确784本来自主法，再与每天100本比较，800−784=16、每天少2，未冒称独立方法。"
+    },
+    {
+      "slide": 13,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-13.png",
+      "before_sha256": "2e6bb3644af5b7eb0fdc90ee09f0679d9d5aaba6b1a1ee9d71ac81e19f59b4b4",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-13.png",
+      "after_sha256": "4bc0ef507c1be82404527879c479968159d4c30b5bd909e18efdeb25bc340ba9",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "基准复核100−(100×8−784)÷8=98，所有中间式等价；核对语句完整无覆盖。"
+    },
+    {
+      "slide": 182,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-182.png",
+      "before_sha256": "dad844ce060b5811da17568f9c3c93fd00104b20469349886269fbb965b96f6b",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-182.png",
+      "after_sha256": "97882ad2799ced9fa43d5a2184a59d9254fade3b368cf965851b75317b2fd6fa",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "循环赛7×8÷2先算8÷2成4，得28场；淘汰赛8−1=7场保留，数量含义正确。"
+    },
+    {
+      "slide": 244,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-244.png",
+      "before_sha256": "a2f2e867e4dc28d86e3c14ce42437e414f70e922cd8f7c81575fb37b2f3978c4",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-244.png",
+      "after_sha256": "993ded4a4361500cfff8d266cf2bb81b9b688c4dc65f9c056393201db4f49058",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "768+(45−2)×80与768+45×80−2×80两种列式汇合同一简算结构；只有入口整理，没有重复完整计算。"
+    },
+    {
+      "slide": 245,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-245.png",
+      "before_sha256": "6fca7c79b50c083c96bcf4bae1af3f5388b2756796aeebed89a2c33a57aad011",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-245.png",
+      "after_sha256": "47324414bc44329ceaf2e5ff4325016621b70035d4acfca43cc197f1fa64f4be",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "共用脱式768+(45−2)×80→768+43×80→768+3440→4208元，答语完整。"
+    },
+    {
+      "slide": 353,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-353.png",
+      "before_sha256": "f37a98d7e7857cbc2ed3ca3d579b39d5b11f4ea7514b2b1d58dbfd3229b01a86",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-353.png",
+      "after_sha256": "44d8bfc7d911ba175e7373e8c50822dcb4b5f513de11914bce2bfd135f49ca26",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "题干、各15个配一套的分析保留；另一列式108×15+92×15合并共同15，整理为(108+92)×15。"
+    },
+    {
+      "slide": 354,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-354.png",
+      "before_sha256": "4350fe4f211a21dc87c1b6f9fd09b8f7204a693a768093bd5ff35db97b79476c",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-354.png",
+      "after_sha256": "fad7835171395dd7ef06f45002cb20ad879e7a986112472a96df14881d96eb07",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "共用完整脱式(108+92)×15→200×15→3000元清楚，完整答语在紧接的第355张；已另外核查该页。"
+    },
+    {
+      "slide": 361,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-361.png",
+      "before_sha256": "6db3257252023a9a93ed7f0d31bbc891b580142300ce972f4d9d76ef36348111",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-361.png",
+      "after_sha256": "4d1f4f4d3c1cda09f5630be90df8232a3ad303b154dde6f2024b1336cbbf7f25",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "两种列式(220+280)×2+200和220×2+280×2+200共用后续凑500计算。"
+    },
+    {
+      "slide": 362,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-362.png",
+      "before_sha256": "bf5ed2b40a878186346398e55ae12ab4940053763bf93e8d2d3e12b9a2384ea2",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-362.png",
+      "after_sha256": "ff59985c129273925e6790f5806069ab3e21074e1c8681b72c73399d1b90d3da",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "共用完整脱式凑500后得1200千米，尚余200千米相加方向正确，答语完整。"
+    },
+    {
+      "slide": 453,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-453.png",
+      "before_sha256": "d483a0251238154061fc8b3393497303aadc61aa87c14b3f3d1dd52e557805c5",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-453.png",
+      "after_sha256": "0cd502dca7ca14519f8e0f86c4812bc20745014b99beb93f39e0ba47a5fd6407",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "上衣、裤子各45份合并成45套，62+38先凑100，保留另一列式入口，不重复两套完整脱式。"
+    },
+    {
+      "slide": 454,
+      "before_image": "p74_review/ppt_recheck/before_late_v6/slide-454.png",
+      "before_sha256": "a4f6368c289d11ce0f62b9d7d5d12976dee36d34f1981ae4d8e85bd74c7419b1",
+      "after_image": "p74_review/ppt_recheck/after_late_r1_v6/slide-454.png",
+      "after_sha256": "13d50073f8c64a16d5ec4dece64274b1465902dfd7d8d3678b502f7dbf5b3c5f",
+      "before_and_after_individually_viewed": true,
+      "mathematics_and_layout_passed": true,
+      "finding": "共用完整脱式(62+38)×45→100×45→4500元，答语完整，单位正确。"
+    }
+  ],
+  "additional_adjacent_slide_check": {
+    "slide": 355,
+    "actual_image": "p74_review/ppt_recheck/v6_extra_readonly/slide-355.png",
+    "image_sha256": "d342bc0d39fc165df4186d0680d74f9e66049b2c52df02694a4e58ae7a0e7de0",
+    "xml_identical_to_source": true,
+    "xml_sha256": "c4c73ec7e7a703c3fe137527fa77f644ef277b71864f858d8d6f80d5c2cffb2b",
+    "text": "答：一共需要3000元。",
+    "individually_visually_viewed": true
+  },
+  "resolved_temporary_question": "仅查看353/354时未见答语，扩查未改355后确认完整答语在紧接的下一张，没有遗漏，不要求在354重复。",
+  "checks": [
+    "数学中间式等值、单位、每份数乘份数顺序",
+    "共用完整脱式前后连贯，未把同一结构换写法增加独立方法数",
+    "公式等号及后首数对齐，版面未发现新遮挡、裁切或缺字",
+    "91页基准段落明确为主法总量的复核"
+  ],
+  "powerpoint_playback_tested": false,
+  "source_modified": false,
+  "limits": "This is an independent actual visual review of12 changed slides before/after, plus adjacent slide355. It does not establish actual PowerPoint/WPS playback. Later wording-only revisions require their own view or exact unchanged-part comparison."
+}

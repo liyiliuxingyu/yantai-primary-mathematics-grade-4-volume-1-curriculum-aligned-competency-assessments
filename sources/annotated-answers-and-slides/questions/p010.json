@@ -1,0 +1,350 @@
+{
+  "book_page": 10,
+  "source_page": 14,
+  "title": "",
+  "records": [
+    {
+      "key": "p010_s01",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 0,
+      "id": "一、7（续）",
+      "kind": "fill",
+      "question_latex": "（接原书第9页第7题）平行的健身步道两边之间垂线段的长度都（    ），这个性质在修路时保证了路面宽度一致。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填“相等”。一对平行线之间的垂直距离处处相等，路的两边平行就能保证宽度一致。",
+      "verification": {
+        "status": "verified",
+        "reason": "平行线间距离处处相等。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s02",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 1,
+      "id": "一、8（两个空）",
+      "kind": "fill",
+      "question_latex": "军军21时整准时睡觉，这时钟面上时针与分针所夹的角是（    ）度，我们也可以说时针与分针互相（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先换成钟面上的时刻：\\[21\\text{时}=\\text{晚上}9\\text{时}\\]整点分针指向\\(12\\)，时针指向\\(9\\)，较小夹角是\\(90^\\circ\\)，所以互相垂直。第一空后已有“度”，只填\\(90\\)；第二空填“垂直”。",
+      "verification": {
+        "status": "verified",
+        "reason": "21时即9时，较小角90度，垂直。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s03",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 2,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "下列图形中，只有一组对边平行的是（    ）。",
+      "options": [
+        "A.长方形",
+        "B.平行四边形",
+        "C.梯形",
+        "D.六边形"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm C\\)。梯形只有一组对边平行；长方形、平行四边形都有两组对边平行。",
+      "verification": {
+        "status": "verified",
+        "reason": "依本教材梯形定义只有一组对边平行，C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s04",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 3,
+      "id": "二、2（读图条件）",
+      "kind": "choice",
+      "question_latex": "右图中\\(C\\)点到\\(AB\\)的距离是（    ）。",
+      "options": [
+        "A.3厘米",
+        "B.4厘米",
+        "C.5厘米",
+        "D.不确定"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\coordinate(A)at(0,2);\\coordinate(B)at(0,-.7);\\coordinate(C)at(-2,2);\\draw(C)--node[above]{3厘米}(A)--node[right]{4厘米}(B)--node[left]{5厘米}(C);\\node[above right]at(A){$A$};\\node[below]at(B){$B$};\\node[left]at(C){$C$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "用户核定AC长3厘米，AB长4厘米，BC长5厘米；保留原图，黑色题图不额外添加直角符号。",
+          "name": "p010_s04_g1"
+        }
+      ],
+      "answer_latex": "选\\(\\mathrm A\\)。线段\\(AC\\)与直线\\(AB\\)互相垂直，点\\(C\\)到直线\\(AB\\)的距离是垂线段\\(AC\\)的长度，即\\(3\\)厘米。",
+      "verification": {
+        "status": "verified",
+        "reason": "用户核定AC=3厘米；结合原图AB=4厘米、BC=5厘米，可独立核验为3、4、5直角三角形，AC垂直AB，距离3厘米，选A。小学解析按垂线段距离定义说明，不引入勾股计算。",
+        "changes": [
+          "本轮按用户核定修正AC为3厘米，明确答案A，删除长度待核说明。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s05",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 4,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "下列说法正确的是（    ）。",
+      "options": [
+        "A.垂直的两条直线不一定相交",
+        "B.平行线无限延长也不会相交",
+        "C.两条线段平行，它们的长度一定相等",
+        "D.以上说法都对"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。平行线无限延长仍不相交。垂直的直线一定相交，所以\\(\\mathrm A\\)错；两线段平行并不要求等长，所以\\(\\mathrm C\\)错。",
+      "verification": {
+        "status": "verified",
+        "reason": "B符合平行定义；垂直必相交，平行不要求线段等长。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s06",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 5,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "通过直线外一点可以画（    ）条直线与已知直线平行。",
+      "options": [
+        "A.1",
+        "B.2",
+        "C.3",
+        "D.无数"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm A\\)。在同一平面内，过直线外一点，有且只有\\(1\\)条直线与已知直线平行。",
+      "verification": {
+        "status": "verified",
+        "reason": "同一平面过线外一点平行线唯一，A。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s07",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 6,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "直线行驶的汽车留下的车轮印迹（    ）。",
+      "options": [
+        "A.互相平行",
+        "B.互相垂直",
+        "C.相交",
+        "D.互相平行或互相垂直"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm A\\)。汽车沿直线前行时，两侧车轮的行进方向相同，轨迹不相交，互相平行。",
+      "verification": {
+        "status": "verified",
+        "reason": "两侧车轮轨迹方向一致不相交，A。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s08",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 7,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "直线\\(m\\perp n\\)，\\(n\\perp l\\)，直线\\(m\\)和\\(l\\)的位置关系是（    ）。",
+      "options": [
+        "A.互相平行",
+        "B.互相垂直",
+        "C.相交",
+        "D.不确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm A\\)。同一平面内，两条不同直线都垂直于同一条直线时，这两条直线互相平行。题中\\(m\\perp n\\)、\\(n\\perp l\\)，也就是\\(m\\perp n\\)、\\(l\\perp n\\)，所以\\(m\\parallel l\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "同一平面两条不同直线垂直于同一条直线则互相平行，A。",
+        "changes": [
+          "更正旧解析张冠李戴的字母：题中应由m⊥n、l⊥n推出m∥l。选择A不变。"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s09",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 8,
+      "id": "二、7",
+      "kind": "choice",
+      "question_latex": "下列物品中，两条边互相垂直的是（    ）。",
+      "options": [
+        "A.红领巾",
+        "B.三角尺",
+        "C.平行四边形装饰画",
+        "D.六边形杯垫"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。三角尺有一个直角，组成这个直角的两条边互相垂直。其余图示物品的通常形状不含直角。",
+      "verification": {
+        "status": "verified",
+        "reason": "三角尺包含一对直角边，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s10",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 9,
+      "id": "二、8",
+      "kind": "choice",
+      "question_latex": "下列关于过点\\(A\\)画已知直线\\(l\\)的垂线，步骤顺序正确的是（    ）。①把三角板一条直角边与直线\\(l\\)重合；②标出垂直符号；③沿着三角板另一条直角边画直线；④平移三角板，使直角顶点与点\\(A\\)重合。",
+      "options": [
+        "A.①②③④",
+        "B.②①③④",
+        "C.①④③②",
+        "D.③①②④"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm C\\)，顺序①④③②：先把一条直角边与\\(l\\)重合，保持方向平移至直角顶点到\\(A\\)，沿另一条直角边画线，最后标直角符号。",
+      "verification": {
+        "status": "verified",
+        "reason": "按定位、平移、作线、标角顺序①④③②，C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p010_s11",
+      "book_page": 10,
+      "source_page": 14,
+      "section_index": 10,
+      "id": "二、9",
+      "kind": "choice",
+      "question_latex": "在两条平行的步道之间修最短的人行道，该怎么画图纸？（    ）",
+      "options": [
+        "A.画一条斜线段",
+        "B.画一条垂线段",
+        "C.画一条任意线段",
+        "D.不确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。两条平行步道之间，连接两边的垂线段最短，故画一条垂线段。",
+      "verification": {
+        "status": "verified",
+        "reason": "垂线段为两平行边间最短连线，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

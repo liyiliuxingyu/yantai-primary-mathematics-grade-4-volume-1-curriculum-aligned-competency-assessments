@@ -1,0 +1,374 @@
+{
+  "book_page": 61,
+  "source_page": 65,
+  "records": [
+    {
+      "key": "p061_s01",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "整数部分最小的计数单位与小数部分最大的计数单位的和是（    ），差是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "整数部分最小的计数单位是1，小数部分最大的计数单位是0.1。和：\\(1+0.1=1.1\\)；差：\\(1-0.1=0.9\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s02",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "从\\(0.45\\)里面去掉（    ）个\\(0.01\\)，结果是\\(0.05\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先求去掉的数：\\(0.45-0.05=0.40\\)；0.40中有40个0.01，填40。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s03",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "比\\(7.8\\)少\\(2.81\\)的数是（    ），比\\(2.36\\)多\\(1.4\\)的数是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两空依次填\\(4.99\\)、\\(3.76\\)。第一空简算：\\[\\begin{aligned}&7.8-2.81\\\\={}&7.8-2.8-0.01\\\\={}&5-0.01\\\\={}&4.99\\end{aligned}\\]第二空\\(2.36+1.4=3.76\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "简便计算复核：第一空7.8−2.81可拆2.81为2.8与0.01，先减2.8正好得5，再减0.01。原答案4.99及3.76均正确；第二空正常加法无特别易算结构，保持正常计算。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s04",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "把\\(7.5\\)的小数点向右移动一位后，得到的数比原来多（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "小数点向右移一位，7.5变成75；比原数多\\(75-7.5=67.5\\)。注意不是问移动后等于多少。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s05",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 4,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "在括号里填上合适的数。\\((\\quad)-2.4=3.58\\)；\\(0.86+(\\quad)=1.16\\)；\\(4-(\\quad)=0.64\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "第1空：被减数=差+减数，\\(3.58+2.4=5.98\\)。第2空：一个加数=和−另一个加数，\\(1.16-0.86=0.3\\)。第3空：减数=被减数−差，\\(4-0.64=3.36\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s06",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 5,
+      "id": "一、6（1）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\(4.3-2.5\\ \\bigcirc\\ 4.3-0.25\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "被减数同为4.3，减去2.5比减去0.25多，差反而小，填“<”；也可分别算出1.8和4.05再比较。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s07",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 6,
+      "id": "一、6（2）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\(3.1+9.84\\ \\bigcirc\\ 3.84+9.1\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(3.1+9.84=12.94\\)，\\(3.84+9.1=12.94\\)，填“=”。也可把两数各分成整数部分和小数部分配对。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s08",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 7,
+      "id": "一、6（3）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\(7.8-(3.8+1.6)\\ \\bigcirc\\ 7.8-(3.8-1.6)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(3.8+1.6>3.8-1.6\\)，同样用7.8去减，左边差较小，填“<”。直接计算分别为2.4和5.6。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s09",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 8,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "在一次跳高测试中，小明跳了\\(1.25\\)米，比小芳多跳了8厘米，小芳跳了（    ）米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先统一长度单位，厘米化米除以100：\\[8\\text{厘米}=(8\\div100)\\text{米}=0.08\\text{米}\\]小芳比小明少跳0.08米，\\(1.25-0.08=1.17\\)米。原空后已有“米”，只填1.17。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s10",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 9,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "一个两位小数加上它的计数单位后是\\(1.2\\)，这个小数是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两位小数的计数单位是0.01。原小数加0.01得1.20，所以原数为\\(1.20-0.01=1.19\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s11",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 10,
+      "id": "一、9",
+      "kind": "fill",
+      "question_latex": "甲数是\\(10.9\\)，比乙数多\\(0.75\\)，甲、乙两数的和是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "甲比乙多0.75，所以乙为\\(10.9-0.75=10.15\\)；两数和\\(10.9+10.15=21.05\\)。也可算\\(10.9+10.9-0.75\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "将小数乘2的补充写法改为两个10.9相加，保持在本阶段小数加减知识范围内。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s12",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 11,
+      "id": "一、10（1）",
+      "kind": "fill",
+      "question_latex": "按规律填数：（1）\\(0.5,1.2,(\\quad),2.6,(\\quad)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "数列每次加0.7，依次为\\(0.5,1.2,1.9,2.6,3.3\\)，填1.9、3.3。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s13",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 12,
+      "id": "一、10（2）",
+      "kind": "fill",
+      "question_latex": "按规律填数：（2）\\(5.19,5.16,5.13,(\\quad),(\\quad),5.04\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "数列每次减\\(0.03\\)。两空依次计算：\\[\\begin{aligned}5.13-0.03&=5.10\\\\5.10-0.03&=5.07\\end{aligned}\\]所以填\\(5.10\\)、\\(5.07\\)；\\(5.10=5.1\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p061_s14",
+      "book_page": 61,
+      "source_page": 65,
+      "section_index": 13,
+      "id": "一、11（两空，续下页）",
+      "kind": "fill",
+      "question_latex": "天天家、云云家、学校在同一条直线上。天天家到学校的距离是\\(1.36\\)千米，云云家到学校的距离是\\(0.78\\)千米。天天家和云云家最远相距（    ）千米，最近相距（    ）千米。（后一空续下页。）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "学校在两家之间时，两家相距最远，\\(1.36+0.78=2.14\\)千米；两家在学校同一侧时，相距最近，\\(1.36-0.78=0.58\\)千米。不能只画一种位置关系。可先仿照线段示意图分别画“学校在两家之间”和“两家在学校同一侧”，再选择求和或求差，避免漏掉一种位置。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

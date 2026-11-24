@@ -1,0 +1,257 @@
+{
+  "book_page": 37,
+  "source_page": 41,
+  "records": [
+    {
+      "key": "p037_s01",
+      "book_page": 37,
+      "source_page": 41,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "一个三角形的两个内角分别是\\(37^\\circ\\)和\\(49^\\circ\\)，这是一个（　）三角形；一个三角形的三个内角的度数都相等，它是（　）三角形，也是（　）三角形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填“钝角、等边、锐角”。先按角判断：\\(180^\\circ-37^\\circ-49^\\circ=94^\\circ\\)，有一个钝角，所以是钝角三角形。三个内角相等的三角形，每角\\(180^\\circ\\div3=60^\\circ\\)，三条边也相等；按边分是等边三角形，按角分是锐角三角形。等边三角形也是特殊的等腰三角形，但这里两个空分别填“等边”“锐角”，不能把两种分类标准混淆。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p037_s02",
+      "book_page": 37,
+      "source_page": 41,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "窗户打开后，可以用窗户挡风撑\\(AB\\)将其固定，窗户就不会被风吹得晃动，这里运用到三角形的（　）性。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p037_s02_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)rectangle(4,3);\\draw(0,0)--(1,0.5)--(1,2.7)--(0,3);\\draw(0,0)--(1.8,0)--(1,.5);\\node[left,xshift=-2pt,yshift=4pt]at(1,.5){$A$};\\node[below]at(1.8,0){$B$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "非定量窗户撑杆示意，保留撑杆AB与窗框形成三角形的原意。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "填“稳定”。撑杆与窗框构成三角形。三角形的三边长度确定后形状就确定，利用这种稳定性固定窗户。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p037_s03",
+      "book_page": 37,
+      "source_page": 41,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "古人用篱笆围田，用一根长24米的篱笆围成一个等腰梯形，上底是4米，下底是8米，腰是（　）米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(6\\)。两腰相等，先扣除上、下底，再平均分成两条腰：\\(\\begin{aligned}&(24-4-8)\\div2\\\\&=12\\div2\\\\&=6\\text{(米)}\\end{aligned}\\)",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p037_s04",
+      "book_page": 37,
+      "source_page": 41,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "右图中，有（　）个平行四边形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p037_s04_g1",
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm]\\draw(0,0)--(4,0)--(5,3)--(1,3)--cycle;\\draw(.75,2.25)--(4.75,2.25);\\draw(3.1,0)--(4.1,3);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "填\\(9\\)。图中有3条互相平行的横线和3条互相平行的斜线。从横线中选2条有3种方法，从斜线中选2条也有3种方法，共\\(3\\times3=9\\)个。包括4个小的、4个由两个小图组成的及1个整体。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p037_s05",
+      "book_page": 37,
+      "source_page": 41,
+      "section_index": 4,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "木匠把一块三角形木板分成两个小三角形木块，每个小三角形的内角和是（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(180^\\circ\\)。分割后每个小图仍是三角形，三角形的内角和都为\\(180^\\circ\\)，与大小无关。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p037_s06",
+      "book_page": 37,
+      "source_page": 41,
+      "section_index": 5,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "一个等腰梯形的下底是6厘米，上底是3厘米，如果把上底向一个方向延长3厘米，则变成一个（　）形；如果把上底缩短3厘米，则变成一个（　）形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填“平行四边、三角”。把上底向同一方向延长3厘米后，上底长\\(3+3=6\\)厘米，与下底等长。对照图形，两组对边分别平行，所以组成平行四边形。不能只看“一组边平行”就下结论。把上底缩短3厘米后，上底两个端点合为一个顶点，只剩三条边围成三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p037_s07",
+      "book_page": 37,
+      "source_page": 41,
+      "section_index": 6,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "手工课上，同学们用木条制作三角形装饰框架。其中两根木条分别长8厘米和11厘米，第三根木条最长是（　）厘米，最短是（　）厘米。（取整厘米数）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(18,4\\)。三角形任意两边的和必须大于第三边。第三边不能达到\\(8+11=19\\)厘米；也不能小到使\\(8+\\text{第三边}\\le11\\)。因此第三边要大于\\(11-8=3\\)厘米、小于19厘米。取整厘米数，可取4至18厘米，最大18，最小4。边长等于3或19时只能排成直线，不能围成三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p037_s08",
+      "book_page": 37,
+      "source_page": 41,
+      "section_index": 7,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "在图内的交叉点中再选一个点，如果要使这四个点能连成一个平行四边形，这个点的选法共有（　）种；如果要连成一个梯形，这个点的选法共有（　）种。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p037_s08_g1",
+          "tikz": "\\begin{tikzpicture}[scale=.7]\\draw[step=1](0,0)grid(6,5);\\foreach\\p in{(2,0),(5,0),(4,4)}\\fill\\p circle(2pt);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p037_s08_a1",
+          "tikz": "\\begin{tikzpicture}[scale=.7]\\draw[step=1,gray!50](0,0)grid(6,5);\\coordinate(A)at(2,0);\\coordinate(B)at(5,0);\\coordinate(C)at(4,4);\\draw[red](A)--(B)--(6,2)--(C)--cycle;\\foreach\\p in{(2,0),(5,0),(4,4)}\\fill\\p circle(2pt);\\foreach\\p in{(0,4),(2,4),(3,4),(5,4),(6,2),(6,4)}\\draw[red]\\p circle(3pt);\\fill[red](1,4)circle(2.5pt);\\node[above,red]at(1,4){平行四边形};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "红色空心圈为6种梯形的第四点，实心红点为平行四边形的第四点。"
+        }
+      ],
+      "answer_latex": "依次填\\(1,6\\)。把下左、下右、上方三个已知点分别记作\\(A,B,C\\)。格点从左数为第1至第7列，从上数为第1至第6排。\\par 平行四边形：分别把三个已知点中的一个看作两条边的共同顶点，按“对边平行且相等”补第四点。三种补法中，两点落在格图外，只有第2列第2排的\\(P\\)在图内，所以1种。\\par 梯形：必须只有一组对边平行。先以横放的\\(AB\\)为一条底，第四点要与\\(C\\)在同一横排。排除\\(C\\)本身和会组成平行四边形的\\(P\\)，剩第1、3、4、6、7列，共5种。\\par 再检查两种斜放的底：右侧第7列第4排的\\(D\\)可补成梯形，\\(AC\\parallel BD\\)，另一组对边不平行；另一斜方向只会得到已排除的\\(P\\)。所以共有\\(5+1=6\\)种，斜放的这1种不能漏计。\\par 示意图突出第6种，按\\(A\\to B\\to D\\to C\\)连接：\\par \\begin{tikzpicture}[scale=.37]\\draw[step=1,gray!35] (0,0) grid (6,5);\\coordinate(A)at(2,0);\\coordinate(B)at(5,0);\\coordinate(C)at(4,4);\\coordinate(D)at(6,2);\\coordinate(P)at(1,4);\\draw[thick](A)--(B)--(D)--(C)--cycle;\\foreach \\q/\\lab/\\pos in {A/A/below,B/B/below,C/C/above,D/D/right,P/P/above}{\\fill(\\q)circle(2pt)node[\\pos]{$\\lab$};}\\end{tikzpicture}",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "volume": 3,
+    "sha256": "5c7957b3650ff3677dcf9351a866bd59917e91fe297a6e7099f2a15644737bf2",
+    "parent_sha256": "5688439fc7952665bd3f7beaaf30e91d56ac776cf4bb6a2f3dacb2ee720ee959",
+    "supplementary_simplification_revision": "ppt_recheck/v3_4/qa_final.json"
+  },
+  {
+    "volume": 4,
+    "sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+    "parent_sha256": "cf5038e9e36941091a7c595b58200b1d0e6096ab99c2089ad218b6ced6a7dfda",
+    "supplementary_simplification_revision": "ppt_recheck/v3_4/qa_final.json"
+  }
+]

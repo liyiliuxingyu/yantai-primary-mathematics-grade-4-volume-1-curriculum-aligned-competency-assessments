@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "pdf_sha256": "6753f42510d3bfbcd3a63776cc9a78eaa43f258b1dc79861b36fd33c62510c00",
+  "changed_question_keys": [
+    "p075_s03"
+  ],
+  "changed_book_pages": [
+    75
+  ],
+  "scope_qa": "parentheses_update/qa_scope.json",
+  "recovery_qa": "parentheses_update/qa_recovery.json",
+  "portability_qa": "parentheses_update/qa_portability.json",
+  "ppt_qa_paths": [
+    "ppt_parentheses/qa_final.json"
+  ],
+  "compiled_snippets": 929,
+  "local_patches": 73,
+  "first_page_blank": true,
+  "separate_analysis_pages": 0,
+  "actual_visual_review": {
+    "pdf_book_pages": [
+      75
+    ],
+    "pdf_preview_sha256": "e5ca7f1000d7bc1e0ae2d116dc4fb8ee76daabe87a93f1562eab2dfd0e76e743",
+    "PPT_volume": 5,
+    "PPT_slides": [
+      52,
+      53
+    ],
+    "root_also_viewed_slide53": true
+  },
+  "mathematics": {
+    "all_five_rows_equal_72": true,
+    "unit": "米/分",
+    "convention": "总路程(720×2)作为整体加括号；随后按20=2×10及乘除运算性质变形。",
+    "not_claiming_previous_unparenthesized_expression_wrong_under_left_to_right_arithmetic": true
+  },
+  "powerpoint_playback_tested": false,
+  "wps_playback_tested": false,
+  "scope_limit": "本轮只更正75页三2的整体括号与相关简算说明；其余127页像素及同页其他题目区域均保持；未冒称重新核验全册数学。"
+}

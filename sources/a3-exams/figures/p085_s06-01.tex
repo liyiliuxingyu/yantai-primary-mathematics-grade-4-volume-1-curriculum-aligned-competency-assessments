@@ -1,0 +1,23 @@
+% Labels reproduce the given diagram. The altitudes are drawn to their own bases.
+\begin{tikzpicture}[x=24bp,y=24bp,inner sep=.8bp,outer sep=0pt,
+  line cap=round,line join=round,font=\fontsize{10bp}{11bp}\selectfont,
+  edge/.style={line width=.76bp},altitude/.style={line width=.6bp,dash pattern=on 2.7bp off 1.8bp}]
+  \coordinate (A) at (0,0); \coordinate (B) at (4,0);
+  \coordinate (C) at (0,3); \coordinate (D) at (1.44,1.92);
+  \coordinate (E) at (0,1.92);
+  \draw[edge] (A) -- (B) -- (C) -- cycle;
+  \draw[altitude] (A) -- (D) (E) -- (D);
+  \node[anchor=south,inner sep=1.45bp] at (.76,1.92) {$1.5$};
+  \path (A) -- node[pos=.48,above,sloped,inner sep=1.2bp] {$2.4$} (D);
+  \draw[line width=.55bp] (.17,0) -- (.17,.17) -- (0,.17);
+  \draw[line width=.55bp] (0,1.74) -- (.18,1.74) -- (.18,1.92);
+  \draw[line width=.55bp] (1.576,1.818) -- (1.474,1.682) -- (1.338,1.784);
+  \draw[line width=.48bp] (-.40,0) -- (-.12,0) (-.40,3) -- (-.12,3);
+  \draw[<->,>=Stealth,line width=.52bp] (-.28,0) --
+    node[fill=white,inner sep=1.1bp] {$3$} (-.28,3);
+  \node[below left] at (A) {$A$};
+  \node[right] at (B) {$B$};
+  \node[above] at (C) {$C$};
+  \node[above right] at (D) {$D$};
+  \node[below] at (2,0) {$4$};
+\end{tikzpicture}

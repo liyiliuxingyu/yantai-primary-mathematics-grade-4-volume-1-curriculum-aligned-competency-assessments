@@ -1,0 +1,38 @@
+{
+  "scope": {
+    "current_metadata_index_role": "Structural location index. Original slide numbers, record keys, continuation numbers, click counts, and original shape IDs are preserved.",
+    "current_metadata_manifest_role": "Pre-patch authoring reference; its old semantic text must not be used to regenerate an updated deck.",
+    "authoritative_math": "../accepted_changes.json plus the final OOXML visible objects in post_export_overlay_3_6.json.",
+    "reproducible_patch": "build/patch_simplify.py --rules rules_all.json --source ../bundle/讲解课件 --out NEW_IMMUTABLE_DIRECTORY --assets formulas",
+    "native_formula_implementation": "New multi-line work uses one preserved animation-anchor group containing independent editable OMML objects at explicit equality/RHS columns. Each formula has dedicated actual XeLaTeX SVG and PNG compatibility assets.",
+    "animation_scope": "All original timing XML bytes retained. Added rows within an existing inline-analysis click appear together in that existing click; existing separate calculation-click groups remain.",
+    "playback_software_test": "No PowerPoint/WPS slideshow was opened or tested. ArtifactTool import and static rendering only."
+  },
+  "final_pptx_sha256": "13b58d1bad2535fb8f465c9aee782ca32ec18fe8134a011e4c2415ab4bb53511",
+  "changed_slides": [
+    1,
+    7,
+    9,
+    23,
+    46,
+    48,
+    57,
+    58,
+    68,
+    69,
+    70,
+    71,
+    88,
+    95,
+    97,
+    105,
+    141,
+    143,
+    160,
+    176,
+    247,
+    248,
+    249,
+    250
+  ]
+}

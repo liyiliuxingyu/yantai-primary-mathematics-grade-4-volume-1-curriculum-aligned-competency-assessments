@@ -1,0 +1,6 @@
+{
+  "source": "units_review/bundle/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+  "full_deck_imported": false,
+  "error": "RuntimeError: memory access out of bounds",
+  "stack": "RuntimeError: memory access out of bounds\n    at wasm://wasm/0867952a:wasm-function[46698]:0xba4599\n    at wasm://wasm/0867952a:wasm-function[46830]:0xbaeaa4\n    at wasm://wasm/0867952a:wasm-function[46829]:0xbae97d\n    at wasm://wasm/0867952a:wasm-function[5226]:0x1ad0f9\n    at wasm://wasm/0867952a:wasm-function[52412]:0xddb254\n    at wasm://wasm/0867952a:wasm-function[52413]:0xddc8e2\n    at wasm://wasm/0867952a:wasm-function[52404]:0xdd5387\n    at wasm://wasm/0867952a:wasm-function[52363]:0xdd064d\n    at wasm://wasm/0867952a:wasm-function[52716]:0xe195c7\n    at wasm://wasm/0867952a:wasm-function[52791]:0xe21116"
+}

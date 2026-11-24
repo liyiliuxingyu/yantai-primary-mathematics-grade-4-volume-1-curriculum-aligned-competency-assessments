@@ -1,0 +1,226 @@
+{
+  "book_page": 74,
+  "source_page": 78,
+  "records": [
+    {
+      "key": "p074_s01",
+      "book_page": 74,
+      "source_page": 78,
+      "section_index": 0,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "班级统计每位同学本学期课外阅读的本数，最多的读了42本，最少的读了28本，则全班平均每人读书数量可能是（    ）本。A.35；B.25；C.45；D.20。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选A。平均数反映整体水平，必须在最少的\\(28\\)本与最多的\\(42\\)本之间。只有\\(35\\)符合；\\(25\\)、\\(20\\)小于最小值，\\(45\\)大于最大值。本题可先用平均数的范围判断，无须知道每人的本数。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p074_s02",
+      "book_page": 74,
+      "source_page": 78,
+      "section_index": 1,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "四年级（1）班举行1分钟踢毽子比赛，男生的平均成绩是45下/分，女生的平均成绩是55下/分，下面说法正确的是（    ）。A.每个男生的成绩都比女生低；B.女生的整体情况好于男生；C.全班的平均次数一定是50下；D.男生平均成绩低，则男生中没有成绩超过女生平均水平的同学。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。女生平均\\(55\\)下，男生平均\\(45\\)下，所以女生整体成绩较好。平均数不代表每个人的具体成绩，不能推出“每个女生都高于每个男生”，也不能排除某个男生超过\\(55\\)下。求全班平均还须用全班总次数除以总人数，人数未知时，不能认定为\\((45+55)\\div2=50\\)下。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p074_s03",
+      "book_page": 74,
+      "source_page": 78,
+      "section_index": 2,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "学校开设两个兴趣小组，四（1）班参加书法小组的有29人，参加机器人小组的有32人，两个兴趣小组都参加的有16人，四（1）班共有学生（    ）人。A.67；B.55；C.45；D.77。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两项人数相加时，两项都参加的\\(16\\)人被算了两次，要减去一次。因此至少参加一项的有\\(29+32-16=45\\)(人)。若全班每人至少参加其中一项，则选C。若有人两项都没参加，全班人数还须加上这部分人数。题面没有说明全员参与，不能无条件认定全班恰为\\(45\\)人。",
+      "verification": {
+        "status": "conditional",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [
+          "题干未说明四（1）班每人至少参加其中一项，29+32−16只能确定至少参加一项的人数45；若有人两项都不参加，全班人数更大，故按题面无法唯一确定。"
+        ],
+        "left_patch": null,
+        "additional_left_patches": [
+          {
+            "rect": [
+              260,
+              363,
+              554,
+              375
+            ],
+            "old": "",
+            "new_latex": "仅在全班每人至少参加一项时选C，见续页。",
+            "size": 7.5,
+            "note": "原页相邻白隙补明条件，不把条件例作为无条件唯一答案。"
+          }
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p074_s04",
+      "book_page": 74,
+      "source_page": 78,
+      "section_index": 3,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "光明小学篮球队原有9名队员，平均体重是15千克。体重39千克的飞飞加入后，篮球队队员现在的平均体重和原来相比，（    ）。A.比原来轻；B.与原来一样；C.比原来重；D.无法确定。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按当前原始扫描的平均15千克，选C。因为\\(39>15\\)，加入后平均体重提高。\\par 书后A与当前题面数据不符。若原平均体重应为45千克，则\\(39<45\\)，加入后平均体重降低，选A；实际原平均数需核实。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "本轮复核：原始JPEG明确平均15千克，加入39千克，故按题面C正确；补充书后A与数据冲突、若原平均45则A，不能无依据改题面。"
+        ],
+        "uncertainties": [
+          "书后A与原始扫描平均15千克不符；原平均若高于39则选A，例如45。尚未收到可据以改动题面数值的说明。"
+        ],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p074_s05",
+      "book_page": 74,
+      "source_page": 78,
+      "section_index": 4,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "学校购买了6台打印机，平均每台打印机的价格是500多元，那么这6台打印机的总价可能是（    ）元。A.2970；B.3300；C.3888；D.2000。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。“平均\\(500\\)多元”表示每台平均大于\\(500\\)元且小于\\(600\\)元，所以总价大于\\(3000\\)元且小于\\(3600\\)元，只有\\(3300\\)元符合。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p074_s06",
+      "book_page": 74,
+      "source_page": 78,
+      "section_index": 5,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "有三条不同长度的丝带，虚线处表示三条丝带的平均长度。想一想，第一条丝带的长度是（    ）cm。第二条20cm，第三条14cm，第三条的终点恰好在平均长度虚线上。A.8；B.14；C.17；D.6。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p074_ribbons",
+          "tikz": "\\begin{tikzpicture}[x=.22cm,y=.7cm]\\node[left]at(0,2){第一条：};\\node[right]at(1,2){?};\\node[left]at(0,1){第二条：};\\draw(0,.85)rectangle(20,1.15);\\node[right]at(20,1){20 cm};\\node[left]at(0,0){第三条：};\\draw(0,-.15)rectangle(14,.15);\\node[right]at(14,0){14 cm};\\draw[dashed](14,-.6)--(14,2.5);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "选A。第三条的终点恰落在平均线上，平均长度是14厘米。第二条多出的部分补给第一条，第一条长度为：\\[\\begin{aligned}&14-(20-14)\\\\={}&14-6\\\\={}&8\\text{(厘米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "本轮平均数完整脱式复核：题旁主法已完整，源码同步移多补少的完整脱式，省去不必要的连加检验。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p074_s07",
+      "book_page": 74,
+      "source_page": 78,
+      "section_index": 6,
+      "id": "三、1（题图）",
+      "kind": "application",
+      "question_latex": "下面是一条河各处的水深情况。（单位：厘米。）七处测量数据依次为70、120、170、240、190、130、60。警示牌：“水深危险，注意安全！”第（1）（2）问续原书75页。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p074_river",
+          "tikz": "\\begin{tikzpicture}[x=.8cm,y=.012cm]\\draw(0,0)--(7,0);\\filldraw[fill=gray!20](0,0)--(0,-70)--(1,-120)--(2,-170)--(3,-240)--(4,-190)--(5,-130)--(6,-60)--(7,0)--cycle;\\foreach \\x/\\v in {0/70,1/120,2/170,3/240,4/190,5/130,6/60}{\\node[above]at(\\x,5){\\v};}\\node[align=center]at(9,-100){水深危险\\\\注意安全！};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按七个测量值重画河流深度示意，不把相邻测点间实际距离作定量假设。"
+        }
+      ],
+      "answer_latex": "七处水深分别为\\(70,120,170,240,190,130,60\\)厘米。原书75页三、1给出平均水深与过河风险的完整解答。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "移除不适用于新版A4解析续页的“下一页右栏”定位。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

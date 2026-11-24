@@ -1,0 +1,208 @@
+{
+  "pdf_sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0",
+  "reviewer": "/root/detail_a",
+  "reviewed_book_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "overview_only_additional_pages": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "scope": "先实际看过27页拼图总览；对1–9页分别实际查看上下半页完整裁图，共18张，覆盖每页全部区域。裁图由595像素宽的成品预览裁切并放大2倍显示，不冒充从PDF重新高DPI渲染或称其为27页逐字大图检查。",
+  "pages": [
+    {
+      "book_page": 1,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p001_top_2x.png",
+        "visual_A/p001_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "两张流程图、综合式对应说明",
+        "还原被除数的两组新增脱式",
+        "比较式与跨页题头",
+        "页脚1"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": true
+    },
+    {
+      "book_page": 2,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p002_top_2x.png",
+        "visual_A/p002_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "跨页续文与两种路程方法",
+        "剪绳两种方法，首式以续等号起",
+        "位置示意图与组口算",
+        "页脚2"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": true
+    },
+    {
+      "book_page": 3,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p003_top_2x.png",
+        "visual_A/p003_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "六道原脱式与逐题新说明",
+        "两张原分析流程图完整边框",
+        "原方法与分别平均分另法",
+        "页脚3"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": true
+    },
+    {
+      "book_page": 4,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p004_top_2x.png",
+        "visual_A/p004_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "机器人原脱式与新增说明",
+        "门票表及旺季日期、补差法",
+        "糖果袋数/块数两问与各自两法",
+        "24点卡牌图和四种新增结构",
+        "页脚4"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": true
+    },
+    {
+      "book_page": 5,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p005_top_2x.png",
+        "visual_A/p005_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "流程图与分开求三倍法",
+        "新增p005_s05数字链",
+        "比较与两道分步合式说明",
+        "页脚5"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": true
+    },
+    {
+      "book_page": 6,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p006_top_2x.png",
+        "visual_A/p006_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "羽毛球两种平均分方法",
+        "图形代表数说明",
+        "两种乘除结构对比",
+        "逆推选择原黑过程和说明",
+        "页脚6"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": false
+    },
+    {
+      "book_page": 7,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p007_top_2x.png",
+        "visual_A/p007_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "六道原脱式及新说明",
+        "小票与分析流程图完整性",
+        "椅子费用另法及原答语",
+        "页脚7"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": true
+    },
+    {
+      "book_page": 8,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p008_top_2x.png",
+        "visual_A/p008_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "租金优惠前门槛与另法",
+        "倍数差另法",
+        "份数法说明",
+        "括号最大/最小新续等号与五种结构",
+        "页脚8"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": true
+    },
+    {
+      "book_page": 9,
+      "entire_preview_coverage": true,
+      "viewed_crops": [
+        "visual_A/p009_top_2x.png",
+        "visual_A/p009_bottom_2x.png"
+      ],
+      "checked_regions": [
+        "七组线及五个图形完整边界",
+        "平行/垂直符号和分类说明",
+        "距离与周长说明",
+        "自然跨页题头仅保留原红第一空",
+        "页脚9"
+      ],
+      "layout_passed": true,
+      "content_terminology_passed": true
+    }
+  ],
+  "issues": [
+    {
+      "key": "p006_s06",
+      "book_page": 6,
+      "severity": "minor",
+      "category": "primary_math_terminology",
+      "finding": "详注“分子与除数是两个相同且不为0的乘积”将普通除法的被除数称为分子。",
+      "recommendation": "将“分子”替换为“被除数”。",
+      "reported_to_parent": true,
+      "notes_modified": false
+    }
+  ],
+  "passed": false,
+  "layout_passed": true,
+  "checks": {
+    "new_numeric_chains_visually_present": true,
+    "no_block_obstruction_found": true,
+    "no_diagram_cut_found": true,
+    "no_repeated_original_first_expression_found": true,
+    "no_unexplained_duplicate_result_block_found": true,
+    "all_footers_visible": true
+  }
+}

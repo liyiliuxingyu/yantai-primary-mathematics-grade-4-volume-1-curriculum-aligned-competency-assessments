@@ -1,0 +1,380 @@
+{
+  "book_page": 42,
+  "source_page": 46,
+  "records": [
+    {
+      "key": "p042_s01",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 0,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "商店购进6箱火龙果，每箱24千克，如果分装成每袋8千克，一共可以分装（　）袋；把这些火龙果按每袋12元售卖，全部售出一共收入（　）元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(18,216\\)。袋数先利用24除以8求每箱袋数，计算更简便；收入按单价乘袋数。\\[\\begin{aligned}&24\\times6\\div8\\\\={}&24\\div8\\times6\\\\={}&3\\times6\\\\={}&18\\text{(袋)}\\\\&12\\times18\\\\={}&216\\text{(元)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "简便计算复核：袋数原注按24×6=144后除8。24能被8直接除尽，先算24÷8=3袋/箱，再乘6箱，可避免先求144；收入仍按单价12元乘18袋。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s02",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 1,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "右图中，有（　）个三角形，（　）个平行四边形，（　）个梯形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p042_s02_g1",
+          "tikz": "\\begin{tikzpicture}[scale=1.3]\\coordinate(A)at(0,0);\\coordinate(B)at(1,0);\\coordinate(C)at(2,0);\\coordinate(D)at(3.3,0);\\coordinate(E)at(.6,2);\\coordinate(F)at(1.6,2);\\coordinate(G)at(2.6,2);\\draw(A)--(D)--(G)--(E)--cycle;\\draw(B)--(F)--(C)--(G);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "依次填\\(3,3,4\\)。三角形有左、中、右3个。平行四边形按两条底边之间的两条同方向斜边配对，共3个。梯形按大小和位置逐一检查，共4个；只数“只有一组对边平行”的图形，不能把平行四边形重复计入。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s03",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 2,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "与\\(720\\div(8\\times9)\\)结果相等的算式是（　）。",
+      "options": [
+        "A. \\(720\\div8\\times9\\)",
+        "B. \\(720\\div8\\div9\\)",
+        "C. \\(720\\times8\\div9\\)",
+        "D. \\(720\\div9\\times8\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。除以两个数的积，等于依次除以这两个数：\\(720\\div(8\\times9)=720\\div8\\div9\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s04",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 3,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "\\(25\\times(a+4)\\)与\\(25\\times a+25\\)的结果相差（　）。",
+      "options": [
+        "A. \\(24a\\)",
+        "B. \\(a\\)",
+        "C. 4",
+        "D. 75"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选D。\\(25\\times(a+4)=25\\times a+100\\)，另一个式子为\\(25\\times a+25\\)，相差\\(100-25=75\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "字母运算明确写出乘号，符合本册表达习惯。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s05",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 4,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "在同一平面内，如果直线\\(a\\)垂直于直线\\(b\\)，直线\\(b\\)垂直于直线\\(c\\)，那么直线\\(a\\)和\\(c\\)（　）。",
+      "options": [
+        "A. 互相平行",
+        "B. 互相垂直",
+        "C. 相交但不垂直",
+        "D. 无法确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选A。同一平面内，垂直于同一条直线的两条不同直线互相平行，所以\\(a\\parallel c\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s06",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 5,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "下面每组中的三根小棒，能围成三角形的是（　）（单位：厘米）。",
+      "options": [
+        "A. 4、5、9",
+        "B. 3、4、8",
+        "C. 5、6、10",
+        "D. 2、2、5"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。检验两短边之和：A为\\(4+5=9\\)，B为\\(3+4<8\\)，D为\\(2+2<5\\)，均不成立；C有\\(5+6>10\\)，能围成三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s07",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 6,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "一个三角形的最小角是\\(50^\\circ\\)，这个三角形一定是（　）。",
+      "options": [
+        "A. 锐角三角形",
+        "B. 直角三角形",
+        "C. 钝角三角形",
+        "D. 无法判断"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选A。最小角50度，其余角都至少50度，最大角至多\\(180^\\circ-50^\\circ-50^\\circ=80^\\circ\\)，所以一定是锐角三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s08",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 7,
+      "id": "三、1",
+      "kind": "calculation",
+      "question_latex": "直接写得数。\\(25\\times3\\times4=\\)，\\(125\\times8=\\)，\\(23\\times10=\\)，\\(200-100\\div10=\\)；\\(360\\div60=\\)，\\(11\\times20=\\)，\\((12+8)\\times5=\\)，\\(80\\div(8\\times2)=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按题面顺序，得\\(300,1000,230,190;6,220,100,5\\)。\\par \\(25\\times3\\times4=(25\\times4)\\times3=300\\)；\\(125\\times8=1000\\)；\\(23\\times10=230\\)；\\(200-100\\div10=200-10=190\\)。\\par \\(360\\div60=6\\)；\\(11\\times20=220\\)；\\((12+8)\\times5=20\\times5=100\\)；\\(80\\div(8\\times2)=80\\div16=5\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s09",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 8,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "计算下面各题，能简算的要简算。\\(640\\div[16\\times(19-14)]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先求最内层的差，再把16与5相乘凑成整十除数80，直接相除。\\[\\begin{aligned}&640\\div[16\\times(19-14)]\\\\={}&640\\div[16\\times5]\\\\={}&640\\div80\\\\={}&8\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "本轮复核：16×5先凑成整十除数80，640÷80可直接求8；现解拆成÷16÷5，反而多一道除法。与前版已订正的p107_s08(15×4先凑60)同型，应统一。简便依据是整十除数与减少运算，不是结果8为整数。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s10",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 9,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "计算下面各题，能简算的要简算。\\(25\\times32\\times25\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把32拆成\\(4\\times8\\)，运用乘法结合律，分别凑成整百数。\\[\\begin{aligned}&25\\times32\\times25\\\\&=(25\\times4)\\times(8\\times25)\\\\&=100\\times200\\\\&=20000.\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s11",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 10,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "计算下面各题，能简算的要简算。\\(99\\times47+47\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把最后一个47看作\\(1\\times47\\)，运用乘法分配律，把99个47和1个47合成100个47。\\[\\begin{aligned}&99\\times47+47\\\\={}&(99+1)\\times47\\\\={}&100\\times47\\\\={}&4700\\end{aligned}\\]另一写法“先按100个47算，减去1个47后再加回”反映同一凑整结构，不另算一种解法。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "将同一100个47凑整结构的另写法改为变形说明，不重复计独立解法。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p042_s12",
+      "book_page": 42,
+      "source_page": 46,
+      "section_index": 11,
+      "id": "三、2（4）",
+      "kind": "calculation",
+      "question_latex": "计算下面各题，能简算的要简算。\\(35\\times98\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "用乘法分配律，把98看作\\(100-2\\)。\\[\\begin{aligned}&35\\times98\\\\={}&35\\times(100-2)\\\\={}&35\\times100-35\\times2\\\\={}&3500-70\\\\={}&3430\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "补出35×100−35×2的分配律展开行。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

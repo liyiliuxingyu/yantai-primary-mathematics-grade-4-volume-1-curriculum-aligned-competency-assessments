@@ -1,0 +1,304 @@
+{
+  "conversion_equalities_verified": 49,
+  "all_quantity_equalities_exact": true,
+  "changed_fields_syntax_checked": 113,
+  "fields_only_ascii_parenthesis_changes": 76,
+  "all_new_display_delimiters_and_braces_balanced": true,
+  "remaining_Chinese_result_unit_parentheses": 0,
+  "checks": [
+    {
+      "key": "p049_s03",
+      "source": "168000",
+      "target": "16.8万",
+      "equal": true
+    },
+    {
+      "key": "p049_s03",
+      "source": "995000000",
+      "target": "9.95亿",
+      "equal": true
+    },
+    {
+      "key": "p049_s04",
+      "source": "3分米",
+      "target": "0.3米",
+      "equal": true
+    },
+    {
+      "key": "p049_s04",
+      "source": "0.06吨",
+      "target": "60千克",
+      "equal": true
+    },
+    {
+      "key": "p049_s04",
+      "source": "5.06吨",
+      "target": "5吨60千克",
+      "equal": true
+    },
+    {
+      "key": "p049_s04",
+      "source": "32克",
+      "target": "0.032千克",
+      "equal": true
+    },
+    {
+      "key": "p049_s04",
+      "source": "3平方分米",
+      "target": "0.03平方米",
+      "equal": true
+    },
+    {
+      "key": "p049_s04",
+      "source": "5平方米3平方分米",
+      "target": "5.03平方米",
+      "equal": true
+    },
+    {
+      "key": "p049_s07",
+      "source": "50克",
+      "target": "0.05千克",
+      "equal": true
+    },
+    {
+      "key": "p049_s07",
+      "source": "9千克50克",
+      "target": "9.05千克",
+      "equal": true
+    },
+    {
+      "key": "p049_s07",
+      "source": "0.57米",
+      "target": "57厘米",
+      "equal": true
+    },
+    {
+      "key": "p052_s01",
+      "source": "10千克",
+      "target": "10000克",
+      "equal": true
+    },
+    {
+      "key": "p052_s01",
+      "source": "1千克",
+      "target": "1000克",
+      "equal": true
+    },
+    {
+      "key": "p052_s01",
+      "source": "8150克",
+      "target": "8.15千克",
+      "equal": true
+    },
+    {
+      "key": "p052_s02",
+      "source": "135厘米",
+      "target": "1.35米",
+      "equal": true
+    },
+    {
+      "key": "p052_s02",
+      "source": "119厘米",
+      "target": "1.19米",
+      "equal": true
+    },
+    {
+      "key": "p052_s02",
+      "source": "158厘米",
+      "target": "1.58米",
+      "equal": true
+    },
+    {
+      "key": "p052_s03",
+      "source": "1平方米",
+      "target": "10000平方厘米",
+      "equal": true
+    },
+    {
+      "key": "p052_s03",
+      "source": "108000平方厘米",
+      "target": "10.8平方米",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "45厘米",
+      "target": "0.45米",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "3540克",
+      "target": "3.540千克",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "45分",
+      "target": "0.45元",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "45平方厘米",
+      "target": "0.45平方分米",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "45平方分米",
+      "target": "0.45平方米",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "45公顷",
+      "target": "0.45平方千米",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "3540毫米",
+      "target": "3.540米",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "3540米",
+      "target": "3.540千米",
+      "equal": true
+    },
+    {
+      "key": "p053_s08",
+      "source": "3540千克",
+      "target": "3.540吨",
+      "equal": true
+    },
+    {
+      "key": "p053_s09",
+      "source": "1吨",
+      "target": "1000千克",
+      "equal": true
+    },
+    {
+      "key": "p053_s09",
+      "source": "450千克",
+      "target": "0.45吨",
+      "equal": true
+    },
+    {
+      "key": "p054_s02",
+      "source": "0.9米",
+      "target": "9分米",
+      "equal": true
+    },
+    {
+      "key": "p054_s06",
+      "source": "6厘米",
+      "target": "0.06米",
+      "equal": true
+    },
+    {
+      "key": "p054_s06",
+      "source": "8米6厘米",
+      "target": "8.06米",
+      "equal": true
+    },
+    {
+      "key": "p054_s06",
+      "source": "560厘米",
+      "target": "5.6米",
+      "equal": true
+    },
+    {
+      "key": "p055_s02",
+      "source": "327900",
+      "target": "32.79万",
+      "equal": true
+    },
+    {
+      "key": "p055_s02",
+      "source": "25499270000",
+      "target": "254.9927亿",
+      "equal": true
+    },
+    {
+      "key": "p055_s05",
+      "source": "3240克",
+      "target": "3.24千克",
+      "equal": true
+    },
+    {
+      "key": "p055_s06",
+      "source": "6.25吨",
+      "target": "6250千克",
+      "equal": true
+    },
+    {
+      "key": "p055_s07",
+      "source": "15厘米",
+      "target": "0.15米",
+      "equal": true
+    },
+    {
+      "key": "p056_s01",
+      "source": "3.75吨",
+      "target": "3750千克",
+      "equal": true
+    },
+    {
+      "key": "p056_s01",
+      "source": "1万件",
+      "target": "10000件",
+      "equal": true
+    },
+    {
+      "key": "p058_s03",
+      "source": "5元3角",
+      "target": "5.30元",
+      "equal": true
+    },
+    {
+      "key": "p058_s03",
+      "source": "8角7分",
+      "target": "0.87元",
+      "equal": true
+    },
+    {
+      "key": "p061_s09",
+      "source": "8厘米",
+      "target": "0.08米",
+      "equal": true
+    },
+    {
+      "key": "p063_s07",
+      "source": "16厘米",
+      "target": "0.16米",
+      "equal": true
+    },
+    {
+      "key": "p063_s07",
+      "source": "54厘米",
+      "target": "0.54米",
+      "equal": true
+    },
+    {
+      "key": "p063_s07",
+      "source": "2米",
+      "target": "200厘米",
+      "equal": true
+    },
+    {
+      "key": "p063_s07",
+      "source": "130厘米",
+      "target": "1.3米",
+      "equal": true
+    },
+    {
+      "key": "p070_s02",
+      "source": "2厘米",
+      "target": "20毫米",
+      "equal": true
+    }
+  ]
+}

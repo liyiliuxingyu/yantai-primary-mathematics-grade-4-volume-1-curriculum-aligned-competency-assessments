@@ -1,0 +1,477 @@
+{
+  "book_page": 21,
+  "source_page": 25,
+  "title": "第三单元素养评价（B） 解决问题",
+  "records": [
+    {
+      "key": "p021_s01",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "买3支钢笔需要96元，买10支这样的钢笔一共需要（    ）元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先求每支钢笔价格，再求10支总价：\\[\\begin{aligned} &96\\div3\\times10\\\\={}&32\\times10\\\\={}&320\\text{(元)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "96÷3×10=320元。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s02",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 1,
+      "id": "一、2（已知条件）",
+      "kind": "fill",
+      "question_latex": "8千克苹果40元，1千克苹果多少元？这道题是已知（    ）和（    ），求（    ），数量关系式是：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "40元是总价，8千克是数量，问题求单价。数量关系为：单价＝总价÷数量。",
+      "verification": {
+        "status": "verified",
+        "reason": "已知总价和数量求单价，单价=总价÷数量。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s03",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 2,
+      "id": "一、2（单价和读法）",
+      "kind": "fill",
+      "question_latex": "8千克苹果40元，苹果的单价是（    ），读作（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned} &40\\div8\\\\={}&5\\text{(元/千克)}\\end{aligned}\\]读作“5元每千克”，表示每千克苹果5元。",
+      "verification": {
+        "status": "verified",
+        "reason": "40÷8=5元/千克，读5元每千克。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s04",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 3,
+      "id": "一、3（汽车）",
+      "kind": "fill",
+      "question_latex": "一辆汽车每小时行驶72千米，可以写作（    ），读作（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "写作\\(72\\text{千米/时}\\)，读作“72千米每时”；分母“时”表示每1小时。",
+      "verification": {
+        "status": "verified",
+        "reason": "72千米/时，72千米每时。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s05",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 4,
+      "id": "一、3（步行）",
+      "kind": "fill",
+      "question_latex": "李亮每分钟步行65米，可以写作（    ），读作（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "写作\\(65\\text{米/分}\\)，读作“65米每分”；表示每分钟走65米。",
+      "verification": {
+        "status": "verified",
+        "reason": "65米/分，65米每分。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s06",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 5,
+      "id": "一、4（步行速度）",
+      "kind": "fill",
+      "question_latex": "把表格补充完整：步行路程840米，时间12分，速度（    ）。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "项目",
+            "步行",
+            "自行车",
+            "船",
+            "汽车"
+          ],
+          "rows": [
+            [
+              "路程",
+              "840米",
+              "（    ）",
+              "105千米",
+              "428千米"
+            ],
+            [
+              "时间",
+              "12分",
+              "5分",
+              "（    ）",
+              "4小时"
+            ],
+            [
+              "速度",
+              "（    ）",
+              "280米/分",
+              "35千米/时",
+              "（    ）"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "速度＝路程÷时间：\\[\\begin{aligned} &840\\div12\\\\={}&70\\text{(米/分)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "840÷12=70米/分。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s07",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 6,
+      "id": "一、4（骑车路程）",
+      "kind": "fill",
+      "question_latex": "把表格补充完整：骑自行车速度280米/分，时间5分，路程（    ）。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "项目",
+            "步行",
+            "自行车",
+            "船",
+            "汽车"
+          ],
+          "rows": [
+            [
+              "路程",
+              "840米",
+              "（    ）",
+              "105千米",
+              "428千米"
+            ],
+            [
+              "时间",
+              "12分",
+              "5分",
+              "（    ）",
+              "4小时"
+            ],
+            [
+              "速度",
+              "（    ）",
+              "280米/分",
+              "35千米/时",
+              "（    ）"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "路程＝速度×时间：\\[\\begin{aligned} &280\\times5\\\\={}&1400\\text{(米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "280×5=1400米。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s08",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 7,
+      "id": "一、4（船行时间）",
+      "kind": "fill",
+      "question_latex": "把表格补充完整：船行路程105千米，速度35千米/时，时间（    ）。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "项目",
+            "步行",
+            "自行车",
+            "船",
+            "汽车"
+          ],
+          "rows": [
+            [
+              "路程",
+              "840米",
+              "（    ）",
+              "105千米",
+              "428千米"
+            ],
+            [
+              "时间",
+              "12分",
+              "5分",
+              "（    ）",
+              "4小时"
+            ],
+            [
+              "速度",
+              "（    ）",
+              "280米/分",
+              "35千米/时",
+              "（    ）"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "时间＝路程÷速度：\\[\\begin{aligned} &105\\div35\\\\={}&3\\text{(小时)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "105÷35=3小时。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s09",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 8,
+      "id": "一、4（汽车速度）",
+      "kind": "fill",
+      "question_latex": "把表格补充完整：汽车路程428千米，时间4小时，速度（    ）。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "项目",
+            "步行",
+            "自行车",
+            "船",
+            "汽车"
+          ],
+          "rows": [
+            [
+              "路程",
+              "840米",
+              "（    ）",
+              "105千米",
+              "428千米"
+            ],
+            [
+              "时间",
+              "12分",
+              "5分",
+              "（    ）",
+              "4小时"
+            ],
+            [
+              "速度",
+              "（    ）",
+              "280米/分",
+              "35千米/时",
+              "（    ）"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "速度＝路程÷时间：\\[\\begin{aligned} &428\\div4\\\\={}&107\\text{(千米/时)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "428÷4=107千米/时。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s10",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 9,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "由中国自主研发、世界领先的新型复兴号高速综合检测列车上线运行后，在世界上首次成功实现明线单列时速435千米。照这样的速度，新型复兴号高速综合检测列车12小时能行驶（    ）千米，用到的数量关系是：________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "数量关系：路程＝速度×时间。\\[\\begin{aligned} &435\\times12\\\\={}&435\\times(10+2)\\\\={}&4350+870\\\\={}&5220\\text{(千米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "速度×时间，435×12=5220千米；题中科技表述按原文，不作当前事实扩展。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s11",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 10,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "声音在空气中每秒能传播340米，照这样的速度，实验人员在山谷一侧向对面发射声波，经过6秒收到回声，山谷的宽度是（    ）米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "6秒内声音走了一个来回，山谷宽度是来回路程的一半：\\[\\begin{aligned} &340\\times6\\div2\\\\={}&2040\\div2\\\\={}&1020\\text{(米)}\\end{aligned}\\]也可先求声音单程传播的时间，再求距离：\\[\\begin{aligned} &340\\times(6\\div2)\\\\={}&340\\times3\\\\={}&1020\\text{(米)}\\end{aligned}\\]检验：\\(1020\\times2\\div340=6\\text{(秒)}\\)，与听到回声所用时间相符。",
+      "verification": {
+        "status": "verified",
+        "reason": "6秒是往返，340×6÷2=1020米，或340×3。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s12",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 11,
+      "id": "一、7（每千克价格）",
+      "kind": "fill",
+      "question_latex": "妈妈用16元买了2千克黄瓜，每千克黄瓜（    ）元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned} &16\\div2\\\\={}&8\\text{(元/千克)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "16÷2=8元/千克。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p021_s13",
+      "book_page": 21,
+      "source_page": 25,
+      "section_index": 12,
+      "id": "一、7（24元购买质量）",
+      "kind": "fill",
+      "question_latex": "妈妈用16元买了2千克黄瓜，24元能买（    ）千克黄瓜。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "数量＝总价÷单价：\\[\\begin{aligned} &24\\div8\\\\={}&3\\text{(千克)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "24÷(16÷2)=24÷8=3千克。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

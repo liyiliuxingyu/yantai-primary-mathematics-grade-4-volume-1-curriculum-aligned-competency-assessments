@@ -1,0 +1,32 @@
+% Original page 99, question 1. Crop [290,559,532,700] in MuPDF bp.
+\begin{tikzpicture}[x=1bp,y=-1bp,line cap=round,line join=round]
+  \path[use as bounding box] (0,0) rectangle (242,141);
+  \clip (0,0) rectangle (242,141);
+  \definecolor{diagramanswer}{RGB}{205,20,35}
+  \draw[line width=.7bp] (1.5,2.7) rectangle (240,139);
+  \draw[line width=.72bp] (51,64.143) -- (183,64.143);
+  \node[anchor=west,inner sep=0pt,font=\fontsize{12.3bp}{13bp}\selectfont]
+    at (189,64.5) {主干道};
+  \draw[line width=.72bp] (220.2,39.3) -- (220.2,19.0)
+    (210.5,30.4) -- (230.5,30.4);
+  \fill (220.2,18.7) -- (218.9,22.8) -- (221.5,22.8) -- cycle;
+  \fill (230.9,30.4) -- (226.8,29.1) -- (226.8,31.7) -- cycle;
+  \node[anchor=west,inner sep=0pt,font=\fontsize{12.3bp}{13bp}\selectfont]
+    at (224.2,17.4) {北};
+  \draw[diagramanswer,line width=.82bp] (31.43,33.43) -- (217.14,33.43);
+  \draw[diagramanswer,line width=.82bp] (150,64.143) -- (150,97);
+  \draw[diagramanswer,line width=.64bp]
+    (145.714,64.143) -- (145.714,68.429) -- (150,68.429);
+  \fill (111.5,33.43) circle[radius=1.35bp];
+  \node[anchor=west,inner sep=0pt,font=\fontsize{11.5bp}{12bp}\selectfont]
+    at (116.5,34.5) {$A$};
+  \fill (150,97) circle[radius=1.35bp];
+  \node[anchor=west,inner sep=0pt,font=\fontsize{12.3bp}{13bp}\selectfont]
+    at (159.5,103) {图书馆};
+  \node[anchor=west,inner sep=0pt,text=diagramanswer,
+    font=\kaishu\fontsize{8bp}{9bp}\selectfont]
+    at (45.5,23) {东西方向步道};
+  \node[anchor=west,inner sep=0pt,text=diagramanswer,
+    font=\kaishu\fontsize{8bp}{9bp}\selectfont]
+    at (155.72,85) {最短小路};
+\end{tikzpicture}

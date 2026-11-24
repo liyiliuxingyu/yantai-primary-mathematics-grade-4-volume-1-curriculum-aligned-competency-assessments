@@ -1,0 +1,5920 @@
+[
+  {
+    "volume": 1,
+    "ui_slide": 213,
+    "key": "p010_s02",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p010_s02_b001_2_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先换成钟面上的时刻：",
+            "rect": [
+              64,
+              280,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "21\\text{时}=\\text{晚上}9\\text{时}",
+            "rect": [
+              64,
+              344,
+              1152,
+              52
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "21时=晚上9时"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_2_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_2_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_2_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_2_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_2_p5"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_2_p6"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_2_p7"
+      },
+      {
+        "type": "rich",
+        "name": "p010_s02_b001_3_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "整点分针指向12，时针指向9，",
+            "rect": [
+              64,
+              408,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "较小夹角是",
+            "rect": [
+              64,
+              470,
+              214,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "90^\\circ",
+            "rect": [
+              281,
+              481,
+              80,
+              36
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "sup",
+                  "base": {
+                    "t": "text",
+                    "v": "90"
+                  },
+                  "arg": {
+                    "t": "seq",
+                    "items": [
+                      {
+                        "t": "text",
+                        "v": "°"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "，所以互相垂直。",
+            "rect": [
+              364,
+              470,
+              790,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_3_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_3_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_3_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p010_s02_b001_3_p4"
+      },
+      {
+        "type": "rich",
+        "name": "p010_s02_b001_4_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "第一空后已有“度”，只填90；",
+            "rect": [
+              64,
+              532,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "第二空填“垂直”。",
+            "rect": [
+              64,
+              594,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "points": 32
+      }
+    ],
+    "slide": 213
+  },
+  {
+    "volume": 1,
+    "ui_slide": 355,
+    "key": "p016_s02",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p016_s02_b001_3_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先按“每秒60厘米、共40秒”求总长，",
+            "rect": [
+              64,
+              346,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "再把厘米数换成米。",
+            "rect": [
+              64,
+              420,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b001_3_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b001_3_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b001_3_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b001_3_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b001_3_p5"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b001_3_p6"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b001_3_p7"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b001_3_p8"
+      },
+      {
+        "type": "math",
+        "name": "p016_s02_b001_4_p0",
+        "tex": "100\\text{厘米}=1\\text{米}",
+        "rect": [
+          64,
+          494,
+          1152,
+          52
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "100厘米=1米"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      }
+    ],
+    "slide": 355
+  },
+  {
+    "volume": 1,
+    "ui_slide": 356,
+    "key": "p016_s02",
+    "ops": [
+      {
+        "type": "math",
+        "name": "p016_s02_b003_1",
+        "tex": "60\\times40",
+        "rect": [
+          106,
+          205.2,
+          400,
+          44
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "60×40"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "math",
+        "name": "p016_s02_b004_2",
+        "tex": "2400\\text{(厘米)}",
+        "rect": [
+          106,
+          274.2,
+          450,
+          48
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "2400(厘米)"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b005_3_operator"
+      },
+      {
+        "type": "math",
+        "name": "p016_s02_b005_3",
+        "tex": "2400\\text{厘米}=(2400\\div100)\\text{米}=24\\text{米}",
+        "rect": [
+          64,
+          332,
+          1152,
+          52
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "2400厘米=(2400÷100)米=24米"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "move",
+        "name": "p016_s02_b004_2_operator",
+        "dx": 0,
+        "dy": 15
+      }
+    ],
+    "slide": 356
+  },
+  {
+    "volume": 1,
+    "ui_slide": 357,
+    "key": "p016_s02",
+    "ops": [
+      {
+        "type": "math",
+        "name": "p016_s02_b008_0",
+        "tex": "60\\times10=600\\text{(厘米)},\\qquad40\\div10=4\\text{(段)}",
+        "rect": [
+          64,
+          128,
+          1152,
+          52
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "60×10=600(厘米),    40÷10=4(段)"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b009_1_operator"
+      },
+      {
+        "type": "math",
+        "name": "p016_s02_b009_1",
+        "tex": "600\\text{厘米}=(600\\div100)\\text{米}=6\\text{米}",
+        "rect": [
+          64,
+          197,
+          1152,
+          52
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "600厘米=(600÷100)米=6米"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b010_2_operator"
+      },
+      {
+        "type": "math",
+        "name": "p016_s02_b010_2",
+        "tex": "6\\times4",
+        "rect": [
+          106,
+          272.2,
+          300,
+          44
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "6×4"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "math",
+        "name": "p016_s02_b011_3",
+        "tex": "24\\text{(米)}",
+        "rect": [
+          106,
+          336,
+          350,
+          48
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "24(米)"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "move",
+        "name": "p016_s02_b011_3_operator",
+        "dx": 0,
+        "dy": 10
+      }
+    ],
+    "slide": 357
+  },
+  {
+    "volume": 1,
+    "ui_slide": 358,
+    "key": "p016_s02",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p016_s02_b014_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "用相同的速度单位检验，先把米换成厘米：",
+            "rect": [
+              64,
+              124,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "24\\text{米}=2400\\text{厘米}",
+            "rect": [
+              64,
+              202,
+              1152,
+              52
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "24米=2400厘米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b014_0_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b014_0_p2"
+      },
+      {
+        "type": "rich",
+        "name": "p016_s02_b014_1_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "2400\\div40",
+            "rect": [
+              106,
+              282,
+              800,
+              44
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "2400÷40"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "=",
+            "rect": [
+              64,
+              352,
+              34,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "="
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "60\\text{(厘米/秒)}",
+            "rect": [
+              106,
+              346,
+              900,
+              52
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "60(厘米/秒)"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "还原题目每秒60厘米的速度。",
+            "rect": [
+              64,
+              424,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b014_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p016_s02_b014_1_p2"
+      }
+    ],
+    "slide": 358
+  },
+  {
+    "volume": 1,
+    "ui_slide": 384,
+    "key": "p017_s06",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p017_s06_b001_2_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先统一长度单位：",
+            "rect": [
+              64,
+              280,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "1\\text{千米}=1000\\text{米}",
+            "rect": [
+              64,
+              348,
+              1152,
+              52
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "1千米=1000米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_2_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_2_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_2_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_2_p4"
+      },
+      {
+        "type": "math",
+        "name": "p017_s06_b001_3_p0",
+        "tex": "1000\\div100=10\\text{(分)}",
+        "rect": [
+          64,
+          424,
+          700,
+          52
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "1000÷100=10(分)"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_3_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_3_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_3_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_3_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_3_p5"
+      },
+      {
+        "type": "rich",
+        "name": "p017_s06_b001_4_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "数值空填10；关系式填“",
+            "rect": [
+              64,
+              498,
+              510,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "\\text{时间}=\\text{路程}\\div\\text{速度}",
+            "rect": [
+              580,
+              506,
+              500,
+              44
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "时间=路程÷速度"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "”。",
+            "rect": [
+              1083,
+              498,
+              100,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_4_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p017_s06_b001_4_p2"
+      }
+    ],
+    "slide": 384
+  },
+  {
+    "volume": 2,
+    "ui_slide": 83,
+    "key": "p022_s02",
+    "ops": [
+      {
+        "type": "text",
+        "name": "p022_s02_b001_2_p0",
+        "text": "把打字问题与行程问题对应：每分钟打字数相当于速度，",
+        "rect": [
+          64,
+          276,
+          1152,
+          58
+        ],
+        "points": 32
+      },
+      {
+        "type": "rich",
+        "name": "p022_s02_b001_3_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "打字总数相当于路程。先统一时间单位：",
+            "rect": [
+              64,
+              350,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "\\text{半小时}=30\\text{分钟}",
+            "rect": [
+              64,
+              428,
+              1152,
+              52
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "半小时=30分钟"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "text",
+        "name": "p022_s02_b001_4_p0",
+        "text": "先求每分钟打字数，再乘30：",
+        "rect": [
+          64,
+          502,
+          1152,
+          58
+        ],
+        "points": 32
+      }
+    ],
+    "slide": 83
+  },
+  {
+    "volume": 2,
+    "ui_slide": 99,
+    "key": "p022_s07",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p022_s07_b005_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先把长颈鹿的路程换成米：",
+            "rect": [
+              64,
+              120,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "3\\text{千米}=3000\\text{米}",
+            "rect": [
+              64,
+              192,
+              1152,
+              52
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3千米=3000米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "统一为米/分：羚羊1440，野驴1200，长颈鹿",
+            "rect": [
+              64,
+              280.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "move",
+        "name": "p022_s07_b005_1_p0",
+        "dx": 0,
+        "dy": 156
+      },
+      {
+        "type": "move",
+        "name": "p022_s07_b005_1_p1",
+        "dx": 0,
+        "dy": 156
+      },
+      {
+        "type": "move",
+        "name": "p022_s07_b005_2_p0",
+        "dx": 0,
+        "dy": 156
+      },
+      {
+        "type": "move",
+        "name": "p022_s07_b005_2_p1",
+        "dx": 0,
+        "dy": 156
+      },
+      {
+        "type": "move",
+        "name": "p022_s07_b006_3_p0",
+        "dx": 0,
+        "dy": 156
+      },
+      {
+        "type": "move",
+        "name": "p022_s07_b006_3_p1",
+        "dx": 0,
+        "dy": 156
+      },
+      {
+        "type": "move",
+        "name": "p022_s07_b006_3_p2",
+        "dx": 0,
+        "dy": 156
+      }
+    ],
+    "slide": 99
+  },
+  {
+    "volume": 2,
+    "ui_slide": 141,
+    "key": "p024_s01",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p024_s01_b001_3_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先把到达时刻改用二十四时计时法：",
+            "rect": [
+              64,
+              346,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "\\text{下午}1{:}00=13{:}00",
+            "rect": [
+              64,
+              416,
+              1152,
+              52
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "下午1"
+                },
+                {
+                  "t": "seq",
+                  "items": [
+                    {
+                      "t": "text",
+                      "v": ":"
+                    }
+                  ]
+                },
+                {
+                  "t": "text",
+                  "v": "00=13"
+                },
+                {
+                  "t": "seq",
+                  "items": [
+                    {
+                      "t": "text",
+                      "v": ":"
+                    }
+                  ]
+                },
+                {
+                  "t": "text",
+                  "v": "00"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "从9:00到13:00经过",
+            "rect": [
+              64,
+              490,
+              515,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "13-9=4",
+            "rect": [
+              582,
+              502,
+              240,
+              34
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "13-9=4"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "小时。",
+            "rect": [
+              825,
+              490,
+              170,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "points": 32
+      },
+      {
+        "type": "blank",
+        "name": "p024_s01_b001_3_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p024_s01_b001_3_p2"
+      },
+      {
+        "type": "move",
+        "name": "p024_s01_b002_4_p0",
+        "dx": 0,
+        "dy": 143.5
+      }
+    ],
+    "slide": 141
+  },
+  {
+    "volume": 3,
+    "ui_slide": 273,
+    "key": "p049_s03",
+    "ops": [
+      {
+        "name": "p049_s03_b002_0",
+        "tex": "168000=(168000\\div10000)\\text{万}",
+        "rect": [
+          64,
+          130,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "168000=(168000÷10000)万"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p049_s03_b003_1_operator",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s03_b003_1",
+        "tex": "168000=16.8\\text{万}",
+        "rect": [
+          64,
+          220,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "168000=16.8万"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p049_s03_b004_2",
+        "tex": "995000000=(995000000\\div100000000)\\text{亿}",
+        "rect": [
+          64,
+          330,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "995000000=(995000000÷100000000)亿"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p049_s03_b005_3_operator",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s03_b005_3",
+        "tex": "995000000=9.95\\text{亿}",
+        "rect": [
+          64,
+          420,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "995000000=9.95亿"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p049_s03_b006_4_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "准确改写用等号，不改变数的大小。",
+            "rect": [
+              64,
+              525,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p049_s03_b006_4_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s03_b006_4_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s03_b006_4_p3",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s03_b006_4_p4",
+        "type": "blank"
+      }
+    ],
+    "slide": 273
+  },
+  {
+    "volume": 3,
+    "ui_slide": 276,
+    "key": "p049_s04",
+    "ops": [
+      {
+        "name": "p049_s04_b002_4_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "分米化米，除以10。",
+            "rect": [
+              64,
+              428,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "3\\text{分米}=(3\\div10)\\text{米}=0.3\\text{米}",
+            "rect": [
+              64,
+              502,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3分米=(3÷10)米=0.3米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p049_s04_b002_4_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b002_4_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b002_5_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 276
+  },
+  {
+    "volume": 3,
+    "ui_slide": 277,
+    "key": "p049_s04",
+    "ops": [
+      {
+        "name": "p049_s04_b003_0_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "0.06\\text{吨}=(0.06\\times1000)\\text{千克}=60\\text{千克}",
+            "rect": [
+              64,
+              125,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.06吨=(0.06×1000)千克=60千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "5.06\\text{吨}=5\\text{吨}60\\text{千克}",
+            "rect": [
+              64,
+              205,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "5.06吨=5吨60千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p049_s04_b003_1_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b003_1_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b003_1_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b004_2_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "32\\text{克}=(32\\div1000)\\text{千克}=0.032\\text{千克}",
+            "rect": [
+              64,
+              290,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "32克=(32÷1000)千克=0.032千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p049_s04_b004_3_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b004_3_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b005_4_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "3\\text{平方分米}=(3\\div100)\\text{平方米}=0.03\\text{平方米}",
+            "rect": [
+              64,
+              385,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3平方分米=(3÷100)平方米=0.03平方米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "5\\text{平方米}3\\text{平方分米}=(5+0.03)\\text{平方米}=5.03\\text{平方米}",
+            "rect": [
+              64,
+              470,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "5平方米3平方分米=(5+0.03)平方米=5.03平方米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "长度、质量和面积的进率不同，不能混用。",
+            "rect": [
+              64,
+              570,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p049_s04_b005_4_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b005_4_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b005_5_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b005_5_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b005_5_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s04_b005_6_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 277
+  },
+  {
+    "volume": 3,
+    "ui_slide": 286,
+    "key": "p049_s07",
+    "ops": [
+      {
+        "name": "p049_s07_b002_0_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "50\\text{克}=(50\\div1000)\\text{千克}=0.05\\text{千克}",
+            "rect": [
+              64,
+              130,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "50克=(50÷1000)千克=0.05千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "9\\text{千克}50\\text{克}=(9+0.05)\\text{千克}=9.05\\text{千克}",
+            "rect": [
+              64,
+              210,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "9千克50克=(9+0.05)千克=9.05千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "0.57\\text{米}=(0.57\\times100)\\text{厘米}=57\\text{厘米}",
+            "rect": [
+              64,
+              290,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.57米=(0.57×100)厘米=57厘米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "7.91<7.97,\\qquad8.26>4.62",
+            "rect": [
+              64,
+              405,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "7.91<7.97,    8.26>4.62"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "统一后比较质量大小，米与厘米两项表示相同长度。",
+            "rect": [
+              64,
+              470,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p049_s07_b002_0_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s07_b002_0_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s07_b002_1_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s07_b002_1_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s07_b002_1_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s07_b002_1_p3",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s07_b002_1_p4",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s07_b002_2_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p049_s07_b003_3_p0",
+        "dx": 0,
+        "dy": 208,
+        "type": "move"
+      },
+      {
+        "name": "p049_s07_b003_3_p1",
+        "dx": 0,
+        "dy": 208,
+        "type": "move"
+      },
+      {
+        "name": "p049_s07_b003_3_p2",
+        "dx": 0,
+        "dy": 208,
+        "type": "move"
+      }
+    ],
+    "slide": 286
+  },
+  {
+    "volume": 3,
+    "ui_slide": 336,
+    "key": "p052_s01",
+    "ops": [
+      {
+        "name": "p052_s01_b001_3_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先统一质量单位：",
+            "rect": [
+              64,
+              347,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "10\\text{千克}=10000\\text{克}",
+            "rect": [
+              64,
+              420,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "10千克=10000克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "每100克西瓜约榨出81.5克汁。",
+            "rect": [
+              64,
+              494,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p052_s01_b001_3_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s01_b001_3_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s01_b001_4_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s01_b002_5_p0",
+        "dx": 0,
+        "dy": 74,
+        "type": "move"
+      }
+    ],
+    "slide": 336
+  },
+  {
+    "volume": 3,
+    "ui_slide": 337,
+    "key": "p052_s01",
+    "ops": [
+      {
+        "name": "p052_s01_b006_3_operator",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s01_b006_3",
+        "tex": "8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}",
+        "rect": [
+          64,
+          335,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "8150克=(8150÷1000)千克=8.15千克"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p052_s01_b007_4_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "方法二：先求1千克西瓜的出汁量，再乘10。",
+            "rect": [
+              64,
+              415,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "1\\text{千克}=1000\\text{克}",
+            "rect": [
+              64,
+              510,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "1千克=1000克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "type": "rich"
+      }
+    ],
+    "slide": 337
+  },
+  {
+    "volume": 3,
+    "ui_slide": 338,
+    "key": "p052_s01",
+    "ops": [
+      {
+        "name": "p052_s01_b012_4_operator",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s01_b012_4",
+        "tex": "8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}",
+        "rect": [
+          64,
+          475,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "8150克=(8150÷1000)千克=8.15千克"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      }
+    ],
+    "slide": 338
+  },
+  {
+    "volume": 3,
+    "ui_slide": 341,
+    "key": "p052_s02",
+    "ops": [
+      {
+        "name": "p052_s02_b003_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先统一身高单位，厘米化米除以100：",
+            "rect": [
+              64,
+              125,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "135\\text{厘米}=1.35\\text{米}",
+            "rect": [
+              64,
+              195,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "135厘米=1.35米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "119\\text{厘米}=1.19\\text{米}",
+            "rect": [
+              64,
+              265,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "119厘米=1.19米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "158\\text{厘米}=1.58\\text{米}",
+            "rect": [
+              64,
+              335,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "158厘米=1.58米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "东东买半票，明明免票。\n张老师和亮亮各买一张成人票。",
+            "rect": [
+              64,
+              409,
+              1152,
+              116
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p052_s02_b003_0_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s02_b003_0_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s02_b003_0_p3",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s02_b003_0_p4",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s02_b003_1_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s02_b003_1_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s02_b003_2_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s02_b003_3_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s02_b004_4_p0",
+        "dx": 0,
+        "dy": 136,
+        "type": "move"
+      }
+    ],
+    "slide": 341
+  },
+  {
+    "volume": 3,
+    "ui_slide": 346,
+    "key": "p052_s03",
+    "ops": [
+      {
+        "name": "p052_s03_b009_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "平方厘米化成平方米，除以10000。",
+            "rect": [
+              64,
+              125,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "1\\text{平方米}=10000\\text{平方厘米}",
+            "rect": [
+              64,
+              205,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "1平方米=10000平方厘米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p052_s03_b009_0_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s03_b009_0_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s03_b009_1_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s03_b010_2",
+        "tex": "108000\\text{平方厘米}=(108000\\div10000)\\text{平方米}",
+        "rect": [
+          64,
+          285,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "108000平方厘米=(108000÷10000)平方米"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p052_s03_b011_3_operator",
+        "type": "blank"
+      },
+      {
+        "name": "p052_s03_b011_3",
+        "tex": "108000\\text{平方厘米}=10.8\\text{平方米}",
+        "rect": [
+          64,
+          355,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "108000平方厘米=10.8平方米"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p052_s03_b012_4_p0",
+        "dx": 0,
+        "dy": 40,
+        "type": "move"
+      },
+      {
+        "name": "p052_s03_b012_5_p0",
+        "dx": 0,
+        "dy": 40,
+        "type": "move"
+      }
+    ],
+    "slide": 346
+  },
+  {
+    "volume": 3,
+    "ui_slide": 369,
+    "key": "p053_s08",
+    "ops": [
+      {
+        "name": "p053_s08_b001_2_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "一组答案：前式进率100，后式进率1000。",
+            "rect": [
+              64,
+              297,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "45\\text{厘米}=(45\\div100)\\text{米}=0.45\\text{米}",
+            "rect": [
+              64,
+              375,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "45厘米=(45÷100)米=0.45米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "3540\\text{克}=(3540\\div1000)\\text{千克}=3.540\\text{千克}",
+            "rect": [
+              64,
+              450,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3540克=(3540÷1000)千克=3.540千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "保留题面3.540的三位小数写法。\n两边须表示同一种量，原空只填写单位。",
+            "rect": [
+              64,
+              535,
+              1152,
+              116
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p053_s08_b001_2_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_2_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_2_p3",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_2_p4",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_3_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_3_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_3_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_4_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_4_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_4_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b001_5_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 369
+  },
+  {
+    "volume": 3,
+    "ui_slide": 370,
+    "key": "p053_s08",
+    "ops": [
+      {
+        "name": "p053_s08_b002_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "其他原有的单位组合：",
+            "rect": [
+              64,
+              125,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "45\\text{分}=0.45\\text{元}",
+            "rect": [
+              64,
+              195,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "45分=0.45元"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "45\\text{平方厘米}=0.45\\text{平方分米}",
+            "rect": [
+              64,
+              260,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "45平方厘米=0.45平方分米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "45\\text{平方分米}=0.45\\text{平方米}",
+            "rect": [
+              64,
+              325,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "45平方分米=0.45平方米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "45\\text{公顷}=0.45\\text{平方千米}",
+            "rect": [
+              64,
+              390,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "45公顷=0.45平方千米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "3540\\text{毫米}=3.540\\text{米}",
+            "rect": [
+              64,
+              455,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3540毫米=3.540米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "3540\\text{米}=3.540\\text{千米}",
+            "rect": [
+              64,
+              520,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3540米=3.540千米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "3540\\text{千克}=3.540\\text{吨}",
+            "rect": [
+              64,
+              585,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3540千克=3.540吨"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p053_s08_b002_1_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s08_b002_2_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 370
+  },
+  {
+    "volume": 3,
+    "ui_slide": 375,
+    "key": "p053_s09",
+    "ops": [
+      {
+        "name": "p053_s09_b001_3_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "1\\text{吨}=1000\\text{千克}",
+            "rect": [
+              64,
+              355,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "1吨=1000千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "1000千克是10千克的100倍。",
+            "rect": [
+              64,
+              430,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      }
+    ],
+    "slide": 375
+  },
+  {
+    "volume": 3,
+    "ui_slide": 376,
+    "key": "p053_s09",
+    "ops": [
+      {
+        "name": "p053_s09_b005_3_operator",
+        "type": "blank"
+      },
+      {
+        "name": "p053_s09_b005_3",
+        "tex": "450\\text{千克}=(450\\div1000)\\text{吨}=0.45\\text{吨}",
+        "rect": [
+          64,
+          335,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "450千克=(450÷1000)吨=0.45吨"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      }
+    ],
+    "slide": 376
+  },
+  {
+    "volume": 3,
+    "ui_slide": 382,
+    "key": "p054_s02",
+    "ops": [
+      {
+        "name": "p054_s02_b005_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "9在十分位，表示0.9米。米化分米乘10：",
+            "rect": [
+              64,
+              125,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "0.9\\text{米}=(0.9\\times10)\\text{分米}=9\\text{分米}",
+            "rect": [
+              64,
+              215,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.9米=(0.9×10)分米=9分米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "不能把9理解成9米或0.9分米。",
+            "rect": [
+              64,
+              295,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p054_s02_b005_1_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p054_s02_b006_2_p0",
+        "dx": 0,
+        "dy": 112,
+        "type": "move"
+      }
+    ],
+    "slide": 382
+  },
+  {
+    "volume": 3,
+    "ui_slide": 396,
+    "key": "p054_s06",
+    "ops": [
+      {
+        "name": "p054_s06_b005_0_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "6\\text{厘米}=(6\\div100)\\text{米}=0.06\\text{米}",
+            "rect": [
+              64,
+              125,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "6厘米=(6÷100)米=0.06米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "8\\text{米}6\\text{厘米}=(8+0.06)\\text{米}=8.06\\text{米}",
+            "rect": [
+              64,
+              205,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "8米6厘米=(8+0.06)米=8.06米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "560\\text{厘米}=(560\\div100)\\text{米}=5.6\\text{米}",
+            "rect": [
+              64,
+              285,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "560厘米=(560÷100)米=5.6米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "8.06+5.6",
+            "rect": [
+              64,
+              375,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "8.06+5.6"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "厘米化米除以100，不能直接把厘米数接在小数点后。",
+            "rect": [
+              64,
+              445,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p054_s06_b005_1_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p054_s06_b005_1_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p054_s06_b005_2_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p054_s06_b006_3_p0",
+        "dx": 0,
+        "dy": 188,
+        "type": "move"
+      }
+    ],
+    "slide": 396
+  },
+  {
+    "volume": 4,
+    "ui_slide": 4,
+    "key": "p055_s02",
+    "ops": [
+      {
+        "name": "p055_s02_b002_0",
+        "tex": "327900=(327900\\div10000)\\text{万}",
+        "rect": [
+          64,
+          130,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "327900=(327900÷10000)万"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p055_s02_b003_1_operator",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s02_b003_1",
+        "tex": "327900=32.79\\text{万}",
+        "rect": [
+          64,
+          210,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "327900=32.79万"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p055_s02_b004_2",
+        "tex": "32.79\\text{万}\\approx32.8\\text{万}",
+        "rect": [
+          64,
+          290,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "32.79万≈32.8万"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p055_s02_b005_3",
+        "tex": "25499270000=(25499270000\\div100000000)\\text{亿}",
+        "rect": [
+          64,
+          390,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "25499270000=(25499270000÷100000000)亿"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p055_s02_b006_4_operator",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s02_b006_4",
+        "tex": "25499270000=254.9927\\text{亿}",
+        "rect": [
+          64,
+          470,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "25499270000=254.9927亿"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "name": "p055_s02_b007_5",
+        "tex": "254.9927\\text{亿}\\approx255.0\\text{亿}",
+        "rect": [
+          64,
+          550,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "254.9927亿≈255.0亿"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      }
+    ],
+    "slide": 4
+  },
+  {
+    "volume": 4,
+    "ui_slide": 11,
+    "key": "p055_s05",
+    "ops": [
+      {
+        "name": "p055_s05_b001_1_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先统一单位，克化千克除以1000：",
+            "rect": [
+              64,
+              203,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "3240\\text{克}=(3240\\div1000)\\text{千克}=3.24\\text{千克}",
+            "rect": [
+              64,
+              285,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3240克=(3240÷1000)千克=3.24千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "3.24>\\square.15",
+            "rect": [
+              64,
+              375,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3.24>□.15"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "整数部分最大填3。",
+            "rect": [
+              64,
+              455,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p055_s05_b001_1_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s05_b001_1_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s05_b001_2_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s05_b001_2_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s05_b001_2_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s05_b001_2_p3",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s05_b001_2_p4",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s05_b001_3_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 11
+  },
+  {
+    "volume": 4,
+    "ui_slide": 13,
+    "key": "p055_s06",
+    "ops": [
+      {
+        "name": "p055_s06_b001_1_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "吨化千克乘1000：",
+            "rect": [
+              64,
+              203,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "6.25\\text{吨}=(6.25\\times1000)\\text{千克}=6250\\text{千克}",
+            "rect": [
+              64,
+              280,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "6.25吨=(6.25×1000)千克=6250千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "6250>6\\square25",
+            "rect": [
+              64,
+              375,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "6250>6□25"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "6225<6250,\\qquad6325>6250",
+            "rect": [
+              64,
+              455,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "6225<6250,    6325>6250"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "百位最大填2。",
+            "rect": [
+              64,
+              535,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p055_s06_b001_1_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s06_b001_2_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s06_b001_2_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s06_b001_2_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s06_b001_2_p3",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s06_b001_3_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s06_b001_3_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s06_b001_3_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s06_b001_3_p3",
+        "type": "blank"
+      }
+    ],
+    "slide": 13
+  },
+  {
+    "volume": 4,
+    "ui_slide": 15,
+    "key": "p055_s07",
+    "ops": [
+      {
+        "name": "p055_s07_b001_1_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "厘米化米除以100：",
+            "rect": [
+              64,
+              203,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "15\\text{厘米}=(15\\div100)\\text{米}=0.15\\text{米}",
+            "rect": [
+              64,
+              285,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "15厘米=(15÷100)米=0.15米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "0.\\square5>0.15",
+            "rect": [
+              64,
+              375,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.□5>0.15"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "十分位最大可填9。",
+            "rect": [
+              64,
+              455,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p055_s07_b001_1_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s07_b001_2_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s07_b001_2_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s07_b001_2_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p055_s07_b001_2_p3",
+        "type": "blank"
+      }
+    ],
+    "slide": 15
+  },
+  {
+    "volume": 4,
+    "ui_slide": 33,
+    "key": "p056_s01",
+    "ops": [
+      {
+        "name": "p056_s01_b001_3_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先统一单位，吨化千克乘1000：",
+            "rect": [
+              64,
+              347,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "3.75\\text{吨}=(3.75\\times1000)\\text{千克}=3750\\text{千克}",
+            "rect": [
+              64,
+              420,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3.75吨=(3.75×1000)千克=3750千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "方法一：先求5辆车共装多少件，\n再求每件质量。",
+            "rect": [
+              64,
+              494,
+              1152,
+              116
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p056_s01_b001_3_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p056_s01_b001_3_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p056_s01_b001_4_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p056_s01_b001_4_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p056_s01_b001_5_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 33
+  },
+  {
+    "volume": 4,
+    "ui_slide": 35,
+    "key": "p056_s01",
+    "ops": [
+      {
+        "name": "p056_s01_b012_6_p0",
+        "tex": "1\\text{万件}=10000\\text{件}",
+        "rect": [
+          64,
+          555,
+          1152,
+          54
+        ],
+        "points": 32,
+        "type": "math",
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "1万件=10000件"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      }
+    ],
+    "slide": 35
+  },
+  {
+    "volume": 4,
+    "ui_slide": 87,
+    "key": "p058_s03",
+    "ops": [
+      {
+        "name": "p058_s03_b001_2_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "5\\text{元}3\\text{角}=5.30\\text{元}",
+            "rect": [
+              64,
+              280,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "5元3角=5.30元"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "8\\text{角}7\\text{分}=0.87\\text{元}",
+            "rect": [
+              64,
+              355,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "8角7分=0.87元"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "5.30+0.87=6.17\\text{(元)}",
+            "rect": [
+              64,
+              430,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "5.30+0.87=6.17(元)"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "选A。",
+            "rect": [
+              64,
+              505,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p058_s03_b001_2_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p058_s03_b001_3_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 87
+  },
+  {
+    "volume": 4,
+    "ui_slide": 154,
+    "key": "p061_s09",
+    "ops": [
+      {
+        "name": "p061_s09_b001_2_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先统一长度单位，厘米化米除以100：",
+            "rect": [
+              64,
+              276,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "8\\text{厘米}=(8\\div100)\\text{米}=0.08\\text{米}",
+            "rect": [
+              64,
+              355,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "8厘米=(8÷100)米=0.08米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "1.25-0.08=1.17\\text{(米)}",
+            "rect": [
+              64,
+              432,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "1.25-0.08=1.17(米)"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "原空后已有“米”，只填1.17；结果应小于1.25米。",
+            "rect": [
+              64,
+              508,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p061_s09_b001_2_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p061_s09_b001_2_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p061_s09_b001_2_p3",
+        "type": "blank"
+      },
+      {
+        "name": "p061_s09_b001_2_p4",
+        "type": "blank"
+      },
+      {
+        "name": "p061_s09_b001_3_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p061_s09_b001_4_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p061_s09_b001_4_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p061_s09_b001_4_p2",
+        "type": "blank"
+      }
+    ],
+    "slide": 154
+  },
+  {
+    "volume": 4,
+    "ui_slide": 206,
+    "key": "p063_s07",
+    "ops": [
+      {
+        "name": "p063_s07_b001_2_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "竹竿总长分为“入泥＋水深＋露出”三部分。",
+            "rect": [
+              64,
+              273,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "16\\text{厘米}=0.16\\text{米}",
+            "rect": [
+              64,
+              350,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "16厘米=0.16米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "54\\text{厘米}=0.54\\text{米}",
+            "rect": [
+              64,
+              420,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "54厘米=0.54米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "统一成米，用连减性质，先把入泥和露出合成0.7米。",
+            "rect": [
+              64,
+              490,
+              1152,
+              116
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p063_s07_b001_3_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p063_s07_b001_3_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p063_s07_b001_4_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p063_s07_b001_5_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 206
+  },
+  {
+    "volume": 4,
+    "ui_slide": 207,
+    "key": "p063_s07",
+    "ops": [
+      {
+        "name": "p063_s07_b006_4_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "答：水池水深1.3米。",
+            "rect": [
+              64,
+              430,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "也可统一成厘米计算。",
+            "rect": [
+              64,
+              505,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "2\\text{米}=200\\text{厘米}",
+            "rect": [
+              64,
+              580,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "2米=200厘米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ],
+        "type": "rich"
+      }
+    ],
+    "slide": 207
+  },
+  {
+    "volume": 4,
+    "ui_slide": 208,
+    "key": "p063_s07",
+    "ops": [
+      {
+        "name": "p063_s07_b010_3_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "130\\text{厘米}=1.3\\text{米}",
+            "rect": [
+              64,
+              340,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "130厘米=1.3米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "答：水深1.3米。",
+            "rect": [
+              64,
+              420,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p063_s07_b010_3_p1",
+        "type": "blank"
+      }
+    ],
+    "slide": 208
+  },
+  {
+    "volume": 4,
+    "ui_slide": 365,
+    "key": "p070_s02",
+    "ops": [
+      {
+        "name": "p070_s02_b002_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "比较同一顶点B与B′，向下移动2厘米。",
+            "rect": [
+              64,
+              125,
+              1152,
+              116
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "2\\text{厘米}=(2\\times10)\\text{毫米}=20\\text{毫米}",
+            "rect": [
+              64,
+              285,
+              1152,
+              54
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "2厘米=(2×10)毫米=20毫米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "原空后已有“毫米”，只填20。",
+            "rect": [
+              64,
+              375,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "不能用A与B′两个不对应的顶点比较。",
+            "rect": [
+              64,
+              460,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ],
+        "type": "rich"
+      },
+      {
+        "name": "p070_s02_b002_1_p0",
+        "type": "blank"
+      },
+      {
+        "name": "p070_s02_b002_1_p1",
+        "type": "blank"
+      },
+      {
+        "name": "p070_s02_b002_1_p2",
+        "type": "blank"
+      },
+      {
+        "name": "p070_s02_b002_2_p0",
+        "type": "blank"
+      }
+    ],
+    "slide": 365
+  },
+  {
+    "volume": 5,
+    "ui_slide": 50,
+    "key": "p075_s02",
+    "ops": [
+      {
+        "type": "math",
+        "name": "p075_s02_b002_5",
+        "tex": "2\\text{米}=(100\\times2)\\text{厘米}",
+        "rect": [
+          106,
+          494,
+          1110,
+          58
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "2米=(100×2)厘米"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "math",
+        "name": "p075_s02_b003_6",
+        "tex": "200\\text{厘米}",
+        "rect": [
+          106,
+          562,
+          1110,
+          54
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "200厘米"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      }
+    ],
+    "slide": 50
+  },
+  {
+    "volume": 5,
+    "ui_slide": 147,
+    "key": "p079_s04",
+    "ops": [
+      {
+        "type": "text",
+        "name": "p079_s04_b003_2_p0",
+        "text": "个的质量。",
+        "rect": [
+          64.0,
+          272.5000524934383,
+          217.33333333333334,
+          58.0
+        ],
+        "points": 32
+      },
+      {
+        "type": "math",
+        "name": "p079_s04_b003_2_p1",
+        "tex": "1\\text{千克}=1000\\text{克}",
+        "rect": [
+          106,
+          338,
+          1110,
+          58
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "1千克=1000克"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "blank",
+        "name": "p079_s04_b003_2_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p079_s04_b003_2_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p079_s04_b003_2_p4"
+      },
+      {
+        "type": "move",
+        "name": "p079_s04_b004_3",
+        "dx": 0,
+        "dy": 54
+      },
+      {
+        "type": "move",
+        "name": "p079_s04_b005_4_operator",
+        "dx": 0,
+        "dy": 64
+      },
+      {
+        "type": "move",
+        "name": "p079_s04_b005_4",
+        "dx": 0,
+        "dy": 64
+      },
+      {
+        "type": "blank",
+        "name": "p079_s04_b006_5_operator"
+      },
+      {
+        "type": "math",
+        "name": "p079_s04_b006_5",
+        "tex": "6240\\text{克}=6.24\\text{千克}",
+        "rect": [
+          106,
+          554,
+          1110,
+          58
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "6240克=6.24千克"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      }
+    ],
+    "slide": 145
+  },
+  {
+    "volume": 5,
+    "ui_slide": 190,
+    "key": "p081_s07",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p081_s07_b001_1_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "面积单位进率为100：",
+            "rect": [
+              64,
+              202.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "1\\text{平方米}=100\\text{平方分米}",
+            "rect": [
+              106,
+              266.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "1平方米=100平方分米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "520\\text{平方米}=(520\\times100)\\text{平方分米}",
+            "rect": [
+              106,
+              330.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "520平方米=(520×100)平方分米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "=52000\\text{平方分米}",
+            "rect": [
+              106,
+              394.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "_equals": {
+              "type": "math",
+              "tex": "=",
+              "points": 32,
+              "color": "C00000",
+              "ast": {
+                "t": "seq",
+                "items": [
+                  {
+                    "t": "text",
+                    "v": "="
+                  }
+                ]
+              },
+              "min_scale": 0.55
+            },
+            "_rhs": {
+              "type": "math",
+              "tex": "52000\\text{平方分米}",
+              "points": 32,
+              "color": "C00000",
+              "ast": {
+                "t": "seq",
+                "items": [
+                  {
+                    "t": "text",
+                    "v": "52000平方分米"
+                  }
+                ]
+              },
+              "min_scale": 0.55
+            }
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p081_s07_b001_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s07_b001_1_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s07_b001_1_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s07_b001_1_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s07_b001_1_p5"
+      },
+      {
+        "type": "move",
+        "name": "p081_s07_b002_2_p0",
+        "dx": 0,
+        "dy": 194
+      },
+      {
+        "type": "move",
+        "name": "p081_s07_b002_2_p1",
+        "dx": 0,
+        "dy": 194
+      },
+      {
+        "type": "move",
+        "name": "p081_s07_b002_2_p2",
+        "dx": 0,
+        "dy": 194
+      }
+    ],
+    "slide": 188
+  },
+  {
+    "volume": 5,
+    "ui_slide": 192,
+    "key": "p081_s08",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p081_s08_b001_1_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先将角和分化成元：",
+            "rect": [
+              64,
+              202.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "3\\text{角}=0.3\\text{元}",
+            "rect": [
+              106,
+              260.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "3角=0.3元"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "5\\text{分}=0.05\\text{元}",
+            "rect": [
+              106,
+              318.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "5分=0.05元"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "再合并钱数：",
+            "rect": [
+              64,
+              376.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "587\\text{元}3\\text{角}5\\text{分}=(587+0.3+0.05)\\text{元}",
+            "rect": [
+              106,
+              434.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "587元3角5分=(587+0.3+0.05)元"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "=587.35\\text{元}",
+            "rect": [
+              106,
+              492.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "_equals": {
+              "type": "math",
+              "tex": "=",
+              "points": 32,
+              "color": "C00000",
+              "ast": {
+                "t": "seq",
+                "items": [
+                  {
+                    "t": "text",
+                    "v": "="
+                  }
+                ]
+              },
+              "min_scale": 0.55
+            },
+            "_rhs": {
+              "type": "math",
+              "tex": "587.35\\text{元}",
+              "points": 32,
+              "color": "C00000",
+              "ast": {
+                "t": "seq",
+                "items": [
+                  {
+                    "t": "text",
+                    "v": "587.35元"
+                  }
+                ]
+              },
+              "min_scale": 0.55
+            }
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_1_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_1_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_1_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_1_p5"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_1_p6"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_1_p7"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_1_p8"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s08_b001_2_p0"
+      },
+      {
+        "type": "move",
+        "name": "p081_s08_b002_3_p0",
+        "dx": 0,
+        "dy": 206
+      },
+      {
+        "type": "move",
+        "name": "p081_s08_b002_3_p1",
+        "dx": 0,
+        "dy": 206
+      },
+      {
+        "type": "move",
+        "name": "p081_s08_b002_3_p2",
+        "dx": 0,
+        "dy": 206
+      }
+    ],
+    "slide": 190
+  },
+  {
+    "volume": 5,
+    "ui_slide": 194,
+    "key": "p081_s09",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p081_s09_b001_1_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先分出整千克对应的克数：",
+            "rect": [
+              64,
+              202.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "6260\\text{克}=6000\\text{克}+260\\text{克}",
+            "rect": [
+              106,
+              266.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "6260克=6000克+260克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "6000\\text{克}=6\\text{千克}",
+            "rect": [
+              106,
+              330.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "6000克=6千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "6260\\text{克}=6\\text{千克}260\\text{克}",
+            "rect": [
+              106,
+              394.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "6260克=6千克260克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p081_s09_b001_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s09_b001_1_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s09_b001_1_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s09_b001_1_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s09_b001_1_p5"
+      },
+      {
+        "type": "move",
+        "name": "p081_s09_b002_2_p0",
+        "dx": 0,
+        "dy": 194
+      },
+      {
+        "type": "move",
+        "name": "p081_s09_b002_2_p1",
+        "dx": 0,
+        "dy": 194
+      },
+      {
+        "type": "move",
+        "name": "p081_s09_b002_2_p2",
+        "dx": 0,
+        "dy": 194
+      },
+      {
+        "type": "move",
+        "name": "p081_s09_b002_2_p3",
+        "dx": 0,
+        "dy": 194
+      },
+      {
+        "type": "move",
+        "name": "p081_s09_b002_2_p4",
+        "dx": 0,
+        "dy": 194
+      }
+    ],
+    "slide": 192
+  },
+  {
+    "volume": 5,
+    "ui_slide": 196,
+    "key": "p081_s10",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p081_s10_b001_1_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "厘米换米除以100：",
+            "rect": [
+              64,
+              202.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "329.4\\text{厘米}=(329.4\\div100)\\text{米}",
+            "rect": [
+              106,
+              266.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "329.4厘米=(329.4÷100)米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "=3.294\\text{米}",
+            "rect": [
+              106,
+              330.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "_equals": {
+              "type": "math",
+              "tex": "=",
+              "points": 32,
+              "color": "C00000",
+              "ast": {
+                "t": "seq",
+                "items": [
+                  {
+                    "t": "text",
+                    "v": "="
+                  }
+                ]
+              },
+              "min_scale": 0.55
+            },
+            "_rhs": {
+              "type": "math",
+              "tex": "3.294\\text{米}",
+              "points": 32,
+              "color": "C00000",
+              "ast": {
+                "t": "seq",
+                "items": [
+                  {
+                    "t": "text",
+                    "v": "3.294米"
+                  }
+                ]
+              },
+              "min_scale": 0.55
+            }
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p081_s10_b001_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s10_b001_1_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s10_b001_1_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s10_b001_1_p4"
+      },
+      {
+        "type": "move",
+        "name": "p081_s10_b002_2_p0",
+        "dx": 0,
+        "dy": 130
+      },
+      {
+        "type": "move",
+        "name": "p081_s10_b002_2_p1",
+        "dx": 0,
+        "dy": 130
+      },
+      {
+        "type": "move",
+        "name": "p081_s10_b002_2_p2",
+        "dx": 0,
+        "dy": 130
+      }
+    ],
+    "slide": 194
+  },
+  {
+    "volume": 5,
+    "ui_slide": 198,
+    "key": "p081_s11",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p081_s11_b001_1_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "先分成整数吨与小数吨：",
+            "rect": [
+              64,
+              202.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "275.09\\text{吨}=275\\text{吨}+0.09\\text{吨}",
+            "rect": [
+              106,
+              260.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "275.09吨=275吨+0.09吨"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "小数吨换成千克：",
+            "rect": [
+              64,
+              318.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "0.09\\text{吨}=(0.09\\times1000)\\text{千克}",
+            "rect": [
+              106,
+              376.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.09吨=(0.09×1000)千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "=90\\text{千克}",
+            "rect": [
+              106,
+              434.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "_equals": {
+              "type": "math",
+              "tex": "=",
+              "points": 32,
+              "color": "C00000",
+              "ast": {
+                "t": "seq",
+                "items": [
+                  {
+                    "t": "text",
+                    "v": "="
+                  }
+                ]
+              },
+              "min_scale": 0.55
+            },
+            "_rhs": {
+              "type": "math",
+              "tex": "90\\text{千克}",
+              "points": 32,
+              "color": "C00000",
+              "ast": {
+                "t": "seq",
+                "items": [
+                  {
+                    "t": "text",
+                    "v": "90千克"
+                  }
+                ]
+              },
+              "min_scale": 0.55
+            }
+          },
+          {
+            "type": "math",
+            "tex": "275.09\\text{吨}=275\\text{吨}90\\text{千克}",
+            "rect": [
+              106,
+              492.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "275.09吨=275吨90千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p081_s11_b001_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s11_b001_1_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s11_b001_1_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s11_b001_1_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s11_b001_1_p5"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s11_b001_1_p6"
+      },
+      {
+        "type": "blank",
+        "name": "p081_s11_b001_1_p7"
+      },
+      {
+        "type": "move",
+        "name": "p081_s11_b002_2_p0",
+        "dx": 0,
+        "dy": 280
+      },
+      {
+        "type": "move",
+        "name": "p081_s11_b002_2_p1",
+        "dx": 0,
+        "dy": 280
+      },
+      {
+        "type": "move",
+        "name": "p081_s11_b002_2_p2",
+        "dx": 0,
+        "dy": 280
+      },
+      {
+        "type": "move",
+        "name": "p081_s11_b002_2_p3",
+        "dx": 0,
+        "dy": 280
+      },
+      {
+        "type": "move",
+        "name": "p081_s11_b002_2_p4",
+        "dx": 0,
+        "dy": 280
+      }
+    ],
+    "slide": 196
+  },
+  {
+    "volume": 5,
+    "ui_slide": 223,
+    "key": "p082_s07",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p082_s07_b004_5_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "4\\text{厘米}=0.04\\text{米}",
+            "rect": [
+              106,
+              498.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "4厘米=0.04米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p082_s07_b004_5_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p082_s07_b004_5_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p082_s07_b004_5_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p082_s07_b004_5_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p082_s07_b004_5_p5"
+      },
+      {
+        "type": "math",
+        "name": "p082_s07_b004_6_p0",
+        "tex": "1.23-0.04=1.19\\text{(米)}",
+        "rect": [
+          106,
+          572.5,
+          1110,
+          58
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "1.23-0.04=1.19(米)"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "blank",
+        "name": "p082_s07_b004_6_p1"
+      }
+    ],
+    "slide": 221
+  },
+  {
+    "volume": 6,
+    "ui_slide": 28,
+    "key": "p093_s01",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p093_s01_b003_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "按进率先换算：",
+            "rect": [
+              64,
+              124.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "60\\text{米}=0.06\\text{千米}",
+            "rect": [
+              106,
+              186.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "60米=0.06千米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "7\\text{千米}60\\text{米}=(7+0.06)\\text{千米}=7.06\\text{千米}",
+            "rect": [
+              106,
+              248.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "7千米60米=(7+0.06)千米=7.06千米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "1\\text{平方米}=10000\\text{平方厘米}",
+            "rect": [
+              106,
+              310.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "1平方米=10000平方厘米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "800\\text{平方厘米}=(800\\div10000)\\text{平方米}=0.08\\text{平方米}",
+            "rect": [
+              106,
+              372.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "800平方厘米=(800÷10000)平方米=0.08平方米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "依次填7.06、0.08，原空后的单位不重复填写。",
+            "rect": [
+              64,
+              434.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_0_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_0_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_0_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_1_p0"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_1_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_1_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_2_p0"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_2_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s01_b003_2_p2"
+      }
+    ],
+    "slide": 28
+  },
+  {
+    "volume": 6,
+    "ui_slide": 31,
+    "key": "p093_s02",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p093_s02_b001_0_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "240960000\\text{公顷}=2.4096\\text{亿公顷}",
+            "rect": [
+              106,
+              124.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "240960000公顷=2.4096亿公顷"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "保留两位小数看千分位9，进1得2.41亿公顷。原题两个空后",
+            "rect": [
+              64,
+              188.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "都只印了“公顷”，因此应在空内分别填2.4096亿、2.41亿，",
+            "rect": [
+              64,
+              246.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "不能只填2.4096和2.41而丢掉“亿”。这里“亿”是数的数量级标",
+            "rect": [
+              64,
+              304.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "记，补入后与空后的“公顷”合成正确单位。",
+            "rect": [
+              64,
+              362.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_0_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_1_p0"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_1_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_2_p0"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_2_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_2_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_2_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_2_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_3_p0"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s02_b001_4_p0"
+      }
+    ],
+    "slide": 31
+  },
+  {
+    "volume": 6,
+    "ui_slide": 45,
+    "key": "p093_s06",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p093_s06_b001_2_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "白鸭比黑鸭重，先统一单位：",
+            "rect": [
+              64,
+              276.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "700\\text{克}=0.7\\text{千克}",
+            "rect": [
+              106,
+              334.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "700克=0.7千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p093_s06_b001_2_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p093_s06_b001_2_p2"
+      },
+      {
+        "type": "move",
+        "name": "p093_s06_b002_3",
+        "dx": 0,
+        "dy": 45.54666666666668
+      },
+      {
+        "type": "move",
+        "name": "p093_s06_b003_4_operator",
+        "dx": 0,
+        "dy": 42
+      },
+      {
+        "type": "move",
+        "name": "p093_s06_b003_4",
+        "dx": 0,
+        "dy": 42
+      },
+      {
+        "type": "move",
+        "name": "p093_s06_b004_5_operator",
+        "dx": 0,
+        "dy": 33
+      },
+      {
+        "type": "move",
+        "name": "p093_s06_b004_5",
+        "dx": 0,
+        "dy": 33
+      },
+      {
+        "type": "move",
+        "name": "p093_s06_b005_6_p0",
+        "dx": 0,
+        "dy": 33
+      }
+    ],
+    "slide": 45
+  },
+  {
+    "volume": 6,
+    "ui_slide": 154,
+    "key": "p097_s01",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p097_s01_b003_0_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "126339000\\text{亩}=1.26339\\text{亿亩}",
+            "rect": [
+              106,
+              124.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "126339000亩=1.26339亿亩"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "原题第一个空后只印“亩”，因此第一个空须填1.26339亿。保",
+            "rect": [
+              64,
+              188.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "留一位小数看百分位6，向十分位进1，约为1.3亿亩；第二个",
+            "rect": [
+              64,
+              246.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "空后已印“亿亩”，只填1.3。不能将前一个数写成1.26339亩",
+            "rect": [
+              64,
+              304.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "text",
+            "text": "，也不能在后一个空重复填“亿”。",
+            "rect": [
+              64,
+              362.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_0_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_1_p0"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_1_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_1_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_2_p0"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_2_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_2_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_3_p0"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_3_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_3_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p097_s01_b003_4_p0"
+      }
+    ],
+    "slide": 154
+  },
+  {
+    "volume": 6,
+    "ui_slide": 248,
+    "key": "p100_s03",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p100_s03_b007_6_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "0.04\\text{米}=4\\text{厘米}",
+            "rect": [
+              106,
+              540,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.04米=4厘米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "答：重叠部分长4厘米。",
+            "rect": [
+              64,
+              600,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ]
+      }
+    ],
+    "slide": 248
+  },
+  {
+    "volume": 6,
+    "ui_slide": 249,
+    "key": "p100_s03",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p100_s03_b013_6_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "0.04\\text{米}=4\\text{厘米}",
+            "rect": [
+              106,
+              540,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.04米=4厘米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "答：重叠部分长4厘米。",
+            "rect": [
+              64,
+              600,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ]
+      }
+    ],
+    "slide": 249
+  },
+  {
+    "volume": 6,
+    "ui_slide": 265,
+    "key": "p101_s03",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p101_s03_b003_5_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "\\text{（2）}\\quad7\\text{角}5\\text{分}=0.75\\text{元}",
+            "rect": [
+              64,
+              482,
+              1152,
+              43
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "（2）  7角5分=0.75元"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "0.75<0.8\\text{，填}<\\text{。}",
+            "rect": [
+              106,
+              525,
+              1110,
+              43
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.75<0.8，填<。"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b003_5_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b003_5_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b003_5_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b003_5_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b003_5_p5"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b003_5_p6"
+      },
+      {
+        "type": "rich",
+        "name": "p101_s03_b004_6_p0",
+        "rows": [
+          {
+            "type": "math",
+            "tex": "\\text{（3）}\\quad7\\text{米}2\\text{厘米}=7.02\\text{米}",
+            "rect": [
+              64,
+              568,
+              1152,
+              43
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "（3）  7米2厘米=7.02米"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "math",
+            "tex": "7.2>7.02\\text{，填}>\\text{。}",
+            "rect": [
+              106,
+              611,
+              1110,
+              43
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "7.2>7.02，填>。"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b004_6_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b004_6_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b004_6_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b004_6_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b004_6_p5"
+      },
+      {
+        "type": "blank",
+        "name": "p101_s03_b004_6_p6"
+      }
+    ],
+    "slide": 265
+  },
+  {
+    "volume": 6,
+    "ui_slide": 351,
+    "key": "p104_s02",
+    "ops": [
+      {
+        "type": "math",
+        "name": "p104_s02_b012_1_p0",
+        "tex": "4.68\\text{元}=468\\text{分}",
+        "rect": [
+          106,
+          195,
+          1110,
+          58
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "4.68元=468分"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "text",
+        "name": "p104_s02_b012_1_p1",
+        "text": "赠送双数：",
+        "rect": [
+          64,
+          270,
+          256,
+          58
+        ],
+        "points": 32
+      },
+      {
+        "type": "math",
+        "name": "p104_s02_b012_1_p2",
+        "tex": "12\\div(5+1)=2\\text{(双)}",
+        "rect": [
+          320,
+          270,
+          876,
+          58
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "12÷(5+1)=2(双)"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "move",
+        "name": "p104_s02_b012_1_p3",
+        "dx": 0,
+        "dy": 74
+      },
+      {
+        "type": "move",
+        "name": "p104_s02_b012_2_p0",
+        "dx": 0,
+        "dy": 74
+      }
+    ],
+    "slide": 351
+  },
+  {
+    "volume": 6,
+    "ui_slide": 366,
+    "key": "p105_s02",
+    "ops": [
+      {
+        "type": "math",
+        "name": "p105_s02_b002_4_p0",
+        "tex": "6\\text{千克}50\\text{克}=(6000+50)\\text{克}=6050\\text{克}",
+        "rect": [
+          64,
+          428.5,
+          1152,
+          58
+        ],
+        "points": 32,
+        "color": "C00000",
+        "ast": {
+          "t": "seq",
+          "items": [
+            {
+              "t": "text",
+              "v": "6千克50克=(6000+50)克=6050克"
+            }
+          ]
+        },
+        "min_scale": 0.55
+      },
+      {
+        "type": "blank",
+        "name": "p105_s02_b002_4_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p105_s02_b003_5_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p105_s02_b004_6_p1"
+      }
+    ],
+    "slide": 366
+  },
+  {
+    "volume": 6,
+    "ui_slide": 367,
+    "key": "p105_s02",
+    "ops": [
+      {
+        "type": "blank",
+        "name": "p105_s02_b005_0_p1"
+      }
+    ],
+    "slide": 367
+  },
+  {
+    "volume": 6,
+    "ui_slide": 390,
+    "key": "p106_s02",
+    "ops": [
+      {
+        "type": "rich",
+        "name": "p106_s02_b005_0_p0",
+        "rows": [
+          {
+            "type": "text",
+            "text": "13.8吨中的8在十分位，表示0.8吨。",
+            "rect": [
+              64,
+              124.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          },
+          {
+            "type": "math",
+            "tex": "0.8\\text{吨}=(0.8\\times1000)\\text{千克}=800\\text{千克}",
+            "rect": [
+              106,
+              198.5,
+              1110,
+              58
+            ],
+            "points": 32,
+            "color": "C00000",
+            "ast": {
+              "t": "seq",
+              "items": [
+                {
+                  "t": "text",
+                  "v": "0.8吨=(0.8×1000)千克=800千克"
+                }
+              ]
+            },
+            "min_scale": 0.55
+          },
+          {
+            "type": "text",
+            "text": "所以表示800千克，不是8千克或80千克。",
+            "rect": [
+              64,
+              272.5,
+              1152,
+              58
+            ],
+            "points": 32,
+            "color": "C00000"
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "name": "p106_s02_b005_0_p1"
+      },
+      {
+        "type": "blank",
+        "name": "p106_s02_b005_0_p2"
+      },
+      {
+        "type": "blank",
+        "name": "p106_s02_b005_0_p3"
+      },
+      {
+        "type": "blank",
+        "name": "p106_s02_b005_0_p4"
+      },
+      {
+        "type": "blank",
+        "name": "p106_s02_b005_1_p0"
+      },
+      {
+        "type": "move",
+        "name": "p106_s02_b006_2_p0",
+        "dx": 0,
+        "dy": 74
+      }
+    ],
+    "slide": 390
+  }
+]

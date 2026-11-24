@@ -1,0 +1,1 @@
+\begin{tikzpicture}[scale=.75]\foreach \x/\r in {0/1.4,5/2,10/2.5}{\begin{scope}[xshift=\x cm]\draw(0,0)--(4,0);\draw[dashed]({\r*cos(-50)},{\r*sin(-50)})arc[start angle=-50,end angle=50,radius=\r];\draw[dashed]({4+\r*cos(130)},{\r*sin(130)})arc[start angle=130,end angle=230,radius=\r];\end{scope}}\draw(10,0)--(12,1.5)--(14,0);\end{tikzpicture}

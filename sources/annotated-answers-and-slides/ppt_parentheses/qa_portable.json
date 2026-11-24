@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "actually_used_source_sets": 3,
+  "font_path": "fonts/",
+  "relative_font_path": true,
+  "compile_cwd": "project root",
+  "missing_characters": 0,
+  "overfull_warnings": 0,
+  "items": [
+    {
+      "stem": "simplify_2a3e6b5fe463f0d08c600f0c",
+      "tex": "(720\\times2)\\div(12+8)",
+      "tex_sha256": "8144a0b8005579557bd642b2753b68d7a9a75cc346024ebdca0c5b59681af3fa",
+      "compiled": true
+    },
+    {
+      "stem": "simplify_578b9113474d310e9b74f724",
+      "tex": "(720\\times2)\\div20",
+      "tex_sha256": "39309377d79d6b24a88aec8140a99b42ba9176e10bb99dffd782cdabe22c9386",
+      "compiled": true
+    },
+    {
+      "stem": "simplify_17015a24ecfa143ea92eb036",
+      "tex": "720\\times(2\\div2)\\div10",
+      "tex_sha256": "d1bc08e22fe5d491c78ba794479f472446513f050ab93e0b2355d9176f1a712d",
+      "compiled": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+\documentclass[border=3pt]{standalone}
+\usepackage{fontspec,xcolor,tikz,amsmath,amssymb}
+\setmainfont[Path=../../fonts/]{DroidSansFallback.ttf}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\small},b/.style={draw,minimum width=3.0cm,minimum height=.65cm,inner sep=3pt}]\node[b](a)at(1.9,0){{\color{red}平均每批\(10\)千克}};\node[b](b)at(0,-1.2){{\color{red}剩余\(40\)千克}};\node[b](c)at(3.8,-1.2){{\color{red}\(4\)批}};\node at(1.9,-1.2){$\div$};\draw(a.south)--(b.north);\draw(a.south)--(c.north);\node[b](d)at(0,-2.4){{\color{red}回收总量\(72\)千克}};\node[b](e)at(3.8,-2.4){{\color{red}已处理\(32\)千克}};\node at(1.9,-2.4){$-$};\draw(b.south)--(d.north);\draw(b.south)--(e.north);\node[b](f)at(0,-3.6){{\color{red}每班\(4\)千克}};\node[b](g)at(3.8,-3.6){{\color{red}\(18\)个班}};\node at(1.9,-3.6){$\times$};\draw(d.south)--(f.north);\draw(d.south)--(g.north);\node[above]at(1.9,.65){从问题开始分析};\end{tikzpicture}
+\end{document}

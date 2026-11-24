@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';
+import {FileBlob,PresentationFile} from '@oai/artifact-tool';
+const dir='/workspace/scratch/1facfb035d44/detail_work/followup_style/ppt';
+const src='/workspace/scratch/1facfb035d44/detail_work/deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx';
+const p=await PresentationFile.importPptx(await FileBlob.load(src));
+const s=await p.inspect({select:'$.slides[116,117,170,171]',include:['id','index','layout','elements.id','elements.name','elements.kind','elements.text','elements.position']});
+await fs.writeFile(dir+'/source_inspect.ndjson',s.ndjson);
+const layouts=await p.inspect({kind:'layout'});await fs.writeFile(dir+'/source_layouts.json',JSON.stringify(layouts));
+const masters=p.masters.items.map(x=>({id:x.id,name:x.name}));
+const out={slideCount:p.slides.items.length,masters,layouts:p.layouts.items.map(x=>({id:x.id,name:x.name,placeholders:x.placeholders.summary()})),scope:'Inspect only; the source and final authoring retain unchanged native timing by the OOXML patch.'};
+await fs.writeFile(dir+'/source_inspection_summary.json',JSON.stringify(out,null,2));
+console.log(JSON.stringify({slideCount:p.slides.items.length,masters:masters.length,sourceRead:true}));

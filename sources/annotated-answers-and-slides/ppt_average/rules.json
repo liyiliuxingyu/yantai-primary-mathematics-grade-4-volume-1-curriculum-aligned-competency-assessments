@@ -1,0 +1,4480 @@
+[
+  {
+    "volume": 5,
+    "slide": 1,
+    "ops": [
+      {
+        "type": "group_rows",
+        "name": "p073_s01_b001_4_p0",
+        "rows": [
+          "112+(7-7)\\div3",
+          "112+0\\div3",
+          "112+0",
+          "112\\text{（个）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          410,
+          650,
+          240
+        ],
+        "first_equals": false
+      }
+    ],
+    "key": "p073_s01"
+  },
+  {
+    "volume": 5,
+    "slide": 4,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p073_s02_b001_4_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_4_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_4_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_4_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_5_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_5_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_5_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_6_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_3_p0",
+        "text": "倒出的质量是两瓶质量差的一半。",
+        "points": 32,
+        "rect": [
+          64,
+          350,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p073_s02_b001_3_p1",
+        "rows": [
+          "(500-400)\\div2",
+          "100\\div2",
+          "50\\text{（克）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          425,
+          540,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_4_p0",
+        "text": "总质量不变，再求每瓶质量。",
+        "points": 32,
+        "rect": [
+          650,
+          350,
+          566,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p073_s02_b001_5_p3",
+        "rows": [
+          "(500+400)\\div2",
+          "900\\div2",
+          "450\\text{（克）}"
+        ],
+        "points": 32,
+        "rect": [
+          650,
+          425,
+          566,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_3_p0",
+        "text": "先求质量差的一半。",
+        "points": 32,
+        "rect": [
+          64,
+          350,
+          550,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s02_b001_4_p0",
+        "text": "再求相等时每瓶质量。",
+        "points": 32,
+        "rect": [
+          650,
+          350,
+          566,
+          58
+        ]
+      }
+    ],
+    "key": "p073_s02"
+  },
+  {
+    "volume": 5,
+    "slide": 13,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p073_s06_b002_3_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s06_b002_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s06_b002_4_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s06_b002_5_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s06_b002_5_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s06_b002_5_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p073_s06_b002_3_p1",
+        "rows": [
+          "(98+125+149)\\div31",
+          "(223+149)\\div31",
+          "372\\div31",
+          "12\\text{（部）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          350,
+          700,
+          240
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p073_s06_b002_4_p1",
+        "text": "五月有31天，\n除数应为31，\n不能除以三个旬。",
+        "points": 32,
+        "rect": [
+          850,
+          360,
+          360,
+          180
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s06_b003_6_p0",
+        "text": "填",
+        "points": 32,
+        "rect": [
+          64,
+          615,
+          46.7,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p073_s06_b003_6_p1",
+        "tex": "12",
+        "points": 32,
+        "rect": [
+          106.7,
+          615,
+          80,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p073_s06_b003_6_p2",
+        "text": "。",
+        "points": 32,
+        "rect": [
+          151.3,
+          615,
+          60,
+          58
+        ]
+      }
+    ],
+    "key": "p073_s06"
+  },
+  {
+    "volume": 5,
+    "slide": 40,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p074_s06_b002_0_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_0_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_1_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_1_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_2_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_2_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_2_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_3_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b002_0_p0",
+        "text": "第三条终点在平均线上，平均长度是14厘米。\n第二条多出的部分，正好补给第一条。",
+        "points": 32,
+        "rect": [
+          64,
+          124,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p074_s06_b002_1_p1",
+        "rows": [
+          "14-(20-14)",
+          "14-6",
+          "8\\text{（厘米）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          285,
+          1152,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p074_s06_b003_4_p0",
+        "text": "选A。",
+        "points": 32,
+        "rect": [
+          64,
+          500,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p074_s06"
+  },
+  {
+    "volume": 5,
+    "slide": 46,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p075_s01_b006_3",
+        "tex": "(500+480)\\div7",
+        "points": 32,
+        "rect": [
+          106,
+          330,
+          1110,
+          54
+        ]
+      }
+    ],
+    "key": "p075_s01"
+  },
+  {
+    "volume": 5,
+    "slide": 47,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p075_s01_b011_4_p0",
+        "text": "用加减运算的性质，把100与160、90减70分别括成一组。",
+        "points": 32,
+        "rect": [
+          64,
+          417.5,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s01_b011_3_p0",
+        "text": "的总量平均分给7份，再加到100厘米上。",
+        "points": 32,
+        "rect": [
+          64,
+          343.5,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p075_s01"
+  },
+  {
+    "volume": 5,
+    "slide": 48,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p075_s01_b012_0",
+        "tex": "100+[(70+30)+(20+140)+90-(30+40)]\\div7",
+        "points": 32,
+        "rect": [
+          106,
+          120,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p075_s01_b013_1",
+        "tex": "100+(100+160+90-70)\\div7",
+        "points": 32,
+        "rect": [
+          106,
+          185,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p075_s01_b014_2",
+        "rows": [
+          "100+[(100+160)+(90-70)]\\div7",
+          "100+(260+20)\\div7"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          250,
+          1152,
+          120
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p075_s01_b014_2_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          250,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p075_s01_b015_3",
+        "tex": "100+280\\div7",
+        "points": 32,
+        "rect": [
+          106,
+          380,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s01_b015_3_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          380,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p075_s01_b016_4",
+        "tex": "100+40",
+        "points": 32,
+        "rect": [
+          106,
+          445,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s01_b016_4_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          445,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p075_s01_b017_5",
+        "tex": "140\\text{（厘米）}",
+        "points": 32,
+        "rect": [
+          106,
+          510,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s01_b017_5_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          510,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s01_b018_6_operator",
+        "text": "依据：",
+        "points": 32,
+        "rect": [
+          64,
+          585,
+          140,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s01_b018_6",
+        "text": "加减运算性质，先把90减70括成一组。",
+        "points": 32,
+        "rect": [
+          220,
+          585,
+          996,
+          58
+        ]
+      }
+    ],
+    "key": "p075_s01"
+  },
+  {
+    "volume": 5,
+    "slide": 53,
+    "ops": [
+      {
+        "type": "group_rows",
+        "name": "p075_s03_b004_1",
+        "rows": [
+          "(720\\times2)\\div20",
+          "720\\times(2\\div2)\\div10",
+          "720\\times1\\div10",
+          "720\\div10"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          190,
+          1152,
+          216
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p075_s03_b005_2_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          420,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p075_s03_b005_2",
+        "tex": "72\\text{（米/分）}",
+        "points": 32,
+        "rect": [
+          106,
+          420,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s03_b006_3_p0",
+        "text": "答：来回平均每分钟走",
+        "points": 32,
+        "rect": [
+          64.0,
+          490,
+          430.6666666666667,
+          58.0
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p075_s03_b006_3_p1",
+        "tex": "72",
+        "points": 32,
+        "rect": [
+          490.6666666666667,
+          490,
+          41.64,
+          30.053333333333335
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s03_b006_3_p2",
+        "text": "米。",
+        "points": 32,
+        "rect": [
+          535.3066666666666,
+          490,
+          89.33333333333333,
+          58.0
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s03_parentheses_explanation",
+        "text": "先把总路程括成整体。\n简算用乘除性质，把20拆成2与10的积。",
+        "points": 32,
+        "rect": [
+          64,
+          560,
+          1152,
+          104
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s03_b006_3_p0",
+        "text": "答：来回平均每分钟走72米。",
+        "points": 32,
+        "rect": [
+          64,
+          490,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s03_b006_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s03_b006_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "key": "p075_s03"
+  },
+  {
+    "volume": 5,
+    "slide": 62,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p075_s05_b014_0",
+        "tex": "85\\times5\\div5",
+        "points": 32,
+        "rect": [
+          106,
+          120,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p075_s05_b015_1",
+        "rows": [
+          "85\\times(5\\div5)",
+          "85\\times1",
+          "85\\text{（分）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          190,
+          1152,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p075_s05_b016_2_operator",
+        "text": "依据：",
+        "points": 32,
+        "rect": [
+          64,
+          400,
+          140,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s05_b016_2",
+        "text": "利用乘除运算的性质，先算5除以5。",
+        "points": 32,
+        "rect": [
+          220,
+          400,
+          996,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p075_s05_b017_3_p0",
+        "text": "答：平均分是85分。",
+        "points": 32,
+        "rect": [
+          64,
+          490,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p075_s05"
+  },
+  {
+    "volume": 5,
+    "slide": 68,
+    "ops": [
+      {
+        "type": "group_rows",
+        "name": "p076_s01_b006_5",
+        "rows": [
+          "67+2+1",
+          "67+(2+1)",
+          "67+3"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          460,
+          1152,
+          150
+        ],
+        "first_equals": true
+      },
+      {
+        "type": "text",
+        "name": "p076_s01_b007_6_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          615,
+          34,
+          50
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p076_s01_b007_6",
+        "tex": "70\\text{（分）}",
+        "points": 32,
+        "rect": [
+          106,
+          615,
+          1110,
+          54
+        ]
+      }
+    ],
+    "key": "p076_s01"
+  },
+  {
+    "volume": 5,
+    "slide": 69,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p076_s01_b008_0_p0",
+        "text": "上表3号：以95分为基准移多补少。",
+        "points": 32,
+        "rect": [
+          64,
+          124,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p076_s01_b009_1",
+        "tex": "95+[(96-95)-(95-94)]\\div3",
+        "points": 32,
+        "rect": [
+          106,
+          195,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "group_rows",
+        "name": "p076_s01_b010_2",
+        "rows": [
+          "95+(1-1)\\div3",
+          "95+0\\div3",
+          "95+0"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          260,
+          1152,
+          180
+        ],
+        "first_equals": true
+      },
+      {
+        "type": "text",
+        "name": "p076_s01_b011_3_operator",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p076_s01_b011_3",
+        "text": "96多1分，94少1分，多、少抵消。",
+        "points": 32,
+        "rect": [
+          64,
+          530,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p076_s01_b012_4_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          455,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p076_s01_b012_4",
+        "tex": "95\\text{（分）}",
+        "points": 32,
+        "rect": [
+          106,
+          455,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p076_s01_b013_5_p0",
+        "text": "下表李老师给5号的评分见下一张。",
+        "points": 32,
+        "rect": [
+          64,
+          605,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p076_s01"
+  },
+  {
+    "volume": 5,
+    "slide": 88,
+    "ops": [
+      {
+        "type": "group_rows",
+        "name": "p077_s01_b001_3_p1",
+        "rows": [
+          "(16+15+20+18+14+19)\\div6",
+          "[(16+18)+(15+19)+(20+14)]\\div6",
+          "(34+34+34)\\div6",
+          "(34\\times3)\\div(3\\times2)"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          340,
+          1152,
+          240
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p077_s01_b001_4_p1",
+        "text": "三对各34块。接着利用乘除运算性质简算。",
+        "points": 32,
+        "rect": [
+          64,
+          600,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s01_b002_5_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s01_b002_5_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s01_b002_5_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s01_b001_4_p1",
+        "text": "三对各34块。",
+        "points": 32,
+        "rect": [
+          850,
+          540,
+          350,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s01_b002_5_p0",
+        "text": "接着利用乘除运算的性质简算。",
+        "points": 32,
+        "rect": [
+          64,
+          605,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p077_s01"
+  },
+  {
+    "volume": 5,
+    "slide": 90,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p077_s02_b001_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_3_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_3_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_4_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_4_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_5_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_5_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_5_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_6_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_6_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_6_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_6_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_6_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_3_p0",
+        "text": "先求上半年总销量，再求月平均销量。",
+        "points": 32,
+        "rect": [
+          64,
+          350,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p077_s02_b001_4_p0",
+        "rows": [
+          "237+145\\times3",
+          "237+435",
+          "672\\text{（台）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          425,
+          550,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_5_p0",
+        "text": "两个季度共3加3个月。",
+        "points": 32,
+        "rect": [
+          650,
+          350,
+          566,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p077_s02_b001_5_p3",
+        "rows": [
+          "672\\div(3+3)",
+          "672\\div6",
+          "112\\text{（台）}"
+        ],
+        "points": 32,
+        "rect": [
+          650,
+          425,
+          566,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p077_s02_b001_3_p0",
+        "text": "先求上半年总销量。",
+        "points": 32,
+        "rect": [
+          64,
+          350,
+          550,
+          58
+        ]
+      }
+    ],
+    "key": "p077_s02"
+  },
+  {
+    "volume": 5,
+    "slide": 100,
+    "ops": [
+      {
+        "type": "group_rows",
+        "name": "p077_s06_b003_3_p0",
+        "rows": [
+          "(156+154+151+159+160)\\div5",
+          "[(156+154)+(151+159)+160]\\div5",
+          "(310+310+160)\\div5"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          438,
+          760,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p077_s06_b003_2_p0",
+        "text": "A队：分组求总身高再平均。",
+        "points": 32,
+        "rect": [
+          64,
+          373.5,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s06_b003_3_p1",
+        "text": "两组都合为310厘米。",
+        "points": 32,
+        "rect": [
+          850,
+          438,
+          366,
+          116
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s06_b003_4_p0",
+        "text": "接着把三部分总身高合起来。",
+        "points": 32,
+        "rect": [
+          850,
+          555,
+          366,
+          116
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s06_b003_4_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s06_b003_4_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s06_b003_3_p1",
+        "text": "两组各310厘米。",
+        "points": 32,
+        "rect": [
+          850,
+          438,
+          366,
+          58
+        ]
+      }
+    ],
+    "key": "p077_s06"
+  },
+  {
+    "volume": 5,
+    "slide": 101,
+    "ops": [
+      {
+        "type": "group_rows",
+        "name": "p077_s06_b004_0_p1",
+        "rows": [
+          "155+(160-155)\\div5",
+          "155+5\\div5",
+          "155+1",
+          "156\\text{（厘米）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          340,
+          1152,
+          240
+        ],
+        "first_equals": false
+      }
+    ],
+    "key": "p077_s06"
+  },
+  {
+    "volume": 5,
+    "slide": 110,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p077_s08_b003_0_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_0_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_0_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_0_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_0_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_1_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_1_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_1_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_2_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_2_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_2_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_2_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_2_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_2_p6",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_3_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b003_0_p0",
+        "text": "交换后两队仍各5人，A队总身高增加5厘米，B队减少5厘米。",
+        "points": 32,
+        "rect": [
+          64,
+          124,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p077_s08_b003_1_p1",
+        "rows": [
+          "156+(159-154)\\div5",
+          "156+5\\div5",
+          "156+1",
+          "157\\text{（厘米）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          280,
+          555,
+          240
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "math",
+        "name": "p077_s08_b003_2_p1",
+        "rows": [
+          "157-(159-154)\\div5",
+          "157-5\\div5",
+          "157-1",
+          "156\\text{（厘米）}"
+        ],
+        "points": 32,
+        "rect": [
+          650,
+          280,
+          566,
+          240
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p077_s08_b004_4_p0",
+        "text": "157大于156，交换后A队平均身高高一些，填A。",
+        "points": 32,
+        "rect": [
+          64,
+          560,
+          1152,
+          116
+        ]
+      }
+    ],
+    "key": "p077_s08"
+  },
+  {
+    "volume": 5,
+    "slide": 121,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p078_s03_b001_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_3_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_3_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_4_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_4_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_4_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_4_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_4_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_5_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_5_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_5_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_5_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_5_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_3_p0",
+        "text": "其余两数都大于40，先求最大数的上界：",
+        "points": 32,
+        "rect": [
+          64,
+          345,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p078_s03_b001_4_p0",
+        "rows": [
+          "45\\times3-(40+40)",
+          "135-80",
+          "55"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          415,
+          600,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_5_p0",
+        "text": "最大数应不小于45，\n并且严格小于55。\n49符合，例如49、43、43。",
+        "points": 32,
+        "rect": [
+          730,
+          415,
+          480,
+          180
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b002_6_p0",
+        "text": "选C。",
+        "points": 32,
+        "rect": [
+          64,
+          615,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s03_b001_5_p0",
+        "text": "最大数应不小于45，\n并且严格小于55。\n49符合。\n例如49、43、43。",
+        "points": 32,
+        "rect": [
+          730,
+          415,
+          480,
+          240
+        ]
+      }
+    ],
+    "key": "p078_s03"
+  },
+  {
+    "volume": 5,
+    "slide": 131,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p078_s06_b001_0_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_0_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_0_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_1_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_1_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_1_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_2_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_2_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_2_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_2_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_2_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_0_p0",
+        "text": "94分是两项平均分，先还原两项总分，再扣除。",
+        "points": 32,
+        "rect": [
+          64,
+          124,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p078_s06_b001_2_p0",
+        "rows": [
+          "281-94\\times2",
+          "281-188",
+          "93\\text{（分）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          280,
+          1152,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b001_3_p0",
+        "text": "加入93分低于原平均94分，新平均应略低。",
+        "points": 32,
+        "rect": [
+          64,
+          500,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p078_s06_b002_4_p0",
+        "text": "选A。",
+        "points": 32,
+        "rect": [
+          64,
+          590,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p078_s06"
+  },
+  {
+    "volume": 5,
+    "slide": 385,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p089_s02_b001_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b001_4_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b001_5_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b001_5_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b001_3_p0",
+        "text": "简便法：把多出的10个平均补给2人。",
+        "points": 32,
+        "rect": [
+          64,
+          345,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p089_s02_b001_3_p1",
+        "rows": [
+          "150+(160-150)\\div2",
+          "150+10\\div2",
+          "150+5",
+          "155\\text{（个）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          415,
+          610,
+          240
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b001_4_p0",
+        "text": "另法：总次数除以2。",
+        "points": 32,
+        "rect": [
+          730,
+          345,
+          486,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p089_s02_b001_4_p1",
+        "rows": [
+          "(160+150)\\div2",
+          "310\\div2",
+          "155\\text{（个）}"
+        ],
+        "points": 32,
+        "rect": [
+          730,
+          415,
+          486,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b001_5_p0",
+        "text": "小涵再多跳10个，两人一样多。",
+        "points": 32,
+        "rect": [
+          730,
+          600,
+          486,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b002_6_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b002_6_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b002_6_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b002_6_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b002_6_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b001_5_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b002_6_p0",
+        "text": "依次填155、10。",
+        "points": 32,
+        "rect": [
+          730,
+          605,
+          486,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s02_b001_3_p0",
+        "text": "简便法：移多补少。",
+        "points": 32,
+        "rect": [
+          64,
+          345,
+          610,
+          58
+        ]
+      }
+    ],
+    "key": "p089_s02"
+  },
+  {
+    "volume": 5,
+    "slide": 387,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p089_s03_b001_1_p0",
+        "rows": [
+          "(12+8+7+13)\\div4",
+          "[(12+8)+(7+13)]\\div4",
+          "(20+20)\\div4",
+          "40\\div4",
+          "10"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          205,
+          1152,
+          300
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p089_s03_b001_1_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s03_b002_2_p0",
+        "text": "用加法结合律，凑成两个20。",
+        "points": 32,
+        "rect": [
+          64,
+          540,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s03_b002_2_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s03_b002_2_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "key": "p089_s03"
+  },
+  {
+    "volume": 5,
+    "slide": 389,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p089_s04_b001_2_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s04_b001_2_p0",
+        "text": "移多补少：先算5减3。",
+        "points": 32,
+        "rect": [
+          64,
+          275,
+          590,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p089_s04_b001_2_p1",
+        "rows": [
+          "20+(20-15)-(23-20)",
+          "20+5-3",
+          "20+(5-3)",
+          "20+2",
+          "22\\text{（本）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          345,
+          595,
+          300
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p089_s04_b001_2_p2",
+        "text": "另法：总量扣除已知两班。",
+        "points": 32,
+        "rect": [
+          730,
+          275,
+          486,
+          116
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p089_s04_b001_2_p3",
+        "rows": [
+          "20\\times3-(23+15)",
+          "60-38",
+          "22\\text{（本）}"
+        ],
+        "points": 32,
+        "rect": [
+          730,
+          405,
+          486,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p089_s04_b002_3_p0",
+        "text": "利用加减运算的性质。",
+        "points": 32,
+        "rect": [
+          730,
+          600,
+          486,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s04_b002_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s04_b002_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s04_b001_2_p2",
+        "text": "另法：总量法。",
+        "points": 32,
+        "rect": [
+          730,
+          275,
+          486,
+          58
+        ]
+      }
+    ],
+    "key": "p089_s04"
+  },
+  {
+    "volume": 5,
+    "slide": 393,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p089_s06_b001_2_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_2_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_2_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_2_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_3_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_3_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_3_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p6",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p7",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p8",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_5_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_5_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_5_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_5_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_5_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_2_p0",
+        "text": "平均每人次数＝两组总次数÷两组总人数。",
+        "points": 32,
+        "rect": [
+          64,
+          275,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p089_s06_b001_3_p0",
+        "rows": [
+          "(96+156)\\div(3+4)",
+          "252\\div7",
+          "36\\text{（个）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          355,
+          1152,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b001_4_p0",
+        "text": "两组人数不同，不能直接平均两个组的平均数。",
+        "points": 32,
+        "rect": [
+          64,
+          545,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b002_6_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b002_6_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b002_6_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s06_b002_6_p0",
+        "text": "填36。",
+        "points": 32,
+        "rect": [
+          64,
+          615,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p089_s06"
+  },
+  {
+    "volume": 5,
+    "slide": 396,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p089_s07_b002_0",
+        "tex": "96+(2-1-1)\\div5",
+        "points": 32,
+        "rect": [
+          106,
+          120,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p089_s07_b003_1",
+        "rows": [
+          "96+[2-(1+1)]\\div5",
+          "96+(2-2)\\div5"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          190,
+          1152,
+          120
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b003_1_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          190,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p089_s07_b004_2",
+        "rows": [
+          "96+0\\div5",
+          "96+0",
+          "96\\text{（分）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          330,
+          1152,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b004_2_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          330,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b005_3_p0",
+        "text": "98多2分，两个95各少1分，多、少抵消。\n连续减去两个数，等于减去它们的和。",
+        "points": 32,
+        "rect": [
+          64,
+          540,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b005_3_p1_simplify_rhs0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b005_3_p1_simplify_equals1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b005_3_p1_simplify_rhs1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b005_3_p1_simplify_equals2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b005_3_p1_simplify_rhs2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b006_6_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b006_6_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b006_6_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b005_3_p0",
+        "text": "98多2分，两个95各少1分，多、少抵消。\n连续减去两个数，等于减去它们的和。",
+        "points": 32,
+        "rect": [
+          700,
+          330,
+          510,
+          240
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p089_s07_b006_6_p0",
+        "text": "填96。下一张看总量法。",
+        "points": 32,
+        "rect": [
+          64,
+          595,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p089_s07"
+  },
+  {
+    "volume": 5,
+    "slide": 410,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p090_s02_b006_2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b007_3_operator",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b007_3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b008_4_operator",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b008_4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b006_2",
+        "text": "先求其他四项之和：",
+        "points": 32,
+        "rect": [
+          64,
+          275,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p090_s02_b007_3",
+        "rows": [
+          "73+81+87+95",
+          "(73+87)+(81+95)",
+          "160+176",
+          "336"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          355,
+          1152,
+          240
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b008_4",
+        "text": "用加法交换律、结合律分组。",
+        "points": 32,
+        "rect": [
+          64,
+          615,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p090_s02"
+  },
+  {
+    "volume": 5,
+    "slide": 411,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p090_s02_b009_0_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_1_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_1_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_1_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_1_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_1_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_1_p6",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_2_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_2_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_2_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_2_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_0_p0",
+        "text": "最小平均数：",
+        "points": 32,
+        "rect": [
+          64,
+          124,
+          550,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p090_s02_b009_0_p1",
+        "rows": [
+          "(336+81)\\div5",
+          "417\\div5",
+          "83.4\\text{（下）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          205,
+          550,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_0_p2",
+        "text": "最大平均数：",
+        "points": 32,
+        "rect": [
+          650,
+          124,
+          566,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p090_s02_b009_0_p3",
+        "rows": [
+          "(336+87)\\div5",
+          "423\\div5",
+          "84.6\\text{（下）}"
+        ],
+        "points": 32,
+        "rect": [
+          650,
+          205,
+          566,
+          180
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_1_p0",
+        "text": "平均数在83.4至84.6下之间，原选项均不符合。",
+        "points": 32,
+        "rect": [
+          64,
+          430,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s02_b009_2_p0",
+        "text": "题目未要求取整，不能把84.6约成85后选择。",
+        "points": 32,
+        "rect": [
+          64,
+          565,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p090_s02"
+  },
+  {
+    "volume": 5,
+    "slide": 414,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p090_s03_b005_0_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_0_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_1_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_1_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_1_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_1_p3",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_1_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_1_p5",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_1_p6",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_1_p7",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_2_p0",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_2_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_2_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_2_p4",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_3_p1",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_3_p2",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_0_p0",
+        "text": "平均数增加10，6个数的总和就增加60。\n只有一个数改动，从80扣去增加的总量。",
+        "points": 32,
+        "rect": [
+          64,
+          124,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p090_s03_b005_2_p3",
+        "rows": [
+          "80-(60-50)\\times6",
+          "80-10\\times6",
+          "80-60",
+          "20"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          285,
+          1152,
+          240
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p090_s03_b005_3_p0",
+        "text": "原数为20，原选项均不成立。",
+        "points": 32,
+        "rect": [
+          64,
+          575,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p090_s03"
+  },
+  {
+    "volume": 6,
+    "slide": 2,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p091_s01_b003_0",
+        "text": "方法一：分组求总分再平均",
+        "points": 32,
+        "rect": [
+          64,
+          120,
+          1152,
+          64
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b004_1_p0",
+        "text": "用加法结合律分成两组，再同时求两个和。",
+        "points": 32,
+        "rect": [
+          64,
+          195,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s01_b006_3",
+        "rows": [
+          "[(96+88)+(92+88)]\\div4",
+          "(184+180)\\div4"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          335,
+          1152,
+          120
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b006_3_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          335,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s01_b007_4",
+        "tex": "364\\div4",
+        "points": 32,
+        "rect": [
+          106,
+          465,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b007_4_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          465,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s01_b008_5",
+        "tex": "91\\text{（分）}",
+        "points": 32,
+        "rect": [
+          106,
+          530,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b008_5_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          530,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b009_6_p0",
+        "text": "答：按这组数据，平均成绩是91分。",
+        "points": 32,
+        "rect": [
+          64,
+          600,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p091_s01"
+  },
+  {
+    "volume": 6,
+    "slide": 5,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p091_s01_b020_1",
+        "rows": [
+          "[(96+88)+(82+18)]\\div4",
+          "(184+100)\\div4"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          190,
+          1152,
+          120
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b020_1_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          190,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s01_b021_2",
+        "tex": "284\\div4",
+        "points": 32,
+        "rect": [
+          106,
+          325,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b021_2_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          325,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s01_b022_3",
+        "tex": "71\\text{（分）}",
+        "points": 32,
+        "rect": [
+          106,
+          395,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b022_3_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          395,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s01_b023_4_p0",
+        "text": "答：仅按该备选读法，平均成绩是71分。\n仍须核清原题，不能代替前述条件。",
+        "points": 32,
+        "rect": [
+          64,
+          480,
+          1152,
+          116
+        ]
+      }
+    ],
+    "key": "p091_s01"
+  },
+  {
+    "volume": 6,
+    "slide": 15,
+    "ops": [
+      {
+        "type": "text",
+        "name": "p091_s04_b002_0",
+        "text": "方法一：先合并甲、乙的量",
+        "points": 32,
+        "rect": [
+          64,
+          120,
+          1152,
+          64
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b003_1_p0",
+        "text": "用减法性质合并减数，乘法与括号内加法同时算。",
+        "points": 32,
+        "rect": [
+          64,
+          195,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s04_b004_2",
+        "tex": "2500\\times3-(2700+2200)",
+        "points": 32,
+        "rect": [
+          106,
+          340,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s04_b005_3",
+        "tex": "7500-4900",
+        "points": 32,
+        "rect": [
+          106,
+          410,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b005_3_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          410,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b006_4_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          480,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s04_b006_4",
+        "tex": "2600\\text{（毫升）}",
+        "points": 32,
+        "rect": [
+          106,
+          480,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b007_5_operator",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b007_5",
+        "text": "减少中间的大数连减，计算更简便。",
+        "points": 32,
+        "rect": [
+          64,
+          550,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b008_6_p0",
+        "text": "答：若平均数是2500毫升，丙为2600毫升。",
+        "points": 32,
+        "rect": [
+          64,
+          615,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p091_s04"
+  },
+  {
+    "volume": 6,
+    "slide": 16,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p091_s04_b011_3",
+        "tex": "2500+[(2500-2200)-(2700-2500)]",
+        "points": 32,
+        "rect": [
+          106,
+          340,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s04_b012_4",
+        "tex": "2500+(300-200)",
+        "points": 32,
+        "rect": [
+          106,
+          410,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b012_4_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          410,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s04_b013_5",
+        "tex": "2500+100",
+        "points": 32,
+        "rect": [
+          106,
+          480,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b013_5_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          480,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s04_b014_6",
+        "tex": "2600\\text{（毫升）}",
+        "points": 32,
+        "rect": [
+          106,
+          550,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b014_6_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          550,
+          34,
+          54
+        ]
+      }
+    ],
+    "key": "p091_s04"
+  },
+  {
+    "volume": 6,
+    "slide": 17,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p091_s04_b017_2",
+        "tex": "3000\\times3-(2700+2200)",
+        "points": 32,
+        "rect": [
+          106,
+          275,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s04_b018_3",
+        "tex": "9000-4900",
+        "points": 32,
+        "rect": [
+          106,
+          345,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b018_3_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          345,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p091_s04_b019_4",
+        "tex": "4100\\text{（毫升）}",
+        "points": 32,
+        "rect": [
+          106,
+          415,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b019_4_operator",
+        "text": "=",
+        "points": 32,
+        "rect": [
+          64,
+          415,
+          34,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b020_5_operator",
+        "text": "",
+        "points": 32,
+        "rect": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p091_s04_b020_5",
+        "text": "答：若平均数是3000毫升，丙为4100毫升。\n须核清原题后，才能确定唯一答案。",
+        "points": 32,
+        "rect": [
+          64,
+          500,
+          1152,
+          116
+        ]
+      }
+    ],
+    "key": "p091_s04"
+  },
+  {
+    "volume": 6,
+    "slide": 200,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p098_s07_b005_2_p0",
+        "rows": [
+          "32\\div8",
+          "4\\text{（分）}"
+        ],
+        "points": 32,
+        "rect": [
+          64,
+          275,
+          1152,
+          120
+        ],
+        "first_equals": false
+      },
+      {
+        "type": "text",
+        "name": "p098_s07_b005_2_p1",
+        "text": "原图D项清楚写“增加1分”，不能改题。",
+        "points": 32,
+        "rect": [
+          64,
+          425,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p098_s07_b005_3_p0",
+        "text": "A、B混淆总数与平均数的变化，C方向错误，D数值错误。",
+        "points": 32,
+        "rect": [
+          64,
+          500,
+          1152,
+          116
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p098_s07_b005_4_p0",
+        "text": "原选项没有正确答案。",
+        "points": 32,
+        "rect": [
+          64,
+          625,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p098_s07"
+  },
+  {
+    "volume": 6,
+    "slide": 449,
+    "ops": [
+      {
+        "type": "math",
+        "name": "p108_s02_b003_4",
+        "tex": "(40\\times11)\\div(11-3)",
+        "points": 32,
+        "rect": [
+          106,
+          340,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p108_s02_b004_5_simplify_rhs0",
+        "tex": "(40\\times11)\\div8",
+        "points": 32,
+        "rect": [
+          106,
+          408,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "math",
+        "name": "p108_s02_b004_5_simplify_rhs1",
+        "tex": "(40\\div8)\\times11",
+        "points": 32,
+        "rect": [
+          106,
+          466,
+          1110,
+          54
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p108_s02_b002_2_p0",
+        "text": "利用乘积除以数的性质，先用40除以8，再乘11。",
+        "points": 32,
+        "rect": [
+          64,
+          272,
+          1152,
+          58
+        ]
+      },
+      {
+        "type": "text",
+        "name": "p108_s02_b002_1_p0",
+        "text": "提前3天，实际用8天。",
+        "points": 32,
+        "rect": [
+          64,
+          198,
+          1152,
+          58
+        ]
+      }
+    ],
+    "key": "p108_s02"
+  }
+]

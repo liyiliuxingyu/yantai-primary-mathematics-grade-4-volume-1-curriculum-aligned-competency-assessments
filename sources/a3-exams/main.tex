@@ -1,0 +1,298 @@
+\PassOptionsToPackage{no-math}{fontspec}
+\documentclass[openany,oneside,fontset=fandol]{ctexbook}
+\usepackage[a3paper,landscape,margin=0pt]{geometry}
+\XeTeXgenerateactualtext=1
+\usepackage{amsmath,amssymb,array,tabularx,graphicx,needspace,tikz}
+\usetikzlibrary{calc,angles,quotes,arrows.meta,decorations.pathreplacing,
+  decorations.pathmorphing,decorations.markings,patterns,positioning,fit,
+  backgrounds,matrix,intersections,shapes.geometric}
+\setCJKmainfont[BoldFont=FandolHei-Bold.otf,ItalicFont=FandolKai-Regular.otf]{FandolKai-Regular.otf}
+\usepackage{colortbl}
+\usepackage{newunicodechar}
+\newfontface\BookSigns[Path=assets/,BoldFont=DejaVuSans-symbols.ttf]{DejaVuSans-symbols.ttf}
+\newunicodechar{①}{\ifmmode\text{\BookSigns\symbol{9312}}\else{\BookSigns\symbol{9312}}\fi}
+\newunicodechar{②}{\ifmmode\text{\BookSigns\symbol{9313}}\else{\BookSigns\symbol{9313}}\fi}
+\newunicodechar{③}{\ifmmode\text{\BookSigns\symbol{9314}}\else{\BookSigns\symbol{9314}}\fi}
+\newunicodechar{④}{\ifmmode\text{\BookSigns\symbol{9315}}\else{\BookSigns\symbol{9315}}\fi}
+\newunicodechar{⑤}{\ifmmode\text{\BookSigns\symbol{9316}}\else{\BookSigns\symbol{9316}}\fi}
+\newunicodechar{⑥}{\ifmmode\text{\BookSigns\symbol{9317}}\else{\BookSigns\symbol{9317}}\fi}
+\newunicodechar{⑦}{\ifmmode\text{\BookSigns\symbol{9318}}\else{\BookSigns\symbol{9318}}\fi}
+\newunicodechar{⑧}{\ifmmode\text{\BookSigns\symbol{9319}}\else{\BookSigns\symbol{9319}}\fi}
+\newunicodechar{⑨}{\ifmmode\text{\BookSigns\symbol{9320}}\else{\BookSigns\symbol{9320}}\fi}
+\newunicodechar{⑩}{\ifmmode\text{\BookSigns\symbol{9321}}\else{\BookSigns\symbol{9321}}\fi}
+\newunicodechar{⑪}{\ifmmode\text{\BookSigns\symbol{9322}}\else{\BookSigns\symbol{9322}}\fi}
+\newunicodechar{⑫}{\ifmmode\text{\BookSigns\symbol{9323}}\else{\BookSigns\symbol{9323}}\fi}
+\newunicodechar{⑬}{\ifmmode\text{\BookSigns\symbol{9324}}\else{\BookSigns\symbol{9324}}\fi}
+\newunicodechar{⑭}{\ifmmode\text{\BookSigns\symbol{9325}}\else{\BookSigns\symbol{9325}}\fi}
+\newunicodechar{⑮}{\ifmmode\text{\BookSigns\symbol{9326}}\else{\BookSigns\symbol{9326}}\fi}
+\newunicodechar{⑯}{\ifmmode\text{\BookSigns\symbol{9327}}\else{\BookSigns\symbol{9327}}\fi}
+\newunicodechar{⑰}{\ifmmode\text{\BookSigns\symbol{9328}}\else{\BookSigns\symbol{9328}}\fi}
+\newunicodechar{⑱}{\ifmmode\text{\BookSigns\symbol{9329}}\else{\BookSigns\symbol{9329}}\fi}
+\newunicodechar{⑲}{\ifmmode\text{\BookSigns\symbol{9330}}\else{\BookSigns\symbol{9330}}\fi}
+\newunicodechar{⑳}{\ifmmode\text{\BookSigns\symbol{9331}}\else{\BookSigns\symbol{9331}}\fi}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{−}{\ensuremath{-}}
+\newunicodechar{≤}{\ensuremath{\le}}
+\newunicodechar{≥}{\ensuremath{\ge}}
+\newunicodechar{≠}{\ensuremath{\ne}}
+\newunicodechar{→}{\ensuremath{\to}}
+\newunicodechar{✓}{\ensuremath{\checkmark}}
+\newunicodechar{△}{\ensuremath{\triangle}}
+\newunicodechar{○}{\ensuremath{\bigcirc}}
+\newunicodechar{★}{\ifmmode\text{\BookSigns\symbol{9733}}\else{\BookSigns\symbol{9733}}\fi}
+\newunicodechar{☆}{\ifmmode\text{\BookSigns\symbol{9734}}\else{\BookSigns\symbol{9734}}\fi}
+\newunicodechar{′}{\ensuremath{{}^{\prime}}}
+\newunicodechar{●}{\ifmmode\text{\BookSigns\symbol{9679}}\else{\BookSigns\symbol{9679}}\fi}
+\newunicodechar{▲}{\ifmmode\text{\BookSigns\symbol{9650}}\else{\BookSigns\symbol{9650}}\fi}
+\usepackage[unicode,hidelinks]{hyperref}
+
+
+\newlength{\ExamWorkUnit}
+\setlength{\ExamWorkUnit}{13.5pt}
+\newlength{\ExamQuestionGap}
+\setlength{\ExamQuestionGap}{3.5pt}
+\newlength{\ExamOptionWidth}
+\newlength{\ExamOptionMax}
+\newsavebox{\ExamPanelBox}
+\newsavebox{\BookFigureBox}
+\newcommand{\BookBlank}{\rule{4.1em}{.36pt}}
+\newcommand{\ExamQuestion}[2]{%
+  \par\addvspace{\ExamQuestionGap}\noindent
+  \textbf{#1}\hspace{.45em}\ignorespaces}
+\newcommand{\ExamGroup}[1]{%
+  \par\addvspace{5bp}\noindent{\heiti\bfseries #1}\par\nobreak\vspace{3bp}}
+\newcommand{\ExamWork}[1]{%
+  \par\kern#1\ExamWorkUnit\relax}
+\newcommand{\ExamOralCell}[1]{%
+  \makebox[.33\linewidth][l]{\(\displaystyle #1\)\kern.35em\rule{3em}{.35pt}}}
+\newcommand{\ExamOptionMeasure}[1]{%
+  \settowidth{\ExamOptionWidth}{#1\hspace{.6em}}%
+  \ifdim\ExamOptionWidth>\ExamOptionMax
+    \setlength{\ExamOptionMax}{\ExamOptionWidth}%
+  \fi}
+\newcommand{\ExamOptions}[4]{%
+  \par\begingroup
+  \setlength{\ExamOptionMax}{0pt}%
+  \ExamOptionMeasure{#1}\ExamOptionMeasure{#2}%
+  \ExamOptionMeasure{#3}\ExamOptionMeasure{#4}%
+  \if\relax\detokenize{#4}\relax
+    \ifdim\ExamOptionMax<.328\linewidth
+      \noindent\makebox[.333\linewidth][l]{#1}\makebox[.333\linewidth][l]{#2}\makebox[.333\linewidth][l]{#3}\par
+    \else
+      \noindent#1\par\noindent#2\par\noindent#3\par
+    \fi
+  \else
+    \ifdim\ExamOptionMax<.247\linewidth
+      \noindent\makebox[.25\linewidth][l]{#1}\makebox[.25\linewidth][l]{#2}%
+      \makebox[.25\linewidth][l]{#3}\makebox[.25\linewidth][l]{#4}\par
+    \else\ifdim\ExamOptionMax<.49\linewidth
+      \noindent\makebox[.5\linewidth][l]{#1}\makebox[.5\linewidth][l]{#2}\par
+      \noindent\makebox[.5\linewidth][l]{#3}\makebox[.5\linewidth][l]{#4}\par
+    \else
+      \noindent#1\par\noindent#2\par\noindent#3\par\noindent#4\par
+    \fi\fi
+  \fi\endgroup}
+\newcommand{\ExamTile}[2]{%
+  \begin{minipage}[t]{#1\linewidth}\vspace{0pt}#2\end{minipage}}
+
+\hypersetup{pdfdisplaydoctitle=true,pdfprintscaling=None,pdfduplex=DuplexFlipShortEdge,pdftitle={小学同步素养四年级上册数学 · A3 试题版},
+  pdfsubject={A3 原卷页序和版式，LaTeX 正文和 TikZ 题图}}
+\pagestyle{empty}
+\setlength{\topskip}{0pt}
+\setlength{\unitlength}{1bp}
+\setlength{\parindent}{0pt}
+\setlength{\emergencystretch}{2em}
+\setlength{\ExamQuestionGap}{2.7bp}
+\setlength{\ExamWorkUnit}{9bp}
+\newsavebox{\NativeSlotBox}
+\newsavebox{\NativeImageBox}
+\newcount\NativeSlotNumber
+\newlength{\NativeWidth}
+\newlength{\NativeFigureHeight}
+\newcommand{\NativeLeft}{83}
+\newcommand{\NativePageNumber}{1}
+\newcommand{\NativeSetPlacement}[4]{%
+  \expandafter\def\csname native-y-#1-#2\endcsname{#3}%
+  \expandafter\def\csname native-scale-#1-#2\endcsname{#4}}
+\InputIfFileExists{positions.tex}{}{}
+\newcommand{\NativePlace}[3]{\put(#1,-#2){\makebox(0,0)[lt]{#3}}}
+\newcommand{\NativeCenter}[3]{\put(#1,-#2){\makebox(0,0)[t]{#3}}}
+\newcommand{\NativeSlot}[3]{%
+  \advance\NativeSlotNumber by 1\relax
+  \edef\NativeSlotKey{\NativePageNumber-\the\NativeSlotNumber}%
+  \ifcsname native-y-\NativeSlotKey\endcsname
+    \edef\NativeY{\csname native-y-\NativeSlotKey\endcsname}%
+    \edef\NativeScale{\csname native-scale-\NativeSlotKey\endcsname}%
+  \else
+    \def\NativeY{#1}\def\NativeScale{1}%
+  \fi
+  \sbox{\NativeSlotBox}{%
+    \begin{minipage}[t]{\NativeWidth}%
+      \linespread{1}\fontsize{12.6bp}{18.1bp}\selectfont
+      \renewcommand{\small}{\fontsize{10.9bp}{14bp}\selectfont}%
+      \renewcommand{\footnotesize}{\fontsize{9.6bp}{12.2bp}\selectfont}%
+      \renewcommand{\arraystretch}{1.22}%
+      \setlength{\arrayrulewidth}{.42bp}%
+      \ifnum\NativePageNumber<3 \fontsize{12.7bp}{23bp}\selectfont\fi
+      \setlength{\parindent}{0pt}%
+      \setlength{\NativeFigureHeight}{#2bp}%
+      \renewcommand{\Needspace}[1]{}%
+      #3\par
+    \end{minipage}}%
+  \typeout{NATIVE-MEASURE \NativeSlotKey: \the\dimexpr\ht\NativeSlotBox+\dp\NativeSlotBox\relax}%
+  \NativePlace{\NativeLeft}{\NativeY}{\scalebox{\NativeScale}{\usebox{\NativeSlotBox}}}%
+}
+\newcommand{\NativeImage}[1]{%
+  \sbox{\BookFigureBox}{\color{black}\input{#1}}%
+  \sbox{\NativeImageBox}{%
+    \ifdim\wd\BookFigureBox>\linewidth
+      \resizebox{\linewidth}{!}{\usebox{\BookFigureBox}}%
+    \else\usebox{\BookFigureBox}\fi}%
+  \ifdim\dimexpr\ht\NativeImageBox+\dp\NativeImageBox\relax>\NativeFigureHeight
+    \resizebox*{!}{\NativeFigureHeight}{\usebox{\NativeImageBox}}%
+  \else\usebox{\NativeImageBox}\fi}
+\newcommand{\BookFigure}[1]{%
+  \par\vspace{2bp}\noindent\makebox[\linewidth][c]{\NativeImage{#1}}\par\vspace{1bp}}
+\newcommand{\NativeOralCell}[1]{%
+  \makebox[.249\linewidth][l]{\(\displaystyle #1\)\kern.3em\rule{1.9em}{.35pt}}}
+\newcommand{\NativeOralCellFive}[1]{%
+  \makebox[.199\linewidth][l]{\(\displaystyle #1\)\kern.3em\rule{1.6em}{.35pt}}}
+\newcommand{\NativeTitle}[7]{%
+  \if\relax\detokenize{#3}\relax\def\PrintedTitleY{93}\else\def\PrintedTitleY{77}\fi%
+  \NativeCenter{324}{\PrintedTitleY}{{\heiti\bfseries\fontsize{21bp}{26bp}\selectfont #2}}%
+  \if\relax\detokenize{#3}\relax\else
+    \NativeCenter{324}{110}{{\kaishu\fontsize{13.2bp}{17bp}\selectfont #3}}%
+  \fi
+  \NativeCenter{324}{142}{{\fontsize{11.3bp}{15bp}\selectfont
+    时间：\(#4\) 分钟\qquad 满分：\(100\) 分\qquad 知识点：\(98\) 分\qquad 卷面：\(2\) 分}}%
+  \NativeCenter{324}{172}{%
+    \begingroup\fontsize{11bp}{14bp}\selectfont\setlength{\tabcolsep}{0bp}%
+    \setlength{\arrayrulewidth}{.42bp}%
+    \begin{tabular}{|>{\centering\arraybackslash}m{47bp}|*{#5}{>{\centering\arraybackslash}m{43bp}|}>{\centering\arraybackslash}m{52bp}|}\hline
+      \rowcolor[gray]{.95}\rule[-5bp]{0pt}{20bp}题号 & #6 & 总分\\\hline
+      \rule[-7bp]{0pt}{24bp}得分 & #7 & \\\hline
+    \end{tabular}\endgroup}%
+  \NativeCenter{505}{26}{%
+    \begingroup\fontsize{9.6bp}{12bp}\selectfont\setlength{\tabcolsep}{4bp}%
+    \setlength{\arrayrulewidth}{.36bp}%
+    \begin{tabular}{|c|c|}\hline
+      \rowcolor[gray]{.95}\rule[-3bp]{0pt}{15bp}书写等级 & 综合评价\\\hline
+      \rule[-3bp]{0pt}{16bp} & \\\hline
+    \end{tabular}\endgroup}}
+\newcommand{\NativeSeal}[1]{%
+  \NativePlace{#1}{38}{%
+    \begin{tikzpicture}[x=1bp,y=-1bp]
+      \path[use as bounding box] (-7,0) rectangle (7,744);
+      \draw[black!54,dash pattern=on 2.4bp off 2.4bp,line width=.42bp] (0,0)--(0,744);
+      \foreach \y/\t in {235/装,372/订,509/线}{
+        \node[fill=white,inner xsep=1bp,inner ysep=4bp,text=black!84,font=\kaishu\fontsize{9bp}{11bp}\selectfont] at (0,\y){\t};
+      }
+    \end{tikzpicture}}}
+\newcommand{\NativeIdentity}{%
+  \NativeCenter{36}{193}{%
+    \rotatebox{90}{\kaishu\fontsize{11bp}{14bp}\selectfont
+      学校\rule{5.8em}{.38pt}\quad 班级\rule{5.8em}{.38pt}\quad
+      姓名\rule{5.8em}{.38pt}\quad 学号\rule{5.8em}{.38pt}}}}
+\newcommand{\NativeLeaf}[5]{%
+  \begingroup
+  \def\NativePageNumber{#1}\def\NativeLeft{#3}%
+  \setlength{\NativeWidth}{#4bp}\NativeSlotNumber=0\relax
+  \put(#2,0){\begin{picture}(0,0)
+    \ifcsname native-title-#1\endcsname
+      \NativePlace{#3}{30}{\pdfbookmark[0]{\csname native-title-#1\endcsname}{set-#1}}%
+      \NativeSeal{56}\NativeIdentity
+    \fi
+    \ifnum\numexpr#1-4*(#1/4)\relax=0\relax\NativeSeal{538}\fi
+    \NativePlace{#3}{32}{\pdfbookmark[1]{原书第#1页}{orig-#1}}%
+    \NativeCenter{#5}{809}{{\color{black!58}\rule[2.5bp]{10bp}{.38bp}}\hspace{5.4bp}{\fontsize{10.2bp}{12bp}\selectfont\(#1\)}\hspace{5.4bp}{\color{black!58}\rule[2.5bp]{10bp}{.38bp}}}%
+    \input{panels/p#1.tex}%
+  \end{picture}}%
+  \endgroup}
+\newcommand{\NativeSpread}[2]{%
+  \noindent\begin{picture}(0,0)%
+    \put(595.2756,-20){\color{black!43}\rule{.4bp}{9bp}}%
+    \put(595.2756,-830){\color{black!43}\rule{.4bp}{9bp}}%
+    #1#2\end{picture}\par\clearpage}
+\expandafter\def\csname native-title-1\endcsname{第一单元素养评价（A）}
+\expandafter\def\csname native-title-5\endcsname{第一单元素养评价（B）}
+\expandafter\def\csname native-title-9\endcsname{第二单元素养评价（A）}
+\expandafter\def\csname native-title-13\endcsname{第二单元素养评价（B）}
+\expandafter\def\csname native-title-17\endcsname{第三单元素养评价（A）}
+\expandafter\def\csname native-title-21\endcsname{第三单元素养评价（B）}
+\expandafter\def\csname native-title-25\endcsname{第四单元素养评价（A）}
+\expandafter\def\csname native-title-29\endcsname{第四单元素养评价（B）}
+\expandafter\def\csname native-title-33\endcsname{第五单元素养评价（A）}
+\expandafter\def\csname native-title-37\endcsname{第五单元素养评价（B）}
+\expandafter\def\csname native-title-41\endcsname{期中综合素养评价（一）}
+\expandafter\def\csname native-title-45\endcsname{期中综合素养评价（二）}
+\expandafter\def\csname native-title-49\endcsname{第六单元素养评价（A）}
+\expandafter\def\csname native-title-53\endcsname{第六单元素养评价（B）}
+\expandafter\def\csname native-title-57\endcsname{第七单元素养评价（A）}
+\expandafter\def\csname native-title-61\endcsname{第七单元素养评价（B）}
+\expandafter\def\csname native-title-65\endcsname{第八单元素养评价（A）}
+\expandafter\def\csname native-title-69\endcsname{第八单元素养评价（B）}
+\expandafter\def\csname native-title-73\endcsname{第九单元素养评价（A）}
+\expandafter\def\csname native-title-77\endcsname{第九单元素养评价（B）}
+\expandafter\def\csname native-title-81\endcsname{总复习（一）}
+\expandafter\def\csname native-title-85\endcsname{总复习（二）}
+\expandafter\def\csname native-title-89\endcsname{总复习（三）}
+\expandafter\def\csname native-title-93\endcsname{期末综合素养评价（一）}
+\expandafter\def\csname native-title-97\endcsname{期末综合素养评价（二）}
+\expandafter\def\csname native-title-101\endcsname{期末综合素养评价（三）}
+\expandafter\def\csname native-title-105\endcsname{期末综合素养评价（四）}
+\begin{document}
+\NativeSpread{\NativeLeaf{1}{0}{87}{482}{324}}{\NativeLeaf{2}{595.2756}{62}{477}{300}}
+\NativeSpread{\NativeLeaf{3}{0}{63}{470}{298}}{\NativeLeaf{4}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{5}{0}{83}{479}{324}}{\NativeLeaf{6}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{7}{0}{63}{470}{298}}{\NativeLeaf{8}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{9}{0}{83}{479}{324}}{\NativeLeaf{10}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{11}{0}{63}{470}{298}}{\NativeLeaf{12}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{13}{0}{83}{479}{324}}{\NativeLeaf{14}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{15}{0}{63}{470}{298}}{\NativeLeaf{16}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{17}{0}{83}{479}{324}}{\NativeLeaf{18}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{19}{0}{63}{470}{298}}{\NativeLeaf{20}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{21}{0}{83}{479}{324}}{\NativeLeaf{22}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{23}{0}{63}{470}{298}}{\NativeLeaf{24}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{25}{0}{83}{479}{324}}{\NativeLeaf{26}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{27}{0}{63}{470}{298}}{\NativeLeaf{28}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{29}{0}{83}{479}{324}}{\NativeLeaf{30}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{31}{0}{63}{470}{298}}{\NativeLeaf{32}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{33}{0}{83}{479}{324}}{\NativeLeaf{34}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{35}{0}{63}{470}{298}}{\NativeLeaf{36}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{37}{0}{83}{479}{324}}{\NativeLeaf{38}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{39}{0}{63}{470}{298}}{\NativeLeaf{40}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{41}{0}{83}{479}{324}}{\NativeLeaf{42}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{43}{0}{63}{470}{298}}{\NativeLeaf{44}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{45}{0}{83}{479}{324}}{\NativeLeaf{46}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{47}{0}{63}{470}{298}}{\NativeLeaf{48}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{49}{0}{83}{479}{324}}{\NativeLeaf{50}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{51}{0}{63}{470}{298}}{\NativeLeaf{52}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{53}{0}{83}{479}{324}}{\NativeLeaf{54}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{55}{0}{63}{470}{298}}{\NativeLeaf{56}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{57}{0}{83}{479}{324}}{\NativeLeaf{58}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{59}{0}{63}{470}{298}}{\NativeLeaf{60}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{61}{0}{83}{479}{324}}{\NativeLeaf{62}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{63}{0}{63}{470}{298}}{\NativeLeaf{64}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{65}{0}{83}{479}{324}}{\NativeLeaf{66}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{67}{0}{63}{470}{298}}{\NativeLeaf{68}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{69}{0}{83}{479}{324}}{\NativeLeaf{70}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{71}{0}{63}{470}{298}}{\NativeLeaf{72}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{73}{0}{83}{479}{324}}{\NativeLeaf{74}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{75}{0}{63}{470}{298}}{\NativeLeaf{76}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{77}{0}{83}{479}{324}}{\NativeLeaf{78}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{79}{0}{63}{470}{298}}{\NativeLeaf{80}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{81}{0}{83}{479}{324}}{\NativeLeaf{82}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{83}{0}{63}{470}{298}}{\NativeLeaf{84}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{85}{0}{83}{479}{324}}{\NativeLeaf{86}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{87}{0}{63}{470}{298}}{\NativeLeaf{88}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{89}{0}{83}{479}{324}}{\NativeLeaf{90}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{91}{0}{63}{470}{298}}{\NativeLeaf{92}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{93}{0}{83}{479}{324}}{\NativeLeaf{94}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{95}{0}{63}{470}{298}}{\NativeLeaf{96}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{97}{0}{83}{479}{324}}{\NativeLeaf{98}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{99}{0}{63}{470}{298}}{\NativeLeaf{100}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{101}{0}{83}{479}{324}}{\NativeLeaf{102}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{103}{0}{63}{470}{298}}{\NativeLeaf{104}{595.2756}{49}{481}{287}}
+\NativeSpread{\NativeLeaf{105}{0}{83}{479}{324}}{\NativeLeaf{106}{595.2756}{66}{464}{300}}
+\NativeSpread{\NativeLeaf{107}{0}{63}{470}{298}}{\NativeLeaf{108}{595.2756}{49}{481}{287}}
+\end{document}

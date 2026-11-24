@@ -1,0 +1,386 @@
+{
+  "book_page": 34,
+  "source_page": 38,
+  "records": [
+    {
+      "key": "p034_s01",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 0,
+      "id": "一、9（接上页）",
+      "kind": "fill",
+      "question_latex": "（接上页）在一个三角形中，如果有两个锐角的度数和大于\\(90^\\circ\\)，那么这个三角形一定是（　）三角形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填“锐角”。两个已知角为锐角，且它们之和大于90度，余下的第三角小于90度，所以是锐角三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s02",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 1,
+      "id": "一、10（80度是顶角）",
+      "kind": "fill",
+      "question_latex": "一个等腰三角形的一个角是\\(80^\\circ\\)，它的另外两个角可能是（　）°、（　）°，或（　）°、（　）°。情形一：\\(80^\\circ\\)是顶角。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned} &(180^\\circ-80^\\circ)\\div2\\\\={}&100^\\circ\\div2\\\\={}&50^\\circ\\end{aligned}\\]另两个角为50度、50度。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s03",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 2,
+      "id": "一、10（80度是底角）",
+      "kind": "fill",
+      "question_latex": "一个等腰三角形的一个角是\\(80^\\circ\\)，它的另外两个角可能是（　）°、（　）°，或（　）°、（　）°。情形二：\\(80^\\circ\\)是底角。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned} &180^\\circ-80^\\circ\\times2\\\\={}&180^\\circ-160^\\circ\\\\={}&20^\\circ\\end{aligned}\\]另两个角为80度、20度。这两类情形都要列出。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s04",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 3,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "如图所示的升降台可以调节高度，是应用了（　）。",
+      "options": [
+        "A. 三角形的稳定性",
+        "B. 三角形易变形的特性",
+        "C. 平行四边形易变形的特性",
+        "D. 平行四边形不易变形的特性"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p034_s04_g1",
+          "tikz": "\\begin{tikzpicture}[x=.8cm,y=.8cm,line width=1pt]\\draw(0,0)rectangle(2,.25);\\foreach\\y in{.25,.85,1.45,2.05}{\\draw(0,\\y)--(2,\\y+.6)--(0,\\y+.6)--(2,\\y)--cycle;}\\draw(0,2.65)rectangle(2,3.45);\\draw(0,2.9)--(2,2.9);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "非定量升降台情境示意，交叉连杆保留平行四边形结构。"
+        }
+      ],
+      "answer_latex": "选\\(C\\)。升降台由平行四边形组成，活动连接可改变角度和高度，应用了平行四边形易变形的特性。三角形支架的特点是稳定。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s05",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 4,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "学校艺术节布置舞台，做了一个等腰三角形造型的发光装饰牌，它的周长是48厘米，装饰牌的底边长是12厘米，这个等腰三角形装饰牌的每条腰长是（　）厘米。",
+      "options": [
+        "A. 36",
+        "B. 12",
+        "C. 18",
+        "D. 16"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(C\\)。周长减底长后剩两腰总长，两腰相等：\\[\\begin{aligned} &(48-12)\\div2\\\\={}&36\\div2\\\\={}&18\\text{(厘米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s06",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 5,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "同学们制作无人机等腰三角形防护机架，测量发现这个三角形机架有两个角都是\\(70^\\circ\\)，它一定是（　）三角形。",
+      "options": [
+        "A. 等腰锐角三角形",
+        "B. 等腰钝角三角形",
+        "C. 等边三角形",
+        "D. 等腰直角三角形"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(A\\)。第三角为\\(180^\\circ-70^\\circ-70^\\circ=40^\\circ\\)。两个70度角相等，所以等腰；三个角都小于90度，所以锐角。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s07",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 6,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "在一个四边形中，\\(\\angle1=\\angle2=110^\\circ\\)，\\(\\angle3=50^\\circ\\)，\\(\\angle4=\\)（　）。",
+      "options": [
+        "A. \\(130^\\circ\\)",
+        "B. \\(160^\\circ\\)",
+        "C. \\(110^\\circ\\)",
+        "D. \\(90^\\circ\\)"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p034_s07_g1",
+          "tikz": "\\begin{tikzpicture}\\coordinate(A)at(0,0);\\coordinate(B)at(3,0);\\coordinate(C)at(1.1,2.3);\\coordinate(D)at(-.7,1.7);\\draw(A)--(B)--(C)--(D)--cycle;\\node at(.25,.3){1};\\node at(1.05,1.95){2};\\node at(2.55,.25){3};\\node at(-.35,1.55){4};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "连一条对角线，把四边形分成两个三角形，所以它的内角和为\\(180^\\circ\\times2=360^\\circ\\)。\\par 选\\(D\\)。四边形内角和为360度：\\[\\begin{aligned} &360^\\circ-110^\\circ-110^\\circ-50^\\circ\\\\={}&360^\\circ-270^\\circ\\\\={}&90^\\circ\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s08",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 7,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "从平行四边形的一个顶点向对边作高，可以作（　）条高。",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 无数"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(B\\)。从一个顶点，分别向两条对边所在直线作垂线，各有一条高，共2条。垂足在边的延长线上时，高仍然存在。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s09",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 8,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "现在户外露营很流行，厂家用高强度碳素合金制作可折叠的平行四边形露营天幕支架框架，把这个平行四边形框架沿对角线轻轻拉伸，变形成一个长方形，这个支架的周长（　）。",
+      "options": [
+        "A. 不变",
+        "B. 变小",
+        "C. 变大",
+        "D. 无法确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(A\\)。拉动过程中四条边的长度不变，只改变角度和形状；周长是四边长度之和，因而不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s10",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 9,
+      "id": "三、1",
+      "kind": "judgment",
+      "question_latex": "判断：任意两个三角形都可以拼成一个平行四边形。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "错误。能拼成平行四边形的两个三角形需要完全一样。“任意两个”没有这个条件；两个大小、形状不同的三角形通常不能拼成平行四边形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s11",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 10,
+      "id": "三、2",
+      "kind": "judgment",
+      "question_latex": "判断：有两个角是锐角的三角形一定是锐角三角形。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "错误。例如30度、30度、120度的三角形有两个锐角，却是钝角三角形；45度、45度、90度也构成反例。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p034_s12",
+      "book_page": 34,
+      "source_page": 38,
+      "section_index": 11,
+      "id": "三、3",
+      "kind": "judgment",
+      "question_latex": "判断：两个完全一样的梯形可以拼成一个平行四边形。（　）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "正确。把两个完全一样的梯形中的一个旋转180度，沿对应的一条腰拼合，可以组成两组对边分别平行的四边形。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

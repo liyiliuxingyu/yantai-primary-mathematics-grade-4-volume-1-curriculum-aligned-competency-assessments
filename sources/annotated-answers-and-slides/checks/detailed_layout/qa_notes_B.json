@@ -1,0 +1,270 @@
+{
+  "group": "B",
+  "book_pages": [
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "question_files_read": 27,
+  "question_records_read": 211,
+  "concise_note_records_read": 211,
+  "records_with_added_or_expanded_analysis": 208,
+  "nonempty_notes": 208,
+  "empty_cross_page_notes": 3,
+  "empty_note_reasons": {
+    "p029_s11": "自然跨页的分配律比较题，拆数填空、共同部分及大小规律统一放在完整的p030_s02解析，本处不重复。",
+    "p030_s01": "跨页填空与上一页为同一题，完整分析已集中在本页p030_s02，原位填数不变。",
+    "p033_s13": "题干自然续至34页，全部角度分析统一放在完整题页p034_s01，避免相邻两页重复。"
+  },
+  "preserved_old_alternative_calculation_records": [
+    "p028_s01",
+    "p028_s02",
+    "p028_s03",
+    "p028_s04",
+    "p032_s01",
+    "p032_s02",
+    "p032_s03",
+    "p032_s04",
+    "p036_s01",
+    "p036_s03",
+    "p039_s05",
+    "p040_s01",
+    "p043_s03",
+    "p044_s01",
+    "p044_s02",
+    "p044_s03",
+    "p044_s04",
+    "p046_s11",
+    "p047_s03",
+    "p047_s04",
+    "p048_s03",
+    "p048_s04",
+    "p052_s01",
+    "p052_s02",
+    "p052_s03"
+  ],
+  "preserved_fields": [
+    "reviewed_book_pages",
+    "key",
+    "extra_figures",
+    "local_replacements (where present)",
+    "original_replacements (where present)",
+    "target_rect (where present)"
+  ],
+  "math_verification_scope": "独立逐项核对211题的运算结构、数量关系、单位进率、角度和与作图依据；新写公式和保留的另法脱式逐式复算。图形计数使用JSON题图中的连线与格点重新枚举；未将canonical作为真值。",
+  "cross_page_handling": [
+    "p029_s11与p030_s01说明合并到完整比较题p030_s02",
+    "p033_s13说明合并至完整题p034_s01",
+    "p053_s09两空及分析在原key只出现一次"
+  ],
+  "source_condition_conflicts_preserved": [
+    "p033_s08: 5、4、3厘米与垂直关系不能同时成立，仅按直角标记识别高",
+    "p046_s01: DB=1.8厘米小于D到BC垂线段1.9厘米，违反垂线段最短，仅按标记识别"
+  ],
+  "corrections": [
+    "p033_s09旧短注混入直角三角形依据，已改成等腰顶角60度对应两底角60度及锐角分类；p033_s10单列直角题依据"
+  ],
+  "verification_checks": {
+    "numeric_case_count": 296,
+    "numeric_record_count": 152,
+    "all_numeric_cases_passed": true,
+    "exact_fraction_arithmetic": true,
+    "grid_completion_p037_s08": {
+      "parallelogram_points": [
+        [
+          1,
+          4
+        ]
+      ],
+      "trapezoid_points": [
+        [
+          0,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          4
+        ]
+      ]
+    },
+    "composite_count_p042_s02": {
+      "triangles": 3,
+      "parallelograms": 3,
+      "trapezoids": 4
+    },
+    "card_cases_exhaustively_enumerated": [
+      "p050_s07",
+      "p052_s04",
+      "p053_s07"
+    ],
+    "rounding_boundaries_p050_s01": [
+      7.195,
+      7.204
+    ],
+    "protected_fields_unchanged": true,
+    "latex_braces_math_delimiters_and_par_spacing_passed": true,
+    "pure_numeric_latex_relations_verified": 137,
+    "pure_numeric_latex_records_verified": 67
+  },
+  "visual_layout_review": "已完成28–54共27页实际总览及17页重点放大；final4更改42、46页另作全页和2倍复看，其余25页PNG与已看final3逐字节相同。两项归位问题已修，最终通过。",
+  "numeric_derivation_supplement_review": {
+    "candidate_count": 14,
+    "original_A4_pages_visually_reviewed": [
+      29,
+      30,
+      33,
+      34,
+      42,
+      49,
+      53
+    ],
+    "supplemented_keys": [
+      "p029_s01",
+      "p029_s09",
+      "p029_s10",
+      "p033_s09",
+      "p033_s11",
+      "p033_s12",
+      "p034_s02",
+      "p034_s03",
+      "p034_s05",
+      "p034_s07",
+      "p042_s01",
+      "p049_s03",
+      "p053_s09"
+    ],
+    "skipped": {
+      "p030_s05": "已实际看原红有完整字母规律及c非0条件，现详细note已有对应分析，无需重复整式。"
+    },
+    "source_page_offset": 4,
+    "numeric_derivations_independently_recomputed": true
+  },
+  "inline_numeric_derivation_supplement": {
+    "original_A4_pages_visually_reviewed": [
+      29,
+      30,
+      33,
+      34,
+      37,
+      38,
+      41,
+      42,
+      45,
+      46,
+      49,
+      50,
+      51,
+      53,
+      54
+    ],
+    "supplemented_record_count": 63,
+    "supplemented_keys": [
+      "p029_s02",
+      "p029_s03",
+      "p029_s04",
+      "p029_s05",
+      "p029_s06",
+      "p029_s08",
+      "p030_s02",
+      "p030_s03",
+      "p030_s08",
+      "p030_s09",
+      "p030_s10",
+      "p033_s10",
+      "p034_s06",
+      "p034_s11",
+      "p037_s01",
+      "p037_s03",
+      "p037_s04",
+      "p037_s06",
+      "p037_s07",
+      "p037_s08",
+      "p038_s02",
+      "p038_s03",
+      "p038_s05",
+      "p038_s07",
+      "p041_s01",
+      "p041_s03",
+      "p041_s06",
+      "p041_s07",
+      "p041_s08",
+      "p041_s09",
+      "p042_s04",
+      "p042_s06",
+      "p042_s07",
+      "p045_s02",
+      "p045_s03",
+      "p045_s04",
+      "p045_s05",
+      "p045_s07",
+      "p045_s08",
+      "p045_s10",
+      "p046_s04",
+      "p049_s01",
+      "p049_s02",
+      "p049_s04",
+      "p049_s07",
+      "p050_s01",
+      "p050_s02",
+      "p050_s04",
+      "p050_s05",
+      "p050_s06",
+      "p050_s07",
+      "p050_s08",
+      "p053_s01",
+      "p053_s02",
+      "p053_s03",
+      "p053_s06",
+      "p053_s07",
+      "p053_s08",
+      "p054_s01",
+      "p054_s02",
+      "p054_s03",
+      "p054_s05",
+      "p054_s06"
+    ],
+    "curriculum_method": "小数意义题中的一般差改按统一计数单位的整数个数比较；小数计算限乘除10、100、1000及小数意义，避免提前使用一般小数加减乘除。",
+    "all_new_derivations_independently_verified": true
+  },
+  "final_visual_pdf_sha256": "65ae8dfca3a237b8adeb87fb9658299ab887bb4aacdfac3a8536fe6d258b520b"
+}

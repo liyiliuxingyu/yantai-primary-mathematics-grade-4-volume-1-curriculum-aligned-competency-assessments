@@ -1,0 +1,15 @@
+{
+  "volume": 2,
+  "sha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+  "output_sha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+  "parent_sha256": "06c352e213cf93115face9bc15505d478bb64069136fe879da48dfb6159ba941",
+  "slides": 479,
+  "changed_slides": [
+    149,
+    192,
+    310,
+    333,
+    352
+  ],
+  "simplification_revision": "ppt_recheck_v2/qa_final.json"
+}

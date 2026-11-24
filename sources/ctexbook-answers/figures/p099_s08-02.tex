@@ -1,0 +1,32 @@
+% Original page 99, question 2. Crop [175,843,439,974] in MuPDF bp.
+\begin{tikzpicture}[x=1bp,y=-1bp,line cap=round,line join=round]
+  \path[use as bounding box] (0,0) rectangle (264,131);
+  \clip (0,0) rectangle (264,131);
+  \definecolor{diagramanswer}{RGB}{205,20,35}
+  \begin{scope}[shift={(4.2857,6.2857)},x=15bp,y=-15bp]
+    % Preserve the 17-by-7 exercise grid. Its fourth interior vertical is
+    % the original dashed symmetry axis, drawn once in black.
+    \foreach \column in {1,2,3,5,6,...,16}
+      \draw[black!62,line width=.42bp] (\column,0) -- (\column,7);
+    \foreach \row in {1,...,6}
+      \draw[black!62,line width=.42bp] (0,\row) -- (17,\row);
+    \draw[line width=.68bp] (0,0) rectangle (17,7);
+    \draw[line width=.65bp,dash pattern=on 3bp off 2.6bp] (4,0) -- (4,7);
+    \draw[line width=.9bp] (4,2) -- (2,2) -- (1,1) -- (1,4) -- (2,3) -- (4,3);
+    \draw[line width=.9bp] (10,3) -- (12,1) -- (13,3) -- cycle;
+    \draw[diagramanswer,line width=.88bp] (10,3) -- (12,5) -- (10,6) -- cycle;
+    \draw[diagramanswer,line width=.88bp] (13,3) -- (15,5) -- (13,6) -- cycle;
+    \node[font=\fontsize{10.6bp}{11bp}\selectfont,inner sep=0pt,anchor=north east]
+      at (9.89,3.10) {$O$};
+    \node[draw,circle,line width=.62bp,inner sep=.6bp,font=\fontsize{8.1bp}{9bp}\selectfont]
+      at (2.58,.49) {$1$};
+    \node[draw,circle,line width=.62bp,inner sep=.6bp,font=\fontsize{8.1bp}{9bp}\selectfont]
+      at (11.56,.49) {$2$};
+  \end{scope}
+  \node[anchor=base west,inner sep=0pt,text=diagramanswer,
+    font=\kaishu\fontsize{7.97bp}{8.8bp}\selectfont]
+    at (128.575,126.485) {旋转后};
+  \node[anchor=base west,inner sep=0pt,text=diagramanswer,
+    font=\kaishu\fontsize{7.97bp}{8.8bp}\selectfont]
+    at (207.148,126.485) {再平移后};
+\end{tikzpicture}

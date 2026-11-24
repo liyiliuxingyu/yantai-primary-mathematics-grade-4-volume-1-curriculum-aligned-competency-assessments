@@ -1,0 +1,1151 @@
+{
+  "checks": [
+    {
+      "key": "p082_s10",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "400",
+      "passed": true
+    },
+    {
+      "key": "p082_s11",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "112",
+      "passed": true
+    },
+    {
+      "key": "p082_s12",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 4,
+      "result": "8874",
+      "passed": true
+    },
+    {
+      "key": "p083_s01",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 4,
+      "result": "368",
+      "passed": true
+    },
+    {
+      "key": "p083_s02",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "200000",
+      "passed": true
+    },
+    {
+      "key": "p083_s03",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "41",
+      "passed": true
+    },
+    {
+      "key": "p083_s04",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "703",
+      "passed": true
+    },
+    {
+      "key": "p083_s04",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "703",
+      "passed": true
+    },
+    {
+      "key": "p083_s06",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "114",
+      "passed": true
+    },
+    {
+      "key": "p084_s01",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "3500",
+      "passed": true
+    },
+    {
+      "key": "p084_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 2,
+      "result": "350",
+      "passed": true
+    },
+    {
+      "key": "p084_s03",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "22",
+      "passed": true
+    },
+    {
+      "key": "p088_s01",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "22",
+      "passed": true
+    },
+    {
+      "key": "p088_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "100",
+      "passed": true
+    },
+    {
+      "key": "p089_s07",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "96",
+      "passed": true
+    },
+    {
+      "key": "p090_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "417/5",
+      "passed": true
+    },
+    {
+      "key": "p090_s02",
+      "origin": "note",
+      "block": 2,
+      "line_count": 3,
+      "result": "423/5",
+      "passed": true
+    },
+    {
+      "key": "p091_s01",
+      "origin": "note",
+      "block": 1,
+      "line_count": 5,
+      "result": "91",
+      "passed": true
+    },
+    {
+      "key": "p091_s01",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "71",
+      "passed": true
+    },
+    {
+      "key": "p091_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 5,
+      "result": "138",
+      "passed": true
+    },
+    {
+      "key": "p091_s03",
+      "origin": "note",
+      "block": 1,
+      "line_count": 5,
+      "result": "98",
+      "passed": true
+    },
+    {
+      "key": "p091_s04",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "2600",
+      "passed": true
+    },
+    {
+      "key": "p091_s04",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "4100",
+      "passed": true
+    },
+    {
+      "key": "p093_s06",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "43/10",
+      "passed": true
+    },
+    {
+      "key": "p094_s03",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "25",
+      "passed": true
+    },
+    {
+      "key": "p094_s05",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "144",
+      "passed": true
+    },
+    {
+      "key": "p095_s01",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 4,
+      "result": "1320",
+      "passed": true
+    },
+    {
+      "key": "p095_s02",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "3960",
+      "passed": true
+    },
+    {
+      "key": "p095_s03",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "3600",
+      "passed": true
+    },
+    {
+      "key": "p095_s06",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "757/5",
+      "passed": true
+    },
+    {
+      "key": "p095_s06",
+      "origin": "note",
+      "block": 2,
+      "line_count": 3,
+      "result": "757/5",
+      "passed": true
+    },
+    {
+      "key": "p095_s07",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "18",
+      "passed": true
+    },
+    {
+      "key": "p095_s07",
+      "origin": "note",
+      "block": 2,
+      "line_count": 5,
+      "result": "18",
+      "passed": true
+    },
+    {
+      "key": "p096_s01",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "4",
+      "passed": true
+    },
+    {
+      "key": "p096_s01",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "4",
+      "passed": true
+    },
+    {
+      "key": "p096_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "215",
+      "passed": true
+    },
+    {
+      "key": "p096_s02",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "215",
+      "passed": true
+    },
+    {
+      "key": "p096_s03",
+      "origin": "note",
+      "block": 1,
+      "line_count": 5,
+      "result": "120",
+      "passed": true
+    },
+    {
+      "key": "p096_s03",
+      "origin": "note",
+      "block": 2,
+      "line_count": 5,
+      "result": "120",
+      "passed": true
+    },
+    {
+      "key": "p097_s06",
+      "origin": "note",
+      "block": 1,
+      "line_count": 2,
+      "result": "78",
+      "passed": true
+    },
+    {
+      "key": "p098_s01",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "2",
+      "passed": true
+    },
+    {
+      "key": "p098_s01",
+      "origin": "note",
+      "block": 2,
+      "line_count": 2,
+      "result": "6",
+      "passed": true
+    },
+    {
+      "key": "p098_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "28",
+      "passed": true
+    },
+    {
+      "key": "p098_s04",
+      "origin": "note",
+      "block": 1,
+      "line_count": 2,
+      "result": "7/20",
+      "passed": true
+    },
+    {
+      "key": "p099_s03",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "126/5",
+      "passed": true
+    },
+    {
+      "key": "p099_s04",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "1350",
+      "passed": true
+    },
+    {
+      "key": "p099_s05",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 4,
+      "result": "80",
+      "passed": true
+    },
+    {
+      "key": "p100_s01",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "768",
+      "passed": true
+    },
+    {
+      "key": "p100_s01",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "768",
+      "passed": true
+    },
+    {
+      "key": "p100_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "4208",
+      "passed": true
+    },
+    {
+      "key": "p100_s02",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "4208",
+      "passed": true
+    },
+    {
+      "key": "p100_s03",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "1/25",
+      "passed": true
+    },
+    {
+      "key": "p100_s03",
+      "origin": "note",
+      "block": 2,
+      "line_count": 3,
+      "result": "1/25",
+      "passed": true
+    },
+    {
+      "key": "p100_s04",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "70",
+      "passed": true
+    },
+    {
+      "key": "p100_s04",
+      "origin": "note",
+      "block": 2,
+      "line_count": 5,
+      "result": "70",
+      "passed": true
+    },
+    {
+      "key": "p101_s04",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "90",
+      "passed": true
+    },
+    {
+      "key": "p102_s03",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "130",
+      "passed": true
+    },
+    {
+      "key": "p102_s03",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "130",
+      "passed": true
+    },
+    {
+      "key": "p103_s08",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "55",
+      "passed": true
+    },
+    {
+      "key": "p103_s09",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "4410",
+      "passed": true
+    },
+    {
+      "key": "p103_s10",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "10100",
+      "passed": true
+    },
+    {
+      "key": "p104_s01",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "71/10",
+      "passed": true
+    },
+    {
+      "key": "p104_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 5,
+      "result": "4680",
+      "passed": true
+    },
+    {
+      "key": "p104_s02",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 5,
+      "result": "234/5",
+      "passed": true
+    },
+    {
+      "key": "p104_s03",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "3000",
+      "passed": true
+    },
+    {
+      "key": "p104_s04",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "12",
+      "passed": true
+    },
+    {
+      "key": "p104_s05",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "1200",
+      "passed": true
+    },
+    {
+      "key": "p105_s05",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "96",
+      "passed": true
+    },
+    {
+      "key": "p107_s05",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 4,
+      "result": "3600",
+      "passed": true
+    },
+    {
+      "key": "p107_s06",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "1131/50",
+      "passed": true
+    },
+    {
+      "key": "p107_s07",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 3,
+      "result": "5000",
+      "passed": true
+    },
+    {
+      "key": "p107_s08",
+      "origin": "local_1",
+      "block": 1,
+      "line_count": 4,
+      "result": "14",
+      "passed": true
+    },
+    {
+      "key": "p108_s01",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "81/20",
+      "passed": true
+    },
+    {
+      "key": "p108_s01",
+      "origin": "note",
+      "block": 2,
+      "line_count": 3,
+      "result": "293/20",
+      "passed": true
+    },
+    {
+      "key": "p108_s01",
+      "origin": "note",
+      "block": 3,
+      "line_count": 3,
+      "result": "293/20",
+      "passed": true
+    },
+    {
+      "key": "p108_s02",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "55",
+      "passed": true
+    },
+    {
+      "key": "p108_s02",
+      "origin": "note",
+      "block": 2,
+      "line_count": 4,
+      "result": "55",
+      "passed": true
+    },
+    {
+      "key": "p108_s03",
+      "origin": "note",
+      "block": 1,
+      "line_count": 3,
+      "result": "4500",
+      "passed": true
+    },
+    {
+      "key": "p108_s03",
+      "origin": "note",
+      "block": 2,
+      "line_count": 3,
+      "result": "4500",
+      "passed": true
+    },
+    {
+      "key": "p108_s04",
+      "origin": "note",
+      "block": 1,
+      "line_count": 4,
+      "result": "700",
+      "passed": true
+    },
+    {
+      "key": "p108_s04",
+      "origin": "note",
+      "block": 2,
+      "line_count": 5,
+      "result": "700",
+      "passed": true
+    },
+    {
+      "key": "p082_s03",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p082_s04",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p082_s08",
+      "origin": "independent_numeric",
+      "value_count": 4,
+      "passed": true
+    },
+    {
+      "key": "p082_s09",
+      "origin": "independent_numeric",
+      "value_count": 4,
+      "passed": true
+    },
+    {
+      "key": "p083_s05",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p084_s04",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p085_s05",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p085_s12",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p086_s03",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p086_s09",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p088_s03",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p089_s02",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p089_s03",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p089_s04",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p089_s06",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p089_s07",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p090_s02",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p090_s03",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p090_s04",
+      "origin": "independent_numeric",
+      "value_count": 4,
+      "passed": true
+    },
+    {
+      "key": "p090_s05",
+      "origin": "independent_numeric",
+      "value_count": 4,
+      "passed": true
+    },
+    {
+      "key": "p090_s06",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p090_s07",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p090_s08",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p090_s09",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p092_s01",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p093_s02",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p093_s05",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p093_s06",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p093_s07",
+      "origin": "independent_numeric",
+      "value_count": 8,
+      "passed": true
+    },
+    {
+      "key": "p093_s08",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p094_s02",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p094_s03",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p094_s05",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p094_s07",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p094_s08",
+      "origin": "independent_numeric",
+      "value_count": 6,
+      "passed": true
+    },
+    {
+      "key": "p094_s09",
+      "origin": "independent_numeric",
+      "value_count": 4,
+      "passed": true
+    },
+    {
+      "key": "p095_s02",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p097_s01",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p097_s02",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p097_s03",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p097_s06",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p098_s02",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p098_s03",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p098_s04",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p098_s05",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p098_s07",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p099_s02",
+      "origin": "independent_numeric",
+      "value_count": 8,
+      "passed": true
+    },
+    {
+      "key": "p101_s01",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p101_s03",
+      "origin": "independent_numeric",
+      "value_count": 4,
+      "passed": true
+    },
+    {
+      "key": "p101_s04",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p101_s07",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p102_s01",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p102_s02",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p102_s03",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p103_s02",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p103_s03",
+      "origin": "independent_numeric",
+      "value_count": 8,
+      "passed": true
+    },
+    {
+      "key": "p103_s04",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p103_s05",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p103_s06",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p103_s07",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p103_s09",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p105_s01",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p105_s04",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p105_s05",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p105_s06",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p105_s08",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p106_s02",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p106_s03",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p106_s05",
+      "origin": "independent_numeric",
+      "value_count": 3,
+      "passed": true
+    },
+    {
+      "key": "p106_s06",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p107_s01",
+      "origin": "independent_numeric",
+      "value_count": 8,
+      "passed": true
+    },
+    {
+      "key": "p107_s02",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    },
+    {
+      "key": "p107_s03",
+      "origin": "independent_numeric",
+      "value_count": 2,
+      "passed": true
+    },
+    {
+      "key": "p107_s04",
+      "origin": "independent_numeric",
+      "value_count": 1,
+      "passed": true
+    }
+  ],
+  "statistics": [
+    {
+      "source": "男生立定跳远成绩（单位：cm）",
+      "record_count": 24,
+      "counts": [
+        1,
+        3,
+        9,
+        11
+      ]
+    },
+    {
+      "source": "女生立定跳远成绩（单位：cm）",
+      "record_count": 24,
+      "counts": [
+        2,
+        7,
+        11,
+        4
+      ]
+    },
+    {
+      "source": "p100_s05",
+      "record_count": 36,
+      "counts": [
+        23,
+        7,
+        3,
+        3
+      ]
+    },
+    {
+      "source": "p108_s05",
+      "record_count": 28,
+      "counts": [
+        9,
+        8,
+        6,
+        5
+      ]
+    }
+  ],
+  "failures": []
+}

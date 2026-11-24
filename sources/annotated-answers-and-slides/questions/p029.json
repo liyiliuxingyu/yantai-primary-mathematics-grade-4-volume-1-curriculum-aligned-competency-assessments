@@ -1,0 +1,321 @@
+{
+  "book_page": 29,
+  "source_page": 33,
+  "records": [
+    {
+      "key": "p029_s01",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "超市运来3箱文具，第一箱有277件，第二箱有164件，第三箱有536件。计算一共有多少件文具时，先把第（　）箱和第（　）箱的数量合起来，再加上第（　）箱的数量，这样计算比较简便，列式为（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "第二、三箱可以先凑整：\\(164+536=700\\)。再加第一箱277件。综合算式为：\\[\\begin{aligned} &277+(164+536)\\\\={}&277+700\\\\={}&977\\text{(件)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s02",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "计算\\(125\\times5\\times8\\times20\\)时，可以先算（　）和（　）（填算式），再算（　）（填算式），这是运用了（　）律和（　）律使计算简便。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先算\\(125\\times8=1000\\)和\\(5\\times20=100\\)，再算\\(1000\\times100\\)。交换因数位置，用乘法交换律；改变结合顺序，用乘法结合律。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s03",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 2,
+      "id": "一、3（左上）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\(260\\times48\\ \\bigcirc\\ 26\\times480\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(=\\)。把260变为26、48变为480，一个因数缩小10倍，另一个扩大10倍，积不变，均为12480。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s04",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 3,
+      "id": "一、3（右上）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\(301\\times24\\ \\bigcirc\\ 300\\times24+1\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(>\\)。\\(301\\times24=300\\times24+24\\)，比\\(300\\times24+1\\)多23。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s05",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 4,
+      "id": "一、3（左中）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\(145-18-82\\ \\bigcirc\\ 145-(18+82)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(=\\)。\\(145-18-82=145-(18+82)=45\\)，依据减法的性质。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s06",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 5,
+      "id": "一、3（右中）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\(50\\times(33-13)\\ \\bigcirc\\ 50\\times33-13\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(<\\)。左边\\(50\\times(33-13)=1000\\)，右边\\(50\\times33-13=1637\\)。左边减的是13个50，右边只减13。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s07",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 6,
+      "id": "一、3（左下）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\((13+4)\\times6\\ \\bigcirc\\ 13\\times6+4\\times6\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(=\\)。\\((13+4)\\times6=13\\times6+4\\times6\\)，用乘法分配律，两边均为102。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s08",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 7,
+      "id": "一、3（右下）",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”：\\(50\\div(2\\times5)\\ \\bigcirc\\ 50\\div2\\times5\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(<\\)。左边\\(50\\div(2\\times5)=5\\)，右边\\(50\\div2\\times5=125\\)。除以积应写成连续除，不能改成乘。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s09",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 8,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "实验小学运动会开幕式有8个方队，每个方队25人，每人拿2个气球，一共需要（　）个气球。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "每人2个气球，每方队25人，共8个方队：\\[\\begin{aligned} &2\\times25\\times8\\\\={}&50\\times8\\\\={}&400\\text{(个)}\\end{aligned}\\]还可先求总人数\\(25\\times8=200\\text{(人)}\\)，再求\\(2\\times200=400\\text{(个)}\\)。两条路径分别先求“每方队所需气球数”和“全体人数”，都遵循每份数×份数。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s10",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 9,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "一块菜地每行能种18棵白菜，一共有98行，这块菜地共能种多少棵白菜？小明列式\\(18\\times98\\)，结合右图，还可列综合算式（　），这是运用（　）律。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p029_s10_g1",
+          "tikz": "\\begin{tikzpicture}[x=.06cm,y=.06cm]\\draw (0,0) rectangle (100,18);\\draw[fill=gray!50] (98,0) rectangle (100,18);\\draw[decorate,decoration={brace,amplitude=4pt}] (0,23)--node[above=5pt]{100}(100,23);\\node[left] at(0,9){18};\\node[below] at(99,0){2};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "把98行看作100行再去掉2行，运用乘法分配律：\\[\\begin{aligned} &18\\times(100-2)\\\\={}&18\\times100-18\\times2\\\\={}&1800-36\\\\={}&1764\\text{(棵)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p029_s11",
+      "book_page": 29,
+      "source_page": 33,
+      "section_index": 10,
+      "id": "一、6（1）上半",
+      "kind": "fill",
+      "question_latex": "明明用乘法分配律比较\\(181\\times67\\)和\\(182\\times66\\)的大小。（1）请帮他把思考和比较过程填完整。\\(181\\times67=181\\times(\\square+1)=181\\times66+\\square\\times1\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把67拆成66加1：\\(181\\times67=181\\times(66+1)=181\\times66+181\\times1\\)。两空填66、181。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

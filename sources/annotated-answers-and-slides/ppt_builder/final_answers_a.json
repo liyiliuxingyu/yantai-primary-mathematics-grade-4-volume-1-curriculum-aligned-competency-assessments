@@ -1,0 +1,2289 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p001_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "(671+29)\\times4\\div2",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p001_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "450\\div(136-46)\\times22",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p001_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "731-(219-252\\div42)",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p001_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "720\\div[(53-35)\\times4]",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p001_s05": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "75",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题干中的方框代表待求未知数，最终答案另填在括号内；保留原方框作为分析对象。"
+        }
+      ]
+    },
+    "p001_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "25",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p001_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p001_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p001_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "王叔叔一共走了多少米",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p002_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "一共走了多少米",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p002_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "182",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "做手工用去的米数",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "共用去的米数",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_text": "剩下的米数",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "answer_latex": "320-(6\\times15+48)",
+          "note": "与本记录“先合计用去长度”分析顺序一致；另一计算方法仍在解析逐步展示。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p002_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p002_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p002_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p002_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "D",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p002_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p004_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "①②④⑤",
+          "note": "本记录为方案一（求袋数），方案二另有记录。",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "平均每个班分到多少袋糖果？",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p004_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "①③④⑤",
+          "note": "本记录为方案二（求块数），方案一另有记录。",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "平均每个班分到多少块糖果？",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p004_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": null,
+          "note": "存在多种合理综合算式；本记录列出五种常用结构：3×(9+1)−6；9+3×(6−1)；(9−1)×(6−3)；6+9×(3−1)；6×(1+9÷3)。不单选一式填入。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": null,
+          "note": "两空可依次填“乘、除”或“除、乘”，须配对；两种顺序均合理，最后加法。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": null,
+          "note": "须与slot0配对：乘、除或除、乘。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "加",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "101",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "32\\times[(400-200)\\div25]",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "32\\times(400-200)\\div25",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "334",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1104",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "改变运算顺序",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "(12+36\\div4)\\times5",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p005_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "500\\div[(60-35)\\times4]",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p006_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "(1800-80\\times5)\\div15",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p006_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "一共有多少个羽毛球",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "剩下多少个羽毛球",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "20",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p006_s03": {
+      "final_answers": [
+        {
+          "slot_index": 6,
+          "kind": "fill",
+          "answer_latex": "100",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "方框为同值图形变量，用于求值关系；不是真待填空。"
+        },
+        {
+          "slot_index": 1,
+          "reason": "方框为同值图形变量，用于求值关系；不是真待填空。"
+        },
+        {
+          "slot_index": 2,
+          "reason": "方框为同值图形变量，用于求值关系；不是真待填空。"
+        },
+        {
+          "slot_index": 3,
+          "reason": "方框为同值图形变量，用于求值关系；不是真待填空。"
+        },
+        {
+          "slot_index": 4,
+          "reason": "方框为同值图形变量，用于求值关系；不是真待填空。"
+        },
+        {
+          "slot_index": 5,
+          "reason": "方框为同值图形变量，用于求值关系；不是真待填空。"
+        }
+      ]
+    },
+    "p006_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p006_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p006_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p006_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p006_s08": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题干中的方框代表待求未知数，最终答案另填在括号内；保留原方框作为分析对象。"
+        }
+      ]
+    },
+    "p007_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p008_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "250",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "50",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p008_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "240",
+          "note": "按原题未限制括号对数，可嵌套；若另加“只添一对”限制则最大60，须改条件后同步。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "1200\\div((30-20)\\div2)",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "10",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "(1200\\div30-20)\\div2",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p009_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "①②⑦",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "④⑤⑥",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "⑥",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p009_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "平行",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "相交",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "垂直",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "m\\perp n",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "answer_latex": "m\\text{垂直于}n",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p009_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "3",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p009_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "平行",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "垂直",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "320",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p009_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "平行",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "垂直",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p009_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "无数",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "相等",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "相等",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "90",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "垂直",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "note": "用户已核实AC=3厘米；垂线段AC的长度就是所求距离，选A。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "unresolved": false
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p010_s11": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p011_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p013_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "①③",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "④",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p013_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "互相垂直",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "m\\perp n",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "m\\text{垂直于}n",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_text": "垂足",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p013_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "9",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p013_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "互相平行",
+          "note": "“平行”也可，为同义表达。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p013_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "平行",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "互相垂直",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p013_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "5\\text{厘米}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "5\\text{厘米}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "相等",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_text": "平行线间距离处处相等",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "answer_text": "大于",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p013_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "互相垂直",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "互相平行",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p014_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "互相平行",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p014_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p014_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p014_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "D",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p014_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p014_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p014_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p014_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "总价",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "数量",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "单价",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "\\text{单价}=\\text{总价}\\div\\text{数量}",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "answer_latex": "45\\div3=15\\text{(元/千克)}",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "3\\text{箱}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "18\\text{元/盒}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "60\\text{元}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "速度",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "305\\text{千米/时}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "305千米每时",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "2440",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "10",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "\\text{时间}=\\text{路程}\\div\\text{速度}",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "30",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "冷藏车",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "3876",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p017_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "36",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "12",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "36",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "12",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "\\text{路程}=\\text{速度}\\times\\text{时间}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "20",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "20",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p018_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": null,
+          "note": "A、C两式均符合题意并得12元；原单选设题不当，不挑一个选项猜填。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "320",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "总价",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "数量",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "单价",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "\\text{单价}=\\text{总价}\\div\\text{数量}",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "5\\text{元/千克}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "5元每千克",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "72\\text{千米/时}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "72千米每时",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "65\\text{米/分}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "65米每分",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "70\\text{米/分}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1400\\text{米}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "3\\text{小时}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "107\\text{千米/时}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "5220",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "\\text{路程}=\\text{速度}\\times\\text{时间}",
+          "expected_placeholder": "________",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s11": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1020",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s12": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "8",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p021_s13": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "3",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": null,
+          "note": "若2分钟是首次相遇，周长300米；原题未明确“首次”，相遇圈数未知时不能唯一确定，不无条件猜填。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "2160",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "110",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p022_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "a",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "b",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "a",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "c",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "乘法分配",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "45\\times42=45\\times40+45\\times2=1800+90=1890",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": null,
+          "note": "存在多种不按9键的合理输入式；已核方法87×100−87或(88+11)×87均得8613，保留逐法讲解，不单选一式猜填。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "98",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "26",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "21",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "\\times",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "9",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "\\div",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "5",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "\\times",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "2",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "-",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "124",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "+",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "76",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "+",
+          "note": "按本记录解析将102拆为100+2的凑整结构填写。",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "100",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "+",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "2",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "9",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "b",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "9",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s11": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": "<",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s12": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s13": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": "=",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s14": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": "=",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s15": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p025_s16": {
+      "final_answers": [
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "100",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "圆圈在本题中是同值图形变量，不是真待填的比较圈。"
+        },
+        {
+          "slot_index": 1,
+          "reason": "圆圈是同值图形变量；保留以呈现分配律。"
+        }
+      ]
+    },
+    "p025_s17": {
+      "final_answers": [
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "42",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "方框代表任意相同的数，是比较错误计算与正确计算的共同变量，不待填数。"
+        },
+        {
+          "slot_index": 1,
+          "reason": "同一个图形变量，不是待填空。"
+        }
+      ]
+    },
+    "p026_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p026_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p026_s03": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "choice",
+          "answer_latex": null,
+          "note": "D(244)符合先把两个减数相加凑500的通常意图；C(283)交换减数后先783−283=500也能简算。题干未排除这种方法，C、D均有依据。",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "方框为待讨论数的代号，原题最终答案应填选择括号；因选择有歧义，不给方框另填数。"
+        }
+      ]
+    },
+    "p026_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p026_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p026_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    }
+  },
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "summary": {
+    "pages": 27,
+    "records": 136,
+    "candidate_slots": 225,
+    "final_answer_slots": 212,
+    "ignored_slots": 13,
+    "null_answer_slots": 8,
+    "null_keys": [
+      "p004_s05",
+      "p005_s01",
+      "p010_s04",
+      "p018_s09",
+      "p022_s01",
+      "p025_s03",
+      "p026_s03"
+    ],
+    "verification": "逐候选对照已逐页读取核实的原题、独立解答及更正记录；原空后已有单位不重复。所有候选均覆盖。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "matches": [
+    {
+      "volume": 4,
+      "part": "ppt/slides/slide374.xml",
+      "text": "374判断：正方形的对角线是它的对称轴。（）×。对角线是线段，对称轴是直线。正确说法：对角线所在的直线是正方形的对称轴。原书第70页　二、4原题底本第74页　输入PDF第95页"
+    },
+    {
+      "volume": 4,
+      "part": "ppt/slides/slide375.xml",
+      "text": "375判断：正方形的对角线是它的对称轴。（）×原书第70页　二、4　原题回填原题底本第74页　输入PDF第95页　解析续页2"
+    },
+    {
+      "volume": 5,
+      "part": "ppt/slides/slide293.xml",
+      "text": "2938. 正方形有（）条对称轴，等边三角形有（）条对称轴，等腰梯形有（）条对称轴。对角线和对边中点连线所在的直线，共4条对称轴；等边三角形从每个顶点到对边中点的直线各一条，共3条；通常所说的等腰梯形只有过两底中点的一条。依次填4,3,1。原书第85页　一、8原题底本第89页　输入PDF第115页"
+    }
+  ],
+  "question_stems_intentionally_unchanged": true,
+  "stale_p070_checkmark_in_active_objects": false
+}

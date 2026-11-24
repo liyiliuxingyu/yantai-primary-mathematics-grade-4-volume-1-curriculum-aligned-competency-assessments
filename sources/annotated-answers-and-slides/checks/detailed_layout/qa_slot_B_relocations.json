@@ -1,0 +1,73 @@
+{
+  "changed_file": "/workspace/scratch/1facfb035d44/detail_work/inline_layout/slots_B.json",
+  "changed_book_pages": [
+    42,
+    46
+  ],
+  "changes": [
+    {
+      "book_page": 42,
+      "key": "p042_s02",
+      "old_group_cut_y": 214.0,
+      "new_cut_y": 160.0,
+      "heading_rect": [
+        65.5,
+        140.25,
+        448.0,
+        156.5
+      ],
+      "tight_ink_bbox": [
+        66.75,
+        141.25,
+        446.5,
+        155.25
+      ],
+      "next_question_note_retains_old_cut": 214.0
+    },
+    {
+      "book_page": 46,
+      "key": "p046_s01",
+      "old_group_cut_y": 240.0,
+      "new_cut_y": 165.0,
+      "heading_rect": [
+        74.5,
+        120.0,
+        406.0,
+        161.0
+      ],
+      "tight_ink_bbox": [
+        76.0,
+        121.0,
+        404.5,
+        159.75
+      ],
+      "next_question_note_retains_old_cut": 240.0
+    }
+  ],
+  "safe_source_evidence": {
+    "source": "recovered/annotated_a4_128.pdf",
+    "book_to_source_page_offset": 4,
+    "original_crop_zoom": 4,
+    "p042_heading_crop": "/workspace/scratch/1facfb035d44/B_original/p042_heading.png",
+    "p046_heading_crop": "/workspace/scratch/1facfb035d44/B_original/p046_heading.png",
+    "p042_full_width_white_band": [
+      155.25,
+      166.0
+    ],
+    "p046_full_width_white_band": [
+      159.75,
+      172.0
+    ],
+    "pixel_scan_horizontal_range": [
+      64,
+      550
+    ],
+    "threshold": 235,
+    "all_heading_crops_contain_only_target_heading": true
+  },
+  "key_uniqueness_passed": true,
+  "all_other_pages_unchanged": true,
+  "notes_B_unchanged_sha256": "ab5154206479515cf82dc8767ff67c7dcabfa2d2dfc797e068af6831b338d1cd",
+  "final4_visual_reinspection_passed": true,
+  "final_pdf_sha256": "65ae8dfca3a237b8adeb87fb9658299ab887bb4aacdfac3a8536fe6d258b520b"
+}

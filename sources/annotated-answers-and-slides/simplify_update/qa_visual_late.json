@@ -1,0 +1,185 @@
+{
+  "scope": "人工逐张查看指定17页的实际导出PDF预览；未修改源文件",
+  "preview_root": "project/detailed_layout/runs/simplify_20261104/previews",
+  "book_pages_reviewed": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    48,
+    58,
+    61,
+    63,
+    73,
+    75,
+    76,
+    77,
+    79,
+    80,
+    81,
+    83
+  ],
+  "page_count": 17,
+  "method": "每一张通过view_image实际查看；75、79、83页优先检查",
+  "page_results": [
+    {
+      "book_page": 42,
+      "file": "p042.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "红脱式位于黑题原式下方，未见覆盖；说明与相邻题分开。"
+    },
+    {
+      "book_page": 43,
+      "file": "p043.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "修路题两种数量思路分区清楚，图形标注无新增碰撞。"
+    },
+    {
+      "book_page": 44,
+      "file": "p044.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "买赠与废纸题的新红主式位于原答题区，后续解析无叠字。"
+    },
+    {
+      "book_page": 45,
+      "file": "p045.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "填空、圈内比较号、单位与简便脱式对应正确，未见新增碰撞。"
+    },
+    {
+      "book_page": 46,
+      "file": "p046.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "125×48及其他红脱式不覆盖黑原式，旁注处无缺字符。"
+    },
+    {
+      "book_page": 48,
+      "file": "p048.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "团体人数与购票题新脱式、另法和图表分区清楚。"
+    },
+    {
+      "book_page": 58,
+      "file": "p058.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "补偿法17.8−0.9及竖式均清晰，未见新增覆盖。"
+    },
+    {
+      "book_page": 61,
+      "file": "p061.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "小数补偿、凑整和找规律脱式清晰，底部原题未被压住。"
+    },
+    {
+      "book_page": 63,
+      "file": "p063.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "四道简便计算与应用题公式清楚，红解析在题间区域。"
+    },
+    {
+      "book_page": 73,
+      "file": "p073.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "移多补少及分组脱式完整，填空位置与书末页码正常。"
+    },
+    {
+      "book_page": 75,
+      "file": "p075.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "needs_fix",
+      "finding": "主式替换不覆盖黑题，但三、3（1）出现同一四行85分基准脱式重复，需删旁注第二次公式。"
+    },
+    {
+      "book_page": 76,
+      "file": "p076.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "评分表红填数与逐项解析位置准确，五个脱式不交叠。"
+    },
+    {
+      "book_page": 77,
+      "file": "p077.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "配对平均、补差及B队求身高脱式清楚，表内159无碰撞。"
+    },
+    {
+      "book_page": 79,
+      "file": "p079.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "土豆平均质量主式替换清楚，旁注独立基准法与主式不同，无重复全式。"
+    },
+    {
+      "book_page": 80,
+      "file": "p080.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "女生人数先凑20的脱式位于统计表下，无覆盖后续小问。"
+    },
+    {
+      "book_page": 81,
+      "file": "p081.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass_with_minor_style_note",
+      "finding": "逆运算主脱式清楚；旁注4×4仍为普通文本，建议公式模式一致化。"
+    },
+    {
+      "book_page": 83,
+      "file": "p083.png",
+      "actual_image_viewed": true,
+      "new_overlap_clipping_garbled_or_missing_glyph_seen": false,
+      "status": "pass",
+      "finding": "费用先凑159、人数先凑430的主式清楚；未见残影、重复旧主式或黑题损坏。"
+    }
+  ],
+  "issues": [
+    {
+      "severity": "must_fix",
+      "book_page": 75,
+      "key": "p075_s04",
+      "id": "三、3（1）",
+      "type": "duplicate_formula",
+      "description": "85+(12−5)÷7 →85+7÷7→85+1→86（分）的完整四行公式，在原主答案位置与紧接的题间旁注中重复出现。",
+      "recommended_fix": "保留题下主脱式；notes只留±2、±3抵消及净多7分的文字依据，去掉旁注第二组四行。",
+      "layout_otherwise": "两组均无黑题覆盖，主式新增第4行未撞到答语。"
+    },
+    {
+      "severity": "minor_optional_style",
+      "book_page": 81,
+      "key": "p081_s02",
+      "id": "一、2",
+      "type": "inline_math_style",
+      "description": "旁注“把16看成4×4”中的4×4为普通文本；主脱式已经使用公式排版。",
+      "recommended_fix": "把旁注4×4包入行内数学模式；不必重抄已清晰的主脱式。"
+    }
+  ],
+  "limits": "这是17张PDF渲染预览的人工版面检查；未查看其他页、未测试PPT原生动画，不能据此声称全部数学及动画通过。"
+}

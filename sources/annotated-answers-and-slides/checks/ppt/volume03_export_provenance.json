@@ -1,0 +1,11 @@
+{
+  "source": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/build03_v8/validated_final_order_p54/小学四上同步素养卷第3册讲解课件答案.pptx",
+  "source_sha256": "7ac0ffa8ee3b329a4b9103aaed5f8c18f9d797f85d6020e8150620903b2d8625",
+  "pdf": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/build03_v8/validated_final_order_p54/actual_static_export/小学四上同步素养卷第3册讲解课件答案.pdf",
+  "pdf_sha256": "98635de1edb05b361ff8c9c3ad944a1f322a2a54494d28976061c82ced8f0712",
+  "slides": 406,
+  "png_pattern": "slide-%03d.png",
+  "software": "LibreOfficeDev 26.8.0.0.alpha0 2c87e51eeaa2b413ff4ae097b2705eea1995d8e5",
+  "scope": "All pages exported statically through LibreOffice, then rasterized through Poppler. This is not a slideshow playback test.",
+  "observed_complete_unix": 1793507914.9038439
+}

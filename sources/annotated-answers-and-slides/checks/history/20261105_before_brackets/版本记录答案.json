@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-05",
+  "previous_pdf_sha256": "6753f42510d3bfbcd3a63776cc9a78eaa43f258b1dc79861b36fd33c62510c00",
+  "current_pdf_sha256": "6368cf44ed10565b8249b02791c38dafbe6b6a42ecc81a0ccef6ab63afc1f9b8",
+  "changed_question_keys": [
+    "p073_s01",
+    "p073_s02",
+    "p073_s06",
+    "p073_s10",
+    "p074_s06",
+    "p075_s01",
+    "p075_s03",
+    "p075_s05",
+    "p076_s01",
+    "p077_s01",
+    "p077_s02",
+    "p077_s04",
+    "p077_s05",
+    "p077_s06",
+    "p077_s08",
+    "p078_s03",
+    "p078_s06",
+    "p079_s01",
+    "p079_s02",
+    "p079_s03",
+    "p088_s01",
+    "p089_s02",
+    "p089_s03",
+    "p089_s04",
+    "p089_s06",
+    "p089_s07",
+    "p090_s02",
+    "p090_s03",
+    "p091_s01",
+    "p091_s04",
+    "p098_s07",
+    "p108_s02",
+    "p108_s03"
+  ],
+  "changed_book_pages": [
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    88,
+    89,
+    90,
+    91,
+    98,
+    108
+  ],
+  "change": "从第九单元起补全求平均数的必要脱式步骤，并体现适合本阶段的简便计算；题间作答、页数与首空白要求保留。另补齐原书108页五、3原PDF漏掉的计算尾步，题意和结果保持。\n",
+  "current_evidence": "average_update/qa_current.json",
+  "ppt_proofs": [
+    {
+      "path": "ppt_average/qa_final.json",
+      "sha256": "74026ed021cc13cc1567d3fd643e1629b1aae744a897b105133e6d1b1d31c91a",
+      "volumes": [
+        5,
+        6
+      ]
+    }
+  ],
+  "powerpoint_playback_tested": false
+}

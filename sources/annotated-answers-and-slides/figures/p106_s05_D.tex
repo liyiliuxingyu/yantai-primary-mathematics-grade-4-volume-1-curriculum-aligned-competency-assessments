@@ -1,0 +1,15 @@
+% Original book p106; original base PDF p110; input PDF p141; p106_s05 二、5
+% Role: question; original field: diagrams[3].tikz
+% Compile with XeLaTeX from this figures/ directory.
+\documentclass[12pt,tikz,border=5pt]{standalone}
+\usepackage{fontspec}
+\setmainfont[Path=../fonts/]{DroidSansFallback.ttf}
+\setsansfont[Path=../fonts/]{DroidSansFallback.ttf}
+\usepackage{amsmath,amssymb}
+\usepackage{tikz}
+\usetikzlibrary{calc,angles,quotes,arrows.meta,decorations.pathreplacing,decorations.pathmorphing,decorations.markings,patterns,positioning,fit,backgrounds,matrix,intersections,shapes.geometric}
+\begin{document}
+\color{black}
+\tikzset{every picture/.append style={color=black}}
+\input{../tikz/p106_s05_D.tikz.tex}
+\end{document}

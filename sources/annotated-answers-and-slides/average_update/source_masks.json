@@ -1,0 +1,283 @@
+{
+  "masks": [
+    {
+      "key": "p075_s01",
+      "book_page": 75,
+      "rect": [
+        193,
+        82,
+        443,
+        137
+      ],
+      "kind": "old_formula",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 3341,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p075_s01",
+      "book_page": 75,
+      "rect": [
+        79,
+        131,
+        176,
+        142
+      ],
+      "kind": "old_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 1002,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p075_s03",
+      "book_page": 75,
+      "rect": [
+        224,
+        337,
+        350,
+        405
+      ],
+      "kind": "old_formula",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 2570,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p075_s03",
+      "book_page": 75,
+      "rect": [
+        79,
+        386,
+        180,
+        397
+      ],
+      "kind": "old_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 1074,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p075_s05",
+      "book_page": 75,
+      "rect": [
+        264,
+        620,
+        355,
+        661
+      ],
+      "kind": "old_formula",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 928,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p075_s05",
+      "book_page": 75,
+      "rect": [
+        79,
+        667,
+        154,
+        679
+      ],
+      "kind": "old_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 668,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p079_s01",
+      "book_page": 79,
+      "rect": [
+        259,
+        210,
+        359,
+        251
+      ],
+      "kind": "old_formula",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 1098,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p079_s01",
+      "book_page": 79,
+      "rect": [
+        79,
+        257,
+        168,
+        269
+      ],
+      "kind": "old_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 917,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p079_s02",
+      "book_page": 79,
+      "rect": [
+        235,
+        312,
+        383,
+        353
+      ],
+      "kind": "old_formula",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 1342,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p079_s02",
+      "book_page": 79,
+      "rect": [
+        79,
+        359,
+        163,
+        371
+      ],
+      "kind": "old_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 779,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p079_s03",
+      "book_page": 79,
+      "rect": [
+        204,
+        502,
+        396,
+        557
+      ],
+      "kind": "old_formula",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 2516,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p079_s03",
+      "book_page": 79,
+      "rect": [
+        79,
+        550,
+        168,
+        562
+      ],
+      "kind": "old_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 838,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p088_s01",
+      "book_page": 88,
+      "rect": [
+        262,
+        116,
+        344,
+        157
+      ],
+      "kind": "old_formula",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 975,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p088_s01",
+      "book_page": 88,
+      "rect": [
+        66,
+        163,
+        159,
+        175
+      ],
+      "kind": "old_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 976,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p091_s01",
+      "book_page": 91,
+      "rect": [
+        77,
+        117,
+        261,
+        180
+      ],
+      "kind": "old_condition_formula_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 4034,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    },
+    {
+      "key": "p091_s04",
+      "book_page": 91,
+      "rect": [
+        77,
+        632,
+        289,
+        710
+      ],
+      "kind": "old_condition_formula_answer",
+      "coordinate_system": "595x841 A4 source",
+      "method": "evenodd_clip_exclusion",
+      "black_or_neutral_dark_pixels_at_2x": 0,
+      "red_pixels_at_2x": 4714,
+      "visually_reviewed_source_page": true,
+      "reason": "完整主法与答语移入紧随本题的题缝，裁去旧红主式/重复答语；保留原题所有黑色图文。"
+    }
+  ],
+  "retained_black_problem_content": true,
+  "source_pages_visually_reviewed": [
+    75,
+    79,
+    88,
+    91
+  ]
+}

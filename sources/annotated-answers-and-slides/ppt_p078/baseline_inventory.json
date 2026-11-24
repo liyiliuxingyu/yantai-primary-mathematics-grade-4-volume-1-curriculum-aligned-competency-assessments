@@ -1,0 +1,3795 @@
+{
+  "volume": 5,
+  "source": "/workspace/scratch/1facfb035d44/p78_review/bundle/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+  "sha256": "3bb0302a9a348168d58850989e6268892082f898bd2ea7f91549c7c52f32d038",
+  "slides": [
+    {
+      "slide": 115,
+      "part_number": 113,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "115",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s01_b000_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1115.4999475065617,
+            58.0
+          ],
+          "text": "周末，三个小朋友相约去玩“海盗船”，他们3人的平均身",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s01_b000_1_p0",
+          "rect": [
+            64.0,
+            200.50005249343832,
+            495.166719160105,
+            58.0
+          ],
+          "text": "高是138cm，他们可能有",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s01_b000_1_p1_left",
+          "rect": [
+            555.166719160105,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s01_b000_1_p1_right",
+          "rect": [
+            653.7400524934383,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s01_b000_1_p2",
+          "rect": [
+            699.406719160105,
+            200.50005249343832,
+            473.3333333333333,
+            58.0
+          ],
+          "text": "人能玩“海盗船”。提示",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s01_b000_2_p0",
+          "rect": [
+            64.0,
+            276.5000524934383,
+            1117.833280839895,
+            58.0
+          ],
+          "text": "牌：“146cm以下儿童禁止乘坐！”A.0；B.0或1；C.0",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s01_b000_3_p0",
+          "rect": [
+            64.0,
+            350.5000524934383,
+            360.4999475065617,
+            58.0
+          ],
+          "text": "或1或2；D.1。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、1",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 116,
+      "part_number": 114,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "116",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s01_b001_0",
+          "rect": [
+            64.0,
+            120.0,
+            1014.5694488188976,
+            480.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "pic"
+        },
+        {
+          "id": "5",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、1",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页2",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 117,
+      "part_number": 115,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "117",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s01_b002_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            217.33333333333334,
+            58.0
+          ],
+          "text": "三人总身高",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s01_b002_0_p1",
+          "rect": [
+            277.3333333333333,
+            136.7000524934383,
+            245.28,
+            33.6
+          ],
+          "text": "138×3=414",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s01_b002_0_p2",
+          "rect": [
+            525.6133333333333,
+            124.50005249343832,
+            388.0,
+            58.0
+          ],
+          "text": "厘米。若三人都超过",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s01_b002_0_p3",
+          "rect": [
+            909.6133333333333,
+            138.47338582677165,
+            61.14666666666667,
+            30.053333333333335
+          ],
+          "text": "146",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s01_b002_0_p4",
+          "rect": [
+            973.76,
+            124.50005249343832,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "厘米，总",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s01_b002_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "和就超过",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s01_b002_1_p1",
+          "rect": [
+            234.66666666666666,
+            210.7000524934383,
+            245.28,
+            33.6
+          ],
+          "text": "146×3=438",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s01_b002_1_p2",
+          "rect": [
+            482.94666666666666,
+            198.50005249343832,
+            686.6666666666666,
+            58.0
+          ],
+          "text": "厘米，不可能。因此能乘坐的可能有",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "p078_s01_b002_2_p0",
+          "rect": [
+            64.0,
+            282.3400524934383,
+            98.42666666666666,
+            38.32
+          ],
+          "text": "0,1,2",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "13",
+          "name": "p078_s01_b002_2_p1",
+          "rect": [
+            165.42666666666668,
+            272.5000524934383,
+            89.33333333333333,
+            58.0
+          ],
+          "text": "人。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "14",
+          "name": "p078_s01_b003_3_p0",
+          "rect": [
+            64.0,
+            346.5000524934383,
+            302.6666666666667,
+            58.0
+          ],
+          "text": "例如三人身高为",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "15",
+          "name": "p078_s01_b003_3_p1",
+          "rect": [
+            362.6666666666667,
+            352.95338582677164,
+            245.50666666666666,
+            45.093333333333334
+          ],
+          "text": "(138,138,138)",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "16",
+          "name": "p078_s01_b003_3_p2",
+          "rect": [
+            611.1733333333333,
+            346.5000524934383,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "厘米时，",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "17",
+          "name": "p078_s01_b003_3_p3",
+          "rect": [
+            781.84,
+            360.4733858267717,
+            22.14666666666667,
+            30.053333333333335
+          ],
+          "text": "0",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "18",
+          "name": "p078_s01_b003_3_p4",
+          "rect": [
+            806.9866666666667,
+            346.5000524934383,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "人能坐；",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "19",
+          "name": "p078_s01_b004_4_p0",
+          "rect": [
+            64.0,
+            420.5000524934383,
+            46.666666666666664,
+            58.0
+          ],
+          "text": "为",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "20",
+          "name": "p078_s01_b004_4_p1",
+          "rect": [
+            106.66666666666667,
+            426.95338582677164,
+            245.50666666666666,
+            45.093333333333334
+          ],
+          "text": "(150,132,132)",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "21",
+          "name": "p078_s01_b004_4_p2",
+          "rect": [
+            355.17333333333335,
+            420.5000524934383,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "厘米时，",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "22",
+          "name": "p078_s01_b004_4_p3",
+          "rect": [
+            525.84,
+            434.4733858267717,
+            22.14666666666667,
+            30.053333333333335
+          ],
+          "text": "1",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "23",
+          "name": "p078_s01_b004_4_p4",
+          "rect": [
+            550.9866666666667,
+            420.5000524934383,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "人能坐；",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "24",
+          "name": "p078_s01_b005_5_p0",
+          "rect": [
+            64.0,
+            494.5000524934383,
+            46.666666666666664,
+            58.0
+          ],
+          "text": "为",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "25",
+          "name": "p078_s01_b005_5_p1",
+          "rect": [
+            106.66666666666667,
+            500.95338582677164,
+            245.50666666666666,
+            45.093333333333334
+          ],
+          "text": "(150,150,114)",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "26",
+          "name": "p078_s01_b005_5_p2",
+          "rect": [
+            355.17333333333335,
+            494.5000524934383,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "厘米时，",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "27",
+          "name": "p078_s01_b005_5_p3",
+          "rect": [
+            525.84,
+            508.4733858267717,
+            22.14666666666667,
+            30.053333333333335
+          ],
+          "text": "2",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "28",
+          "name": "p078_s01_b005_5_p4",
+          "rect": [
+            550.9866666666667,
+            494.5000524934383,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "人能坐。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "29",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、1",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页3",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 118,
+      "part_number": 116,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "118",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s01_b006_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            430.6666666666667,
+            58.0
+          ],
+          "text": "三组例子的平均数都是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s01_b006_0_p1",
+          "rect": [
+            490.6666666666667,
+            138.47338582677165,
+            61.14666666666667,
+            30.053333333333335
+          ],
+          "text": "138",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s01_b006_0_p2",
+          "rect": [
+            554.8133333333334,
+            124.50005249343832,
+            601.3333333333334,
+            58.0
+          ],
+          "text": "厘米，说明平均数不能决定每人",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s01_b006_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            174.66666666666666,
+            58.0
+          ],
+          "text": "的身高。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s01_b007_2_p0",
+          "rect": [
+            64.0,
+            272.5000524934383,
+            136.33333333333334,
+            58.0
+          ],
+          "text": "选C。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、1",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页4",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 119,
+      "part_number": 117,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "119",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s01_b008_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1115.4999475065617,
+            58.0
+          ],
+          "text": "周末，三个小朋友相约去玩“海盗船”，他们3人的平均身",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s01_b008_1_p0",
+          "rect": [
+            64.0,
+            200.50005249343832,
+            495.166719160105,
+            58.0
+          ],
+          "text": "高是138cm，他们可能有",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s01_b008_1_p1_left",
+          "rect": [
+            555.166719160105,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s01_b008_1_p1_right",
+          "rect": [
+            653.7400524934383,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s01_b008_1_p1_answer",
+          "rect": [
+            609.5400524934383,
+            213.646719160105,
+            35.49333333333333,
+            31.706666666666667
+          ],
+          "text": "C",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s01_b008_1_p2",
+          "rect": [
+            699.406719160105,
+            200.50005249343832,
+            473.3333333333333,
+            58.0
+          ],
+          "text": "人能玩“海盗船”。提示",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s01_b008_2_p0",
+          "rect": [
+            64.0,
+            276.5000524934383,
+            1117.833280839895,
+            58.0
+          ],
+          "text": "牌：“146cm以下儿童禁止乘坐！”A.0；B.0或1；C.0",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s01_b008_3_p0",
+          "rect": [
+            64.0,
+            350.5000524934383,
+            360.4999475065617,
+            58.0
+          ],
+          "text": "或1或2；D.1。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、1　原题回填",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页5",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 120,
+      "part_number": 118,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "120",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s02_b000_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1111.3333333333333,
+            58.0
+          ],
+          "text": "45名同学报名课外公益活动，但有10名同学因故没有参加",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s02_b000_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1096.3333333333333,
+            58.0
+          ],
+          "text": "任何活动。实际上，参加走进敬老院活动的有21人，参加",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s02_b000_2_p0",
+          "rect": [
+            64.0,
+            272.5000524934383,
+            1053.6666666666667,
+            58.0
+          ],
+          "text": "垃圾分类宣传活动的有17人，两项公益活动都参加的有",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s02_b000_3_p0_left",
+          "rect": [
+            64.0,
+            346.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s02_b000_3_p0_right",
+          "rect": [
+            162.57333333333332,
+            346.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s02_b000_3_p1",
+          "rect": [
+            208.24,
+            348.5000524934383,
+            616.166719160105,
+            58.0
+          ],
+          "text": "人。A.4；B.7；C.17；D.3。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s02_b001_4_p0",
+          "rect": [
+            64.0,
+            424.5000524934383,
+            430.6666666666667,
+            58.0
+          ],
+          "text": "先扣除两项都未参加的",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s02_b001_4_p1",
+          "rect": [
+            490.6666666666667,
+            438.4733858267717,
+            41.64,
+            30.053333333333335
+          ],
+          "text": "10",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "p078_s02_b001_4_p2",
+          "rect": [
+            535.3066666666666,
+            424.5000524934383,
+            516.0,
+            58.0
+          ],
+          "text": "人，实际至少参加一项的有",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "13",
+          "name": "p078_s02_b001_5_p0",
+          "rect": [
+            64.0,
+            510.7000524934383,
+            225.78666666666666,
+            33.6
+          ],
+          "text": "45-10=35",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "14",
+          "name": "p078_s02_b001_5_p1",
+          "rect": [
+            292.7866666666667,
+            498.5000524934383,
+            814.6666666666666,
+            58.0
+          ],
+          "text": "人。把两项人数相加时，重复人数被多计一",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "15",
+          "name": "p078_s02_b001_6_p0",
+          "rect": [
+            64.0,
+            572.5000524934384,
+            473.3333333333333,
+            58.0
+          ],
+          "text": "次，所以两项都参加的有",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "16",
+          "name": "p078_s02_b001_6_p1",
+          "rect": [
+            533.3333333333334,
+            584.7000524934383,
+            294.7733333333333,
+            33.6
+          ],
+          "text": "21+17-35=3",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "17",
+          "name": "p078_s02_b001_6_p2",
+          "rect": [
+            831.1066666666667,
+            572.5000524934384,
+            89.33333333333333,
+            58.0
+          ],
+          "text": "人。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "18",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、2",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 121,
+      "part_number": 119,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "121",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s02_b002_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            558.6666666666666,
+            58.0
+          ],
+          "text": "也可分块核对：只参加第一项",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s02_b002_0_p1",
+          "rect": [
+            618.6666666666666,
+            136.7000524934383,
+            206.29333333333332,
+            33.6
+          ],
+          "text": "21-3=18",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s02_b002_0_p2",
+          "rect": [
+            827.96,
+            124.50005249343832,
+            345.3333333333333,
+            58.0
+          ],
+          "text": "人，只参加第二项",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s02_b002_1_p0",
+          "rect": [
+            64.0,
+            210.7000524934383,
+            206.29333333333332,
+            33.6
+          ],
+          "text": "17-3=14",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s02_b002_1_p1",
+          "rect": [
+            273.29333333333335,
+            198.50005249343832,
+            89.33333333333333,
+            58.0
+          ],
+          "text": "人；",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s02_b002_1_p2",
+          "rect": [
+            358.62666666666667,
+            211.12,
+            380.7866666666667,
+            32.76
+          ],
+          "text": "18+3+14+10=45",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s02_b002_1_p3",
+          "rect": [
+            742.4133333333333,
+            198.50005249343832,
+            388.0,
+            58.0
+          ],
+          "text": "，正好是全班人数。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s02_b003_2_p0",
+          "rect": [
+            64.0,
+            272.5000524934383,
+            139.83328083989502,
+            58.0
+          ],
+          "text": "选D。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、2",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页2",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 122,
+      "part_number": 120,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "122",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s02_b004_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1111.3333333333333,
+            58.0
+          ],
+          "text": "45名同学报名课外公益活动，但有10名同学因故没有参加",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s02_b004_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1096.3333333333333,
+            58.0
+          ],
+          "text": "任何活动。实际上，参加走进敬老院活动的有21人，参加",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s02_b004_2_p0",
+          "rect": [
+            64.0,
+            272.5000524934383,
+            1053.6666666666667,
+            58.0
+          ],
+          "text": "垃圾分类宣传活动的有17人，两项公益活动都参加的有",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s02_b004_3_p0_left",
+          "rect": [
+            64.0,
+            346.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s02_b004_3_p0_right",
+          "rect": [
+            162.57333333333332,
+            346.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s02_b004_3_p0_answer",
+          "rect": [
+            116.93333333333334,
+            361.64671916010496,
+            38.373333333333335,
+            31.706666666666667
+          ],
+          "text": "D",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s02_b004_3_p1",
+          "rect": [
+            208.24,
+            348.5000524934383,
+            616.166719160105,
+            58.0
+          ],
+          "text": "人。A.4；B.7；C.17；D.3。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、2　原题回填",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页3",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 123,
+      "part_number": 121,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "123",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s03_b000_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1122.0,
+            58.0
+          ],
+          "text": "如果三个数的平均数是45，而且这三个数均大于40，那么",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s03_b000_1_p0",
+          "rect": [
+            64.0,
+            200.50005249343832,
+            388.0,
+            58.0
+          ],
+          "text": "最大的那个数可能是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s03_b000_1_p1_left",
+          "rect": [
+            448.0,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s03_b000_1_p1_right",
+          "rect": [
+            546.5733333333334,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s03_b000_1_p2",
+          "rect": [
+            592.24,
+            200.50005249343832,
+            492.3333333333333,
+            58.0
+          ],
+          "text": "。A.42；B.70；C.49；",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s03_b000_2_p0",
+          "rect": [
+            64.0,
+            276.5000524934383,
+            155.66666666666666,
+            58.0
+          ],
+          "text": "D.60。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s03_b001_3_p0",
+          "rect": [
+            64.0,
+            345.0,
+            1152.0,
+            58.0
+          ],
+          "text": "其余两数都大于40，先求最大数的上界：",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s03_b001_3_p1",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "p078_s03_b001_3_p2",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "13",
+          "name": "p078_s03_b001_3_p3",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "14",
+          "name": "p078_s03_b001_3_p4",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "15",
+          "name": "p078_s03_b001_4_p0",
+          "rect": [
+            0.0,
+            0.0,
+            1280.0,
+            720.0
+          ],
+          "text": "45×3-(40+40)=135-80=55",
+          "native_math": true,
+          "group": true,
+          "kind": "grpSp"
+        },
+        {
+          "id": "29",
+          "name": "p078_s03_b001_4_p0_simplify_rhs0",
+          "rect": [
+            106.0,
+            415.0,
+            558.0,
+            60.0
+          ],
+          "text": "45×3-(40+40)",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "30",
+          "name": "p078_s03_b001_4_p0_simplify_equals1",
+          "rect": [
+            64.0,
+            475.0,
+            34.0,
+            60.0
+          ],
+          "text": "=",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "31",
+          "name": "p078_s03_b001_4_p0_simplify_rhs1",
+          "rect": [
+            106.0,
+            475.0,
+            558.0,
+            60.0
+          ],
+          "text": "135-80",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "32",
+          "name": "p078_s03_b001_4_p0_simplify_equals2",
+          "rect": [
+            64.0,
+            535.0,
+            34.0,
+            60.0
+          ],
+          "text": "=",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "33",
+          "name": "p078_s03_b001_4_p0_simplify_rhs2",
+          "rect": [
+            106.0,
+            535.0,
+            558.0,
+            60.0
+          ],
+          "text": "55",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "16",
+          "name": "p078_s03_b001_4_p1",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "17",
+          "name": "p078_s03_b001_4_p2",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "18",
+          "name": "p078_s03_b001_4_p3",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "19",
+          "name": "p078_s03_b001_4_p4",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "20",
+          "name": "p078_s03_b001_4_p5",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "21",
+          "name": "p078_s03_b001_5_p0",
+          "rect": [
+            730.0,
+            415.0,
+            480.0,
+            240.0
+          ],
+          "text": "最大数应不小于45，并且严格小于55。49符合。例如49、43、43。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "22",
+          "name": "p078_s03_b001_5_p1",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "23",
+          "name": "p078_s03_b001_5_p2",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "24",
+          "name": "p078_s03_b001_5_p3",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "25",
+          "name": "p078_s03_b001_5_p4",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "26",
+          "name": "p078_s03_b001_5_p5",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "27",
+          "name": "p078_s03_b002_6_p0",
+          "rect": [
+            64.0,
+            615.0,
+            1152.0,
+            58.0
+          ],
+          "text": "选C。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "28",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、3",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 124,
+      "part_number": 122,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "124",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s03_b003_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1122.0,
+            58.0
+          ],
+          "text": "如果三个数的平均数是45，而且这三个数均大于40，那么",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s03_b003_1_p0",
+          "rect": [
+            64.0,
+            200.50005249343832,
+            388.0,
+            58.0
+          ],
+          "text": "最大的那个数可能是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s03_b003_1_p1_left",
+          "rect": [
+            448.0,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s03_b003_1_p1_right",
+          "rect": [
+            546.5733333333334,
+            198.50005249343832,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s03_b003_1_p1_answer",
+          "rect": [
+            502.37333333333333,
+            213.646719160105,
+            35.49333333333333,
+            31.706666666666667
+          ],
+          "text": "C",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s03_b003_1_p2",
+          "rect": [
+            592.24,
+            200.50005249343832,
+            492.3333333333333,
+            58.0
+          ],
+          "text": "。A.42；B.70；C.49；",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s03_b003_2_p0",
+          "rect": [
+            64.0,
+            276.5000524934383,
+            155.66666666666666,
+            58.0
+          ],
+          "text": "D.60。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、3　原题回填",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页2",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 125,
+      "part_number": 123,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "125",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s04_b000_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "text": "甲、乙、丙三人谈论他们的平均年龄，甲说：“我比平均年",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s04_b000_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1117.6666666666667,
+            58.0
+          ],
+          "text": "龄多6岁。”乙说：“我比平均年龄少6岁。”下列说法正",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s04_b000_2_p0",
+          "rect": [
+            64.0,
+            274.5000524934383,
+            132.0,
+            58.0
+          ],
+          "text": "确的是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s04_b000_2_p1_left",
+          "rect": [
+            192.0,
+            272.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s04_b000_2_p1_right",
+          "rect": [
+            290.5733333333333,
+            272.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s04_b000_2_p2",
+          "rect": [
+            336.24,
+            274.5000524934383,
+            849.6666666666666,
+            58.0
+          ],
+          "text": "。A.丙正好6岁；B.丙的年龄和平均年龄相",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s04_b000_3_p0",
+          "rect": [
+            64.0,
+            350.5000524934383,
+            892.4999475065616,
+            58.0
+          ],
+          "text": "等；C.乙不是最小的；D.无法确定丙的年龄。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、4",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 126,
+      "part_number": 124,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "126",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s04_b001_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            302.6666666666667,
+            58.0
+          ],
+          "text": "甲比平均年龄多",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s04_b001_0_p1",
+          "rect": [
+            362.6666666666667,
+            138.47338582677165,
+            22.14666666666667,
+            30.053333333333335
+          ],
+          "text": "6",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s04_b001_0_p2",
+          "rect": [
+            387.81333333333333,
+            124.50005249343832,
+            388.0,
+            58.0
+          ],
+          "text": "岁，乙比平均年龄少",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s04_b001_0_p3",
+          "rect": [
+            771.8133333333334,
+            138.47338582677165,
+            22.14666666666667,
+            30.053333333333335
+          ],
+          "text": "6",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s04_b001_0_p4",
+          "rect": [
+            796.96,
+            124.50005249343832,
+            302.6666666666667,
+            58.0
+          ],
+          "text": "岁，把甲多出的",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s04_b001_0_p5",
+          "rect": [
+            1095.6266666666668,
+            138.47338582677165,
+            22.14666666666667,
+            30.053333333333335
+          ],
+          "text": "6",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s04_b001_0_p6",
+          "rect": [
+            1120.7733333333333,
+            124.50005249343832,
+            46.666666666666664,
+            58.0
+          ],
+          "text": "岁",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s04_b001_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "text": "补给乙，二者都等于平均年龄，总年龄不变。要使三人平均",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "p078_s04_b001_2_p0",
+          "rect": [
+            64.0,
+            272.5000524934383,
+            1113.3333333333333,
+            58.0
+          ],
+          "text": "仍等于这个数，丙也必须等于平均年龄。由此乙最小，甲最",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "13",
+          "name": "p078_s04_b001_3_p0",
+          "rect": [
+            64.0,
+            346.5000524934383,
+            260.0,
+            58.0
+          ],
+          "text": "大；“丙正好",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "14",
+          "name": "p078_s04_b001_3_p1",
+          "rect": [
+            320.0,
+            360.4733858267717,
+            22.14666666666667,
+            30.053333333333335
+          ],
+          "text": "6",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "15",
+          "name": "p078_s04_b001_3_p2",
+          "rect": [
+            345.14666666666665,
+            346.5000524934383,
+            302.6666666666667,
+            58.0
+          ],
+          "text": "岁”没有依据。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "16",
+          "name": "p078_s04_b002_4_p0",
+          "rect": [
+            64.0,
+            420.4999475065617,
+            1152.0,
+            132.0
+          ],
+          "text": "选B、D。甲多乙少恰抵，丙等于平均。具体岁数未给，D按字面也成立，原题不唯一。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "17",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、4",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页2",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 127,
+      "part_number": 125,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "127",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s04_b003_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "text": "甲、乙、丙三人谈论他们的平均年龄，甲说：“我比平均年",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s04_b003_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1117.6666666666667,
+            58.0
+          ],
+          "text": "龄多6岁。”乙说：“我比平均年龄少6岁。”下列说法正",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s04_b003_2_p0",
+          "rect": [
+            64.0,
+            274.5000524934383,
+            132.0,
+            58.0
+          ],
+          "text": "确的是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s04_b003_2_p1_left",
+          "rect": [
+            192.0,
+            272.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s04_b003_2_p1_right",
+          "rect": [
+            290.5733333333333,
+            272.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s04_b003_2_p1_answer",
+          "rect": [
+            238.30005249343833,
+            274.4999475065617,
+            51.29994750656168,
+            58.0
+          ],
+          "text": "B,D",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s04_b003_2_p2",
+          "rect": [
+            336.24,
+            274.5000524934383,
+            849.6666666666666,
+            58.0
+          ],
+          "text": "。A.丙正好6岁；B.丙的年龄和平均年龄相",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s04_b003_3_p0",
+          "rect": [
+            64.0,
+            350.5000524934383,
+            892.4999475065616,
+            58.0
+          ],
+          "text": "等；C.乙不是最小的；D.无法确定丙的年龄。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、4　原题回填",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页3",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 128,
+      "part_number": 126,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "128",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s05_b000_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1085.8333858267717,
+            58.0
+          ],
+          "text": "气温学上通常用一天中2时、8时、14时、20时4个时",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s05_b000_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "text": "刻的气温的平均数作为一天的平均气温。右侧是某地区某四",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s05_b000_2_p0",
+          "rect": [
+            64.0,
+            272.5000524934383,
+            902.1666141732284,
+            58.0
+          ],
+          "text": "天中4个时刻的气温情况图，日平均气温大约是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s05_b000_2_p1",
+          "rect": [
+            962.1666141732284,
+            284.14666666666665,
+            83.82666666666667,
+            34.70666666666666
+          ],
+          "text": "22°C",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s05_b000_2_p2",
+          "rect": [
+            1048.993280839895,
+            272.5000524934383,
+            89.33333333333333,
+            58.0
+          ],
+          "text": "的是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s05_b000_3_p0_left",
+          "rect": [
+            64.0,
+            346.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s05_b000_3_p0_right",
+          "rect": [
+            162.57333333333332,
+            346.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s05_b000_3_p1",
+          "rect": [
+            208.24,
+            348.5000524934383,
+            968.0,
+            58.0
+          ],
+          "text": "。A.第一天；B.第二天；C.第三天；D.第四天。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、5",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 129,
+      "part_number": 127,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "129",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s05_b001_0",
+          "rect": [
+            64.0,
+            120.0,
+            677.4674015748031,
+            480.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "pic"
+        },
+        {
+          "id": "5",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、5",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页2",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 130,
+      "part_number": 128,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "130",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s05_b002_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            516.0,
+            58.0
+          ],
+          "text": "观察第二天四个气温点相对",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s05_b002_0_p1",
+          "rect": [
+            576.0,
+            138.47338582677165,
+            41.64,
+            30.053333333333335
+          ],
+          "text": "22",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s05_b002_0_p2",
+          "rect": [
+            620.64,
+            124.50005249343832,
+            558.6666666666666,
+            58.0
+          ],
+          "text": "摄氏度虚线的位置，高于与低",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s05_b002_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            729.3333333333334,
+            58.0
+          ],
+          "text": "于该值的偏差大致抵消，所以平均约为",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s05_b002_1_p1",
+          "rect": [
+            789.3333333333334,
+            212.47338582677165,
+            41.64,
+            30.053333333333335
+          ],
+          "text": "22",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s05_b002_1_p2",
+          "rect": [
+            833.9733333333334,
+            198.50005249343832,
+            345.3333333333333,
+            58.0
+          ],
+          "text": "摄氏度。第一天整",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s05_b002_2_p0",
+          "rect": [
+            64.0,
+            272.5000524934383,
+            857.3333333333334,
+            58.0
+          ],
+          "text": "体偏高，第三天整体偏低，第四天偏低较多。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s05_b003_3_p0",
+          "rect": [
+            64.0,
+            346.5000524934383,
+            137.16671916010498,
+            58.0
+          ],
+          "text": "选B。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、5",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页3",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 131,
+      "part_number": 129,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "131",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s05_b004_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1085.8333858267717,
+            58.0
+          ],
+          "text": "气温学上通常用一天中2时、8时、14时、20时4个时",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s05_b004_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "text": "刻的气温的平均数作为一天的平均气温。右侧是某地区某四",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s05_b004_2_p0",
+          "rect": [
+            64.0,
+            272.5000524934383,
+            902.1666141732284,
+            58.0
+          ],
+          "text": "天中4个时刻的气温情况图，日平均气温大约是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s05_b004_2_p1",
+          "rect": [
+            962.1666141732284,
+            284.14666666666665,
+            83.82666666666667,
+            34.70666666666666
+          ],
+          "text": "22°C",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s05_b004_2_p2",
+          "rect": [
+            1048.993280839895,
+            272.5000524934383,
+            89.33333333333333,
+            58.0
+          ],
+          "text": "的是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s05_b004_3_p0_left",
+          "rect": [
+            64.0,
+            346.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s05_b004_3_p0_right",
+          "rect": [
+            162.57333333333332,
+            346.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s05_b004_3_p0_answer",
+          "rect": [
+            117.90666666666667,
+            361.64671916010496,
+            36.42666666666667,
+            31.706666666666667
+          ],
+          "text": "B",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "p078_s05_b004_3_p1",
+          "rect": [
+            208.24,
+            348.5000524934383,
+            968.0,
+            58.0
+          ],
+          "text": "。A.第一天；B.第二天；C.第三天；D.第四天。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "13",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、5　原题回填",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页4",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 132,
+      "part_number": 130,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "132",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s06_b000_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "text": "烟台市“非遗小传人”评选中，小兰快板和剪纸两项的平均",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s06_b000_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1102.8333858267717,
+            58.0
+          ],
+          "text": "分是94分，增加草编考核后，三项总分是281分，则小兰",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s06_b000_2_p0",
+          "rect": [
+            64.0,
+            274.5000524934383,
+            260.0,
+            58.0
+          ],
+          "text": "草编的得分是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s06_b000_2_p1_left",
+          "rect": [
+            320.0,
+            272.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s06_b000_2_p1_right",
+          "rect": [
+            418.5733333333333,
+            272.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s06_b000_2_p2",
+          "rect": [
+            464.24,
+            274.5000524934383,
+            718.6666666666666,
+            58.0
+          ],
+          "text": "。A.93分；B.92分；C.94分；D.97",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s06_b000_3_p0",
+          "rect": [
+            64.0,
+            350.5000524934383,
+            100.0,
+            58.0
+          ],
+          "text": "分。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、6",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 133,
+      "part_number": 131,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "133",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s06_b001_0_p0",
+          "rect": [
+            64.0,
+            124.0,
+            1152.0,
+            116.0
+          ],
+          "text": "94分是两项平均分，先还原两项总分，再扣除。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s06_b001_0_p1",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s06_b001_0_p2",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s06_b001_0_p3",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s06_b001_1_p0",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s06_b001_1_p1",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s06_b001_1_p2",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s06_b001_2_p0",
+          "rect": [
+            0.0,
+            0.0,
+            1280.0,
+            720.0
+          ],
+          "text": "281-94×2=281-188=93（分）",
+          "native_math": true,
+          "group": true,
+          "kind": "grpSp"
+        },
+        {
+          "id": "22",
+          "name": "p078_s06_b001_2_p0_simplify_rhs0",
+          "rect": [
+            106.0,
+            280.0,
+            1110.0,
+            60.0
+          ],
+          "text": "281-94×2",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "23",
+          "name": "p078_s06_b001_2_p0_simplify_equals1",
+          "rect": [
+            64.0,
+            340.0,
+            34.0,
+            60.0
+          ],
+          "text": "=",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "24",
+          "name": "p078_s06_b001_2_p0_simplify_rhs1",
+          "rect": [
+            106.0,
+            340.0,
+            1110.0,
+            60.0
+          ],
+          "text": "281-188",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "25",
+          "name": "p078_s06_b001_2_p0_simplify_equals2",
+          "rect": [
+            64.0,
+            400.0,
+            34.0,
+            60.0
+          ],
+          "text": "=",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "26",
+          "name": "p078_s06_b001_2_p0_simplify_rhs2",
+          "rect": [
+            106.0,
+            400.0,
+            1110.0,
+            60.0
+          ],
+          "text": "93（分）",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "p078_s06_b001_2_p1",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "13",
+          "name": "p078_s06_b001_2_p2",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "14",
+          "name": "p078_s06_b001_2_p3",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "15",
+          "name": "p078_s06_b001_2_p4",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "16",
+          "name": "p078_s06_b001_2_p5",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "17",
+          "name": "p078_s06_b001_3_p0",
+          "rect": [
+            64.0,
+            500.0,
+            1152.0,
+            58.0
+          ],
+          "text": "加入93分低于原平均94分，新平均应略低。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "18",
+          "name": "p078_s06_b001_3_p1",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "19",
+          "name": "p078_s06_b001_3_p2",
+          "rect": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "text": "",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "20",
+          "name": "p078_s06_b002_4_p0",
+          "rect": [
+            64.0,
+            590.0,
+            1152.0,
+            58.0
+          ],
+          "text": "选A。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "21",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、6",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页2",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    },
+    {
+      "slide": 134,
+      "part_number": 132,
+      "objects": [
+        {
+          "id": "3",
+          "name": "slide_number",
+          "rect": [
+            1170.0,
+            674.0,
+            50.0,
+            26.0
+          ],
+          "text": "134",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "4",
+          "name": "p078_s06_b003_0_p0",
+          "rect": [
+            64.0,
+            124.50005249343832,
+            1113.3333333333333,
+            58.0
+          ],
+          "text": "烟台市“非遗小传人”评选中，小兰快板和剪纸两项的平均",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "5",
+          "name": "p078_s06_b003_1_p0",
+          "rect": [
+            64.0,
+            198.50005249343832,
+            1102.8333858267717,
+            58.0
+          ],
+          "text": "分是94分，增加草编考核后，三项总分是281分，则小兰",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "6",
+          "name": "p078_s06_b003_2_p0",
+          "rect": [
+            64.0,
+            274.5000524934383,
+            260.0,
+            58.0
+          ],
+          "text": "草编的得分是",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "7",
+          "name": "p078_s06_b003_2_p1_left",
+          "rect": [
+            320.0,
+            272.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "（",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "8",
+          "name": "p078_s06_b003_2_p1_right",
+          "rect": [
+            418.5733333333333,
+            272.5000524934383,
+            45.666666666666664,
+            62.0
+          ],
+          "text": "）",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "9",
+          "name": "p078_s06_b003_2_p1_answer",
+          "rect": [
+            375.19338582677165,
+            287.64671916010496,
+            33.85333333333333,
+            31.706666666666667
+          ],
+          "text": "A",
+          "native_math": true,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "10",
+          "name": "p078_s06_b003_2_p2",
+          "rect": [
+            464.24,
+            274.5000524934383,
+            718.6666666666666,
+            58.0
+          ],
+          "text": "。A.93分；B.92分；C.94分；D.97",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "11",
+          "name": "p078_s06_b003_3_p0",
+          "rect": [
+            64.0,
+            350.5000524934383,
+            100.0,
+            58.0
+          ],
+          "text": "分。",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "12",
+          "name": "title",
+          "rect": [
+            64.0,
+            32.0,
+            1152.0,
+            64.0
+          ],
+          "text": "原书第78页　二、6　原题回填",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        },
+        {
+          "id": "2",
+          "name": "source",
+          "rect": [
+            64.0,
+            674.0,
+            1060.0,
+            26.0
+          ],
+          "text": "原题底本第82页　输入PDF第104页　解析续页3",
+          "native_math": false,
+          "group": false,
+          "kind": "sp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": "p003_s07",
+  "reference_library_id": "",
+  "reference_slides": [
+    6,
+    7,
+    9,
+    10
+  ],
+  "labels": {
+    "0": "每班\\(4\\)千克",
+    "1": "\\(18\\)个班",
+    "2": "平均每批\\(10\\)千克",
+    "3": "回收总量\\(72\\)千克",
+    "4": "已处理\\(32\\)千克",
+    "5": "剩余\\(40\\)千克",
+    "6": "\\(4\\)批",
+    "7": "剩余\\(40\\)千克",
+    "8": "\\(4\\)批",
+    "9": "回收总量\\(72\\)千克",
+    "10": "已处理\\(32\\)千克",
+    "11": "平均每批\\(10\\)千克",
+    "12": "每班\\(4\\)千克",
+    "13": "\\(18\\)个班"
+  },
+  "left_tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=3.0cm,minimum height=.65cm,inner sep=3pt}]\\node[b](a)at(0,0){{\\color{red}每班\\(4\\)千克}};\\node[b](b)at(3.8,0){{\\color{red}\\(18\\)个班}};\\node at(1.9,0){$\\times$};\\node[b](c)at(0,-1.2){{\\color{red}回收总量\\(72\\)千克}};\\node[b](d)at(3.8,-1.2){{\\color{red}已处理\\(32\\)千克}};\\node at(1.9,-1.2){$-$};\\draw(a.south)--(c.north);\\draw(b.south)--(c.north);\\node[b](e)at(0,-2.4){{\\color{red}剩余\\(40\\)千克}};\\node[b](f)at(3.8,-2.4){{\\color{red}\\(4\\)批}};\\node at(1.9,-2.4){$\\div$};\\draw(c.south)--(e.north);\\draw(d.south)--(e.north);\\node[b](g)at(1.9,-3.6){{\\color{red}平均每批\\(10\\)千克}};\\draw(e.south)--(g.north);\\draw(f.south)--(g.north);\\node[above]at(1.9,.65){从条件开始分析};\\end{tikzpicture}",
+  "right_tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=3.0cm,minimum height=.65cm,inner sep=3pt}]\\node[b](a)at(1.9,0){{\\color{red}平均每批\\(10\\)千克}};\\node[b](b)at(0,-1.2){{\\color{red}剩余\\(40\\)千克}};\\node[b](c)at(3.8,-1.2){{\\color{red}\\(4\\)批}};\\node at(1.9,-1.2){$\\div$};\\draw(a.south)--(b.north);\\draw(a.south)--(c.north);\\node[b](d)at(0,-2.4){{\\color{red}回收总量\\(72\\)千克}};\\node[b](e)at(3.8,-2.4){{\\color{red}已处理\\(32\\)千克}};\\node at(1.9,-2.4){$-$};\\draw(b.south)--(d.north);\\draw(b.south)--(e.north);\\node[b](f)at(0,-3.6){{\\color{red}每班\\(4\\)千克}};\\node[b](g)at(3.8,-3.6){{\\color{red}\\(18\\)个班}};\\node at(1.9,-3.6){$\\times$};\\draw(d.south)--(f.north);\\draw(d.south)--(g.north);\\node[above]at(1.9,.65){从问题开始分析};\\end{tikzpicture}",
+  "new_note": "从条件出发分析：先求一共回收多少千克，再求剩下多少千克，最后求平均每批送多少千克。\\par 从问题出发分析：求每批质量，需要知道剩余质量和批数；求剩余质量，需要知道回收总量和已处理质量；求回收总量，需要知道每班回收质量和班数。两幅图的分析方向不同，原位的综合算式相同。\\par 另法：把总量和已处理量都平均分成\\(4\\)份，再比较每份的差：\\[\\begin{aligned}&4\\times18\\div4-32\\div4\\\\={}&72\\div4-8\\\\={}&18-8\\\\={}&10\\text{（千克）}\\end{aligned}\\]\\par 检验：\\[\\begin{aligned}&10\\times4+32\\\\={}&40+32\\\\={}&72\\text{（千克）}\\end{aligned}\\]剩余量与已处理量之和等于回收总量\\(4\\times18=72\\)千克，答案正确。乘法中的\\(4\\)表示每班回收的千克数，除法中的\\(4\\)表示批数。",
+  "answer_latex": "从条件出发，先求回收总量，再求剩余质量，最后求平均每批质量。\\par 从问题出发，要求每批质量，需要知道剩余质量和批数；要求剩余质量，需要知道回收总量和已处理质量；要求回收总量，需要知道每班回收质量和班数。\\par 两种分析方向都列同一个综合算式：\\[\\begin{aligned}&(4\\times18-32)\\div4\\\\={}&(72-32)\\div4\\\\={}&40\\div4\\\\={}&10\\text{（千克）}\\end{aligned}\\]答：平均每批送\\(10\\)千克。\\par 另法：将总量与已处理量分别平均分成4份后比较每份之差：\\[\\begin{aligned}&4\\times18\\div4-32\\div4\\\\={}&72\\div4-8\\\\={}&18-8\\\\={}&10\\text{（千克）}\\end{aligned}\\]\\par 检验：\\[\\begin{aligned}&10\\times4+32\\\\={}&40+32\\\\={}&72\\text{（千克）}\\end{aligned}\\]与回收总量\\(4\\times18=72\\)千克一致。"
+}

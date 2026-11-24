@@ -1,0 +1,273 @@
+[
+  {
+    "volume": 5,
+    "slide": 53,
+    "key": "p075_s03",
+    "book_page": 75,
+    "source_page": 79,
+    "input_pdf_page": 100,
+    "question_id": "三、2",
+    "xml_sha256": "f9ec87cba767d6276dfbec93a90b3fb178d465ba6efdff43b8c67f9ecafa34da",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "text": "53",
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p075_s03_b003_0",
+        "rect": [
+          106.0,
+          120.0,
+          1110.0,
+          54.0
+        ],
+        "text": "(720×2)÷(12+8)",
+        "native_math": true
+      },
+      {
+        "id": "5",
+        "name": "p075_s03_b004_1_operator",
+        "rect": [
+          64.0,
+          192.0,
+          34.0,
+          54.0
+        ],
+        "text": "=",
+        "native_math": true
+      },
+      {
+        "id": "6",
+        "name": "p075_s03_b004_1",
+        "rect": [
+          0.0,
+          0.0,
+          1280.0,
+          720.0
+        ],
+        "text": "(720×2)÷20=720×(2÷2)÷10=720÷10先把总路程括成一个整体。简算用乘除性质：把20拆成2与10的积。",
+        "native_math": true
+      },
+      {
+        "id": "13",
+        "name": "p075_s03_b004_1_simplify_rhs0",
+        "rect": [
+          106.0,
+          192.0,
+          1110.0,
+          54.0
+        ],
+        "text": "(720×2)÷20",
+        "native_math": true
+      },
+      {
+        "id": "14",
+        "name": "p075_s03_b004_1_simplify_equals1",
+        "rect": [
+          64.0,
+          246.0,
+          34.0,
+          54.0
+        ],
+        "text": "=",
+        "native_math": true
+      },
+      {
+        "id": "15",
+        "name": "p075_s03_b004_1_simplify_rhs1",
+        "rect": [
+          106.0,
+          246.0,
+          1110.0,
+          54.0
+        ],
+        "text": "720×(2÷2)÷10",
+        "native_math": true
+      },
+      {
+        "id": "16",
+        "name": "p075_s03_b004_1_simplify_equals2",
+        "rect": [
+          64.0,
+          300.0,
+          34.0,
+          54.0
+        ],
+        "text": "=",
+        "native_math": true
+      },
+      {
+        "id": "17",
+        "name": "p075_s03_b004_1_simplify_rhs2",
+        "rect": [
+          106.0,
+          300.0,
+          1110.0,
+          54.0
+        ],
+        "text": "720÷10",
+        "native_math": true
+      },
+      {
+        "id": "18",
+        "name": "p075_s03_parentheses_explanation",
+        "rect": [
+          64.0,
+          530.0,
+          1152.0,
+          116.0
+        ],
+        "text": "先把总路程括成一个整体。简算用乘除性质：把20拆成2与10的积。",
+        "native_math": false
+      },
+      {
+        "id": "7",
+        "name": "p075_s03_b005_2_operator",
+        "rect": [
+          64.0,
+          369.0,
+          34.0,
+          54.0
+        ],
+        "text": "=",
+        "native_math": false
+      },
+      {
+        "id": "8",
+        "name": "p075_s03_b005_2",
+        "rect": [
+          106.0,
+          369.0,
+          1000.0,
+          54.0
+        ],
+        "text": "72（米/分）",
+        "native_math": true
+      },
+      {
+        "id": "9",
+        "name": "p075_s03_b006_3_p0",
+        "rect": [
+          64.0,
+          439.5000524934383,
+          430.6666666666667,
+          58.0
+        ],
+        "text": "答：来回平均每分钟走",
+        "native_math": false
+      },
+      {
+        "id": "10",
+        "name": "p075_s03_b006_3_p1",
+        "rect": [
+          490.6666666666667,
+          453.4733858267717,
+          41.64,
+          30.053333333333335
+        ],
+        "text": "72",
+        "native_math": true
+      },
+      {
+        "id": "11",
+        "name": "p075_s03_b006_3_p2",
+        "rect": [
+          535.3066666666666,
+          439.5000524934383,
+          89.33333333333333,
+          58.0
+        ],
+        "text": "米。",
+        "native_math": false
+      },
+      {
+        "id": "12",
+        "name": "title",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "text": "原书第75页　三、2",
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "text": "原题底本第79页　输入PDF第100页　解析续页2",
+        "native_math": false
+      }
+    ],
+    "rules": [
+      {
+        "volume": 5,
+        "slide": 53,
+        "key": "p075_s03",
+        "ops": [
+          {
+            "type": "math",
+            "name": "p075_s03_b003_0",
+            "tex": "(720\\times2)\\div(12+8)",
+            "rect": [
+              106,
+              120,
+              1110,
+              54
+            ],
+            "points": 32
+          },
+          {
+            "type": "math",
+            "name": "p075_s03_b004_1_simplify_rhs0",
+            "tex": "(720\\times2)\\div20",
+            "rect": [
+              106,
+              192,
+              1110,
+              54
+            ],
+            "points": 32
+          },
+          {
+            "type": "math",
+            "name": "p075_s03_b004_1_simplify_rhs1",
+            "tex": "720\\times(2\\div2)\\div10",
+            "rect": [
+              106,
+              246,
+              1110,
+              54
+            ],
+            "points": 32
+          }
+        ]
+      }
+    ],
+    "calculation_rows": [
+      "(720×2)÷(12+8)",
+      "(720×2)÷20",
+      "720×(2÷2)÷10",
+      "720÷10",
+      "72（米/分）"
+    ],
+    "answer": "来回平均每分钟走72米。",
+    "original_click_count": 4,
+    "click_order_unchanged": true
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "powerpoint_playback_tested": false,
+  "wps_playback_tested": false,
+  "volumes": [
+    {
+      "volume": 2,
+      "output_sha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+      "slides": 479,
+      "changed_slides": [
+        149,
+        192,
+        310,
+        333,
+        352
+      ],
+      "static_rendered_changed_slide_count": 5,
+      "human_inspected_changed_slide_count": 5,
+      "all_original_timing_bytes_unchanged": true,
+      "all_original_ids_names_order_preserved": true,
+      "unrelated_slides_and_parts_byte_identical": true,
+      "static_renders": [
+        {
+          "slide": 149,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after2/slide-149.png",
+          "image_sha256": "8c19d54f0106449a8f149fb4c5d31f5306d31390cf5e5ade34cc62802ed2b83a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft2/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 192,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-192.png",
+          "image_sha256": "11f6758ba7a6d69ddcc6cec59edc0d7b4c71f0484d2d3e2d41c8e63f06ce8e9a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 310,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-310.png",
+          "image_sha256": "b9fba8e8abb7b6926f4658eefe392ffe61f27c9186df6b838e6dceab29b72476",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 333,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-333.png",
+          "image_sha256": "ca0fa3f43835cc1397ef0b8dbd8391b196a70e1d14ef8f721474d0a4918ad3c1",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 352,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-352.png",
+          "image_sha256": "0e166da0aa038d6c0288ad989b96ba553c92f99cba1c7244efce3beb4470671a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        }
+      ]
+    }
+  ],
+  "mathematics": {
+    "exact_step_values": {
+      "p024_s03": {
+        "original": 728,
+        "days_hint": 91
+      },
+      "p025_s17": 42,
+      "p030_s10": 1248,
+      "p031_s08": 25,
+      "p032_s02": 1200
+    },
+    "all_intermediate_expressions_recomputed_equal": true,
+    "early_main_method_preserved": true
+  },
+  "rendering_revision": "Moved slide149 answer below the new days hint after an actual first-render overlap was found; final corrected rendering reviewed.",
+  "native_math": "Changed equations are genuine native OMML, with compiled XeLaTeX SVG/PNG fallbacks; original TikZ picture retained.",
+  "font_sizes": {
+    "main_equations": 32,
+    "note_headings": 26,
+    "short_note_explanation": 24
+  },
+  "finalizer_receipt": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/qa/volume2.validation.json",
+  "limitation": "Static ArtifactTool checks and unchanged OOXML timing do not establish PowerPoint/WPS playback; neither application was opened."
+}

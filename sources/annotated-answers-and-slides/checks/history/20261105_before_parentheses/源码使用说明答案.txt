@@ -1,0 +1,9 @@
+本次当前检查入口是recheck_update/qa_current.json。活动题源在questions，题内解析在detailed_layout/notes_A到D，当前课件哈希在ppt_builder/current_inventory.json；本轮课件补丁、公式兼容资产和QA在ppt_recheck及其metadata引用位置。
+此前simplify_update、axis_update、followup_style、style_patch及checks中的QA属于历史，除当前入口明确引用外不得冒称本轮结果。
+latex/详细题内答案.tex含929个实际编译片段（856段非空解析与73个局部替换），字体使用包内相对路径。项目根目录编译：
+  xelatex -interaction=nonstopmode -halt-on-error -output-directory latex latex/详细题内答案.tex
+从当前交付答案PDF恢复源页并重建：
+  python recover_detailed_base.py /path/to/小学同步素养四年级上册数学答案.pdf --output recovered/annotated_a4_128.pdf --pure-output recovered/pure_source_128.pdf
+  python build_detailed_answers.py --run-name rebuild --publish --input recovered/annotated_a4_128.pdf --pure-source recovered/pure_source_128.pdf
+重建源已包含本轮更正，重新组合图层可能出现细微抗锯齿差异，不承诺与交付PDF字节或像素完全相同。一次性升级脚本依赖对应旧PDF/PPTX，活动源已经更新，不要盲目再次执行旧补丁。
+公式采用真实数学排版；课件原生OMML及XeLaTeX生成的SVG/PNG兼容分支以当前PPT QA和实际导出的对象记录为准。必要的原字形图片保留于preserved_glyphs；本轮不改几何题图。Python需要PyMuPDF/NumPy，公式需要XeLaTeX。

@@ -1,0 +1,93 @@
+{
+  "schema": "suyang-final-visual-release-v1",
+  "inventory_path": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/current_inventory.json",
+  "inventory_sha256": "ad0c4db1620baf54dfea5156d14eb1d847e715c54b85e33d096272de6599afe9",
+  "slides": 2667,
+  "volumes": [
+    {
+      "volume": 1,
+      "pptx_sha256": "bae9ace05a27c4178d32ad36ccdb2b5c9ee6bce943b16362377be4fdda92e16b",
+      "slides": 426,
+      "qa_path": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/qa_visual_vol01_final_order.json",
+      "qa_sha256": "94f60b67f54a4932bc19d167b6c8aa3615eb915d223b2f39d3e768019bf8f373",
+      "pass": true,
+      "actual_review_scope": "426页最终实际LibreOffice静态PNG均已概览；383页正文像素与417版已审内容完全一致，43页新增/重排（含A标签260）全部原尺寸实看。旧A碰线已关闭，未发现新遮挡裁切。比较每题正文字符总量（不计标点空白）及媒体引用SHA多重集；按私有索引核对页脚、标题实际像素。未重新逐题数学证明，也未进行PowerPoint动画放映测试。",
+      "powerpoint_slideshow_playback_tested": false
+    },
+    {
+      "volume": 2,
+      "pptx_sha256": "152a5ccafd19e7e1ab113444c3b34e7c8e64578739cfdbeff7a6074acc53a61b",
+      "slides": 479,
+      "qa_path": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/qa_visual_vol02_final_order.json",
+      "qa_sha256": "c56c5e745d1837105999c2bace00bee0f1cec4f2659f21283cea5cf71b23737e",
+      "pass": true,
+      "actual_review_scope": {
+        "original_size_seen": 52,
+        "exact_body_inherited": 427,
+        "overview_slides": 479,
+        "limitation": "静态视觉复核；未进行原生点击动画放映测试。"
+      },
+      "powerpoint_slideshow_playback_tested": false
+    },
+    {
+      "volume": 3,
+      "pptx_sha256": "7ac0ffa8ee3b329a4b9103aaed5f8c18f9d797f85d6020e8150620903b2d8625",
+      "slides": 406,
+      "qa_path": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/qa_visual_vol03_final_order.json",
+      "qa_sha256": "db317368cc7f511dcc7311d214e626f3d9aecfe65419d1ef1afca4e5465b08d8",
+      "pass": true,
+      "actual_review_scope": {
+        "baseline_overview_slides": 406,
+        "baseline_original_size_seen": 24,
+        "unchanged_final_rasters_inherited": 405,
+        "final_original_resolution_seen": [
+          389,
+          390
+        ],
+        "limitation": "只核静态导出与页面顺序。逐对象点击与动画结构由owner另核；未在PowerPoint中播放，不声称PowerPoint播放测试通过。未将字符简单后移的排版核对称为重新独立验算全卷。"
+      },
+      "powerpoint_slideshow_playback_tested": false
+    },
+    {
+      "volume": 4,
+      "pptx_sha256": "16c8ec03f0984a8534a99db00884480cedf9d7ef935185a30d1faa68116cc10a",
+      "slides": 462,
+      "qa_path": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/qa_visual_vol04_final_order.json",
+      "qa_sha256": "670778a15c5c3cf390906fea9004cd6c87123120733fce55f785d99ba27b1545",
+      "pass": true,
+      "actual_review_scope": {
+        "total_slides": 462,
+        "direct_contact_overview": 462,
+        "contact_sheets": 19,
+        "exact_body_inherited": 459,
+        "changed_full_size_seen": 3,
+        "additional_full_size": 7,
+        "slideshow_playback": false
+      },
+      "powerpoint_slideshow_playback_tested": false
+    },
+    {
+      "volume": 5,
+      "pptx_sha256": "e2dede367bdbd38120213a64ca7726f00ac5b5b39c3b5d7dcc11c3610ee9ba17",
+      "slides": 430,
+      "qa_path": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/qa_visual_vol05_final_order.json",
+      "qa_sha256": "d72efce93f59a31dd93df0ecde576b041611e4c836bbef02126bacfeefdc708f",
+      "pass": true,
+      "actual_review_scope": "97 changed body images full-size + 18 contact sheets overview; 333 exact decoded body images inherit prior evidence; no slideshow playback claim.",
+      "powerpoint_slideshow_playback_tested": false
+    },
+    {
+      "volume": 6,
+      "pptx_sha256": "28d7cd5a2718517e147626d86ce56efd7acc4fd12b443b816496b2ab779964fa",
+      "slides": 464,
+      "qa_path": "/workspace/scratch/1facfb035d44/suyang_work/ppt_builder/qa_visual_vol06_final_order.json",
+      "qa_sha256": "0fe8cea10ac99373fff0b3d414ede5f3a7b6183250663654ae8c0e0fe0d9c367",
+      "pass": true,
+      "actual_review_scope": "仅两页原尺寸重新实看；其余462张完整1280×720 RGB（含页脚）与既有已审版本完全一致，逐页像素比较继承原V/B证据。全部464张新实际导出另做完整PNG解码和SHA封存。未进行PowerPoint/WPS放映测试。",
+      "powerpoint_slideshow_playback_tested": false
+    }
+  ],
+  "pending": [],
+  "passed": true,
+  "scope": "Static visual review and explicitly documented inheritance only. All six direct LibreOffice exports are separately decoded/sealed. No Microsoft PowerPoint/WPS slideshow playback test."
+}

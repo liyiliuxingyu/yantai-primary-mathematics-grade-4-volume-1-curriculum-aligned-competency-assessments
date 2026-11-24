@@ -1,0 +1,542 @@
+{
+  "book_page": 72,
+  "source_page": 76,
+  "records": [
+    {
+      "key": "p072_s01",
+      "book_page": 72,
+      "source_page": 76,
+      "section_index": 0,
+      "id": "五、1（图②）",
+      "kind": "drawing",
+      "question_latex": "按图①的规律，补全图②中缺少的部分。图①的T形按顺时针方向逐次转\\(90^\\circ\\)，图②已给左上Y形与右下转\\(180^\\circ\\)后的Y形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p072_letter_patterns",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\foreach \\x/\\lab in {0/{图①},3/{图②},6/{图③}}{\\draw(\\x,0)rectangle(\\x+2,2);\\draw(\\x+1,0)--(\\x+1,2);\\draw(\\x,1)--(\\x+2,1);\\node at(\\x+1,-.4){\\lab};}\\foreach \\x/\\y/\\a in {.5/1.5/0,1.5/1.5/-90,1.5/.5/-180,.5/.5/-270}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.3,.3)--(.3,.3);\\draw[line width=4pt](0,.3)--(0,-.35);\\end{scope}}\\foreach \\x/\\y/\\a in {3.5/1.5/0,4.5/.5/-180}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.3,.3)--(0,0)--(.3,.3);\\draw[line width=4pt](0,0)--(0,-.35);\\end{scope}}\\foreach \\x/\\y/\\a in {6.5/1.5/0,7.5/1.5/-90}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.25,-.35)--(-.25,.35)--(.3,.35);\\draw[line width=4pt](-.25,0)--(.15,0);\\end{scope}}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p072_letter_patterns_answer",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\foreach \\x/\\lab in {0/{图①},3/{图②},6/{图③}}{\\draw(\\x,0)rectangle(\\x+2,2);\\draw(\\x+1,0)--(\\x+1,2);\\draw(\\x,1)--(\\x+2,1);\\node at(\\x+1,-.4){\\lab};}\\foreach \\x/\\y/\\a in {.5/1.5/0,1.5/1.5/-90,1.5/.5/-180,.5/.5/-270}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.3,.3)--(.3,.3);\\draw[line width=4pt](0,.3)--(0,-.35);\\end{scope}}\\foreach \\x/\\y/\\a in {3.5/1.5/0,4.5/.5/-180}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.3,.3)--(0,0)--(.3,.3);\\draw[line width=4pt](0,0)--(0,-.35);\\end{scope}}\\foreach \\x/\\y/\\a in {6.5/1.5/0,7.5/1.5/-90}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.25,-.35)--(-.25,.35)--(.3,.35);\\draw[line width=4pt](-.25,0)--(.15,0);\\end{scope}}\n\\foreach \\x/\\y/\\a in {4.5/1.5/-90,3.5/.5/-270}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[red,line width=4pt](-.3,.3)--(0,0)--(.3,.3);\\draw[red,line width=4pt](0,0)--(0,-.35);\\end{scope}}\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "按图①的规律，左上图形依次顺时针旋转90°、180°、270°填入右上、右下、左下。对Y形，右上应开口朝右，左下开口朝左；转动前后的三条臂长度相同，交点落在各小格相应中心。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "preserve_glyph": true,
+      "glyph_note": "使用笔画路径保留原图粗黑T、Y、F的几何形状，按旋转关系补全，不采用会改变字形的字体替换。",
+      "animation": {
+        "type": "rotation_copies",
+        "center": [
+          0,
+          0
+        ],
+        "angles": [
+          90,
+          270
+        ],
+        "direction": "clockwise",
+        "object_paths": [
+          [
+            [
+              -0.3,
+              0.3
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              0.3,
+              0.3
+            ]
+          ],
+          [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              -0.35
+            ]
+          ]
+        ],
+        "copy_placements": [
+          {
+            "angle": 90,
+            "origin": [
+              4.5,
+              1.5
+            ]
+          },
+          {
+            "angle": 270,
+            "origin": [
+              3.5,
+              0.5
+            ]
+          }
+        ],
+        "closed": false,
+        "object_coordinate_space": "local_glyph",
+        "stroke_width_pt": 4
+      }
+    },
+    {
+      "key": "p072_s02",
+      "book_page": 72,
+      "source_page": 76,
+      "section_index": 1,
+      "id": "五、1（图③）",
+      "kind": "drawing",
+      "question_latex": "按图①的规律，补全图③中缺少的部分。图③已给左上F形与右上顺时针转\\(90^\\circ\\)后的F形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p072_letter_patterns",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\foreach \\x/\\lab in {0/{图①},3/{图②},6/{图③}}{\\draw(\\x,0)rectangle(\\x+2,2);\\draw(\\x+1,0)--(\\x+1,2);\\draw(\\x,1)--(\\x+2,1);\\node at(\\x+1,-.4){\\lab};}\\foreach \\x/\\y/\\a in {.5/1.5/0,1.5/1.5/-90,1.5/.5/-180,.5/.5/-270}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.3,.3)--(.3,.3);\\draw[line width=4pt](0,.3)--(0,-.35);\\end{scope}}\\foreach \\x/\\y/\\a in {3.5/1.5/0,4.5/.5/-180}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.3,.3)--(0,0)--(.3,.3);\\draw[line width=4pt](0,0)--(0,-.35);\\end{scope}}\\foreach \\x/\\y/\\a in {6.5/1.5/0,7.5/1.5/-90}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.25,-.35)--(-.25,.35)--(.3,.35);\\draw[line width=4pt](-.25,0)--(.15,0);\\end{scope}}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p072_letter_patterns_answer",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\foreach \\x/\\lab in {0/{图①},3/{图②},6/{图③}}{\\draw(\\x,0)rectangle(\\x+2,2);\\draw(\\x+1,0)--(\\x+1,2);\\draw(\\x,1)--(\\x+2,1);\\node at(\\x+1,-.4){\\lab};}\\foreach \\x/\\y/\\a in {.5/1.5/0,1.5/1.5/-90,1.5/.5/-180,.5/.5/-270}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.3,.3)--(.3,.3);\\draw[line width=4pt](0,.3)--(0,-.35);\\end{scope}}\\foreach \\x/\\y/\\a in {3.5/1.5/0,4.5/.5/-180}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.3,.3)--(0,0)--(.3,.3);\\draw[line width=4pt](0,0)--(0,-.35);\\end{scope}}\\foreach \\x/\\y/\\a in {6.5/1.5/0,7.5/1.5/-90}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[line width=4pt](-.25,-.35)--(-.25,.35)--(.3,.35);\\draw[line width=4pt](-.25,0)--(.15,0);\\end{scope}}\n\\foreach \\x/\\y/\\a in {7.5/.5/-180,6.5/.5/-270}{\\begin{scope}[shift={(\\x,\\y)},rotate=\\a]\\draw[red,line width=4pt](-.25,-.35)--(-.25,.35)--(.3,.35);\\draw[red,line width=4pt](-.25,0)--(.15,0);\\end{scope}}\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "F形按同一旋转规律补齐：右下为左上旋转180°的形状，左下为旋转270°的形状。F的长竖笔、顶横笔、中横笔分别对应，不能把镜像当作旋转。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "preserve_glyph": true,
+      "animation": {
+        "type": "rotation_copies",
+        "center": [
+          0,
+          0
+        ],
+        "angles": [
+          180,
+          270
+        ],
+        "direction": "clockwise",
+        "object_paths": [
+          [
+            [
+              -0.25,
+              -0.35
+            ],
+            [
+              -0.25,
+              0.35
+            ],
+            [
+              0.3,
+              0.35
+            ]
+          ],
+          [
+            [
+              -0.25,
+              0
+            ],
+            [
+              0.15,
+              0
+            ]
+          ]
+        ],
+        "copy_placements": [
+          {
+            "angle": 180,
+            "origin": [
+              7.5,
+              0.5
+            ]
+          },
+          {
+            "angle": 270,
+            "origin": [
+              6.5,
+              0.5
+            ]
+          }
+        ],
+        "closed": false,
+        "object_coordinate_space": "local_glyph",
+        "stroke_width_pt": 4
+      }
+    },
+    {
+      "key": "p072_s03",
+      "book_page": 72,
+      "source_page": 76,
+      "section_index": 2,
+      "id": "五、2",
+      "kind": "fill",
+      "question_latex": "剪纸艺术是我国文化宝库中的优秀遗产，其技法中有对称、平移和旋转现象。判断下列三幅剪纸图案分别属于什么现象，在括号内填写。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p072_papercut_relations",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\def\\fish{(0,0)..controls(.4,.5)and(1,.5)..(1.3,0)..controls(1,-.5)and(.4,-.5)..cycle (0,0)--(-.35,.3)--(-.35,-.3)--cycle}\\begin{scope}[shift={(0,0)}]\\draw\\fish;\\end{scope}\\begin{scope}[shift={(2.6,0)},xscale=-1]\\draw\\fish;\\end{scope}\\node at(1.3,-1){第一幅};\\begin{scope}[shift={(4.7,.4)}]\\draw\\fish;\\end{scope}\\begin{scope}[shift={(6,-.4)},rotate=180]\\draw\\fish;\\end{scope}\\node at(5.4,-1){第二幅};\\foreach \\x/\\y in {8/0,9.6/0,8/1,9.6/1}{\\begin{scope}[shift={(\\x,\\y)},scale=.5]\\draw\\fish;\\end{scope}}\\node at(9,-1){第三幅};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "非定量动物剪纸重画为同形线图；三组分别严格保留镜像、中心旋转和同向平移的结构。"
+        }
+      ],
+      "answer_latex": "第一幅剪纸左右两鱼互为镜像，是“对称”；第二幅动物围绕中心转动，是“旋转”；第三幅动物保持朝向重复移位，是“平移”。依次填对称、旋转、平移。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p072_s04",
+      "book_page": 72,
+      "source_page": 76,
+      "section_index": 3,
+      "id": "五、3（1）",
+      "kind": "drawing",
+      "question_latex": "下面是华华画的自己家新建房屋平面图，每个小正方形的边长是2米，但图中有三处错误，你能按下面的要求帮她改正吗？（1）画出花圃的另一半，使它成为一个轴对称图形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p072_house_plan",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.45cm]\\draw[step=1,gray!60](0,0)grid(16,8);\\draw[very thick](0,6)rectangle(1,8);\\node[align=center]at(.5,7){厨\\\\房};\\draw(4,6)--(5,5)--(7,5)--(8,6);\\node at(6,5.5){花圃};\\node[align=center]at(2.5,3){餐\\\\厅};\\node at(4,3.5){客厅};\\node at(6,3.5){院子};\\node at(4,1.5){主卧};\\node at(6,1.5){次卧};\\node[align=center]at(7.5,1){书\\\\房};\\draw[very thick](11,0)rectangle(13,3);\\node at(12,1.5){车库};\\fill(11,0)circle(.07)node[below left]{C};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p072_house_plan_answer",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.45cm]\\draw[step=1,gray!60](0,0)grid(16,8);\\draw[very thick](0,6)rectangle(1,8);\\node[align=center]at(.5,7){厨\\\\房};\\draw(4,6)--(5,5)--(7,5)--(8,6);\\node at(6,5.5){花圃};\\node[align=center]at(2.5,3){餐\\\\厅};\\node at(4,3.5){客厅};\\node at(6,3.5){院子};\\node at(4,1.5){主卧};\\node at(6,1.5){次卧};\\node[align=center]at(7.5,1){书\\\\房};\\draw[very thick](11,0)rectangle(13,3);\\node at(12,1.5){车库};\\fill(11,0)circle(.07)node[below left]{C};\n\\draw[red,thick](4,6)--(5,7)--(7,7)--(8,6);\\draw[red,dashed](3.5,6)--(8.5,6);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "把花圃现有下半部关于通过中间横边的水平格线反射。四个轮廓顶点分别在上侧找等距点，再连线；完成图的上、下两半完全重合。保留原房屋网格，不另改比例。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "明确补图半边为开路径；保留题中虚线轴，不额外以闭合线覆盖轴。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "symmetry",
+        "axis": {
+          "p1": [
+            3,
+            6
+          ],
+          "p2": [
+            9,
+            6
+          ]
+        },
+        "object_points": [
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            6
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 16,
+          "y_min": 0,
+          "y_max": 8,
+          "step": 1
+        },
+        "closed": false
+      }
+    },
+    {
+      "key": "p072_s05",
+      "book_page": 72,
+      "source_page": 76,
+      "section_index": 4,
+      "id": "五、3（2）",
+      "kind": "drawing",
+      "question_latex": "房屋平面图中，每格边长2米。（2）将厨房先向下平移12米，再向右平移4米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p072_house_plan",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.45cm]\\draw[step=1,gray!60](0,0)grid(16,8);\\draw[very thick](0,6)rectangle(1,8);\\node[align=center]at(.5,7){厨\\\\房};\\draw(4,6)--(5,5)--(7,5)--(8,6);\\node at(6,5.5){花圃};\\node[align=center]at(2.5,3){餐\\\\厅};\\node at(4,3.5){客厅};\\node at(6,3.5){院子};\\node at(4,1.5){主卧};\\node at(6,1.5){次卧};\\node[align=center]at(7.5,1){书\\\\房};\\draw[very thick](11,0)rectangle(13,3);\\node at(12,1.5){车库};\\fill(11,0)circle(.07)node[below left]{C};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p072_house_plan_answer",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.45cm]\\draw[step=1,gray!60](0,0)grid(16,8);\\draw[very thick](0,6)rectangle(1,8);\\node[align=center]at(.5,7){厨\\\\房};\\draw(4,6)--(5,5)--(7,5)--(8,6);\\node at(6,5.5){花圃};\\node[align=center]at(2.5,3){餐\\\\厅};\\node at(4,3.5){客厅};\\node at(6,3.5){院子};\\node at(4,1.5){主卧};\\node at(6,1.5){次卧};\\node[align=center]at(7.5,1){书\\\\房};\\draw[very thick](11,0)rectangle(13,3);\\node at(12,1.5){车库};\\fill(11,0)circle(.07)node[below left]{C};\n\\draw[red,thick](2,0)rectangle(3,2);\\node[red,align=center]at(2.5,1){厨\\\\房};\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "每格边长2米，向下12米就是\\(12\\div2=6\\)格；向右4米就是\\(4\\div2=2\\)格。先把原厨房的各顶点下移6格，再右移2格，厨房仍是原来的一格宽、两格高，在新位置标“厨房”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "sequence",
+        "object_points": [
+          [
+            0,
+            6
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            0,
+            8
+          ]
+        ],
+        "steps": [
+          {
+            "type": "translation",
+            "dx": 0,
+            "dy": -6
+          },
+          {
+            "type": "translation",
+            "dx": 2,
+            "dy": 0
+          }
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 16,
+          "y_min": 0,
+          "y_max": 8,
+          "step": 1
+        }
+      }
+    },
+    {
+      "key": "p072_s06",
+      "book_page": 72,
+      "source_page": 76,
+      "section_index": 5,
+      "id": "五、3（3）",
+      "kind": "drawing",
+      "question_latex": "房屋平面图中，每格边长2米。（3）将车库绕点C按逆时针方向旋转\\(90^\\circ\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p072_house_plan",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.45cm]\\draw[step=1,gray!60](0,0)grid(16,8);\\draw[very thick](0,6)rectangle(1,8);\\node[align=center]at(.5,7){厨\\\\房};\\draw(4,6)--(5,5)--(7,5)--(8,6);\\node at(6,5.5){花圃};\\node[align=center]at(2.5,3){餐\\\\厅};\\node at(4,3.5){客厅};\\node at(6,3.5){院子};\\node at(4,1.5){主卧};\\node at(6,1.5){次卧};\\node[align=center]at(7.5,1){书\\\\房};\\draw[very thick](11,0)rectangle(13,3);\\node at(12,1.5){车库};\\fill(11,0)circle(.07)node[below left]{C};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p072_house_plan_answer",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.45cm]\\draw[step=1,gray!60](0,0)grid(16,8);\\draw[very thick](0,6)rectangle(1,8);\\node[align=center]at(.5,7){厨\\\\房};\\draw(4,6)--(5,5)--(7,5)--(8,6);\\node at(6,5.5){花圃};\\node[align=center]at(2.5,3){餐\\\\厅};\\node at(4,3.5){客厅};\\node at(6,3.5){院子};\\node at(4,1.5){主卧};\\node at(6,1.5){次卧};\\node[align=center]at(7.5,1){书\\\\房};\\draw[very thick](11,0)rectangle(13,3);\\node at(12,1.5){车库};\\fill(11,0)circle(.07)node[below left]{C};\n\\draw[red,thick](11,0)--(11,2)--(8,2)--(8,0)--cycle;\\node[red]at(9.5,1){车库};\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "C为原车库左下角。以C为固定点逆时针90°：原来向上的长边转为向左的长边，向右的短边转为向上的短边。新车库位于C左上方，宽为3格、高为2格，标“车库”。旋转不会改变原来两条边的实际长度。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "rotation",
+        "center": [
+          11,
+          0
+        ],
+        "angle": 90,
+        "direction": "counterclockwise",
+        "object_points": [
+          [
+            11,
+            0
+          ],
+          [
+            13,
+            0
+          ],
+          [
+            13,
+            3
+          ],
+          [
+            11,
+            3
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 16,
+          "y_min": 0,
+          "y_max": 8,
+          "step": 1
+        }
+      }
+    },
+    {
+      "key": "p072_s07",
+      "book_page": 72,
+      "source_page": 76,
+      "section_index": 6,
+      "id": "六、添一格的3种方法",
+      "kind": "drawing",
+      "question_latex": "在下面的方格上再涂一个小方格，使涂色部分成为一个轴对称图形。你有几种涂法？请在下图中涂一涂，并画出它的对称轴。三幅图的已涂部分相同。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p072_add_square",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\foreach \\xx in {0,12,24}{\\draw[step=1,gray!60](\\xx,0)grid(\\xx+10,5);\\foreach \\x/\\y in {3/3,3/2,3/1,4/1}{\\fill[gray!60](\\xx+\\x,\\y)rectangle++(1,1);}}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p072_add_square_answer",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\foreach \\xx in {0,12,24}{\\draw[step=1,gray!60](\\xx,0)grid(\\xx+10,5);\\foreach \\x/\\y in {3/3,3/2,3/1,4/1}{\\fill[gray!60](\\xx+\\x,\\y)rectangle++(1,1);}}\n\\fill[red!50](2,1)rectangle++(1,1);\\draw[red,dashed](3.5,-.3)--(3.5,5.3);\\fill[red!50](16,3)rectangle++(1,1);\\draw[red,dashed](11.7,2.5)--(22.3,2.5);\\fill[red!50](29,1)rectangle++(1,1);\\draw[red,dashed](26.5,.5)--(30.5,4.5);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "以下均从每幅网格左上角起，列从左向右、行从上向下计数。\\par 第1种：涂第4行第3列，使底部横排向左补一格；对称轴是穿过第4列格子中心的竖直线。\\par 第2种：涂第2行第5列；上下两排互为镜像，对称轴是穿过第3行中心的水平线。\\par 第3种：涂第4行第6列，使两条直角臂各有3格；对称轴沿左下到右上的斜线，穿过第4行第4列和第2行第6列的中心。\\par 逐一检验反射后每个已涂格都有对应格，得到这3种不同补法。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "enumeration": {
+        "grid_columns": 10,
+        "grid_rows": 5,
+        "occupied_cells_1based_column_row": [
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ],
+        "all_valid_added_cells_1based_column_row": [
+          [
+            3,
+            4
+          ],
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            4
+          ]
+        ],
+        "method": "遍历10×5网格全部46个未涂格，分别检验水平、竖直、两种45度方向反射，恰有这3处通过；格子并集的直线轴对称须保持直角网格边界方向。"
+      }
+    }
+  ]
+}

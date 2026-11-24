@@ -1,0 +1,159 @@
+{
+  "book_page": 52,
+  "source_page": 56,
+  "records": [
+    {
+      "key": "p052_s01",
+      "book_page": 52,
+      "source_page": 56,
+      "section_index": 0,
+      "id": "五、1（2）",
+      "kind": "application",
+      "question_latex": "张阿姨在超市买了一个10千克的西瓜。（2）如果每100克瓜可以榨出81.5克西瓜汁，那么张阿姨买的这个西瓜可以榨出多少千克西瓜汁？（西瓜皮厚度忽略不计）（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先统一质量单位：\\[10\\text{千克}=10000\\text{克}\\]每100克西瓜可榨81.5克汁。\\par 方法一：先求100克的份数，再用每份果汁质量乘份数。\\[\\begin{aligned}&81.5\\times(10000\\div100)\\\\={}&81.5\\times100\\\\={}&8150\\text{(克)}\\end{aligned}\\]\\par 方法二：先求1千克西瓜的出汁量，再乘10。\\[1\\text{千克}=1000\\text{克}\\]\\[\\begin{aligned}&81.5\\times(1000\\div100)\\times10\\\\={}&81.5\\times10\\times10\\\\={}&81.5\\times(10\\times10)\\\\={}&81.5\\times100\\\\={}&8150\\text{(克)}\\end{aligned}\\]\\[8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}\\]\\par 答：可以榨出8.15千克西瓜汁。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "本轮复核：另一数量路径先求每千克出汁量后乘10，现仍顺次81.5×10×10，已学小数点变化可先合并10×10=100，一次右移两位；避免中间815。保留每千克数量分析，只把相同的十倍放大合并。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p052_s02",
+      "book_page": 52,
+      "source_page": 56,
+      "section_index": 1,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "张老师要带东东、明明和亮亮三名同学坐动车去外地参加机器人比赛，成人票每张132元。东东身高135 cm，明明身高119 cm，亮亮身高158 cm。张老师和同学们买单程车票共需要多少元？（6分）",
+      "options": [],
+      "tables": [
+        {
+          "title": "购票须知",
+          "headers": [
+            "身高",
+            "购票标准"
+          ],
+          "rows": [
+            [
+              "1.5 m以上",
+              "成人票"
+            ],
+            [
+              "1.20～1.50 m",
+              "半票"
+            ],
+            [
+              "1.20 m以下",
+              "免票"
+            ]
+          ],
+          "notes": [
+            "按原题所列标准作答；本题三名同学均不处于边界身高。"
+          ],
+          "role": "question",
+          "answer_cells": [],
+          "notes_role": "answer"
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "先统一身高单位：\\[\\begin{aligned}135\\text{厘米}&=1.35\\text{米}\\\\119\\text{厘米}&=1.19\\text{米}\\\\158\\text{厘米}&=1.58\\text{米}\\end{aligned}\\]厘米化米都除以100。东东1.35米买半票，明明1.19米免票，亮亮1.58米与张老师各买一张成人票。\\par 方法一：2张成人票加1张半票。\\[\\begin{aligned}&132\\times2+132\\div2\\\\={}&264+66\\\\={}&330\\text{(元)}\\end{aligned}\\]答：四人买单程票共需要330元。\\par 方法二：半张成人票的钱看作1份，2张成人票相当于4份，再加东东1份，共5份。\\[\\begin{aligned}&(132\\div2)\\times(2\\times2+1)\\\\={}&66\\times(4+1)\\\\={}&66\\times5\\\\={}&330\\text{(元)}\\end{aligned}\\]答：四人买单程票共需要330元。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "半票份数法补出66×(4+1)的必要行。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p052_s03",
+      "book_page": 52,
+      "source_page": 56,
+      "section_index": 2,
+      "id": "五、3",
+      "kind": "application",
+      "question_latex": "某小学长方形文化墙每行有18块瓷砖，每列有5块瓷砖。每块瓷砖长40 cm，宽30 cm，文化墙的面积是多少平方米？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先求每块瓷砖面积，再求全部瓷砖的总面积。每行18块，共5行。\\[\\begin{aligned}&(40\\times30)\\times(18\\times5)\\\\&=1200\\times90\\\\&=108000\\text{(平方厘米)}\\end{aligned}\\]\\par 方法二：先求文化墙的长和宽，再求面积。\\[\\begin{aligned}&(40\\times18)\\times(30\\times5)\\\\&=720\\times150\\\\&=108000\\text{(平方厘米)}\\end{aligned}\\]\\par 两种方法所得面积先以平方厘米计算，最后另列单位换算：\\[\\begin{aligned}1\\text{平方米}&=10000\\text{平方厘米}\\\\108000\\text{平方厘米}&=(108000\\div10000)\\text{平方米}\\\\&=10.8\\text{平方米}\\end{aligned}\\]\\par 答：文化墙的面积是10.8平方米。主解先进行整数面积计算，再利用小数点移动换算，不需要使用一般小数乘法。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p052_s04",
+      "book_page": 52,
+      "source_page": 56,
+      "section_index": 3,
+      "id": "五、4",
+      "kind": "application",
+      "question_latex": "用数字卡片1、3、6和小数点，能组成多少个不同的一位小数？将这些小数按照从大到小的顺序排列起来。（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按题意三张数字卡各用一次。按十位是1、3、6分成3类，每类都有2个不同的一位小数，所以按“每类个数×类别数”列式：\\[\\begin{aligned}&2\\times3\\\\={}&6\\text{(个)}\\end{aligned}\\]\\par 1开头有13.6、16.3；3开头有31.6、36.1；6开头有61.3、63.1。每一类都列全，三类之间也不会重复。\\par 从大到小：\\(63.1>61.3>36.1>31.6>16.3>13.6\\)。\\par 答：能组成6个不同的一位小数，顺序如上。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "计数明确每类2个×3类，遵守每份数×份数，不用未解释份义的3×2×1。"
+        ],
+        "uncertainties": [],
+        "left_patch": {
+          "rect": [
+            82,
+            654,
+            123,
+            668
+          ],
+          "old": "3×2×1",
+          "new_latex": "\\(2\\times3\\)",
+          "size": 9
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

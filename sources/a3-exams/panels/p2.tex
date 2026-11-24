@@ -1,0 +1,97 @@
+% Page 2 body. Each NativeSlot uses original portrait coordinates in bp.
+\def\OrigTop#1{\vtop{\hrule width0pt height0pt\hbox{#1}}}
+\def\OrigPair#1#2{\noindent\hspace*{1.45em}\makebox[.49\linewidth][l]{#1}#2\par}
+\def\OrigFour#1#2#3#4{\noindent\hspace*{1.45em}%
+  \makebox[.236\linewidth][l]{#1}\makebox[.236\linewidth][l]{#2}%
+  \makebox[.236\linewidth][l]{#3}#4\par}
+% p002_s01
+\NativeSlot{42}{22}{%
+  \hspace*{1.45em}后来他又步行\(32\)分钟。\(130+130\div2\times32\)算式求的问题是（\hspace{84bp}）。\par
+}
+% p002_s02
+\NativeSlot{68}{70}{%
+  8.\quad 学校手工社团买来\(320\)米长的绳子。做手工时，先剪了\(15\)段，每段长\(6\)米，又剪\par
+  \hspace*{1.45em}了\(48\)米备用，还剩下（\hspace{25bp}）米绳子。梳理条件信息，应先求（\hspace{80bp}），\par
+  \hspace*{1.45em}再求（\hspace{63bp}），最后求（\hspace{63bp}）。列综合算式为（\hspace{75bp}）。\par
+}
+\NativeSlot{143}{23}{%
+  {\heiti 二、选择（将正确答案的序号填在括号里）。}（每空2分，共10分）\par
+}
+% p002_s03
+\NativeSlot{170}{47}{%
+  1.\quad 计算\(4\times25\div25\times4\)的结果，正确的是（\hspace{2em}）。\par
+  \OrigFour{A. 1}{B. 16}{C. 0}{D. 都不对}%
+}
+% p002_s04
+\NativeSlot{220}{72}{%
+  2.\quad 计算\(21\times[950\div(22+28)-12]\)时，运算顺序是（\hspace{2em}）。\par
+  \OrigPair{A. 加\(\to\)减\(\to\)乘\(\to\)除}{B. 除\(\to\)加\(\to\)减\(\to\)乘}%
+  \OrigPair{C. 加\(\to\)除\(\to\)减\(\to\)乘}{D. 加\(\to\)除\(\to\)乘\(\to\)减}%
+}
+% p002_s05
+\NativeSlot{295}{99}{%
+  3.\quad 如果\(90\times35-25\div5\)先算减法，再算除法，最后算乘法，正确的算式是\par
+  \hspace*{1.45em}（\hspace{2em}）。\par
+  \OrigPair{A. \(90\times(35-25)\div5\)}{B. \(90\times[(35-25)\div5]\)}%
+  \OrigPair{C. \(90\times(35-25\div5)\)}{D. \((90\times35-25)\div5\)}%
+}
+% p002_s06
+\NativeSlot{396}{47}{%
+  4.\quad 如图，豆豆不小心将作业本弄脏了，遮住了解决问题的部分内容。按照豆豆\par
+  \hspace*{1.45em}所列的算式，本题想要解决的问题是（\hspace{2em}）。\par
+}
+\NativeSlot{446}{99}{%
+  \noindent\hbox to \linewidth{%
+    \hskip1.45em\begin{minipage}[t]{260bp}\vspace{0pt}%
+      A. 物业费账户里还剩多少元\par
+      B. 一共需要缴纳多少元物业费\par
+      C. 物业费账户里的钱够扣除几个月\par
+      D. 物业费账户里剩余的钱够扣除几个月\par
+    \end{minipage}\hfill%
+    \OrigTop{\begin{tikzpicture}[x=1bp,y=-1bp,inner sep=0pt,outer sep=0pt]
+      \draw[black,line width=.5bp] (0,0) rectangle (187,76);
+      \node[anchor=north west,font=\footnotesize,text width=174bp,align=left] at (7,4)
+        {爸爸往物业费账户里充值了\(945\)元，第一季度扣除了\(405\)元。};
+      \filldraw[fill=black!25,draw=black,line width=.4bp]
+        (22,47) .. controls (25,43) and (37,43) .. (44,41)
+        .. controls (52,39) and (56,36) .. (64,38)
+        .. controls (71,39) and (74,43) .. (80,41)
+        .. controls (91,37) and (101,43) .. (114,41)
+        .. controls (119,41) and (123,42) .. (124,45)
+        .. controls (125,48) and (121,50) .. (115,48)
+        .. controls (105,47) and (99,51) .. (92,50)
+        .. controls (81,48) and (72,53) .. (62,49)
+        .. controls (51,47) and (41,52) .. (27,50)
+        .. controls (24,50) and (22,49) .. cycle;
+      \node[anchor=west,font=\footnotesize] at (5,64)
+        {\((945-405)\div(405\div3)=4\)（个）};
+    \end{tikzpicture}}%
+  }\par
+}
+% p002_s07
+\NativeSlot{547}{44}{%
+  5.\quad 爸爸带豆豆去离家\(2000\)米的图书馆看书。父子俩步行速度是\(70\)米/分，他\par
+  \hspace*{1.45em}们从家出发\(25\)分钟后，位置大约在（\hspace{2em}）处。\par
+}
+\NativeSlot{594}{39}{%
+  \noindent\makebox[\linewidth][c]{%
+    \begin{tikzpicture}[x=1bp,y=1bp,inner sep=1.2bp,font=\small]
+      \draw[line width=.48bp] (0,0)--(169,0);
+      \foreach \x/\label in {0/{},84/A,105/B,146/C,169/D}{
+        \draw[line width=.48bp] (\x,0)--(\x,2.8);
+        \node[above] at (\x,2.3) {\(\label\)};
+      }
+      \node[below] at (0,-2) {豆豆家};
+      \node[below] at (169,-2) {图书馆};
+    \end{tikzpicture}%
+  }\par
+}
+\NativeSlot{639}{24}{%
+  {\heiti 三、计算。}（共26分）\par
+}
+% p002_s08
+\NativeSlot{665}{71}{%
+  1.\quad 直接写得数。（每题1分，共8分）\par
+  \OrigFour{\(84\div4=\)}{\(23\times3=\)}{\(360\times4=\)}{\(8+36\div4+8=\)}%
+  \OrigFour{\(163-45=\)}{\(98\div7=\)}{\(84\div6=\)}{\((28+32)\div5=\)}%
+}

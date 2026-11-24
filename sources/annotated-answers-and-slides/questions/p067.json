@@ -1,0 +1,605 @@
+{
+  "book_page": 67,
+  "source_page": 71,
+  "records": [
+    {
+      "key": "p067_s01",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 0,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "剪纸是我国国家级非物质文化遗产，将纸对折后剪出重复的图案是剪纸中最基础的技法，右图是下面（    ）项剪出的。选择A、B、C或D。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_fold_choice",
+          "tikz": "\\begin{tikzpicture}[scale=.7]\\begin{scope}[shift={(0,2)}]\\draw (-2,0)--(-.35,.2)--(0,1.2)--(.35,.2)--(2,0)--(.35,-.2)--(0,-1.2)--(-.35,-.2)--cycle;\\end{scope}\\foreach \\x/\\lab in {0/A,3/B,6/C,9/D}{\\draw(\\x,-2)rectangle(\\x+2,0);\\node at(\\x+1,-2.4){\\lab};}\\draw(2,0)--(1.8,-.85)--(1.1,-1)--(1.8,-1.15)--(2,-2);\\draw(5,0)--(4.7,-.8)--(3.2,-1)--(4.7,-1.2)--(4,-2);\\draw(8,0)--(7.7,-.8)--(6.2,-1)--(7.7,-1.2)--(8,-2);\\draw(10.65,0)--(10.65,-.8)--(9.2,-1)--(10.65,-1.2)--(11,-2);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "对折再剪时，展开图必须关于折痕完全对称。把选项图案关于折边反射，C可形成右图四个尖角且左右、上下配对的星形，选C。不能只比较某一个尖角。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p067_s02",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 1,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "分针从6走到9，绕中心点按（    ）方向旋转了（    ）度。A.顺时针30；B.逆时针90；C.顺时针90；D.逆时针30。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "钟面数字按顺时针方向排列，分针从6走到9经过3大格，每大格30°，所以转过\\(30^\\circ\\times3=90^\\circ\\)。填“顺时针、90”，选C。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "乘法顺序专项：从6到9经过3大格，每大格30°，故按每份数×份数写30°×3=90°；原3×30°数值相同，但数量顺序按用户规则更正。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p067_s03",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 2,
+      "id": "三、1（第1图）",
+      "kind": "drawing",
+      "question_latex": "画出下面图形的另一半，使它成为轴对称图形。（第1图，竖直虚线为对称轴。）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_half_1",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(8,9);\\draw[dashed](4,0)--(4,9);\\draw(2,8)--(4,6)--(3,5)--(4,4)--(2,2)--cycle;\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p067_half_1_answer",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(8,9);\\draw[dashed](4,0)--(4,9);\\draw(2,8)--(4,6)--(3,5)--(4,4)--(2,2)--cycle;\n\\draw[red,thick](6,8)--(4,6)--(5,5)--(4,4)--(6,2)--cycle;\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "按“找关键点—找对应点—连线”作图。先找给定竖直虚线，左边每个顶点沿垂直于轴的水平格线，在轴右侧找等距点；原来落在轴上的点不动。再按原边的连接顺序连点，最后检查对应点连线是否被对称轴垂直平分。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "symmetry",
+        "axis": {
+          "p1": [
+            4,
+            0
+          ],
+          "p2": [
+            4,
+            9
+          ]
+        },
+        "object_points": [
+          [
+            2,
+            8
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 8,
+          "y_min": 0,
+          "y_max": 9,
+          "step": 1
+        }
+      }
+    },
+    {
+      "key": "p067_s04",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 3,
+      "id": "三、1（第2图）",
+      "kind": "drawing",
+      "question_latex": "画出下面图形的另一半，使它成为轴对称图形。（第2图，竖直虚线为对称轴，内部小三角形也要补画。）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_half_2",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(8,9);\\draw[dashed](4,0)--(4,9);\\draw(4,8)--(1,6)--(2,6)--(2,4)--(3,4)--(2,2)--(4,2);\\draw(3,6)--(4,5)--(3,5)--cycle;\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p067_half_2_answer",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(8,9);\\draw[dashed](4,0)--(4,9);\\draw(4,8)--(1,6)--(2,6)--(2,4)--(3,4)--(2,2)--(4,2);\\draw(3,6)--(4,5)--(3,5)--cycle;\n\\draw[red,thick](4,8)--(7,6)--(6,6)--(6,4)--(5,4)--(6,2)--(4,2);\\draw[red,thick](5,6)--(4,5)--(5,5)--cycle;\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "把外轮廓的各个拐点、内侧小三角形的三个顶点分别关于竖直虚线反射。对称点在同一水平格线上，距轴格数相等，不能只补外边而漏掉内侧小三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "补图外轮廓为开路径，去掉沿对称轴的闭合线段，避免用红色实线覆盖虚线对称轴；内部线条随对应点一起补全。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "symmetry",
+        "axis": {
+          "p1": [
+            4,
+            0
+          ],
+          "p2": [
+            4,
+            9
+          ]
+        },
+        "object_points": [
+          [
+            4,
+            8
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 8,
+          "y_min": 0,
+          "y_max": 9,
+          "step": 1
+        },
+        "closed": false,
+        "additional_paths": [
+          [
+            [
+              3,
+              6
+            ],
+            [
+              4,
+              5
+            ],
+            [
+              3,
+              5
+            ],
+            [
+              3,
+              6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p067_s05",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 4,
+      "id": "三、1（第3图）",
+      "kind": "drawing",
+      "question_latex": "画出下面图形的另一半，使它成为轴对称图形。（第3图，竖直虚线为对称轴。）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_half_3",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(8,9);\\draw[dashed](4,0)--(4,9);\\draw(4,7)--(3,7)--(1,1)--(2,1)--(3,5)--(4,5);\\draw(2.5,3)--(4,3);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p067_half_3_answer",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(8,9);\\draw[dashed](4,0)--(4,9);\\draw(4,7)--(3,7)--(1,1)--(2,1)--(3,5)--(4,5);\\draw(2.5,3)--(4,3);\n\\draw[red,thick](4,7)--(5,7)--(7,1)--(6,1)--(5,5)--(4,5);\\draw[red,thick](5.5,3)--(4,3);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "将左侧斜边、底边和内部横线的各端点逐一反射到右侧，再连接。对称轴上的端点重合；两侧斜边应左右对称，横线两侧等长。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "补图外轮廓为开路径，去掉沿对称轴的闭合线段，避免用红色实线覆盖虚线对称轴；内部线条随对应点一起补全。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "symmetry",
+        "axis": {
+          "p1": [
+            4,
+            0
+          ],
+          "p2": [
+            4,
+            9
+          ]
+        },
+        "object_points": [
+          [
+            4,
+            7
+          ],
+          [
+            3,
+            7
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 8,
+          "y_min": 0,
+          "y_max": 9,
+          "step": 1
+        },
+        "closed": false,
+        "additional_paths": [
+          [
+            [
+              2.5,
+              3
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p067_s06",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 5,
+      "id": "三、2（第1图）",
+      "kind": "drawing",
+      "question_latex": "画出下面图形的对称轴（有几条画几条）：第1图，三叶图案。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_leaves",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\foreach \\a in {60,180,300}{\\begin{scope}[rotate=\\a]\\draw(0,0)..controls(.55,.2)and(.55,.75)..(0,1.2)..controls(-.55,.75)and(-.55,.2)..cycle;\\end{scope}}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p067_leaves_answer",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\foreach \\a in {60,180,300}{\\begin{scope}[rotate=\\a]\\draw(0,0)..controls(.55,.2)and(.55,.75)..(0,1.2)..controls(-.55,.75)and(-.55,.2)..cycle;\\end{scope}}\n\\foreach \\a in {30,90,150}{\\draw[red,dashed](\\a:-1.5)--(\\a:1.5);}\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "三片相同叶片均匀排布，每条对称轴穿过一片叶片的中线和公共中心，共3条。先画过上、下方向的轴，再画另外两条斜轴。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p067_s07",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 6,
+      "id": "三、2（第2图）",
+      "kind": "drawing",
+      "question_latex": "画出下面图形的对称轴（有几条画几条）：第2图，圆环与斜带组成的禁止标志。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_prohibition",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw(0,0)circle(1);\\draw(0,0)circle(.75);\\draw[white,line width=10pt](-.6,.6)--(.6,-.6);\\draw(-.68,.38)--(.38,-.68);\\draw(-.38,.68)--(.68,-.38);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p067_prohibition_answer",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw(0,0)circle(1);\\draw(0,0)circle(.75);\\draw[white,line width=10pt](-.6,.6)--(.6,-.6);\\draw(-.68,.38)--(.38,-.68);\\draw(-.38,.68)--(.68,-.38);\n\\draw[red,dashed](-1,-1)--(1,1);\\draw[red,dashed](-1,1)--(1,-1);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "禁止标志的圆环及斜带整体有2条对称轴：一条沿斜带的中线，另一条过圆心且与它垂直。只有外圆对称不够，还要检查斜带也完全重合。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p067_s08",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 7,
+      "id": "三、2（第3图）",
+      "kind": "drawing",
+      "question_latex": "画出下面图形的对称轴（有几条画几条）：第3图，扇形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_sector",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw(0,0)--(170:1.4)arc(170:40:1.4)--cycle;\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p067_sector_answer",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw(0,0)--(170:1.4)arc(170:40:1.4)--cycle;\n\\draw[red,dashed](105:-.2)--(105:1.65);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "扇形的对称轴是顶点所成角的角平分线，也穿过弧的中点，共1条；不要把任意半径都当成对称轴。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p067_s09",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 8,
+      "id": "三、2（第4图）",
+      "kind": "drawing",
+      "question_latex": "画出下面图形的对称轴（有几条画几条）：第4图，正六边形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_hexagon",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw(0:1)--(60:1)--(120:1)--(180:1)--(240:1)--(300:1)--cycle;\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p067_hexagon_answer",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw(0:1)--(60:1)--(120:1)--(180:1)--(240:1)--(300:1)--cycle;\n\\foreach \\a in {0,30,60,90,120,150}{\\draw[red,dashed](\\a:-1.25)--(\\a:1.25);}\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "正六边形共有6条对称轴：连接3组相对顶点的直线，共3条；连接3组对边中点的直线，共3条。它们均过中心。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p067_s10",
+      "book_page": 67,
+      "source_page": 71,
+      "section_index": 9,
+      "id": "三、3（1）",
+      "kind": "drawing",
+      "question_latex": "将下面的图形绕O点顺时针旋转\\(90^\\circ\\)画出图形，再向右平移3格画出图形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p067_turn_grid",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](-9,-2)grid(19,7);\\draw(-7,1)--(0,1)--(0,0)--(-4,0)--(-4,-2)--cycle;\\fill(0,0)circle(.09)node[below right]{O};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p067_turn_grid_answer",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](-9,-2)grid(19,7);\\draw(-7,1)--(0,1)--(0,0)--(-4,0)--(-4,-2)--cycle;\\fill(0,0)circle(.09)node[below right]{O};\n\\draw[red,thick](1,7)--(1,0)--(0,0)--(0,4)--(-2,4)--cycle;\\draw[red,thick](4,7)--(4,0)--(3,0)--(3,4)--(1,4)--cycle;\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "先以O为固定点，把原图每个顶点到O的线段顺时针转90°，距离保持不变，连接得到第一幅红图。再将第一幅图每个顶点向右平移3格，连接得到右侧红图。第一步须明确旋转三要素：中心O、顺时针、90°。第二步把旋转后图形的所有点（包括与O重合的那个顶点）同向右移3格；原题标定的O仍留作定位参照。不能把它理解成再选一个新中心旋转，两步一般也不能颠倒。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "二次放大数格，原图背景为28列9行，O距左9格、距上7格，故以O为原点网格范围应为x=-9..19、y=-2..7；修正初稿网格边界，所有原形与运动顶点保持不变。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "sequence",
+        "grid": {
+          "x_min": -9,
+          "x_max": 19,
+          "y_min": -2,
+          "y_max": 7,
+          "step": 1
+        },
+        "object_points": [
+          [
+            -7,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            -4,
+            0
+          ],
+          [
+            -4,
+            -2
+          ]
+        ],
+        "steps": [
+          {
+            "type": "rotation",
+            "center": [
+              0,
+              0
+            ],
+            "angle": 90,
+            "direction": "clockwise"
+          },
+          {
+            "type": "translation",
+            "dx": 3,
+            "dy": 0
+          }
+        ]
+      }
+    }
+  ]
+}

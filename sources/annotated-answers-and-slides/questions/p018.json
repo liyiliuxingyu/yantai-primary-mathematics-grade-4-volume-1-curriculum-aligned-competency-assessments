@@ -1,0 +1,303 @@
+{
+  "book_page": 18,
+  "source_page": 22,
+  "title": "",
+  "records": [
+    {
+      "key": "p018_s01",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 0,
+      "id": "一、8（续）",
+      "kind": "application",
+      "question_latex": "（接原书第17页第8题）李阿姨用288元买了8盒新疆棉毛巾，每盒有3条，每盒毛巾单价是（    ）元，平均每条毛巾（    ）元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两个空依次填\\(36,12\\)。原书参考把每条写作\\(10\\)元，与题面\\(288\\)元、\\(8\\)盒、每盒\\(3\\)条不符，应按题面核算。\\par \\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求每盒，再求每条}\\par \\[\\begin{aligned}&288\\div8\\\\&=36\\text{(元)}\\end{aligned}\\]\\[\\begin{aligned}&288\\div8\\div3\\\\&=36\\div3\\\\&=12\\text{(元)}\\end{aligned}\\]答：每盒\\(36\\)元，每条\\(12\\)元。\\end{minipage}\\par \\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：先求总条数，再求每条}\\par \\[\\begin{aligned}&288\\div(3\\times8)\\\\&=288\\div24\\\\&=12\\text{(元)}\\end{aligned}\\]每盒有\\(3\\)条，所以每盒价格为：\\[\\begin{aligned}&12\\times3\\\\&=36\\text{(元)}\\end{aligned}\\]答：每盒\\(36\\)元，每条\\(12\\)元。\\end{minipage}\\par \\par 这里的两个单价分别按“元/盒”和“元/条”计，不能混用。检验\\(12\\times3\\times8=288\\text{(元)}\\)，与总价相符；也有\\(36\\div3=12\\)，每条价应小于每盒价。",
+      "verification": {
+        "status": "verified",
+        "reason": "36元每盒，12元每条，两种方法均检验12×3×8=288。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p018_s02",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 1,
+      "id": "一、9（1）",
+      "kind": "fill",
+      "question_latex": "国庆出游，王叔叔开车带家人自驾游，其中高速路段车速平均每小时106千米，全程累计开了22小时，一共开了多少千米？（1）解决这个问题所依据的数量关系式是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "数量关系式为“路程\\(=\\)速度\\(\\times\\)时间”。\\par 原文只说明“高速路段”的平均速度是\\(106\\)千米/时，却给出“全程”的\\(22\\)小时。只有当全程这\\(22\\)小时都按此平均速度计算时，才有\\[\\begin{aligned}&106\\times22\\\\={}&2332\\text{(千米)}\\end{aligned}\\]若全程还包含其他路段且其速度未知，则不能仅凭所给条件唯一求全程路程。",
+      "verification": {
+        "status": "conditional",
+        "reason": "路程=速度×时间成立，但高速路段速度与全程时间不可无条件相乘。",
+        "changes": [],
+        "uncertainties": [
+          "原文“高速路段平均速度”与“全程累计时间”统计范围不同；2332千米是全程均按该速度计算的条件性结果。"
+        ],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p018_s03",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 2,
+      "id": "一、9（2）（两个空）",
+      "kind": "fill",
+      "question_latex": "国庆出游，王叔叔开车带家人自驾游，其中高速路段车速平均每小时106千米，全程累计开了22小时，一共开了多少千米？（2）右图竖式中，第②步计算是\\(106\\times\\)（    ），表示的是（    ）小时行驶的路程。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\node at(0,0){$\\begin{array}{rl}106&\\\\\\times22&\\\\\\hline212&\\leftarrow\\text{①}\\\\212\\phantom{0}&\\leftarrow\\text{②}\\\\\\hline2332&\\end{array}$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "十位部分积向左错一位，第二行212表示2120；两行标注①②。",
+          "name": "p018_s03_g1"
+        }
+      ],
+      "answer_latex": "把\\(22\\)拆成\\(20+2\\)，则\\(106\\times22=106\\times20+106\\times2\\)。竖式的两行部分积正是这两个乘积。\\par 竖式第二个部分积中的\\(2\\)在十位，实际表示\\(20\\)。第②步算的是\\(106\\times20=2120\\)，表示行驶\\(20\\)小时的路程；两空都填\\(20\\)，不能填\\(2\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "22=20+2，第二部分积是106×20，时间20小时；两个空20。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p018_s04",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 3,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "小华步行去商店，路上用了10分钟；买了3本练习本，花了15元。这里的10分钟、15元、3本分别表示的是（    ）。",
+      "options": [
+        "A.路程，总价，数量",
+        "B.时间，总价，单价",
+        "C.时间，总价，数量",
+        "D.速度，单价，数量"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm C\\)。\\(10\\)分钟表示\\textbf{时间}，\\(15\\)元表示三本练习本的\\textbf{总价}，\\(3\\)本表示\\textbf{数量}。",
+      "verification": {
+        "status": "verified",
+        "reason": "时间、总价、数量，C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p018_s05",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 4,
+      "id": "二、2（两个空）",
+      "kind": "choice",
+      "question_latex": "每瓶矿泉水3元，买12瓶一共花了多少钱？用（    ）计算；一名外卖骑手，5分钟骑行1400米，求速度，用（    ）计算。",
+      "options": [
+        "A.加法",
+        "B.乘法",
+        "C.除法",
+        "D.减法"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "第一空选\\(\\mathrm B\\)：单价乘数量，\\(3\\times12=36\\text{(元)}\\)，用乘法。\\par 第二空选\\(\\mathrm C\\)：速度等于路程除以时间，\\(1400\\div5=280\\text{(米/分)}\\)，用除法。",
+      "verification": {
+        "status": "verified",
+        "reason": "总价单价×数量用乘；速度路程÷时间用除，B、C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p018_s06",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 5,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "如图，一列货车从甲地开往乙地用了4个小时，货车的速度是（    ）。",
+      "options": [
+        "A.70时",
+        "B.70千米",
+        "C.70千米/时",
+        "D.280千米/时"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(5,0);\\foreach \\x in {0,1.25,2.5,3.75,5}{\\draw(\\x,0)--(\\x,.1);}\\node[left]at(0,0){甲};\\node[right]at(5,0){乙};\\node at(2.5,.55){280千米};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p018_s06_g1"
+        }
+      ],
+      "answer_latex": "选\\(\\mathrm C\\)。\\(280\\div4=70\\)，速度必须同时表示“路程和时间”的比，单位是“千米/时”，不是单独的时或千米。",
+      "verification": {
+        "status": "verified",
+        "reason": "280÷4=70千米/时，选C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p018_s07",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 6,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "下面问题中，适合用“速度\\(\\times\\)时间”来解决的是（    ）。",
+      "options": [
+        "A.求每支钢笔的钱数",
+        "B.求汽车5小时行驶的千米数",
+        "C.求小明每分钟步行的米数",
+        "D.计算长方形的周长"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。已知汽车速度和行驶\\(5\\)小时的时间，求行驶路程，要用“速度\\(\\times\\)时间”。\\(\\mathrm C\\)是已知路程和时间求速度，应用除法。",
+      "verification": {
+        "status": "verified",
+        "reason": "求固定时间所行路程，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p018_s08",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 7,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "这个公路指示牌告诉我们当前位置距青岛的（    ）还有203千米。",
+      "options": [
+        "A.时间",
+        "B.速度",
+        "C.路程",
+        "D.数量"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "目的地",
+            "距离"
+          ],
+          "rows": [
+            [
+              "青岛",
+              "203千米"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm C\\)。\\(203\\)千米说明当前位置到青岛还有多远，表示\\textbf{路程}；“千米”不是时间或速度的单位。",
+      "verification": {
+        "status": "verified",
+        "reason": "距离203千米表示路程，C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "source_notes": [
+        "指示牌另两行地名在原扫描模糊，不凭空猜写；本题所用“青岛203千米”已辨清，表格保留关键数据。"
+      ]
+    },
+    {
+      "key": "p018_s09",
+      "book_page": 18,
+      "source_page": 22,
+      "section_index": 8,
+      "id": "二、6（A、C都正确）",
+      "kind": "choice",
+      "question_latex": "张平用18元买了6本笔记本，小华买这样的4本笔记本花了多少钱？列式正确的是（    ）。",
+      "options": [
+        "A.\\(18\\times4\\div6\\)",
+        "B.\\(18\\times6\\div4\\)",
+        "C.\\(18\\div6\\times4\\)",
+        "D.\\(18\\div6+4\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "本题按单选形式设置不恰当，\\(\\mathrm A,\\mathrm C\\)都成立。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{C：先求单价，再求四本的钱}\\par \\[\\begin{aligned}&18\\div6\\times4\\\\&=3\\times4\\\\&=12\\text{(元)}\\end{aligned}\\]\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{A：先求四组的钱，再平均分}\\par \\[\\begin{aligned}&18\\times4\\div6\\\\&=72\\div6\\\\&=12\\text{(元)}\\end{aligned}\\]\\end{minipage}\\par \\(4\\)组、每组\\(6\\)本共\\(24\\)本，把总价平均分成\\(6\\)份，每份正好是\\(4\\)本的钱。两式都得到\\(12\\)元；不能因为\\(\\mathrm A\\)先乘后除就判错。\\par 两种列式还可用相同单价核对：\\(12\\div4=18\\div6=3\\text{(元/本)}\\)，所以\\(A,C\\)都保持了原题单价。",
+      "verification": {
+        "status": "verified",
+        "reason": "A、C都为12元并保持相同单价，单选题设置不当；保留两种合理列式。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

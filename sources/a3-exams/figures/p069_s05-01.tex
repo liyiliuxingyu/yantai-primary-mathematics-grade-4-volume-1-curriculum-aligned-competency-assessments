@@ -1,0 +1,5 @@
+\begin{tikzpicture}[x=.5cm,y=.5cm]
+% Leave the symmetry axis free of an underlying grid stroke.
+\foreach \i in {0,1,2,3,4,6,7,8,9,10} \draw[black!47,line width=.38bp] (\i,0) -- (\i,5);
+\foreach \j in {0,...,5} \draw[black!47,line width=.38bp] (0,\j) -- (10,\j);
+\filldraw[fill=gray!20](5,5)--(3,3)node[left]{$A$}--(4,3)--(2,1)node[left]{$C$}--(4,1)node[above left]{$D$}--(4,0)--(6,0)--(6,1)node[above right]{$E$}--(8,1)node[right]{$F$}--(6,3)--(7,3)node[right]{$B$}--cycle;\draw[dash pattern=on 2.8bp off 2bp,line width=.63bp](5,-.3)--(5,5.3);\end{tikzpicture}

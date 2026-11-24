@@ -1,0 +1,1555 @@
+{
+  "passed": true,
+  "scope": "Read-only comparison of all canonical question/answer records and in-question note records with the previous frozen version; not an arithmetic proof or visual QA.",
+  "book_pages": 108,
+  "records": 867,
+  "audit_coverage": [
+    {
+      "file": "audit_early.json",
+      "sha256": "55915ed66f36a2a6d2ce98d81f78d996b6a32a2bd87b4d24009d297aa96c78c3",
+      "first_book_page": 1,
+      "last_book_page": 24,
+      "records_read": 203,
+      "proposed_changes": 19
+    },
+    {
+      "file": "audit_25_44.json",
+      "sha256": "c187da56ab068afce7385a85e91fbb74b254e2791a6d461ad5b6ec79c52707ba",
+      "first_book_page": 25,
+      "last_book_page": 44,
+      "records_read": 183,
+      "proposed_changes": 11
+    },
+    {
+      "file": "audit_45_64.json",
+      "sha256": "49f4c2a04a254ae4dcf9dbdeeaa1c8f44d293af170fd7b08bc80870e4a8b8035",
+      "first_book_page": 45,
+      "last_book_page": 64,
+      "records_read": 158,
+      "proposed_changes": 6
+    },
+    {
+      "file": "audit_65_84.json",
+      "sha256": "1bb5e616f37530e7d5e214ddb6e28592b84e4fe4e890a32d184e3c6afb6cee48",
+      "first_book_page": 65,
+      "last_book_page": 84,
+      "records_read": 146,
+      "proposed_changes": 16
+    },
+    {
+      "file": "audit_85_108.json",
+      "sha256": "91d047e39d997cecca5454741a7b84b56c8283c966df89f135167451ebf69fe3",
+      "first_book_page": 85,
+      "last_book_page": 108,
+      "records_read": 177,
+      "proposed_changes": 4
+    }
+  ],
+  "changed_book_pages": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    11,
+    15,
+    19,
+    20,
+    23,
+    27,
+    28,
+    32,
+    42,
+    43,
+    44,
+    45,
+    46,
+    48,
+    58,
+    61,
+    63,
+    73,
+    75,
+    76,
+    77,
+    79,
+    80,
+    81,
+    83,
+    94,
+    104,
+    107,
+    108
+  ],
+  "accepted_keys": [
+    "p003_s03",
+    "p003_s04",
+    "p004_s02",
+    "p004_s03",
+    "p004_s04",
+    "p006_s02",
+    "p006_s03",
+    "p006_s06",
+    "p007_s03",
+    "p008_s01",
+    "p008_s03",
+    "p011_s07",
+    "p015_s05",
+    "p015_s07",
+    "p019_s12",
+    "p019_s13",
+    "p020_s02",
+    "p023_s04",
+    "p023_s11",
+    "p027_s11",
+    "p028_s01",
+    "p028_s02",
+    "p028_s03",
+    "p028_s04",
+    "p032_s01",
+    "p032_s04",
+    "p042_s01",
+    "p043_s03",
+    "p044_s03",
+    "p044_s04",
+    "p045_s07",
+    "p046_s03",
+    "p048_s02",
+    "p058_s07",
+    "p061_s03",
+    "p063_s07",
+    "p073_s01",
+    "p073_s03",
+    "p073_s04",
+    "p073_s10",
+    "p075_s01",
+    "p075_s04",
+    "p076_s01",
+    "p077_s01",
+    "p077_s04",
+    "p077_s05",
+    "p077_s07",
+    "p079_s03",
+    "p080_s02",
+    "p081_s02",
+    "p083_s05",
+    "p083_s06",
+    "p094_s05",
+    "p104_s02",
+    "p107_s08",
+    "p108_s02"
+  ],
+  "accepted_change_count": 56,
+  "canonical_changed_keys": [
+    "p003_s03",
+    "p003_s04",
+    "p004_s02",
+    "p004_s03",
+    "p004_s04",
+    "p006_s02",
+    "p006_s03",
+    "p006_s06",
+    "p007_s03",
+    "p008_s01",
+    "p008_s03",
+    "p011_s07",
+    "p015_s05",
+    "p015_s07",
+    "p019_s12",
+    "p019_s13",
+    "p020_s02",
+    "p023_s04",
+    "p023_s11",
+    "p027_s11",
+    "p028_s01",
+    "p028_s02",
+    "p028_s03",
+    "p028_s04",
+    "p032_s01",
+    "p032_s04",
+    "p042_s01",
+    "p043_s03",
+    "p044_s03",
+    "p044_s04",
+    "p045_s07",
+    "p046_s03",
+    "p048_s02",
+    "p058_s07",
+    "p061_s03",
+    "p063_s07",
+    "p073_s01",
+    "p073_s03",
+    "p073_s04",
+    "p073_s10",
+    "p075_s01",
+    "p075_s04",
+    "p076_s01",
+    "p077_s01",
+    "p077_s04",
+    "p077_s05",
+    "p077_s07",
+    "p079_s03",
+    "p080_s02",
+    "p081_s02",
+    "p083_s05",
+    "p083_s06",
+    "p094_s05",
+    "p104_s02",
+    "p107_s08",
+    "p108_s02"
+  ],
+  "answer_latex_changed_keys": [
+    "p003_s03",
+    "p003_s04",
+    "p004_s02",
+    "p004_s03",
+    "p004_s04",
+    "p006_s02",
+    "p006_s03",
+    "p006_s06",
+    "p007_s03",
+    "p008_s01",
+    "p008_s03",
+    "p011_s07",
+    "p015_s05",
+    "p015_s07",
+    "p019_s12",
+    "p019_s13",
+    "p020_s02",
+    "p023_s04",
+    "p023_s11",
+    "p027_s11",
+    "p028_s01",
+    "p028_s02",
+    "p028_s03",
+    "p028_s04",
+    "p032_s01",
+    "p032_s04",
+    "p042_s01",
+    "p043_s03",
+    "p044_s03",
+    "p044_s04",
+    "p045_s07",
+    "p046_s03",
+    "p048_s02",
+    "p058_s07",
+    "p061_s03",
+    "p063_s07",
+    "p073_s01",
+    "p073_s03",
+    "p073_s04",
+    "p073_s10",
+    "p075_s01",
+    "p075_s04",
+    "p076_s01",
+    "p077_s01",
+    "p077_s04",
+    "p077_s05",
+    "p077_s07",
+    "p079_s03",
+    "p080_s02",
+    "p081_s02",
+    "p083_s05",
+    "p083_s06",
+    "p094_s05",
+    "p104_s02",
+    "p107_s08",
+    "p108_s02"
+  ],
+  "notes_changed_keys": [
+    "p003_s03",
+    "p003_s04",
+    "p004_s02",
+    "p004_s03",
+    "p004_s04",
+    "p006_s02",
+    "p006_s03",
+    "p006_s06",
+    "p007_s03",
+    "p008_s01",
+    "p008_s03",
+    "p011_s07",
+    "p015_s05",
+    "p015_s07",
+    "p019_s12",
+    "p019_s13",
+    "p020_s02",
+    "p023_s04",
+    "p023_s11",
+    "p027_s11",
+    "p028_s01",
+    "p028_s02",
+    "p028_s03",
+    "p028_s04",
+    "p032_s01",
+    "p032_s04",
+    "p042_s01",
+    "p043_s03",
+    "p044_s03",
+    "p044_s04",
+    "p045_s07",
+    "p046_s03",
+    "p048_s02",
+    "p058_s07",
+    "p061_s03",
+    "p063_s07",
+    "p073_s01",
+    "p073_s03",
+    "p073_s04",
+    "p073_s10",
+    "p075_s01",
+    "p075_s04",
+    "p076_s01",
+    "p077_s01",
+    "p077_s04",
+    "p077_s05",
+    "p077_s07",
+    "p079_s03",
+    "p080_s02",
+    "p081_s02",
+    "p083_s05",
+    "p083_s06",
+    "p094_s05",
+    "p104_s02",
+    "p107_s08",
+    "p108_s02"
+  ],
+  "note_latex_changed_keys": [
+    "p003_s03",
+    "p003_s04",
+    "p004_s02",
+    "p004_s03",
+    "p004_s04",
+    "p006_s02",
+    "p006_s03",
+    "p006_s06",
+    "p007_s03",
+    "p008_s01",
+    "p008_s03",
+    "p011_s07",
+    "p015_s05",
+    "p015_s07",
+    "p019_s12",
+    "p019_s13",
+    "p020_s02",
+    "p023_s04",
+    "p023_s11",
+    "p027_s11",
+    "p028_s01",
+    "p028_s02",
+    "p028_s03",
+    "p028_s04",
+    "p032_s01",
+    "p032_s04",
+    "p042_s01",
+    "p043_s03",
+    "p044_s03",
+    "p044_s04",
+    "p045_s07",
+    "p046_s03",
+    "p048_s02",
+    "p058_s07",
+    "p061_s03",
+    "p063_s07",
+    "p073_s01",
+    "p073_s03",
+    "p073_s04",
+    "p073_s10",
+    "p075_s01",
+    "p075_s04",
+    "p076_s01",
+    "p077_s01",
+    "p077_s04",
+    "p077_s05",
+    "p077_s07",
+    "p079_s03",
+    "p080_s02",
+    "p081_s02",
+    "p083_s05",
+    "p083_s06",
+    "p094_s05",
+    "p104_s02",
+    "p107_s08",
+    "p108_s02"
+  ],
+  "canonical_record_nonanswer_fields_unchanged_except_verification_changes_append": true,
+  "verification_changes_exactly_one_append_per_accepted_key": true,
+  "question_file_metadata_and_record_order_unchanged": true,
+  "notes_file_metadata_and_record_order_unchanged": true,
+  "unaccepted_811_canonical_and_note_records_deep_equal": true,
+  "early_original_answers_preserved_exactly": [
+    "p003_s03",
+    "p003_s04",
+    "p004_s02",
+    "p004_s03",
+    "p004_s04",
+    "p006_s02",
+    "p006_s03",
+    "p006_s06",
+    "p007_s03",
+    "p008_s01",
+    "p008_s03",
+    "p011_s07",
+    "p015_s05",
+    "p015_s07",
+    "p019_s12",
+    "p019_s13",
+    "p020_s02",
+    "p023_s04",
+    "p023_s11"
+  ],
+  "early_original_answer_preservation_count": 19,
+  "changed_note_field_names": {
+    "p003_s03": [
+      "latex",
+      "reason"
+    ],
+    "p003_s04": [
+      "latex",
+      "reason"
+    ],
+    "p004_s02": [
+      "latex",
+      "reason"
+    ],
+    "p004_s03": [
+      "latex",
+      "reason"
+    ],
+    "p004_s04": [
+      "latex",
+      "reason"
+    ],
+    "p006_s02": [
+      "latex",
+      "reason"
+    ],
+    "p006_s03": [
+      "latex",
+      "reason"
+    ],
+    "p006_s06": [
+      "latex",
+      "reason"
+    ],
+    "p007_s03": [
+      "latex",
+      "reason"
+    ],
+    "p008_s01": [
+      "latex",
+      "reason"
+    ],
+    "p008_s03": [
+      "latex",
+      "reason"
+    ],
+    "p011_s07": [
+      "latex",
+      "reason"
+    ],
+    "p015_s05": [
+      "latex",
+      "reason"
+    ],
+    "p015_s07": [
+      "latex",
+      "reason"
+    ],
+    "p019_s12": [
+      "latex",
+      "reason"
+    ],
+    "p019_s13": [
+      "latex",
+      "reason"
+    ],
+    "p020_s02": [
+      "latex",
+      "reason"
+    ],
+    "p023_s04": [
+      "latex",
+      "reason"
+    ],
+    "p023_s11": [
+      "latex",
+      "reason"
+    ],
+    "p027_s11": [
+      "latex",
+      "reason"
+    ],
+    "p028_s01": [
+      "latex",
+      "reason"
+    ],
+    "p028_s02": [
+      "latex",
+      "reason"
+    ],
+    "p028_s03": [
+      "latex",
+      "reason"
+    ],
+    "p028_s04": [
+      "latex",
+      "reason"
+    ],
+    "p032_s01": [
+      "latex",
+      "reason"
+    ],
+    "p032_s04": [
+      "latex",
+      "local_replacements",
+      "reason"
+    ],
+    "p042_s01": [
+      "latex",
+      "reason"
+    ],
+    "p043_s03": [
+      "latex",
+      "local_replacements",
+      "reason"
+    ],
+    "p044_s03": [
+      "latex",
+      "reason"
+    ],
+    "p044_s04": [
+      "latex",
+      "local_replacements",
+      "original_replacements",
+      "reason"
+    ],
+    "p045_s07": [
+      "latex",
+      "reason"
+    ],
+    "p046_s03": [
+      "latex",
+      "reason"
+    ],
+    "p048_s02": [
+      "latex",
+      "reason"
+    ],
+    "p058_s07": [
+      "latex",
+      "reason"
+    ],
+    "p061_s03": [
+      "latex",
+      "reason"
+    ],
+    "p063_s07": [
+      "latex",
+      "reason"
+    ],
+    "p073_s01": [
+      "latex",
+      "reason"
+    ],
+    "p073_s03": [
+      "latex",
+      "reason"
+    ],
+    "p073_s04": [
+      "latex",
+      "reason"
+    ],
+    "p073_s10": [
+      "latex",
+      "reason"
+    ],
+    "p075_s01": [
+      "latex",
+      "local_replacements",
+      "reason"
+    ],
+    "p075_s04": [
+      "latex",
+      "local_replacements",
+      "reason"
+    ],
+    "p076_s01": [
+      "latex",
+      "reason"
+    ],
+    "p077_s01": [
+      "latex",
+      "reason"
+    ],
+    "p077_s04": [
+      "latex",
+      "reason"
+    ],
+    "p077_s05": [
+      "latex",
+      "reason"
+    ],
+    "p077_s07": [
+      "latex",
+      "reason"
+    ],
+    "p079_s03": [
+      "latex",
+      "local_replacements",
+      "reason"
+    ],
+    "p080_s02": [
+      "latex",
+      "reason"
+    ],
+    "p081_s02": [
+      "latex",
+      "reason"
+    ],
+    "p083_s05": [
+      "latex",
+      "local_replacements",
+      "reason"
+    ],
+    "p083_s06": [
+      "latex",
+      "local_replacements",
+      "reason"
+    ],
+    "p094_s05": [
+      "latex",
+      "reason"
+    ],
+    "p104_s02": [
+      "latex",
+      "reason"
+    ],
+    "p107_s08": [
+      "latex",
+      "local_replacements",
+      "reason"
+    ],
+    "p108_s02": [
+      "latex",
+      "reason"
+    ]
+  },
+  "old_local_replacement_count": 61,
+  "new_local_replacement_count": 68,
+  "changed_local_replacement_keys": [
+    "p032_s04",
+    "p043_s03",
+    "p044_s04",
+    "p075_s01",
+    "p075_s04",
+    "p079_s03",
+    "p083_s05",
+    "p083_s06",
+    "p107_s08"
+  ],
+  "local_replacement_count_increase": 7,
+  "input_files": [
+    {
+      "file": "baseline/questions/p001.json",
+      "sha256": "673e9aeca4c2faf944bf3f300e52bf874dcff68781d17b1a93b66f0547857324"
+    },
+    {
+      "file": "baseline/questions/p002.json",
+      "sha256": "cdbb65f56d40f04494d55feb068a32c5090919c9de95a9002184f53824c2b9bf"
+    },
+    {
+      "file": "baseline/questions/p003.json",
+      "sha256": "ba10e9cbb0c7e799ca4118fa1fb3daea17b71699b805bffc90ca339980483f94"
+    },
+    {
+      "file": "baseline/questions/p004.json",
+      "sha256": "53c37a9dfad59215430b7396e0bd50ef380ad18984ca10370332e97fadf29c53"
+    },
+    {
+      "file": "baseline/questions/p005.json",
+      "sha256": "3e00509b5932737534522a0bde66230f4b7edc026e42f12027d82c5b47304781"
+    },
+    {
+      "file": "baseline/questions/p006.json",
+      "sha256": "0593b04c57b9f9664a7fe55d2329d7435ae525b3cdf12d2a770af2aa711b18c9"
+    },
+    {
+      "file": "baseline/questions/p007.json",
+      "sha256": "4caee94ab23dd04f73858c0a8be26b9085f12a9534037f892123e01666f6f12b"
+    },
+    {
+      "file": "baseline/questions/p008.json",
+      "sha256": "25bbcd1191467faa1efc424e1462108e46b1a1044409226a7103bce354b41d3b"
+    },
+    {
+      "file": "baseline/questions/p009.json",
+      "sha256": "be9c51dda56adcc8c04f40c16af00fb23276ded4e4d9448f6c2896759a3ef7d4"
+    },
+    {
+      "file": "baseline/questions/p010.json",
+      "sha256": "18af50eb82b9ed855a2933800aaf8fdb135cbb82a48fdfbfd71a8d1983e2b4e6"
+    },
+    {
+      "file": "baseline/questions/p011.json",
+      "sha256": "102cc37caada6cebaba97dc147c052da05af9318eda6930295a938174acf9aad"
+    },
+    {
+      "file": "baseline/questions/p012.json",
+      "sha256": "b3413ccaa56f5163519184cf98e7efaf9de0335517cfed4c776daff9528e0a5a"
+    },
+    {
+      "file": "baseline/questions/p013.json",
+      "sha256": "b19ff6a81bab59772c976a34a0f010aa1745dcff8235c6aa953b81bbb33c6f06"
+    },
+    {
+      "file": "baseline/questions/p014.json",
+      "sha256": "f1eddbd4f0c4708ec03c0877503db20c5a994cfd09bbdc86b6aa1fe58595d4dd"
+    },
+    {
+      "file": "baseline/questions/p015.json",
+      "sha256": "d0a794942a2f140f72dbbf7802e113498829469348d099b8fbe137a2085aa74c"
+    },
+    {
+      "file": "baseline/questions/p016.json",
+      "sha256": "8856c76622dff9f51b66bdd36d31bc1d688e03fd802f5eb56fcd5fdb09595cc1"
+    },
+    {
+      "file": "baseline/questions/p017.json",
+      "sha256": "ea142355ac9109d8abf95deee52636fa2461fe8e7b3f1918dd898bb05e6b5a77"
+    },
+    {
+      "file": "baseline/questions/p018.json",
+      "sha256": "11788775620bdcc5845881a23c8118a81da9f75854d9e5495ccea5646251276b"
+    },
+    {
+      "file": "baseline/questions/p019.json",
+      "sha256": "28ea6089254a901a55bab9f09b83beca30bf4cfe9abf311ba9a15bfe1b5b845d"
+    },
+    {
+      "file": "baseline/questions/p020.json",
+      "sha256": "3d8c6882cbe55e0743a6f9b81e169371fb0473398d4906f1ba3f68185feeb5f6"
+    },
+    {
+      "file": "baseline/questions/p021.json",
+      "sha256": "15b2a759ea342de1baceb3aab5f6791fe0a36553997d0b32c504929bebd664f6"
+    },
+    {
+      "file": "baseline/questions/p022.json",
+      "sha256": "6d7a99e3503b0ac128b14644c261c8c6fd78bfa75b130300286d32cee2e0cf74"
+    },
+    {
+      "file": "baseline/questions/p023.json",
+      "sha256": "6e8167ed4094c546be95ee0e03843dec2208ce93f318b78877ddeeb53ab860f1"
+    },
+    {
+      "file": "baseline/questions/p024.json",
+      "sha256": "092d9a01fee7f1e341de9a0b339411a6122995934a3ae1b305a86b1f2e4d774c"
+    },
+    {
+      "file": "baseline/questions/p025.json",
+      "sha256": "164678de187c5968aae1548587af4ce646a681d0e2f918d72ee2a8a608addd55"
+    },
+    {
+      "file": "baseline/questions/p026.json",
+      "sha256": "20b8acda2f94528d0b43752b96286a6cbecbd71488a059dace7d63ad5eca04b5"
+    },
+    {
+      "file": "baseline/questions/p027.json",
+      "sha256": "4717271223c94c8af2f48bdab91524754a8ff5612abdd61dc80f948802386aea"
+    },
+    {
+      "file": "baseline/questions/p028.json",
+      "sha256": "e038a4e5d4af027bdffd186e504ca8ca2c76e084211326a2402af334d85df3d3"
+    },
+    {
+      "file": "baseline/questions/p029.json",
+      "sha256": "c9b7e7b281929838caf51acb9ed170652042423dc1d5d67e0295553ee84c0119"
+    },
+    {
+      "file": "baseline/questions/p030.json",
+      "sha256": "3551aee37489d01731d2092c7b171b7574655c9facf3d18bd5219dc0a036b2ae"
+    },
+    {
+      "file": "baseline/questions/p031.json",
+      "sha256": "d3dc5af5a9133a3fbe7ff5e0fb69582f6b051c2e37dbaeb1d6b43f6d550125e2"
+    },
+    {
+      "file": "baseline/questions/p032.json",
+      "sha256": "b330b58e334f96b770a4f41a08c0d2836171e8d7bf1ee9003ad041ead84f2d2a"
+    },
+    {
+      "file": "baseline/questions/p033.json",
+      "sha256": "bd16a91e06bf95d6e33547cd82a3fed7d08272b598033a42eae815606d6726f0"
+    },
+    {
+      "file": "baseline/questions/p034.json",
+      "sha256": "0e805cdb08636e45be00e9b93a482bcbd229205eda4759548fc847ebf1ab3f9f"
+    },
+    {
+      "file": "baseline/questions/p035.json",
+      "sha256": "fbf99781ba92903facdf44d59a9151751d90003a4933a659057145f27f315f16"
+    },
+    {
+      "file": "baseline/questions/p036.json",
+      "sha256": "b6d84c839d7a06768d9efb416ca73ba3953b0083b55161450e31181124980ed0"
+    },
+    {
+      "file": "baseline/questions/p037.json",
+      "sha256": "cdd65bd8835838e33d1cdc674fa0a2af52bb3f1d9442fd0e047608ad080a2fe0"
+    },
+    {
+      "file": "baseline/questions/p038.json",
+      "sha256": "c24a4211fb9f4b8d65d7db7a9985cd5a8b1efd03cc82ec1d1e9b652dd52a83e6"
+    },
+    {
+      "file": "baseline/questions/p039.json",
+      "sha256": "2b934cdfbf533f9e746c791cde46e8d37518a8078208768af210154e818b4d86"
+    },
+    {
+      "file": "baseline/questions/p040.json",
+      "sha256": "05ffa9886404287e1e5c57152fca13c08f1afb203c4bfa1e586460269dadbf0f"
+    },
+    {
+      "file": "baseline/questions/p041.json",
+      "sha256": "aa8ea77b2971e30d1cc6b7d6b9dacb36748be0a3c8265312f6e10bd4bdaaf938"
+    },
+    {
+      "file": "baseline/questions/p042.json",
+      "sha256": "97c5ac53c47bc9582140f455c7f758ba5c657e88b9fa07c652d4679f2e2cc2a8"
+    },
+    {
+      "file": "baseline/questions/p043.json",
+      "sha256": "71989f5a72d8db608eda61c0df253f057afe518fd36a17df000e1e7f4e93af43"
+    },
+    {
+      "file": "baseline/questions/p044.json",
+      "sha256": "361ca2ff6e4407e941f6e3631f5dea4e97a300da5af65f38d89d5756de3442fc"
+    },
+    {
+      "file": "baseline/questions/p045.json",
+      "sha256": "ce22b395a96eaf38cd147b40a45996d6fc38cc2da8a053272f8cb1d0885aa542"
+    },
+    {
+      "file": "baseline/questions/p046.json",
+      "sha256": "604a96c23ad1566960295f74aaf9153893729d1127d08dbf0d8f08bc92a2d559"
+    },
+    {
+      "file": "baseline/questions/p047.json",
+      "sha256": "4dcbcd8b2500b8d3e06868be61f87255b36245776171a03ef388109dd7466ba7"
+    },
+    {
+      "file": "baseline/questions/p048.json",
+      "sha256": "4ba98a28f85f2a348aba7654ff05a509a9b73530483840fe4c6087cf5d3ad1ec"
+    },
+    {
+      "file": "baseline/questions/p049.json",
+      "sha256": "e5963b4fedb088ff162e17c25b2d51cae8a7cc7bd99c91663bec9ad5ca37f362"
+    },
+    {
+      "file": "baseline/questions/p050.json",
+      "sha256": "34ec650b176340d57a72942012c824ee9c5ada24c06c68519040fb7aa26955b5"
+    },
+    {
+      "file": "baseline/questions/p051.json",
+      "sha256": "11331afb15d20ffdf59e9f15e56b9a93159e1898f0adca83155d0dae419154fe"
+    },
+    {
+      "file": "baseline/questions/p052.json",
+      "sha256": "11497925bea2539f70063681419f4deb2e597b29f5409ba75362909df36c99d4"
+    },
+    {
+      "file": "baseline/questions/p053.json",
+      "sha256": "79e9eecce2c401c4e064c15286a3b16025e2da8e608c5ae0d87f710fb7738f24"
+    },
+    {
+      "file": "baseline/questions/p054.json",
+      "sha256": "539f35181c13be8b3a19ab236fba03dca632fad282955bf86d2585ef1481a9bd"
+    },
+    {
+      "file": "baseline/questions/p055.json",
+      "sha256": "130311d083ff4ec675bdd73a556b40da1996c88e0b5802f112030039ddfe1ee3"
+    },
+    {
+      "file": "baseline/questions/p056.json",
+      "sha256": "96495ff946509413d4f21675053a8e9c6e484ce916b055d0f15cd1fc270ed3ce"
+    },
+    {
+      "file": "baseline/questions/p057.json",
+      "sha256": "74c99e1c83c88106a6440c6a7005b63c7ffaf5d942fd7cd681a125c3fac2ded4"
+    },
+    {
+      "file": "baseline/questions/p058.json",
+      "sha256": "fdf198a26bbe08c5fc13991dbd18ee05b3673232a401edcf6e887800497b7f2f"
+    },
+    {
+      "file": "baseline/questions/p059.json",
+      "sha256": "50105b97b945dadf9512111a166f3bea5e7b73c777b6db0fa8540e989a9bdf4d"
+    },
+    {
+      "file": "baseline/questions/p060.json",
+      "sha256": "4f7a16b92771641eb46ca811362c54f82a936d4e3332eb56ce6ef0480765e2df"
+    },
+    {
+      "file": "baseline/questions/p061.json",
+      "sha256": "ab66aa0fabad7cb158e70f38d837443beeb82794690bed471a4388f53f9b46fe"
+    },
+    {
+      "file": "baseline/questions/p062.json",
+      "sha256": "423815bd55ae116a180c4d6621a47c9625796415dc06504827c7aa31f5f5ed80"
+    },
+    {
+      "file": "baseline/questions/p063.json",
+      "sha256": "52ab0f265a968673ed15486f61d3f5bb36a85d061055a93f9528f02e83ee6de0"
+    },
+    {
+      "file": "baseline/questions/p064.json",
+      "sha256": "4d0c042e39abdff0560aca7a31be4fb91680cd756733b412d869e76ee5952ad6"
+    },
+    {
+      "file": "baseline/questions/p065.json",
+      "sha256": "1de0fd825b9e829c30358bf82d153f2dadcf7e769bdf8c57298dc286577ec216"
+    },
+    {
+      "file": "baseline/questions/p066.json",
+      "sha256": "369ea866f6786d39cc323dceba62d8cab0ec6a62854efb852b05ce889c276372"
+    },
+    {
+      "file": "baseline/questions/p067.json",
+      "sha256": "d394e92020d8220000ac45380aa0122110fce5a26e9ed9d6287f964803291b0c"
+    },
+    {
+      "file": "baseline/questions/p068.json",
+      "sha256": "2d6dc73ce1a1a0f965a4f22e735bbc1e195bf2d0aba71a27e954be4919815271"
+    },
+    {
+      "file": "baseline/questions/p069.json",
+      "sha256": "2c27d37f98ed1274fbf41eb127b87b8f75f6c0f7ea0ad8102d447d0e5b708432"
+    },
+    {
+      "file": "baseline/questions/p070.json",
+      "sha256": "996b63bbd8bcc1c7ac118e3f1a3a94bb9fea1c060168e15e3b05ca1bcf672a69"
+    },
+    {
+      "file": "baseline/questions/p071.json",
+      "sha256": "86561759cc5b9dabf55f3699f0b1d83d301ec8dad664204124c6aaa95cd9fd3f"
+    },
+    {
+      "file": "baseline/questions/p072.json",
+      "sha256": "bf89a52a4509f979d9e471ce0d94b31ee5f8bfa874be9d321836193fcbafdb24"
+    },
+    {
+      "file": "baseline/questions/p073.json",
+      "sha256": "2a3f909d310330ce9e4b16d721a0b8a1b6cd12ad3a64e374394bc3de50b79cc7"
+    },
+    {
+      "file": "baseline/questions/p074.json",
+      "sha256": "7a3079a4f023181e0d5fe007c58a89836c07bdc87bdd694029e9115f1859f813"
+    },
+    {
+      "file": "baseline/questions/p075.json",
+      "sha256": "328921d9863cb287774b55c2af309b192b67e79c1a0dc79ec31f8800cf701c88"
+    },
+    {
+      "file": "baseline/questions/p076.json",
+      "sha256": "11f8182fadc5f2a5389678b840826c7497f9dc3670caf49aa013b102d28725b1"
+    },
+    {
+      "file": "baseline/questions/p077.json",
+      "sha256": "c24f96dca5a3019e483a9fd487ce46715f7152ab2e02e2709f8b7b8b1f2bb908"
+    },
+    {
+      "file": "baseline/questions/p078.json",
+      "sha256": "b34929084d848721ddbb8f5243d96bc2b32f2846b5703f3753f2fbe84a401413"
+    },
+    {
+      "file": "baseline/questions/p079.json",
+      "sha256": "2e824862cdc8e779a127fe8fb3a91506f25bd866998331f7bed0ef6a9f1e9dcb"
+    },
+    {
+      "file": "baseline/questions/p080.json",
+      "sha256": "1cb47c4f5e953f9fdc08d0573fafef579bf370208e69ef0473ae8534fbb1df85"
+    },
+    {
+      "file": "baseline/questions/p081.json",
+      "sha256": "a9a1d79b571a4c517c13b2c9aba14a07fba717c743904c3179d547c60a4b371d"
+    },
+    {
+      "file": "baseline/questions/p082.json",
+      "sha256": "c4256ed40c2c9498e41ff5a1d85ce87e91ec29ac37c9757e7eb8216dc3d1183c"
+    },
+    {
+      "file": "baseline/questions/p083.json",
+      "sha256": "8723b1107be8d98e32910b9ec3d2b3c5625093ddc12f3913c222855e8ad2a7d5"
+    },
+    {
+      "file": "baseline/questions/p084.json",
+      "sha256": "f1a26130763b42ffbaec62365da3c1510acc9bfe0cb4a15640a1b7495e3971eb"
+    },
+    {
+      "file": "baseline/questions/p085.json",
+      "sha256": "e9ad3395b4fb69a0a7174f2e16560f1a4eff169e19f49d02c8007da668418208"
+    },
+    {
+      "file": "baseline/questions/p086.json",
+      "sha256": "06dae103fe531f507560d31ea74a4dbd182ff324cfb8f513049a63307edc1535"
+    },
+    {
+      "file": "baseline/questions/p087.json",
+      "sha256": "63a10ff9df236562d4abd666a9864f20a5a428fa8b54ecbe59c132936b5da463"
+    },
+    {
+      "file": "baseline/questions/p088.json",
+      "sha256": "af89f731903dc9af712953a2a07570409db064774cb35488a9453c2e69e12af6"
+    },
+    {
+      "file": "baseline/questions/p089.json",
+      "sha256": "db77c11417a04229ee389e5210c432b6a79b6355d1d51a485efa7c1f0cd022a7"
+    },
+    {
+      "file": "baseline/questions/p090.json",
+      "sha256": "3df2ea1875a5c68fe518a024b7b51ef2c5a12944b9536d5c31573f09a74f9162"
+    },
+    {
+      "file": "baseline/questions/p091.json",
+      "sha256": "3d18a30193bcc079e09dfc65ad9186ca88bd9a8d59823615abdece14c2296655"
+    },
+    {
+      "file": "baseline/questions/p092.json",
+      "sha256": "b65137aea79fd64c3f964189dc34043852b4efaac0be940852234286d0e5749b"
+    },
+    {
+      "file": "baseline/questions/p093.json",
+      "sha256": "7dce306fd35a181b7df1de49fc38316aac7f8f0adf202b05fbf7df09fc17c044"
+    },
+    {
+      "file": "baseline/questions/p094.json",
+      "sha256": "c2e8c13e5d6366b15395e02e5c3643f2907c7e85d60692a94f899646902b557d"
+    },
+    {
+      "file": "baseline/questions/p095.json",
+      "sha256": "9883ec8d08780a7ee97e25219121959528dae7a0b9d9542e7cbb18151ad0a17a"
+    },
+    {
+      "file": "baseline/questions/p096.json",
+      "sha256": "d3172fa641d6a72e418931121db39dd5c9692c2b9c28cc3fea5b31f3b9081b5d"
+    },
+    {
+      "file": "baseline/questions/p097.json",
+      "sha256": "2b1e577e0a790913673215a0adac018e1d9c619e754ad68096fee56211cd1054"
+    },
+    {
+      "file": "baseline/questions/p098.json",
+      "sha256": "8b70903856b053612d7c06afee5f9ed159f17c24efef71486e3e38b627b78d32"
+    },
+    {
+      "file": "baseline/questions/p099.json",
+      "sha256": "0b9a3513eacf43ec704c09a8c1e75d5b76093349c11c333d77683ce5f255432a"
+    },
+    {
+      "file": "baseline/questions/p100.json",
+      "sha256": "8320c53caf9c326055995b19439fa7636d42891ae4f7a5851c253747c44ef539"
+    },
+    {
+      "file": "baseline/questions/p101.json",
+      "sha256": "4af30cebd8c4bacd2cb40054a53ab33a707bd0c15baf36239feb1498a8077f0c"
+    },
+    {
+      "file": "baseline/questions/p102.json",
+      "sha256": "bbc33071f5254f29846defac3ceb7082da848a82e02475216c5f10d4b3569413"
+    },
+    {
+      "file": "baseline/questions/p103.json",
+      "sha256": "3a543387ff54e9082a7c4701e38dda4d0e79782ea1a2147939c3759d0a1ce20c"
+    },
+    {
+      "file": "baseline/questions/p104.json",
+      "sha256": "bb3ed1ff49f3017e0546849502c8038d7a85d83ea9d863862c241b4f4f8df358"
+    },
+    {
+      "file": "baseline/questions/p105.json",
+      "sha256": "6f376d1d14dab041addeafc30da9cd31a7e5778f07fc958e62d35761db9e58cf"
+    },
+    {
+      "file": "baseline/questions/p106.json",
+      "sha256": "3a5fbcf8f3e225759c67c229798ae255452af93640a1b03f742f3bd20cafe532"
+    },
+    {
+      "file": "baseline/questions/p107.json",
+      "sha256": "d26f777ec02ebd8dd79fc4e78f70c8672676444d7812e9ae9b0d0607f7ceeead"
+    },
+    {
+      "file": "baseline/questions/p108.json",
+      "sha256": "ba3e72ddd72013122d5a614031c04f2b71a33f58f042530192f6a5f051d73b6b"
+    },
+    {
+      "file": "project/questions/p001.json",
+      "sha256": "673e9aeca4c2faf944bf3f300e52bf874dcff68781d17b1a93b66f0547857324"
+    },
+    {
+      "file": "project/questions/p002.json",
+      "sha256": "cdbb65f56d40f04494d55feb068a32c5090919c9de95a9002184f53824c2b9bf"
+    },
+    {
+      "file": "project/questions/p003.json",
+      "sha256": "f85b5140835fc10edcc412e73bd23d656f3b71cabcc708ff890bb2bf599d2b5b"
+    },
+    {
+      "file": "project/questions/p004.json",
+      "sha256": "c45d9737b759a93dfd7dec17e70e55346ab027d0d3681619cffcae112fc768c1"
+    },
+    {
+      "file": "project/questions/p005.json",
+      "sha256": "f488086f7a73d31a705f3c6b4b9f766be79cdf5923a2fd864d65f4b699178b04"
+    },
+    {
+      "file": "project/questions/p006.json",
+      "sha256": "21eb029456566d81b4061eff8e227fcd6194e69f2065733d9ac5f909a0ef9ce5"
+    },
+    {
+      "file": "project/questions/p007.json",
+      "sha256": "985dba4c69e44bc35c3be468a0261fce170821a70c5bd4f384799d8fb8929ac3"
+    },
+    {
+      "file": "project/questions/p008.json",
+      "sha256": "23b721be2008e8e3f49433e4b45b58b6e7eeae00913db690fe9217986fe28997"
+    },
+    {
+      "file": "project/questions/p009.json",
+      "sha256": "be9c51dda56adcc8c04f40c16af00fb23276ded4e4d9448f6c2896759a3ef7d4"
+    },
+    {
+      "file": "project/questions/p010.json",
+      "sha256": "18af50eb82b9ed855a2933800aaf8fdb135cbb82a48fdfbfd71a8d1983e2b4e6"
+    },
+    {
+      "file": "project/questions/p011.json",
+      "sha256": "780860507512debe6bb012a5881461449684a781225d4834f4b0d7630a197609"
+    },
+    {
+      "file": "project/questions/p012.json",
+      "sha256": "b3413ccaa56f5163519184cf98e7efaf9de0335517cfed4c776daff9528e0a5a"
+    },
+    {
+      "file": "project/questions/p013.json",
+      "sha256": "b19ff6a81bab59772c976a34a0f010aa1745dcff8235c6aa953b81bbb33c6f06"
+    },
+    {
+      "file": "project/questions/p014.json",
+      "sha256": "f1eddbd4f0c4708ec03c0877503db20c5a994cfd09bbdc86b6aa1fe58595d4dd"
+    },
+    {
+      "file": "project/questions/p015.json",
+      "sha256": "f7008dd3522cef02bb4f83d1476601e9030ee5cffc7913a50cd289a94f556254"
+    },
+    {
+      "file": "project/questions/p016.json",
+      "sha256": "8856c76622dff9f51b66bdd36d31bc1d688e03fd802f5eb56fcd5fdb09595cc1"
+    },
+    {
+      "file": "project/questions/p017.json",
+      "sha256": "ea142355ac9109d8abf95deee52636fa2461fe8e7b3f1918dd898bb05e6b5a77"
+    },
+    {
+      "file": "project/questions/p018.json",
+      "sha256": "11788775620bdcc5845881a23c8118a81da9f75854d9e5495ccea5646251276b"
+    },
+    {
+      "file": "project/questions/p019.json",
+      "sha256": "ff2ac2f3a16c6da05bc38890dba606855d23b3a8f706e966f2cf3fa174b0dd32"
+    },
+    {
+      "file": "project/questions/p020.json",
+      "sha256": "92d6eb20c6eb8f7cbed6bd9c06bb034162b3038a482fa7ec9c4df89d03349ef3"
+    },
+    {
+      "file": "project/questions/p021.json",
+      "sha256": "15b2a759ea342de1baceb3aab5f6791fe0a36553997d0b32c504929bebd664f6"
+    },
+    {
+      "file": "project/questions/p022.json",
+      "sha256": "6d7a99e3503b0ac128b14644c261c8c6fd78bfa75b130300286d32cee2e0cf74"
+    },
+    {
+      "file": "project/questions/p023.json",
+      "sha256": "85eb2dedf2e617b060f1fa5a36b5963f153b89a45734c4e02ea12bace973b151"
+    },
+    {
+      "file": "project/questions/p024.json",
+      "sha256": "092d9a01fee7f1e341de9a0b339411a6122995934a3ae1b305a86b1f2e4d774c"
+    },
+    {
+      "file": "project/questions/p025.json",
+      "sha256": "164678de187c5968aae1548587af4ce646a681d0e2f918d72ee2a8a608addd55"
+    },
+    {
+      "file": "project/questions/p026.json",
+      "sha256": "20b8acda2f94528d0b43752b96286a6cbecbd71488a059dace7d63ad5eca04b5"
+    },
+    {
+      "file": "project/questions/p027.json",
+      "sha256": "24728ace3cc7e5e9eb7077dcc4ed68ce4848d1465b86d30d5c93df576803d923"
+    },
+    {
+      "file": "project/questions/p028.json",
+      "sha256": "c5794119542ea151c2b83cf1208d5d0bd2ee89316bc16eac97324cda4bc0c048"
+    },
+    {
+      "file": "project/questions/p029.json",
+      "sha256": "c9b7e7b281929838caf51acb9ed170652042423dc1d5d67e0295553ee84c0119"
+    },
+    {
+      "file": "project/questions/p030.json",
+      "sha256": "3551aee37489d01731d2092c7b171b7574655c9facf3d18bd5219dc0a036b2ae"
+    },
+    {
+      "file": "project/questions/p031.json",
+      "sha256": "d3dc5af5a9133a3fbe7ff5e0fb69582f6b051c2e37dbaeb1d6b43f6d550125e2"
+    },
+    {
+      "file": "project/questions/p032.json",
+      "sha256": "a08ae2be103e45c5470567a02e17506ec200bfff7cda681f625ac097c0a868bc"
+    },
+    {
+      "file": "project/questions/p033.json",
+      "sha256": "bd16a91e06bf95d6e33547cd82a3fed7d08272b598033a42eae815606d6726f0"
+    },
+    {
+      "file": "project/questions/p034.json",
+      "sha256": "0e805cdb08636e45be00e9b93a482bcbd229205eda4759548fc847ebf1ab3f9f"
+    },
+    {
+      "file": "project/questions/p035.json",
+      "sha256": "fbf99781ba92903facdf44d59a9151751d90003a4933a659057145f27f315f16"
+    },
+    {
+      "file": "project/questions/p036.json",
+      "sha256": "b6d84c839d7a06768d9efb416ca73ba3953b0083b55161450e31181124980ed0"
+    },
+    {
+      "file": "project/questions/p037.json",
+      "sha256": "cdd65bd8835838e33d1cdc674fa0a2af52bb3f1d9442fd0e047608ad080a2fe0"
+    },
+    {
+      "file": "project/questions/p038.json",
+      "sha256": "c24a4211fb9f4b8d65d7db7a9985cd5a8b1efd03cc82ec1d1e9b652dd52a83e6"
+    },
+    {
+      "file": "project/questions/p039.json",
+      "sha256": "2b934cdfbf533f9e746c791cde46e8d37518a8078208768af210154e818b4d86"
+    },
+    {
+      "file": "project/questions/p040.json",
+      "sha256": "05ffa9886404287e1e5c57152fca13c08f1afb203c4bfa1e586460269dadbf0f"
+    },
+    {
+      "file": "project/questions/p041.json",
+      "sha256": "aa8ea77b2971e30d1cc6b7d6b9dacb36748be0a3c8265312f6e10bd4bdaaf938"
+    },
+    {
+      "file": "project/questions/p042.json",
+      "sha256": "9e34c97dd15b66092e36529bc14dcf89b6484f2ef2ee673be1aa15f11039c2ee"
+    },
+    {
+      "file": "project/questions/p043.json",
+      "sha256": "7e5e74758db031d457fe3eaf3d049d680bcae821de7e10309b9bc38fc588534e"
+    },
+    {
+      "file": "project/questions/p044.json",
+      "sha256": "540cc6e27748f59ac743b131b1efaf627599219329169f619ea72300a9c2c71f"
+    },
+    {
+      "file": "project/questions/p045.json",
+      "sha256": "f78c491bc0144e4205a4037a0806128c727276938c480e838075c892e88eab1d"
+    },
+    {
+      "file": "project/questions/p046.json",
+      "sha256": "a87905a256c012e2185e043c375e2d71d44263e7287fcf028558949d9909e9a0"
+    },
+    {
+      "file": "project/questions/p047.json",
+      "sha256": "4dcbcd8b2500b8d3e06868be61f87255b36245776171a03ef388109dd7466ba7"
+    },
+    {
+      "file": "project/questions/p048.json",
+      "sha256": "9bc08cb02b937a43c963bff15c0c740c32cb08d84f3317395b5c1f5604f625dc"
+    },
+    {
+      "file": "project/questions/p049.json",
+      "sha256": "e5963b4fedb088ff162e17c25b2d51cae8a7cc7bd99c91663bec9ad5ca37f362"
+    },
+    {
+      "file": "project/questions/p050.json",
+      "sha256": "34ec650b176340d57a72942012c824ee9c5ada24c06c68519040fb7aa26955b5"
+    },
+    {
+      "file": "project/questions/p051.json",
+      "sha256": "11331afb15d20ffdf59e9f15e56b9a93159e1898f0adca83155d0dae419154fe"
+    },
+    {
+      "file": "project/questions/p052.json",
+      "sha256": "11497925bea2539f70063681419f4deb2e597b29f5409ba75362909df36c99d4"
+    },
+    {
+      "file": "project/questions/p053.json",
+      "sha256": "79e9eecce2c401c4e064c15286a3b16025e2da8e608c5ae0d87f710fb7738f24"
+    },
+    {
+      "file": "project/questions/p054.json",
+      "sha256": "539f35181c13be8b3a19ab236fba03dca632fad282955bf86d2585ef1481a9bd"
+    },
+    {
+      "file": "project/questions/p055.json",
+      "sha256": "130311d083ff4ec675bdd73a556b40da1996c88e0b5802f112030039ddfe1ee3"
+    },
+    {
+      "file": "project/questions/p056.json",
+      "sha256": "96495ff946509413d4f21675053a8e9c6e484ce916b055d0f15cd1fc270ed3ce"
+    },
+    {
+      "file": "project/questions/p057.json",
+      "sha256": "74c99e1c83c88106a6440c6a7005b63c7ffaf5d942fd7cd681a125c3fac2ded4"
+    },
+    {
+      "file": "project/questions/p058.json",
+      "sha256": "12cf7d69fb5921f43488188221909b4e9b30c12ff1fdd96c2fb9a274c027ce77"
+    },
+    {
+      "file": "project/questions/p059.json",
+      "sha256": "50105b97b945dadf9512111a166f3bea5e7b73c777b6db0fa8540e989a9bdf4d"
+    },
+    {
+      "file": "project/questions/p060.json",
+      "sha256": "4f7a16b92771641eb46ca811362c54f82a936d4e3332eb56ce6ef0480765e2df"
+    },
+    {
+      "file": "project/questions/p061.json",
+      "sha256": "13d6a8597e4ab20d658f418fcbb00c3a1d8548f1edae6430468f300fcbb1b4c4"
+    },
+    {
+      "file": "project/questions/p062.json",
+      "sha256": "423815bd55ae116a180c4d6621a47c9625796415dc06504827c7aa31f5f5ed80"
+    },
+    {
+      "file": "project/questions/p063.json",
+      "sha256": "6182d87c032fbd5e4bce5cc160f4f852431cef59ff9629f513fe68b640a5e445"
+    },
+    {
+      "file": "project/questions/p064.json",
+      "sha256": "4d0c042e39abdff0560aca7a31be4fb91680cd756733b412d869e76ee5952ad6"
+    },
+    {
+      "file": "project/questions/p065.json",
+      "sha256": "46db477e9a1bc92e65b4141629d11e2f5a8f9ba9f5c9124c2f3dce9ad7e1c757"
+    },
+    {
+      "file": "project/questions/p066.json",
+      "sha256": "369ea866f6786d39cc323dceba62d8cab0ec6a62854efb852b05ce889c276372"
+    },
+    {
+      "file": "project/questions/p067.json",
+      "sha256": "d394e92020d8220000ac45380aa0122110fce5a26e9ed9d6287f964803291b0c"
+    },
+    {
+      "file": "project/questions/p068.json",
+      "sha256": "2d6dc73ce1a1a0f965a4f22e735bbc1e195bf2d0aba71a27e954be4919815271"
+    },
+    {
+      "file": "project/questions/p069.json",
+      "sha256": "2c27d37f98ed1274fbf41eb127b87b8f75f6c0f7ea0ad8102d447d0e5b708432"
+    },
+    {
+      "file": "project/questions/p070.json",
+      "sha256": "c5ace25326851c5a3f6973cbe0fcedd8ad0bb7daac85638176b0c038e1e16133"
+    },
+    {
+      "file": "project/questions/p071.json",
+      "sha256": "86561759cc5b9dabf55f3699f0b1d83d301ec8dad664204124c6aaa95cd9fd3f"
+    },
+    {
+      "file": "project/questions/p072.json",
+      "sha256": "bf89a52a4509f979d9e471ce0d94b31ee5f8bfa874be9d321836193fcbafdb24"
+    },
+    {
+      "file": "project/questions/p073.json",
+      "sha256": "d49d2b3ddcecfb03c756b52e5a07536277ab65ecd4cfe8f8684f69b5e9cfb9d9"
+    },
+    {
+      "file": "project/questions/p074.json",
+      "sha256": "7a3079a4f023181e0d5fe007c58a89836c07bdc87bdd694029e9115f1859f813"
+    },
+    {
+      "file": "project/questions/p075.json",
+      "sha256": "b2c24ee24762f1edadf716a094b077c9da25db8353365a16c090ffbf42564122"
+    },
+    {
+      "file": "project/questions/p076.json",
+      "sha256": "3173259ca4573014b5b35c2a85c969427e683fbdf7a81c2113ebb7b5e2248daa"
+    },
+    {
+      "file": "project/questions/p077.json",
+      "sha256": "10b24d850e62d1c1478cddc06cc0fec1e0b4c3d498152bb93546829ebe5e7ce6"
+    },
+    {
+      "file": "project/questions/p078.json",
+      "sha256": "b34929084d848721ddbb8f5243d96bc2b32f2846b5703f3753f2fbe84a401413"
+    },
+    {
+      "file": "project/questions/p079.json",
+      "sha256": "fb1ec4f13ed0a9a47642c6b7958909e94007b6009d3a3a4fc4c1500da6ea2c75"
+    },
+    {
+      "file": "project/questions/p080.json",
+      "sha256": "c42c3438b7985b9ba42b9179d85451812e809e70f82fb2c6a3d374f83cd22bd9"
+    },
+    {
+      "file": "project/questions/p081.json",
+      "sha256": "2e93990453a787a7265fb07938260f1c1a62853dc99a61cac789ac3f1493156f"
+    },
+    {
+      "file": "project/questions/p082.json",
+      "sha256": "c4256ed40c2c9498e41ff5a1d85ce87e91ec29ac37c9757e7eb8216dc3d1183c"
+    },
+    {
+      "file": "project/questions/p083.json",
+      "sha256": "4c7003773a6c26ef1481506a9e825cb20349b36fa230a091d921fe3fb839f5af"
+    },
+    {
+      "file": "project/questions/p084.json",
+      "sha256": "f1a26130763b42ffbaec62365da3c1510acc9bfe0cb4a15640a1b7495e3971eb"
+    },
+    {
+      "file": "project/questions/p085.json",
+      "sha256": "0e7619c4f7b9c94bf2177af13aa4bce3f0cc8d8cf294222745a497444d7de1a8"
+    },
+    {
+      "file": "project/questions/p086.json",
+      "sha256": "06dae103fe531f507560d31ea74a4dbd182ff324cfb8f513049a63307edc1535"
+    },
+    {
+      "file": "project/questions/p087.json",
+      "sha256": "63a10ff9df236562d4abd666a9864f20a5a428fa8b54ecbe59c132936b5da463"
+    },
+    {
+      "file": "project/questions/p088.json",
+      "sha256": "af89f731903dc9af712953a2a07570409db064774cb35488a9453c2e69e12af6"
+    },
+    {
+      "file": "project/questions/p089.json",
+      "sha256": "db77c11417a04229ee389e5210c432b6a79b6355d1d51a485efa7c1f0cd022a7"
+    },
+    {
+      "file": "project/questions/p090.json",
+      "sha256": "3df2ea1875a5c68fe518a024b7b51ef2c5a12944b9536d5c31573f09a74f9162"
+    },
+    {
+      "file": "project/questions/p091.json",
+      "sha256": "3d18a30193bcc079e09dfc65ad9186ca88bd9a8d59823615abdece14c2296655"
+    },
+    {
+      "file": "project/questions/p092.json",
+      "sha256": "b65137aea79fd64c3f964189dc34043852b4efaac0be940852234286d0e5749b"
+    },
+    {
+      "file": "project/questions/p093.json",
+      "sha256": "7dce306fd35a181b7df1de49fc38316aac7f8f0adf202b05fbf7df09fc17c044"
+    },
+    {
+      "file": "project/questions/p094.json",
+      "sha256": "b2a2d1c040788b348456690235a011a8be8f966d76b686190ce434e4a6340cf0"
+    },
+    {
+      "file": "project/questions/p095.json",
+      "sha256": "9883ec8d08780a7ee97e25219121959528dae7a0b9d9542e7cbb18151ad0a17a"
+    },
+    {
+      "file": "project/questions/p096.json",
+      "sha256": "d3172fa641d6a72e418931121db39dd5c9692c2b9c28cc3fea5b31f3b9081b5d"
+    },
+    {
+      "file": "project/questions/p097.json",
+      "sha256": "2b1e577e0a790913673215a0adac018e1d9c619e754ad68096fee56211cd1054"
+    },
+    {
+      "file": "project/questions/p098.json",
+      "sha256": "8b70903856b053612d7c06afee5f9ed159f17c24efef71486e3e38b627b78d32"
+    },
+    {
+      "file": "project/questions/p099.json",
+      "sha256": "0b9a3513eacf43ec704c09a8c1e75d5b76093349c11c333d77683ce5f255432a"
+    },
+    {
+      "file": "project/questions/p100.json",
+      "sha256": "8320c53caf9c326055995b19439fa7636d42891ae4f7a5851c253747c44ef539"
+    },
+    {
+      "file": "project/questions/p101.json",
+      "sha256": "4af30cebd8c4bacd2cb40054a53ab33a707bd0c15baf36239feb1498a8077f0c"
+    },
+    {
+      "file": "project/questions/p102.json",
+      "sha256": "bbc33071f5254f29846defac3ceb7082da848a82e02475216c5f10d4b3569413"
+    },
+    {
+      "file": "project/questions/p103.json",
+      "sha256": "3a543387ff54e9082a7c4701e38dda4d0e79782ea1a2147939c3759d0a1ce20c"
+    },
+    {
+      "file": "project/questions/p104.json",
+      "sha256": "d09ce97c06b0e22be275a83d4ab25fb96f5d154ce39fcd2d97ac029749507229"
+    },
+    {
+      "file": "project/questions/p105.json",
+      "sha256": "6f376d1d14dab041addeafc30da9cd31a7e5778f07fc958e62d35761db9e58cf"
+    },
+    {
+      "file": "project/questions/p106.json",
+      "sha256": "3a5fbcf8f3e225759c67c229798ae255452af93640a1b03f742f3bd20cafe532"
+    },
+    {
+      "file": "project/questions/p107.json",
+      "sha256": "882fa3fa2687c1771732b84a97f31892d7c4cce60b9f61b5fccf9688847700e0"
+    },
+    {
+      "file": "project/questions/p108.json",
+      "sha256": "489f9423d5e57666b3be5089af4c9b4cdbe6cdc55f6b90919e476b7ae3e47ee5"
+    },
+    {
+      "file": "baseline/detailed_layout/notes_A.json",
+      "sha256": "b9cf489c96792a4c9d7b5ae617fb429b2c9c0326fd9fb6a96567c4d3b04a8f0b"
+    },
+    {
+      "file": "baseline/detailed_layout/notes_B.json",
+      "sha256": "ab5154206479515cf82dc8767ff67c7dcabfa2d2dfc797e068af6831b338d1cd"
+    },
+    {
+      "file": "baseline/detailed_layout/notes_C.json",
+      "sha256": "a09d74cdf939125fc585a4f6a6d305cb75ec852c9893aaa19a3e42eb80ad3bf2"
+    },
+    {
+      "file": "baseline/detailed_layout/notes_D.json",
+      "sha256": "4896a7488d6536bafd884323d3831cd104e2d1c4161344147f7332fd8d79cfec"
+    },
+    {
+      "file": "project/detailed_layout/notes_A.json",
+      "sha256": "87014be445624595204847d92212a916593bfd52fa162744b18b8705fff8f58e"
+    },
+    {
+      "file": "project/detailed_layout/notes_B.json",
+      "sha256": "4c478b117fa3c7b2f960b8729f7e76994c82927a6c92f8075c42c0545fac83ae"
+    },
+    {
+      "file": "project/detailed_layout/notes_C.json",
+      "sha256": "ee28ef033e16fd5447d31e27a46a7cb5fcc46eb25d013a3930da6953efdabc2e"
+    },
+    {
+      "file": "project/detailed_layout/notes_D.json",
+      "sha256": "a4b93b7f42d161c69aab43169f6ea7f79618ee3d96bdace5065977b22dde5256"
+    },
+    {
+      "file": "accepted_changes.json",
+      "sha256": "de0783e596e45ebb9e0e8c562bacfdfe5c683d1ae23dad76af467866bc264c55"
+    }
+  ],
+  "limitations": "Does not assert that all answers are correct or all pages were visually inspected; mathematical, PDF layout and PPT animation checks are separate."
+}

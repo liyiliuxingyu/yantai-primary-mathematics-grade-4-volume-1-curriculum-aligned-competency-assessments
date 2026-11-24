@@ -1,0 +1,535 @@
+{
+  "scope_requested_book_pages": [
+    84,
+    124
+  ],
+  "actual_question_pages": [
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108
+  ],
+  "actual_page_count": 25,
+  "record_count": 181,
+  "diagram_count": 74,
+  "absent_from_question_inventory": [
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124
+  ],
+  "absence_note": "项目题目清单止于原书108页；PDF128页包含前置页及后续参考资料。没有将PDF页序109–124误认作原书印刷页码。",
+  "method": [
+    "逐个读取25个当前questions JSON的全部记录与diagram字段",
+    "逐题查看题干/图形类别；181条记录，74个题面或答案diagram记录",
+    "渲染并实际查看纯原题PDF中source_page88–112共25页的两幅联系表，核对是否有未录入的显著数量分析树",
+    "对四个相似图类候选逐个阅读完整当前题干、图源及答案，区别分析树与赛程图/线段图/阵列图"
+  ],
+  "visual_contact_sheets": [
+    "late_contact_0.jpg",
+    "late_contact_15.jpg"
+  ],
+  "candidates_to_modify": [],
+  "excluded_similar_diagrams": [
+    {
+      "key": "p098_s02",
+      "book_page": 98,
+      "question_id": "一、8",
+      "original_position": "页顶的8组循环赛/淘汰赛示意图",
+      "classification": "tournament_bracket",
+      "reason": "树状的是比赛淘汰进程，框里表示获胜组而非数量、运算或单位，不能改成信息窗三数量分析树。"
+    },
+    {
+      "key": "p100_s03",
+      "book_page": 100,
+      "question_id": "五、2",
+      "original_position": "第2题中性笔示意照片/长度重叠图",
+      "classification": "overlap_length_diagram",
+      "reason": "用笔杆、笔帽与套好总长直接表现长度重叠关系；无数量分析空框。"
+    },
+    {
+      "key": "p100_s04",
+      "book_page": 100,
+      "question_id": "五、3",
+      "original_position": "第3题要求先画图表示数量关系，题下空白",
+      "classification": "distance_segment_diagram",
+      "reason": "相对行驶的三段路程须用线段图，现有答案已给甲90千米/时、3小时、乙未知速度、240千米及总长约720千米，并有代回检验；不应替换为树形图。"
+    },
+    {
+      "key": "p106_s06",
+      "book_page": 106,
+      "question_id": "二、6",
+      "original_position": "页下半的小方格图形拼合",
+      "classification": "distributive_law_array_diagram",
+      "reason": "图示用旋转/平移解释乘法分配律，保留图形过程，不属数量关系分析树。"
+    }
+  ],
+  "page_coverage": [
+    {
+      "book_page": 84,
+      "pdf_source_page": 88,
+      "record_count": 4,
+      "keys": [
+        "p084_s01",
+        "p084_s02",
+        "p084_s03",
+        "p084_s04"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "f1a26130763b42ffbaec62365da3c1510acc9bfe0cb4a15640a1b7495e3971eb",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 85,
+      "pdf_source_page": 89,
+      "record_count": 12,
+      "keys": [
+        "p085_s01",
+        "p085_s02",
+        "p085_s03",
+        "p085_s04",
+        "p085_s05",
+        "p085_s06",
+        "p085_s07",
+        "p085_s08",
+        "p085_s09",
+        "p085_s10",
+        "p085_s11",
+        "p085_s12"
+      ],
+      "diagram_count": 3,
+      "json_sha256": "a0a8789b7444d30b9966f9985baaef367346766622d914a971ef98dad87021be",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 86,
+      "pdf_source_page": 90,
+      "record_count": 12,
+      "keys": [
+        "p086_s01",
+        "p086_s02",
+        "p086_s03",
+        "p086_s04",
+        "p086_s05",
+        "p086_s06",
+        "p086_s07",
+        "p086_s08",
+        "p086_s09",
+        "p086_s10",
+        "p086_s11",
+        "p086_s12"
+      ],
+      "diagram_count": 6,
+      "json_sha256": "06dae103fe531f507560d31ea74a4dbd182ff324cfb8f513049a63307edc1535",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 87,
+      "pdf_source_page": 91,
+      "record_count": 8,
+      "keys": [
+        "p087_s01",
+        "p087_s02",
+        "p087_s03",
+        "p087_s04",
+        "p087_s05",
+        "p087_s06",
+        "p087_s07",
+        "p087_s08"
+      ],
+      "diagram_count": 16,
+      "json_sha256": "63a10ff9df236562d4abd666a9864f20a5a428fa8b54ecbe59c132936b5da463",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 88,
+      "pdf_source_page": 92,
+      "record_count": 3,
+      "keys": [
+        "p088_s01",
+        "p088_s02",
+        "p088_s03"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "af89f731903dc9af712953a2a07570409db064774cb35488a9453c2e69e12af6",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 89,
+      "pdf_source_page": 93,
+      "record_count": 9,
+      "keys": [
+        "p089_s01",
+        "p089_s02",
+        "p089_s03",
+        "p089_s04",
+        "p089_s05",
+        "p089_s06",
+        "p089_s07",
+        "p089_s08",
+        "p089_s09"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "db77c11417a04229ee389e5210c432b6a79b6355d1d51a485efa7c1f0cd022a7",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 90,
+      "pdf_source_page": 94,
+      "record_count": 9,
+      "keys": [
+        "p090_s01",
+        "p090_s02",
+        "p090_s03",
+        "p090_s04",
+        "p090_s05",
+        "p090_s06",
+        "p090_s07",
+        "p090_s08",
+        "p090_s09"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "3df2ea1875a5c68fe518a024b7b51ef2c5a12944b9536d5c31573f09a74f9162",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 91,
+      "pdf_source_page": 95,
+      "record_count": 4,
+      "keys": [
+        "p091_s01",
+        "p091_s02",
+        "p091_s03",
+        "p091_s04"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "3d18a30193bcc079e09dfc65ad9186ca88bd9a8d59823615abdece14c2296655",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 92,
+      "pdf_source_page": 96,
+      "record_count": 2,
+      "keys": [
+        "p092_s01",
+        "p092_s02"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "b65137aea79fd64c3f964189dc34043852b4efaac0be940852234286d0e5749b",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 93,
+      "pdf_source_page": 97,
+      "record_count": 9,
+      "keys": [
+        "p093_s01",
+        "p093_s02",
+        "p093_s03",
+        "p093_s04",
+        "p093_s05",
+        "p093_s06",
+        "p093_s07",
+        "p093_s08",
+        "p093_s09"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "7dce306fd35a181b7df1de49fc38316aac7f8f0adf202b05fbf7df09fc17c044",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 94,
+      "pdf_source_page": 98,
+      "record_count": 9,
+      "keys": [
+        "p094_s01",
+        "p094_s02",
+        "p094_s03",
+        "p094_s04",
+        "p094_s05",
+        "p094_s06",
+        "p094_s07",
+        "p094_s08",
+        "p094_s09"
+      ],
+      "diagram_count": 1,
+      "json_sha256": "c2e8c13e5d6366b15395e02e5c3643f2907c7e85d60692a94f899646902b557d",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 95,
+      "pdf_source_page": 99,
+      "record_count": 8,
+      "keys": [
+        "p095_s01",
+        "p095_s02",
+        "p095_s03",
+        "p095_s04",
+        "p095_s05",
+        "p095_s06",
+        "p095_s07",
+        "p095_s08"
+      ],
+      "diagram_count": 4,
+      "json_sha256": "9883ec8d08780a7ee97e25219121959528dae7a0b9d9542e7cbb18151ad0a17a",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 96,
+      "pdf_source_page": 100,
+      "record_count": 5,
+      "keys": [
+        "p096_s01",
+        "p096_s02",
+        "p096_s03",
+        "p096_s04",
+        "p096_s05"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "d3172fa641d6a72e418931121db39dd5c9692c2b9c28cc3fea5b31f3b9081b5d",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 97,
+      "pdf_source_page": 101,
+      "record_count": 7,
+      "keys": [
+        "p097_s01",
+        "p097_s02",
+        "p097_s03",
+        "p097_s04",
+        "p097_s05",
+        "p097_s06",
+        "p097_s07"
+      ],
+      "diagram_count": 6,
+      "json_sha256": "2b1e577e0a790913673215a0adac018e1d9c619e754ad68096fee56211cd1054",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 98,
+      "pdf_source_page": 102,
+      "record_count": 7,
+      "keys": [
+        "p098_s01",
+        "p098_s02",
+        "p098_s03",
+        "p098_s04",
+        "p098_s05",
+        "p098_s06",
+        "p098_s07"
+      ],
+      "diagram_count": 4,
+      "json_sha256": "8b70903856b053612d7c06afee5f9ed159f17c24efef71486e3e38b627b78d32",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 99,
+      "pdf_source_page": 103,
+      "record_count": 8,
+      "keys": [
+        "p099_s01",
+        "p099_s02",
+        "p099_s03",
+        "p099_s04",
+        "p099_s05",
+        "p099_s06",
+        "p099_s07",
+        "p099_s08"
+      ],
+      "diagram_count": 7,
+      "json_sha256": "0b9a3513eacf43ec704c09a8c1e75d5b76093349c11c333d77683ce5f255432a",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 100,
+      "pdf_source_page": 104,
+      "record_count": 5,
+      "keys": [
+        "p100_s01",
+        "p100_s02",
+        "p100_s03",
+        "p100_s04",
+        "p100_s05"
+      ],
+      "diagram_count": 2,
+      "json_sha256": "8320c53caf9c326055995b19439fa7636d42891ae4f7a5851c253747c44ef539",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 101,
+      "pdf_source_page": 105,
+      "record_count": 7,
+      "keys": [
+        "p101_s01",
+        "p101_s02",
+        "p101_s03",
+        "p101_s04",
+        "p101_s05",
+        "p101_s06",
+        "p101_s07"
+      ],
+      "diagram_count": 1,
+      "json_sha256": "4af30cebd8c4bacd2cb40054a53ab33a707bd0c15baf36239feb1498a8077f0c",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 102,
+      "pdf_source_page": 106,
+      "record_count": 6,
+      "keys": [
+        "p102_s01",
+        "p102_s02",
+        "p102_s03",
+        "p102_s04",
+        "p102_s05",
+        "p102_s06"
+      ],
+      "diagram_count": 4,
+      "json_sha256": "bbc33071f5254f29846defac3ceb7082da848a82e02475216c5f10d4b3569413",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 103,
+      "pdf_source_page": 107,
+      "record_count": 13,
+      "keys": [
+        "p103_s01",
+        "p103_s02",
+        "p103_s03",
+        "p103_s04",
+        "p103_s05",
+        "p103_s06",
+        "p103_s07",
+        "p103_s08",
+        "p103_s09",
+        "p103_s10",
+        "p103_s11",
+        "p103_s12",
+        "p103_s13"
+      ],
+      "diagram_count": 7,
+      "json_sha256": "3a543387ff54e9082a7c4701e38dda4d0e79782ea1a2147939c3759d0a1ce20c",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 104,
+      "pdf_source_page": 108,
+      "record_count": 5,
+      "keys": [
+        "p104_s01",
+        "p104_s02",
+        "p104_s03",
+        "p104_s04",
+        "p104_s05"
+      ],
+      "diagram_count": 1,
+      "json_sha256": "bb3ed1ff49f3017e0546849502c8038d7a85d83ea9d863862c241b4f4f8df358",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 105,
+      "pdf_source_page": 109,
+      "record_count": 8,
+      "keys": [
+        "p105_s01",
+        "p105_s02",
+        "p105_s03",
+        "p105_s04",
+        "p105_s05",
+        "p105_s06",
+        "p105_s07",
+        "p105_s08"
+      ],
+      "diagram_count": 1,
+      "json_sha256": "6f376d1d14dab041addeafc30da9cd31a7e5778f07fc958e62d35761db9e58cf",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 106,
+      "pdf_source_page": 110,
+      "record_count": 6,
+      "keys": [
+        "p106_s01",
+        "p106_s02",
+        "p106_s03",
+        "p106_s04",
+        "p106_s05",
+        "p106_s06"
+      ],
+      "diagram_count": 7,
+      "json_sha256": "3a5fbcf8f3e225759c67c229798ae255452af93640a1b03f742f3bd20cafe532",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 107,
+      "pdf_source_page": 111,
+      "record_count": 10,
+      "keys": [
+        "p107_s01",
+        "p107_s02",
+        "p107_s03",
+        "p107_s04",
+        "p107_s05",
+        "p107_s06",
+        "p107_s07",
+        "p107_s08",
+        "p107_s09",
+        "p107_s10"
+      ],
+      "diagram_count": 4,
+      "json_sha256": "d26f777ec02ebd8dd79fc4e78f70c8672676444d7812e9ae9b0d0607f7ceeead",
+      "classification": "no_quantity_relation_analysis_tree"
+    },
+    {
+      "book_page": 108,
+      "pdf_source_page": 112,
+      "record_count": 5,
+      "keys": [
+        "p108_s01",
+        "p108_s02",
+        "p108_s03",
+        "p108_s04",
+        "p108_s05"
+      ],
+      "diagram_count": 0,
+      "json_sha256": "ba3e72ddd72013122d5a614031c04f2b71a33f58f042530192f6a5f051d73b6b",
+      "classification": "no_quantity_relation_analysis_tree"
+    }
+  ],
+  "check_limit": "本次检查是题型与图形分类检查，不声称重新独立验算这25页的全部题。联系表用于辨识题型；不将低分辨率联系表作为文字或数值准确性证明。",
+  "conclusion": "本范围未发现须照原书3页四1数量关系分析树样式补写的新题；无需修改主文件。"
+}

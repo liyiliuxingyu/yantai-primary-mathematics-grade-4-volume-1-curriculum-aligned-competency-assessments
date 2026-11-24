@@ -1,0 +1,194 @@
+{
+  "book_page": 104,
+  "source_page": 108,
+  "records": [
+    {
+      "key": "p104_s01",
+      "book_page": 104,
+      "source_page": 108,
+      "section_index": 0,
+      "id": "五、1",
+      "kind": "application",
+      "question_latex": "五、解决问题。（共27分）\\par 1. 小红的储蓄罐里原来有\\(12.3\\)元，昨天买笔用去\\(7.5\\)元，今天妈妈又给了她\\(2.3\\)元，现在小红的储蓄罐里有多少钱？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{方法一：按事情发生顺序计算}\\par 先从原有12.3元扣昨天买笔的7.5元，再加妈妈今天给的2.3元。\\[\\begin{aligned} &12.3-7.5+2.3\\\\ ={}&4.8+2.3\\\\ ={}&7.1\\text{(元)}\\end{aligned}\\]答：现在储蓄罐里有7.1元。\\par \\textbf{方法二：先合计拥有过的钱，再扣支出}\\par 把原有和新收入先相加，最后减买笔支出。\\[\\begin{aligned} &12.3+2.3-7.5\\\\ ={}&14.6-7.5\\\\ ={}&7.1\\text{(元)}\\end{aligned}\\]答：现在储蓄罐里有7.1元。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "无乘法；钱数加减"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p104_s02",
+      "book_page": 104,
+      "source_page": 108,
+      "section_index": 1,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "2. 利群商场举办“迎十一”促销活动，下图的袜子每双\\(4.68\\)元，王阿姨买了\\(12\\)双，花了多少钱？（5分）\\par 促销：买五送一。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p104_s02_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\foreach \\x in {0,1.2}{\\begin{scope}[xshift=\\x cm]\\draw(0,1.5)--(.6,1.5)--(.6,.4)..controls(.6,0)and(0,-.3)..(-.4,0)--(-.5,.3)--(0,.8)--cycle;\\draw(0,1.2)--(.6,1.2);\\end{scope}}\\node[below]at(.5,-.5){买五送一};\\end{tikzpicture}",
+          "notes": "非定量袜子情境线图；买五送一为原图承载的促销条件。"
+        }
+      ],
+      "answer_latex": "\\textbf{方法一：按六双一组，求付费双数}\\par 买5双送1双，6双为一组；12双有2组，每组付5双的钱。\\[\\begin{aligned}&4.68\\times[5\\times(12\\div(5+1))]\\\\={}&4.68\\times[5\\times(12\\div6)]\\\\={}&4.68\\times[5\\times2]\\\\={}&4.68\\times10\\\\={}&46.8\\text{(元)}\\end{aligned}\\]答：12双袜子共花46.8元。\\par \\textbf{方法二：化成整数分，再扣赠品标价}\\par \\[4.68\\text{元}=468\\text{分}\\]12双中有2双赠送，列总标价减赠品标价，再用乘法分配律合并为10份，避免先算两个大乘积。\\[\\begin{aligned}&468\\times12-468\\times[12\\div(5+1)]\\\\={}&468\\times12-468\\times[12\\div6]\\\\={}&468\\times12-468\\times2\\\\={}&468\\times(12-2)\\\\={}&468\\times10\\\\={}&4680\\text{(分)}\\end{aligned}\\]\\[4680\\text{分}=46.8\\text{元}\\]答：12双袜子共花46.8元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "修正或补足解析。",
+          "追加量义与每份数×份数复核时，补齐依赖计算的中间步骤；未改变结果。",
+          "简便计算复核：保持主法4.68×10的小数点位移；仅将分币另法由5616−936改为提取公因数468，先凑出10份，减少大乘积。总标价减赠品标价的数量思路保留，未引入一般小数乘法。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "4.68元/双×付费双数；每组付5双×组数2；468分/双×12双、468分/双×赠送2双"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p104_s03",
+      "book_page": 104,
+      "source_page": 108,
+      "section_index": 2,
+      "id": "五、3",
+      "kind": "application",
+      "question_latex": "3. 商店每个足球售价\\(108\\)元，每个篮球售价\\(92\\)元。学校需要购买足球和篮球各\\(15\\)个，一共需要花多少钱？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "足球和篮球各15个，可把各一个配成一套，先将每套单价108与92凑200。分别列两类球总价时，利用乘法分配律合并共同的15，也化为同一简便式。\\par \\[\\begin{aligned}&108\\times15+92\\times15\\\\={}&(108+92)\\times15\\\\={}&200\\times15\\\\={}&3000\\text{(元)}\\end{aligned}\\]答：一共需要3000元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "本轮复核：另一数量思路仍先算108×15和92×15两个大积；共同乘15，可先把108与92凑成200，明显减少计算量。主法原本已简便，保留。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "一套单价(108+92)元×15套；108元/个×15个、92元/个×15个"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p104_s04",
+      "book_page": 104,
+      "source_page": 108,
+      "section_index": 3,
+      "id": "五、4",
+      "kind": "application",
+      "question_latex": "4. 同学们周末参加户外徒步活动。上山时走\\(1080\\)米用了\\(18\\)分钟，按原路返回时只用了\\(15\\)分钟。上山的速度比下山的速度每分钟慢多少？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{方法一：分别求下山和上山速度}\\par 路程相同，速度等于路程除以时间，再求速度差。\\[\\begin{aligned} &1080\\div15-1080\\div18\\\\ ={}&72-60\\\\ ={}&12\\text{(米/分)}\\end{aligned}\\]答：上山速度比下山速度每分钟慢12米。\\par \\textbf{方法二：比较同样15分钟所行路程}\\par 上山速度为1080除以18等于60米/分；按这个速度15分钟只能走900米，比下山路程少180米，再平均到15分钟。\\[\\begin{aligned} &(1080-60\\times15)\\div15\\\\ ={}&(1080-900)\\div15\\\\ ={}&180\\div15\\\\ ={}&12\\text{(米/分)}\\end{aligned}\\]答：上山速度比下山速度每分钟慢12米。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每分钟60米×15分钟，其他方法为速度相减"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p104_s05",
+      "book_page": 104,
+      "source_page": 108,
+      "section_index": 4,
+      "id": "五、5",
+      "kind": "application",
+      "question_latex": "5. 甲、乙两列车同时从两地出发，相向而行。\\(2\\)小时后两车第一次相距\\(200\\)千米。甲车每小时行\\(220\\)千米，乙车每小时行\\(280\\)千米，两地之间的距离是多少千米？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "第一次相距200千米表示尚未相遇，已行路程和要加尚余200千米。可先求两车速度和；分别列两车路程时，利用乘法分配律提取共同的2，将220与280凑500。\\par \\[\\begin{aligned}&220\\times2+280\\times2+200\\\\={}&(220+280)\\times2+200\\\\={}&500\\times2+200\\\\={}&1000+200\\\\={}&1200\\text{(千米)}\\end{aligned}\\]答：两地之间相距1200千米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "本轮复核：另法两车路程同乘2，仍先算440与560；利用分配律先把220与280凑500，更直接。第一次尚未相遇的判断与尚余200均不改变。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每小时速度和500千米×2小时；各车220/280千米每小时×2小时"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

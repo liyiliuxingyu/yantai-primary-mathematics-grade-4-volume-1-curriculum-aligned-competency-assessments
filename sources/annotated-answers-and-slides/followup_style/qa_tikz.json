@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "figures": [
+    {
+      "name": "p005_s04_a1",
+      "compiled": true,
+      "source_sha256": "b288722a337abaeebe9e78e6de4bc80bbb5b39df9ea6a49faeb6d4b213bc7acd"
+    },
+    {
+      "name": "p007_s08_a1",
+      "compiled": true,
+      "source_sha256": "b0ad27c05aeb0e630a97e58771f43e0bed04dc0c67c5d7bde1ac01c064331ce5"
+    }
+  ]
+}

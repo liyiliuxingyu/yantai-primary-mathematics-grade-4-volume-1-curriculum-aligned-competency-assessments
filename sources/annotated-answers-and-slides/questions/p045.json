@@ -1,0 +1,287 @@
+{
+  "book_page": 45,
+  "source_page": 49,
+  "records": [
+    {
+      "key": "p045_s01",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "给算式\\(200+370-295\\div5\\)添上括号，使它的运算顺序变成先算减法，再算加法，最后算除法：（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\([200+(370-295)]\\div5\\)。题目要求先算减法，把\\(370-295\\)括起；再与200相加，把这个和整体放进中括号；最后除以5。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s02",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "装修公司要给一个面积为96平方米的会议厅铺防滑地砖，每平方米的地砖和施工费用合计48元，完成这个会议厅的地砖铺设总共需要花费（　）元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(4608\\)。每平方米48元，96平方米的费用为\\(48\\times96=48\\times(100-4)=4800-192=4608\\)元。乘法顺序按“每平方米费用×平方米数”。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s03",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "钟面上（　）时整和（　）时整，时针和分针互相垂直。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(3,9\\)。整时的分针指向12。时针指向3或9时，与12相差3个大格，即\\(30^\\circ\\times3=90^\\circ\\)，所以互相垂直。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s04",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "小新用加法运算律写了一个等式：\\(\\square2+4\\square=\\square8+5\\square\\)。如果这两个加数的和是100，那么这两个加数分别是（　）和（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两个加数为\\(52,48\\)，四个方框依次填\\(5,8,4,2\\)。算式应用加法交换律，故\\(\\square2\\)与\\(5\\square\\)相同、\\(4\\square\\)与\\(\\square8\\)相同，先得到52和48。检验\\(52+48=100\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s05",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 4,
+      "id": "一、5（1）",
+      "kind": "fill",
+      "question_latex": "根据运算律填一填。（1）\\(175+264+225+136=(\\square\\bigcirc\\square)\\bigcirc(\\square\\bigcirc\\square)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "一种填写为\\((175+225)+(264+136)\\)。把175和225凑成400，把264和136也凑成400，应用加法交换律和结合律，总和为800。两组的前后互换也正确。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s06",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 5,
+      "id": "一、5（2）",
+      "kind": "fill",
+      "question_latex": "根据运算律填一填。（2）\\(\\square\\times99+\\square\\times\\square=a\\times(\\square\\bigcirc1)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(a,a,1,99,+\\)。式子为\\(a\\times99+a\\times1=a\\times(99+1)\\)，这是乘法分配律的逆用。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s07",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 6,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "印刷厂工人每小时能印刷300份报纸，每天工作8小时，一周（5个工作日）能印刷（　）份报纸。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(12000\\)。每小时300份，按“每份数\\(\\times\\)份数”列式，用乘法结合律先求总工作时间：\\[\\begin{aligned}&300\\times8\\times5\\\\={}&300\\times(8\\times5)\\\\={}&300\\times40\\\\={}&12000\\text{(份)}\\end{aligned}\\]一周只算5个工作日。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "简便计算复核：现notes主式先算300×8再乘5，未利用8和5凑40。按乘法结合律先算总工作40小时，使后一步成为乘整十数；原填空12000正确。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s08",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 7,
+      "id": "一、7",
+      "kind": "fill",
+      "question_latex": "在圆圈里填上“＞”“＜”或“＝”。\\(38\\times(5+6)\\ \\bigcirc\\ 38\\times5+6\\)，\\(420\\div21\\ \\bigcirc\\ 420\\div7\\div3\\)；\\(78\\times199\\ \\bigcirc\\ 78\\times200-1\\)，\\(74\\times10\\times2\\ \\bigcirc\\ 74\\times12\\)；\\(65\\times24\\ \\bigcirc\\ 65\\times4\\times20\\)，\\(107\\times5\\ \\bigcirc\\ 105\\times7\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(>,=,<,>,<,<\\)。\\par \\(38\\times(5+6)=418>196=38\\times5+6\\)。\\par \\(420\\div21=420\\div7\\div3=20\\)。\\par \\(78\\times199=15522<15599=78\\times200-1\\)，少的是78而不是1。\\par \\(74\\times10\\times2=1480>888=74\\times12\\)。\\par \\(65\\times24=1560<65\\times4\\times20=5200\\)。\\par \\(107\\times5=535<735=105\\times7\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s09",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 8,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "斑马线中的每一组白线可以看作互相（　）的线段。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填“平行”。一组斑马线中的白线沿同一方向、不会相交，可看作互相平行的线段。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p045_s10",
+      "book_page": 45,
+      "source_page": 49,
+      "section_index": 9,
+      "id": "一、9",
+      "kind": "fill",
+      "question_latex": "一个等腰三角形的木板，顶角是底角的4倍，底角是（　）°。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(30^\\circ\\)。把一个底角看成1份，另一个底角也是1份，顶角为4份，共6份。每份\\(180^\\circ\\div(1+1+4)=30^\\circ\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

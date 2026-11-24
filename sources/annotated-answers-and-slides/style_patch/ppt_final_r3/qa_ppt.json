@@ -1,0 +1,219 @@
+{
+  "source": "/workspace/scratch/1facfb035d44/detail_work/deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+  "source_sha256": "bae9ace05a27c4178d32ad36ccdb2b5c9ee6bce943b16362377be4fdda92e16b",
+  "output": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/小学四上同步素养卷第1册讲解课件答案.pptx",
+  "output_sha256": "cb848adba20fdab5365ab0bf31c1675ffad94ea3334fe7624435066ab6f96252",
+  "slide_count": 426,
+  "modified_original_zip_parts": [
+    "ppt/slides/slide71.xml",
+    "ppt/slides/slide74.xml",
+    "ppt/slides/slide75.xml",
+    "ppt/slides/slide76.xml",
+    "ppt/slides/_rels/slide74.xml.rels",
+    "ppt/slides/_rels/slide75.xml.rels",
+    "ppt/slides/_rels/slide76.xml.rels"
+  ],
+  "added_media_parts": [
+    "ppt/media/p003_formula_1.png",
+    "ppt/media/p003_formula_1.svg",
+    "ppt/media/p003_formula_2.png",
+    "ppt/media/p003_formula_2.svg",
+    "ppt/media/p003_formula_3.png",
+    "ppt/media/p003_formula_3.svg",
+    "ppt/media/p003_formula_4.png",
+    "ppt/media/p003_formula_4.svg",
+    "ppt/media/p003_formula_5.png",
+    "ppt/media/p003_formula_5.svg"
+  ],
+  "other_original_zip_components_byte_identical": true,
+  "all_422_other_slide_xml_byte_identical": true,
+  "all_426_timing_xml_byte_identical": true,
+  "affected_slide_checks": [
+    {
+      "slide": 71,
+      "native_omml_formula_count": 0,
+      "real_svg_png_fallback_count": 0,
+      "all_timing_targets_resolve": true
+    },
+    {
+      "slide": 74,
+      "native_omml_formula_count": 2,
+      "real_svg_png_fallback_count": 2,
+      "all_timing_targets_resolve": true
+    },
+    {
+      "slide": 75,
+      "native_omml_formula_count": 3,
+      "real_svg_png_fallback_count": 3,
+      "all_timing_targets_resolve": true,
+      "outer_group_id": 4,
+      "all_seven_complete_node_labels_present": true,
+      "native_connectors": 6
+    },
+    {
+      "slide": 76,
+      "native_omml_formula_count": 3,
+      "real_svg_png_fallback_count": 3,
+      "all_timing_targets_resolve": true,
+      "outer_group_id": 4,
+      "all_seven_complete_node_labels_present": true,
+      "native_connectors": 6
+    }
+  ],
+  "native_omml_formula_total": 8,
+  "formula_fallback_compilation": [
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_1.tex",
+      "source_sha256": "ddf6f0eb8edb3d416476f2a3a874e3a15082a640df8a977b1409c9cb70d6ed81",
+      "actual_xelatex_compiled": true,
+      "warnings": [],
+      "svg_sha256": "7ecbaecec8ed60ae2fd85db0788dff58acc9b25dffa04378758b9c9120ac53d6",
+      "png_sha256": "007a59c444b3e62088c56a23834b52ac4292ddfed180d97145f4b5b9cc0f941c"
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_2.tex",
+      "source_sha256": "d248f2b64c17667bc88c8a0535d2c9b27c0670636d7260596b500144ab397002",
+      "actual_xelatex_compiled": true,
+      "warnings": [],
+      "svg_sha256": "f6f6528fb18712afc0b576cf062adef01e4c91c22cd5958a0f8fa372a8a85b4d",
+      "png_sha256": "b26f41adb9643ed90bb7da2aad0a8096c7e09471e4123a6d25ea82336d9254b9"
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_3.tex",
+      "source_sha256": "299cdfd8ddff931bee0f5f5d2a6e1e219826d200274f6f586db0a218e6969a3d",
+      "actual_xelatex_compiled": true,
+      "warnings": [],
+      "svg_sha256": "d84903b0049b8c13663f0d539ae9d5b8daf9be41613c075b060e180e244c0ba1",
+      "png_sha256": "c4bfdef2529582d5a2a858d47e7790c18440b578859df0b7022f3dc92b3ea1c0"
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_4.tex",
+      "source_sha256": "dbf0fde27bcee6643dd8a2e84a5c3ec49ef36c9c10eb27a3d837116d0b524599",
+      "actual_xelatex_compiled": true,
+      "warnings": [],
+      "svg_sha256": "552850eac93e74a32d9c9f9362a3837c161e5b639d3670d3305e4dbd71ce07dd",
+      "png_sha256": "505e9037b9b35989b3b38793c950c095dac437a4ab9b4693fb8cdc4e325ede2a"
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_5.tex",
+      "source_sha256": "0e17d2a8080fd5bea00eb6eacd08eaa564a6c87af5cf3be9fb1890a335506949",
+      "actual_xelatex_compiled": true,
+      "warnings": [],
+      "svg_sha256": "64423ec02ef54ef086cd390aa28a1916e5966d6e2eefb5f94c8cd3cf7a6d4a90",
+      "png_sha256": "0cad75516e883bd7b7b7df1a20f3bd472dc8957814db7c12ff22fd04e3d6374d"
+    }
+  ],
+  "actual_libreoffice_static_export": {
+    "pdf": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/actual_static_export/小学四上同步素养卷第1册讲解课件答案.pdf",
+    "pdf_sha256": "f6fa1cde302ef178dcc4c375bedce08f589885666cf8acd542f796a9f62fd456",
+    "exported_original_slide_numbers": [
+      71,
+      74,
+      75,
+      76
+    ],
+    "page_count": 4,
+    "rendered_pngs": [
+      "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/actual_static_export/slide-071.png",
+      "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/actual_static_export/slide-074.png",
+      "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/actual_static_export/slide-075.png",
+      "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/actual_static_export/slide-076.png"
+    ],
+    "visual_review_pass": true,
+    "notes": "Only the four changed pages were re-exported after the final formula revision. No additional whole-deck static comparison was needed because every other slide XML and all shared parts remain byte-identical."
+  },
+  "skill_validation": {
+    "packageIntegrity": {
+      "chart_count": 0,
+      "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+      "finding_count": 0,
+      "findings": [],
+      "notes_parts_skipped": 426,
+      "relationship_part_count": 862,
+      "slide_count": 426,
+      "status": "pass",
+      "exitCode": 0,
+      "findingCount": 0,
+      "warnings": []
+    },
+    "presentationLayout": {
+      "finding_count": 0,
+      "findings": [],
+      "font_policy": {
+        "checked_text_script_count": 5941,
+        "native_font_rendering_verified": false,
+        "observed_font_families": [
+          "Droid Sans Fallback"
+        ],
+        "observed_font_use_counts": {
+          "Droid Sans Fallback": 5941
+        },
+        "passed": true,
+        "performed": true
+      },
+      "slide_count": 426,
+      "slide_size_in": [
+        13.3333,
+        7.5
+      ],
+      "warning_count": 0,
+      "warnings": [],
+      "exitCode": 0,
+      "findingCount": 0,
+      "fontPolicy": {
+        "checked_text_script_count": 5941,
+        "native_font_rendering_verified": false,
+        "observed_font_families": [
+          "Droid Sans Fallback"
+        ],
+        "observed_font_use_counts": {
+          "Droid Sans Fallback": 5941
+        },
+        "passed": true,
+        "performed": true
+      }
+    },
+    "fontSelection": {
+      "basis": "design",
+      "approvedFamilies": [
+        "Droid Sans Fallback",
+        "Cambria Math"
+      ],
+      "scriptFonts": {},
+      "referenceSha256": null,
+      "referenceFontsVerifiedInEncodedText": false,
+      "checked_text_script_count": 5941,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Droid Sans Fallback"
+      ],
+      "observed_font_use_counts": {
+        "Droid Sans Fallback": 5941
+      },
+      "passed": true,
+      "performed": true
+    },
+    "firstPartyImport": {
+      "performed": true,
+      "passed": true,
+      "slideCount": 426,
+      "sha256": "cb848adba20fdab5365ab0bf31c1675ffad94ea3334fe7624435066ab6f96252",
+      "nodeExecutable": "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/bin/node"
+    }
+  },
+  "claim_boundary": "Native text, connectors, and OMML are verified structurally. Static output was viewed in LibreOffice-exported PDF/PNG. Microsoft PowerPoint slideshow playback was not performed.",
+  "companion_tikz": [
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/p003_s07_a1.tex",
+      "source_sha256": "3cf2416adab26a1d8297ac7c17f11790300f3a4663f226efa0962de6bcc112b1",
+      "actual_xelatex_compiled": true,
+      "pdf": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/tikz_compile/p003_s07_a1.pdf"
+    },
+    {
+      "source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/p003_s07_a2.tex",
+      "source_sha256": "3a44e0a57e2b7f3f5be6ee20b663166d792ced311ec0a8d2c348508d787d6cfd",
+      "actual_xelatex_compiled": true,
+      "pdf": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/tikz_compile/p003_s07_a2.pdf"
+    }
+  ]
+}

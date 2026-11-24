@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "actual_view_image_review": true,
+  "book_pages": [
+    74,
+    75,
+    88
+  ],
+  "partial_pdf_sha256": "729967db796d78605ca15b24eebb0b880ec8dbd13c84ef1e1744d1c11d33bff1",
+  "preview_sha256": {
+    "74": "9d3debb786491d5dad17321354e23df7e7e2faaa2a1456b3b20aa8dc5a2fdbbc",
+    "75": "c1d979f8bad25dd03ab81370eea3eba37e2ec10468fb3369405484270316df24",
+    "88": "90ab7ec35b57335009e8cec33d9eb991444b88af2216d76ede479c2c62822454"
+  },
+  "checks": {
+    "74": "原题15与C填答保留，红注正确说明书后A冲突及45假设，无遮盖。",
+    "75": "五行乘除简算完整；插入白缝410pt，黑标题从414pt后开始，不再切断；邻题与原答语保持。",
+    "88": "四行简算完整，原左侧答语与末行横向分离不重叠。"
+  },
+  "source_footer_limit": "91页原扫描页脚模糊，保持原图；索引仍按原始连续页序定位，未因本轮计算复核修改页码。"
+}

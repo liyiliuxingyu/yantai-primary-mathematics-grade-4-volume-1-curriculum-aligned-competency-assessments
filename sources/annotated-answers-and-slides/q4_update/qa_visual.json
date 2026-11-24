@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "pdf_sha256": "5b0ec22916bc2f77e3ec9575a8b46466f500ce03d32887ee09d5817cf9d82dda",
+  "actual_visual_scope": {
+    "pdf_pages": [
+      82
+    ],
+    "book_pages": [
+      78
+    ],
+    "question_keys": [
+      "p078_s04"
+    ],
+    "views": [
+      "final_page82.png",
+      "final_choice_B.png",
+      "final_note.png"
+    ]
+  },
+  "checks": {
+    "single_B_visible_and_centered_in_original_parentheses": true,
+    "old_D_and_old_note_removed": true,
+    "note_readable_no_overlap": true,
+    "prior_five_black_corrections_preserved": true,
+    "no_page_or_geometry_changes": true
+  },
+  "manual_review_limit": "Actual exported page 82 and its Q4 choice/note crops viewed; other 127 pages verified by unchanged object/stream proof, not manually re-viewed this task.",
+  "reviewers": [
+    "PDF pipeline agent",
+    "root"
+  ],
+  "frozen": true
+}

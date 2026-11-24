@@ -1,0 +1,107 @@
+{
+  "pdf_sha256": "0c2b58508dc03f5724055d47df357044426fb7196d506894728c93258b04fe44",
+  "previous_pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "changed_notes": [
+    {
+      "key": "p065_s05",
+      "old_note_rect": [
+        78.0,
+        975.0,
+        581.6666666666666,
+        1013.8600006103516
+      ],
+      "new_note_rect": [
+        78.0,
+        975.0,
+        565.0,
+        999.9099998474121
+      ],
+      "pdf_page": 69,
+      "font_pt": 11.5
+    },
+    {
+      "key": "p070_s06",
+      "old_note_rect": [
+        78.0,
+        394.0,
+        581.6666666666666,
+        418.9099998474121
+      ],
+      "new_note_rect": [
+        78.0,
+        394.0,
+        581.3333333333333,
+        418.7299995422363
+      ],
+      "pdf_page": 74,
+      "font_pt": 11.5
+    },
+    {
+      "key": "p070_s11",
+      "old_note_rect": [
+        78.0,
+        915.0,
+        578.8333333333333,
+        939.8199996948242
+      ],
+      "new_note_rect": [
+        78.0,
+        915.0,
+        578.1666666666667,
+        939.9099998474121
+      ],
+      "pdf_page": 74,
+      "font_pt": 11.5
+    },
+    {
+      "key": "p085_s11",
+      "old_note_rect": [
+        78.0,
+        1108.5,
+        581.6666666666666,
+        1147.1800003051758
+      ],
+      "new_note_rect": [
+        78.0,
+        1108.5,
+        572.3333333333333,
+        1133.409999847412
+      ],
+      "pdf_page": 89,
+      "font_pt": 11.5
+    }
+  ],
+  "local_judgment_patch": {
+    "id": "p070_s06_local1",
+    "key": "p070_s06",
+    "book_page": 70,
+    "rect": [
+      499.3,
+      222.6,
+      510.1,
+      234.8
+    ],
+    "restore_rect": [
+      499.3,
+      222.6,
+      510.1,
+      234.8
+    ],
+    "latex": "\\(\\times\\)",
+    "font_size": 10.5,
+    "align": "center",
+    "valign": "center",
+    "clear_to_white": true,
+    "kind": "judgment_correction",
+    "reason": "仅订正此题红勾，不改相邻题；黑色题干和括号均保留。",
+    "target_rect": [
+      501.70000000000005,
+      225.7,
+      507.70000000000005,
+      231.7
+    ]
+  },
+  "old_check_drawing_operation_removed": true,
+  "method": "Only four note Form placements replaced and one A4-local red judgment corrected; the old check drawing operation removed at its exact A4 coordinates; original question text, scans, all other page objects and page dimensions retained.",
+  "passed_fit_checks": true
+}

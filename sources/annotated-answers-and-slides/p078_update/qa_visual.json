@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+  "book_page": 78,
+  "pdf_page": 82,
+  "full_final_page_actually_reviewed": true,
+  "clear_original_photo_actually_reviewed": true,
+  "original_source_a4_actually_reviewed": true,
+  "black_correction_count": 5,
+  "black_corrections_reviewed": [
+    "136",
+    "140",
+    "（每题2分，共12分）",
+    "4行16点、22摄氏度虚线TikZ图",
+    "秧歌"
+  ],
+  "red_notes_reviewed": [
+    "p078_s01",
+    "p078_s05",
+    "p078_s06"
+  ],
+  "root_independent_full_page_header_and_q6_crops_reviewed": true,
+  "new_graph_and_labels_readable": true,
+  "old_header_corruption_not_visible": true,
+  "old_q6_word_ghost_not_visible": true,
+  "source_q6_photo_glyph_evidence": "左禾右央、左哥右欠，与清晰原照秧歌一致；原重影处不再猜字。",
+  "first_page_blank_check": "see qa_scope.json",
+  "no_overlap_or_crop_seen": true,
+  "scope_limit": "人工检查本轮原书78页全页及原照/细节，另127页为机器像素一致性检查；不声称重新人工审读全书。"
+}

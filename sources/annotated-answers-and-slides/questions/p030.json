@@ -1,0 +1,365 @@
+{
+  "book_page": 30,
+  "source_page": 34,
+  "records": [
+    {
+      "key": "p030_s01",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 0,
+      "id": "一、6（1）下半",
+      "kind": "fill",
+      "question_latex": "（续）\\(182\\times66=(\\square+1)\\times66=181\\times66+1\\times\\square\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把182拆成181加1：\\(182\\times66=(181+1)\\times66=181\\times66+1\\times66\\)。两空填181、66。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s02",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 1,
+      "id": "一、6（1）比较及规律",
+      "kind": "fill",
+      "question_latex": "所以\\(181\\times67\\ \\bigcirc\\ 182\\times66\\)。发现：当两个数之和相同时，如果两个数之间的差越小，那么这两个数的积就越（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两式都有\\(181\\times66\\)这一部分；左式另加181，右式另加66，所以填\\(>\\)，左边多\\(181-66=115\\)。对于和相同的两个正数，两个数之间的差越小，积越大。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s03",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 2,
+      "id": "一、6（2）",
+      "kind": "fill",
+      "question_latex": "（2）根据发现来比较：\\(9999\\times2026\\ \\bigcirc\\ 9998\\times2027\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(<\\)。两组因数的和都为12025，右式两因数的差更小。也可比较共同部分：左边等于\\(9998\\times2026+2026\\)，右边等于\\(9998\\times2026+9998\\)；右边比左边多7972。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s04",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 3,
+      "id": "一、7（例式）",
+      "kind": "fill",
+      "question_latex": "\\((81+36)\\div9=81\\div9+36\\div9\\)，\\((121+22)\\div11=121\\div11+22\\div11\\)，请你照样子写一组这样的算式（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "例如\\((6+3)\\div3=6\\div3+3\\div3\\)。左边先求和再除3；右边分别除以3再相加，结果都是3。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s05",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 4,
+      "id": "一、7（字母规律）",
+      "kind": "fill",
+      "question_latex": "用字母表示上面的规律（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[(a+b)\\div c=a\\div c+b\\div c\\quad(c\\ne0).\\]共同的除数必须不为0。这里是和作被除数，不能把除数的和随意拆开。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s06",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 5,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "\\(53\\times99=53\\times100-53\\times1\\)应用了（　）。",
+      "options": [
+        "A. 加法交换律",
+        "B. 乘法交换律",
+        "C. 乘法结合律",
+        "D. 乘法分配律"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(D\\)。\\(99=100-1\\)，所以\\(53\\times99=53\\times(100-1)=53\\times100-53\\times1\\)，用了乘法分配律。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s07",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 6,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "下面（　）的算式和\\(27\\times99\\)的结果相等。",
+      "options": [
+        "A. \\(27\\times90\\times9\\)",
+        "B. \\(27\\times100-1\\)",
+        "C. \\(27\\times100-27\\)",
+        "D. \\(27\\times100-100\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(C\\)。\\(27\\times99=27\\times(100-1)=27\\times100-27\\)。少乘1个27，应减27。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s08",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 7,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "如果\\(a\\times(b\\times18)=216\\)，那么\\(a\\times b=\\)（　）。",
+      "options": [
+        "A. 17",
+        "B. 198",
+        "C. 3888",
+        "D. 12"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(D\\)。由乘法结合律，\\((a\\times b)\\times18=216\\)，故\\(a\\times b=216\\div18=12\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s09",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 8,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "小虎在一次计算中把\\(5\\times(a+6)\\)错写成了\\(5\\times(a+9)\\)，计算结果比原来（　）。",
+      "options": [
+        "A. 增加15",
+        "B. 减少15",
+        "C. 增加3",
+        "D. 减少3"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(A\\)。第二个加数由6变为9，多了3；先与5相乘，结果增加\\(5\\times(9-6)=15\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s10",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 9,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "如图，能用“\\((15+24)\\times32\\)”解决的问题是（　）。",
+      "options": [
+        "A. 种西红柿、白菜和豆角的面积一共多少平方米",
+        "B. 种白菜和豆角的面积一共多少平方米",
+        "C. 种西红柿和豆角的面积一共多少平方米",
+        "D. 种西红柿和白菜的面积一共多少平方米"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p030_s10_g1",
+          "tikz": "\\begin{tikzpicture}[x=.1cm,y=.1cm]\\draw(0,0)rectangle(52,39);\\draw(32,0)--(32,39);\\draw(0,24)--(32,24);\\node at(16,31.5){西红柿};\\node at(16,12){白菜};\\node at(42,19.5){豆角};\\node[above]at(16,39){32 m};\\node[above]at(42,39){20 m};\\node[left]at(0,31.5){15 m};\\node[left]at(0,12){24 m};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "选D。15与24是两块区域的宽，32是共同的长，求两块合并面积。豆角区域宽20不在式中。继续计算时可用39=40−1补偿：\\[\\begin{aligned}&(15+24)\\times32\\\\={}&39\\times32\\\\={}&(40-1)\\times32\\\\={}&40\\times32-1\\times32\\\\={}&1280-32\\\\={}&1248\\text{(平方米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "本轮复核：识图选D本身可不计算，但既然解析给出39×32的面积数值，39接近40，可补乘法分配律补偿法，避免普通两位数乘法。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p030_s11",
+      "book_page": 30,
+      "source_page": 34,
+      "section_index": 10,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "如图，能说明“\\(6\\times3+4\\times3\\)”与“\\((6+4)\\times3\\)”相等的是（　）。",
+      "options": [
+        "A. ①②",
+        "B. ②③",
+        "C. ①②③",
+        "D. ①②③④"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p030_s11_g1",
+          "tikz": "\\begin{tikzpicture}[x=.38cm,y=.38cm]\\node at(-.8,0){①};\\draw(0,0)--(13,0);\\draw(0,.2)--(0,-.2) (6,.2)--(6,-.2) (10,.2)--(10,-.2) (13,.2)--(13,-.2);\\node[above]at(3,0){6 cm};\\node[above]at(8,0){4 cm};\\node[above]at(11.5,0){3 cm};\\node[below]at(6.5,-.3){? cm};\\begin{scope}[yshift=-2.8cm]\\node at(-.8,3.5){②};\\draw(0,0)rectangle(10,3);\\draw(4,0)--(4,3);\\node[above]at(2,3){4 cm};\\node[above]at(7,3){6 cm};\\node[left]at(0,1.5){3 cm};\\node[below]at(5,0){? cm$^2$};\\end{scope}\\begin{scope}[yshift=-4.8cm]\\node at(-.8,1){③};\\foreach\\x in{0,...,9}\\foreach\\y in{0,...,2}{\\ifnum\\x>3 \\fill[gray!55](\\x*.8,\\y*.8)circle(.3);\\fi\\draw(\\x*.8,\\y*.8)circle(.3);}\\node[below]at(3.6,-.5){? 个};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        },
+        {
+          "name": "p030_s11_g2",
+          "tikz": "\\begin{tikzpicture}\\node at(-.5,1){④};\\foreach\\x/\\y in{0/0,1/0,.5/.8}{\\draw[fill=gray!40](\\x,\\y)--++(.7,0)--++(.3,.5)--++(-.7,0)--cycle;}\\node[below]at(.8,-.3){每本6元};\\foreach\\x in{2.2,2.5,2.8,3.1,3.4}{\\draw(\\x,0)--++(.5,.9)--++(.08,0)--++(-.5,-.9)--cycle;}\\node[below]at(3,-.3){每支4元};\\node[below]at(1.9,-1){? 元};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "选\\(B\\)。②把长为\\(6+4\\)、宽为3的长方形分成两块；③每排有6个和4个圆，共3排。两图都能表示\\(6\\times3+4\\times3=(6+4)\\times3\\)，均为30。①只是三段长度相加；④书和笔的数量并不都为3。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

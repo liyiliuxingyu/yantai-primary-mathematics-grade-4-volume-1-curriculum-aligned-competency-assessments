@@ -1,0 +1,428 @@
+{
+  "book_page": 19,
+  "source_page": 23,
+  "title": "",
+  "records": [
+    {
+      "key": "p019_s01",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 0,
+      "id": "三、1（1）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(125\\times8=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把125看作1000的八分之一。\\[\\begin{aligned} &125\\times8\\\\={}&1000\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为1000。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s02",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 1,
+      "id": "三、1（2）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(40\\times25=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先用4与25凑100。\\[\\begin{aligned} &40\\times25\\\\={}&4\\times25\\times10\\\\={}&100\\times10\\\\={}&1000\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为1000。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s03",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 2,
+      "id": "三、1（3）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(103-74=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按减法计算。\\[\\begin{aligned} &103-74\\\\={}&29\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为29。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s04",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 3,
+      "id": "三、1（4）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(0\\times75+9=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先乘后加；0乘任何数都得0。\\[\\begin{aligned} &0\\times75+9\\\\={}&0+9\\\\={}&9\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为9。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s05",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 4,
+      "id": "三、1（5）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(13+57\\times2=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先乘后加。\\[\\begin{aligned} &13+57\\times2\\\\={}&13+114\\\\={}&127\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为127。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s06",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 5,
+      "id": "三、1（6）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(188+423=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按数位对齐相加。\\[\\begin{aligned} &188+423\\\\={}&611\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为611。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s07",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 6,
+      "id": "三、1（7）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(50\\times18=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "5乘18得90，再乘10。\\[\\begin{aligned} &50\\times18\\\\={}&900\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为900。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s08",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 7,
+      "id": "三、1（8）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(67\\times5=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "可算67乘10再取一半。\\[\\begin{aligned} &67\\times5\\\\={}&335\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为335。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s09",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 8,
+      "id": "三、1（9）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(32\\div2\\div4=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "同级运算从左往右。\\[\\begin{aligned} &32\\div2\\div4\\\\={}&16\\div4\\\\={}&4\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为4。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s10",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 9,
+      "id": "三、1（10）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(56-34\\div2=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先除后减。\\[\\begin{aligned} &56-34\\div2\\\\={}&56-17\\\\={}&39\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为39。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s11",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 10,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：（1）\\(360\\div(12+360\\div15)\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先算小括号内的除法。\\[\\begin{aligned} &360\\div(12+360\\div15)\\\\={}&360\\div(12+24)\\\\={}&360\\div36\\\\={}&10\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "360÷15=24，12+24=36，360÷36=10。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s12",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 11,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：（2）\\(80\\times[(103+97)-131]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先小括号，再中括号。\\[\\begin{aligned} &80\\times[(103+97)-131]\\\\={}&80\\times[200-131]\\\\={}&80\\times69\\\\={}&5520\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&80\\times69\\\\={}&80\\times(70-1)\\\\={}&5600-80\\\\={}&5520\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "103+97=200，200−131=69，80×69=5520。",
+        "changes": [
+          "简便计算复核：原note已经103+97凑200，补末步69×80的补偿法：70份少1份，5600−80。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s13",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 12,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：（3）\\(680-85\\times4\\div20\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "乘除同级，从左往右。\\[\\begin{aligned} &680-85\\times4\\div20\\\\={}&680-340\\div20\\\\={}&680-17\\\\={}&663\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&680-85\\times4\\div20\\\\={}&680-85\\times4\\div(4\\times5)\\\\={}&680-85\\div5\\\\={}&680-17\\\\={}&663\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "85×4÷20=17，680−17=663。",
+        "changes": [
+          "简便计算复核：85×4÷20中20=4×5，乘4与除4抵消，直接85÷5，省去340。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s14",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 13,
+      "id": "三、2（4）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：（4）\\(396\\div(25+11)\\times12\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先算小括号，再依次除、乘。\\[\\begin{aligned} &396\\div(25+11)\\times12\\\\={}&396\\div36\\times12\\\\={}&11\\times12\\\\={}&132\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "25+11=36，396÷36=11，11×12=132。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s15",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 14,
+      "id": "四、1",
+      "kind": "application",
+      "question_latex": "我国自主研发的物流货运无人机，在山区邮政运输中，单次最大载重120千克。照这样计算，35架同款无人机各运送一次，一共可以运送货物多少千克？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "主解：每架载质量×架数\\par \\[\\begin{aligned} &120\\times35\\\\={}&4200\\text{(千克)}\\end{aligned}\\]答：一共可以运送4200千克货物。\\par 同一列式的简算：把35架分成30架和5架\\par \\[\\begin{aligned} &120\\times(30+5)\\\\={}&120\\times30+120\\times5\\\\={}&3600+600\\\\={}&4200\\text{(千克)}\\end{aligned}\\]答：一共可以运送4200千克货物。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "每架120千克×35架=4200千克，分配律仅计算补充不另称数量关系新解。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p019_s16",
+      "book_page": 19,
+      "source_page": 23,
+      "section_index": 15,
+      "id": "四、2",
+      "kind": "application",
+      "question_latex": "学校为校园读书节采购红色经典读本，一共买了25本，总共花费600元，每本红色经典读本的单价是多少元？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "数量关系：总价＝单价×数量。已知600元买25本，求每本价格，用总价÷数量。\\par 主解：总价÷数量\\par \\[\\begin{aligned} &600\\div25\\\\={}&24\\text{(元)}\\end{aligned}\\]答：每本红色经典读本24元。\\par 计算补充：用连续除法简算\\par \\[\\begin{aligned} &600\\div25\\\\={}&600\\div(5\\times5)\\\\={}&600\\div5\\div5\\\\={}&120\\div5\\\\={}&24\\text{(元)}\\end{aligned}\\]答：每本红色经典读本24元。\\par 检验：\\(24\\times25=600\\text{(元)}\\)，回到已知总价。",
+      "verification": {
+        "status": "verified",
+        "reason": "总价÷数量600÷25=24元/本。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

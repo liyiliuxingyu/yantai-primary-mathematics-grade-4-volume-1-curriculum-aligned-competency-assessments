@@ -1,0 +1,3963 @@
+{
+  "scope": {
+    "original_book_pages": [
+      37,
+      72
+    ],
+    "question_files_read": 36,
+    "records_read": 278,
+    "matching_notes_read": 278,
+    "red_local_records_read": 16,
+    "source": "units_review/project",
+    "work_type": "read-only audit; no shared question/note/source files edited"
+  },
+  "changes": [
+    {
+      "key": "p037_s03",
+      "book_page": 37,
+      "id": "一、3",
+      "question_file": "questions/p037.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "填\\(6\\)。两腰相等，先扣除上、下底，再平均分成两条腰：\\(\\begin{aligned}&(24-4-8)\\div2\\\\&=12\\div2\\\\&=6\\text{（米）}\\end{aligned}\\)",
+          "new": "填\\(6\\)。两腰相等，先扣除上、下底，再平均分成两条腰：\\(\\begin{aligned}&(24-4-8)\\div2\\\\&=12\\div2\\\\&=6\\text{(米)}\\end{aligned}\\)",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "篱笆总长就是梯形的周长，先扣去上底4米和下底8米。剩下的是两条腰合起来的长度，等腰梯形的两腰相等，还要平均分成2份。只减两底而不除以2，求到的是两腰总长。\\par \\[\\begin{aligned}&(24-4-8)\\div2\\\\={}&12\\div2\\\\={}&6\\text{（米）}\\end{aligned}\\]",
+          "new": "篱笆总长就是梯形的周长，先扣去上底4米和下底8米。剩下的是两条腰合起来的长度，等腰梯形的两腰相等，还要平均分成2份。只减两底而不除以2，求到的是两腰总长。\\par \\[\\begin{aligned}&(24-4-8)\\div2\\\\={}&12\\div2\\\\={}&6\\text{(米)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p038_s02",
+      "book_page": 38,
+      "id": "二、2",
+      "question_file": "questions/p038.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "note_latex",
+          "old": "平行四边形的对边分别相等，因此7米的边有两条，6米的边也有两条。周长要把四边全部合计，可以先求7米与6米的和再乘2。只算两条邻边会漏掉另外一半。\\par \\[\\begin{aligned}&(7+6)\\times2\\\\={}&13\\times2\\\\={}&26\\text{（米）}\\end{aligned}\\]",
+          "new": "平行四边形的对边分别相等，因此7米的边有两条，6米的边也有两条。周长要把四边全部合计，可以先求7米与6米的和再乘2。只算两条邻边会漏掉另外一半。\\par \\[\\begin{aligned}&(7+6)\\times2\\\\={}&13\\times2\\\\={}&26\\text{(米)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p039_s05",
+      "book_page": 39,
+      "id": "五、1",
+      "question_file": "questions/p039.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "铁丝总长度不变，先按正方形每边9厘米乘4条边列式，再按等边三角形的3条边平均分。计算时先除以3，再乘4，更便于口算。\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{（厘米）}\\end{aligned}\\]答：等边三角形的边长是12厘米。\\par 另一数量理解：每条原边平均分成3小份，共12小份，每条新边取4小份，直接得到\\(9\\div3\\times4\\)。它与上面的简算式一致，不重复列第二遍脱式。",
+          "new": "铁丝总长度不变，先按正方形每边9厘米乘4条边列式，再按等边三角形的3条边平均分。计算时先除以3，再乘4，更便于口算。\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{(厘米)}\\end{aligned}\\]答：等边三角形的边长是12厘米。\\par 另一数量理解：每条原边平均分成3小份，共12小份，每条新边取4小份，直接得到\\(9\\div3\\times4\\)。它与上面的简算式一致，不重复列第二遍脱式。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{（厘米）}\\end{aligned}\\]答：等边三角形的边长是12厘米。",
+          "new": "\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{(厘米)}\\end{aligned}\\]答：等边三角形的边长是12厘米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p040_s02",
+      "book_page": 40,
+      "id": "五、3",
+      "question_file": "questions/p040.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先确定两条余边，再还原剪切位置。第一刀已剪下2厘米，余下两条边的总长是：\\[\\begin{aligned}&11-2\\\\={}&9\\text{（厘米）}\\end{aligned}\\]另外两边为整厘米数，和为9、差小于2，只能是4厘米和5厘米。第二刀的位置有两种：\\[\\begin{aligned}&2+4\\\\={}&6\\text{（厘米）}\\end{aligned}\\]\\[\\begin{aligned}&2+5\\\\={}&7\\text{（厘米）}\\end{aligned}\\]答：可以在6厘米处或7厘米处剪。两种剪法的三边都是2、4、5厘米，满足\\(2+4>5\\)。\\par 方法二：逐一检查整厘米剪切位置。第二刀须落在余下的9厘米部分，可试3至10厘米处。\\[\\begin{array}{c|c|c}\\text{剪切位置}&\\text{三边长}&\\text{能否围成}\\\\\\hline3&2,1,8&\\times\\\\4&2,2,7&\\times\\\\5&2,3,6&\\times\\\\6&2,4,5&\\checkmark\\\\7&2,5,4&\\checkmark\\\\8&2,6,3&\\times\\\\9&2,7,2&\\times\\\\10&2,8,1&\\times\\end{array}\\]只需检查两条较短边之和是否大于最长边。答：仍为6厘米处或7厘米处；图中两处短线表示备选位置，实际只再剪一处。",
+          "new": "方法一：先确定两条余边，再还原剪切位置。第一刀已剪下2厘米，余下两条边的总长是：\\[\\begin{aligned}&11-2\\\\={}&9\\text{(厘米)}\\end{aligned}\\]另外两边为整厘米数，和为9、差小于2，只能是4厘米和5厘米。第二刀的位置有两种：\\[\\begin{aligned}&2+4\\\\={}&6\\text{(厘米)}\\end{aligned}\\]\\[\\begin{aligned}&2+5\\\\={}&7\\text{(厘米)}\\end{aligned}\\]答：可以在6厘米处或7厘米处剪。两种剪法的三边都是2、4、5厘米，满足\\(2+4>5\\)。\\par 方法二：逐一检查整厘米剪切位置。第二刀须落在余下的9厘米部分，可试3至10厘米处。\\[\\begin{array}{c|c|c}\\text{剪切位置}&\\text{三边长}&\\text{能否围成}\\\\\\hline3&2,1,8&\\times\\\\4&2,2,7&\\times\\\\5&2,3,6&\\times\\\\6&2,4,5&\\checkmark\\\\7&2,5,4&\\checkmark\\\\8&2,6,3&\\times\\\\9&2,7,2&\\times\\\\10&2,8,1&\\times\\end{array}\\]只需检查两条较短边之和是否大于最长边。答：仍为6厘米处或7厘米处；图中两处短线表示备选位置，实际只再剪一处。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p040_s03",
+      "book_page": 40,
+      "id": "六、思考题",
+      "question_file": "questions/p040.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "右侧切出的直角三角形，一条直角边长等于梯形两底之差3厘米。另外两条边分别与梯形的两腰等长（利用平行四边形对边相等），其和为10厘米。\\[\\begin{aligned}&10+3\\\\&=13\\text{（厘米）}\\end{aligned}\\]\\par 答：防撞条一圈的长度，即直角三角形的周长，是13厘米。\\par 也可从周长转移来理解：原来梯形两腰的总长10厘米都保留到三角形中，再增加两底之差3厘米。",
+          "new": "右侧切出的直角三角形，一条直角边长等于梯形两底之差3厘米。另外两条边分别与梯形的两腰等长（利用平行四边形对边相等），其和为10厘米。\\[\\begin{aligned}&10+3\\\\&=13\\text{(厘米)}\\end{aligned}\\]\\par 答：防撞条一圈的长度，即直角三角形的周长，是13厘米。\\par 也可从周长转移来理解：原来梯形两腰的总长10厘米都保留到三角形中，再增加两底之差3厘米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p041_s06",
+      "book_page": 41,
+      "id": "一、4（1）",
+      "question_file": "questions/p041.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "note_latex",
+          "old": "平行四边形的另外两条边分别与6厘米、4厘米的邻边相等。把相邻两边先相加，再乘2，四边就都计入周长。这里求周长，只用边长，不需要高。\\par \\[\\begin{aligned}&(6+4)\\times2\\\\={}&10\\times2\\\\={}&20\\text{（厘米）}\\end{aligned}\\]",
+          "new": "平行四边形的另外两条边分别与6厘米、4厘米的邻边相等。把相邻两边先相加，再乘2，四边就都计入周长。这里求周长，只用边长，不需要高。\\par \\[\\begin{aligned}&(6+4)\\times2\\\\={}&10\\times2\\\\={}&20\\text{(厘米)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p041_s07",
+      "book_page": 41,
+      "id": "一、4（2）",
+      "question_file": "questions/p041.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "note_latex",
+          "old": "等边三角形的三条边长度完全相同。把周长27厘米平均分给这三条边，就得到一条边长。题目要求的是边长，所以用除以3来平均分。\\par \\(27\\div3=9\\text{（厘米）}\\)。",
+          "new": "等边三角形的三条边长度完全相同。把周长27厘米平均分给这三条边，就得到一条边长。题目要求的是边长，所以用除以3来平均分。\\par \\(27\\div3=9\\text{(厘米)}\\)。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p042_s01",
+      "book_page": 42,
+      "id": "一、7",
+      "question_file": "questions/p042.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "依次填\\(18,216\\)。袋数先利用24除以8求每箱袋数，计算更简便；收入按单价乘袋数。\\[\\begin{aligned}&24\\times6\\div8\\\\={}&24\\div8\\times6\\\\={}&3\\times6\\\\={}&18\\text{（袋）}\\\\&12\\times18\\\\={}&216\\text{（元）}\\end{aligned}\\]",
+          "new": "依次填\\(18,216\\)。袋数先利用24除以8求每箱袋数，计算更简便；收入按单价乘袋数。\\[\\begin{aligned}&24\\times6\\div8\\\\={}&24\\div8\\times6\\\\={}&3\\times6\\\\={}&18\\text{(袋)}\\\\&12\\times18\\\\={}&216\\text{(元)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "每箱24千克，按每袋8千克，先求每箱可分3袋，再按每箱袋数乘6箱。原式中的先乘6再除8，可利用乘除运算的性质改为先除8再乘6，避免先算总质量144千克。收入按每袋12元乘18袋，箱数、袋数与质量不能混用。\\par \\[\\begin{aligned}&24\\times6\\div8\\\\={}&24\\div8\\times6\\\\={}&3\\times6\\\\={}&18\\text{（袋）}\\\\&12\\times18\\\\={}&216\\text{（元）}\\end{aligned}\\]",
+          "new": "每箱24千克，按每袋8千克，先求每箱可分3袋，再按每箱袋数乘6箱。原式中的先乘6再除8，可利用乘除运算的性质改为先除8再乘6，避免先算总质量144千克。收入按每袋12元乘18袋，箱数、袋数与质量不能混用。\\par \\[\\begin{aligned}&24\\times6\\div8\\\\={}&24\\div8\\times6\\\\={}&3\\times6\\\\={}&18\\text{(袋)}\\\\&12\\times18\\\\={}&216\\text{(元)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p043_s03",
+      "book_page": 43,
+      "id": "五、1",
+      "question_file": "questions/p043.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：路长不变；列式后先算120除以6，凑成整十数20。\\par \\[\\begin{aligned}&120\\times8\\div(8-2)\\\\={}&120\\times8\\div6\\\\={}&120\\div6\\times8\\\\={}&20\\times8\\\\={}&160\\text{（米）}\\end{aligned}\\]答：实际平均每天修160米。\\par 方法二：把原来2天的任务平均增加到实际6天，增加部分也先算120除以6。\\par \\[\\begin{aligned}&120+120\\times2\\div(8-2)\\\\={}&120+120\\times2\\div6\\\\={}&120+120\\div6\\times2\\\\={}&120+20\\times2\\\\={}&120+40\\\\={}&160\\text{（米）}\\end{aligned}\\]答：实际平均每天修160米。",
+          "new": "方法一：路长不变；列式后先算120除以6，凑成整十数20。\\par \\[\\begin{aligned}&120\\times8\\div(8-2)\\\\={}&120\\times8\\div6\\\\={}&120\\div6\\times8\\\\={}&20\\times8\\\\={}&160\\text{(米)}\\end{aligned}\\]答：实际平均每天修160米。\\par 方法二：把原来2天的任务平均增加到实际6天，增加部分也先算120除以6。\\par \\[\\begin{aligned}&120+120\\times2\\div(8-2)\\\\={}&120+120\\times2\\div6\\\\={}&120+120\\div6\\times2\\\\={}&120+20\\times2\\\\={}&120+40\\\\={}&160\\text{(米)}\\end{aligned}\\]答：实际平均每天修160米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "实际天数是8减2，得6天；同一条路的总长不变，原位列式按原计划每天米数乘8天，再除以6。利用乘除运算的性质先算120除以6得20，再乘8，避免先求960。另一思路保留实际6天原有的每天120米，把原来2天的任务平均加进来；计算增加部分时也先把120除以6得20。提前完成，每天米数应比120增加，可检查结果方向。\\par \\textbf{另一数量思路：把原两天任务平均加到实际六天}\\par \\[\\begin{aligned}&120+120\\times2\\div(8-2)\\\\={}&120+120\\times2\\div6\\\\={}&120+120\\div6\\times2\\\\={}&120+20\\times2\\\\={}&120+40\\\\={}&160\\text{（米）}\\end{aligned}\\]答：实际平均每天修160米。",
+          "new": "实际天数是8减2，得6天；同一条路的总长不变，原位列式按原计划每天米数乘8天，再除以6。利用乘除运算的性质先算120除以6得20，再乘8，避免先求960。另一思路保留实际6天原有的每天120米，把原来2天的任务平均加进来；计算增加部分时也先把120除以6得20。提前完成，每天米数应比120增加，可检查结果方向。\\par \\textbf{另一数量思路：把原两天任务平均加到实际六天}\\par \\[\\begin{aligned}&120+120\\times2\\div(8-2)\\\\={}&120+120\\times2\\div6\\\\={}&120+120\\div6\\times2\\\\={}&120+20\\times2\\\\={}&120+40\\\\={}&160\\text{(米)}\\end{aligned}\\]答：实际平均每天修160米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}&120\\times8\\div(8-2)\\\\={}&120\\times8\\div6\\\\={}&120\\div6\\times8\\\\={}&20\\times8\\\\={}&160\\text{（米）}\\end{aligned}\\]答：实际平均每天修160米。",
+          "new": "\\[\\begin{aligned}&120\\times8\\div(8-2)\\\\={}&120\\times8\\div6\\\\={}&120\\div6\\times8\\\\={}&20\\times8\\\\={}&160\\text{(米)}\\end{aligned}\\]答：实际平均每天修160米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p043_s04",
+      "book_page": 43,
+      "id": "五、2",
+      "question_file": "questions/p043.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "“两条边长6厘米、8厘米”没有指定哪条是底，必须分两种情况。\\par 情况一：6厘米为腰，8厘米为底。\\[\\begin{aligned}&6\\times2+8\\\\&=12+8\\\\&=20\\text{（厘米）}\\end{aligned}\\]\\par 情况二：8厘米为腰，6厘米为底。\\[\\begin{aligned}&8\\times2+6\\\\&=16+6\\\\&=22\\text{（厘米）}\\end{aligned}\\]\\par 两种都能成三角形，因为\\(6+6>8\\)、\\(8+8>6\\)。答：周长可能是20厘米或22厘米。这是两种可能情况，不能只写其中一种。",
+          "new": "“两条边长6厘米、8厘米”没有指定哪条是底，必须分两种情况。\\par 情况一：6厘米为腰，8厘米为底。\\[\\begin{aligned}&6\\times2+8\\\\&=12+8\\\\&=20\\text{(厘米)}\\end{aligned}\\]\\par 情况二：8厘米为腰，6厘米为底。\\[\\begin{aligned}&8\\times2+6\\\\&=16+6\\\\&=22\\text{(厘米)}\\end{aligned}\\]\\par 两种都能成三角形，因为\\(6+6>8\\)、\\(8+8>6\\)。答：周长可能是20厘米或22厘米。这是两种可能情况，不能只写其中一种。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p044_s01",
+      "book_page": 44,
+      "id": "五、3",
+      "question_file": "questions/p044.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "铁丝总长度不变，先按正方形每边9厘米乘4条边列式，再按等边三角形的3条边平均分。计算时先除以3，再乘4，更便于口算。\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{（厘米）}\\end{aligned}\\]答：等边三角形的边长是12厘米。\\par 另一数量理解：每条原边平均分成3小份，共12小份，每条新边取4小份，直接得到\\(9\\div3\\times4\\)。它与上面的简算式一致，不重复列第二遍脱式。",
+          "new": "铁丝总长度不变，先按正方形每边9厘米乘4条边列式，再按等边三角形的3条边平均分。计算时先除以3，再乘4，更便于口算。\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{(厘米)}\\end{aligned}\\]答：等边三角形的边长是12厘米。\\par 另一数量理解：每条原边平均分成3小份，共12小份，每条新边取4小份，直接得到\\(9\\div3\\times4\\)。它与上面的简算式一致，不重复列第二遍脱式。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{（厘米）}\\end{aligned}\\]答：等边三角形的边长是12厘米。",
+          "new": "\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{(厘米)}\\end{aligned}\\]答：等边三角形的边长是12厘米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p044_s02",
+      "book_page": 44,
+      "id": "五、4（1）",
+      "question_file": "questions/p044.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "“买5送1”表示每组得到6瓶，只付5瓶的钱。\\par 方法一：直接求付费瓶数。\\[\\begin{aligned}&5\\times[24\\div(5+1)]\\\\&=5\\times[24\\div6]\\\\&=5\\times4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 方法二：先求赠送瓶数，再从总瓶数中扣去。\\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{（瓶）}\\end{aligned}\\]\\par 答：实际要付20瓶的钱。",
+          "new": "“买5送1”表示每组得到6瓶，只付5瓶的钱。\\par 方法一：直接求付费瓶数。\\[\\begin{aligned}&5\\times[24\\div(5+1)]\\\\&=5\\times[24\\div6]\\\\&=5\\times4\\\\&=20\\text{(瓶)}\\end{aligned}\\]\\par 方法二：先求赠送瓶数，再从总瓶数中扣去。\\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{(瓶)}\\end{aligned}\\]\\par 答：实际要付20瓶的钱。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "“买5送1”是付5瓶的钱实际得到6瓶，因此先按6瓶分组，不能按5瓶分组。方法一每组付费5瓶，用每组付费瓶数乘组数。方法二每组赠1瓶，先由组数求赠送瓶数，再从实际得到的24瓶中扣除。\\par 每满六瓶赠一瓶。\\par \\textbf{另法：先求赠品瓶数，再扣去}\\par \\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{（瓶）}\\end{aligned}\\]",
+          "new": "“买5送1”是付5瓶的钱实际得到6瓶，因此先按6瓶分组，不能按5瓶分组。方法一每组付费5瓶，用每组付费瓶数乘组数。方法二每组赠1瓶，先由组数求赠送瓶数，再从实际得到的24瓶中扣除。\\par 每满六瓶赠一瓶。\\par \\textbf{另法：先求赠品瓶数，再扣去}\\par \\[\\begin{aligned}&24-24\\div6\\\\&=24-4\\\\&=20\\text{(瓶)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p044_s03",
+      "book_page": 44,
+      "id": "五、4（2）",
+      "question_file": "questions/p044.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：每瓶价格乘付费瓶数。\\[\\begin{aligned}&6\\times20\\\\={}&120\\text{（元）}\\end{aligned}\\]答：一共要付120元。\\par 方法二：从24瓶全价扣去赠品价格，反用乘法分配律先算付费瓶数。\\[\\begin{aligned}&6\\times24-6\\times(24\\div6)\\\\={}&6\\times24-6\\times4\\\\={}&6\\times(24-4)\\\\={}&6\\times20\\\\={}&120\\text{（元）}\\end{aligned}\\]答：一共要付120元。",
+          "new": "方法一：每瓶价格乘付费瓶数。\\[\\begin{aligned}&6\\times20\\\\={}&120\\text{(元)}\\end{aligned}\\]答：一共要付120元。\\par 方法二：从24瓶全价扣去赠品价格，反用乘法分配律先算付费瓶数。\\[\\begin{aligned}&6\\times24-6\\times(24\\div6)\\\\={}&6\\times24-6\\times4\\\\={}&6\\times(24-4)\\\\={}&6\\times20\\\\={}&120\\text{(元)}\\end{aligned}\\]答：一共要付120元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "上一问求得付费20瓶，原位主法按每瓶6元乘20瓶，已经简便。另一路先按24瓶全价列式，再扣赠品价；每6瓶赠1瓶，赠品为4瓶。两项价格都有每瓶6元这个共同因数，反用乘法分配律，先把24减4凑20，不必分别求144与24。\\par \\textbf{另一数量思路：全价减赠品价，先凑20瓶}\\par \\[\\begin{aligned}&6\\times24-6\\times(24\\div6)\\\\={}&6\\times24-6\\times4\\\\={}&6\\times(24-4)\\\\={}&6\\times20\\\\={}&120\\text{（元）}\\end{aligned}\\]答：一共要付120元。",
+          "new": "上一问求得付费20瓶，原位主法按每瓶6元乘20瓶，已经简便。另一路先按24瓶全价列式，再扣赠品价；每6瓶赠1瓶，赠品为4瓶。两项价格都有每瓶6元这个共同因数，反用乘法分配律，先把24减4凑20，不必分别求144与24。\\par \\textbf{另一数量思路：全价减赠品价，先凑20瓶}\\par \\[\\begin{aligned}&6\\times24-6\\times(24\\div6)\\\\={}&6\\times24-6\\times4\\\\={}&6\\times(24-4)\\\\={}&6\\times20\\\\={}&120\\text{(元)}\\end{aligned}\\]答：一共要付120元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p044_s04",
+      "book_page": 44,
+      "id": "五、5",
+      "question_file": "questions/p044.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求五年级质量，按总回收量列式，再把275与500分别除以25。\\par \\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&[275+500]\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法二：先按四年级的3份算，再扣去少回收50千克对应的棵数。\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法三：两个年级分别换算棵数，再相加。\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "new": "方法一：先求五年级质量，按总回收量列式，再把275与500分别除以25。\\par \\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&[275+500]\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{(棵)}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法二：先按四年级的3份算，再扣去少回收50千克对应的棵数。\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{(棵)}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par 方法三：两个年级分别换算棵数，再相加。\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{(棵)}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "五年级比四年级的2倍少50千克，应先乘2再减50，得到500千克。主法先按总回收量列式，再把275与500分别按每25千克换成树数，同一步得到11与20，不必合成775再除25。另一思路先把两年级看作四年级的3份，再扣去少回收50千克对应的棵数；也可分别计算两个年级的棵数再相加。三条是数量分析路径，简算后的相同计算结构不另算新方法。\\par \\textbf{另法一：按三份推算，再扣少回收部分}\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par \\textbf{另法二：两个年级分别换算棵数}\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "new": "五年级比四年级的2倍少50千克，应先乘2再减50，得到500千克。主法先按总回收量列式，再把275与500分别按每25千克换成树数，同一步得到11与20，不必合成775再除25。另一思路先把两年级看作四年级的3份，再扣去少回收50千克对应的棵数；也可分别计算两个年级的棵数再相加。三条是数量分析路径，简算后的相同计算结构不另算新方法。\\par \\textbf{另法一：按三份推算，再扣少回收部分}\\par \\[\\begin{aligned}&275\\div25\\times3-50\\div25\\\\={}&11\\times3-2\\\\={}&33-2\\\\={}&31\\text{(棵)}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。\\par \\textbf{另法二：两个年级分别换算棵数}\\par \\[\\begin{aligned}&275\\div25+(275\\times2-50)\\div25\\\\={}&11+(550-50)\\div25\\\\={}&11+500\\div25\\\\={}&11+20\\\\={}&31\\text{(棵)}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "local_replacements[0].latex",
+          "old": "\\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&[275+500]\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{（棵）}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "new": "\\[\\begin{aligned}&[275+(275\\times2-50)]\\div25\\\\={}&[275+(550-50)]\\div25\\\\={}&[275+500]\\div25\\\\={}&275\\div25+500\\div25\\\\={}&11+20\\\\={}&31\\text{(棵)}\\end{aligned}\\]答：两个年级一共可以挽救31棵大树。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p045_s02",
+      "book_page": 45,
+      "id": "一、2",
+      "question_file": "questions/p045.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "note_latex",
+          "old": "48元是每1平方米的费用，总面积有96份1平方米，按每份费用乘份数求总费用。为了简算，可先按100平方米计算，再扣掉多算4平方米的费用。扣的是4份48元，不能只减4元。\\par \\[\\begin{aligned}&48\\times(100-4)\\\\={}&4800-192\\\\={}&4608\\text{（元）}\\end{aligned}\\]",
+          "new": "48元是每1平方米的费用，总面积有96份1平方米，按每份费用乘份数求总费用。为了简算，可先按100平方米计算，再扣掉多算4平方米的费用。扣的是4份48元，不能只减4元。\\par \\[\\begin{aligned}&48\\times(100-4)\\\\={}&4800-192\\\\={}&4608\\text{(元)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p045_s07",
+      "book_page": 45,
+      "id": "一、6",
+      "question_file": "questions/p045.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "填\\(12000\\)。每小时300份，按“每份数\\(\\times\\)份数”列式，用乘法结合律先求总工作时间：\\[\\begin{aligned}&300\\times8\\times5\\\\={}&300\\times(8\\times5)\\\\={}&300\\times40\\\\={}&12000\\text{（份）}\\end{aligned}\\]一周只算5个工作日。",
+          "new": "填\\(12000\\)。每小时300份，按“每份数\\(\\times\\)份数”列式，用乘法结合律先求总工作时间：\\[\\begin{aligned}&300\\times8\\times5\\\\={}&300\\times(8\\times5)\\\\={}&300\\times40\\\\={}&12000\\text{(份)}\\end{aligned}\\]一周只算5个工作日。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "每小时印300份，一天工作8小时，一周只算5个工作日。先按“每小时份数\\(\\times\\)每天小时数\\(\\times\\)工作天数”列式，再用乘法结合律，先把8与5相乘凑成整十数40，求出一周总工作时间：\\[\\begin{aligned}&300\\times8\\times5\\\\={}&300\\times(8\\times5)\\\\={}&300\\times40\\\\={}&12000\\text{（份）}\\end{aligned}\\]原空格后已有“份”，只填12000。",
+          "new": "每小时印300份，一天工作8小时，一周只算5个工作日。先按“每小时份数\\(\\times\\)每天小时数\\(\\times\\)工作天数”列式，再用乘法结合律，先把8与5相乘凑成整十数40，求出一周总工作时间：\\[\\begin{aligned}&300\\times8\\times5\\\\={}&300\\times(8\\times5)\\\\={}&300\\times40\\\\={}&12000\\text{(份)}\\end{aligned}\\]原空格后已有“份”，只填12000。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p046_s03",
+      "book_page": 46,
+      "id": "二、2",
+      "question_file": "questions/p046.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "选B。每扇4块，先求18扇一层的玻璃数，再求25层：\\[\\begin{aligned}&4\\times18\\times25\\\\={}&(4\\times25)\\times18\\\\={}&100\\times18\\\\={}&1800\\text{（块）}\\end{aligned}\\]选项\\(25\\times18\\times4\\)与此式由乘法交换律相等。",
+          "new": "选B。每扇4块，先求18扇一层的玻璃数，再求25层：\\[\\begin{aligned}&4\\times18\\times25\\\\={}&(4\\times25)\\times18\\\\={}&100\\times18\\\\={}&1800\\text{(块)}\\end{aligned}\\]选项\\(25\\times18\\times4\\)与此式由乘法交换律相等。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "每扇窗4块玻璃，每层18扇，共25层，按“每份数\\(\\times\\)份数”先列\\(4\\times18\\times25\\)。选项B的\\(25\\times18\\times4\\)只是交换因数位置，积不变，所以选B。计算时用乘法交换律和结合律，把4与25凑成100：\\[\\begin{aligned}&4\\times18\\times25\\\\={}&(4\\times25)\\times18\\\\={}&100\\times18\\\\={}&1800\\text{（块）}\\end{aligned}\\]",
+          "new": "每扇窗4块玻璃，每层18扇，共25层，按“每份数\\(\\times\\)份数”先列\\(4\\times18\\times25\\)。选项B的\\(25\\times18\\times4\\)只是交换因数位置，积不变，所以选B。计算时用乘法交换律和结合律，把4与25凑成100：\\[\\begin{aligned}&4\\times18\\times25\\\\={}&(4\\times25)\\times18\\\\={}&100\\times18\\\\={}&1800\\text{(块)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p047_s04",
+      "book_page": 47,
+      "id": "五、2",
+      "question_file": "questions/p047.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "画图：以机场为共同起点，向相反方向画两段路程；甲段标\\(800\\times2\\)，乙段标\\(850\\times2\\)，两段合起来就是相距的路程。\\par 方法一：先求速度和，再乘共同时间。\\[\\begin{aligned}&(800+850)\\times2\\\\&=1650\\times2\\\\&=3300\\text{（千米）}\\end{aligned}\\]\\par 方法二：分别求两架飞机的路程，再相加。\\[\\begin{aligned}&800\\times2+850\\times2\\\\&=1600+1700\\\\&=3300\\text{（千米）}\\end{aligned}\\]\\par 答：2小时后两架飞机之间相距3300千米。",
+          "new": "画图：以机场为共同起点，向相反方向画两段路程；甲段标\\(800\\times2\\)，乙段标\\(850\\times2\\)，两段合起来就是相距的路程。\\par 方法一：先求速度和，再乘共同时间。\\[\\begin{aligned}&(800+850)\\times2\\\\&=1650\\times2\\\\&=3300\\text{(千米)}\\end{aligned}\\]\\par 方法二：分别求两架飞机的路程，再相加。\\[\\begin{aligned}&800\\times2+850\\times2\\\\&=1600+1700\\\\&=3300\\text{(千米)}\\end{aligned}\\]\\par 答：2小时后两架飞机之间相距3300千米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "图中以机场为共同起点，两架飞机向相反方向飞，相距路程等于各自飞行路程的和。方法一先合计一小时两机共飞的路程，再乘共同飞行的2小时；方法二分别按“速度乘时间”求路程后相加。不能求路程差，因为两机不在机场同一侧。\\par \\textbf{另法：分别求路程，再相加}\\par \\[\\begin{aligned}&800\\times2+850\\times2\\\\&=1600+1700\\\\&=3300\\text{（千米）}\\end{aligned}\\]",
+          "new": "图中以机场为共同起点，两架飞机向相反方向飞，相距路程等于各自飞行路程的和。方法一先合计一小时两机共飞的路程，再乘共同飞行的2小时；方法二分别按“速度乘时间”求路程后相加。不能求路程差，因为两机不在机场同一侧。\\par \\textbf{另法：分别求路程，再相加}\\par \\[\\begin{aligned}&800\\times2+850\\times2\\\\&=1600+1700\\\\&=3300\\text{(千米)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p048_s01",
+      "book_page": 48,
+      "id": "五、3",
+      "question_file": "questions/p048.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "每100克大约含62毫克，200克里有\\(200\\div100=2\\)份。\\[\\begin{aligned}&62\\times(200\\div100)\\\\={}&62\\times2\\\\={}&124\\text{（毫克）}\\end{aligned}\\]也可以用重复加法表示两份：\\(62+62=124\\text{（毫克）}\\)，这是相同数量关系的两种表达，不另算独立思路。按题目给定的含量估计，约摄入124毫克维生素C，\\(124>100\\)。答：能满足题目所给的一天维生素C摄入量要求。",
+          "new": "每100克大约含62毫克，200克里有\\(200\\div100=2\\)份。\\[\\begin{aligned}&62\\times(200\\div100)\\\\={}&62\\times2\\\\={}&124\\text{(毫克)}\\end{aligned}\\]也可以用重复加法表示两份：\\(62+62=124\\text{(毫克)}\\)，这是相同数量关系的两种表达，不另算独立思路。按题目给定的含量估计，约摄入124毫克维生素C，\\(124>100\\)。答：能满足题目所给的一天维生素C摄入量要求。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p048_s02",
+      "book_page": 48,
+      "id": "五、4（1）",
+      "question_file": "questions/p048.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "把航模、编程、书法三个社团人数相加，用加法交换律和结合律先凑300：\\[\\begin{aligned}&128+275+172\\\\={}&(128+172)+275\\\\={}&300+275\\\\={}&575\\text{（人）}\\end{aligned}\\]答：三个社团一共有575人报名。",
+          "new": "把航模、编程、书法三个社团人数相加，用加法交换律和结合律先凑300：\\[\\begin{aligned}&128+275+172\\\\={}&(128+172)+275\\\\={}&300+275\\\\={}&575\\text{(人)}\\end{aligned}\\]答：三个社团一共有575人报名。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p048_s03",
+      "book_page": 48,
+      "id": "五、4（2）",
+      "question_file": "questions/p048.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求航模和书法两社团总人数，再与编程社团比较。\\[\\begin{aligned}&128+172-275\\\\&=300-275\\\\&=25\\text{（人）}\\end{aligned}\\]\\par 方法二：先用编程人数减去书法人数，余下部分再与航模人数比较。\\[\\begin{aligned}&128-(275-172)\\\\&=128-103\\\\&=25\\text{（人）}\\end{aligned}\\]\\par 答：编程社团比另外两个社团人数的总和少25人。",
+          "new": "方法一：先求航模和书法两社团总人数，再与编程社团比较。\\[\\begin{aligned}&128+172-275\\\\&=300-275\\\\&=25\\text{(人)}\\end{aligned}\\]\\par 方法二：先用编程人数减去书法人数，余下部分再与航模人数比较。\\[\\begin{aligned}&128-(275-172)\\\\&=128-103\\\\&=25\\text{(人)}\\end{aligned}\\]\\par 答：编程社团比另外两个社团人数的总和少25人。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "“编程比另外两个社团的总和少”，要以航模和书法的合计为较大数。方法一先把这两社团人数相加，再减编程人数；另一方法先从编程人数中扣去书法人数，剩下部分再与航模人数比较。后一方法相当于先给比较双方都扣去同一个书法人数，差保持不变。\\par \\textbf{另法：先求编程比书法多多少}\\par \\[\\begin{aligned}&128-(275-172)\\\\&=128-103\\\\&=25\\text{（人）}\\end{aligned}\\]",
+          "new": "“编程比另外两个社团的总和少”，要以航模和书法的合计为较大数。方法一先把这两社团人数相加，再减编程人数；另一方法先从编程人数中扣去书法人数，剩下部分再与航模人数比较。后一方法相当于先给比较双方都扣去同一个书法人数，差保持不变。\\par \\textbf{另法：先求编程比书法多多少}\\par \\[\\begin{aligned}&128-(275-172)\\\\&=128-103\\\\&=25\\text{(人)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p048_s04",
+      "book_page": 48,
+      "id": "五、5",
+      "question_file": "questions/p048.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "国庆节在10月，按旺季票价：儿童每人20元，成人每人30元。\\par 方法一：先求两类票总费用，再从3000元中扣去。\\[\\begin{aligned}&3000-(20\\times90+30\\times20)\\\\={}&3000-(1800+600)\\\\={}&3000-2400\\\\={}&600\\text{（元）}\\end{aligned}\\]答：还剩600元。\\par 方法二：先买儿童票，再买成人票，依次扣款。\\[\\begin{aligned}&3000-20\\times90-30\\times20\\\\={}&3000-1800-600\\\\={}&1200-600\\\\={}&600\\text{（元）}\\end{aligned}\\]答：还剩600元。\\par 方法三：先按110人全买儿童票，再补老师的差价。\\[\\begin{aligned}&3000-20\\times(90+20)-(30-20)\\times20\\\\={}&3000-20\\times110-10\\times20\\\\={}&3000-2200-200\\\\={}&800-200\\\\={}&600\\text{（元）}\\end{aligned}\\]答：还剩600元。",
+          "new": "国庆节在10月，按旺季票价：儿童每人20元，成人每人30元。\\par 方法一：先求两类票总费用，再从3000元中扣去。\\[\\begin{aligned}&3000-(20\\times90+30\\times20)\\\\={}&3000-(1800+600)\\\\={}&3000-2400\\\\={}&600\\text{(元)}\\end{aligned}\\]答：还剩600元。\\par 方法二：先买儿童票，再买成人票，依次扣款。\\[\\begin{aligned}&3000-20\\times90-30\\times20\\\\={}&3000-1800-600\\\\={}&1200-600\\\\={}&600\\text{(元)}\\end{aligned}\\]答：还剩600元。\\par 方法三：先按110人全买儿童票，再补老师的差价。\\[\\begin{aligned}&3000-20\\times(90+20)-(30-20)\\times20\\\\={}&3000-20\\times110-10\\times20\\\\={}&3000-2200-200\\\\={}&800-200\\\\={}&600\\text{(元)}\\end{aligned}\\]答：还剩600元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "国庆节在10月，先按表选择旺季票价，再区分90名学生与20位老师。主解按两类各自的“每人票价乘人数”求费用，合计后从3000元中扣除；也可按两次购票顺序连续扣款。另一方法先让110人都按儿童价计费，再给20位老师补上每人10元的差价，补的只属于老师。总费用求准后，剩余金额仍用原有钱数减实际支出。\\par \\textbf{另法：全按儿童票，再补老师差价}\\par \\[\\begin{aligned}&3000-20\\times(90+20)-(30-20)\\times20\\\\={}&3000-20\\times110-10\\times20\\\\={}&3000-2200-200\\\\={}&800-200\\\\={}&600\\text{（元）}\\end{aligned}\\]",
+          "new": "国庆节在10月，先按表选择旺季票价，再区分90名学生与20位老师。主解按两类各自的“每人票价乘人数”求费用，合计后从3000元中扣除；也可按两次购票顺序连续扣款。另一方法先让110人都按儿童价计费，再给20位老师补上每人10元的差价，补的只属于老师。总费用求准后，剩余金额仍用原有钱数减实际支出。\\par \\textbf{另法：全按儿童票，再补老师差价}\\par \\[\\begin{aligned}&3000-20\\times(90+20)-(30-20)\\times20\\\\={}&3000-20\\times110-10\\times20\\\\={}&3000-2200-200\\\\={}&800-200\\\\={}&600\\text{(元)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p049_s03",
+      "book_page": 49,
+      "id": "一、3",
+      "question_file": "questions/p049.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "依次填\\(16.8,17,9.95,10.0\\)。\\par 第一步是准确改写：用“万”作单位，原数除以10000；用“亿”作单位，原数除以100000000。\\[\\begin{aligned}168000\\div10000&=16.8,\\\\995000000\\div100000000&=9.95.\\end{aligned}\\]所以\\(168000=16.8\\text{万}\\)，\\(995000000=9.95\\text{亿}\\)。\\par 第二步才求近似数。16.8保留整数看十分位8，向个位进1，约17万；9.95保留一位小数看百分位5，向十分位进1，又向个位进位，约10.0亿。\\[16.8\\text{万}\\approx17\\text{万},\\qquad9.95\\text{亿}\\approx10.0\\text{亿}.\\]\\par 改写用等号，求近似数用约等号。10.0末尾的0必须保留，表示保留了一位小数。",
+          "new": "依次填\\(16.8,17,9.95,10.0\\)。先准确改写，每10000合成1万、每100000000合成1亿：\\[\\begin{aligned}168000&=(168000\\div10000)\\text{万}=16.8\\text{万}\\\\995000000&=(995000000\\div100000000)\\text{亿}=9.95\\text{亿}\\end{aligned}\\]再求近似数。16.8保留整数看十分位8，向个位进1；9.95保留一位小数看百分位5，连续进位。\\[\\begin{aligned}16.8\\text{万}&\\approx17\\text{万}\\\\9.95\\text{亿}&\\approx10.0\\text{亿}\\end{aligned}\\]准确改写用等号，求近似数用约等号。10.0末尾的0必须保留，表示保留一位小数；原空后已有单位，只填数。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "先准确改写单位：改成“万”相当于每10000合成1份，改成“亿”相当于每100000000合成1份。改写后再按指定数位四舍五入：保留整数看十分位，保留一位小数看百分位，满十还要继续进位。准确改写用等号，近似结果用约等号；写到十分位的10.0必须保留末尾0，以表明精确程度。\\par \\[\\begin{aligned}168000\\div10000&=16.8,\\\\995000000\\div100000000&=9.95.\\end{aligned}\\]然后按指定数位取近似数：\\(16.8\\text{万}\\approx17\\text{万}\\)，\\(9.95\\text{亿}\\approx10.0\\text{亿}\\)。",
+          "new": "改成“万”按10000合成1份，改成“亿”按100000000合成1份，准确改写不改变大小：\\[\\begin{aligned}168000&=(168000\\div10000)\\text{万}=16.8\\text{万}\\\\995000000&=(995000000\\div100000000)\\text{亿}=9.95\\text{亿}\\end{aligned}\\]再按指定数位取近似数：\\[\\begin{aligned}16.8\\text{万}&\\approx17\\text{万}\\\\9.95\\text{亿}&\\approx10.0\\text{亿}\\end{aligned}\\]改写用等号，取近似数才用约等号；10.0的末尾0不可省。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "原裸数除法结果与随后单位改写合成各自独立的一行，保留除法过程与≈。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p049_s04",
+      "book_page": 49,
+      "id": "一、4",
+      "question_file": "questions/p049.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "依次填\\(0.3;5,60;0.032;5.03\\)。先写进率，再判断单位变大还是变小。\\par ①1米=10分米，把分米化成米，除以10：\\(3\\div10=0.3\\)，故3分米=0.3米。\\par ②1吨=1000千克，保留整数5吨，把小数部分化成千克：\\(0.06\\times1000=60\\)，故5.06吨=5吨60千克。\\par ③1千克=1000克，把克化成千克，除以1000：\\(32\\div1000=0.032\\)，故32克=0.032千克。\\par ④1平方米=100平方分米，\\(3\\div100=0.03\\)，再与5平方米合并：\\(5+0.03=5.03\\)，故5平方米3平方分米=5.03平方米。相邻长度单位的进率与相邻面积单位的进率不能混用。",
+          "new": "依次填\\(0.3;5,60;0.032;5.03\\)。分米化米除以10，吨化千克乘1000，克化千克除以1000，平方分米化平方米除以100。每项换算另行写清单位：\\[\\begin{aligned}3\\text{分米}&=(3\\div10)\\text{米}=0.3\\text{米}\\\\0.06\\text{吨}&=(0.06\\times1000)\\text{千克}=60\\text{千克}\\\\5.06\\text{吨}&=5\\text{吨}60\\text{千克}\\\\32\\text{克}&=(32\\div1000)\\text{千克}=0.032\\text{千克}\\\\3\\text{平方分米}&=(3\\div100)\\text{平方米}=0.03\\text{平方米}\\\\5\\text{平方米}3\\text{平方分米}&=(5+0.03)\\text{平方米}=5.03\\text{平方米}\\end{aligned}\\]长度与面积的进率不同，不能混用。各原空后已有单位，只填相应数值。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "①分米化米，单位变大，按进率10去除；②5吨先保留，只把0.06吨按进率1000化为千克。③克化千克，按1000去除，位数不足时补0；④保留5平方米，只把3平方分米按面积进率100化为平方米再合并。长度、质量、面积的进率不同，必须先认单位，不能只数小数位。\\par 换算的关键计算分别是\\(3\\div10=0.3\\)、\\(0.06\\times1000=60\\)、\\(32\\div1000=0.032\\)、\\(3\\div100=0.03\\)。最后一项再与原有5平方米合在一起，组成5.03平方米。",
+          "new": "先看所换的量及单位。长度按10，质量按1000，面积按100的相应进率换算；复名数保留原整数部分，只换小单位部分：\\[\\begin{aligned}3\\text{分米}&=(3\\div10)\\text{米}=0.3\\text{米}\\\\0.06\\text{吨}&=(0.06\\times1000)\\text{千克}=60\\text{千克}\\\\5.06\\text{吨}&=5\\text{吨}60\\text{千克}\\\\32\\text{克}&=(32\\div1000)\\text{千克}=0.032\\text{千克}\\\\3\\text{平方分米}&=(3\\div100)\\text{平方米}=0.03\\text{平方米}\\\\5\\text{平方米}3\\text{平方分米}&=(5+0.03)\\text{平方米}=5.03\\text{平方米}\\end{aligned}\\]原空后已有单位，不重复填写单位。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "把散在解释中的除法、乘法和合并数保留在各自的带单位换算行；不重复四个基本进率等式。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p049_s07",
+      "book_page": 49,
+      "id": "一、7",
+      "question_file": "questions/p049.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "依次填\\(>,=,<,<,=,>\\)。\\par 6.020与6.002比较，百分位2大于0，故\\(6.02>6.002\\)。\\(3.5=3.50\\)，小数末尾添0大小不变。\\par 9千克50克=9.05千克，小于9.5千克。\\(7.91<7.97\\)，百分位1小于7。\\(0.57\\)米=57厘米。\\(8.26>4.62\\)，先比整数部分8与4即可。",
+          "new": "依次填\\(>,=,<,<,=,>\\)。\\par \\(6.020>6.002\\)，比较百分位；\\(3.5=3.50\\)，小数末尾添0大小不变。不同单位先换算：\\[\\begin{aligned}50\\text{克}&=(50\\div1000)\\text{千克}=0.05\\text{千克}\\\\9\\text{千克}50\\text{克}&=(9+0.05)\\text{千克}=9.05\\text{千克}\\\\0.57\\text{米}&=(0.57\\times100)\\text{厘米}=57\\text{厘米}\\end{aligned}\\]故9千克50克小于9.5千克，0.57米等于57厘米。其余\\(7.91<7.97\\)、\\(8.26>4.62\\)。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "①把6.02末尾补0后对齐比较，百分位2与0先分出大小；②3.5末尾添0，数值不变。③把50克化成0.05千克再与9千克合并，比较时不能当成0.5千克；④整数与十分位相同，比较百分位。⑤把米化厘米后比较同单位的数；⑥整数部分8已大于4，不必再看小数部分。\\par 单位换算为\\(50\\div1000=0.05\\)，所以9千克50克是9.05千克；\\(0.57\\times100=57\\)，所以0.57米与57厘米相等。",
+          "new": "①把6.02末尾补0后比百分位；②小数末尾添0不改变大小。③与⑤先统一单位：\\[\\begin{aligned}50\\text{克}&=(50\\div1000)\\text{千克}=0.05\\text{千克}\\\\9\\text{千克}50\\text{克}&=(9+0.05)\\text{千克}=9.05\\text{千克}\\\\0.57\\text{米}&=(0.57\\times100)\\text{厘米}=57\\text{厘米}\\end{aligned}\\]因此9.05千克小于9.5千克，而0.57米与57厘米相等。④比较百分位1与7；⑥比较整数部分8与4。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "结果括号内仅填比较符号，换算各自另行，不把单位添入原圈。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p051_s06",
+      "book_page": 51,
+      "id": "五、1（1）",
+      "question_file": "questions/p051.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "总价除以质量，得到每千克价格。\\[\\begin{aligned}&48\\div10\\\\&=4.8\\text{（元）}\\end{aligned}\\]\\par 答：每千克4.8元。\\par 核验：\\(4.8\\times10=48\\)元，与已知总价相同。",
+          "new": "总价除以质量，得到每千克价格。\\[\\begin{aligned}&48\\div10\\\\&=4.8\\text{(元)}\\end{aligned}\\]\\par 答：每千克4.8元。\\par 核验：\\(4.8\\times10=48\\)元，与已知总价相同。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p052_s01",
+      "book_page": 52,
+      "id": "五、1（2）",
+      "question_file": "questions/p052.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "先统一质量单位：\\(10\\text{千克}=10000\\text{克}\\)。每100克西瓜可榨81.5克汁。\\par 方法一：先求100克的份数，再用每份果汁质量乘份数。\\[\\begin{aligned}&81.5\\times(10000\\div100)\\\\={}&81.5\\times100\\\\={}&8150\\text{（克）}\\\\={}&8.15\\text{（千克）}\\end{aligned}\\]\\par 方法二：先求1千克西瓜的出汁量，再乘10。\\[\\begin{aligned}&81.5\\times(1000\\div100)\\times10\\\\={}&81.5\\times10\\times10\\\\={}&81.5\\times(10\\times10)\\\\={}&81.5\\times100\\\\={}&8150\\text{（克）}\\\\={}&8.15\\text{（千克）}\\end{aligned}\\]\\par 答：可以榨出8.15千克西瓜汁。",
+          "new": "先统一质量单位：\\[10\\text{千克}=10000\\text{克}\\]每100克西瓜可榨81.5克汁。\\par 方法一：先求100克的份数，再用每份果汁质量乘份数。\\[\\begin{aligned}&81.5\\times(10000\\div100)\\\\={}&81.5\\times100\\\\={}&8150\\text{(克)}\\end{aligned}\\]\\par 方法二：先求1千克西瓜的出汁量，再乘10。\\[1\\text{千克}=1000\\text{克}\\]\\[\\begin{aligned}&81.5\\times(1000\\div100)\\times10\\\\={}&81.5\\times10\\times10\\\\={}&81.5\\times(10\\times10)\\\\={}&81.5\\times100\\\\={}&8150\\text{(克)}\\end{aligned}\\]\\[8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}\\]\\par 答：可以榨出8.15千克西瓜汁。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "先把10千克化成克，与“每100克”的单位统一。方法一求总西瓜质量包含多少份100克，再用每份出汁81.5克乘份数；方法二先求1千克含有几份100克，算出1千克的出汁量，再乘10份。第二法在计算时可先把两个10结合成100，一次移动小数点；两种方法的中间结果都是克，最后还要除以1000化成千克；计算只需乘10、100与单位换算。\\par \\textbf{另法：先求每千克出汁量，再乘总质量}\\par \\[\\begin{aligned}&81.5\\times(1000\\div100)\\times10\\\\={}&81.5\\times10\\times10\\\\={}&81.5\\times(10\\times10)\\\\={}&81.5\\times100\\\\={}&8150\\text{（克）}\\\\={}&8.15\\text{（千克）}\\end{aligned}\\]",
+          "new": "先把总质量化成克，与“每100克”的单位统一：\\[10\\text{千克}=10000\\text{克}\\]方法一求总西瓜质量包含多少份100克，再用每份出汁81.5克乘份数；方法二先求1千克含有几份100克，算出1千克的出汁量，再乘10份。第二法在计算时可先把两个10结合成100，一次移动小数点；两种方法的中间结果都是克，最后还要除以1000化成千克；计算只需乘10、100与单位换算。\\par \\textbf{另法：先求每千克出汁量，再乘总质量}\\par \\[1\\text{千克}=1000\\text{克}\\]\\[\\begin{aligned}&81.5\\times(1000\\div100)\\times10\\\\={}&81.5\\times10\\times10\\\\={}&81.5\\times(10\\times10)\\\\={}&81.5\\times100\\\\={}&8150\\text{(克)}\\end{aligned}\\]\\[8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}\\]",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "结束8150克的数值脱式后，另列8150克=8.15千克；禁止把换单位当作裸等号的下一步。两方法共用最终换算；第二法中隐含的每1千克换成1000克也单列。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p052_s02",
+      "book_page": 52,
+      "id": "五、2",
+      "question_file": "questions/p052.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "先统一身高单位：\\(135\\text{厘米}=1.35\\text{米}\\)，\\(119\\text{厘米}=1.19\\text{米}\\)，\\(158\\text{厘米}=1.58\\text{米}\\)。厘米化米都除以100。东东1.35米买半票，明明1.19米免票，亮亮1.58米与张老师各买一张成人票。\\par 方法一：2张成人票加1张半票。\\[\\begin{aligned}&132\\times2+132\\div2\\\\={}&264+66\\\\={}&330\\text{（元）}\\end{aligned}\\]答：四人买单程票共需要330元。\\par 方法二：半张成人票的钱看作1份，2张成人票相当于4份，再加东东1份，共5份。\\[\\begin{aligned}&(132\\div2)\\times(2\\times2+1)\\\\={}&66\\times(4+1)\\\\={}&66\\times5\\\\={}&330\\text{（元）}\\end{aligned}\\]答：四人买单程票共需要330元。",
+          "new": "先统一身高单位：\\[\\begin{aligned}135\\text{厘米}&=1.35\\text{米}\\\\119\\text{厘米}&=1.19\\text{米}\\\\158\\text{厘米}&=1.58\\text{米}\\end{aligned}\\]厘米化米都除以100。东东1.35米买半票，明明1.19米免票，亮亮1.58米与张老师各买一张成人票。\\par 方法一：2张成人票加1张半票。\\[\\begin{aligned}&132\\times2+132\\div2\\\\={}&264+66\\\\={}&330\\text{(元)}\\end{aligned}\\]答：四人买单程票共需要330元。\\par 方法二：半张成人票的钱看作1份，2张成人票相当于4份，再加东东1份，共5份。\\[\\begin{aligned}&(132\\div2)\\times(2\\times2+1)\\\\={}&66\\times(4+1)\\\\={}&66\\times5\\\\={}&330\\text{(元)}\\end{aligned}\\]答：四人买单程票共需要330元。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "先按题给标准把厘米统一化成米，逐人对照区间：东东半票、明明免票，老师与亮亮成人票。方法一分别计算成人票和半票后相加，免票者不计钱。方法二把一张半票的钱看成1份，每张成人票就是2份，两张成人票与一张半票共5份，再按每份钱乘份数。\\par \\textbf{另法：把半票钱看成一份}\\par \\[\\begin{aligned}&(132\\div2)\\times(2\\times2+1)\\\\={}&66\\times(4+1)\\\\={}&66\\times5\\\\={}&330\\text{（元）}\\end{aligned}\\]",
+          "new": "先把厘米统一化成米，各自除以100：\\[\\begin{aligned}135\\text{厘米}&=1.35\\text{米}\\\\119\\text{厘米}&=1.19\\text{米}\\\\158\\text{厘米}&=1.58\\text{米}\\end{aligned}\\]再逐人对照票价区间：东东半票、明明免票，老师与亮亮成人票。方法一分别计算成人票和半票后相加，免票者不计钱。方法二把一张半票的钱看成1份，每张成人票就是2份，两张成人票与一张半票共5份，再按每份钱乘份数。\\par \\textbf{另法：把半票钱看成一份}\\par \\[\\begin{aligned}&(132\\div2)\\times(2\\times2+1)\\\\={}&66\\times(4+1)\\\\={}&66\\times5\\\\={}&330\\text{(元)}\\end{aligned}\\]",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "三个身高各占一行，不混写到票价计算内。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p052_s03",
+      "book_page": 52,
+      "id": "五、3",
+      "question_file": "questions/p052.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求每块瓷砖面积，再求全部瓷砖的总面积。每行18块，共5行。\\[\\begin{aligned}&(40\\times30)\\times(18\\times5)\\\\&=1200\\times90\\\\&=108000\\text{（平方厘米）}\\end{aligned}\\]\\par 方法二：先求文化墙的长和宽，再求面积。\\[\\begin{aligned}&(40\\times18)\\times(30\\times5)\\\\&=720\\times150\\\\&=108000\\text{（平方厘米）}\\end{aligned}\\]\\par 两种方法最后都要换单位：\\(1\\text{平方米}=10000\\text{平方厘米}\\)，低级单位化成高级单位除以进率。\\[\\begin{aligned}&108000\\div10000\\\\&=10.8\\text{（平方米）}\\end{aligned}\\]\\par 答：文化墙的面积是10.8平方米。主解先进行整数面积计算，再利用小数点移动换算，不需要使用一般小数乘法。",
+          "new": "方法一：先求每块瓷砖面积，再求全部瓷砖的总面积。每行18块，共5行。\\[\\begin{aligned}&(40\\times30)\\times(18\\times5)\\\\&=1200\\times90\\\\&=108000\\text{(平方厘米)}\\end{aligned}\\]\\par 方法二：先求文化墙的长和宽，再求面积。\\[\\begin{aligned}&(40\\times18)\\times(30\\times5)\\\\&=720\\times150\\\\&=108000\\text{(平方厘米)}\\end{aligned}\\]\\par 两种方法所得面积先以平方厘米计算，最后另列单位换算：\\[\\begin{aligned}1\\text{平方米}&=10000\\text{平方厘米}\\\\108000\\text{平方厘米}&=(108000\\div10000)\\text{平方米}\\\\&=10.8\\text{平方米}\\end{aligned}\\]\\par 答：文化墙的面积是10.8平方米。主解先进行整数面积计算，再利用小数点移动换算，不需要使用一般小数乘法。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一先求一块瓷砖的面积，再按每行18块、共5行求总块数，用每块面积乘块数。方法二先用一块的长乘每行块数、一块的宽乘行数，分别求整面墙的长和宽，再求长方形面积。两条路径都先使用厘米作整数计算，所得面积是平方厘米；换成平方米必须按面积进率10000去除。\\par \\textbf{另法：先求墙的长、宽}\\[\\begin{aligned}&(40\\times18)\\times(30\\times5)\\\\={}&720\\times150\\\\={}&108000\\text{（平方厘米）}\\\\={}&10.8\\text{（平方米）}\\end{aligned}\\]",
+          "new": "方法一先求一块瓷砖的面积，再按每行18块、共5行求总块数，用每块面积乘块数。方法二先用一块的长乘每行块数、一块的宽乘行数，分别求整面墙的长和宽，再求长方形面积。两条路径都先使用厘米作整数计算，所得面积是平方厘米；换成平方米必须按面积进率10000去除。\\par \\textbf{另法：先求墙的长、宽}\\[\\begin{aligned}&(40\\times18)\\times(30\\times5)\\\\={}&720\\times150\\\\={}&108000\\text{(平方厘米)}\\end{aligned}\\]\\[\\begin{aligned}1\\text{平方米}&=10000\\text{平方厘米}\\\\108000\\text{平方厘米}&=(108000\\div10000)\\text{平方米}\\\\&=10.8\\text{平方米}\\end{aligned}\\]",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "保留108000÷10000过程，但它放在带完整单位的独立换算块内，不作为108000(平方厘米)下一行的裸等号。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p052_s04",
+      "book_page": 52,
+      "id": "五、4",
+      "question_file": "questions/p052.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "按题意三张数字卡各用一次。按十位是1、3、6分成3类，每类都有2个不同的一位小数，所以按“每类个数×类别数”列式：\\[\\begin{aligned}&2\\times3\\\\={}&6\\text{（个）}\\end{aligned}\\]\\par 1开头有13.6、16.3；3开头有31.6、36.1；6开头有61.3、63.1。每一类都列全，三类之间也不会重复。\\par 从大到小：\\(63.1>61.3>36.1>31.6>16.3>13.6\\)。\\par 答：能组成6个不同的一位小数，顺序如上。",
+          "new": "按题意三张数字卡各用一次。按十位是1、3、6分成3类，每类都有2个不同的一位小数，所以按“每类个数×类别数”列式：\\[\\begin{aligned}&2\\times3\\\\={}&6\\text{(个)}\\end{aligned}\\]\\par 1开头有13.6、16.3；3开头有31.6、36.1；6开头有61.3、63.1。每一类都列全，三类之间也不会重复。\\par 从大到小：\\(63.1>61.3>36.1>31.6>16.3>13.6\\)。\\par 答：能组成6个不同的一位小数，顺序如上。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p053_s08",
+      "book_page": 53,
+      "id": "一、8",
+      "question_file": "questions/p053.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "一组答案：\\(45\\text{厘米}=0.45\\text{米}\\)，\\(3540\\text{克}=3.540\\text{千克}\\)。先查进率：厘米化米除以100，\\(45\\div100=0.45\\)；克化千克除以1000，\\(3540\\div1000=3.540\\)。后式保留题面给定的三位小数写法，数值仍等于3.54。\\par 答案不唯一：前式还可填“分、元”，45分=0.45元；后式还可填“米、千米”。两边必须表示同一种量，并分别具有100或1000的单位进率。",
+          "new": "一组答案为“厘米、米；克、千克”。前式进率100，后式进率1000：\\[\\begin{aligned}45\\text{厘米}&=(45\\div100)\\text{米}=0.45\\text{米}\\\\3540\\text{克}&=(3540\\div1000)\\text{千克}=3.540\\text{千克}\\end{aligned}\\]题目未限定单位种类，原有其他合理组合也分别列出：\\[\\begin{aligned}45\\text{分}&=0.45\\text{元}\\\\45\\text{平方厘米}&=0.45\\text{平方分米}\\\\45\\text{平方分米}&=0.45\\text{平方米}\\\\45\\text{公顷}&=0.45\\text{平方千米}\\\\3540\\text{毫米}&=3.540\\text{米}\\\\3540\\text{米}&=3.540\\text{千米}\\\\3540\\text{千克}&=3.540\\text{吨}\\end{aligned}\\]保留题面给定的3.540写法。两边必须是同一种量，不能把长度与质量混配。这里只在原单位空填写单位，不重复数值。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "前式从45变为0.45，数值缩小到原来的百分之一，单位就应从较小单位换到大100倍的同类单位。后式相应需要1000的进率，且保留3.540的三位小数写法。答案不唯一：前式还可用“分、元”“平方厘米、平方分米”“平方分米、平方米”“公顷、平方千米”；后式还可用“毫米、米”“米、千米”“千克、吨”。两端必须表示同一种量，不能把长度与质量等混配。\\par 对应换算分别为\\(45\\div100=0.45\\)、\\(3540\\div1000=3.540\\)。",
+          "new": "一组答案为“厘米、米；克、千克”。前式进率100，后式进率1000：\\[\\begin{aligned}45\\text{厘米}&=(45\\div100)\\text{米}=0.45\\text{米}\\\\3540\\text{克}&=(3540\\div1000)\\text{千克}=3.540\\text{千克}\\end{aligned}\\]题目未限定单位种类，原有其他合理组合也分别列出：\\[\\begin{aligned}45\\text{分}&=0.45\\text{元}\\\\45\\text{平方厘米}&=0.45\\text{平方分米}\\\\45\\text{平方分米}&=0.45\\text{平方米}\\\\45\\text{公顷}&=0.45\\text{平方千米}\\\\3540\\text{毫米}&=3.540\\text{米}\\\\3540\\text{米}&=3.540\\text{千米}\\\\3540\\text{千克}&=3.540\\text{吨}\\end{aligned}\\]保留题面给定的3.540写法。两边必须是同一种量，不能把长度与质量混配。这里只在原单位空填写单位，不重复数值。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "只展开原答案/原旁注已经列出的单位组合，没有新增单位种类。分为货币的分。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p053_s09",
+      "book_page": 53,
+      "id": "一、9",
+      "question_file": "questions/p053.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "依次填\\(450,0.45\\)。1吨=1000千克，是10千克的100倍。\\[\\begin{aligned}&4.5\\times(1000\\div10)\\\\&=4.5\\times100\\\\&=450\\text{（千克）}\\\\&=0.45\\text{（吨）}.\\end{aligned}\\]",
+          "new": "依次填\\(450,0.45\\)。\\[1\\text{吨}=1000\\text{千克}\\]是10千克的100倍。\\[\\begin{aligned}&4.5\\times(1000\\div10)\\\\&=4.5\\times100\\\\&=450\\text{(千克)}\\end{aligned}\\]\\[450\\text{千克}=(450\\div1000)\\text{吨}=0.45\\text{吨}\\]",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "先把1吨化成1000千克，与已知的10千克采用同一单位。求出其中有多少份10千克，再用每份出油4.5千克乘份数，得到总出油千克数。最后按1000千克为1吨再换算，第二空不能直接抄第一空的数。\\par \\(1\\text{吨}=1000\\text{千克}\\)。\\[\\begin{aligned}&4.5\\times(1000\\div10)\\\\={}&4.5\\times100\\\\={}&450\\text{（千克）}\\\\&450\\div1000\\\\={}&0.45\\text{（吨）}\\end{aligned}\\]",
+          "new": "先把1吨化成1000千克，与已知的10千克采用同一单位。求出其中有多少份10千克，再用每份出油4.5千克乘份数，得到总出油千克数。最后按1000千克为1吨再换算，第二空不能直接抄第一空的数。\\par \\[1\\text{吨}=1000\\text{千克}\\]\\[\\begin{aligned}&4.5\\times(1000\\div10)\\\\={}&4.5\\times100\\\\={}&450\\text{(千克)}\\end{aligned}\\]\\[450\\text{千克}=(450\\div1000)\\text{吨}=0.45\\text{吨}\\]",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "结束450(千克)脱式后另写450千克=0.45吨；原空后已有千克、吨，只填450与0.45。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p054_s02",
+      "book_page": 54,
+      "id": "二、1",
+      "question_file": "questions/p054.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "选C。9在十分位，表示0.9米；1米=10分米，0.9米就是9分米。不能把9理解成9米或0.9分米。",
+          "new": "选C。9在十分位，表示0.9米。米化分米的进率是10：\\[0.9\\text{米}=(0.9\\times10)\\text{分米}=9\\text{分米}\\]不能把9理解成9米或0.9分米。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "先看数字9在十分位，表示9个十分之一米，不能脱离原来的米作单位。1米等于10分米，十分之一米正好是1分米，因此9个十分之一米就是9分米。先判数位，再换单位，才能对应正确选项。\\par 按米化分米的进率计算，\\(0.9\\times10=9\\)，所以对应9分米。",
+          "new": "先判断数字9在十分位，表示9个十分之一米。按米化分米的进率10换算：\\[0.9\\text{米}=(0.9\\times10)\\text{分米}=9\\text{分米}\\]所以选9分米，不能只读数字而不看数位与单位。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "实际量的米转分米另占一行；0.9×10=9计算保留并写清两边单位。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p054_s06",
+      "book_page": 54,
+      "id": "二、5",
+      "question_file": "questions/p054.json",
+      "note_file": "detailed_layout/notes_B.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "选B。8米6厘米=8.06米，560厘米=5.60米，正确式子是\\(8.06+5.6\\)。注意6厘米是0.06米，不是0.6米；560厘米是5.6米，不是5.06米。",
+          "new": "选B。先把长度都化成米：\\[\\begin{aligned}6\\text{厘米}&=(6\\div100)\\text{米}=0.06\\text{米}\\\\8\\text{米}6\\text{厘米}&=(8+0.06)\\text{米}=8.06\\text{米}\\\\560\\text{厘米}&=(560\\div100)\\text{米}=5.6\\text{米}\\end{aligned}\\]正确算式为\\(8.06+5.6\\)。6厘米是0.06米，560厘米是5.6米，不能把厘米数直接接在小数点后。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "用米作单位前，先把两项中的厘米都按进率100化为米。6厘米只相当于0.06米，放在百分位；560厘米则含5个整米和60厘米，小数部分是0.6米。把每项先统一单位再相加，才能避免把厘米数直接接在小数点后。\\par 厘米化米的两步分别为\\(6\\div100=0.06\\)、\\(560\\div100=5.6\\)；前一项与8米合在一起，组成8.06米。",
+          "new": "厘米化米除以100，原有8米不变，只把6厘米换算后合并：\\[\\begin{aligned}6\\text{厘米}&=(6\\div100)\\text{米}=0.06\\text{米}\\\\8\\text{米}6\\text{厘米}&=(8+0.06)\\text{米}=8.06\\text{米}\\\\560\\text{厘米}&=(560\\div100)\\text{米}=5.6\\text{米}\\end{aligned}\\]统一成米后相加，正确算式为\\(8.06+5.6\\)。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "分清小单位换算与再合并整数米数，除以100及8+0.06步骤均保留。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p055_s02",
+      "book_page": 55,
+      "id": "三、2（2）",
+      "question_file": "questions/p055.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "note_latex",
+          "old": "“万”与“亿”分别是10000和100000000，改写时将小数点相应左移四位、八位，数的大小不变，所以用等号。保留一位小数时再看百分位，第二个数要连续进位。结果中的\\(255.0\\)仍须保留末尾0，表示保留到十分位，不能省成255。",
+          "new": "“万”与“亿”分别是10000和100000000，改写时将小数点相应左移四位、八位，数的大小不变，所以用等号。保留一位小数时再看百分位，第二个数要连续进位。结果中的\\(255.0\\)仍须保留末尾0，表示保留到十分位，不能省成255。\\[\\begin{aligned}327900&=32.79\\text{万}\\\\25499270000&=254.9927\\text{亿}\\end{aligned}\\]",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "answer_latex原有改写与≈已分行、无单位括号，可保持；旁注原只讲规则，补该题两个准确改写独立行。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p055_s05",
+      "book_page": 55,
+      "id": "三、3（3）",
+      "question_file": "questions/p055.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "先统一单位再比大小。\\(1\\text{千克}=1000\\text{克}\\)，克改写成千克要除以1000。\\(3240\\text{克}=3.24\\text{千克}\\)。\\(3.24>\\square.15\\)，整数部分最大填3。",
+          "new": "先统一单位，克化千克除以1000：\\[3240\\text{克}=(3240\\div1000)\\text{千克}=3.24\\text{千克}\\]再比较\\(3.24>\\square.15\\)，整数部分最大填3。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "单位不同不能直接比较，先用克数除以1000，化成\\(3.24\\)千克。右边整数部分填3时，十分位1小于2，符合条件；若填4或更大，整数部分就已经超过左边。因此先比较整数部分，就能确定能填的最大数字。",
+          "new": "先按1000的进率把克化成千克：\\[3240\\text{克}=(3240\\div1000)\\text{千克}=3.24\\text{千克}\\]右边填3时，\\(3.15<3.24\\)；若填4或更大，整数部分已超过左边，所以最大填3。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "换算与比较步骤分开；原数字框只填3。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p055_s06",
+      "book_page": 55,
+      "id": "三、3（4）",
+      "question_file": "questions/p055.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "\\(1\\text{吨}=1000\\text{千克}\\)，吨改写成千克要乘1000。\\(6.25\\text{吨}=6250\\text{千克}\\)。\\(6250>6\\square25\\)，百位最大填2，因为\\(6225<6250\\)，而\\(6325>6250\\)。",
+          "new": "吨化千克乘1000：\\[6.25\\text{吨}=(6.25\\times1000)\\text{千克}=6250\\text{千克}\\]再比较\\(6250>6\\square25\\)，百位最大填2，因为\\(6225<6250\\)，而\\(6325>6250\\)。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "吨化成千克要乘1000，左边变为6250千克。两数千位相同，再比百位：右边百位填2时，后面25小于50，仍然较小。若百位增至3，6325已超过6250，所以不能再填大。",
+          "new": "先把左边化成千克：\\[6.25\\text{吨}=(6.25\\times1000)\\text{千克}=6250\\text{千克}\\]千位相同，比较百位。填2时6225小于6250；填3时6325已经超过6250，所以最大填2。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "乘1000的换算另行，原框只填2。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p055_s07",
+      "book_page": 55,
+      "id": "三、3（5）",
+      "question_file": "questions/p055.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "\\(1\\text{米}=100\\text{厘米}\\)，厘米改写成米要除以100。\\(15\\text{厘米}=0.15\\text{米}\\)。\\(0.\\square5>0.15\\)，十分位最大可填9。",
+          "new": "厘米化米除以100：\\[15\\text{厘米}=(15\\div100)\\text{米}=0.15\\text{米}\\]再比较\\(0.\\square5>0.15\\)，十分位最大可填9。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "先按100厘米等于1米，把15厘米写成\\(0.15\\)米。两边个位和百分位相同，十分位填大于1的数字都符合条件。再按“最大”选9，不能把“能填的最小数字”当成所求。",
+          "new": "先统一成米：\\[15\\text{厘米}=(15\\div100)\\text{米}=0.15\\text{米}\\]两边个位和百分位相同，十分位填大于1的数字都符合条件，再取最大的9。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "换算另行，不把比较框答案附带单位。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p055_s13",
+      "book_page": 55,
+      "id": "五、1",
+      "question_file": "questions/p055.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "原边长是缩小后边长的100倍。\\[\\begin{aligned}&0.03\\times100\\\\={}&3\\text{（米）}\\end{aligned}\\]再求原面积：\\[\\begin{aligned}&3\\times3\\\\={}&9\\text{（平方米）}\\end{aligned}\\]答：原来这块菜地的面积是9平方米。",
+          "new": "原边长是缩小后边长的100倍。\\[\\begin{aligned}&0.03\\times100\\\\={}&3\\text{(米)}\\end{aligned}\\]再求原面积：\\[\\begin{aligned}&3\\times3\\\\={}&9\\text{(平方米)}\\end{aligned}\\]答：原来这块菜地的面积是9平方米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "现在的边长只相当于原边长的一百分之一，还原时应扩大100倍，不能再缩小。先求原来的边长，再按“边长×边长”求正方形面积；边长扩大100倍并不表示面积只扩大100倍。\\[\\begin{aligned}&0.03\\times100\\\\={}&3\\text{（米）}\\end{aligned}\\]\\[\\begin{aligned}&3\\times3\\\\={}&9\\text{（平方米）}\\end{aligned}\\]答：原菜地的面积是9平方米。",
+          "new": "现在的边长只相当于原边长的一百分之一，还原时应扩大100倍，不能再缩小。先求原来的边长，再按“边长×边长”求正方形面积；边长扩大100倍并不表示面积只扩大100倍。\\[\\begin{aligned}&0.03\\times100\\\\={}&3\\text{(米)}\\end{aligned}\\]\\[\\begin{aligned}&3\\times3\\\\={}&9\\text{(平方米)}\\end{aligned}\\]答：原菜地的面积是9平方米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p056_s01",
+      "book_page": 56,
+      "id": "五、2",
+      "question_file": "questions/p056.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "先统一单位：\\(1\\text{吨}=1000\\text{千克}\\)，吨化千克乘1000，所以\\(3.75\\text{吨}=3750\\text{千克}\\)。方法一：先求5辆车共装多少件，再求每件质量。\\[\\begin{aligned}&3750\\div(20\\times5)\\\\={}&3750\\div100\\\\={}&37.5\\text{（千克）}\\end{aligned}\\]方法二：先分车再分件的数量分析仍然成立；计算时用连续除法的性质，把5与20先凑成100，直接除以100。\\[\\begin{aligned}&3750\\div5\\div20\\\\={}&3750\\div(5\\times20)\\\\={}&3750\\div100\\\\={}&37.5\\text{（千克）}\\end{aligned}\\]答：平均每件快递重37.5千克。\\par 1万件的质量：\\[\\begin{aligned}&37.5\\times10000\\\\={}&375000\\text{（千克）}\\end{aligned}\\]答：像这样的1万件快递重375000千克。可检验：每件\\(37.5\\)千克，\\(20\\times5=100\\)件，共\\(37.5\\times100=3750\\)千克，与题目总质量相同。",
+          "new": "先统一单位，吨化千克乘1000：\\[3.75\\text{吨}=(3.75\\times1000)\\text{千克}=3750\\text{千克}\\]方法一：先求5辆车共装多少件，再求每件质量。\\[\\begin{aligned}&3750\\div(20\\times5)\\\\={}&3750\\div100\\\\={}&37.5\\text{(千克)}\\end{aligned}\\]方法二：先分车再分件的数量分析仍然成立；计算时用连续除法的性质，把5与20先凑成100，直接除以100。\\[\\begin{aligned}&3750\\div5\\div20\\\\={}&3750\\div(5\\times20)\\\\={}&3750\\div100\\\\={}&37.5\\text{(千克)}\\end{aligned}\\]答：平均每件快递重37.5千克。\\par 先改写件数：\\[1\\text{万件}=10000\\text{件}\\]1万件的质量：\\[\\begin{aligned}&37.5\\times10000\\\\={}&375000\\text{(千克)}\\end{aligned}\\]答：像这样的1万件快递重375000千克。可检验：每件\\(37.5\\)千克，\\(20\\times5=100\\)件，共\\(37.5\\times100=3750\\)千克，与题目总质量相同。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "题目要以千克作答，先把总质量从吨化成千克，按1000的进率换算。\\(3.75\\text{吨}=3750\\text{千克}\\)。方法一，先用“每车件数×车辆数”求总件数，再以总质量除以总件数，得到每件质量：\\[\\begin{aligned}&3750\\div(20\\times5)\\\\={}&3750\\div100\\\\={}&37.5\\text{（千克）}\\end{aligned}\\]方法二，仍按先分给5辆车、再按每车20件平均分来分析。计算时连续除以5和20，等于一次除以它们的积；5与20先凑成100，可直接用小数点移动规律计算：\\[\\begin{aligned}&3750\\div5\\div20\\\\={}&3750\\div(5\\times20)\\\\={}&3750\\div100\\\\={}&37.5\\text{（千克）}\\end{aligned}\\]答：平均每件重37.5千克。\\par 同样重的快递有10000件，按“每件质量×件数”求总质量，即把每件质量扩大10000倍：\\[\\begin{aligned}&37.5\\times10000\\\\={}&375000\\text{（千克）}\\end{aligned}\\]答：1万件重375000千克。",
+          "new": "题目要以千克作答，先按1000的进率把总质量换算：\\[3.75\\text{吨}=(3.75\\times1000)\\text{千克}=3750\\text{千克}\\]方法一，先用“每车件数×车辆数”求总件数，再以总质量除以总件数，得到每件质量：\\[\\begin{aligned}&3750\\div(20\\times5)\\\\={}&3750\\div100\\\\={}&37.5\\text{(千克)}\\end{aligned}\\]方法二，仍按先分给5辆车、再按每车20件平均分来分析。计算时连续除以5和20，等于一次除以它们的积；5与20先凑成100，可直接用小数点移动规律计算：\\[\\begin{aligned}&3750\\div5\\div20\\\\={}&3750\\div(5\\times20)\\\\={}&3750\\div100\\\\={}&37.5\\text{(千克)}\\end{aligned}\\]答：平均每件重37.5千克。\\par 先把件数写清：\\[1\\text{万件}=10000\\text{件}\\]同样重的快递有10000件，按“每件质量×件数”求总质量，即把每件质量扩大10000倍：\\[\\begin{aligned}&37.5\\times10000\\\\={}&375000\\text{(千克)}\\end{aligned}\\]答：1万件重375000千克。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "吨化千克另行；1万件改写成10000件后再乘每件质量，保持原方法与数值。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p056_s03",
+      "book_page": 56,
+      "id": "五、3（2）",
+      "question_file": "questions/p056.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "分别求三轮总分。1号：\\[\\begin{aligned}&28.75+94+76.25\\\\={}&(28.75+76.25)+94\\\\={}&105+94\\\\={}&199\\text{（分）}\\end{aligned}\\]2号：\\[\\begin{aligned}&89+33+93.5\\\\={}&122+93.5\\\\={}&215.5\\text{（分）}\\end{aligned}\\]3号：\\[\\begin{aligned}&89.25+75.75+82\\\\={}&165+82\\\\={}&247\\text{（分）}\\end{aligned}\\]\\(247>215.5>199\\)。答：按三轮总分排名，3号第一。",
+          "new": "分别求三轮总分。1号：\\[\\begin{aligned}&28.75+94+76.25\\\\={}&(28.75+76.25)+94\\\\={}&105+94\\\\={}&199\\text{(分)}\\end{aligned}\\]2号：\\[\\begin{aligned}&89+33+93.5\\\\={}&122+93.5\\\\={}&215.5\\text{(分)}\\end{aligned}\\]3号：\\[\\begin{aligned}&89.25+75.75+82\\\\={}&165+82\\\\={}&247\\text{(分)}\\end{aligned}\\]\\(247>215.5>199\\)。答：按三轮总分排名，3号第一。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "本问的排名依据变为三轮总分，必须把每人的三轮都计入。可以先把能凑成整数的两轮分数结合，再加第三轮，减少小数相加的负担。1号的第一、三轮可先合成105分；下面分别求三人的总分：1号\\[\\begin{aligned}&28.75+94+76.25\\\\={}&(28.75+76.25)+94\\\\={}&105+94\\\\={}&199\\text{（分）}\\end{aligned}\\]2号\\[\\begin{aligned}&89+33+93.5\\\\={}&122+93.5\\\\={}&215.5\\text{（分）}\\end{aligned}\\]3号\\[\\begin{aligned}&89.25+75.75+82\\\\={}&165+82\\\\={}&247\\text{（分）}\\end{aligned}\\]三人的计分范围相同后，再比较\\(247>215.5>199\\)。",
+          "new": "本问的排名依据变为三轮总分，必须把每人的三轮都计入。可以先把能凑成整数的两轮分数结合，再加第三轮，减少小数相加的负担。1号的第一、三轮可先合成105分；下面分别求三人的总分：1号\\[\\begin{aligned}&28.75+94+76.25\\\\={}&(28.75+76.25)+94\\\\={}&105+94\\\\={}&199\\text{(分)}\\end{aligned}\\]2号\\[\\begin{aligned}&89+33+93.5\\\\={}&122+93.5\\\\={}&215.5\\text{(分)}\\end{aligned}\\]3号\\[\\begin{aligned}&89.25+75.75+82\\\\={}&165+82\\\\={}&247\\text{(分)}\\end{aligned}\\]三人的计分范围相同后，再比较\\(247>215.5>199\\)。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p056_s04",
+      "book_page": 56,
+      "id": "五、3（3）",
+      "question_file": "questions/p056.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "一种合理规则：去掉每位选手的一轮最低分，再比较其余两轮总分。1号：\\[\\begin{aligned}&94+76.25\\\\={}&170.25\\text{（分）}\\end{aligned}\\]2号：\\[\\begin{aligned}&89+93.5\\\\={}&182.5\\text{（分）}\\end{aligned}\\]3号：\\[\\begin{aligned}&89.25+82\\\\={}&171.25\\text{（分）}\\end{aligned}\\]\\(182.5>171.25>170.25\\)。答：按这条规则，2号获得冠军。题目是开放题，给出规则时必须对三名选手使用同一标准。",
+          "new": "一种合理规则：去掉每位选手的一轮最低分，再比较其余两轮总分。1号：\\[\\begin{aligned}&94+76.25\\\\={}&170.25\\text{(分)}\\end{aligned}\\]2号：\\[\\begin{aligned}&89+93.5\\\\={}&182.5\\text{(分)}\\end{aligned}\\]3号：\\[\\begin{aligned}&89.25+82\\\\={}&171.25\\text{(分)}\\end{aligned}\\]\\(182.5>171.25>170.25\\)。答：按这条规则，2号获得冠军。题目是开放题，给出规则时必须对三名选手使用同一标准。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "要让2号夺冠，须提出一条对三人都使用的计分规则，并用数据检查。此题可以有不同规则，例如可规定：各去掉本人的最低分，再比较余下两轮的总分。1号\\[\\begin{aligned}&94+76.25\\\\={}&170.25\\text{（分）}\\end{aligned}\\]2号\\[\\begin{aligned}&89+93.5\\\\={}&182.5\\text{（分）}\\end{aligned}\\]3号\\[\\begin{aligned}&89.25+82\\\\={}&171.25\\text{（分）}\\end{aligned}\\]\\(182.5>171.25>170.25\\)，这条规则能使2号夺冠。去掉最低分后，比较的是各自保留两轮的总分，不是各自挑不同轮数。这个例子满足2号第一，但不表示这是唯一可能的规则。",
+          "new": "要让2号夺冠，须提出一条对三人都使用的计分规则，并用数据检查。此题可以有不同规则，例如可规定：各去掉本人的最低分，再比较余下两轮的总分。1号\\[\\begin{aligned}&94+76.25\\\\={}&170.25\\text{(分)}\\end{aligned}\\]2号\\[\\begin{aligned}&89+93.5\\\\={}&182.5\\text{(分)}\\end{aligned}\\]3号\\[\\begin{aligned}&89.25+82\\\\={}&171.25\\text{(分)}\\end{aligned}\\]\\(182.5>171.25>170.25\\)，这条规则能使2号夺冠。去掉最低分后，比较的是各自保留两轮的总分，不是各自挑不同轮数。这个例子满足2号第一，但不表示这是唯一可能的规则。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p057_s16",
+      "book_page": 57,
+      "id": "一、11",
+      "question_file": "questions/p057.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "两根木条原长的和等于拼好后的总长加重叠部分。另一根长度：\\[\\begin{aligned}&29+3.6-18.2\\\\={}&32.6-18.2\\\\={}&14.4\\text{（厘米）}\\end{aligned}\\]填14.4。重叠部分在两根原长中算两次，在拼好总长中算一次。",
+          "new": "两根木条原长的和等于拼好后的总长加重叠部分。另一根长度：\\[\\begin{aligned}&29+3.6-18.2\\\\={}&32.6-18.2\\\\={}&14.4\\text{(厘米)}\\end{aligned}\\]填14.4。重叠部分在两根原长中算两次，在拼好总长中算一次。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "两根木条原长相加时，重叠的\\(3.6\\)厘米计了两次，拼好总长只计一次。因此先给29厘米补回这段重叠，得到两根原长之和，再减去已知的一根。不能从29直接减\\(18.2\\)，否则会把另一根的重叠部分漏掉。\\[\\begin{aligned}&29+3.6-18.2\\\\={}&32.6-18.2\\\\={}&14.4\\text{（厘米）}\\end{aligned}\\]",
+          "new": "两根木条原长相加时，重叠的\\(3.6\\)厘米计了两次，拼好总长只计一次。因此先给29厘米补回这段重叠，得到两根原长之和，再减去已知的一根。不能从29直接减\\(18.2\\)，否则会把另一根的重叠部分漏掉。\\[\\begin{aligned}&29+3.6-18.2\\\\={}&32.6-18.2\\\\={}&14.4\\text{(厘米)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p058_s03",
+      "book_page": 58,
+      "id": "二、2",
+      "question_file": "questions/p058.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "5元3角=5.30元，8角7分=0.87元；\\(5.30+0.87=6.17\\)元，选A。",
+          "new": "先把金额都化成元：\\[\\begin{aligned}5\\text{元}3\\text{角}&=5.30\\text{元}\\\\8\\text{角}7\\text{分}&=0.87\\text{元}\\end{aligned}\\]再算\\(5.30+0.87=6.17\\)元，选A。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "金额先统一为元，角写在十分位、分写在百分位。5元3角可写成\\(5.30\\)元，8角7分是\\(0.87\\)元，再把相同数位相加。不能把8角看作8元，也不能把3角放在百分位。",
+          "new": "角对应元的十分位，分对应元的百分位，先分别换算：\\[\\begin{aligned}5\\text{元}3\\text{角}&=5.30\\text{元}\\\\8\\text{角}7\\text{分}&=0.87\\text{元}\\end{aligned}\\]再按相同数位相加，\\(5.30+0.87=6.17\\)元。不能把8角当8元，也不能把3角放到百分位。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "两个金额各自独立一行，随后才做相加；不改题中A选项。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p058_s07",
+      "book_page": 58,
+      "id": "二、6",
+      "question_file": "questions/p058.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "选B。小明较慢，用时多0.9秒，小雨用时为：\\[\\begin{aligned}&17.8-0.9\\\\={}&17.8-1+0.1\\\\={}&16.8+0.1\\\\={}&16.9\\text{（秒）}\\end{aligned}\\]",
+          "new": "选B。小明较慢，用时多0.9秒，小雨用时为：\\[\\begin{aligned}&17.8-0.9\\\\={}&17.8-1+0.1\\\\={}&16.8+0.1\\\\={}&16.9\\text{(秒)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "路程相同，“小明比小雨慢0.9秒”表示小明多用0.9秒，小雨应用17.8秒减0.9秒。把0.9凑成1，多减的0.1再加回：\\[\\begin{aligned}&17.8-0.9\\\\={}&17.8-1+0.1\\\\={}&16.8+0.1\\\\={}&16.9\\text{（秒）}\\end{aligned}\\]因此选B。",
+          "new": "路程相同，“小明比小雨慢0.9秒”表示小明多用0.9秒，小雨应用17.8秒减0.9秒。把0.9凑成1，多减的0.1再加回：\\[\\begin{aligned}&17.8-0.9\\\\={}&17.8-1+0.1\\\\={}&16.8+0.1\\\\={}&16.9\\text{(秒)}\\end{aligned}\\]因此选B。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p059_s05",
+      "book_page": 59,
+      "id": "四、1",
+      "question_file": "questions/p059.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：较长续航减去较短续航。\\[\\begin{aligned}&596.5-425.8\\\\={}&170.7\\text{（千米）}\\end{aligned}\\]答：燃油汽车单次续航多170.7千米。\\par 方法二：把减数425.8凑成426，多减0.2再加回0.2。\\[\\begin{aligned}&596.5-425.8\\\\={}&596.5-426+0.2\\\\={}&170.5+0.2\\\\={}&170.7\\text{（千米）}\\end{aligned}\\]答：多170.7千米。",
+          "new": "方法一：较长续航减去较短续航。\\[\\begin{aligned}&596.5-425.8\\\\={}&170.7\\text{(千米)}\\end{aligned}\\]答：燃油汽车单次续航多170.7千米。\\par 方法二：把减数425.8凑成426，多减0.2再加回0.2。\\[\\begin{aligned}&596.5-425.8\\\\={}&596.5-426+0.2\\\\={}&170.5+0.2\\\\={}&170.7\\text{(千米)}\\end{aligned}\\]答：多170.7千米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，“比另一种多多少”求的是两种续航的差，以较长的燃油车续航减去纯电动车续航：\\[\\begin{aligned}&596.5-425.8\\\\={}&170.7\\text{（千米）}\\end{aligned}\\]方法二，把减数凑成整数426，先减整更方便；这样多减了0.2千米，最后须加回：\\[\\begin{aligned}&596.5-426+0.2\\\\={}&170.5+0.2\\\\={}&170.7\\text{（千米）}\\end{aligned}\\]答：燃油汽车的单次续航多170.7千米。",
+          "new": "方法一，“比另一种多多少”求的是两种续航的差，以较长的燃油车续航减去纯电动车续航：\\[\\begin{aligned}&596.5-425.8\\\\={}&170.7\\text{(千米)}\\end{aligned}\\]方法二，把减数凑成整数426，先减整更方便；这样多减了0.2千米，最后须加回：\\[\\begin{aligned}&596.5-426+0.2\\\\={}&170.5+0.2\\\\={}&170.7\\text{(千米)}\\end{aligned}\\]答：燃油汽车的单次续航多170.7千米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p059_s06",
+      "book_page": 59,
+      "id": "四、2",
+      "question_file": "questions/p059.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先算本月节约量，再与上月相加。\\[\\begin{aligned}&3.65+(3.65+1.15)\\\\={}&3.65+4.80\\\\={}&8.45\\text{（吨）}\\end{aligned}\\]答：两个月共节约8.45吨。\\par 方法二：两个月都有相当于上月的一份，本月再多1.15吨，把两份3.65先相加。\\[\\begin{aligned}&3.65+3.65+1.15\\\\={}&7.30+1.15\\\\={}&8.45\\text{（吨）}\\end{aligned}\\]答：两个月共节约8.45吨。",
+          "new": "方法一：先算本月节约量，再与上月相加。\\[\\begin{aligned}&3.65+(3.65+1.15)\\\\={}&3.65+4.80\\\\={}&8.45\\text{(吨)}\\end{aligned}\\]答：两个月共节约8.45吨。\\par 方法二：两个月都有相当于上月的一份，本月再多1.15吨，把两份3.65先相加。\\[\\begin{aligned}&3.65+3.65+1.15\\\\={}&7.30+1.15\\\\={}&8.45\\text{(吨)}\\end{aligned}\\]答：两个月共节约8.45吨。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，本月比上月多，先在上月节水量上加1.15吨求本月，再把两个月相加：\\[\\begin{aligned}&3.65+(3.65+1.15)\\\\={}&3.65+4.80\\\\={}&8.45\\text{（吨）}\\end{aligned}\\]方法二，把本月拆成“与上月同样多的一份”和“多出的1.15吨”。两个月就共有两份上月量，再加一次多出的量：\\[\\begin{aligned}&3.65+3.65+1.15\\\\={}&7.30+1.15\\\\={}&8.45\\text{（吨）}\\end{aligned}\\]答：两个月共节约8.45吨。",
+          "new": "方法一，本月比上月多，先在上月节水量上加1.15吨求本月，再把两个月相加：\\[\\begin{aligned}&3.65+(3.65+1.15)\\\\={}&3.65+4.80\\\\={}&8.45\\text{(吨)}\\end{aligned}\\]方法二，把本月拆成“与上月同样多的一份”和“多出的1.15吨”。两个月就共有两份上月量，再加一次多出的量：\\[\\begin{aligned}&3.65+3.65+1.15\\\\={}&7.30+1.15\\\\={}&8.45\\text{(吨)}\\end{aligned}\\]答：两个月共节约8.45吨。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p059_s07",
+      "book_page": 59,
+      "id": "四、3",
+      "question_file": "questions/p059.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：新一代驻留时长减去神舟飞船的驻留时长。\\[\\begin{aligned}&186.5-92.8\\\\={}&93.7\\text{（天）}\\end{aligned}\\]答：新一代比神舟飞船多93.7天。\\par 方法二：先减100，再把多减的7.2加回。\\[\\begin{aligned}&186.5-92.8\\\\={}&186.5-100+7.2\\\\={}&86.5+7.2\\\\={}&93.7\\text{（天）}\\end{aligned}\\]答：多93.7天。",
+          "new": "方法一：新一代驻留时长减去神舟飞船的驻留时长。\\[\\begin{aligned}&186.5-92.8\\\\={}&93.7\\text{(天)}\\end{aligned}\\]答：新一代比神舟飞船多93.7天。\\par 方法二：先减100，再把多减的7.2加回。\\[\\begin{aligned}&186.5-92.8\\\\={}&186.5-100+7.2\\\\={}&86.5+7.2\\\\={}&93.7\\text{(天)}\\end{aligned}\\]答：多93.7天。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，两个驻留时长相比较，以较长时长减去较短时长，所得差就是多出的天数：\\[\\begin{aligned}&186.5-92.8\\\\={}&93.7\\text{（天）}\\end{aligned}\\]方法二，将92.8凑成100后先减整百数；100比92.8多7.2，因此要把多减的7.2天补回：\\[\\begin{aligned}&186.5-100+7.2\\\\={}&86.5+7.2\\\\={}&93.7\\text{（天）}\\end{aligned}\\]答：新一代空间站单次驻留多93.7天。",
+          "new": "方法一，两个驻留时长相比较，以较长时长减去较短时长，所得差就是多出的天数：\\[\\begin{aligned}&186.5-92.8\\\\={}&93.7\\text{(天)}\\end{aligned}\\]方法二，将92.8凑成100后先减整百数；100比92.8多7.2，因此要把多减的7.2天补回：\\[\\begin{aligned}&186.5-100+7.2\\\\={}&86.5+7.2\\\\={}&93.7\\text{(天)}\\end{aligned}\\]答：新一代空间站单次驻留多93.7天。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p060_s01",
+      "book_page": 60,
+      "id": "四、4",
+      "question_file": "questions/p060.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求原本应找回的钱，再用付款减去正确找零。\\[\\begin{aligned}&100-(26.7-9.3)\\\\={}&100-17.4\\\\={}&82.6\\text{（元）}\\end{aligned}\\]答：围巾82.6元。\\par 方法二：按错误找零算出的价格少了9.3元，要再加上。\\[\\begin{aligned}&100-26.7+9.3\\\\={}&73.3+9.3\\\\={}&82.6\\text{（元）}\\end{aligned}\\]答：围巾82.6元。",
+          "new": "方法一：先求原本应找回的钱，再用付款减去正确找零。\\[\\begin{aligned}&100-(26.7-9.3)\\\\={}&100-17.4\\\\={}&82.6\\text{(元)}\\end{aligned}\\]答：围巾82.6元。\\par 方法二：按错误找零算出的价格少了9.3元，要再加上。\\[\\begin{aligned}&100-26.7+9.3\\\\={}&73.3+9.3\\\\={}&82.6\\text{(元)}\\end{aligned}\\]答：围巾82.6元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，多找的9.3元不属于正确找零，应先从26.7元中扣除，得到应找的钱；再用付款减正确找零求售价：\\[\\begin{aligned}&100-(26.7-9.3)\\\\={}&100-17.4\\\\={}&82.6\\text{（元）}\\end{aligned}\\]方法二，直接用100减错误找零，会使算出的售价少9.3元，因此再加9.3元补回。两种方法都是把多找的钱还原到售价里：\\[\\begin{aligned}&100-26.7+9.3\\\\={}&73.3+9.3\\\\={}&82.6\\text{（元）}\\end{aligned}\\]答：围巾82.6元。",
+          "new": "方法一，多找的9.3元不属于正确找零，应先从26.7元中扣除，得到应找的钱；再用付款减正确找零求售价：\\[\\begin{aligned}&100-(26.7-9.3)\\\\={}&100-17.4\\\\={}&82.6\\text{(元)}\\end{aligned}\\]方法二，直接用100减错误找零，会使算出的售价少9.3元，因此再加9.3元补回。两种方法都是把多找的钱还原到售价里：\\[\\begin{aligned}&100-26.7+9.3\\\\={}&73.3+9.3\\\\={}&82.6\\text{(元)}\\end{aligned}\\]答：围巾82.6元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p060_s02",
+      "book_page": 60,
+      "id": "四、5",
+      "question_file": "questions/p060.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求短画卷，再求两幅总长。\\[\\begin{aligned}&3.6+(3.6-1.35)\\\\={}&3.6+2.25\\\\={}&5.85\\text{（米）}\\end{aligned}\\]答：两幅画卷共长5.85米。\\par 方法二：先按两幅都长3.6米算，再减掉多算的1.35米。\\[\\begin{aligned}&3.6+3.6-1.35\\\\={}&7.2-1.35\\\\={}&5.85\\text{（米）}\\end{aligned}\\]答：共长5.85米。",
+          "new": "方法一：先求短画卷，再求两幅总长。\\[\\begin{aligned}&3.6+(3.6-1.35)\\\\={}&3.6+2.25\\\\={}&5.85\\text{(米)}\\end{aligned}\\]答：两幅画卷共长5.85米。\\par 方法二：先按两幅都长3.6米算，再减掉多算的1.35米。\\[\\begin{aligned}&3.6+3.6-1.35\\\\={}&7.2-1.35\\\\={}&5.85\\text{(米)}\\end{aligned}\\]答：共长5.85米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，短画卷比长画卷少1.35米，先用长卷减相差量，求短卷；再与长卷相加：\\[\\begin{aligned}&3.6+(3.6-1.35)\\\\={}&3.6+2.25\\\\={}&5.85\\text{（米）}\\end{aligned}\\]方法二，假想两幅都长3.6米，相加后只在短卷那一份多算了1.35米，所以减去一次即可：\\[\\begin{aligned}&3.6+3.6-1.35\\\\={}&7.2-1.35\\\\={}&5.85\\text{（米）}\\end{aligned}\\]答：两幅画卷共长5.85米。",
+          "new": "方法一，短画卷比长画卷少1.35米，先用长卷减相差量，求短卷；再与长卷相加：\\[\\begin{aligned}&3.6+(3.6-1.35)\\\\={}&3.6+2.25\\\\={}&5.85\\text{(米)}\\end{aligned}\\]方法二，假想两幅都长3.6米，相加后只在短卷那一份多算了1.35米，所以减去一次即可：\\[\\begin{aligned}&3.6+3.6-1.35\\\\={}&7.2-1.35\\\\={}&5.85\\text{(米)}\\end{aligned}\\]答：两幅画卷共长5.85米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p060_s03",
+      "book_page": 60,
+      "id": "四、6（1）",
+      "question_file": "questions/p060.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：把一箱奶价和一瓶洗衣液价相加。\\[\\begin{aligned}&49.8+26.35\\\\={}&76.15\\text{（元）}\\end{aligned}\\]答：一共需要76.15元。\\par 方法二：把49.8凑成50，多加的0.2再减去。\\[\\begin{aligned}&49.8+26.35\\\\={}&50+26.35-0.2\\\\={}&76.35-0.2\\\\={}&76.15\\text{（元）}\\end{aligned}\\]答：一共需要76.15元。",
+          "new": "方法一：把一箱奶价和一瓶洗衣液价相加。\\[\\begin{aligned}&49.8+26.35\\\\={}&76.15\\text{(元)}\\end{aligned}\\]答：一共需要76.15元。\\par 方法二：把49.8凑成50，多加的0.2再减去。\\[\\begin{aligned}&49.8+26.35\\\\={}&50+26.35-0.2\\\\={}&76.35-0.2\\\\={}&76.15\\text{(元)}\\end{aligned}\\]答：一共需要76.15元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，各买一件，两种商品的总价就是两个单价的和，按相同数位相加：\\[\\begin{aligned}&49.8+26.35\\\\={}&76.15\\text{（元）}\\end{aligned}\\]方法二，49.8离50只差0.2，可先凑整相加，再减去多加的0.2元，保持总价不变：\\[\\begin{aligned}&50+26.35-0.2\\\\={}&76.35-0.2\\\\={}&76.15\\text{（元）}\\end{aligned}\\]答：一共需要76.15元。",
+          "new": "方法一，各买一件，两种商品的总价就是两个单价的和，按相同数位相加：\\[\\begin{aligned}&49.8+26.35\\\\={}&76.15\\text{(元)}\\end{aligned}\\]方法二，49.8离50只差0.2，可先凑整相加，再减去多加的0.2元，保持总价不变：\\[\\begin{aligned}&50+26.35-0.2\\\\={}&76.35-0.2\\\\={}&76.15\\text{(元)}\\end{aligned}\\]答：一共需要76.15元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p060_s04",
+      "book_page": 60,
+      "id": "四、6（2）",
+      "question_file": "questions/p060.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求三种商品总价。\\[\\begin{aligned}&49.8+26.35+13.65\\\\={}&49.8+(26.35+13.65)\\\\={}&49.8+40\\\\={}&89.8\\text{（元）}\\end{aligned}\\]\\(89.8<100\\)，所以钱够。找零：\\[\\begin{aligned}&100-89.8\\\\={}&10.2\\text{（元）}\\end{aligned}\\]答：钱够，还剩10.2元。\\par 方法二：先买奶，再扣去另两种商品的合计价。\\[\\begin{aligned}&100-49.8-(26.35+13.65)\\\\={}&50.2-40\\\\={}&10.2\\text{（元）}\\end{aligned}\\]剩余为正数，说明钱够。答：还剩10.2元。",
+          "new": "方法一：先求三种商品总价。\\[\\begin{aligned}&49.8+26.35+13.65\\\\={}&49.8+(26.35+13.65)\\\\={}&49.8+40\\\\={}&89.8\\text{(元)}\\end{aligned}\\]\\(89.8<100\\)，所以钱够。找零：\\[\\begin{aligned}&100-89.8\\\\={}&10.2\\text{(元)}\\end{aligned}\\]答：钱够，还剩10.2元。\\par 方法二：先买奶，再扣去另两种商品的合计价。\\[\\begin{aligned}&100-49.8-(26.35+13.65)\\\\={}&50.2-40\\\\={}&10.2\\text{(元)}\\end{aligned}\\]剩余为正数，说明钱够。答：还剩10.2元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，三种商品各买一件，先把三项单价相加。洗衣液与纸巾的价格正好凑成40元，先结合计算更方便：\\[\\begin{aligned}&49.8+26.35+13.65\\\\={}&49.8+(26.35+13.65)\\\\={}&49.8+40\\\\={}&89.8\\text{（元）}\\end{aligned}\\]\\(89.8<100\\)，钱够。\\[\\begin{aligned}&100-89.8\\\\={}&10.2\\text{（元）}\\end{aligned}\\]方法二，从100元中先扣奶钱，再一次扣掉另外两种商品的合计价。扣完仍有余款，说明钱够，余款就是所求：\\[\\begin{aligned}&100-49.8-(26.35+13.65)\\\\={}&50.2-40\\\\={}&10.2\\text{（元）}\\end{aligned}\\]答：钱够，还剩10.2元。",
+          "new": "方法一，三种商品各买一件，先把三项单价相加。洗衣液与纸巾的价格正好凑成40元，先结合计算更方便：\\[\\begin{aligned}&49.8+26.35+13.65\\\\={}&49.8+(26.35+13.65)\\\\={}&49.8+40\\\\={}&89.8\\text{(元)}\\end{aligned}\\]\\(89.8<100\\)，钱够。\\[\\begin{aligned}&100-89.8\\\\={}&10.2\\text{(元)}\\end{aligned}\\]方法二，从100元中先扣奶钱，再一次扣掉另外两种商品的合计价。扣完仍有余款，说明钱够，余款就是所求：\\[\\begin{aligned}&100-49.8-(26.35+13.65)\\\\={}&50.2-40\\\\={}&10.2\\text{(元)}\\end{aligned}\\]答：钱够，还剩10.2元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p061_s09",
+      "book_page": 61,
+      "id": "一、7",
+      "question_file": "questions/p061.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "长度单位必须先统一：\\(1\\text{米}=100\\text{厘米}\\)，\\(8\\div100=0.08\\)，所以8厘米合0.08米。8厘米=0.08米；小芳比小明少跳0.08米，\\(1.25-0.08=1.17\\)米。",
+          "new": "先统一长度单位，厘米化米除以100：\\[8\\text{厘米}=(8\\div100)\\text{米}=0.08\\text{米}\\]小芳比小明少跳0.08米，\\(1.25-0.08=1.17\\)米。原空后已有“米”，只填1.17。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "两种长度单位要先统一：8厘米是\\(0.08\\)米，不能写成\\(0.8\\)米。小明比小芳多跳这段长度，求较小的小芳成绩，应从\\(1.25\\)米中减去\\(0.08\\)米。求得后还应小于小明的高度。",
+          "new": "先统一单位，不能把8厘米当0.8米：\\[8\\text{厘米}=(8\\div100)\\text{米}=0.08\\text{米}\\]求较小的小芳成绩，用\\(1.25-0.08=1.17\\)米，结果应小于小明的1.25米。原空只填1.17。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "删除原答案重复两次的同一转换说法，独立换算行保留除法，原空不加单位。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p062_s01",
+      "book_page": 62,
+      "id": "一、11（续）",
+      "question_file": "questions/p062.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "note_latex",
+          "old": "先分清学校与两家的位置关系，不能只画一种情形。学校在两家之间时，两段到校距离首尾相接，两家最远相距，用\\(1.36+0.78\\)求；两家在学校同侧时，两段路程有重合，最近相距，用\\(1.36-0.78\\)求。前页的最远一空与本页的最近一空分别对应求和、求差，填好后最近距离应小于最远距离。\\[\\begin{aligned}1.36+0.78&=2.14\\text{（千米，最远）}\\\\1.36-0.78&=0.58\\text{（千米，最近）}\\end{aligned}\\]",
+          "new": "先分清学校与两家的位置关系，不能只画一种情形。学校在两家之间时，两段到校距离首尾相接，两家最远相距，用\\(1.36+0.78\\)求；两家在学校同侧时，两段路程有重合，最近相距，用\\(1.36-0.78\\)求。前页的最远一空与本页的最近一空分别对应求和、求差，填好后最近距离应小于最远距离。\\[\\begin{aligned}1.36+0.78&=2.14\\text{(千米，最远)}\\\\1.36-0.78&=0.58\\text{(千米，最近)}\\end{aligned}\\]",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p062_s02",
+      "book_page": 62,
+      "id": "一、12",
+      "question_file": "questions/p062.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "前后相差的质量就是半桶油的质量：\\[\\begin{aligned}&46.8-24.5\\\\={}&22.3\\text{（千克）}\\end{aligned}\\]原油质量：\\[\\begin{aligned}&22.3+22.3\\\\={}&44.6\\text{（千克）}\\end{aligned}\\]桶的质量：\\[\\begin{aligned}&46.8-44.6\\\\={}&2.2\\text{（千克）}\\end{aligned}\\]所以两空依次填2.2、44.6。另一思路：两份“半桶油连桶”的质量，比一份“整桶油连桶”的质量多一个桶。\\[\\begin{aligned}&24.5+24.5-46.8\\\\={}&49-46.8\\\\={}&2.2\\text{（千克）}\\end{aligned}\\]再算\\(46.8-2.2=44.6\\)（千克）。",
+          "new": "前后相差的质量就是半桶油的质量：\\[\\begin{aligned}&46.8-24.5\\\\={}&22.3\\text{(千克)}\\end{aligned}\\]原油质量：\\[\\begin{aligned}&22.3+22.3\\\\={}&44.6\\text{(千克)}\\end{aligned}\\]桶的质量：\\[\\begin{aligned}&46.8-44.6\\\\={}&2.2\\text{(千克)}\\end{aligned}\\]所以两空依次填2.2、44.6。另一思路：两份“半桶油连桶”的质量，比一份“整桶油连桶”的质量多一个桶。\\[\\begin{aligned}&24.5+24.5-46.8\\\\={}&49-46.8\\\\={}&2.2\\text{(千克)}\\end{aligned}\\]再算\\(46.8-2.2=44.6\\)(千克)。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，倒油前后桶重不变，连桶质量减少的部分就是倒出的半桶油；把两份半桶油的质量相加得到整桶油，再用原连桶质量减去油重求桶重。\\[\\begin{aligned}&46.8-24.5\\\\={}&22.3\\text{（千克）}\\end{aligned}\\]\\[\\begin{aligned}&22.3+22.3\\\\={}&44.6\\text{（千克）}\\end{aligned}\\]\\[\\begin{aligned}&46.8-44.6\\\\={}&2.2\\text{（千克）}\\end{aligned}\\]方法二，把剩下的“半桶油连桶”算两份，油合起来正好是一整桶，却算进了两个桶；再减去原来的“整桶油连桶”，就只剩一个空桶。\\[\\begin{aligned}&24.5+24.5-46.8\\\\={}&49-46.8\\\\={}&2.2\\text{（千克）}\\end{aligned}\\]\\[\\begin{aligned}&46.8-2.2\\\\={}&44.6\\text{（千克）}\\end{aligned}\\]两空按“桶重、原有油重”的顺序填，不能颠倒。",
+          "new": "方法一，倒油前后桶重不变，连桶质量减少的部分就是倒出的半桶油；把两份半桶油的质量相加得到整桶油，再用原连桶质量减去油重求桶重。\\[\\begin{aligned}&46.8-24.5\\\\={}&22.3\\text{(千克)}\\end{aligned}\\]\\[\\begin{aligned}&22.3+22.3\\\\={}&44.6\\text{(千克)}\\end{aligned}\\]\\[\\begin{aligned}&46.8-44.6\\\\={}&2.2\\text{(千克)}\\end{aligned}\\]方法二，把剩下的“半桶油连桶”算两份，油合起来正好是一整桶，却算进了两个桶；再减去原来的“整桶油连桶”，就只剩一个空桶。\\[\\begin{aligned}&24.5+24.5-46.8\\\\={}&49-46.8\\\\={}&2.2\\text{(千克)}\\end{aligned}\\]\\[\\begin{aligned}&46.8-2.2\\\\={}&44.6\\text{(千克)}\\end{aligned}\\]两空按“桶重、原有油重”的顺序填，不能颠倒。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p063_s06",
+      "book_page": 63,
+      "id": "四、1",
+      "question_file": "questions/p063.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：神舟十七号比十二号用时短19.5小时，求十二号用加法。\\[\\begin{aligned}&9+19.5\\\\={}&28.5\\text{（小时）}\\end{aligned}\\]答：神舟十二号返航大约用了28.5小时。\\par 方法二：把19.5凑成20，再减去多加的0.5。\\[\\begin{aligned}&9+19.5\\\\={}&9+20-0.5\\\\={}&29-0.5\\\\={}&28.5\\text{（小时）}\\end{aligned}\\]答：大约用了28.5小时。",
+          "new": "方法一：神舟十七号比十二号用时短19.5小时，求十二号用加法。\\[\\begin{aligned}&9+19.5\\\\={}&28.5\\text{(小时)}\\end{aligned}\\]答：神舟十二号返航大约用了28.5小时。\\par 方法二：把19.5凑成20，再减去多加的0.5。\\[\\begin{aligned}&9+19.5\\\\={}&9+20-0.5\\\\={}&29-0.5\\\\={}&28.5\\text{(小时)}\\end{aligned}\\]答：大约用了28.5小时。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，“十七号比十二号缩短19.5小时”说明十二号用时更长。以已知的较短时间加缩短量，才能还原较长时间：\\[\\begin{aligned}&9+19.5\\\\={}&28.5\\text{（小时）}\\end{aligned}\\]方法二，先把19.5凑成20与9相加，再减去多加的0.5小时；这是凑整后补偿的计算思路：\\[\\begin{aligned}&9+20-0.5\\\\={}&29-0.5\\\\={}&28.5\\text{（小时）}\\end{aligned}\\]答：神舟十二号返航大约用了28.5小时。",
+          "new": "方法一，“十七号比十二号缩短19.5小时”说明十二号用时更长。以已知的较短时间加缩短量，才能还原较长时间：\\[\\begin{aligned}&9+19.5\\\\={}&28.5\\text{(小时)}\\end{aligned}\\]方法二，先把19.5凑成20与9相加，再减去多加的0.5小时；这是凑整后补偿的计算思路：\\[\\begin{aligned}&9+20-0.5\\\\={}&29-0.5\\\\={}&28.5\\text{(小时)}\\end{aligned}\\]答：神舟十二号返航大约用了28.5小时。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p063_s07",
+      "book_page": 63,
+      "id": "四、2",
+      "question_file": "questions/p063.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "竹竿总长减入泥和露出两段，才是水深。统一成米，利用连减性质先凑0.7：\\[\\begin{aligned}&2-0.16-0.54\\\\={}&2-(0.16+0.54)\\\\={}&2-0.7\\\\={}&1.3\\text{（米）}\\end{aligned}\\]也可统一成厘米：\\[\\begin{aligned}&200-(16+54)\\\\={}&200-70\\\\={}&130\\text{（厘米）}\\end{aligned}\\]\\(130\\text{厘米}=1.3\\text{米}\\)。答：水池的水深是1.3米。",
+          "new": "竹竿总长减入泥和露出两段，才是水深。先统一成米：\\[\\begin{aligned}16\\text{厘米}&=0.16\\text{米}\\\\54\\text{厘米}&=0.54\\text{米}\\end{aligned}\\]利用连减性质先凑0.7：\\[\\begin{aligned}&2-0.16-0.54\\\\={}&2-(0.16+0.54)\\\\={}&2-0.7\\\\={}&1.3\\text{(米)}\\end{aligned}\\]也可统一成厘米：\\[2\\text{米}=200\\text{厘米}\\]\\[\\begin{aligned}&200-(16+54)\\\\={}&200-70\\\\={}&130\\text{(厘米)}\\end{aligned}\\]\\[130\\text{厘米}=1.3\\text{米}\\]答：水池的水深是1.3米。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "竹竿总长由入泥、水中、露出三段组成，水深只对应水中的一段。先统一单位：\\(16\\text{厘米}=0.16\\text{米}\\)，\\(54\\text{厘米}=0.54\\text{米}\\)。用米计算时，按连减性质先合并水深以外两段，0.16与0.54正好凑成0.7：\\[\\begin{aligned}&2-0.16-0.54\\\\={}&2-(0.16+0.54)\\\\={}&2-0.7\\\\={}&1.3\\text{（米）}\\end{aligned}\\]也可统一成厘米，\\(2\\text{米}=200\\text{厘米}\\)，同样先合并两段：\\[\\begin{aligned}&200-(16+54)\\\\={}&200-70\\\\={}&130\\text{（厘米）}\\end{aligned}\\]\\(130\\text{厘米}=1.3\\text{米}\\)。两种单位写法的数量关系相同。答：水池的水深是1.3米。",
+          "new": "竹竿总长由入泥、水中、露出三段组成，水深只对应水中的一段。先统一单位：\\[\\begin{aligned}16\\text{厘米}&=0.16\\text{米}\\\\54\\text{厘米}&=0.54\\text{米}\\end{aligned}\\]用米计算时，按连减性质先合并水深以外两段，0.16与0.54正好凑成0.7：\\[\\begin{aligned}&2-0.16-0.54\\\\={}&2-(0.16+0.54)\\\\={}&2-0.7\\\\={}&1.3\\text{(米)}\\end{aligned}\\]也可统一成厘米：\\[2\\text{米}=200\\text{厘米}\\]同样先合并两段：\\[\\begin{aligned}&200-(16+54)\\\\={}&200-70\\\\={}&130\\text{(厘米)}\\end{aligned}\\]\\[130\\text{厘米}=1.3\\text{米}\\]两种单位写法的数量关系相同。答：水池的水深是1.3米。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "主法初始两段、另法初始总长以及最终答案单位换算均各行列出；两种完整简便脱式保持。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p064_s01",
+      "book_page": 64,
+      "id": "四、3",
+      "question_file": "questions/p064.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求华山海拔，再减去华山比泰山高的部分。\\[\\begin{aligned}&1.3+0.85-0.62\\\\={}&2.15-0.62\\\\={}&1.53\\text{（千米）}\\end{aligned}\\]答：东岳泰山约高1.53千米。\\par 方法二：先求泰山比衡山高多少，再加衡山海拔。\\[\\begin{aligned}&1.3+(0.85-0.62)\\\\={}&1.3+0.23\\\\={}&1.53\\text{（千米）}\\end{aligned}\\]答：约高1.53千米。",
+          "new": "方法一：先求华山海拔，再减去华山比泰山高的部分。\\[\\begin{aligned}&1.3+0.85-0.62\\\\={}&2.15-0.62\\\\={}&1.53\\text{(千米)}\\end{aligned}\\]答：东岳泰山约高1.53千米。\\par 方法二：先求泰山比衡山高多少，再加衡山海拔。\\[\\begin{aligned}&1.3+(0.85-0.62)\\\\={}&1.3+0.23\\\\={}&1.53\\text{(千米)}\\end{aligned}\\]答：约高1.53千米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，华山比衡山高，先用衡山海拔加0.85千米求华山；泰山又比华山低0.62千米，因此接着减：\\[\\begin{aligned}&1.3+0.85-0.62\\\\={}&2.15-0.62\\\\={}&1.53\\text{（千米）}\\end{aligned}\\]方法二，0.85千米中去掉华山高出泰山的0.62千米，余下就是泰山高出衡山的部分，再加衡山海拔：\\[\\begin{aligned}&1.3+(0.85-0.62)\\\\={}&1.3+0.23\\\\={}&1.53\\text{（千米）}\\end{aligned}\\]答：东岳泰山约高1.53千米。",
+          "new": "方法一，华山比衡山高，先用衡山海拔加0.85千米求华山；泰山又比华山低0.62千米，因此接着减：\\[\\begin{aligned}&1.3+0.85-0.62\\\\={}&2.15-0.62\\\\={}&1.53\\text{(千米)}\\end{aligned}\\]方法二，0.85千米中去掉华山高出泰山的0.62千米，余下就是泰山高出衡山的部分，再加衡山海拔：\\[\\begin{aligned}&1.3+(0.85-0.62)\\\\={}&1.3+0.23\\\\={}&1.53\\text{(千米)}\\end{aligned}\\]答：东岳泰山约高1.53千米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p064_s02",
+      "book_page": 64,
+      "id": "四、4",
+      "question_file": "questions/p064.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：两根原长的和减去接后总长，就是重复计算的接头长。\\[\\begin{aligned}&2.35+2.85-4.7\\\\={}&5.20-4.70\\\\={}&0.50\\text{（米）}\\end{aligned}\\]答：接头处长0.5米。\\par 方法二：先从接后总长中扣去第二根，求第一根未重叠部分，再与其原长比较。\\[\\begin{aligned}&2.35-(4.7-2.85)\\\\={}&2.35-1.85\\\\={}&0.50\\text{（米）}\\end{aligned}\\]答：接头处长0.5米。",
+          "new": "方法一：两根原长的和减去接后总长，就是重复计算的接头长。\\[\\begin{aligned}&2.35+2.85-4.7\\\\={}&5.20-4.70\\\\={}&0.50\\text{(米)}\\end{aligned}\\]答：接头处长0.5米。\\par 方法二：先从接后总长中扣去第二根，求第一根未重叠部分，再与其原长比较。\\[\\begin{aligned}&2.35-(4.7-2.85)\\\\={}&2.35-1.85\\\\={}&0.50\\text{(米)}\\end{aligned}\\]答：接头处长0.5米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，两根原绳的长度相加时，重叠接头被计了两次；接好后的实际总长只计一次。两者相减，正好去掉多计的一次接头：\\[\\begin{aligned}&2.35+2.85-4.7\\\\={}&5.20-4.70\\\\={}&0.50\\text{（米）}\\end{aligned}\\]方法二，先从接后总长扣去第二根整段，剩下的是第一根未重叠部分；再从第一根原长中扣去它，得到接头长：\\[\\begin{aligned}&2.35-(4.7-2.85)\\\\={}&2.35-1.85\\\\={}&0.50\\text{（米）}\\end{aligned}\\]答：接头处长0.5米。",
+          "new": "方法一，两根原绳的长度相加时，重叠接头被计了两次；接好后的实际总长只计一次。两者相减，正好去掉多计的一次接头：\\[\\begin{aligned}&2.35+2.85-4.7\\\\={}&5.20-4.70\\\\={}&0.50\\text{(米)}\\end{aligned}\\]方法二，先从接后总长扣去第二根整段，剩下的是第一根未重叠部分；再从第一根原长中扣去它，得到接头长：\\[\\begin{aligned}&2.35-(4.7-2.85)\\\\={}&2.35-1.85\\\\={}&0.50\\text{(米)}\\end{aligned}\\]答：接头处长0.5米。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p064_s03",
+      "book_page": 64,
+      "id": "四、5",
+      "question_file": "questions/p064.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求10月销量，再加9月销量。\\[\\begin{aligned}&1.8+(1.8-0.26)\\\\={}&1.8+1.54\\\\={}&3.34\\text{（万箱）}\\end{aligned}\\]答：两个月共售出3.34万箱。\\par 方法二：按两个月都卖1.8万箱算，再减去10月少卖的0.26万箱。\\[\\begin{aligned}&1.8+1.8-0.26\\\\={}&3.60-0.26\\\\={}&3.34\\text{（万箱）}\\end{aligned}\\]答：共售出3.34万箱。",
+          "new": "方法一：先求10月销量，再加9月销量。\\[\\begin{aligned}&1.8+(1.8-0.26)\\\\={}&1.8+1.54\\\\={}&3.34\\text{(万箱)}\\end{aligned}\\]答：两个月共售出3.34万箱。\\par 方法二：按两个月都卖1.8万箱算，再减去10月少卖的0.26万箱。\\[\\begin{aligned}&1.8+1.8-0.26\\\\={}&3.60-0.26\\\\={}&3.34\\text{(万箱)}\\end{aligned}\\]答：共售出3.34万箱。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，10月比9月少，先用9月销量减0.26万箱求10月销量，再加回9月销量求两月合计：\\[\\begin{aligned}&1.8+(1.8-0.26)\\\\={}&1.8+1.54\\\\={}&3.34\\text{（万箱）}\\end{aligned}\\]方法二，先假设两月各售1.8万箱，两份合计后，只需扣掉10月少售的一次0.26万箱。全过程的单位都是万箱，不要中途漏掉“万”：\\[\\begin{aligned}&1.8+1.8-0.26\\\\={}&3.60-0.26\\\\={}&3.34\\text{（万箱）}\\end{aligned}\\]答：两个月共售出3.34万箱。",
+          "new": "方法一，10月比9月少，先用9月销量减0.26万箱求10月销量，再加回9月销量求两月合计：\\[\\begin{aligned}&1.8+(1.8-0.26)\\\\={}&1.8+1.54\\\\={}&3.34\\text{(万箱)}\\end{aligned}\\]方法二，先假设两月各售1.8万箱，两份合计后，只需扣掉10月少售的一次0.26万箱。全过程的单位都是万箱，不要中途漏掉“万”：\\[\\begin{aligned}&1.8+1.8-0.26\\\\={}&3.60-0.26\\\\={}&3.34\\text{(万箱)}\\end{aligned}\\]答：两个月共售出3.34万箱。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p064_s04",
+      "book_page": 64,
+      "id": "四、6",
+      "question_file": "questions/p064.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "方法一：先求正确找零，再用付款减去正确找零。\\[\\begin{aligned}&50-(38.5-10)\\\\={}&50-28.5\\\\={}&21.5\\text{（元）}\\end{aligned}\\]答：这本书21.5元。\\par 方法二：按错误找零算出的书价少了10元，再加回10元。\\[\\begin{aligned}&50-38.5+10\\\\={}&11.5+10\\\\={}&21.5\\text{（元）}\\end{aligned}\\]答：这本书21.5元。",
+          "new": "方法一：先求正确找零，再用付款减去正确找零。\\[\\begin{aligned}&50-(38.5-10)\\\\={}&50-28.5\\\\={}&21.5\\text{(元)}\\end{aligned}\\]答：这本书21.5元。\\par 方法二：按错误找零算出的书价少了10元，再加回10元。\\[\\begin{aligned}&50-38.5+10\\\\={}&11.5+10\\\\={}&21.5\\text{(元)}\\end{aligned}\\]答：这本书21.5元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        },
+        {
+          "field": "note_latex",
+          "old": "方法一，38.5元里含有多找的10元，先扣除多找部分，才是正确找零；付款减去正确找零就是书价：\\[\\begin{aligned}&50-(38.5-10)\\\\={}&50-28.5\\\\={}&21.5\\text{（元）}\\end{aligned}\\]方法二，付款减错误找零，会把书价少算10元，须再加回10元。多找使售价被低估，所以补偿应使用加法：\\[\\begin{aligned}&50-38.5+10\\\\={}&11.5+10\\\\={}&21.5\\text{（元）}\\end{aligned}\\]答：这本书21.5元。",
+          "new": "方法一，38.5元里含有多找的10元，先扣除多找部分，才是正确找零；付款减去正确找零就是书价：\\[\\begin{aligned}&50-(38.5-10)\\\\={}&50-28.5\\\\={}&21.5\\text{(元)}\\end{aligned}\\]方法二，付款减错误找零，会把书价少算10元，须再加回10元。多找使售价被低估，所以补偿应使用加法：\\[\\begin{aligned}&50-38.5+10\\\\={}&11.5+10\\\\={}&21.5\\text{(元)}\\end{aligned}\\]答：这本书21.5元。",
+          "conversion_layout_changed": false,
+          "ascii_result_units_changed": true
+        }
+      ],
+      "reason": "仅把解答数值结果后已有的单位括号改为英文ASCII；数学分组、方法说明、题干和表格已知项不改。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    },
+    {
+      "key": "p070_s02",
+      "book_page": 70,
+      "id": "一、7",
+      "question_file": "questions/p070.json",
+      "note_file": "detailed_layout/notes_C.json",
+      "fields": [
+        {
+          "field": "answer_latex",
+          "old": "比较同一顶点B与B′在直尺上的位置，向下移动了2厘米，\\(2\\text{厘米}=20\\text{毫米}\\)。填20。不能用A与B′两个不对应的顶点比较。",
+          "new": "比较同一顶点B与B′在直尺上的位置，向下移动2厘米。题目要求毫米，另行换算：\\[2\\text{厘米}=(2\\times10)\\text{毫米}=20\\text{毫米}\\]原空后已有毫米，只填20。不能拿A与B′两个不对应的顶点比较。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        },
+        {
+          "field": "note_latex",
+          "old": "比较的是同一顶点B与平移后的B′，读出两位置相差2厘米，不能把B′与另一个顶点比较。题目要求毫米，按1厘米等于10毫米，把2厘米换成20毫米。平移距离是对应点之间的距离，并不是两幅图之间的空隙宽度。",
+          "new": "比较同一顶点B与B′，相差2厘米。厘米化毫米乘10：\\[2\\text{厘米}=(2\\times10)\\text{毫米}=20\\text{毫米}\\]平移距离是对应点之间的距离，不是两幅图之间的空隙；原空只填20。",
+          "conversion_layout_changed": true,
+          "ascii_result_units_changed": false
+        }
+      ],
+      "reason": "测量与换算分开，原空不重复填毫米。",
+      "question_text_changed": false,
+      "math_result_changed": false
+    }
+  ],
+  "conversion_inventory": [
+    {
+      "key": "p049_s03",
+      "kind": "万/亿准确改写",
+      "quantities": [
+        [
+          "168000",
+          "16.8万"
+        ],
+        [
+          "995000000",
+          "9.95亿"
+        ]
+      ],
+      "note": "原裸数除法结果与随后单位改写合成各自独立的一行，保留除法过程与≈。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p049_s04",
+      "kind": "长度/质量/面积复名数",
+      "quantities": [
+        [
+          "3分米",
+          "0.3米"
+        ],
+        [
+          "0.06吨",
+          "60千克"
+        ],
+        [
+          "5.06吨",
+          "5吨60千克"
+        ],
+        [
+          "32克",
+          "0.032千克"
+        ],
+        [
+          "3平方分米",
+          "0.03平方米"
+        ],
+        [
+          "5平方米3平方分米",
+          "5.03平方米"
+        ]
+      ],
+      "note": "把散在解释中的除法、乘法和合并数保留在各自的带单位换算行；不重复四个基本进率等式。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p049_s07",
+      "kind": "质量/长度比较前换算",
+      "quantities": [
+        [
+          "50克",
+          "0.05千克"
+        ],
+        [
+          "9千克50克",
+          "9.05千克"
+        ],
+        [
+          "0.57米",
+          "57厘米"
+        ]
+      ],
+      "note": "结果括号内仅填比较符号，换算各自另行，不把单位添入原圈。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p052_s01",
+      "kind": "kg/g首尾换算",
+      "quantities": [
+        [
+          "10千克",
+          "10000克"
+        ],
+        [
+          "1千克",
+          "1000克"
+        ],
+        [
+          "8150克",
+          "8.15千克"
+        ]
+      ],
+      "note": "结束8150克的数值脱式后，另列8150克=8.15千克；禁止把换单位当作裸等号的下一步。两方法共用最终换算；第二法中隐含的每1千克换成1000克也单列。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p052_s02",
+      "kind": "厘米/米票价身高",
+      "quantities": [
+        [
+          "135厘米",
+          "1.35米"
+        ],
+        [
+          "119厘米",
+          "1.19米"
+        ],
+        [
+          "158厘米",
+          "1.58米"
+        ]
+      ],
+      "note": "三个身高各占一行，不混写到票价计算内。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p052_s03",
+      "kind": "平方厘米/平方米",
+      "quantities": [
+        [
+          "1平方米",
+          "10000平方厘米"
+        ],
+        [
+          "108000平方厘米",
+          "10.8平方米"
+        ]
+      ],
+      "note": "保留108000÷10000过程，但它放在带完整单位的独立换算块内，不作为108000(平方厘米)下一行的裸等号。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p053_s08",
+      "kind": "开放填单位题",
+      "quantities": [
+        [
+          "45厘米",
+          "0.45米"
+        ],
+        [
+          "3540克",
+          "3.540千克"
+        ],
+        [
+          "45分",
+          "0.45元"
+        ],
+        [
+          "45平方厘米",
+          "0.45平方分米"
+        ],
+        [
+          "45平方分米",
+          "0.45平方米"
+        ],
+        [
+          "45公顷",
+          "0.45平方千米"
+        ],
+        [
+          "3540毫米",
+          "3.540米"
+        ],
+        [
+          "3540米",
+          "3.540千米"
+        ],
+        [
+          "3540千克",
+          "3.540吨"
+        ]
+      ],
+      "note": "只展开原答案/原旁注已经列出的单位组合，没有新增单位种类。分为货币的分。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p053_s09",
+      "kind": "吨/千克首尾换算",
+      "quantities": [
+        [
+          "1吨",
+          "1000千克"
+        ],
+        [
+          "450千克",
+          "0.45吨"
+        ]
+      ],
+      "note": "结束450(千克)脱式后另写450千克=0.45吨；原空后已有千克、吨，只填450与0.45。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p054_s02",
+      "kind": "米/分米数位意义",
+      "quantities": [
+        [
+          "0.9米",
+          "9分米"
+        ]
+      ],
+      "note": "实际量的米转分米另占一行；0.9×10=9计算保留并写清两边单位。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p054_s06",
+      "kind": "厘米/米复名数相加",
+      "quantities": [
+        [
+          "6厘米",
+          "0.06米"
+        ],
+        [
+          "8米6厘米",
+          "8.06米"
+        ],
+        [
+          "560厘米",
+          "5.6米"
+        ]
+      ],
+      "note": "分清小单位换算与再合并整数米数，除以100及8+0.06步骤均保留。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p055_s02",
+      "kind": "万/亿准确改写",
+      "quantities": [
+        [
+          "327900",
+          "32.79万"
+        ],
+        [
+          "25499270000",
+          "254.9927亿"
+        ]
+      ],
+      "note": "answer_latex原有改写与≈已分行、无单位括号，可保持；旁注原只讲规则，补该题两个准确改写独立行。",
+      "fields_requiring_standalone_conversion": [
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p055_s05",
+      "kind": "克/千克比较",
+      "quantities": [
+        [
+          "3240克",
+          "3.24千克"
+        ]
+      ],
+      "note": "换算与比较步骤分开；原数字框只填3。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p055_s06",
+      "kind": "吨/千克比较",
+      "quantities": [
+        [
+          "6.25吨",
+          "6250千克"
+        ]
+      ],
+      "note": "乘1000的换算另行，原框只填2。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p055_s07",
+      "kind": "厘米/米比较",
+      "quantities": [
+        [
+          "15厘米",
+          "0.15米"
+        ]
+      ],
+      "note": "换算另行，不把比较框答案附带单位。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p056_s01",
+      "kind": "吨/千克与万件改写",
+      "quantities": [
+        [
+          "3.75吨",
+          "3750千克"
+        ],
+        [
+          "1万件",
+          "10000件"
+        ]
+      ],
+      "note": "吨化千克另行；1万件改写成10000件后再乘每件质量，保持原方法与数值。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p058_s03",
+      "kind": "复名数钱币换算",
+      "quantities": [
+        [
+          "5元3角",
+          "5.30元"
+        ],
+        [
+          "8角7分",
+          "0.87元"
+        ]
+      ],
+      "note": "两个金额各自独立一行，随后才做相加；不改题中A选项。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p061_s09",
+      "kind": "厘米/米跳高差",
+      "quantities": [
+        [
+          "8厘米",
+          "0.08米"
+        ]
+      ],
+      "note": "删除原答案重复两次的同一转换说法，独立换算行保留除法，原空不加单位。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p063_s07",
+      "kind": "厘米/米两种解法",
+      "quantities": [
+        [
+          "16厘米",
+          "0.16米"
+        ],
+        [
+          "54厘米",
+          "0.54米"
+        ],
+        [
+          "2米",
+          "200厘米"
+        ],
+        [
+          "130厘米",
+          "1.3米"
+        ]
+      ],
+      "note": "主法初始两段、另法初始总长以及最终答案单位换算均各行列出；两种完整简便脱式保持。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    },
+    {
+      "key": "p070_s02",
+      "kind": "厘米/毫米平移测量",
+      "quantities": [
+        [
+          "2厘米",
+          "20毫米"
+        ]
+      ],
+      "note": "测量与换算分开，原空不重复填毫米。",
+      "fields_requiring_standalone_conversion": [
+        "answer_latex",
+        "note_latex"
+      ]
+    }
+  ],
+  "classification_by_record": [
+    {
+      "key": "p037_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p037_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p037_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p037_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p037_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p037_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p037_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p037_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p038_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s11",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s12",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s13",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p038_s14",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p039_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p039_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p039_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p039_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p039_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": true
+    },
+    {
+      "key": "p040_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p040_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p040_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p041_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p041_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p041_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p041_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p041_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p041_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p041_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p041_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p041_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p042_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p042_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s11",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p042_s12",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p043_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p043_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p043_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": true
+    },
+    {
+      "key": "p043_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p044_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": true
+    },
+    {
+      "key": "p044_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": true
+    },
+    {
+      "key": "p044_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p044_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": true
+    },
+    {
+      "key": "p045_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p045_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p045_s03",
+      "classification": "clock_angle_or_grid_scale_calculation_not_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p045_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p045_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p045_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p045_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p045_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p045_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p045_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p046_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p046_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p046_s11",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p047_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p047_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p047_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p047_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p048_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p048_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p048_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p048_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p049_s01",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p049_s02",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p049_s03",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p049_s04",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p049_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p049_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p049_s07",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p050_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p050_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p050_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p050_s04",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p050_s05",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p050_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p050_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p050_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p051_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p051_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p051_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p051_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p051_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p051_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p052_s01",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p052_s02",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p052_s03",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p052_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p053_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p053_s02",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p053_s03",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p053_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p053_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p053_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p053_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p053_s08",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p053_s09",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p054_s01",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p054_s02",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p054_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p054_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p054_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p054_s06",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p054_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s02",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p055_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s05",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p055_s06",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p055_s07",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p055_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s11",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s12",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p055_s13",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p056_s01",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p056_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p056_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p056_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p056_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s04",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s11",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s12",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s13",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s14",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s15",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p057_s16",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p058_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p058_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p058_s03",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p058_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p058_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p058_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p058_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p058_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p058_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p059_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p059_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p059_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p059_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p059_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p059_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p059_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p060_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p060_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p060_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p060_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p061_s01",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s02",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s09",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p061_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s11",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s12",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s13",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p061_s14",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p062_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p062_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p062_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p062_s04",
+      "classification": "counting_unit_or_decimal_place_value_not_physical_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p062_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p062_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p062_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p062_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p062_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p063_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p063_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p063_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p063_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p063_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p063_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p063_s07",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p064_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p064_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p064_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p064_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p065_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p065_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p065_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p065_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p065_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p066_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p066_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p066_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p066_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p066_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p066_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p066_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p066_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s02",
+      "classification": "clock_angle_or_grid_scale_calculation_not_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p067_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p068_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p068_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p068_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p068_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p068_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p068_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p069_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p069_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p069_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p069_s04",
+      "classification": "clock_angle_or_grid_scale_calculation_not_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p069_s05",
+      "classification": "clock_angle_or_grid_scale_calculation_not_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s01",
+      "classification": "clock_angle_or_grid_scale_calculation_not_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s02",
+      "classification": "actual_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": true
+    },
+    {
+      "key": "p070_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 1,
+      "proposal": false
+    },
+    {
+      "key": "p070_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s08",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s09",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s10",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s11",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s12",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p070_s13",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p071_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p071_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p071_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p071_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p071_s05",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p071_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p071_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p072_s01",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p072_s02",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p072_s03",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p072_s04",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p072_s05",
+      "classification": "clock_angle_or_grid_scale_calculation_not_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p072_s06",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    },
+    {
+      "key": "p072_s07",
+      "classification": "ordinary_arithmetic_or_geometry_no_unit_conversion",
+      "answer_and_note_read": true,
+      "local_count": 0,
+      "proposal": false
+    }
+  ],
+  "format_rules_applied": {
+    "conversion_lines": "separate display equation or own aligned row, both quantities carry their units; no parentheses enclosing units",
+    "calculation_result_units": "existing result-unit parentheses become ASCII ()",
+    "mathematical_grouping": "parentheses in coefficient calculations such as(8÷100) are mathematical grouping, not unit parentheses, and remain",
+    "blank_after_known_unit": "fill original blanks only with requested numerals/symbols; fill-unit task p053_s08 fills only units",
+    "question_and_known_table_labels": "untouched"
+  },
+  "ambiguous_cases": [
+    {
+      "keys": [
+        "p049_s01",
+        "p049_s02",
+        "p050_s04",
+        "p050_s05",
+        "p053_s02",
+        "p053_s03",
+        "p054_s01",
+        "p057_s04",
+        "p057_s11",
+        "p061_s01",
+        "p061_s02",
+        "p062_s04"
+      ],
+      "decision": "These discuss decimal counting units / grid subdivisions, not changing physical units; no new unit conversion lines invented solely for counting-unit re-expression."
+    },
+    {
+      "keys": [
+        "p045_s03",
+        "p067_s02",
+        "p069_s04",
+        "p069_s05",
+        "p070_s01",
+        "p072_s05"
+      ],
+      "decision": "Clock/grid/angle ratios count intervals or cells rather than convert the same quantity between measurement units; do not introduce invented equalities such as12米=6格. Existing numerical steps unchanged."
+    },
+    {
+      "key": "p048_s01",
+      "decision": "200克西瓜与124毫克维生素是不同物质/含义，不是同一质量的换算，保留原分析，不写200克=...毫克混入乘法。"
+    },
+    {
+      "key": "p044_s04",
+      "decision": "按每25千克挽救1棵树求棵数是数量关系计算，不是把质量单位换成棵；仅ASCII结果括号。"
+    },
+    {
+      "key": "p064_s03",
+      "decision": "始终以万箱作同一单位，无万箱转箱，因此不新增单位换算；仅结果单位括号ASCII。"
+    }
+  ],
+  "verification": {
+    "actual_conversion_questions": 19,
+    "changed_questions": 62,
+    "changed_fields": 113,
+    "ascii_result_parentheses_replacements": 158,
+    "no_original_question_or_option_or_known_table_edit": true,
+    "no_method_added": true,
+    "no_numeric_answer_changed": true
+  }
+}

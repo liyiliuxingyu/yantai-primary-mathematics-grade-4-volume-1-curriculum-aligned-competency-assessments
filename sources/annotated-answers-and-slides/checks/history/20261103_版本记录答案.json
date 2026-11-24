@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-03",
+  "previous_pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "current_pdf_sha256": "0c2b58508dc03f5724055d47df357044426fb7196d506894728c93258b04fe44",
+  "changed_question_keys": [
+    "p065_s05",
+    "p070_s06",
+    "p070_s11",
+    "p085_s11"
+  ],
+  "changed_book_pages": [
+    65,
+    70,
+    85
+  ],
+  "unchanged_pdf_pages": 125,
+  "correction": "原书70页二4由√订正为×；对角线是线段，对称轴是直线，规范表述为对角线所在的直线。原书参考答案本来也是×。",
+  "ppt_changes": {
+    "4": [
+      374,
+      375
+    ],
+    "5": [
+      293
+    ]
+  },
+  "current_evidence": "axis_update/qa_current.json"
+}

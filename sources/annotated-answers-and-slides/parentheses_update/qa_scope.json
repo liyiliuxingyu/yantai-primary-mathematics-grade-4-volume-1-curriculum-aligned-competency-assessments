@@ -1,0 +1,70 @@
+{
+  "passed": true,
+  "pdf_sha256": "6753f42510d3bfbcd3a63776cc9a78eaa43f258b1dc79861b36fd33c62510c00",
+  "pages": 128,
+  "changed_book_pages": [
+    75
+  ],
+  "changed_question_keys": [
+    "p075_s03"
+  ],
+  "unchanged_pdf_pages": 127,
+  "other_questions_on_changed_page_pixels_identical": true,
+  "changed_rectangles": [
+    [
+      225.4,
+      487.4,
+      322.4,
+      552.7333333333333
+    ],
+    [
+      225.4,
+      487.4,
+      331.06666666666666,
+      552.7333333333333
+    ],
+    [
+      78.0,
+      557.0,
+      579.3333333333333,
+      595.7700004577637
+    ],
+    [
+      78.0,
+      557.0,
+      582.0,
+      581.8199996948242
+    ]
+  ],
+  "comparison": [
+    {
+      "pdf_page": 79,
+      "changed_pixels": 11074,
+      "pixels_changed_outside_formula_and_note": 0
+    }
+  ],
+  "render_scale": 1,
+  "page_dimensions_unchanged": true,
+  "first_page_blank": true,
+  "separate_analysis_pages": 0,
+  "source_changed_question_keys": [
+    "p075_s03"
+  ],
+  "source_changed_note_keys": [
+    "p075_s03"
+  ],
+  "changed_compiled_bodies": [
+    "p075_s03",
+    "p075_s03_local1"
+  ],
+  "compiled_snippets": 929,
+  "local_patches": 73,
+  "arithmetic_rows_exact": [
+    "72",
+    "72",
+    "72",
+    "72",
+    "72"
+  ],
+  "visual_review": "Actual view_image of p075_after.png confirms parentheses, equals alignment, clear spacing and intact neighboring questions. This does not claim a new full mathematics audit."
+}

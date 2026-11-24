@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "records": 867,
+  "approved_keys": [
+    "p078_s04"
+  ],
+  "changed_question_keys": [
+    "p078_s04"
+  ],
+  "changed_note_keys": [
+    "p078_s04"
+  ],
+  "unchanged_records": 866,
+  "all_original_question_wording_and_all_slots_preserved": true,
+  "original_D_option_untouched": true,
+  "answer_B_by_instructional_intent_without_assigning_specific_ages": true,
+  "previous_5_black_repairs_and_assets_unchanged": true
+}

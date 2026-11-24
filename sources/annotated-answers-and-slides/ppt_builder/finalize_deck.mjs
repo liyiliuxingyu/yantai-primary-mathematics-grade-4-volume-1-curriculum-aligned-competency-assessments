@@ -1,0 +1,15 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {execFileSync} from 'node:child_process';
+import {randomUUID} from 'node:crypto';
+import {pathToFileURL} from 'node:url';
+const args={};for(let i=2;i<process.argv.length;i+=2)args[process.argv[i].slice(2)]=process.argv[i+1];
+for(const k of ['candidate','final','receipt'])if(!args[k])throw Error('--'+k+' required');
+const skill='/root/.codex/skills/builtins/presentations';
+const {finalizePresentation}=await import(pathToFileURL(path.join(skill,'container_tools/artifact_tool_utils.mjs')).href);
+await fs.mkdir(path.dirname(args.final),{recursive:true});await fs.mkdir(path.dirname(args.receipt),{recursive:true});
+const corrected=path.join(path.dirname(args.candidate),`candidate.page_corrected.${randomUUID()}.pptx`);
+const stored=args.stored==='true'||await fs.access(path.join(path.dirname(args.candidate),'store_package.flag')).then(()=>true).catch(()=>false);
+execFileSync(process.env.CODEX_PRIMARY_RUNTIME_PYTHON,[path.join(path.dirname(new URL(import.meta.url).pathname),'correct_page_metadata.py'),'--input',args.candidate,'--output',corrected,...(stored?['--store-package']:[])],{stdio:'inherit'});
+const r=await finalizePresentation({workspaceDir:'/workspace/scratch/1facfb035d44/suyang_work',candidatePath:corrected,finalPath:args.final,pythonExecutable:process.env.CODEX_PRIMARY_RUNTIME_PYTHON,integrityValidatorPath:path.join(skill,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(skill,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-bullet-geometry','--validate-heading-fit'],requiredNativeTableOwnerSlides:[],fontPolicy:{basis:'design',families:['Droid Sans Fallback','Cambria Math']},verifyArtifactToolImport:true,receiptPath:args.receipt});
+console.log(JSON.stringify(r));

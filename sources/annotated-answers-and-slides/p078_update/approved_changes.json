@@ -1,0 +1,411 @@
+{
+  "task": "按第78页清晰原卷更正",
+  "date": "2026-11-06",
+  "book_page": 78,
+  "pdf_page": 82,
+  "changes": [
+    {
+      "key": "p078_s01",
+      "book_page": 78,
+      "id": "二、1",
+      "answer_pdf_page": 82,
+      "old_record": {
+        "key": "p078_s01",
+        "book_page": 78,
+        "source_page": 82,
+        "section_index": 0,
+        "id": "二、1",
+        "kind": "choice",
+        "question_latex": "周末，三个小朋友相约去玩“海盗船”，他们3人的平均身高是138cm，他们可能有（    ）人能玩“海盗船”。提示牌：“146cm以下儿童禁止乘坐！”A.0；B.0或1；C.0或1或2；D.1。",
+        "options": [],
+        "tables": [],
+        "diagrams": [
+          {
+            "name": "p078_pirate_ship",
+            "tikz": "\\begin{tikzpicture}[scale=.8]\\draw(-1.6,-.3)--(-1,0.4)--(1,.4)--(1.6,-.3)..controls(.5,-1)and(-.5,-1)..cycle;\\draw(-1.2,-1.1)--(0,2.2)--(1.2,-1.1);\\draw(-.8,.4)--(0,2.2)--(.8,.4);\\draw(-1.5,-1.1)--(1.5,-1.1);\\node[draw,rounded corners,align=center]at(3.4,1.3){146 cm以下儿童\\\\禁止乘坐！};\\end{tikzpicture}",
+            "role": "question",
+            "notes": "非定量海盗船照片重画为线条情境示意，完整保留身高限制提示牌；不增添年龄、人数或机械尺寸。"
+          }
+        ],
+        "answer_latex": "选C。三人总身高\\(138\\times3=414\\)厘米。若三人都超过\\(146\\)厘米，总和就超过\\(146\\times3=438\\)厘米，不可能。因此能乘坐的可能有\\(0,1,2\\)人。\\par 例如三人身高为\\((138,138,138)\\)厘米时，\\(0\\)人能坐；\\par 为\\((150,132,132)\\)厘米时，\\(1\\)人能坐；\\par 为\\((150,150,114)\\)厘米时，\\(2\\)人能坐。\\par 三组例子的平均数都是\\(138\\)厘米，说明平均数不能决定每人的身高。",
+        "verification": {
+          "status": "verified",
+          "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+          "changes": [],
+          "uncertainties": [],
+          "left_patch": null
+        },
+        "source_region": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 595,
+          "y1": 841
+        },
+        "illustration_description": "海盗船情境图，判定所需条件均为提示牌146cm以下儿童禁止乘坐及三人平均身高138cm。"
+      },
+      "new_record": {
+        "key": "p078_s01",
+        "book_page": 78,
+        "source_page": 82,
+        "section_index": 0,
+        "id": "二、1",
+        "kind": "choice",
+        "question_latex": "周末，三个小朋友相约去玩“海盗船”，他们3人的平均身高是136cm。他们可能有（    ）人能玩“海盗船”。提示牌：“140cm以下儿童禁止乘坐！”A.0；B.0或1；C.0或1或2；D.1。",
+        "options": [],
+        "tables": [],
+        "diagrams": [
+          {
+            "name": "p078_pirate_ship",
+            "tikz": "\\begin{tikzpicture}[scale=.8]\\draw(-1.6,-.3)--(-1,0.4)--(1,.4)--(1.6,-.3)..controls(.5,-1)and(-.5,-1)..cycle;\\draw(-1.2,-1.1)--(0,2.2)--(1.2,-1.1);\\draw(-.8,.4)--(0,2.2)--(.8,.4);\\draw(-1.5,-1.1)--(1.5,-1.1);\\node[draw,rounded corners,align=center]at(3.4,1.3){140 cm以下儿童\\\\禁止乘坐！};\\end{tikzpicture}",
+            "role": "question",
+            "notes": "非定量海盗船照片重画为线条情境示意，完整保留身高限制提示牌；不增添年龄、人数或机械尺寸。"
+          }
+        ],
+        "answer_latex": "选C。三人总身高\\(136\\times3=408\\)厘米。若3人都能乘坐，即使只按每人140厘米计，总身高也至少要\\(140\\times3=420\\)厘米；\\(408<420\\)，所以不能3人全能乘坐。\\par 身高为\\((136,136,136)\\)厘米时0人能坐；为\\((146,131,131)\\)厘米时1人能坐；为\\((146,146,116)\\)厘米时2人能坐。三组总身高都为408厘米，平均身高都为136厘米，故0、1、2人均可能。",
+        "verification": {
+          "status": "verified",
+          "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+          "changes": [
+            "按用户2026-11-06提供的清晰原卷逐字、逐图核实后更正；来源见p078_update/approved_changes.json。"
+          ],
+          "uncertainties": [],
+          "left_patch": null,
+          "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+        },
+        "source_region": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 595,
+          "y1": 841
+        },
+        "illustration_description": "海盗船情境图，判定所需条件均为提示牌140cm以下儿童禁止乘坐及三人平均身高136cm。"
+      },
+      "answer_latex": "选C。三人总身高\\(136\\times3=408\\)厘米。若3人都能乘坐，即使只按每人140厘米计，总身高也至少要\\(140\\times3=420\\)厘米；\\(408<420\\)，所以不能3人全能乘坐。\\par 身高为\\((136,136,136)\\)厘米时0人能坐；为\\((146,131,131)\\)厘米时1人能坐；为\\((146,146,116)\\)厘米时2人能坐。三组总身高都为408厘米，平均身高都为136厘米，故0、1、2人均可能。",
+      "old_note_latex": "三人总身高由\\(138\\times3\\)确定为414厘米；若三人全能乘坐，即使只按每人146厘米计算，也至少需\\(146\\times3=438\\)厘米，与总和矛盾，所以3人全能乘坐不可能。但平均数不能确定每人身高，可能0人、1人或2人达到要求。例如\\((138,138,138)\\)、\\((150,132,132)\\)、\\((150,150,114)\\)三组总和都为414厘米，分别实现这三种人数。",
+      "final_note_latex": "三人总身高为\\(136\\times3=408\\)厘米；若3人全能乘坐，即使每人只按140厘米计，也至少需\\(140\\times3=420\\)厘米。\\(408<420\\)，故3人全能坐不可能。\\((136,136,136)\\)、\\((146,131,131)\\)、\\((146,146,116)\\)三组身高总和均为408厘米，分别实现0、1、2人能坐。",
+      "new_local_replacements": [
+        {
+          "rect": [
+            446.75,
+            76.25,
+            466.75,
+            87.25
+          ],
+          "target_rect": [
+            447.5,
+            77,
+            466,
+            86.5
+          ],
+          "latex": "{\\color{black}\\(\\mathrm{136}\\)}",
+          "font_size": 12,
+          "snippet_width": 80,
+          "fit_to_rect": true,
+          "clear_to_white": true,
+          "kind": "black_source_photo_correction",
+          "original_prompt_replaced": true,
+          "reason": "依据原书第78页清晰照片，将mean_height原黑数字138订正为136；只替换该数字字框，不改相邻中文、cm、括号及船图。"
+        },
+        {
+          "rect": [
+            234.25,
+            133.25,
+            251.75,
+            142.75
+          ],
+          "target_rect": [
+            235,
+            134,
+            251,
+            142
+          ],
+          "latex": "{\\color{black}\\(\\mathrm{140}\\)}",
+          "font_size": 12,
+          "snippet_width": 80,
+          "fit_to_rect": true,
+          "clear_to_white": true,
+          "kind": "black_source_photo_correction",
+          "original_prompt_replaced": true,
+          "reason": "依据原书第78页清晰照片，将ride_threshold原黑数字146订正为140；只替换该数字字框，不改相邻中文、cm、括号及船图。"
+        },
+        {
+          "rect": [
+            342.25,
+            49.75,
+            467.25,
+            63.75
+          ],
+          "target_rect": [
+            343,
+            50.5,
+            466.5,
+            63
+          ],
+          "latex": "{\\color{black}（每题2分，共12分）}",
+          "font_size": 12,
+          "snippet_width": 200,
+          "fit_to_rect": true,
+          "clear_to_white": true,
+          "kind": "black_section_heading_photo_correction",
+          "original_prompt_replaced": true,
+          "reason": "根据清晰原照将受损的整段选择题括注恢复为“（每题2分，共12分）”；整体在原黑括注框内绘制，不碰前句号或主标题，不移其他题文。"
+        }
+      ]
+    },
+    {
+      "key": "p078_s05",
+      "book_page": 78,
+      "id": "二、5",
+      "answer_pdf_page": 82,
+      "old_record": {
+        "key": "p078_s05",
+        "book_page": 78,
+        "source_page": 82,
+        "section_index": 4,
+        "id": "二、5",
+        "kind": "choice",
+        "question_latex": "气温学上通常用一天中2时、8时、14时、20时4个时刻的气温的平均数作为一天的平均气温。右侧是某地区某四天中4个时刻的气温情况图，日平均气温大约是\\(22^\\circ\\mathrm C\\)的是（    ）。A.第一天；B.第二天；C.第三天；D.第四天。",
+        "options": [],
+        "tables": [],
+        "diagrams": [
+          {
+            "name": "p078_temperatures",
+            "tikz": "\\begin{tikzpicture}[x=.55cm,y=.6cm]\\foreach \\y/\\lab in {0/第四天,1/第三天,2/第二天,3/第一天}{\\draw(-3,\\y)--(3,\\y);\\node[left]at(-3,\\y+.45){\\lab};}\\draw(-3,0)--(-3,4);\\draw[dashed](0,-.3)--(0,4.4)node[above]{$22^\\circ\\mathrm C$};\\foreach \\x/\\y in {.5/3.8,1/3.6,.7/3.4,1.3/3.2,-.7/2.8,.2/2.6,-.2/2.4,.7/2.2,-1.5/1.8,-1/1.6,-1.2/1.4,-1.7/1.2,-2/.8,-.8/.6,.5/.4,-.3/.2}{\\fill(\\x,\\y)rectangle++(.12,.12);}\\end{tikzpicture}",
+            "role": "question",
+            "notes": "原图未给具体温度，仅保留四天各四个点相对22℃虚线的分布；绘图坐标不是新增测量数据。"
+          }
+        ],
+        "answer_latex": "选B。观察第二天四个气温点相对\\(22\\)摄氏度虚线的位置，高于与低于该值的偏差大致抵消，所以平均约为\\(22\\)摄氏度。第一天整体偏高，第三天整体偏低，第四天偏低较多。",
+        "verification": {
+          "status": "verified",
+          "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+          "changes": [],
+          "uncertainties": [],
+          "left_patch": null
+        },
+        "source_region": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 595,
+          "y1": 841
+        },
+        "illustration_description": ""
+      },
+      "new_record": {
+        "key": "p078_s05",
+        "book_page": 78,
+        "source_page": 82,
+        "section_index": 4,
+        "id": "二、5",
+        "kind": "choice",
+        "question_latex": "气温学上通常用一天中2时、8时、14时、20时4个时刻的气温的平均数作为一天的平均气温。右侧是某地区某四天中4个时刻的气温情况图，日平均气温大约是\\(22^\\circ\\mathrm C\\)的是（    ）。A.第一天；B.第二天；C.第三天；D.第四天。",
+        "options": [],
+        "tables": [],
+        "diagrams": [
+          {
+            "name": "p078_temperatures",
+            "tikz": "\\begin{tikzpicture}[x=.495cm,y=.60cm,font=\\fontsize{10.5}{12.5}\\selectfont,line width=.45pt]\n  \\foreach \\y in {0,1,2,3,4}{\\draw (-5,\\y)--(2,\\y);}\n  \\draw (-5,-.12)--(-5,4.16);\n  \\foreach \\y/\\lab in {3.5/第一天,2.5/第二天,1.5/第三天,.5/第四天}{\n    \\node[anchor=east,inner sep=3pt] at (-5,\\y) {\\lab};\n  }\n  \\draw[dashed,dash pattern=on 2.4pt off 2.4pt] (0,-.18)--(0,4.28);\n  \\node[above,inner sep=2pt,font=\\fontsize{9.5}{11.5}\\selectfont] at (0,4.28) {$22^\\circ\\mathrm{C}$};\n  % 第1天：四个点\n  \\fill (0.2802,3.7564) circle[radius=1.5pt];\n  \\fill (0.5680,3.5942) circle[radius=1.5pt];\n  \\fill (0.2562,3.2657) circle[radius=1.5pt];\n  \\fill (0.8079,3.2498) circle[radius=1.5pt];\n  % 第2天：四个点\n  \\fill (-0.0101,2.8005) circle[radius=1.5pt];\n  \\fill (-0.5012,2.6311) circle[radius=1.5pt];\n  \\fill (0.0696,2.5317) circle[radius=1.5pt];\n  \\fill (0.4042,2.2417) circle[radius=1.5pt];\n  % 第3天：四个点\n  \\fill (-1.2661,1.9083) circle[radius=1.5pt];\n  \\fill (-0.7016,1.8672) circle[radius=1.5pt];\n  \\fill (-0.8211,1.5960) circle[radius=1.5pt];\n  \\fill (-1.1226,1.2544) circle[radius=1.5pt];\n  % 第4天：四个点\n  \\fill (-1.4085,0.8709) circle[radius=1.5pt];\n  \\fill (0.3922,0.7740) circle[radius=1.5pt];\n  \\fill (-0.8871,0.6299) circle[radius=1.5pt];\n  \\fill (-0.0232,0.4583) circle[radius=1.5pt];\n\\end{tikzpicture}",
+            "role": "question",
+            "notes": "根据用户第78页清晰原照重绘5条横边界、4个日带、每带4圆点及22℃竖虚线；坐标为照片比例而非温度值，不增造刻度。"
+          }
+        ],
+        "answer_latex": "选B。以22摄氏度的竖虚线为基准，第二天四个点高出与低于22摄氏度的部分大致相抵，移多补少后平均约为22摄氏度。第一天各点在线右侧；第三天各点在线左侧，第四天整体也偏左。原图没有精确刻度，不能凭空给各点标出具体温度。",
+        "verification": {
+          "status": "verified",
+          "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+          "changes": [
+            "按用户2026-11-06提供的清晰原卷逐字、逐图核实后更正；来源见p078_update/approved_changes.json。"
+          ],
+          "uncertainties": [],
+          "left_patch": null,
+          "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+        },
+        "source_region": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 595,
+          "y1": 841
+        },
+        "illustration_description": ""
+      },
+      "answer_latex": "选B。以22摄氏度的竖虚线为基准，第二天四个点高出与低于22摄氏度的部分大致相抵，移多补少后平均约为22摄氏度。第一天各点在线右侧；第三天各点在线左侧，第四天整体也偏左。原图没有精确刻度，不能凭空给各点标出具体温度。",
+      "old_note_latex": "每一天都取4个气温值，以22摄氏度为基准看各点高出和低于的部分。若总共高出的量与总共低下的量大致相等，移多补少后平均就约为22摄氏度。第二天最符合这种平衡，不能只凭某一个时刻接近22度就决定。",
+      "final_note_latex": "以22摄氏度为基准比较四点的左右偏差。第二天高出的部分约能补足低下的部分，移多补少后平均约为22摄氏度，选B。第一天偏高，第三、第四天偏低；不能只凭某一个点接近22摄氏度来判断。"
+    },
+    {
+      "key": "p078_s06",
+      "book_page": 78,
+      "id": "二、6",
+      "answer_pdf_page": 82,
+      "old_record": {
+        "key": "p078_s06",
+        "book_page": 78,
+        "source_page": 82,
+        "section_index": 5,
+        "id": "二、6",
+        "kind": "choice",
+        "question_latex": "烟台市“非遗小传人”评选中，小兰快板和剪纸两项的平均分是94分，增加草编考核后，三项总分是281分，则小兰草编的得分是（    ）。A.93分；B.92分；C.94分；D.97分。",
+        "options": [],
+        "tables": [],
+        "diagrams": [],
+        "answer_latex": "选A。94分是两项平均分，先按每项94分乘2项还原总分，再从三项总分281分中扣除。\\[\\begin{aligned}&281-94\\times2\\\\={}&281-188\\\\={}&93\\text{（分）}\\end{aligned}\\]",
+        "verification": {
+          "status": "verified",
+          "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+          "changes": [
+            "本轮平均数完整脱式复核：PDF题旁主式完整，源码同步完整综合脱式。"
+          ],
+          "uncertainties": [],
+          "left_patch": null
+        },
+        "source_region": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 595,
+          "y1": 841
+        },
+        "illustration_description": ""
+      },
+      "new_record": {
+        "key": "p078_s06",
+        "book_page": 78,
+        "source_page": 82,
+        "section_index": 5,
+        "id": "二、6",
+        "kind": "choice",
+        "question_latex": "烟台市“非遗小传人”评选中，小兰秧歌和剪纸两项的平均分是94分，增加草编考核后，三项总分是281分，则小兰草编的得分是（    ）。A.93分；B.92分；C.94分；D.97分。",
+        "options": [],
+        "tables": [],
+        "diagrams": [],
+        "answer_latex": "选A。94分是两项平均分，先按每项94分乘2项还原总分，再从三项总分281分中扣除。\\[\\begin{aligned}&281-94\\times2\\\\={}&281-188\\\\={}&93\\text{（分）}\\end{aligned}\\]",
+        "verification": {
+          "status": "verified",
+          "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+          "changes": [
+            "本轮平均数完整脱式复核：PDF题旁主式完整，源码同步完整综合脱式。",
+            "按用户2026-11-06提供的清晰原卷逐字、逐图核实后更正；来源见p078_update/approved_changes.json。"
+          ],
+          "uncertainties": [],
+          "left_patch": null,
+          "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+        },
+        "source_region": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 595,
+          "y1": 841
+        },
+        "illustration_description": ""
+      },
+      "answer_latex": "选A。94分是两项平均分，先按每项94分乘2项还原总分，再从三项总分281分中扣除。\\[\\begin{aligned}&281-94\\times2\\\\={}&281-188\\\\={}&93\\text{（分）}\\end{aligned}\\]",
+      "old_note_latex": "94分是两项的平均分，要先乘2还原快板、剪纸两项总分。三项总分281分减去这188分，余下才是草编分数。不能从281直接减94，因为94只是一份平均水平，并非原两项总分。\\[\\begin{aligned}&281-94\\times2\\\\={}&281-188\\\\={}&93\\text{（分）}\\end{aligned}\\]",
+      "final_note_latex": "94分是两项的平均分，要先乘2还原秧歌、剪纸两项总分。三项总分281分减去这188分，余下才是草编分数。不能从281直接减94，因为94只是一份平均水平，并非原两项总分。\\[\\begin{aligned}&281-94\\times2\\\\={}&281-188\\\\={}&93\\text{（分）}\\end{aligned}\\]",
+      "new_local_replacements": [
+        {
+          "rect": [
+            282.25,
+            700.25,
+            310.25,
+            713.75
+          ],
+          "target_rect": [
+            283,
+            701,
+            309.5,
+            713
+          ],
+          "latex": "{\\color{black}秧歌}",
+          "font_size": 12,
+          "snippet_width": 80,
+          "fit_to_rect": true,
+          "clear_to_white": true,
+          "kind": "black_term_photo_reconstruction",
+          "original_prompt_replaced": true,
+          "reason": "清晰原照确认为“秧歌”；原黑扫描这两字重影损坏。仅规范复原这两字，不碰左侧小兰、右侧和剪纸及整句行宽。"
+        }
+      ]
+    }
+  ],
+  "section_heading": "二、选择（将正确答案的序号填在括号里）。（每题2分，共12分）",
+  "black_question_corrections": [
+    {
+      "old": "原黑括注“每题2分”字形受损，且合计19分",
+      "new": "（每题2分，共12分）",
+      "source_rect": [
+        342.25,
+        49.75,
+        467.25,
+        63.75
+      ],
+      "target_rect": [
+        343,
+        50.5,
+        466.5,
+        63
+      ],
+      "local_id": "p078_s01_local3"
+    },
+    {
+      "old": "138 cm",
+      "new": "136 cm"
+    },
+    {
+      "old": "146 cm",
+      "new": "140 cm"
+    },
+    {
+      "old": "原黑扫描两字重影、难以可靠辨认",
+      "new": "秧歌",
+      "source_rect": [
+        282.25,
+        700.25,
+        310.25,
+        713.75
+      ],
+      "target_rect": [
+        283,
+        701,
+        309.5,
+        713
+      ],
+      "local_id": "p078_s06_local1",
+      "clear_photo_confirms_exact_word": true
+    }
+  ],
+  "source_photo": "p078_update/assets/p078_original_photo.jpg",
+  "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+  "diagram_source": "p078_update/assets/p078_temperatures_photo.tikz",
+  "diagram_svg": "p078_update/assets/p078_temperatures_photo.svg",
+  "answers": {
+    "1": "C",
+    "2": "D",
+    "3": "C",
+    "4": "B成立；D按具体岁数理解也成立，原单选歧义保留",
+    "5": "B",
+    "6": "A"
+  },
+  "preserve_question4_original_wording_and_ambiguity": true,
+  "preserve_other_pages_and_prior_corrections": true,
+  "pirate_ship_example_heights": [
+    [
+      136,
+      136,
+      136
+    ],
+    [
+      146,
+      131,
+      131
+    ],
+    [
+      146,
+      146,
+      116
+    ]
+  ],
+  "diagram_natural_size_bp": [
+    142.01,
+    93.39
+  ],
+  "black_local_patch_count": 5
+}

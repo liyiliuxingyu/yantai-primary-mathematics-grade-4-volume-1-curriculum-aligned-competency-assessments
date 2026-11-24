@@ -1,0 +1,24 @@
+{
+  "snippets": 1014,
+  "local_patches": 158,
+  "compiled_tex": "/workspace/scratch/1facfb035d44/units_review/project/units_update/compiled/详细题内答案.tex",
+  "compiled_pdf": "/workspace/scratch/1facfb035d44/units_review/project/units_update/compiled/snippets_frozen.pdf",
+  "source_files": {
+    "detailed_layout/notes_A.json": "9e8f1605bd5d67ff8c3ba1a6b12c35e61f5d0cff2231a7c2e2879e0881b6b5d0",
+    "detailed_layout/notes_B.json": "84f6cbc816589946a742def9196c7cdc91697772006042c6ba04f8da28b8c165",
+    "detailed_layout/notes_C.json": "f55494a6655a50f3bd73d2982c149da9cf632883e423aab0cf5de8fbb825884c",
+    "detailed_layout/notes_D.json": "ba1e675bc4358b37fab7f277bc54543ae294955d3743e8edda5c6ff14491d7ef",
+    "inline_layout/slots_A.json": "a558021a7eab7f101b8c80e4a6910bd99afea2b94257f9eecfe979e5a379cebc",
+    "inline_layout/slots_B.json": "783899eaeb800e73328d5cbed9d45ff348a2c7c611a95908c89119805ef6b683",
+    "inline_layout/slots_C.json": "c88e9895afe56b338b60319ff07bd369bf61d73a2380f41fd89bd3dc47bcf73b",
+    "inline_layout/slots_D.json": "0d7944534c0b66887c719fedda9cd9d703b4c782d74f7f3abdff6bd3f3d6e8ef",
+    "average_update/source_masks.json": "1ce7fedbf4e1786118f583455c326172fd7e198efeb1de6324cb7e809d51fd55",
+    "average_update/layout_reuse.json": "8d3d0f819ea0cac0d53b1c528d9ecd2dea19d38d8e4a2d4a3f0b7fce086451df",
+    "bracket_update/source_masks.json": "01e00457191519403d79f1b47c19cfdfff2f187fced6571520233d0d092c2546",
+    "p078_update/source_masks.json": "abf21672cfaf6c96a31eb1867ab94f419390b513d41deb7701fd75c2870c649d",
+    "units_update/source_masks.json": "10511c1e6b90d3ee4c5066877a655a39e0a79c75f6ec6a14c0508edaca8e2f5d",
+    "units_update/layout_reuse.json": "d08ad585fc57bc43ff45cb70a2b48ac319f85dd268d0b6de2274dd9ecd00b209"
+  },
+  "tex_engine": "XeTeX0.999996 TeXLive2025/dev",
+  "task_local_format_used": true
+}

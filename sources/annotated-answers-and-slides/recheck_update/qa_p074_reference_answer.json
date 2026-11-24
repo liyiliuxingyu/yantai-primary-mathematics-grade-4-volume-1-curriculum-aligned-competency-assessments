@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "source_pdf": "/workspace/scratch/1facfb035d44/p74_review/bundle/小学同步素养四年级上册数学答案.pdf",
+  "source_sha256": "0a6f9c0fce5f7b33811450ece77e360af0e482faabd72c4f1ea35477b66cf4ea",
+  "source_pdf_page": 121,
+  "printed_reference_page": 117,
+  "reference_section": "第九单元素养评价(A)",
+  "matched_question_book_page": 74,
+  "matched_question_id": "二、4",
+  "visually_transcribed_choice_answer_line": "二、1.A 2.B 3.C 4.A 5.B 6.A",
+  "reference_answer": "A",
+  "mapping_evidence": [
+    "该参考栏的一、1=112，一、3=16，一、7=70，一、10=26，与原书73页本套第九单元A填空题一致",
+    "该栏三、1(1)=140厘米、三、2=72米、三、3(1)=86分(2)=85分，与本套74–75页河深/郊游/评分题一致"
+  ],
+  "actual_view_image_reviewed_pdf_pages": [
+    120,
+    121,
+    122
+  ],
+  "crop_file": "p074_reference_A_evidence.png",
+  "crop_pdf_rect": [
+    300.0,
+    325.0,
+    590.0,
+    510.0
+  ],
+  "mathematical_disposition": "书后确为A；但当前原题黑字平均15千克、加入39千克，按题面应选C。该参考A与当前题面存在真实冲突，未据此擅自改题干。",
+  "not_claimed": "未逐题复核全部16页参考答案，仅定位核对所需匹配项。"
+}

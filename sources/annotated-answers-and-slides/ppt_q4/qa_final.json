@@ -1,0 +1,96 @@
+{
+  "passed": true,
+  "scope": "第78页选择题第4题按教学考查意图只选B；只改第5册126、127张两个原生文本对象。",
+  "volumes": [
+    {
+      "volume": 1,
+      "output": "/workspace/scratch/1facfb035d44/q4_review/deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+      "output_sha256": "bfa33453d07728ee480a771f3c5f130926e77cf3f41cf9d96c1fbe19f7ca6a57",
+      "source_sha256": "bfa33453d07728ee480a771f3c5f130926e77cf3f41cf9d96c1fbe19f7ca6a57",
+      "slides": 426,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    },
+    {
+      "volume": 2,
+      "output": "/workspace/scratch/1facfb035d44/q4_review/deliverables/讲解课件/小学四上同步素养卷第2册讲解课件答案.pptx",
+      "output_sha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+      "source_sha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+      "slides": 479,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    },
+    {
+      "volume": 3,
+      "output": "/workspace/scratch/1facfb035d44/q4_review/deliverables/讲解课件/小学四上同步素养卷第3册讲解课件答案.pptx",
+      "output_sha256": "7544ada9a6313730ef63b09977f93cf07ae58afe24873eb3c14dbf0788c2bc58",
+      "source_sha256": "7544ada9a6313730ef63b09977f93cf07ae58afe24873eb3c14dbf0788c2bc58",
+      "slides": 406,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    },
+    {
+      "volume": 4,
+      "output": "/workspace/scratch/1facfb035d44/q4_review/deliverables/讲解课件/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "output_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+      "source_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+      "slides": 462,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    },
+    {
+      "volume": 5,
+      "output": "/workspace/scratch/1facfb035d44/q4_review/deliverables/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+      "output_sha256": "39fe62b4b21a551bee42e2a1c7a54fe0852f6f5acbfb71ed02aa333015e3de02",
+      "source_sha256": "78a82b8be17b7ea20eef6c24cc0219242b29d360578e12da3079e4cc228413d6",
+      "slides": 433,
+      "changed_slides": [
+        126,
+        127
+      ],
+      "byte_identical_to_previous": false
+    },
+    {
+      "volume": 6,
+      "output": "/workspace/scratch/1facfb035d44/q4_review/deliverables/讲解课件/小学四上同步素养卷第6册讲解课件答案.pptx",
+      "output_sha256": "ffff509562a452719d19d614169fb4728271f9de41d84418727104d3791e22fc",
+      "source_sha256": "ffff509562a452719d19d614169fb4728271f9de41d84418727104d3791e22fc",
+      "slides": 464,
+      "changed_slides": [],
+      "byte_identical_to_previous": true
+    }
+  ],
+  "changed_slides": [
+    126,
+    127
+  ],
+  "static_render": {
+    "renderer": "Artifact Tool",
+    "entire_final_deck_imported": true,
+    "imported_slides": 433,
+    "exported_and_visually_reviewed_slides": [
+      126,
+      127
+    ],
+    "candidate_byte_identical_to_final": true,
+    "render_directory": "/workspace/scratch/1facfb035d44/q4_review/ppt_q4/after_final"
+  },
+  "checks": {
+    "only_two_slide_xml_parts_changed": true,
+    "all_other_431_slides_byte_identical": true,
+    "all_original_animation_timing_xml_byte_identical": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "other_five_decks_byte_identical": true,
+    "answer_text_native_editable_32_points": true,
+    "classroom_answer_B_only": true,
+    "original_D_option_wording_retained": true,
+    "no_claim_to_know_actual_specific_age": true,
+    "active_final_answers_and_builder_rules_synchronized": true,
+    "current_metadata_and_index_synchronized": true
+  },
+  "native_powerpoint_playback_tested": false,
+  "native_wps_playback_tested": false,
+  "native_impress_playback_tested": false,
+  "native_playback_limitation": "Previous check of the current environment found no Impress, WPS or PowerPoint GUI application. This two-object update was statically rendered and visually reviewed; no native slideshow test is claimed.",
+  "historical_reports": "Earlier ppt_p078 and older QA snapshots retain their past-release conclusions as history. Current answer authority is ppt_q4/qa_final.json, the current metadata and final_answers.json."
+}

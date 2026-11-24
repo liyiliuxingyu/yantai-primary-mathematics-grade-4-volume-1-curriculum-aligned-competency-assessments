@@ -1,0 +1,2010 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p082_s01": {
+      "book_page": 82,
+      "question_id": "一、11",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "600.06"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "69474a4f8f4e0853058890c6e2023eaf4f8139db8628aafce5a7e5d444b5f17f"
+    },
+    "p082_s02": {
+      "book_page": 82,
+      "question_id": "二、1",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "e44eaf5b526a4b529e1b42b25711198c24a51dfc2f7e830b55c7ee2cdc16222c"
+    },
+    "p082_s03": {
+      "book_page": 82,
+      "question_id": "二、2",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "a1304419648545637d9c9ac83ea7172b7f959dbb6167b77f2fb0c509aa8ad8d1"
+    },
+    "p082_s04": {
+      "book_page": 82,
+      "question_id": "二、3",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "ecdc27e846382ab35ff4950aab09a189585c5088206edeba90e2cdeaefa5efb8"
+    },
+    "p082_s05": {
+      "book_page": 82,
+      "question_id": "二、4",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "deb618d82398e163aa1ce7ffce516d604269fd2f46283f1f345652fa89904611"
+    },
+    "p082_s06": {
+      "book_page": 82,
+      "question_id": "二、5",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "1516bf58cffd3e74b0be26004adcea58f72646444b920038d19bcedd980e666a"
+    },
+    "p082_s07": {
+      "book_page": 82,
+      "question_id": "二、6",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "ed164aae73219c8493744a7101122bf2746b3b2af320a681c27732104a741bdb"
+    },
+    "p085_s01": {
+      "book_page": 85,
+      "question_id": "一、1",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "无数"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "1"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "9f216d716f15d756d11980d40a9551ed25335bf936a83aba17a9b91da499f949"
+    },
+    "p085_s02": {
+      "book_page": 85,
+      "question_id": "一、2",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "垂直"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "平行"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "a3beece89744f8be1502f4f5cbbb65084fa3ed0860b25d9eb72a84c944210e7a"
+    },
+    "p085_s03": {
+      "book_page": 85,
+      "question_id": "一、3",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "无数"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "相等"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "c1baec0f4d03505a885f6ac7b368e7351d74567d41a28abfe95af1cb4e9cae88"
+    },
+    "p085_s04": {
+      "book_page": 85,
+      "question_id": "一、4",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "5"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "4"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "6"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "c1899732a441c7affbd2436c6e9f3ab9b1e83f125de70c46cb4b044aeb3f9fd0"
+    },
+    "p085_s05": {
+      "book_page": 85,
+      "question_id": "一、5",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "13"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "5"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "ff8766585db05ed144fb47ca7847392fd43a7168b6e694ffa2577cc24cfa6c38"
+    },
+    "p085_s06": {
+      "book_page": 85,
+      "question_id": "一、6",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": null,
+          "note": "线段AD是BC边上的高，但AD原扫描斜标末位待核，近似6；不能无条件填2.4。若确认AD=2.4才填2.4；若原标2.6，还须核对与其余尺寸、垂直关系的一致性。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "3"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "1d4eabe462824d6bc0183531b4d96ec4fc5429e6848e0449d07b591bf01c8048"
+    },
+    "p085_s07": {
+      "book_page": 85,
+      "question_id": "一、7（1）",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "旋转"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "97d04448550f1256c412ad9f3cacf05d2bba03b500f3c4555a5f97fbe2f5d394"
+    },
+    "p085_s08": {
+      "book_page": 85,
+      "question_id": "一、7（2）",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "平移"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "fb1c17de17c908f7fb8a30eb26ab02bc769d568186c2d03c0e94889663269966"
+    },
+    "p085_s09": {
+      "book_page": 85,
+      "question_id": "一、7（3）",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "平移",
+          "note": "按题中通常的直线推动拖布理解。"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "e567f5e8330d8f190a69d4f1ea87d6c63ec0d85f261aadb579b5f8bd047ee5f1"
+    },
+    "p085_s10": {
+      "book_page": 85,
+      "question_id": "一、7（4）",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "旋转"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "385ff4e9db5c699ada1978314d5096642630b65479886e4028e1d9bf67e09225"
+    },
+    "p085_s11": {
+      "book_page": 85,
+      "question_id": "一、8",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "4"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "3"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "1"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "750f1ef65eb6be24f0b57f988d012015b7d915405a86bee0916d681b9b526c9c"
+    },
+    "p085_s12": {
+      "book_page": 85,
+      "question_id": "一、9（钟面）",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "3"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": null,
+          "note": "原题旋转角度扫描不清。若分针顺时针旋转90°，本空为3；原角度核清前不能无条件填写。"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": null,
+          "note": "原题旋转角度扫描不清。若分针顺时针旋转90°，本空为15；原角度核清前不能无条件填写。"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "f2e844b6279ece6892e91d6c540b5060f24f40b31d939fbfad2dc7371aea79fc"
+    },
+    "p086_s01": {
+      "book_page": 86,
+      "question_id": "二、1",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "b0ce17051ea7cd366a4cb95de5349c3dd8298233ce29c9fa55f3cc05cb5184a8"
+    },
+    "p086_s02": {
+      "book_page": 86,
+      "question_id": "二、2",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "395f254bc7b7238b938c4a3444d34f203000add417b4c9d5816481293c4ed49f"
+    },
+    "p086_s03": {
+      "book_page": 86,
+      "question_id": "二、3",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "e0d7d0dc2209bf4cb10ce86f998c5e065fefadda2da36d4c80fda3b507528254"
+    },
+    "p086_s04": {
+      "book_page": 86,
+      "question_id": "二、4",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "942c81a8c3089507c694b8a552966da601f87746cdfde1cf4e27cd950592a6a5"
+    },
+    "p086_s05": {
+      "book_page": 86,
+      "question_id": "二、5",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "1a6483149efc4f89afd4b95a02b3f1ce0921ff3437aa9239c73d5a34c817f720"
+    },
+    "p086_s06": {
+      "book_page": 86,
+      "question_id": "二、6",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "247bf3fb7a02aea212b986058b2a9caec94bc7ce576a26519f2a8f598cc5ac23"
+    },
+    "p086_s07": {
+      "book_page": 86,
+      "question_id": "三、1",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\checkmark"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "3d62d13b493b1a369c4c0af1cfb0a1ff496c1aa76d92b970d981944a785bb7db"
+    },
+    "p086_s08": {
+      "book_page": 86,
+      "question_id": "三、2",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\times"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "85c096f0c6981f3393bb7478bcdfd7219701d8d09d47731bc9a077a3515dd8d9"
+    },
+    "p086_s09": {
+      "book_page": 86,
+      "question_id": "三、3",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\checkmark",
+          "note": "原底角末位疑25/26，但两种读法均为钝角三角形，判断不受影响。"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "1fe5717fe3a07e7d974ba6d8da5db0ee001341d72b9a8d890728f608af873364"
+    },
+    "p086_s10": {
+      "book_page": 86,
+      "question_id": "三、4",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\times"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "818cb685920412d8012b2da4dd7f3c4dd2ebfdf03be7d7b3a5da11af0d8dade5"
+    },
+    "p086_s11": {
+      "book_page": 86,
+      "question_id": "三、5",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\checkmark"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "e1638c424a966d8115dbd6ae05846d96e572ed850d38172e7a15904875c3ca2c"
+    },
+    "p086_s12": {
+      "book_page": 86,
+      "question_id": "三、6",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\times"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "916444b4d6d453a84e7bb06cbafe9ab5955faa65e3bf58a5ca488b56cf68cfe1"
+    },
+    "p089_s01": {
+      "book_page": 89,
+      "question_id": "一、1",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "平均数"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "ccf3040fed5ae356a2a3ba76e9705589aa47fa9447a891c6e6985c16f301d99a"
+    },
+    "p089_s02": {
+      "book_page": 89,
+      "question_id": "一、2",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "155"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "10"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "0c1b270ce96ab6e9585a4878e9a1e9471871ad3aedfdd6ab354cc5464c2040b6"
+    },
+    "p089_s03": {
+      "book_page": 89,
+      "question_id": "一、3",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "10"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "4397406bce2dcba37b27dbdcef9365e39d08f3c0148ab08c83697b6634ea36d4"
+    },
+    "p089_s04": {
+      "book_page": 89,
+      "question_id": "一、4",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "22"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "8e72d3e4c34d31ed48d6fe1073b4f76cecae6658e98dc748d2856f4e8972b4f5"
+    },
+    "p089_s05": {
+      "book_page": 89,
+      "question_id": "一、5",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "13"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "64b2746b18508e82553ba5408693930fc5add5c9e1038f75fead45418347d326"
+    },
+    "p089_s06": {
+      "book_page": 89,
+      "question_id": "一、6",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "36"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "d0e84667ba29270a63dcb2663559ed87b7ebaf959ac614e22ac00060707cf23d"
+    },
+    "p089_s07": {
+      "book_page": 89,
+      "question_id": "一、7",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "96"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "4ac2e452e6f58cb7696b6adbfacba36d0a51f7217df70730c6f49e288cc8a5b0"
+    },
+    "p089_s08": {
+      "book_page": 89,
+      "question_id": "二、1",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "d065dd4ace3fa890a5272963212c2f75d2947d6d3eae37a91bd16f57ae9b78b5"
+    },
+    "p089_s09": {
+      "book_page": 89,
+      "question_id": "二、2",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "ec663a7c7ae583a19f2ba6bce16715d115f19831d3a059114264aa2db4cd0cf6"
+    },
+    "p090_s01": {
+      "book_page": 90,
+      "question_id": "二、3",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "f9c5e7300ca0b972d3e4dba2e4f327cd0319590ce1e929dccdad48e38b01dc60"
+    },
+    "p090_s02": {
+      "book_page": 90,
+      "question_id": "二、4",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "无",
+          "note": "原选项均不成立；实际平均数范围83.4～84.6，题目未要求取近似数。"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "43959a4862cbb48be92199ae1771ba049c6be5bcef458624a0876e269d243bdb"
+    },
+    "p090_s03": {
+      "book_page": 90,
+      "question_id": "二、5",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "无",
+          "note": "原数应为20，原四个选项均不是20。此为选择题，不把20当作选项序号。"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "b712ed9e11839ce4f1aba0ba880663731373d62254b7f78e0886626535074002"
+    },
+    "p092_s02": {
+      "book_page": 92,
+      "question_id": "四、5（2）",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": null,
+          "note": "女生特大号人数末位不清，最少型号需分情况：若t=0为特大号，t=1为大号与特大号并列，t≥2为大号。不得无条件填写某一种。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "中号"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "e912a8ddbc73647191e31f91428277aea6e2ceed0edab925b7667f5f236418a9"
+    },
+    "p093_s01": {
+      "book_page": 93,
+      "question_id": "一、1",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "7.06"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "0.08"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "97db21c0aa83b0275bdeb41b226557ae634612b879ee1823841ce18200794016"
+    },
+    "p093_s02": {
+      "book_page": 93,
+      "question_id": "一、2",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "2.4096\\text{亿}",
+          "note": "空后只印“公顷”，数量级“亿”必须留在空内，公顷不重复。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "2.41\\text{亿}",
+          "note": "空后只印“公顷”，数量级“亿”必须留在空内，公顷不重复。"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "482513833e6a56c35088f64a8e289e7299690c1724caf7a764a72a52abbdca2c"
+    },
+    "p093_s03": {
+      "book_page": 93,
+      "question_id": "一、3",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "2.707"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "0.001"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "1b107cded113786f40fa756af1be9f60c58c61cea33d98c39d20aaa57281b8d6"
+    },
+    "p093_s04": {
+      "book_page": 93,
+      "question_id": "一、4",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "垂直或平行",
+          "note": "题目问可能的位置关系，两种可能均列出。"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "2c90d218b38d3cb25491bbf38d2cadb2f5737bc3eb1a8923c5b456c6831d6b3e"
+    },
+    "p093_s05": {
+      "book_page": 93,
+      "question_id": "一、5",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "120"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "a92d575fb2563f5171d3c5c0802bea850f1c1a03d92b44558f4b0030976e58d6"
+    },
+    "p093_s06": {
+      "book_page": 93,
+      "question_id": "一、6",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "4.3"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "f593b5ef3932ec12086d3d2097df4757342f047a2129cb2945aa148f7c00056c"
+    },
+    "p093_s07": {
+      "book_page": 93,
+      "question_id": "一、7",
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": ">"
+        },
+        {
+          "slot_index": 2,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": "<"
+        },
+        {
+          "slot_index": 3,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": "="
+        },
+        {
+          "slot_index": 4,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": ">"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "“在○里填上”中的圆圈仅为题型说明符号，不是作答槽位。",
+          "expected_placeholder": "○"
+        }
+      ],
+      "question_sha256": "5eedb15dd1b78129ca44176c289fb60b25661378093d35c438edb3e1dd35f828"
+    },
+    "p093_s08": {
+      "book_page": 93,
+      "question_id": "一、8",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "78"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "42"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "382b08d914d0f1e1d4563cea21394f8d9a89533e9769b5efbe916b3df93f1897"
+    },
+    "p093_s09": {
+      "book_page": 93,
+      "question_id": "二、1",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "718a7018d5126c96c9ca6f73bd6591c39e3f0da93115e9f72a0b30c1143a7afa"
+    },
+    "p094_s01": {
+      "book_page": 94,
+      "question_id": "二、2",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "无",
+          "note": "按题面原数写法，小数部分逐位读，四项均读出零。只有自行先化简900.60为900.6时B才符合，但原题未要求。"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "2e575846fac06ee694e63f3234e8e8cad478eb24a57329032b136ff0c8b04f9b"
+    },
+    "p094_s02": {
+      "book_page": 94,
+      "question_id": "二、3",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{D}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "53496536f8a7b731c8b0aee3559a4a8c4886b1ae5e003de70acd7ba1ce0ebef9"
+    },
+    "p094_s03": {
+      "book_page": 94,
+      "question_id": "二、4",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "3396f90415dc34bcbff7e828d67aeb7c934502a22d1cd2177cb20d889674980d"
+    },
+    "p094_s04": {
+      "book_page": 94,
+      "question_id": "二、5",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{D}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "ec331d231e6819dc8f92fa63defa9903d9051204cde9b8ef404cca5f4bdd2413"
+    },
+    "p094_s05": {
+      "book_page": 94,
+      "question_id": "二、6",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "7073af4a0c33d147e9f996606fdf3b06ecb55afdcdc43ec706147b7239a7e8d2"
+    },
+    "p094_s06": {
+      "book_page": 94,
+      "question_id": "二、7",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "a7c8067655109c98dfc81e5d3c2942daf8232d5630f0c81f04ff404b148c7ebe"
+    },
+    "p094_s07": {
+      "book_page": 94,
+      "question_id": "二、8",
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "question_sha256": "4e02bfed496fc80f4a38fbeaf565fe91691f52a6340bb991091d5210f6a0bd6f"
+    },
+    "p096_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "150厘米及以上"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "128～149厘米"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "男生"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 96,
+      "question_id": "五、5（2）",
+      "question_sha256": "69e350f47c7fd4e9039fd7772c742d51f464ee400d90c1313b33046c9c1b6201"
+    },
+    "p097_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "1.26339\\text{亿}",
+          "note": "原空后只印“亩”，所以亿必须保留；不再写亩。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "1.3",
+          "note": "原空后已印“亿亩”，只填数值1.3。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 97,
+      "question_id": "一、1",
+      "question_sha256": "138a0627d4ac291733c4fbf394f45e5e9e28d386c56512a36e3ba99fa9093d3c"
+    },
+    "p097_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "3"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "9"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "2"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "5"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 97,
+      "question_id": "一、2",
+      "question_sha256": "2cdde49a5ab91ffd3fea8be84cf7d0ded08d8359b8dc8fdddb774a034d8b91ac"
+    },
+    "p097_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "31.5"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 97,
+      "question_id": "一、3",
+      "question_sha256": "f8856ecb4dd85e4719e9199dea01d707593358554b28e4781425b6cda98fb5c7"
+    },
+    "p097_s04": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "\\underline{\\quad}",
+          "source": "question_latex",
+          "answer_latex": "\\bigcirc",
+          "note": "填写与左边相同的圆形变量符号；这是已作答内容，不是比较空。"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "\\underline{\\quad}",
+          "source": "question_latex",
+          "answer_latex": "\\triangle"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "expected_placeholder": "\\underline{\\qquad}",
+          "source": "question_latex",
+          "answer_text": "乘法分配",
+          "note": "空后已有“律”，这里只填乘法分配。"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "算式左边的圆形符号是给定加数的泛变量，不是待填空。"
+        }
+      ],
+      "book_page": 97,
+      "question_id": "一、4",
+      "question_sha256": "c281d3ff4de2b3390ab250393bc86ea14de347f6d104f1535d66535b8cb2c307"
+    },
+    "p097_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "①③⑤"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "③⑤"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "②④"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 97,
+      "question_id": "一、5",
+      "question_sha256": "3475389b95c9b7d25849c1c7ebcabb9863489307aef8eeb3fb68e145b4b428fc"
+    },
+    "p097_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "1",
+          "note": "空后已有厘米。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（\\quad）",
+          "source": "question_latex",
+          "answer_latex": "78",
+          "note": "空后已有角度符号，勿再写度或°。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 97,
+      "question_id": "一、6",
+      "question_sha256": "deb9856de9f0903c430944adec5cc0c422714ba51dbbde2e11aa717a9ce93678"
+    },
+    "p097_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "6",
+          "note": "同一跨页题的护栏长度；依据图中上底2米、下底4米、梯形周长10米，与p098_s01相同。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 97,
+      "question_id": "一、7（分割图，问题续下一页）",
+      "question_sha256": "8119c074d2cac693d5430874eca9dd64e241d1d84e5d407bb69783a2d490b4dd"
+    },
+    "p098_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "6"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 98,
+      "question_id": "一、7（续）",
+      "question_sha256": "640037af10858a17a12fa8d0defb0b3ca1851806975bbb0e0f8eaa46f1608997"
+    },
+    "p098_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "28"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "7"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 98,
+      "question_id": "一、8",
+      "question_sha256": "c3556d0f045ad840cd3e4c644b75d8073d3c6334a4212e012e140439abc167da"
+    },
+    "p098_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 98,
+      "question_id": "二、1",
+      "question_sha256": "76606fc4f707943bf0b1fd07658560594b96449e437dbc73928450e5bd54c5c8"
+    },
+    "p098_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 98,
+      "question_id": "二、2",
+      "question_sha256": "e3217020f829c6ff54d856efe8244b62a21a6d73a4c9f3a19899f1d55ee872bc"
+    },
+    "p098_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{D}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 98,
+      "question_id": "二、3",
+      "question_sha256": "aba271be816656782e4dff27034f89c3c2c072ce9613b45e35c3a212ab78790b"
+    },
+    "p098_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 98,
+      "question_id": "二、4",
+      "question_sha256": "9e2d12ab7cf343c71f405b0845ab240c4a62c1a5b65ce0cef2d055ae89149742"
+    },
+    "p098_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "无",
+          "note": "原四选项均不正确；少记总分32，8人的平均分应增加4分。保留原D“增加1分”，不暗改选项。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 98,
+      "question_id": "二、5",
+      "question_sha256": "c86d53ea1eb68e3c517ed4017a37d114be3928a7f52e7e2dd9670fdf90e6da11"
+    },
+    "p099_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 99,
+      "question_id": "二、6",
+      "question_sha256": "54632201232d86483162be2eb91acba3f9cf8b6109c435ec3fc8099d9235ad86"
+    },
+    "p101_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "6.35"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "六点三五"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "6.4"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 101,
+      "question_id": "一、1",
+      "question_sha256": "7aa0eae8f350eb711597ae73a3893ccf38b979280011fb07c7d43878d2e40085"
+    },
+    "p101_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "240\\times[(128+147)\\div25]"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 101,
+      "question_id": "一、2",
+      "question_sha256": "6d7c7f5d2eee37050568819f5ebad1f2bfbe6bb6c984e36f7beb02b7d97bf08e"
+    },
+    "p101_s03": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": "="
+        },
+        {
+          "slot_index": 2,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": "<"
+        },
+        {
+          "slot_index": 3,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": ">"
+        },
+        {
+          "slot_index": 4,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": ">"
+        },
+        {
+          "slot_index": 5,
+          "kind": "compare",
+          "expected_placeholder": "○",
+          "source": "question_latex",
+          "answer_latex": "="
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "“在○里填上”中的圆仅说明填空方式，不是题目的比较槽。"
+        }
+      ],
+      "book_page": 101,
+      "question_id": "一、3",
+      "question_sha256": "ddbde26901141318ef51dcf886f9ddb1d8ebaaff6f700bb18271703bb1e7be1f"
+    },
+    "p101_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "90",
+          "note": "空后已有°。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "直角",
+          "note": "空后已有三角形，只填角的类别。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 101,
+      "question_id": "一、4",
+      "question_sha256": "594c7eb0c3b437260cbc06de428a11b9a45afa039e39ee6eff1d42f721ed79e1"
+    },
+    "p101_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "互相平行"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 101,
+      "question_id": "一、5",
+      "question_sha256": "37c483c6db66e2146295c5151ec2a93952b7106a0d0d1c3ba30baab70962c2b8"
+    },
+    "p101_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "平",
+          "note": "空后已有角，只填平。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "周",
+          "note": "空后已有角，只填周。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 101,
+      "question_id": "一、6",
+      "question_sha256": "3eeb634def9f5d02fed4596c1e0a7516b13398cf7dde067c511d261b9606da3c"
+    },
+    "p101_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "24"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 101,
+      "question_id": "一、7",
+      "question_sha256": "ce221ab4fcac6b0c03c998b1c480f95c68cc0f160b1da52a8df7d98dc06a98be"
+    },
+    "p102_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": null,
+          "note": "至少B、C都能围成三角形，原单选不唯一；A末长首位扫描不清，不能确定完整选项集合，故不编造唯一序号。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 102,
+      "question_id": "二、1（题干跨页）",
+      "question_sha256": "25363bdef236ab9749b732a291cd4887fc06f0f433cb8d697e5c53cc8a4c368b"
+    },
+    "p102_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 102,
+      "question_id": "二、2",
+      "question_sha256": "ff5f390e69d935e0a6c0c9cd23832e3df3e96f2bb39cc6f77e59f5caa4780c94"
+    },
+    "p102_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 102,
+      "question_id": "二、3",
+      "question_sha256": "ec867176823383af295efa6b84639aa55108354ba6f275bcb52246ef79026eb8"
+    },
+    "p102_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 102,
+      "question_id": "二、4",
+      "question_sha256": "bce2a77656143f0ab69fa92023b0f7846d6e51e46090fa537f8d9d7c2fd4faf4"
+    },
+    "p102_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 102,
+      "question_id": "二、5",
+      "question_sha256": "cd702fd281c82065dbf3b6c054278971d275b818fb1b1d5b87ef048e55ce4c8b"
+    },
+    "p102_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}",
+          "note": "该跨页题的成绩和选项续在下一页，已据p103_s01完整四方案核对。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 102,
+      "question_id": "二、6（接下一页选项）",
+      "question_sha256": "e718e271c16348e9fa6ad4030504783a64dfb421f9789083451f1725ad1b460b"
+    },
+    "p103_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{A}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 103,
+      "question_id": "二、7",
+      "question_sha256": "bd3a11c7dafa32d5902f0e602041762bb648364b9cab57e443109005a8df148b"
+    },
+    "p105_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "九点零八"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "0.01"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "908"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "92"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 105,
+      "question_id": "一、1",
+      "question_sha256": "e2c185cff93d83470388071c7d9990b1bae7bc2062f53cda427bb27ec8220836"
+    },
+    "p105_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "6050"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "15"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "6"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "0.9"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "3"
+        },
+        {
+          "slot_index": 5,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "70"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 105,
+      "question_id": "一、2",
+      "question_sha256": "98c19592b86cea38462fdc773163a5342671a293aab99d5d5b636bd9f1b03373"
+    },
+    "p105_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "7.210",
+          "note": "须写三位小数，保留千分位0。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "0.127"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 105,
+      "question_id": "一、3",
+      "question_sha256": "b969b03f7728d2b982ed8857fafd36e3852142d480c3e9ad65a677db2cf78545"
+    },
+    "p105_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "63.1"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "6310"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 105,
+      "question_id": "一、4",
+      "question_sha256": "2f2ebb9feddd4a0ec723c5f18567a44fcc2094c466dfb0cf7d75c5d222c4e41a"
+    },
+    "p105_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "96",
+          "note": "空后已有°。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "钝角",
+          "note": "空后已有三角形。"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 105,
+      "question_id": "一、5",
+      "question_sha256": "b842d3c48e21df268a375d61e20510aac610dd4862db0dd0c33b0e4c9d255000"
+    },
+    "p105_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "22"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 105,
+      "question_id": "一、6",
+      "question_sha256": "3db0e6d381bc3b57cab98d2278418284b74e08a896171c10a88e62125f718127"
+    },
+    "p105_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "3.84"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "3.75"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 105,
+      "question_id": "一、7",
+      "question_sha256": "e435488f06d7772a5c5b2592aab47b681fc62bf95f3c8b8aa30ba19887951908"
+    },
+    "p105_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "3"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "16"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 105,
+      "question_id": "一、8",
+      "question_sha256": "e83a3a278ac093841862e81aaf0c1247da426db8b2f85615c59797344b8d1232"
+    },
+    "p106_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{B}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 106,
+      "question_id": "二、1",
+      "question_sha256": "08526cce269a13366ed8d235b3e3a11e39c43fb37e61c50b5481f723e35dc960"
+    },
+    "p106_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 106,
+      "question_id": "二、2",
+      "question_sha256": "cbe3fc5d7bf88c47fbcbbadc5ec874919cd61790340ee820e91a2e91d37b01e8"
+    },
+    "p106_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{D}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 106,
+      "question_id": "二、3",
+      "question_sha256": "8c968cc906777da39441073e48d98835327ff102cf8469d2f3635cedffc959dd"
+    },
+    "p106_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 106,
+      "question_id": "二、4",
+      "question_sha256": "1248819560a11685a9a52e17e7dbd06e29fd5427f0225ee372efc07ac362e467"
+    },
+    "p106_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{C}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 106,
+      "question_id": "二、5",
+      "question_sha256": "f4b8d6b41d2ed591e96aa6bd20539483a70d05e5245f2cc02f371317a14be549"
+    },
+    "p106_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_latex": "\\mathrm{D}"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 106,
+      "question_id": "二、6",
+      "question_sha256": "e08cd40f1770a8d0717e4d28ca90c40ca2f99ee7c419538f9d3966743ebc2fce"
+    },
+    "p108_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "20～29岁"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "answer_text": "50～59岁"
+        }
+      ],
+      "ignored_slots": [],
+      "book_page": 108,
+      "question_id": "五、5（统计表与填空）",
+      "question_sha256": "16a4721285ce71a00ba551bb717577eb5478c9c036751e91f45be0e3007f1a8e"
+    }
+  },
+  "coverage": {
+    "records": 105,
+    "candidate_slots": 162,
+    "known_answers": 154,
+    "unknown_answers": 5,
+    "ignored_slots": 3
+  }
+}

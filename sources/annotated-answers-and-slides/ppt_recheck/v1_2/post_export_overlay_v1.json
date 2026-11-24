@@ -1,0 +1,2294 @@
+[
+  {
+    "volume": 1,
+    "slide": 28,
+    "record_key": "p002_s01",
+    "output_pptx_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slide_xml_sha256": "53724c75c41b23bb5ddf29099ee61f6cac1d9c421b232e508cc6eaed1c61ade1",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "text": "28",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p002_s01_b003_0",
+        "text": "130+130÷2×32",
+        "rect": [
+          106.0,
+          134.2,
+          331.50666666666666,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "5",
+        "name": "p002_s01_b004_1_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          192.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "6",
+        "name": "p002_s01_b004_1",
+        "text": "130+65×32",
+        "rect": [
+          106.0,
+          203.2,
+          240.56,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "7",
+        "name": "p002_s01_b005_2_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          261.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "8",
+        "name": "p002_s01_b005_2",
+        "text": "130+2080",
+        "rect": [
+          106.0,
+          272.6200524934383,
+          188.61333333333334,
+          32.76
+        ],
+        "native_math": true
+      },
+      {
+        "id": "9",
+        "name": "p002_s01_b006_3_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          330.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "13",
+        "name": "p002_s01_b006_3_retained_original",
+        "text": "2210（米）",
+        "rect": [
+          106.0,
+          336.166719160105,
+          208.16,
+          43.666666666666664
+        ],
+        "native_math": true
+      },
+      {
+        "id": "14",
+        "name": "p002_s01_b006_3_simplify_title",
+        "text": "简便提示（学完运算律后）",
+        "rect": [
+          650.0,
+          124.0,
+          560.0,
+          36.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "15",
+        "name": "p002_s01_b006_3_simplify_explain",
+        "text": "32先除以2，避免先求65。",
+        "rect": [
+          650.0,
+          162.0,
+          560.0,
+          32.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "17",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_rhs0",
+        "text": "130+130÷2×32",
+        "rect": [
+          692.0,
+          194.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "18",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_equals1",
+        "text": "=",
+        "rect": [
+          650.0,
+          266.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "19",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_rhs1",
+        "text": "130+130×(32÷2)",
+        "rect": [
+          692.0,
+          266.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "20",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_equals2",
+        "text": "=",
+        "rect": [
+          650.0,
+          338.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "21",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_rhs2",
+        "text": "130+130×16",
+        "rect": [
+          692.0,
+          338.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "22",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_equals3",
+        "text": "=",
+        "rect": [
+          650.0,
+          410.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "23",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_rhs3",
+        "text": "130+2080",
+        "rect": [
+          692.0,
+          410.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "24",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_equals4",
+        "text": "=",
+        "rect": [
+          650.0,
+          482.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "25",
+        "name": "p002_s01_b006_3_simplify_steps_simplify_rhs4",
+        "text": "2210（米）",
+        "rect": [
+          692.0,
+          482.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "11",
+        "name": "p002_s01_b007_4",
+        "text": "另一方法：先合并时间",
+        "rect": [
+          64.0,
+          396.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "12",
+        "name": "title",
+        "text": "原书第2页　一、7（续）",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "text": "原题底本第6页　输入PDF第6页　解析续页2",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "native_math": false
+      }
+    ]
+  },
+  {
+    "volume": 1,
+    "slide": 29,
+    "record_key": "p002_s01",
+    "output_pptx_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slide_xml_sha256": "60f1a7fd4ea87669579db78da7f463811d6b04ad6c1aec815197362f3f59f78d",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "text": "29",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p002_s01_b008_0",
+        "text": "130÷2×(2+32)",
+        "rect": [
+          106.0,
+          128.45333333333335,
+          322.62666666666667,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "5",
+        "name": "p002_s01_b009_1_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          192.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "6",
+        "name": "p002_s01_b009_1",
+        "text": "65×34",
+        "rect": [
+          106.0,
+          203.2,
+          132.58666666666667,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "7",
+        "name": "p002_s01_b010_2_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          261.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "10",
+        "name": "p002_s01_b010_2_retained_original",
+        "text": "2210（米）",
+        "rect": [
+          106.0,
+          267.166719160105,
+          208.16,
+          43.666666666666664
+        ],
+        "native_math": true
+      },
+      {
+        "id": "11",
+        "name": "p002_s01_b010_2_simplify_title",
+        "text": "简便提示（学完运算律后）",
+        "rect": [
+          650.0,
+          124.0,
+          560.0,
+          36.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "12",
+        "name": "p002_s01_b010_2_simplify_explain",
+        "text": "先合并时间，再将34除以2。",
+        "rect": [
+          650.0,
+          162.0,
+          560.0,
+          32.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "14",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_rhs0",
+        "text": "130÷2×(2+32)",
+        "rect": [
+          692.0,
+          194.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "15",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_equals1",
+        "text": "=",
+        "rect": [
+          650.0,
+          266.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "16",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_rhs1",
+        "text": "130÷2×34",
+        "rect": [
+          692.0,
+          266.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "17",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_equals2",
+        "text": "=",
+        "rect": [
+          650.0,
+          338.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "18",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_rhs2",
+        "text": "130×(34÷2)",
+        "rect": [
+          692.0,
+          338.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "19",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_equals3",
+        "text": "=",
+        "rect": [
+          650.0,
+          410.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "20",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_rhs3",
+        "text": "130×17",
+        "rect": [
+          692.0,
+          410.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "21",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_equals4",
+        "text": "=",
+        "rect": [
+          650.0,
+          482.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "22",
+        "name": "p002_s01_b010_2_simplify_steps_simplify_rhs4",
+        "text": "2210（米）",
+        "rect": [
+          692.0,
+          482.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "9",
+        "name": "title",
+        "text": "原书第2页　一、7（续）",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "text": "原题底本第6页　输入PDF第6页　解析续页3",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "native_math": false
+      }
+    ]
+  },
+  {
+    "volume": 1,
+    "slide": 66,
+    "record_key": "p003_s05",
+    "output_pptx_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slide_xml_sha256": "f07c58e79b26ae3b8000257a55d9e263e4f0f38d29173af69480faf88faf43e3",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "text": "66",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p003_s05_b000_0_p0",
+        "text": "计算下列各题：",
+        "rect": [
+          64.0,
+          124.50005249343832,
+          302.6666666666667,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "5",
+        "name": "p003_s05_b000_0_p1",
+        "text": "[396÷(302-291)]×58",
+        "rect": [
+          362.6666666666667,
+          130.953280839895,
+          424.29333333333335,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "6",
+        "name": "p003_s05_b000_0_p2",
+        "text": "。",
+        "rect": [
+          789.96,
+          124.50005249343832,
+          46.666666666666664,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "7",
+        "name": "p003_s05_b001_1",
+        "text": "[396÷(302-291)]×58",
+        "rect": [
+          106.0,
+          202.45333333333335,
+          424.29333333333335,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "8",
+        "name": "p003_s05_b002_2_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          266.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "9",
+        "name": "p003_s05_b002_2",
+        "text": "(396÷11)×58",
+        "rect": [
+          106.0,
+          271.4533333333333,
+          273.1333333333333,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "10",
+        "name": "p003_s05_b003_3_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          335.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "11",
+        "name": "p003_s05_b003_3",
+        "text": "36×58",
+        "rect": [
+          106.0,
+          346.2,
+          132.58666666666667,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "12",
+        "name": "p003_s05_b004_4_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          404.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "15",
+        "name": "p003_s05_b004_4_retained_original",
+        "text": "2088",
+        "rect": [
+          106.0,
+          416.97333333333336,
+          80.64,
+          30.053333333333335
+        ],
+        "native_math": true
+      },
+      {
+        "id": "16",
+        "name": "p003_s05_b004_4_simplify_title",
+        "text": "简便提示（学完运算律后）",
+        "rect": [
+          650.0,
+          206.0,
+          560.0,
+          36.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "17",
+        "name": "p003_s05_b004_4_simplify_explain",
+        "text": "58看成60少2，再减回多算部分。",
+        "rect": [
+          650.0,
+          244.0,
+          560.0,
+          32.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "19",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_rhs0",
+        "text": "36×58",
+        "rect": [
+          692.0,
+          276.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "20",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_equals1",
+        "text": "=",
+        "rect": [
+          650.0,
+          344.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "21",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_rhs1",
+        "text": "36×(60-2)",
+        "rect": [
+          692.0,
+          344.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "22",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_equals2",
+        "text": "=",
+        "rect": [
+          650.0,
+          412.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "23",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_rhs2",
+        "text": "36×60-36×2",
+        "rect": [
+          692.0,
+          412.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "24",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_equals3",
+        "text": "=",
+        "rect": [
+          650.0,
+          480.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "25",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_rhs3",
+        "text": "2160-72",
+        "rect": [
+          692.0,
+          480.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "26",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_equals4",
+        "text": "=",
+        "rect": [
+          650.0,
+          548.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "27",
+        "name": "p003_s05_b004_4_simplify_steps_simplify_rhs4",
+        "text": "2088",
+        "rect": [
+          692.0,
+          548.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "14",
+        "name": "title",
+        "text": "原书第3页　三、2（5）",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "text": "原题底本第7页　输入PDF第7页",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "native_math": false
+      }
+    ]
+  },
+  {
+    "volume": 1,
+    "slide": 73,
+    "record_key": "p003_s07",
+    "output_pptx_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slide_xml_sha256": "55fe4aa7cb12b50d84fc70527b1b7baaf1fae0931abab5524c4756a14139c344",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "text": "73",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p003_s07_b012_0",
+        "text": "总量与已处理量分别平均分（学完运算律后简算）",
+        "rect": [
+          64.0,
+          120.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "5",
+        "name": "p003_s07_b013_1",
+        "text": "4×18÷4-32÷4",
+        "rect": [
+          106.0,
+          205.2,
+          346.93333333333334,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "6",
+        "name": "p003_s07_b014_2_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          263.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "7",
+        "name": "p003_s07_b014_2",
+        "text": "(4÷4)×18-32÷4",
+        "rect": [
+          106.0,
+          268.4533333333333,
+          1100.0,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "8",
+        "name": "p003_s07_b015_3_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          332.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "9",
+        "name": "p003_s07_b015_3",
+        "text": "1×18-8",
+        "rect": [
+          106.0,
+          343.2,
+          1100.0,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "10",
+        "name": "p003_s07_b016_4_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          401.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "16",
+        "name": "p003_s07_b016_4_simplify_rhs0",
+        "text": "18-8",
+        "rect": [
+          106.0,
+          401.0,
+          1110.0,
+          56.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "17",
+        "name": "p003_s07_b016_4_simplify_equals1",
+        "text": "=",
+        "rect": [
+          64.0,
+          457.0,
+          34.0,
+          56.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "18",
+        "name": "p003_s07_b016_4_simplify_rhs1",
+        "text": "10（千克）",
+        "rect": [
+          106.0,
+          457.0,
+          1110.0,
+          56.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "12",
+        "name": "p003_s07_b017_5_p0",
+        "text": "答：平均每批送",
+        "rect": [
+          64.0,
+          545.5000524934384,
+          302.6666666666667,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "13",
+        "name": "p003_s07_b017_5_p1",
+        "text": "10",
+        "rect": [
+          362.6666666666667,
+          559.4733858267716,
+          41.64,
+          30.053333333333335
+        ],
+        "native_math": true
+      },
+      {
+        "id": "14",
+        "name": "p003_s07_b017_5_p2",
+        "text": "千克。",
+        "rect": [
+          407.3066666666667,
+          545.5000524934384,
+          132.0,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "15",
+        "name": "title",
+        "text": "原书第3页　四、1",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "text": "原题底本第7页　输入PDF第7页　解析续页6",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "native_math": false
+      }
+    ]
+  },
+  {
+    "volume": 1,
+    "slide": 120,
+    "record_key": "p005_s05",
+    "output_pptx_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slide_xml_sha256": "c138f4bddeea50538adf19fa16184a0c491dc757f344413c713a59d777e64ee1",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "text": "120",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p005_s05_b000_0_p0",
+        "text": "630减去78的差乘14再除以7，商是",
+        "rect": [
+          64.0,
+          126.50005249343832,
+          736.0,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "5",
+        "name": "p005_s05_b000_0_p1_left",
+        "text": "（",
+        "rect": [
+          796.0,
+          124.50005249343832,
+          45.666666666666664,
+          62.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "6",
+        "name": "p005_s05_b000_0_p1_right",
+        "text": "）",
+        "rect": [
+          934.3066666666666,
+          124.50005249343832,
+          45.666666666666664,
+          62.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "7",
+        "name": "p005_s05_b000_0_p2",
+        "text": "。",
+        "rect": [
+          979.9733333333334,
+          126.50005249343832,
+          46.666666666666664,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "8",
+        "name": "p005_s05_b001_1_p0",
+        "text": "“差乘",
+        "rect": [
+          64.0,
+          202.50005249343832,
+          132.0,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "9",
+        "name": "p005_s05_b001_1_p1",
+        "text": "14",
+        "rect": [
+          192.0,
+          216.47338582677165,
+          41.64,
+          30.053333333333335
+        ],
+        "native_math": true
+      },
+      {
+        "id": "10",
+        "name": "p005_s05_b001_1_p2",
+        "text": "再除以",
+        "rect": [
+          236.64,
+          202.50005249343832,
+          132.0,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "11",
+        "name": "p005_s05_b001_1_p3",
+        "text": "7",
+        "rect": [
+          364.64,
+          216.47338582677165,
+          22.14666666666667,
+          30.053333333333335
+        ],
+        "native_math": true
+      },
+      {
+        "id": "12",
+        "name": "p005_s05_b001_1_p4",
+        "text": "”应列",
+        "rect": [
+          389.7866666666667,
+          202.50005249343832,
+          132.0,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "13",
+        "name": "p005_s05_b001_1_p5",
+        "text": "(630-78)×14÷7",
+        "rect": [
+          517.7866666666666,
+          208.953280839895,
+          344.5733333333333,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "14",
+        "name": "p005_s05_b001_1_p6",
+        "text": "。",
+        "rect": [
+          865.36,
+          202.50005249343832,
+          46.666666666666664,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "15",
+        "name": "p005_s05_b002_2",
+        "text": "(630-78)×14÷7",
+        "rect": [
+          106.0,
+          280.4533333333333,
+          344.5733333333333,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "16",
+        "name": "p005_s05_b003_3_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          344.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "17",
+        "name": "p005_s05_b003_3",
+        "text": "552×14÷7",
+        "rect": [
+          106.0,
+          355.2,
+          223.53333333333333,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "18",
+        "name": "p005_s05_b004_4_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          413.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "19",
+        "name": "p005_s05_b004_4",
+        "text": "7728÷7",
+        "rect": [
+          106.0,
+          424.2,
+          152.08,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "20",
+        "name": "p005_s05_b005_5_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          482.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "21",
+        "name": "p005_s05_b005_5",
+        "text": "1104",
+        "rect": [
+          106.0,
+          494.97333333333336,
+          80.64,
+          30.053333333333335
+        ],
+        "native_math": true
+      },
+      {
+        "id": "22",
+        "name": "p005_s05_b006_6_p0",
+        "text": "简便提示",
+        "rect": [
+          650.0,
+          270.0,
+          560.0,
+          36.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "30",
+        "name": "p005_s05_b006_6_p1_simplify_rhs0",
+        "text": "(630-78)×14÷7",
+        "rect": [
+          692.0,
+          346.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "31",
+        "name": "p005_s05_b006_6_p1_simplify_equals1",
+        "text": "=",
+        "rect": [
+          650.0,
+          418.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "32",
+        "name": "p005_s05_b006_6_p1_simplify_rhs1",
+        "text": "(630-78)×(14÷7)",
+        "rect": [
+          692.0,
+          418.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "33",
+        "name": "p005_s05_b006_6_p1_simplify_equals2",
+        "text": "=",
+        "rect": [
+          650.0,
+          490.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "34",
+        "name": "p005_s05_b006_6_p1_simplify_rhs2",
+        "text": "552×2",
+        "rect": [
+          692.0,
+          490.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "35",
+        "name": "p005_s05_b006_6_p1_simplify_equals3",
+        "text": "=",
+        "rect": [
+          650.0,
+          562.0,
+          34.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "36",
+        "name": "p005_s05_b006_6_p1_simplify_rhs3",
+        "text": "1104",
+        "rect": [
+          692.0,
+          562.0,
+          518.0,
+          72.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "24",
+        "name": "p005_s05_b006_6_p2",
+        "text": "（学完运算律后）",
+        "rect": [
+          650.0,
+          308.0,
+          560.0,
+          32.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "25",
+        "name": "p005_s05_b006_6_p3",
+        "text": "括号减法与除法可同时算。",
+        "rect": [
+          650.0,
+          641.0,
+          560.0,
+          28.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "26",
+        "name": "p005_s05_b006_6_p4",
+        "text": "",
+        "rect": [
+          64.0,
+          124.0,
+          1.0,
+          1.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "27",
+        "name": "p005_s05_b006_6_p5",
+        "text": "",
+        "rect": [
+          64.0,
+          124.0,
+          1.0,
+          1.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "28",
+        "name": "p005_s05_b006_6_p6",
+        "text": "",
+        "rect": [
+          64.0,
+          124.0,
+          1.0,
+          1.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "29",
+        "name": "title",
+        "text": "原书第5页　一、4",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "text": "原题底本第9页　输入PDF第11页",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "native_math": false
+      }
+    ]
+  },
+  {
+    "volume": 1,
+    "slide": 162,
+    "record_key": "p007_s05",
+    "output_pptx_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slide_xml_sha256": "a8e67afec45b2febb49034825ba31903302bfc7b001b7d3abcf79f9dbb265cd7",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "text": "162",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p007_s05_b000_0_p0",
+        "text": "计算下列各题：",
+        "rect": [
+          64.0,
+          124.50005249343832,
+          302.6666666666667,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "5",
+        "name": "p007_s05_b000_0_p1",
+        "text": "[73×(38+55)]-2876",
+        "rect": [
+          362.6666666666667,
+          130.953280839895,
+          402.3333333333333,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "6",
+        "name": "p007_s05_b000_0_p2",
+        "text": "。",
+        "rect": [
+          768.0,
+          124.50005249343832,
+          46.666666666666664,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "7",
+        "name": "p007_s05_b001_1",
+        "text": "[73×(38+55)]-2876",
+        "rect": [
+          106.0,
+          202.45333333333335,
+          402.3333333333333,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "8",
+        "name": "p007_s05_b002_2_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          266.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "9",
+        "name": "p007_s05_b002_2",
+        "text": "73×93-2876",
+        "rect": [
+          106.0,
+          277.2,
+          262.52,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "10",
+        "name": "p007_s05_b003_3_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          335.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "11",
+        "name": "p007_s05_b003_3",
+        "text": "6789-2876",
+        "rect": [
+          106.0,
+          346.2,
+          210.57333333333332,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "12",
+        "name": "p007_s05_b004_4_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          404.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "15",
+        "name": "p007_s05_b004_4_retained_original",
+        "text": "3913",
+        "rect": [
+          106.0,
+          416.97333333333336,
+          80.64,
+          30.053333333333335
+        ],
+        "native_math": true
+      },
+      {
+        "id": "16",
+        "name": "p007_s05_b004_4_simplify_title",
+        "text": "简便提示（学完运算律后）",
+        "rect": [
+          650.0,
+          206.0,
+          560.0,
+          36.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "17",
+        "name": "p007_s05_b004_4_simplify_explain",
+        "text": "93看成100少7，再减回多算部分。",
+        "rect": [
+          650.0,
+          244.0,
+          560.0,
+          32.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "19",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_rhs0",
+        "text": "73×93",
+        "rect": [
+          692.0,
+          276.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "20",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_equals1",
+        "text": "=",
+        "rect": [
+          650.0,
+          344.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "21",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_rhs1",
+        "text": "73×(100-7)",
+        "rect": [
+          692.0,
+          344.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "22",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_equals2",
+        "text": "=",
+        "rect": [
+          650.0,
+          412.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "23",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_rhs2",
+        "text": "73×100-73×7",
+        "rect": [
+          692.0,
+          412.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "24",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_equals3",
+        "text": "=",
+        "rect": [
+          650.0,
+          480.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "25",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_rhs3",
+        "text": "7300-511",
+        "rect": [
+          692.0,
+          480.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "26",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_equals4",
+        "text": "=",
+        "rect": [
+          650.0,
+          548.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "27",
+        "name": "p007_s05_b004_4_simplify_steps_simplify_rhs4",
+        "text": "6789",
+        "rect": [
+          692.0,
+          548.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "14",
+        "name": "title",
+        "text": "原书第7页　三、4",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "text": "原题底本第11页　输入PDF第13页",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "native_math": false
+      }
+    ]
+  },
+  {
+    "volume": 1,
+    "slide": 256,
+    "record_key": "p011_s08",
+    "output_pptx_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slide_xml_sha256": "3a0adf53199413a28e5cf1a9f7d8bf6f2a22c8506fff957a303a9b369f40e1ff",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "text": "256",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p011_s08_b000_0_p0",
+        "text": "计算下列各题：",
+        "rect": [
+          64.0,
+          124.50005249343832,
+          302.6666666666667,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "5",
+        "name": "p011_s08_b000_0_p1",
+        "text": "28÷4+63×25",
+        "rect": [
+          362.6666666666667,
+          136.7000524934383,
+          292.52,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "6",
+        "name": "p011_s08_b000_0_p2",
+        "text": "。",
+        "rect": [
+          658.1866666666666,
+          124.50005249343832,
+          46.666666666666664,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "7",
+        "name": "p011_s08_b001_1",
+        "text": "28÷4+63×25",
+        "rect": [
+          106.0,
+          208.2,
+          292.52,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "8",
+        "name": "p011_s08_b002_2_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          266.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "9",
+        "name": "p011_s08_b002_2",
+        "text": "7+1575",
+        "rect": [
+          106.0,
+          277.6200524934383,
+          149.62666666666667,
+          32.76
+        ],
+        "native_math": true
+      },
+      {
+        "id": "10",
+        "name": "p011_s08_b003_3_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          335.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "13",
+        "name": "p011_s08_b003_3_retained_original",
+        "text": "1582",
+        "rect": [
+          106.0,
+          347.97333333333336,
+          80.64,
+          30.053333333333335
+        ],
+        "native_math": true
+      },
+      {
+        "id": "14",
+        "name": "p011_s08_b003_3_simplify_title",
+        "text": "运算律口算提示（学完运算律后）",
+        "rect": [
+          650.0,
+          200.0,
+          560.0,
+          36.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "15",
+        "name": "p011_s08_b003_3_simplify_explain",
+        "text": "把63按位展开；再与前面所得7相加。",
+        "rect": [
+          650.0,
+          238.0,
+          560.0,
+          32.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "17",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_rhs0",
+        "text": "63×25",
+        "rect": [
+          692.0,
+          270.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "18",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_equals1",
+        "text": "=",
+        "rect": [
+          650.0,
+          338.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "19",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_rhs1",
+        "text": "(60+3)×25",
+        "rect": [
+          692.0,
+          338.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "20",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_equals2",
+        "text": "=",
+        "rect": [
+          650.0,
+          406.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "21",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_rhs2",
+        "text": "60×25+3×25",
+        "rect": [
+          692.0,
+          406.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "22",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_equals3",
+        "text": "=",
+        "rect": [
+          650.0,
+          474.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "23",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_rhs3",
+        "text": "1500+75",
+        "rect": [
+          692.0,
+          474.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "24",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_equals4",
+        "text": "=",
+        "rect": [
+          650.0,
+          542.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "25",
+        "name": "p011_s08_b003_3_simplify_steps_simplify_rhs4",
+        "text": "1575",
+        "rect": [
+          692.0,
+          542.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "12",
+        "name": "title",
+        "text": "原书第11页　三、2（3）",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "text": "原题底本第15页　输入PDF第18页",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "native_math": false
+      }
+    ]
+  },
+  {
+    "volume": 1,
+    "slide": 339,
+    "record_key": "p015_s08",
+    "output_pptx_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+    "slide_xml_sha256": "b8d277bd4dd54f6c98ad491cece13ab3293a81774091bb56bb29378f20c70f49",
+    "actual_objects": [
+      {
+        "id": "3",
+        "name": "slide_number",
+        "text": "339",
+        "rect": [
+          1170.0,
+          674.0,
+          50.0,
+          26.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "4",
+        "name": "p015_s08_b000_0_p0",
+        "text": "计算下列各题：",
+        "rect": [
+          64.0,
+          124.50005249343832,
+          302.6666666666667,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "5",
+        "name": "p015_s08_b000_0_p1",
+        "text": "[288÷(295-289)]×17",
+        "rect": [
+          362.6666666666667,
+          130.953280839895,
+          424.29333333333335,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "6",
+        "name": "p015_s08_b000_0_p2",
+        "text": "。",
+        "rect": [
+          789.96,
+          124.50005249343832,
+          46.666666666666664,
+          58.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "7",
+        "name": "p015_s08_b001_1",
+        "text": "[288÷(295-289)]×17",
+        "rect": [
+          106.0,
+          202.45333333333335,
+          424.29333333333335,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "8",
+        "name": "p015_s08_b002_2_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          266.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "9",
+        "name": "p015_s08_b002_2",
+        "text": "(288÷6)×17",
+        "rect": [
+          106.0,
+          271.4533333333333,
+          253.64,
+          45.093333333333334
+        ],
+        "native_math": true
+      },
+      {
+        "id": "10",
+        "name": "p015_s08_b003_3_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          335.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "11",
+        "name": "p015_s08_b003_3",
+        "text": "48×17",
+        "rect": [
+          106.0,
+          346.2,
+          132.58666666666667,
+          33.6
+        ],
+        "native_math": true
+      },
+      {
+        "id": "12",
+        "name": "p015_s08_b004_4_operator",
+        "text": "=",
+        "rect": [
+          64.0,
+          404.0,
+          34.0,
+          54.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "15",
+        "name": "p015_s08_b004_4_retained_original",
+        "text": "816",
+        "rect": [
+          106.0,
+          416.97333333333336,
+          61.14666666666667,
+          30.053333333333335
+        ],
+        "native_math": true
+      },
+      {
+        "id": "16",
+        "name": "p015_s08_b004_4_simplify_title",
+        "text": "简便提示（学完运算律后）",
+        "rect": [
+          650.0,
+          200.0,
+          560.0,
+          36.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "17",
+        "name": "p015_s08_b004_4_simplify_explain",
+        "text": "48看成50少2，两个乘法同时算。",
+        "rect": [
+          650.0,
+          238.0,
+          560.0,
+          32.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "19",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_rhs0",
+        "text": "48×17",
+        "rect": [
+          692.0,
+          270.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "20",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_equals1",
+        "text": "=",
+        "rect": [
+          650.0,
+          338.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "21",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_rhs1",
+        "text": "(50-2)×17",
+        "rect": [
+          692.0,
+          338.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "22",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_equals2",
+        "text": "=",
+        "rect": [
+          650.0,
+          406.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "23",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_rhs2",
+        "text": "50×17-2×17",
+        "rect": [
+          692.0,
+          406.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "24",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_equals3",
+        "text": "=",
+        "rect": [
+          650.0,
+          474.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "25",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_rhs3",
+        "text": "850-34",
+        "rect": [
+          692.0,
+          474.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "26",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_equals4",
+        "text": "=",
+        "rect": [
+          650.0,
+          542.0,
+          34.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "27",
+        "name": "p015_s08_b004_4_simplify_steps_simplify_rhs4",
+        "text": "816",
+        "rect": [
+          692.0,
+          542.0,
+          518.0,
+          68.0
+        ],
+        "native_math": true
+      },
+      {
+        "id": "14",
+        "name": "title",
+        "text": "原书第15页　三、2（4）",
+        "rect": [
+          64.0,
+          32.0,
+          1152.0,
+          64.0
+        ],
+        "native_math": false
+      },
+      {
+        "id": "2",
+        "name": "source",
+        "text": "原题底本第19页　输入PDF第22页",
+        "rect": [
+          64.0,
+          674.0,
+          1060.0,
+          26.0
+        ],
+        "native_math": false
+      }
+    ]
+  }
+]

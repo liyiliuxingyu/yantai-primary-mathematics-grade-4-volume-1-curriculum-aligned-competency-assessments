@@ -1,0 +1,191 @@
+{
+  "book_page": 69,
+  "source_page": 73,
+  "records": [
+    {
+      "key": "p069_s01",
+      "book_page": 69,
+      "source_page": 73,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "将一个图形沿一条（    ）对折，如果两侧的部分能够完全重合，这样的图形叫作（    ），折痕所在的直线叫作它的（    ）。对应点到对称轴的距离（    ），对应点的连线与对称轴互相（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "轴对称的定义：沿一条直线对折后，两部分完全重合，这条直线叫对称轴。依次填“直线、轴对称图形、对称轴”。对应点到轴的距离“相等”，对应点连线与轴互相“垂直”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p069_s02",
+      "book_page": 69,
+      "source_page": 73,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "图形平移时，图形的（    ）和（    ）不发生改变，只改变（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "平移只改变图形的“位置”，不改变“形状”和“大小”。比较前后对应边的长度与方向，就可检验是否为平移。检验时找两组对应点：它们移动的方向和距离应相同，对应边的朝向也保持不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p069_s03",
+      "book_page": 69,
+      "source_page": 73,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "下图中，是平移现象画“△”，是旋转现象画“○”。图示依次是：滑动解锁、坐摩天轮、开冰箱门、坐缆车。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p069_everyday_motion",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\begin{scope}\\draw(0,0)rectangle(1.4,2.2);\\draw(.1,.3)rectangle(1.3,1.9);\\draw[->](.3,.7)--(1.1,.7);\\node[below]at(.7,-.2){滑动解锁};\\end{scope}\\begin{scope}[shift={(4,1)}]\\draw(0,0)circle(1);\\foreach \\a in {0,45,...,315}{\\draw(0,0)--(\\a:1);\\draw(\\a:1)++(-.15,-.15)rectangle++(.3,.3);}\\draw(-.6,-1.4)--(0,0)--(.6,-1.4);\\draw(-.8,-1.4)--(.8,-1.4);\\node[below]at(0,-1.7){坐摩天轮};\\end{scope}\\begin{scope}[shift={(7.2,0)}]\\draw(0,0)rectangle(1.2,2.2);\\draw(0,1.4)--(1.2,1.4);\\draw(1.2,0)--(2,.3)--(2,2.5)--(1.2,2.2);\\draw[->](1.3,-.3)arc(-90:-10:.6);\\node[below]at(.9,-.7){开冰箱门};\\end{scope}\\begin{scope}[shift={(11,0)}]\\draw(0,1.5)--(2.5,2.5);\\foreach \\x/\\y in {.5/1.7,1.8/2.22}{\\draw(\\x,\\y)--(\\x,\\y-.5);\\draw(\\x-.3,\\y-.5)rectangle(\\x+.3,\\y-1.1);}\\draw[->](.3,2.1)--(1.1,2.42);\\node[below]at(1.25,-.2){坐缆车};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "非定量生活图重画为清晰线图；滑动解锁、沿直线缆索前进为平移，轮与冰箱门绕固定点或轴转动。"
+        }
+      ],
+      "answer_latex": "滑动解锁和缆车沿轨道前进，朝向保持不变，画△；摩天轮和冰箱门绕中心或门轴转动，画○。依次为△、○、○、△。注意题目要求的是运动方式，不是图片本身的对称性。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "illustration_description": "依次为滑动解锁、摩天轮、开冰箱门、沿直线缆索行进的缆车。"
+    },
+    {
+      "key": "p069_s04",
+      "book_page": 69,
+      "source_page": 73,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "如图，李阿姨将2千克物品放在台秤上，指针从0刻度开始顺时针旋转\\(90^\\circ\\)，再放2千克物品，指针会（    ）时针再旋转（    ）度；如果李阿姨把4千克物品全部拿走，那么指针会（    ）时针旋转（    ）度。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p069_scale",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\draw(-1.2,-1.4)--(1.2,-1.4)--(.9,.2)--(-.9,.2)--cycle;\\draw(0,-.55)circle(.6);\\foreach \\a/\\v in {90/0,45/1,0/2,-45/3,-90/4,-135/5,180/6,135/7}{\\node at({.49*cos(\\a)},{-.55+.49*sin(\\a)}){\\tiny\\v};}\\draw[->](0,-.55)--(0,-.1);\\draw(0,.45)ellipse(1.2 and .3);\\draw[fill=white](-.65,.5)rectangle(.65,1.1);\\node at(0,.8){2千克};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "先放2千克顺时针90°，再放同样2千克，按图示均匀刻度再顺时针90°；拿走全部4千克，就从4千克刻度退回0，逆时针180°。填“顺、90、逆、180”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "rotation_sequence",
+        "center": [
+          0,
+          -0.55
+        ],
+        "object_points": [
+          [
+            0,
+            -0.55
+          ],
+          [
+            0,
+            -0.1
+          ]
+        ],
+        "steps": [
+          {
+            "angle": 90,
+            "direction": "clockwise"
+          },
+          {
+            "angle": 90,
+            "direction": "clockwise"
+          },
+          {
+            "angle": 180,
+            "direction": "counterclockwise"
+          }
+        ],
+        "closed": false,
+        "endpoint_markers": "arrow_end"
+      }
+    },
+    {
+      "key": "p069_s05",
+      "book_page": 69,
+      "source_page": 73,
+      "section_index": 4,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "如图，若AB的长度是4厘米，则A点到对称轴的距离是（    ）厘米，点C和点F到对称轴的距离都是（    ）厘米，点D的对称点是点（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p069_tree",
+          "tikz": "\\begin{tikzpicture}[x=.5cm,y=.5cm]\\draw[step=1,gray!60](0,0)grid(10,5);\\filldraw[fill=gray!20](5,5)--(3,3)node[left]{A}--(4,3)--(2,1)node[left]{C}--(4,1)node[above left]{D}--(4,0)--(6,0)--(6,1)node[above right]{E}--(8,1)node[right]{F}--(6,3)--(7,3)node[right]{B}--cycle;\\draw[dashed](5,-.3)--(5,5.3);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "AB连接一对对称点，长度4厘米，对称轴平分AB，所以A距轴\\(4\\div2=2\\)厘米。按方格，C、F到轴各3格；由AB跨4格等于4厘米知每格1厘米，所以都是3厘米。D的镜像为E。填2、3、E。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

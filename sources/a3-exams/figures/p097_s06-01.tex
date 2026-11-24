@@ -1,0 +1,17 @@
+% A 10:4 rectangle and an oblique sheet. Both angles share the same vertex.
+\begin{tikzpicture}[x=1bp,y=1bp,line width=.78bp,line cap=round,line join=round,
+  font=\fontsize{10.7bp}{12bp}\selectfont,inner sep=0pt]
+  \begin{scope}[rotate=-8]
+    \draw (0,0) rectangle (85,34);
+    \coordinate (crossing) at (24,0);
+    \coordinate (apex) at ($(crossing)+(102:58)$);
+    \coordinate (leftbase) at ($(crossing)+(-78:15)$);
+    \draw (apex) -- (leftbase) -- (80,-1.8) -- cycle;
+    \begin{scope}[shift={(crossing)}]
+      \draw[line width=.62bp] (0:8.7) arc[start angle=0,end angle=102,radius=8.7bp];
+      \draw[line width=.62bp] (102:11.4) arc[start angle=102,end angle=180,radius=11.4bp];
+      \node at (48:14.3) {$1$};
+      \node at (143:17.0) {$2$};
+    \end{scope}
+  \end{scope}
+\end{tikzpicture}

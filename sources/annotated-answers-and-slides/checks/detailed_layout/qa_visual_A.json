@@ -1,0 +1,1336 @@
+{
+  "run": "followup_unit1_trees_final",
+  "pdf": "/workspace/scratch/1facfb035d44/detail_work/deliverables/小学同步素养四年级上册数学答案.pdf",
+  "pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "hash_verified": true,
+  "reviewed_book_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "passed": true,
+  "blocking_layout_errors": 0,
+  "minor_issues_count": 0,
+  "review_scope": {
+    "overall_contact_sheet_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "pages_1_9": "主代理A实际看18张上下半页裁图，覆盖9页全部区域；595px宽预览裁切后2倍显示，不冒充PDF原生高DPI逐字检查。",
+    "pages_10_18": "子代理实际看9张完整单页图及15张200%重点裁图。",
+    "pages_19_27": "子代理实际看9张完整单页图及20张200%重点裁图，另看1张PDF原生4倍局部图。",
+    "all_27_have_more_than_overview": true,
+    "overview_only_pages": [],
+    "enlarged_preview_crops_viewed_total": 53,
+    "native_4x_crops_viewed": 1,
+    "no_notes_or_pdf_edits_during_review_except_authorized_fix": "仅后续得到主代理授权后，将p006_s06分子替换为被除数；没有改mainPDF。"
+  },
+  "review_sections": {
+    "pages_1_9": {
+      "pdf_sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0",
+      "reviewer": "/root/detail_a",
+      "reviewed_book_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "overview_only_additional_pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "scope": "先实际看过27页拼图总览；对1–9页分别实际查看上下半页完整裁图，共18张，覆盖每页全部区域。裁图由595像素宽的成品预览裁切并放大2倍显示，不冒充从PDF重新高DPI渲染或称其为27页逐字大图检查。",
+      "pages": [
+        {
+          "book_page": 1,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p001_top_2x.png",
+            "visual_A/p001_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "两张流程图、综合式对应说明",
+            "还原被除数的两组新增脱式",
+            "比较式与跨页题头",
+            "页脚1"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": true
+        },
+        {
+          "book_page": 2,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p002_top_2x.png",
+            "visual_A/p002_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "跨页续文与两种路程方法",
+            "剪绳两种方法，首式以续等号起",
+            "位置示意图与组口算",
+            "页脚2"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": true
+        },
+        {
+          "book_page": 3,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p003_top_2x.png",
+            "visual_A/p003_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "六道原脱式与逐题新说明",
+            "两张原分析流程图完整边框",
+            "原方法与分别平均分另法",
+            "页脚3"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": true
+        },
+        {
+          "book_page": 4,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p004_top_2x.png",
+            "visual_A/p004_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "机器人原脱式与新增说明",
+            "门票表及旺季日期、补差法",
+            "糖果袋数/块数两问与各自两法",
+            "24点卡牌图和四种新增结构",
+            "页脚4"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": true
+        },
+        {
+          "book_page": 5,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p005_top_2x.png",
+            "visual_A/p005_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "流程图与分开求三倍法",
+            "新增p005_s05数字链",
+            "比较与两道分步合式说明",
+            "页脚5"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": true
+        },
+        {
+          "book_page": 6,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p006_top_2x.png",
+            "visual_A/p006_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "羽毛球两种平均分方法",
+            "图形代表数说明",
+            "两种乘除结构对比",
+            "逆推选择原黑过程和说明",
+            "页脚6"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": false
+        },
+        {
+          "book_page": 7,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p007_top_2x.png",
+            "visual_A/p007_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "六道原脱式及新说明",
+            "小票与分析流程图完整性",
+            "椅子费用另法及原答语",
+            "页脚7"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": true
+        },
+        {
+          "book_page": 8,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p008_top_2x.png",
+            "visual_A/p008_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "租金优惠前门槛与另法",
+            "倍数差另法",
+            "份数法说明",
+            "括号最大/最小新续等号与五种结构",
+            "页脚8"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": true
+        },
+        {
+          "book_page": 9,
+          "entire_preview_coverage": true,
+          "viewed_crops": [
+            "visual_A/p009_top_2x.png",
+            "visual_A/p009_bottom_2x.png"
+          ],
+          "checked_regions": [
+            "七组线及五个图形完整边界",
+            "平行/垂直符号和分类说明",
+            "距离与周长说明",
+            "自然跨页题头仅保留原红第一空",
+            "页脚9"
+          ],
+          "layout_passed": true,
+          "content_terminology_passed": true
+        }
+      ],
+      "issues": [
+        {
+          "key": "p006_s06",
+          "book_page": 6,
+          "severity": "minor",
+          "category": "primary_math_terminology",
+          "finding": "详注“分子与除数是两个相同且不为0的乘积”将普通除法的被除数称为分子。",
+          "recommendation": "将“分子”替换为“被除数”。",
+          "reported_to_parent": true,
+          "notes_modified": false,
+          "fix_status": "主代理已授权，仅此key已在notes_A.json修正为被除数；此final3 PDF尚未包含改字，待变化页重建验证。"
+        }
+      ],
+      "passed": false,
+      "layout_passed": true,
+      "checks": {
+        "new_numeric_chains_visually_present": true,
+        "no_block_obstruction_found": true,
+        "no_diagram_cut_found": true,
+        "no_repeated_original_first_expression_found": true,
+        "no_unexplained_duplicate_result_block_found": true,
+        "all_footers_visible": true
+      }
+    },
+    "pages_10_18": {
+      "run": "final3",
+      "scope": "原书10–18页最终视觉复核",
+      "expected_source_pdf_sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0",
+      "pdf_hashes_read": [
+        {
+          "file": "detailed_layout/runs/final3/详细题内答案成品.pdf",
+          "sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0"
+        },
+        {
+          "file": "detailed_layout/runs/final3/optimized.pdf",
+          "sha256": "efebb32d7fbd080c2750920e2382826addf468bed6d549820410c95d73a13102"
+        }
+      ],
+      "review_order": [
+        "九页拼图总览",
+        "逐页完整图像p010至p018",
+        "15个200%局部放大图"
+      ],
+      "overview_artifact": "detailed_layout/visual_A_10_18/overview.png",
+      "notes_modified": false,
+      "all_pages_full_image_viewed": true,
+      "only_overview_pages": [],
+      "pages": [
+        {
+          "book_page": 10,
+          "full_image_path": "detailed_layout/runs/final3/previews/p010.png",
+          "full_image_dimensions": [
+            595,
+            1305
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "点到直线距离题及条件限定说明",
+              "box": [
+                55,
+                295,
+                585,
+                610
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p010_distance_and_note.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "各选择题注释与黑题间留白可分辨；无相互遮挡",
+            "读图不确定条件仍可见；未填伪造唯一数值",
+            "页脚10完整"
+          ],
+          "issues": [],
+          "passed": true
+        },
+        {
+          "book_page": 11,
+          "full_image_path": "detailed_layout/runs/final3/previews/p011.png",
+          "full_image_dimensions": [
+            595,
+            1210
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "四道竖式、三道完整脱式与逐题详细说明",
+              "box": [
+                55,
+                225,
+                585,
+                740
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p011_vertical_and_mixed.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            },
+            {
+              "name": "过A平行线/垂线及长方形补边",
+              "box": [
+                200,
+                795,
+                420,
+                1135
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p011_drawings.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "四道竖式数位与原完整脱式可辨；新增注释没有再复制首式",
+            "过A两条直线、原l、垂足直角均保留完整",
+            "补成长方形的两条红边闭合；页脚11完整"
+          ],
+          "issues": [],
+          "passed": true
+        },
+        {
+          "book_page": 12,
+          "full_image_path": "detailed_layout/runs/final3/previews/p012.png",
+          "full_image_dimensions": [
+            595,
+            1263
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "周长求边长两种方法及面积小问",
+              "box": [
+                60,
+                250,
+                585,
+                680
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p012_two_methods.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            },
+            {
+              "name": "两村接国道的垂线路线及AB桥线",
+              "box": [
+                300,
+                715,
+                525,
+                855
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p012_road_drawings.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "两种求边长方法的等号纵列对齐，数学链84÷2→42、84−24→60均正确",
+            "两种真正不同的方法共用一次答语；面积题保留原红结果，详细说明未另复制脱式",
+            "两村垂线路线、桥线、阳光大道图无切割；页脚12完整"
+          ],
+          "issues": [],
+          "passed": true
+        },
+        {
+          "book_page": 13,
+          "full_image_path": "detailed_layout/runs/final3/previews/p013.png",
+          "full_image_dimensions": [
+            595,
+            1097
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "平行线间垂线段图、斜线段比较与跨页题起始",
+              "box": [
+                65,
+                800,
+                585,
+                1040
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p013_geometry_conditions.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "平行/垂直六组图及各空答案保持可读",
+            "5厘米条件、三条垂线段与两斜线段比较文字对应原图",
+            "跨页题头未重复补一套解析；页脚13完整"
+          ],
+          "issues": [],
+          "passed": true
+        },
+        {
+          "book_page": 14,
+          "full_image_path": "detailed_layout/runs/final3/previews/p014.png",
+          "full_image_dimensions": [
+            595,
+            1119
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "三线两两相交、平行传递及折纸条件限定",
+              "box": [
+                65,
+                345,
+                585,
+                705
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p014_intersections_folds.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "承接上一页两空的解析在本页可读",
+            "三对直线的最多/最少交点说明与题设一致；折纸保留通常方式及可能限定",
+            "救援船、河岸题图与注释无覆盖；页脚14完整"
+          ],
+          "issues": [],
+          "passed": true
+        },
+        {
+          "book_page": 15,
+          "full_image_path": "detailed_layout/runs/final3/previews/p015.png",
+          "full_image_dimensions": [
+            595,
+            1134
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "四题脱式、运算顺序与注释",
+              "box": [
+                60,
+                380,
+                585,
+                665
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p015_mixed_steps.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            },
+            {
+              "name": "AB长3厘米的作图及小鸭路线",
+              "box": [
+                210,
+                710,
+                540,
+                1060
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p015_drawings.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "四道原脱式完整，新增注释逐小问对应，没有重复首式或第二套同解",
+            "3厘米标注、B、直角及平行线保持完整；小鸭两段陆路垂直对应河岸",
+            "各图与注释有间隔；页脚15完整"
+          ],
+          "issues": [],
+          "passed": true
+        },
+        {
+          "book_page": 16,
+          "full_image_path": "detailed_layout/runs/final3/previews/p016.png",
+          "full_image_dimensions": [
+            595,
+            1111
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "马路宽原方法与10秒一组的新方法",
+              "box": [
+                60,
+                300,
+                585,
+                505
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p016_grouped_method.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            },
+            {
+              "name": "公路、点C距离及藏宝地的几何关系",
+              "box": [
+                220,
+                820,
+                355,
+                955
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p016_treasure.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "原60×40÷100和新增10秒一组方法是不同整理方法，结果24米一致",
+            "新增数学链600÷100→6、40÷10→4、6×4→24无错",
+            "正方形与藏宝图未切割；说明与图一致；页脚16完整"
+          ],
+          "issues": [],
+          "passed": true
+        },
+        {
+          "book_page": 17,
+          "full_image_path": "detailed_layout/runs/final3/previews/p017.png",
+          "full_image_dimensions": [
+            595,
+            1333
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "305千米/时×8小时新增数学链",
+              "box": [
+                65,
+                680,
+                585,
+                845
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p017_speed_chain.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            },
+            {
+              "name": "38元×102座位分为100与2的新数学链",
+              "box": [
+                60,
+                1105,
+                585,
+                1260
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p017_income_chain.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "表格填数及三条关系的说明无重叠",
+            "新增305×8→2440正确；38×102→38×100+38×2→3800+76→3876正确",
+            "两条新增链首式在原题未印作计算式，不存在重抄原完整脱式；页脚17完整"
+          ],
+          "issues": [],
+          "passed": true
+        },
+        {
+          "book_page": 18,
+          "full_image_path": "detailed_layout/runs/final3/previews/p018.png",
+          "full_image_dimensions": [
+            595,
+            1512
+          ],
+          "overview_viewed": true,
+          "full_image_viewed": true,
+          "overview_only": false,
+          "zoom_regions": [
+            {
+              "name": "288元毛巾两法及106×22十位部分积",
+              "box": [
+                60,
+                35,
+                585,
+                535
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p018_towel_and_vertical.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            },
+            {
+              "name": "A/C双解说明与从等号开始的两条新增数学链",
+              "box": [
+                65,
+                1170,
+                585,
+                1460
+              ],
+              "artifact": "detailed_layout/visual_A_10_18/p018_two_option_chains.png",
+              "display_scale_percent": 200,
+              "actually_viewed": true
+            }
+          ],
+          "checks": [
+            "毛巾两法链288÷8→36、36÷3→12、3×8→24均正确，元/盒与元/条清楚",
+            "十位部分积212向左错位表示2120；速度适用范围条件保留",
+            "A/C原选项各只接续一次等号链，3×4→12及72÷6→12正确，无重抄原选项首式",
+            "全页长注释没有遮住题干、选项、指示牌或页脚18"
+          ],
+          "issues": [],
+          "passed": true
+        }
+      ],
+      "issues": [],
+      "passed": true
+    },
+    "pages_19_27": {
+      "review_version": "final3",
+      "pdf": "detailed_layout/runs/final3/详细题内答案成品.pdf",
+      "pdf_sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0",
+      "reviewed_book_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "method": "实际查看9张完整页图，再实际查看20张2倍区域裁图；另由匹配SHA的成品PDF原生4倍渲染p022_s01条件短注核实轻微贴压。未把文字提取当作视觉检查。",
+      "full_images_viewed": 9,
+      "enlarged_crops_viewed": 20,
+      "additional_native_pdf_crops_viewed": 1,
+      "checks": [
+        "原题与红注有无遮挡",
+        "公式数字、括号、等号对齐与切边",
+        "新增具体数字链是否出现且连贯",
+        "真正不同方法的过程是否完整",
+        "有无重复首式或重复完整结果段",
+        "图、表、线段和字母有无裁切",
+        "页脚19–27是否完整"
+      ],
+      "pages": [
+        {
+          "book_page": 19,
+          "preview": "detailed_layout/runs/final3/previews/p019.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "calculations",
+              "box_in_preview_pixels": [
+                60,
+                430,
+                585,
+                738
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p019_calculations.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "applications",
+              "box_in_preview_pixels": [
+                60,
+                749,
+                585,
+                1115
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p019_applications.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": true,
+          "observations": "全页逐题看过；四列口算、四条脱式及两道应用题的红注与原题分开，等号和数字链无切边，页脚19完整。",
+          "issue_ids": []
+        },
+        {
+          "book_page": 20,
+          "preview": "detailed_layout/runs/final3/previews/p020.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "methods_3_5",
+              "box_in_preview_pixels": [
+                60,
+                89,
+                585,
+                768
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p020_methods_3_5.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "travel_methods",
+              "box_in_preview_pixels": [
+                60,
+                1005,
+                585,
+                1312
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p020_travel_methods.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": true,
+          "observations": "全页逐题看过；找钱、返程、相遇和海南游多法均放大，原线段图完整；自由游两法分段清楚，无重复首式或多套相同答语，页脚20完整。",
+          "issue_ids": []
+        },
+        {
+          "book_page": 21,
+          "preview": "detailed_layout/runs/final3/previews/p021.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "new_chains_1",
+              "box_in_preview_pixels": [
+                65,
+                320,
+                585,
+                605
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p021_new_chains_1.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "table_chains",
+              "box_in_preview_pixels": [
+                65,
+                707,
+                585,
+                1163
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p021_table_chains.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "speed_echo_cucumber",
+              "box_in_preview_pixels": [
+                65,
+                1250,
+                585,
+                1810
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p021_speed_echo_cucumber.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": true,
+          "observations": "全页逐题看过；新增钢笔、苹果、四个表格项、列车、回声两法及黄瓜两空数字链均放大；表格与正文未被遮挡，页脚21完整。",
+          "issue_ids": []
+        },
+        {
+          "book_page": 22,
+          "preview": "detailed_layout/runs/final3/previews/p022.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "top_three",
+              "box_in_preview_pixels": [
+                65,
+                42,
+                585,
+                541
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p022_top_three.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "choices_chains",
+              "box_in_preview_pixels": [
+                65,
+                702,
+                585,
+                1334
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p022_choices_chains.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "location_footer",
+              "box_in_preview_pixels": [
+                65,
+                1335,
+                585,
+                1515
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p022_location_footer.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": false,
+          "observations": "全页逐题看过；新增跑道、打字两法、汽车速度及选择题数字链均放大；位置图与页脚22完整。发现第8题原保留短红条件注贴压上方黑题字的下缘，详见issues。",
+          "issue_ids": [
+            "p022_first_condition_baseline_contact"
+          ]
+        },
+        {
+          "book_page": 23,
+          "preview": "detailed_layout/runs/final3/previews/p023.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "calculations",
+              "box_in_preview_pixels": [
+                60,
+                397,
+                585,
+                689
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p023_calculations.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "diagrams_methods",
+              "box_in_preview_pixels": [
+                60,
+                775,
+                585,
+                1413
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p023_diagrams_methods.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": true,
+          "observations": "全页逐题看过；四条脱式、相遇两法、同向两法及两个图均放大，图完整，末尾答语与页脚23未切割。",
+          "issue_ids": []
+        },
+        {
+          "book_page": 24,
+          "preview": "detailed_layout/runs/final3/previews/p024.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "repair_sales",
+              "box_in_preview_pixels": [
+                55,
+                267,
+                585,
+                838
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p024_repair_sales.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "speed_limit",
+              "box_in_preview_pixels": [
+                55,
+                846,
+                585,
+                1218
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p024_speed_limit.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": true,
+          "observations": "全页逐题看过；计时、修路、季度、送餐多法逐条核对；长数链的首数和等号清楚，无重复原式，页脚24完整。",
+          "issue_ids": []
+        },
+        {
+          "book_page": 25,
+          "preview": "detailed_layout/runs/final3/previews/p025.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "calculator_methods",
+              "box_in_preview_pixels": [
+                65,
+                355,
+                585,
+                729
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p025_calculator_methods.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "symbol_gap",
+              "box_in_preview_pixels": [
+                65,
+                1320,
+                585,
+                1599
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p025_symbol_gap.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": true,
+          "observations": "全页逐题看过；计算器三种输入法、符号代入和误算差额的新增链均放大，首法从后续等号继续，图形符号正确；所有方框圆圈和页脚25完整。",
+          "issue_ids": []
+        },
+        {
+          "book_page": 26,
+          "preview": "detailed_layout/runs/final3/previews/p026.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "multiple_choices",
+              "box_in_preview_pixels": [
+                60,
+                275,
+                585,
+                681
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p026_multiple_choices.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "area_diagram",
+              "box_in_preview_pixels": [
+                60,
+                837,
+                585,
+                999
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p026_area_diagram.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": true,
+          "observations": "全页逐题看过；C/D两种简算、四个示意选项、L形面积图和口算解释放大；公式与图未相交，页脚26完整。",
+          "issue_ids": []
+        },
+        {
+          "book_page": 27,
+          "preview": "detailed_layout/runs/final3/previews/p027.png",
+          "full_image_viewed": true,
+          "overview_only": false,
+          "enlarged_regions": [
+            {
+              "name": "simplification",
+              "box_in_preview_pixels": [
+                60,
+                39,
+                585,
+                624
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p027_simplification.png",
+              "actually_viewed": true
+            },
+            {
+              "name": "applications",
+              "box_in_preview_pixels": [
+                60,
+                642,
+                585,
+                1128
+              ],
+              "scale": 2,
+              "image": "detailed_layout/runs/final3/review_A_19_27/p027_applications.png",
+              "actually_viewed": true
+            }
+          ],
+          "passed": true,
+          "observations": "全页逐题看过；九题简算、商不变另法、跳绳及机器人两法放大；各行数字完整，未重抄黑题首式，末题另法和页脚27之间留有空白。",
+          "issue_ids": []
+        }
+      ],
+      "issues": [
+        {
+          "id": "p022_first_condition_baseline_contact",
+          "book_page": 22,
+          "key": "p022_s01",
+          "severity": "minor",
+          "status": "reported_to_parent",
+          "kind": "preserved_red_note_touches_black_question",
+          "description": "原保留短红注“按首次相遇计算；未限定首次则不唯一。”上缘与黑题第二行“这个圆形跑道的周长是”部分字的下缘发生约0.5–1pt贴压。不是新增长解析与公式的遮挡；4倍原生PDF裁图可见。",
+          "preview_region": [
+            300,
+            80,
+            550,
+            101
+          ],
+          "native_pdf_clip": [
+            285,
+            55,
+            550,
+            102
+          ],
+          "evidence_image": "detailed_layout/runs/final3/review_A_19_27/p022_first_condition_native.png",
+          "suggested_action": "由主代理处理原保留短注的竖向位置或邻接留白，保留题干及首次相遇条件。"
+        }
+      ],
+      "summary": {
+        "pages_without_detected_visual_issue": 8,
+        "pages_with_minor_issue": 1,
+        "severe_or_blocking_issue_count": 0,
+        "numeric_chains_alignment_and_content": "已复看新增链，数值与前次独立验算一致；首式延续策略正确；未发现新增缺行、乱码或错位。",
+        "notes_modified": false
+      }
+    }
+  },
+  "issues": [],
+  "p022_old_short_line_cleanup": {
+    "key": "p022_s01",
+    "source_a4_pdf": "recovered/annotated_a4_128.pdf",
+    "source_pdf_page": 26,
+    "old_text": "按首次相遇计算；未限定首次则不唯一。",
+    "text_span_bbox": [
+      300.203,
+      87.0614,
+      429.3188,
+      94.2632
+    ],
+    "recommended_scan_recover_rect": [
+      299.5,
+      86.3,
+      430.0,
+      95.0
+    ],
+    "long_note_preserves_both_conditions": true,
+    "recommended_action": "纯扫描重盖旧短红行，保留框内原黑题；不改新长note。",
+    "parent_notified": true
+  },
+  "fixes_pending_rebuild_validation": [],
+  "summary": "final4变化页6、22已实际复看，两处轻微问题均修复；另25页与final3像素完全相同并继承此前实际查看范围。1–27页最终视觉核查通过。",
+  "final4_followup": {
+    "actual_visual_recheck_pages": [
+      6,
+      22
+    ],
+    "actual_viewed_images": [
+      "visual_A_final4/p006_top.png",
+      "visual_A_final4/p006_bottom.png",
+      "visual_A_final4/p022_top.png",
+      "visual_A_final4/p022_bottom.png"
+    ],
+    "scope": "实际查看两页的上下半页四张完整覆盖裁图；核对术语修复、旧短红行清除、长注首次相遇与非首次不唯一条件、新数字链、文字间距和页脚。",
+    "p006_s06": "已看到被除数与除数，改字后无新遮挡或异常换行。",
+    "p022_s01": "旧短行已清除，原黑题完整；长注仍明确首次相遇，非首次且相遇次数未知不能唯一求周长；下接计算链完整。",
+    "inherited_book_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "inherited_evidence": "另25页与final3对应预览逐一比较尺寸及全部RGB像素，完全相同，因此继承原有实际视觉检查；没有声称再逐页重看这25张。",
+    "pixel_identity_checks": [
+      {
+        "book_page": 1,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "42ef6e9d23b72d0818a9d7f4c74eb2d3af11dba3dfe658eb54eb83a370114325"
+      },
+      {
+        "book_page": 2,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "f087d22c6faf9fbd9ebddd8b83ff275b5a4f37c53520a79aca9c534b70efe3bd"
+      },
+      {
+        "book_page": 3,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "e12ccdcbc7ee95b3281cf9e7b6b662867e9ef600e88ed72d6ed6580302f58d25"
+      },
+      {
+        "book_page": 4,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "05d555216fe2d7dcc51c2b0db48aef87a8d6503295598517a225a1224f737c87"
+      },
+      {
+        "book_page": 5,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "867b3c4c78b4ebfb68f9c1a2e9d64ec27184ad958c86627e967643d281088e53"
+      },
+      {
+        "book_page": 7,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "437a53658012879e48fbeab005ab6ef4299fee4db62137f6203f9f344369a97f"
+      },
+      {
+        "book_page": 8,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "afc31f67ff38e6236e160b0adf575258777921a0923e1405938b841238f23e4f"
+      },
+      {
+        "book_page": 9,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "a429b89a832fcc12c195eb980bac296c6e61cd67bcaa838d7db549ca6b637c0b"
+      },
+      {
+        "book_page": 10,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "76b45f6264485a7dab23a9d416c82ffe5b73aa69e0427cd4c68bdd81ede824d5"
+      },
+      {
+        "book_page": 11,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "78b51acef06b31462866bccf1fc7ae90d583c38e0e462c7fa0ab5f0325431441"
+      },
+      {
+        "book_page": 12,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "180ccaac094d9c15b7229f4ca073861225447a7c0ed905283cf981d8e8b8ddd7"
+      },
+      {
+        "book_page": 13,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "9af2a0451473eab35fcb4387995891a674060a30985498ebb10062ee360457bf"
+      },
+      {
+        "book_page": 14,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "9bcecf67c465ef4b90ffffd96ffa1ec93ea07fd6c52273b64251e6bbbec16906"
+      },
+      {
+        "book_page": 15,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "2a594a756bfedf533d1c005deac958da1a0e50a60a6ad7842993aa02efaec1bd"
+      },
+      {
+        "book_page": 16,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "73f80eeccdfec3ded28bb56a512684355ebb763a16fb6604cb67c25082f430d2"
+      },
+      {
+        "book_page": 17,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "c408c91f9030b9cf277f4e2e88341075f57905db4dd54d0238e91d8cc519b1c8"
+      },
+      {
+        "book_page": 18,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "ee4e3e50af4df611c6dd14bca5fa4937b30f66beb238b3c3cf3ab6767dde8aeb"
+      },
+      {
+        "book_page": 19,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "7c1c4fb9888ee08b6a624005325038f72dcc146bff5362d377636456ec41a65a"
+      },
+      {
+        "book_page": 20,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "dfecbd4f4d51e3aaba86827ecd25a816d1f2ce2898a4f17449b76fb4101bc50a"
+      },
+      {
+        "book_page": 21,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "adf150ca8df9df041c4d27f6f5c05c0738164319234a7852703877ad236287a1"
+      },
+      {
+        "book_page": 23,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "2bc43af4213ccd07d5d4498470911947beccc24e710cca6ea902e5614ab675df"
+      },
+      {
+        "book_page": 24,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "bcd697b8140076b75fbbedd805d78d953c949910292e860730b2344021987cd4"
+      },
+      {
+        "book_page": 25,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "779c387d09a5e84a7aa14decf62d8b564c8383063f866daff6cb5d2ed3324956"
+      },
+      {
+        "book_page": 26,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "5c6e230bbf3489e91178fc3012496b0c428ce286aa352f6fb2c8ac170a9e8a0e"
+      },
+      {
+        "book_page": 27,
+        "pixel_identical": true,
+        "rgb_pixel_sha256": "b1bc5487ae8c797ce4d63caacdc2a9cfaa85c7a15339560cfe28ccb3edb5a07b"
+      }
+    ],
+    "notes_modified": false
+  },
+  "prior_final3_findings": [
+    {
+      "key": "p006_s06",
+      "book_page": 6,
+      "severity": "minor",
+      "category": "primary_math_terminology",
+      "finding": "详注“分子与除数是两个相同且不为0的乘积”将普通除法的被除数称为分子。",
+      "recommendation": "将“分子”替换为“被除数”。",
+      "reported_to_parent": true,
+      "notes_modified": false,
+      "fix_status": "主代理已授权，仅此key已在notes_A.json修正为被除数；此final3 PDF尚未包含改字，待变化页重建验证。"
+    },
+    {
+      "id": "p022_first_condition_baseline_contact",
+      "book_page": 22,
+      "key": "p022_s01",
+      "severity": "minor",
+      "status": "reported_to_parent",
+      "kind": "preserved_red_note_touches_black_question",
+      "description": "原保留短红注“按首次相遇计算；未限定首次则不唯一。”上缘与黑题第二行“这个圆形跑道的周长是”部分字的下缘发生约0.5–1pt贴压。不是新增长解析与公式的遮挡；4倍原生PDF裁图可见。",
+      "preview_region": [
+        300,
+        80,
+        550,
+        101
+      ],
+      "native_pdf_clip": [
+        285,
+        55,
+        550,
+        102
+      ],
+      "evidence_image": "detailed_layout/runs/final3/review_A_19_27/p022_first_condition_native.png",
+      "suggested_action": "由主代理处理原保留短注的竖向位置或邻接留白，保留题干及首次相遇条件。"
+    }
+  ],
+  "reviewed_raw_pdf_sha256": "65ae8dfca3a237b8adeb87fb9658299ab887bb4aacdfac3a8536fe6d258b520b",
+  "lossless_optimization": {
+    "all128_pages_pixel_identical_at_2x": true,
+    "report": "style_patch/qa_lossless_optimization.json"
+  },
+  "previous_edition_pdf_sha256": "30e8400bcd5791a92149cb925072c7a06b123c74eb194ac764ee43e0768af60b",
+  "p003_unit1_style_update": {
+    "changed_book_page": 3,
+    "all_other107_question_pages_png_identical": true,
+    "evidence": "style_patch/qa_pdf_scope.json",
+    "specific_page_review": "style_patch/qa_p003_math_visual.json",
+    "scope": "仅原书3页修改；其余沿用此前实看并以图像相同继承。"
+  },
+  "p005_p007_unit1_style_update": {
+    "previous_pdf_sha256": "bbdf2edbb3199e73af762e44746a34d120efa54989290b398c02b31ba6a77db5",
+    "scope_proof": "followup_style/qa_scope.json",
+    "all_other_106_question_pages_exactly_preserved": true,
+    "changed_pages": [
+      5,
+      7
+    ],
+    "review": "followup_style/qa_math_visual.json",
+    "lossless_optimization": "followup_style/qa_lossless.json"
+  }
+}

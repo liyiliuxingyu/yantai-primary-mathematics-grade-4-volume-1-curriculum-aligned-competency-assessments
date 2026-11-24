@@ -1,0 +1,136 @@
+{
+  "passed": true,
+  "chains": [
+    {
+      "key": "p039_s05",
+      "expressions": [
+        "9*4/3",
+        "9/3*4",
+        "3*4",
+        "12"
+      ],
+      "exact_value": "12",
+      "all_equal": true
+    },
+    {
+      "key": "p044_s01",
+      "expressions": [
+        "9*4/3",
+        "9/3*4",
+        "3*4",
+        "12"
+      ],
+      "exact_value": "12",
+      "all_equal": true
+    },
+    {
+      "key": "p042_s09",
+      "expressions": [
+        "640/(16*(19-14))",
+        "640/(16*5)",
+        "640/80",
+        "8"
+      ],
+      "exact_value": "8",
+      "all_equal": true
+    },
+    {
+      "key": "p052_s01",
+      "expressions": [
+        "81.5*(1000/100)*10",
+        "81.5*10*10",
+        "81.5*(10*10)",
+        "81.5*100",
+        "8150"
+      ],
+      "exact_value": "8150",
+      "all_equal": true
+    },
+    {
+      "key": "p054_s07_4",
+      "expressions": [
+        "45/10*100",
+        "45*(100/10)",
+        "45*10",
+        "450"
+      ],
+      "exact_value": "450",
+      "all_equal": true
+    },
+    {
+      "key": "p054_s07_8",
+      "expressions": [
+        "3.2*1000/10",
+        "3.2*(1000/10)",
+        "3.2*100",
+        "320"
+      ],
+      "exact_value": "320",
+      "all_equal": true
+    },
+    {
+      "key": "p056_s01",
+      "expressions": [
+        "3750/5/20",
+        "3750/(5*20)",
+        "3750/100",
+        "37.5"
+      ],
+      "exact_value": "75/2",
+      "all_equal": true
+    },
+    {
+      "key": "p057_s03",
+      "expressions": [
+        "36.8+5.9",
+        "36.8+6-0.1",
+        "42.8-0.1",
+        "42.7"
+      ],
+      "exact_value": "427/10",
+      "all_equal": true
+    },
+    {
+      "key": "p058_s02",
+      "expressions": [
+        "30-9.5",
+        "30-10+0.5",
+        "20+0.5",
+        "20.5"
+      ],
+      "exact_value": "41/2",
+      "all_equal": true
+    },
+    {
+      "key": "wire_check",
+      "expressions": [
+        "12*3",
+        "9*4",
+        "36"
+      ],
+      "exact_value": "36",
+      "all_equal": true
+    },
+    {
+      "key": "p042_check",
+      "expressions": [
+        "8*80",
+        "640"
+      ],
+      "exact_value": "640",
+      "all_equal": true
+    },
+    {
+      "key": "p056_check",
+      "expressions": [
+        "37.5*100",
+        "3750"
+      ],
+      "exact_value": "3750",
+      "all_equal": true
+    }
+  ],
+  "unit_conversion": "8150克=8.15千克",
+  "unit_conversion_verified": true,
+  "scope": "Exact rational arithmetic for all revised displayed chains and verification lines; not a general proof that every method is optimal."
+}

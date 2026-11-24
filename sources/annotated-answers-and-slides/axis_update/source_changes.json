@@ -1,0 +1,12 @@
+{
+  "changed_note_keys": [
+    "p065_s05",
+    "p070_s06",
+    "p070_s11",
+    "p085_s11"
+  ],
+  "judgment_key": "p070_s06",
+  "strict_statement": "正方形每条对角线所在的直线都是它的对称轴。",
+  "judgment": "×",
+  "unchanged_symmetry_axis_counts": true
+}

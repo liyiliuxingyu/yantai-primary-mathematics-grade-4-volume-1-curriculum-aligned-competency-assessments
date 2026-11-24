@@ -1,0 +1,97 @@
+{
+  "role": "independent_read_only_visual_QA",
+  "pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "final_pdf_generation": "FINAL_PDF_READY3",
+  "whole_book_pages_actually_viewed": [
+    10,
+    16,
+    17,
+    22,
+    24
+  ],
+  "whole_pdf_pages_actually_viewed": [
+    14,
+    20,
+    21,
+    26,
+    28
+  ],
+  "note_crops_actually_viewed": [
+    "p010_s02",
+    "p016_s02",
+    "p017_s06",
+    "p022_s02",
+    "p022_s07",
+    "p024_s01"
+  ],
+  "contact_sheets_actually_viewed": [
+    "local_crops/contact_001_036_01.png",
+    "local_crops/contact_001_036_02.png",
+    "local_crops/contact_001_036_03.png",
+    "local_crops/contact_001_036_04.png",
+    "local_crops/contact_001_036_05.png",
+    "local_crops/contact_001_036_06.png"
+  ],
+  "local_regions_actually_viewed_count": 35,
+  "local_regions_actually_viewed": [
+    "p003_s07_local15",
+    "p004_s01_local1",
+    "p004_s02_local1",
+    "p007_s08_local8",
+    "p008_s01_local1",
+    "p008_s02_local1",
+    "p008_s03_local1",
+    "p012_s03_local1",
+    "p017_s01_local1",
+    "p019_s15_local1",
+    "p019_s16_local1",
+    "p020_s01_local1",
+    "p020_s02_local1",
+    "p020_s03_local1",
+    "p020_s04_local1",
+    "p023_s15_local1",
+    "p024_s01_local1",
+    "p024_s01_local2",
+    "p024_s02_local1",
+    "p024_s03_local1",
+    "p024_s04_local1",
+    "p027_s10_local1",
+    "p027_s11_local1",
+    "p028_s01_local1",
+    "p028_s02_local1",
+    "p028_s03_local1",
+    "p028_s04_local1",
+    "p031_s16_local1",
+    "p032_s01_local1",
+    "p032_s02_local1",
+    "p032_s03_local1",
+    "p036_s02_local1",
+    "p016_s02_local1",
+    "p016_s02_local2",
+    "p016_s02_local3"
+  ],
+  "finding": "未在实际审看范围发现单位格式、换算同行、重影、数字相碰或题干遮挡问题。",
+  "checks": {
+    "conversion_own_row": true,
+    "unit_words_unparenthesized_on_conversion_rows": true,
+    "calculation_result_unit_ascii_parentheses": true,
+    "original_numbers_preserved_in_viewed_unit_regions": true,
+    "no_unit_digits_collision_visible": true,
+    "no_ghosting_or_clipping_visible_in_target_unit_regions": true,
+    "p016_primary_and_grouped_method_units_separated": true
+  },
+  "scope_limits": [
+    "人工逐页看了5个整页；其余1—36页只看35个新local改动区，不声称全页人工通看。",
+    "已逐张看6张清晰contact sheet，每张的若干题号标题或周边答语因内部裁图边界被截，不是最终PDF裁切；目标单位均可辨，第16页转换全文另由完整页面与local3/专项note裁图覆盖。",
+    "未扩大为全册数学重新验算或PPT播放测试。"
+  ],
+  "issues": [],
+  "carryforward": {
+    "previous_pdf_actually_viewed_sha256": "ead262667f6398e8027af765e6b9d9f2066418b0007a774b57bd1e4b10247c2b",
+    "proof": "units_update/qa_visual_carryforward.json",
+    "reviewed_local_and_note_pixels_unchanged_count": 41,
+    "all_reviewed_crop_pixels_identical": true,
+    "new_manual_reinspection_not_claimed": true,
+    "whole_pages_note": "原实际看过的10/16/17/22/24整页不在本次变动的75/79页中；此处不新增实际目视页数。"
+  }
+}

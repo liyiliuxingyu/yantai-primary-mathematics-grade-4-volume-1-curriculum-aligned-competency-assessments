@@ -1,0 +1,277 @@
+{
+  "book_page": 7,
+  "source_page": 11,
+  "title": "",
+  "records": [
+    {
+      "key": "p007_s01",
+      "book_page": 7,
+      "source_page": 11,
+      "section_index": 0,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "某农田去年产小麦6800千克，今年比去年多1200千克，明年计划产量比今年的2倍少500千克，明年计划产小麦多少千克？正确算式是（    ）。",
+      "options": [
+        "A.\\((6800+1200)\\times2-500\\)",
+        "B.\\(6800+1200\\times2-500\\)",
+        "C.\\(6800\\times2+1200-500\\)",
+        "D.\\((6800+1200\\times2)-500\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm A\\)。先求今年产量\\(6800+1200\\)，再求今年的\\(2\\)倍，最后减\\(500\\)。列式\\((6800+1200)\\times2-500\\)，结果是\\(15500\\)千克。",
+      "verification": {
+        "status": "verified",
+        "reason": "先今年8000，乘2减500得15500，A。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p007_s02",
+      "book_page": 7,
+      "source_page": 11,
+      "section_index": 1,
+      "id": "三、1",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(3744-[(85-47)\\times6]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&3744-[(85-47)\\times6]\\\\&=3744-[38\\times6]\\\\&=3744-228\\\\&=3516\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "85−47=38，38×6=228，3744−228=3516。",
+        "changes": [
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p007_s03",
+      "book_page": 7,
+      "source_page": 11,
+      "section_index": 2,
+      "id": "三、2",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(25\\times[(160+512)\\div32]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&25\\times[(160+512)\\div32]\\\\&=25\\times[672\\div32]\\\\&=25\\times21\\\\&=525\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&25\\times21\\\\={}&25\\times(20+1)\\\\={}&500+25\\\\={}&525\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "160+512=672，672÷32=21，25×21=525。",
+        "changes": [
+          "简便计算复核：25×21可分成20份与1份，凑500后加25，提供具体可口算的末步。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p007_s04",
+      "book_page": 7,
+      "source_page": 11,
+      "section_index": 3,
+      "id": "三、3",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\([275\\div(23+32)]\\times45\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&[275\\div(23+32)]\\times45\\\\&=[275\\div55]\\times45\\\\&=5\\times45\\\\&=225\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "23+32=55，275÷55=5，5×45=225。",
+        "changes": [
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p007_s05",
+      "book_page": 7,
+      "source_page": 11,
+      "section_index": 4,
+      "id": "三、4",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\([73\\times(38+55)]-2876\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&[73\\times(38+55)]-2876\\\\&=[73\\times93]-2876\\\\&=6789-2876\\\\&=3913\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par 括号按原顺序算得93后，把93看成100少7。先多算7份73再减回；乘100与乘7在同一步完成。\\[\\begin{aligned}&73\\times93\\\\={}&73\\times(100-7)\\\\={}&73\\times100-73\\times7\\\\={}&7300-511\\\\={}&6789\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "38+55=93，73×93=6789，6789−2876=3913。",
+        "changes": [
+          "本轮复核：最终73×93可把93看成100−7，除乘100外只需求一个73×7，避免按93的十位和个位分别求两个非整百部分积。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p007_s06",
+      "book_page": 7,
+      "source_page": 11,
+      "section_index": 5,
+      "id": "三、5",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(65\\times[(384+576)\\div12]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&65\\times[(384+576)\\div12]\\\\&=65\\times[960\\div12]\\\\&=65\\times80\\\\&=5200\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "384+576=960，960÷12=80，65×80=5200。",
+        "changes": [
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p007_s07",
+      "book_page": 7,
+      "source_page": 11,
+      "section_index": 6,
+      "id": "三、6",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(336\\div[252\\div(12\\times3)]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&336\\div[252\\div(12\\times3)]\\\\&=336\\div[252\\div36]\\\\&=336\\div7\\\\&=48\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "12×3=36，252÷36=7，336÷7=48。",
+        "changes": [
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p007_s08",
+      "book_page": 7,
+      "source_page": 11,
+      "section_index": 7,
+      "id": "四、1",
+      "kind": "application",
+      "question_latex": "学校“爱心实践社”为乡村小学“梦想书屋”采购阅览桌和配套椅子，他们选了2张阅览桌和5把椅子，电子小票如表。请算一算每把椅子的单价是多少元。（先分析，再解答。）",
+      "options": [],
+      "tables": [
+        {
+          "title": "购物小票",
+          "headers": [
+            "编号",
+            "商品名称",
+            "单位",
+            "数量",
+            "单价"
+          ],
+          "rows": [
+            [
+              "1",
+              "桌子",
+              "张",
+              "2",
+              "80元"
+            ],
+            [
+              "2",
+              "椅子",
+              "把",
+              "5",
+              "遮损未显示"
+            ]
+          ],
+          "footer": "总计金额：230元"
+        }
+      ],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=1.2cm,minimum height=.45cm}]\\node[b](r0)at(1.2,0){椅子的单价};\\node[b](r10)at(0.0,-0.85){};\\node[b](r11)at(2.4,-0.85){};\\node at(1.2,-0.85){$\\bigcirc$};\\draw(r0.south)--(r10.north);\\draw(r0.south)--(r11.north);\\node[b](r20)at(0.0,-1.7){};\\node[b](r21)at(2.4,-1.7){};\\node at(1.2,-1.7){$\\bigcirc$};\\draw(r10.south)--(r20.north);\\draw(r10.south)--(r21.north);\\node[b](r30)at(0.0,-2.55){};\\node[b](r31)at(2.4,-2.55){};\\node at(1.2,-2.55){$\\bigcirc$};\\draw(r21.south)--(r30.north);\\draw(r21.south)--(r31.north);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "从问题分析，椅子单价=(总金额−桌子单价×张数)÷把数。",
+          "name": "p007_s08_g1"
+        },
+        {
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm,every node/.style={font=\\small},b/.style={draw,minimum width=3.7cm,minimum height=.6cm,align=center}]\\node[b](n0)at(2.15,0){{\\color{red}椅子单价\\(14\\)元}};\\node[b](n1)at(0,-1){{\\color{red}椅子总价\\(70\\)元}};\\node[b](n2)at(4.3,-1){{\\color{red}椅子数量\\(5\\)把}};\\node[b](n3)at(0,-2){{\\color{red}总金额\\(230\\)元}};\\node[b](n4)at(4.3,-2){{\\color{red}桌子总价\\(160\\)元}};\\node[b](n5)at(0,-3){{\\color{red}桌子单价\\(80\\)元}};\\node[b](n6)at(4.3,-3){{\\color{red}桌子数量\\(2\\)张}};\\draw(n0.south)--(n1.north);\\draw(n0.south)--(n2.north);\\draw(n1.south)--(n3.north);\\draw(n1.south)--(n4.north);\\draw(n4.south)--(n5.north);\\draw(n4.south)--(n6.north);\\node[red]at(2.15,-1){$\\div$};\\node[red]at(2.15,-2){$-$};\\node[red]at(2.15,-3){$\\times$};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按第一单元信息窗三的数量关系分析形式补齐数量名称、数据和单位；保留原分析方向与每份数×份数。",
+          "name": "p007_s08_a1"
+        }
+      ],
+      "answer_latex": "从问题开始分析：椅子单价需要椅子总价和椅子数量；椅子总价需要总金额和桌子总价；桌子总价需要桌子单价和桌子数量。\\par 方法一：\\[\\begin{aligned}&(230-80\\times2)\\div5\\\\={}&(230-160)\\div5\\\\={}&70\\div5\\\\={}&14\\text{(元)}\\end{aligned}\\]答：每把椅子的单价是14元。\\par 方法二：将总金额与桌款分别平均分成5份，再求每份的差。\\[\\begin{aligned}&230\\div5-80\\times2\\div5\\\\={}&46-160\\div5\\\\={}&46-32\\\\={}&14\\text{(元)}\\end{aligned}\\]答：每把椅子的单价是14元。\\par 检验：\\[\\begin{aligned}&80\\times2+14\\times5\\\\={}&160+70\\\\={}&230\\text{(元)}\\end{aligned}\\]与小票总金额一致。",
+      "verification": {
+        "status": "verified",
+        "reason": "(230−80×2)÷5=70÷5=14元。",
+        "changes": [
+          "按第一单元信息窗三补齐原数量关系分析树的名称、数据、单位和回顾检验。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

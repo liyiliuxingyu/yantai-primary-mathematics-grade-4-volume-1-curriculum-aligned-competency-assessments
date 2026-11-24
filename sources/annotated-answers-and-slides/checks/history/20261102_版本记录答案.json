@@ -1,0 +1,16 @@
+{
+  "previous_pdf_sha256": "bbdf2edbb3199e73af762e44746a34d120efa54989290b398c02b31ba6a77db5",
+  "current_pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "change": "检查后续105页，原书5页一3及7页四1按信息窗三补齐数量分析树、列式与检验，保留p003前轮修改；其余106题页保持。",
+  "changed_question_keys": [
+    "p005_s04",
+    "p007_s08"
+  ],
+  "ppt_volume": 1,
+  "ppt_changed_slides": [
+    117,
+    118,
+    171,
+    172
+  ]
+}

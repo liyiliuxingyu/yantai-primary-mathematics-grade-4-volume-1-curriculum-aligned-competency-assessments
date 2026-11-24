@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p001_s09": {
+      "table_final_answers": [],
+      "note": "三栏200步、130米、4千卡均为原已知，不回填。"
+    },
+    "p004_s02": {
+      "table_final_answers": [],
+      "note": "旺季/淡季票价均为原已知，不回填。"
+    },
+    "p007_s08": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 4,
+          "expected_original": "遮损未显示",
+          "answer_latex": "14\\text{元}",
+          "allow_nonblank_override": true,
+          "reason": "原题购物小票在椅子单价格被破损遮住，属本题待求量，不是已知数据；(230−80×2)÷5=14元。",
+          "note": "原单位列为把；单价cell需保留元，未有预印元可重复。"
+        }
+      ]
+    },
+    "p017_s02": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "（    ）",
+          "answer_latex": "3\\text{箱}",
+          "note": "195÷65=3，表头数量未给单位，须补箱。"
+        }
+      ],
+      "note": "同一原题表分三段讲解；逐段累计保留已解单元格，最后一段回填全表三空，避免再显示未填旧表。"
+    },
+    "p017_s03": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "（    ）",
+          "answer_latex": "3\\text{箱}",
+          "note": "195÷65=3，表头数量未给单位，须补箱。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "（    ）",
+          "answer_latex": "18\\text{元/盒}",
+          "note": "108÷6=18，表头单价未给单位，须补元/盒。"
+        }
+      ],
+      "note": "同一原题表分三段讲解；逐段累计保留已解单元格，最后一段回填全表三空，避免再显示未填旧表。"
+    },
+    "p017_s04": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "（    ）",
+          "answer_latex": "3\\text{箱}",
+          "note": "195÷65=3，表头数量未给单位，须补箱。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 1,
+          "expected_original": "（    ）",
+          "answer_latex": "18\\text{元/盒}",
+          "note": "108÷6=18，表头单价未给单位，须补元/盒。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 3,
+          "expected_original": "（    ）",
+          "answer_latex": "60\\text{元}",
+          "note": "12×5=60，表头总价未给单位，须补元。"
+        }
+      ],
+      "note": "同一原题表分三段讲解；逐段累计保留已解单元格，最后一段回填全表三空，避免再显示未填旧表。"
+    },
+    "p018_s08": {
+      "table_final_answers": [],
+      "note": "青岛203千米为原路牌已知，不回填。"
+    },
+    "p021_s06": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 1,
+          "expected_original": "（    ）",
+          "answer_latex": "70\\text{米/分}",
+          "note": "840÷12=70；速度cell原空，无预印单位。"
+        }
+      ],
+      "note": "同一原题表分四段讲解；逐段累计回填，最后一段完整显示四空答案，不提前泄露尚未讲解的空。"
+    },
+    "p021_s07": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 1,
+          "expected_original": "（    ）",
+          "answer_latex": "70\\text{米/分}",
+          "note": "840÷12=70；速度cell原空，无预印单位。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "（    ）",
+          "answer_latex": "1400\\text{米}",
+          "note": "280×5=1400；路程cell原空，无预印单位。"
+        }
+      ],
+      "note": "同一原题表分四段讲解；逐段累计回填，最后一段完整显示四空答案，不提前泄露尚未讲解的空。"
+    },
+    "p021_s08": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 1,
+          "expected_original": "（    ）",
+          "answer_latex": "70\\text{米/分}",
+          "note": "840÷12=70；速度cell原空，无预印单位。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "（    ）",
+          "answer_latex": "1400\\text{米}",
+          "note": "280×5=1400；路程cell原空，无预印单位。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 3,
+          "expected_original": "（    ）",
+          "answer_latex": "3\\text{小时}",
+          "note": "105÷35=3；时间cell原空，无预印单位。"
+        }
+      ],
+      "note": "同一原题表分四段讲解；逐段累计回填，最后一段完整显示四空答案，不提前泄露尚未讲解的空。"
+    },
+    "p021_s09": {
+      "table_final_answers": [
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 1,
+          "expected_original": "（    ）",
+          "answer_latex": "70\\text{米/分}",
+          "note": "840÷12=70；速度cell原空，无预印单位。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 0,
+          "column_index": 2,
+          "expected_original": "（    ）",
+          "answer_latex": "1400\\text{米}",
+          "note": "280×5=1400；路程cell原空，无预印单位。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 1,
+          "column_index": 3,
+          "expected_original": "（    ）",
+          "answer_latex": "3\\text{小时}",
+          "note": "105÷35=3；时间cell原空，无预印单位。"
+        },
+        {
+          "table_index": 0,
+          "row_index": 2,
+          "column_index": 4,
+          "expected_original": "（    ）",
+          "answer_latex": "107\\text{千米/时}",
+          "note": "428÷4=107；速度cell原空，无预印单位。"
+        }
+      ],
+      "note": "同一原题表分四段讲解；逐段累计回填，最后一段完整显示四空答案，不提前泄露尚未讲解的空。"
+    },
+    "p022_s06": {
+      "table_final_answers": [],
+      "note": "原扫描列车时刻图箭头上黑字明确给出“2时”；footer“用时2小时”是该已知条件的可编辑转写，保留黑色，不当作计算答案或新填空。"
+    }
+  },
+  "review_summary": {
+    "book_pages": [
+      1,
+      36
+    ],
+    "original_scans_reopened": [
+      7,
+      17,
+      21,
+      22,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "table_records_reviewed": 12,
+    "unique_table_answer_cells": 8,
+    "cumulative_answer_cell_entries": 17,
+    "tables_with_answers": [
+      "p007_s08",
+      "p017_s02",
+      "p017_s03",
+      "p017_s04",
+      "p021_s06",
+      "p021_s07",
+      "p021_s08",
+      "p021_s09"
+    ],
+    "given_footer_p022_s06": "原图箭头上给定2时，非答案。",
+    "excluded_blank_tables": "书写等级、综合评价、题号得分栏是教师评价栏，不是数学待答表，不填。",
+    "coverage": "检查1–36全部结构化table，并实际重看28–36原扫描未见遗漏数学待答表；1–27原扫描在此前已逐页核读，本次重看有空表与被遮单价原页。"
+  }
+}

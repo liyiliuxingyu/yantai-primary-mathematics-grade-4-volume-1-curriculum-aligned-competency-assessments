@@ -1,0 +1,157 @@
+{
+  "book_page": 8,
+  "source_page": 12,
+  "title": "",
+  "records": [
+    {
+      "key": "p008_s01",
+      "book_page": 8,
+      "source_page": 12,
+      "section_index": 0,
+      "id": "四、2",
+      "kind": "application",
+      "question_latex": "近年来，“共享菜园”逐渐流行，我市推出了“共享菜园”租赁方案：每块菜地每月租金66元，满2000元减300元。张叔叔租了5块这样的菜地并计划使用8个月，张叔叔实际需要付多少钱？",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=.6cm,y=.6cm]\\foreach \\x/\\y in {0/0,2/0,4/0,1/1.5,3/1.5}{\\draw(\\x,\\y)--++(1.4,0)--++(.5,.7)--++(-1.4,0)--cycle;\\draw(\\x+.35,\\y)--++(.5,.7);\\draw(\\x+.7,\\y)--++(.5,.7);}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "原园地情境插图改为五块菜地线图示意；租金和时间以题干为准。",
+          "name": "p008_s01_g1"
+        }
+      ],
+      "answer_latex": "优惠前租金\\(=\\)每块地每月租金\\(\\times\\)块数\\(\\times\\)月数。下列计算得到原租金\\(2640\\)元，\\(2640>2000\\)，满足优惠条件，才减\\(300\\)元。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求五块地每月的租金}\\par \\[\\begin{aligned}&66\\times5\\times8-300\\\\&=330\\times8-300\\\\&=2640-300\\\\&=2340\\text{(元)}\\end{aligned}\\]答：张叔叔实际需要付\\(2340\\)元。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：先求每块地八个月的租金}\\par \\[\\begin{aligned}&66\\times8\\times5-300\\\\&=528\\times5-300\\\\&=2640-300\\\\&=2340\\text{(元)}\\end{aligned}\\]答：张叔叔实际需要付\\(2340\\)元。\\end{minipage}\\par \\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&66\\times5\\times8-300\\\\={}&66\\times(5\\times8)-300\\\\={}&66\\times40-300\\\\={}&2640-300\\\\={}&2340\\text{(元)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "66×5×8=2640元，满足满2000减300，2640−300=2340元。",
+        "changes": [
+          "简便计算复核：把5块×8个月先凑40个块月，66×40比330×8或528×5便于口算。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p008_s02",
+      "book_page": 8,
+      "source_page": 12,
+      "section_index": 1,
+      "id": "四、3",
+      "kind": "application",
+      "question_latex": "烟台海阳海上火箭发射闻名全国。某天海阳航天科普馆上午接待了420名学生，下午参观的学生人数比上午的2倍少60人。下午参观的学生比上午多多少人？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "下午人数\\(=\\)上午人数\\(\\times2-60\\)；题目求的是两者之差，还要减去上午人数。求出差后可用\\(420+360=780\\)核对下午人数。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先算下午人数，再比较}\\par \\[\\begin{aligned}&420\\times2-60-420\\\\&=840-60-420\\\\&=780-420\\\\&=360\\text{(人)}\\end{aligned}\\]答：下午比上午多\\(360\\)人。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：直接利用两倍关系求差}\\par \\[\\begin{aligned}&420\\times(2-1)-60\\\\&=420\\times1-60\\\\&=420-60\\\\&=360\\text{(人)}\\end{aligned}\\]答：下午比上午多\\(360\\)人。\\end{minipage}\\par 下午的“两份上午人数”减去一份上午人数，还剩一份，再减去\\(60\\)人即可。",
+      "verification": {
+        "status": "verified",
+        "reason": "420×2−60−420=360人；下午780人。",
+        "changes": [
+          "补出2−1=1后的420×1。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p008_s03",
+      "book_page": 8,
+      "source_page": 12,
+      "section_index": 2,
+      "id": "四、4",
+      "kind": "application",
+      "question_latex": "考古发现一段战国城墙，长440米。其中一部分已经修复，修复的长度是未修复的3倍，未修复的部分计划用5天修完，平均每天修多少米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "未修复的长度是\\(1\\)份，修复的是\\(3\\)份，总长是\\(4\\)份。\\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法一：先求未修复长度}\\par \\[\\begin{aligned}&440\\div(3+1)\\div5\\\\&=440\\div4\\div5\\\\&=110\\div5\\\\&=22\\text{(米)}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法二：合并两次平均分}\\par \\[\\begin{aligned}&440\\div[(3+1)\\times5]\\\\&=440\\div[4\\times5]\\\\&=440\\div20\\\\&=22\\text{(米)}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par \\par\\noindent\\begin{minipage}{\\linewidth}\\textbf{方法三：先求已修复长度再扣除}\\par \\[\\begin{aligned}&[440-440\\div(3+1)\\times3]\\div5\\\\&=[440-440\\div4\\times3]\\div5\\\\&=[440-110\\times3]\\div5\\\\&=[440-330]\\div5\\\\&=110\\div5\\\\&=22\\text{(米)}\\end{aligned}\\]答：平均每天须修\\(22\\)米。\\end{minipage}\\par \\par 检验：\\(22\\times5=110\\)米是未修部分，\\(110\\times3=330\\)米是已修部分，\\(110+330=440\\)米，份数关系和总长都符合条件。\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&440\\div4\\div5\\\\={}&440\\div[4\\times5]\\\\={}&440\\div20\\\\={}&22\\text{(米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "未修=440÷(3+1)=110米，每天110÷5=22米。",
+        "changes": [
+          "合并平均分先补3+1=4，再求4×5=20。",
+          "先补3+1=4，再算440÷4=110。",
+          "简便计算复核：canonical答案已有合并除数的方法，但当前PDF旁注未显示；补连续除以4和5合成除20的简算，避免只呈现110÷5。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p008_s04",
+      "book_page": 8,
+      "source_page": 12,
+      "section_index": 3,
+      "id": "五、1",
+      "kind": "fill",
+      "question_latex": "甲数除以乙数的商是5，甲、乙两数的和是300，甲数是（    ），乙数是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "乙数是\\(1\\)份，甲数是\\(5\\)份，总和\\(300\\)是\\(6\\)份。\\(300\\div(5+1)=50\\)，所以乙数\\(50\\)，甲数\\(50\\times5=250\\)。按题目两个空的顺序填\\(250,50\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "甲为乙5倍，乙300÷6=50，甲50×5=250。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p008_s05",
+      "book_page": 8,
+      "source_page": 12,
+      "section_index": 4,
+      "id": "五、2（括号条件）",
+      "kind": "fill",
+      "question_latex": "给\\(1200\\div30-20\\div2\\)添上小括号，结果最大是（    ），算式________；结果最小是（    ），算式________。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "题面没有写“只添一对”。\\textbf{允许嵌套小括号时，最大值是\\(240\\)}：\\[\\begin{aligned}&1200\\div((30-20)\\div2)\\\\&=1200\\div(10\\div2)\\\\&=1200\\div5\\\\&=240\\end{aligned}\\]\\textbf{如果课堂另限只添一对小括号，最大值才是\\(60\\)}，两种写法为\\(1200\\div(30-20)\\div2\\)与\\(1200\\div(30-20\\div2)\\)。两种范围下的\\textbf{最小值都是\\(10\\)}：\\[\\begin{aligned}&(1200\\div30-20)\\div2\\\\&=(40-20)\\div2\\\\&=20\\div2\\\\&=10\\end{aligned}\\]保持数与运算符顺序不变，五种完全加括号结构为：\\par \\(((1200\\div30)-20)\\div2=10\\)；\\par \\((1200\\div(30-20))\\div2=60\\)；\\par \\((1200\\div30)-(20\\div2)=30\\)；\\par \\(1200\\div((30-20)\\div2)=240\\)；\\par \\(1200\\div(30-(20\\div2))=60\\)。\\par 因此以上极值已包含所有结构。",
+      "verification": {
+        "status": "conditional",
+        "reason": "原题未限一对，五种完全括号结构分别为10、60、30、240、60；故最大240，最小10。只限一对时最大才为60。",
+        "changes": [],
+        "uncertainties": [
+          "原题未明确允许几对小括号；在保留数字与符号顺序、仅添小括号的通常解释下按合法括号结构核对，不取重复无效括号为新方法。"
+        ],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "book_page": 11,
+  "source_page": 15,
+  "title": "",
+  "records": [
+    {
+      "key": "p011_s01",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 0,
+      "id": "二、10",
+      "kind": "choice",
+      "question_latex": "工程队在修建高速路时，有时需要将弯曲的道路改直来缩短路程，这样做的道理是（    ）。",
+      "options": [
+        "A.两点确定一条直线",
+        "B.两点之间线段最短",
+        "C.过一点有无数条直线",
+        "D.不确定"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(\\mathrm B\\)。相同的两个端点之间，线段比弯折的路径短；数学依据是“两点之间线段最短”。",
+      "verification": {
+        "status": "verified",
+        "reason": "比较固定两点之间路径，线段最短，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p011_s02",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 1,
+      "id": "三、1（1）",
+      "kind": "calculation",
+      "question_latex": "列竖式计算：\\(114\\times23=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把\\(23\\)拆成\\(3+20\\)，两个部分积分别为\\(342\\)和\\(2280\\)，合起来是\\(2622\\)。竖式各列按数位对齐：\\[\\begin{array}{r}114\\\\\\times23\\\\\\hline342\\\\2280\\\\\\hline2622\\end{array}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "114×3=342，114×20=2280，相加2622。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p011_s03",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 2,
+      "id": "三、1（2）",
+      "kind": "calculation",
+      "question_latex": "列竖式计算：\\(448\\div48=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(448\\div48\\)商\\(9\\)、余\\(16\\)。因为\\(48\\times9=432\\)，\\(448-432=16\\)，且\\(16<48\\)。检验\\(48\\times9+16=448\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "48×9=432，余16且16<48。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p011_s04",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 3,
+      "id": "三、1（3）",
+      "kind": "calculation",
+      "question_latex": "列竖式计算：\\(372\\div62=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(372\\div62=6\\)。因为\\(62\\times6=372\\)，正好除尽，余数为\\(0\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "62×6=372，商6。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p011_s05",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 4,
+      "id": "三、1（4）",
+      "kind": "calculation",
+      "question_latex": "列竖式计算：\\(598\\div18=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(598\\div18\\)商\\(33\\)、余\\(4\\)。先用前两位\\(59\\)商\\(3\\)，余\\(5\\)；落下\\(8\\)成\\(58\\)，再商\\(3\\)，余\\(4\\)。检验\\(18\\times33+4=598\\)，且\\(4<18\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "18×33=594，余4且4<18。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p011_s06",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 5,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(1008\\div[(73+32)\\div5]\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&1008\\div[(73+32)\\div5]\\\\&=1008\\div[105\\div5]\\\\&=1008\\div21\\\\&=48\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "括号105÷5=21，1008÷21=48。",
+        "changes": [
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p011_s07",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 6,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(966\\div(27+19)\\times45\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&966\\div(27+19)\\times45\\\\&=966\\div46\\times45\\\\&=21\\times45\\\\&=945\\end{aligned}\\]\\par\\textbf{简便提示（学完运算律后）}\\par \\[\\begin{aligned}&21\\times45\\\\={}&(20+1)\\times45\\\\={}&900+45\\\\={}&945\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "27+19=46，966÷46=21，21×45=945。",
+        "changes": [
+          "简便计算复核：最后21×45拆21为20+1，先得整百数900，再加45。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p011_s08",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 7,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "计算下列各题：\\(28\\div4+63\\times25\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{aligned}&28\\div4+63\\times25\\\\&=7+1575\\\\&=1582\\end{aligned}\\]\\par\\textbf{运算律口算提示（学完运算律后）}\\par 补充乘法部分的口算过程：把63分成60与3，用乘法分配律分别求积。前面的28除以4仍得7，再与1575相加为1582。\\[\\begin{aligned}&63\\times25\\\\={}&(60+3)\\times25\\\\={}&60\\times25+3\\times25\\\\={}&1500+75\\\\={}&1575\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立乘除同时为7和1575，再相加1582。",
+        "changes": [
+          "本轮复核：现解析提到63拆60与3，却未列简便脱式。25×60先凑1500、25×3得75，可在旁边补全该口算，原除乘两部分同时算的主法保留。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p011_s09",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 8,
+      "id": "四、1",
+      "kind": "drawing",
+      "question_latex": "过\\(A\\)点画出已知直线\\(l\\)的平行线和垂线。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(4,1.6)node[right]{$l$};\\fill(1,2.4)circle(1.5pt)node[right]{$A$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p011_s09_g1"
+        },
+        {
+          "name": "p011_s09_answer",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(4,1.6)node[right]{$l$};\\fill(1,2.4)circle(1.5pt)node[right]{$A$};\\draw[red](0.560000,3.500000)--(1.800000,0.400000);\\draw[red](-1.500000,1.400000)--(3.500000,3.400000);\\draw[red](1.810357,0.724143)--(1.762076,0.844845)--(1.641374,0.796564);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "过A分别作平行与垂直线；均需经过同一原黑点A。"
+        }
+      ],
+      "answer_latex": "两条所画直线都必须经过黑点\\(A\\)。\\par 画垂线：把三角板的一条直角边靠齐\\(l\\)，沿\\(l\\)移动，使另一条直角边经过\\(A\\)，再沿这条边画线。用直角检查交角，并把直角符号标在与\\(l\\)的交点处。\\par 画平行线：三角板一边靠齐\\(l\\)，用直尺贴住另一边；固定直尺，沿尺平移三角板，移到作图边经过\\(A\\)时画线。移动时保持方向不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "过A的平行线方向与l一致；过A垂线与l交角90度，均唯一。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 245,
+        "y0": 492,
+        "x1": 385,
+        "y1": 591
+      },
+      "animation": {
+        "type": "perpendicular",
+        "vertex": [
+          1,
+          2.4
+        ],
+        "foot": [
+          1.689655,
+          0.675862
+        ],
+        "base": [
+          [
+            0,
+            0
+          ],
+          [
+            4,
+            1.6
+          ]
+        ],
+        "labels": {
+          "vertex": "A",
+          "base": "l"
+        }
+      }
+    },
+    {
+      "key": "p011_s10",
+      "book_page": 11,
+      "source_page": 15,
+      "section_index": 9,
+      "id": "四、2",
+      "kind": "drawing",
+      "question_latex": "补充两条边，使下面的图形变成一个长方形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\coordinate(O)at(0,0);\\coordinate(A)at(1,1.5);\\coordinate(B)at(3,-2);\\draw(A)--(O)--(B);\\draw(.111,.1665)--(.2775,.0555)--(.1665,-.111);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "两条已知相邻边垂直，保留既有直角，不先补出学生需画的边。",
+          "name": "p011_s10_g1"
+        },
+        {
+          "name": "p011_s10_answer",
+          "tikz": "\\begin{tikzpicture}\\coordinate(O)at(0,0);\\coordinate(A)at(1,1.5);\\coordinate(B)at(3,-2);\\draw(A)--(O)--(B);\\draw(.111,.1665)--(.2775,.0555)--(.1665,-.111);\\draw[red](1,1.5)--(4,-.5)--(3,-2);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "只补两条缺少的边，不覆盖原有两边。"
+        }
+      ],
+      "answer_latex": "已有两条边相邻且垂直。分别过两条已有边的另一端点，作与对面已有边平行的线段，使它们相交闭合，就补成了长方形。核对：对边分别平行，四个角均为直角。",
+      "verification": {
+        "status": "verified",
+        "reason": "分别过两端点作对边平行线，形成长方形；向量(1,1.5)与(3,−2)内积0。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 250,
+        "y0": 651,
+        "x1": 380,
+        "y1": 786
+      }
+    }
+  ]
+}

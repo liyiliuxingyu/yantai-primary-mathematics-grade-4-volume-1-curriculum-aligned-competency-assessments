@@ -1,0 +1,354 @@
+{
+  "book_page": 82,
+  "source_page": 86,
+  "records": [
+    {
+      "key": "p082_s01",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 0,
+      "id": "一、11",
+      "kind": "fill",
+      "question_latex": "11. 一个数，百位和百分位上都是\\(6\\)，其余数位上都是\\(0\\)，这个数是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(600.06\\)。百位的\\(6\\)表示\\(600\\)，百分位的\\(6\\)表示\\(0.06\\)，其余数位为\\(0\\)，合为\\(600+0.06=600.06\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s02",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 1,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "二、选择（将正确答案的序号填在括号里）。（每题2分，共12分）\\par 1. 用简便方法计算\\(602\\times32\\)时，下面方法正确的是（    ）。",
+      "options": [
+        "A. \\(32\\times600+32\\)",
+        "B. \\(32\\times600+32\\times2\\)",
+        "C. \\(32+600+32\\times2\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。利用乘法交换律、分配律，把\\(602\\)拆成\\(600+2\\)：\\[\\begin{aligned}602\\times32&=32\\times(600+2)\\\\&=32\\times600+32\\times2\\end{aligned}\\]A只加了\\(32\\)，少加一个\\(32\\)；C把应有的\\(32\\times600\\)错写为\\(32+600\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s03",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 2,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "2. 下面与\\(287\\)最接近的是（    ）。",
+      "options": [
+        "A. 286.999",
+        "B. 287.01",
+        "C. 287.1"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选A。分别求与\\(287\\)的差：\\par \\(287-286.999=0.001\\)；\\par \\(287.01-287=0.01\\)；\\par \\(287.1-287=0.1\\)。\\par 差\\(0.001\\)最小，所以\\(286.999\\)最近。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s04",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 3,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "3. 一个小数的小数点先向右移动两位，又向左移动三位后是\\(327.06\\)，原来的小数是（    ）。",
+      "options": [
+        "A. 32.706",
+        "B. 327.06",
+        "C. 3270.6"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。先右移两位再左移三位，合起来是向左移一位，即原数除以\\(10\\)。原数应为\\(327.06\\times10=3270.6\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s05",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 4,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "4. \\(24\\times[623\\div(12+34)-15]\\)的运算顺序是（    ）。",
+      "options": [
+        "A. 乘→除→加→减",
+        "B. 加→除→减→乘",
+        "C. 除→加→减→乘"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。先算小括号\\(12+34\\)的加法，再算\\(623\\)除以这个和，然后减\\(15\\)，最后与\\(24\\)相乘，顺序为“加、除、减、乘”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s06",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 5,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "5. \\(24\\)个\\(32\\)相加的和除以\\(12\\)的\\(22\\)倍，商是多少？列式为（    ）。",
+      "options": [
+        "A. \\(24\\times32\\div12\\times22\\)",
+        "B. \\(24\\times32\\div(12\\times22)\\)",
+        "C. \\((24+32)\\div(12\\times22)\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。\\(24\\)个\\(32\\)相加是\\(32\\times24\\)，利用乘法交换律也可写为\\(24\\times32\\)；\\(12\\)的\\(22\\)倍是\\(12\\times22\\)。求前者除以后者，除数必须把整个乘积括起来：\\[(32\\times24)\\div(12\\times22)\\]这与B等值。A没有括号，按从左到右计算，就变成先除以\\(12\\)再乘\\(22\\)；C把“相加的和”误写成\\(24+32\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s07",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 6,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "6. 在学校运动会的跳高比赛中，王兵跳了\\(1.23\\)米，比张宇高出了\\(4\\)厘米，张宇跳了（    ）米。",
+      "options": [
+        "A. 1.27",
+        "B. 1.53",
+        "C. 1.19"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。先统一单位：\\[4\\text{厘米}=0.04\\text{米}\\]王兵比张宇高\\(0.04\\)米，故张宇\\(1.23-0.04=1.19\\)米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s08",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 7,
+      "id": "三、1（1）—（4）",
+      "kind": "calculation",
+      "question_latex": "三、计算。（共26分）\\par 1. 直接写得数。（8分）\\par \\(37\\times2\\times5=\\quad 25\\times101=\\quad20.03+6.7=\\quad46.25+8.6=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(37\\times2\\times5=37\\times10=370\\)；\\(25\\times101=25\\times100+25=2525\\)；\\(20.03+6.7=26.73\\)；\\(46.25+8.6=54.85\\)。小数加法把同数位相加，必要时补\\(0\\)对齐。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s09",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 8,
+      "id": "三、1（5）—（8）",
+      "kind": "calculation",
+      "question_latex": "1. 直接写得数（续）。\\par \\(278-32-18=\\quad50.8+62.7=\\quad182-23.6=\\quad55.4+9.46=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(278-32-18=278-(32+18)=228\\)；\\(50.8+62.7=113.5\\)；\\(182-23.6=158.4\\)；\\(55.4+9.46=64.86\\)。小数点对齐后计算。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s10",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 9,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "2. 计算下列各题，能简算的要简算。（18分）\\par \\(233.2+56.4+26.8+83.6\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{凑整求和}\\[\\begin{aligned}&233.2+56.4+26.8+83.6\\\\&=(233.2+26.8)+(56.4+83.6)\\\\&=260+140\\\\&=400\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s11",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 10,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "\\(200-63.46-24.54\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{合并减数}\\[\\begin{aligned}&200-63.46-24.54\\\\&=200-(63.46+24.54)\\\\&=200-88\\\\&=112\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p082_s12",
+      "book_page": 82,
+      "source_page": 86,
+      "section_index": 11,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "\\(87\\times102\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把\\(102\\)拆成\\(100+2\\)，用乘法分配律计算。\\[\\begin{aligned}&87\\times102\\\\={}&87\\times(100+2)\\\\={}&87\\times100+87\\times2\\\\={}&8700+174\\\\={}&8874\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

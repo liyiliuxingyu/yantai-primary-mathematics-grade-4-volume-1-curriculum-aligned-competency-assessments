@@ -1,0 +1,568 @@
+[
+  {
+    "source": "/workspace/scratch/1facfb035d44/p74_review/bundle/讲解课件/小学四上同步素养卷第2册讲解课件答案.pptx",
+    "source_sha256": "06c352e213cf93115face9bc15505d478bb64069136fe879da48dfb6159ba941",
+    "output": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft2/小学四上同步素养卷第2册讲解课件答案.pptx",
+    "output_sha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+    "total_slides": 479,
+    "changed_slides": [
+      149,
+      192,
+      310,
+      333,
+      352
+    ],
+    "changed_original_parts": [
+      "ppt/slides/slide149.xml",
+      "ppt/slides/slide192.xml",
+      "ppt/slides/slide310.xml",
+      "ppt/slides/slide333.xml",
+      "ppt/slides/slide352.xml",
+      "ppt/slides/_rels/slide149.xml.rels",
+      "ppt/slides/_rels/slide192.xml.rels",
+      "ppt/slides/_rels/slide310.xml.rels",
+      "ppt/slides/_rels/slide333.xml.rels",
+      "ppt/slides/_rels/slide352.xml.rels"
+    ],
+    "new_parts": [
+      "ppt/media/recheck20261105_simplify_0c1f85540e06a8612cb91492.png",
+      "ppt/media/recheck20261105_simplify_0c1f85540e06a8612cb91492.svg",
+      "ppt/media/recheck20261105_simplify_18654523c8e6f4927407dc90.png",
+      "ppt/media/recheck20261105_simplify_18654523c8e6f4927407dc90.svg",
+      "ppt/media/recheck20261105_simplify_227ddf9bd0e78ccab7e46fa2.png",
+      "ppt/media/recheck20261105_simplify_227ddf9bd0e78ccab7e46fa2.svg",
+      "ppt/media/recheck20261105_simplify_27bd7f9e49dcef5b315e4119.png",
+      "ppt/media/recheck20261105_simplify_27bd7f9e49dcef5b315e4119.svg",
+      "ppt/media/recheck20261105_simplify_4a534aece67ac89a0a0f1417.png",
+      "ppt/media/recheck20261105_simplify_4a534aece67ac89a0a0f1417.svg",
+      "ppt/media/recheck20261105_simplify_54999705529acd3d95adfd46.png",
+      "ppt/media/recheck20261105_simplify_54999705529acd3d95adfd46.svg",
+      "ppt/media/recheck20261105_simplify_5c24aaf463b82d83b2d92121.png",
+      "ppt/media/recheck20261105_simplify_5c24aaf463b82d83b2d92121.svg",
+      "ppt/media/recheck20261105_simplify_790583c6fbbcaea257725c6d.png",
+      "ppt/media/recheck20261105_simplify_790583c6fbbcaea257725c6d.svg",
+      "ppt/media/recheck20261105_simplify_7e4e800274ffed5b1259b58e.png",
+      "ppt/media/recheck20261105_simplify_7e4e800274ffed5b1259b58e.svg",
+      "ppt/media/recheck20261105_simplify_804f5b88c12c549a0640a8cc.png",
+      "ppt/media/recheck20261105_simplify_804f5b88c12c549a0640a8cc.svg",
+      "ppt/media/recheck20261105_simplify_8ebfe1d6e1840166609a98c3.png",
+      "ppt/media/recheck20261105_simplify_8ebfe1d6e1840166609a98c3.svg",
+      "ppt/media/recheck20261105_simplify_92eb88ec7d47b1a3d9d9a202.png",
+      "ppt/media/recheck20261105_simplify_92eb88ec7d47b1a3d9d9a202.svg",
+      "ppt/media/recheck20261105_simplify_c1de4f285bd13d6e6b90219b.png",
+      "ppt/media/recheck20261105_simplify_c1de4f285bd13d6e6b90219b.svg",
+      "ppt/media/recheck20261105_simplify_c3270749a3dc5a3657f65942.png",
+      "ppt/media/recheck20261105_simplify_c3270749a3dc5a3657f65942.svg",
+      "ppt/media/recheck20261105_simplify_cf1429b87b86c7cc2945fce5.png",
+      "ppt/media/recheck20261105_simplify_cf1429b87b86c7cc2945fce5.svg",
+      "ppt/media/recheck20261105_simplify_e8afafdc3dec653057f14964.png",
+      "ppt/media/recheck20261105_simplify_e8afafdc3dec653057f14964.svg",
+      "ppt/media/recheck20261105_simplify_f3fa719f845046379ccc2125.png",
+      "ppt/media/recheck20261105_simplify_f3fa719f845046379ccc2125.svg",
+      "ppt/media/recheck20261105_simplify_ff9fc21e1b39c2f40acb8612.png",
+      "ppt/media/recheck20261105_simplify_ff9fc21e1b39c2f40acb8612.svg",
+      "ppt/media/recheck20261105_simplify_ffbfc71e5414b83c217ec027.png",
+      "ppt/media/recheck20261105_simplify_ffbfc71e5414b83c217ec027.svg"
+    ],
+    "timing_bytes_all_unchanged": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "original_early_methods_retained": true,
+    "changes": [
+      {
+        "key": "p024_s03",
+        "slide": 149,
+        "ops": [
+          {
+            "name": "p024_s03_b013_3",
+            "type": "side_note",
+            "original_content_retained": true,
+            "animation_anchor_id": "10",
+            "note_title": "简便提示（学完运算律后）",
+            "note_text": "两个30天先凑60，再加31天。",
+            "math": {
+              "name": "p024_s03_b013_3_simplify_steps",
+              "rect": [
+                650,
+                190,
+                560,
+                290
+              ],
+              "native_group_anchor": "16",
+              "original_click_preserved": true,
+              "rows": [
+                {
+                  "name": "p024_s03_b013_3_simplify_steps_simplify_rhs0",
+                  "rect": [
+                    692,
+                    190.0,
+                    518,
+                    72.5
+                  ],
+                  "asset": "recheck20261105_5c24aaf463b82d83b2d92121",
+                  "plain": "30+31+30",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p024_s03_b013_3_simplify_steps_simplify_equals1",
+                  "rect": [
+                    650,
+                    262.5,
+                    34,
+                    72.5
+                  ],
+                  "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p024_s03_b013_3_simplify_steps_simplify_rhs1",
+                  "rect": [
+                    692,
+                    262.5,
+                    518,
+                    72.5
+                  ],
+                  "asset": "recheck20261105_7e4e800274ffed5b1259b58e",
+                  "plain": "(30+30)+31",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p024_s03_b013_3_simplify_steps_simplify_equals2",
+                  "rect": [
+                    650,
+                    335.0,
+                    34,
+                    72.5
+                  ],
+                  "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p024_s03_b013_3_simplify_steps_simplify_rhs2",
+                  "rect": [
+                    692,
+                    335.0,
+                    518,
+                    72.5
+                  ],
+                  "asset": "recheck20261105_c1de4f285bd13d6e6b90219b",
+                  "plain": "60+31",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p024_s03_b013_3_simplify_steps_simplify_equals3",
+                  "rect": [
+                    650,
+                    407.5,
+                    34,
+                    72.5
+                  ],
+                  "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p024_s03_b013_3_simplify_steps_simplify_rhs3",
+                  "rect": [
+                    692,
+                    407.5,
+                    518,
+                    72.5
+                  ],
+                  "asset": "recheck20261105_804f5b88c12c549a0640a8cc",
+                  "plain": "91（天）",
+                  "fallback_scale": 1,
+                  "points": 32
+                }
+              ]
+            }
+          },
+          {
+            "name": "p024_s03_b014_4_p0",
+            "rect": [
+              64,
+              548,
+              1152,
+              64
+            ],
+            "text": "答：2026年第2季度能卖728台空调。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p025_s17",
+        "slide": 192,
+        "ops": [
+          {
+            "name": "p025_s17_b003_4",
+            "rect": [
+              106,
+              418,
+              1100,
+              54
+            ],
+            "asset": "recheck20261105_cf1429b87b86c7cc2945fce5",
+            "plain": "6×(8-1)",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p025_s17_b004_5",
+            "rect": [
+              64,
+              487,
+              1152,
+              116
+            ],
+            "native_group_anchor": "18",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p025_s17_b004_5_simplify_rhs0",
+                "rect": [
+                  106,
+                  487.0,
+                  1110,
+                  58.0
+                ],
+                "asset": "recheck20261105_54999705529acd3d95adfd46",
+                "plain": "6×7",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p025_s17_b004_5_simplify_equals1",
+                "rect": [
+                  64,
+                  545.0,
+                  34,
+                  58.0
+                ],
+                "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p025_s17_b004_5_simplify_rhs1",
+                "rect": [
+                  106,
+                  545.0,
+                  1110,
+                  58.0
+                ],
+                "asset": "recheck20261105_8ebfe1d6e1840166609a98c3",
+                "plain": "42",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "p030_s10",
+        "slide": 310,
+        "ops": [
+          {
+            "name": "p030_s10_b005_0",
+            "type": "side_note",
+            "original_content_retained": true,
+            "animation_anchor_id": "4",
+            "note_title": "面积简算",
+            "note_text": "把39看成40少1。",
+            "math": {
+              "name": "p030_s10_b005_0_simplify_steps",
+              "rect": [
+                790,
+                190,
+                420,
+                410
+              ],
+              "native_group_anchor": "9",
+              "original_click_preserved": true,
+              "rows": [
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_rhs0",
+                  "rect": [
+                    832,
+                    190.0,
+                    378,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_27bd7f9e49dcef5b315e4119",
+                  "plain": "(15+24)×32",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_equals1",
+                  "rect": [
+                    790,
+                    258.3333333333333,
+                    34,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_rhs1",
+                  "rect": [
+                    832,
+                    258.3333333333333,
+                    378,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_92eb88ec7d47b1a3d9d9a202",
+                  "plain": "39×32",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_equals2",
+                  "rect": [
+                    790,
+                    326.66666666666663,
+                    34,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_rhs2",
+                  "rect": [
+                    832,
+                    326.66666666666663,
+                    378,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_e8afafdc3dec653057f14964",
+                  "plain": "(40-1)×32",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_equals3",
+                  "rect": [
+                    790,
+                    395.0,
+                    34,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_rhs3",
+                  "rect": [
+                    832,
+                    395.0,
+                    378,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_0c1f85540e06a8612cb91492",
+                  "plain": "40×32-1×32",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_equals4",
+                  "rect": [
+                    790,
+                    463.3333333333333,
+                    34,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_rhs4",
+                  "rect": [
+                    832,
+                    463.3333333333333,
+                    378,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_790583c6fbbcaea257725c6d",
+                  "plain": "1280-32",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_equals5",
+                  "rect": [
+                    790,
+                    531.6666666666666,
+                    34,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                  "plain": "=",
+                  "fallback_scale": 1,
+                  "points": 32
+                },
+                {
+                  "name": "p030_s10_b005_0_simplify_steps_simplify_rhs5",
+                  "rect": [
+                    832,
+                    531.6666666666666,
+                    378,
+                    68.33333333333333
+                  ],
+                  "asset": "recheck20261105_227ddf9bd0e78ccab7e46fa2",
+                  "plain": "1248（平方米）",
+                  "fallback_scale": 1,
+                  "points": 32
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "key": "p031_s08",
+        "slide": 333,
+        "ops": [
+          {
+            "name": "p031_s08_b003_2_p0",
+            "rect": [
+              64,
+              264.5,
+              1152,
+              58
+            ],
+            "text": "乘8再除8还原，两个5仍相乘。",
+            "points": 32
+          },
+          {
+            "name": "p031_s08_b004_3",
+            "rect": [
+              106,
+              337,
+              1100,
+              54
+            ],
+            "asset": "recheck20261105_ffbfc71e5414b83c217ec027",
+            "plain": "(8÷8)×(5×5)",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p031_s08_b005_4",
+            "rect": [
+              106,
+              406,
+              1100,
+              54
+            ],
+            "asset": "recheck20261105_18654523c8e6f4927407dc90",
+            "plain": "1×25",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p032_s02",
+        "slide": 352,
+        "ops": [
+          {
+            "name": "p032_s02_b008_3",
+            "rect": [
+              106,
+              340,
+              1100,
+              54
+            ],
+            "asset": "recheck20261105_c3270749a3dc5a3657f65942",
+            "plain": "(4×25)×12",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p032_s02_b009_4",
+            "rect": [
+              64,
+              409,
+              1152,
+              116
+            ],
+            "native_group_anchor": "10",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p032_s02_b009_4_simplify_rhs0",
+                "rect": [
+                  106,
+                  409.0,
+                  1110,
+                  58.0
+                ],
+                "asset": "recheck20261105_4a534aece67ac89a0a0f1417",
+                "plain": "100×12",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p032_s02_b009_4_simplify_equals1",
+                "rect": [
+                  64,
+                  467.0,
+                  34,
+                  58.0
+                ],
+                "asset": "recheck20261105_ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p032_s02_b009_4_simplify_rhs1",
+                "rect": [
+                  106,
+                  467.0,
+                  1110,
+                  58.0
+                ],
+                "asset": "recheck20261105_f3fa719f845046379ccc2125",
+                "plain": "1200（本）",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p032_s02_b010_5_p0",
+            "rect": [
+              64,
+              548,
+              1152,
+              64
+            ],
+            "text": "答：一共采购了1200本图书。",
+            "points": 32
+          }
+        ]
+      }
+    ]
+  }
+]

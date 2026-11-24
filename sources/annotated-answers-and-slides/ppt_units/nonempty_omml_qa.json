@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "volumes": [
+    {
+      "volume": 1,
+      "final_sha256": "7ee463cc70a39ee8bf42a1acfbeac4750635163c2e715a57157c1d4a3828039b",
+      "office_math_nodes": 1774,
+      "new_or_changed_empty_omml": 0
+    },
+    {
+      "volume": 2,
+      "final_sha256": "4b6c3d85696533373e6a82eff9347e5f5f207d130589c22870efbebe87c2ddfd",
+      "office_math_nodes": 1623,
+      "new_or_changed_empty_omml": 0
+    },
+    {
+      "volume": 3,
+      "final_sha256": "6929bfd6489d70571e129a83bbdba2e1205c0b8d6d05a1ee9c940938552bb3a0",
+      "office_math_nodes": 1351,
+      "new_or_changed_empty_omml": 0
+    },
+    {
+      "volume": 4,
+      "final_sha256": "a98313f738671522f8986b611c23399ff75a7245e63dfb645c993300a3a3dfd1",
+      "office_math_nodes": 1161,
+      "new_or_changed_empty_omml": 0
+    },
+    {
+      "volume": 5,
+      "final_sha256": "7d05b2f06553b826daf6d17b3c7edd65a00b8c5e9be78b7ade8d0baa28f42f00",
+      "office_math_nodes": 1666,
+      "new_or_changed_empty_omml": 0
+    },
+    {
+      "volume": 6,
+      "final_sha256": "49221e4526bea6d6272a6d24cc19de99830026b74714f8655ed19f6f28807771",
+      "office_math_nodes": 1703,
+      "new_or_changed_empty_omml": 0
+    }
+  ],
+  "operator_only_guard": {
+    "=": true,
+    "≈": true,
+    "<": true,
+    ">": true
+  }
+}

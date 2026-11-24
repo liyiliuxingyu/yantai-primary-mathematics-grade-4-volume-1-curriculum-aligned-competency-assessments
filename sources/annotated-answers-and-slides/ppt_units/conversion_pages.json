@@ -1,0 +1,460 @@
+{
+  "pages": [
+    {
+      "volume": 1,
+      "slide": 213,
+      "part_number": 213,
+      "record_key": "p010_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 1,
+      "slide": 355,
+      "part_number": 355,
+      "record_key": "p016_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 1,
+      "slide": 356,
+      "part_number": 356,
+      "record_key": "p016_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 1,
+      "slide": 357,
+      "part_number": 357,
+      "record_key": "p016_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 1,
+      "slide": 358,
+      "part_number": 358,
+      "record_key": "p016_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 1,
+      "slide": 384,
+      "part_number": 384,
+      "record_key": "p017_s06",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 2,
+      "slide": 83,
+      "part_number": 83,
+      "record_key": "p022_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 2,
+      "slide": 99,
+      "part_number": 99,
+      "record_key": "p022_s07",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 2,
+      "slide": 141,
+      "part_number": 141,
+      "record_key": "p024_s01",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 273,
+      "part_number": 273,
+      "record_key": "p049_s03",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 276,
+      "part_number": 276,
+      "record_key": "p049_s04",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 277,
+      "part_number": 277,
+      "record_key": "p049_s04",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 286,
+      "part_number": 286,
+      "record_key": "p049_s07",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 336,
+      "part_number": 336,
+      "record_key": "p052_s01",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 337,
+      "part_number": 337,
+      "record_key": "p052_s01",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 338,
+      "part_number": 338,
+      "record_key": "p052_s01",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 341,
+      "part_number": 341,
+      "record_key": "p052_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 346,
+      "part_number": 346,
+      "record_key": "p052_s03",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 369,
+      "part_number": 369,
+      "record_key": "p053_s08",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 370,
+      "part_number": 370,
+      "record_key": "p053_s08",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 375,
+      "part_number": 375,
+      "record_key": "p053_s09",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 376,
+      "part_number": 376,
+      "record_key": "p053_s09",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 382,
+      "part_number": 382,
+      "record_key": "p054_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 3,
+      "slide": 396,
+      "part_number": 396,
+      "record_key": "p054_s06",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 4,
+      "part_number": 4,
+      "record_key": "p055_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 11,
+      "part_number": 11,
+      "record_key": "p055_s05",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 13,
+      "part_number": 13,
+      "record_key": "p055_s06",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 15,
+      "part_number": 15,
+      "record_key": "p055_s07",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 33,
+      "part_number": 33,
+      "record_key": "p056_s01",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 35,
+      "part_number": 35,
+      "record_key": "p056_s01",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 87,
+      "part_number": 87,
+      "record_key": "p058_s03",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 154,
+      "part_number": 154,
+      "record_key": "p061_s09",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 206,
+      "part_number": 206,
+      "record_key": "p063_s07",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 207,
+      "part_number": 207,
+      "record_key": "p063_s07",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 208,
+      "part_number": 208,
+      "record_key": "p063_s07",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 4,
+      "slide": 365,
+      "part_number": 365,
+      "record_key": "p070_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 5,
+      "slide": 50,
+      "part_number": 50,
+      "record_key": "p075_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 5,
+      "slide": 147,
+      "part_number": 145,
+      "record_key": "p079_s04",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 5,
+      "slide": 183,
+      "part_number": 181,
+      "record_key": "p081_s04",
+      "actual_conversion_layout_changed": false
+    },
+    {
+      "volume": 5,
+      "slide": 184,
+      "part_number": 182,
+      "record_key": "p081_s04",
+      "actual_conversion_layout_changed": false
+    },
+    {
+      "volume": 5,
+      "slide": 190,
+      "part_number": 188,
+      "record_key": "p081_s07",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 5,
+      "slide": 192,
+      "part_number": 190,
+      "record_key": "p081_s08",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 5,
+      "slide": 194,
+      "part_number": 192,
+      "record_key": "p081_s09",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 5,
+      "slide": 196,
+      "part_number": 194,
+      "record_key": "p081_s10",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 5,
+      "slide": 198,
+      "part_number": 196,
+      "record_key": "p081_s11",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 5,
+      "slide": 223,
+      "part_number": 221,
+      "record_key": "p082_s07",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 28,
+      "part_number": 28,
+      "record_key": "p093_s01",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 31,
+      "part_number": 31,
+      "record_key": "p093_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 45,
+      "part_number": 45,
+      "record_key": "p093_s06",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 154,
+      "part_number": 154,
+      "record_key": "p097_s01",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 248,
+      "part_number": 248,
+      "record_key": "p100_s03",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 249,
+      "part_number": 249,
+      "record_key": "p100_s03",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 265,
+      "part_number": 265,
+      "record_key": "p101_s03",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 351,
+      "part_number": 351,
+      "record_key": "p104_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 352,
+      "part_number": 352,
+      "record_key": "p104_s02",
+      "actual_conversion_layout_changed": false
+    },
+    {
+      "volume": 6,
+      "slide": 366,
+      "part_number": 366,
+      "record_key": "p105_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 367,
+      "part_number": 367,
+      "record_key": "p105_s02",
+      "actual_conversion_layout_changed": true
+    },
+    {
+      "volume": 6,
+      "slide": 390,
+      "part_number": 390,
+      "record_key": "p106_s02",
+      "actual_conversion_layout_changed": true
+    }
+  ],
+  "source_conversion_keys": {
+    "keys": [
+      "p010_s02",
+      "p016_s02",
+      "p017_s06",
+      "p022_s02",
+      "p022_s07",
+      "p024_s01",
+      "p049_s03",
+      "p049_s04",
+      "p049_s07",
+      "p052_s01",
+      "p052_s02",
+      "p052_s03",
+      "p053_s08",
+      "p053_s09",
+      "p054_s02",
+      "p054_s06",
+      "p055_s02",
+      "p055_s05",
+      "p055_s06",
+      "p055_s07",
+      "p056_s01",
+      "p058_s03",
+      "p061_s09",
+      "p063_s07",
+      "p070_s02",
+      "p075_s02",
+      "p079_s04",
+      "p081_s07",
+      "p081_s08",
+      "p081_s09",
+      "p081_s10",
+      "p081_s11",
+      "p082_s07",
+      "p093_s01",
+      "p093_s02",
+      "p093_s06",
+      "p097_s01",
+      "p100_s03",
+      "p101_s03",
+      "p104_s02",
+      "p105_s02",
+      "p106_s02"
+    ],
+    "already_proper": [
+      "p081_s04"
+    ]
+  },
+  "notes": "Already-proper p081_s04 and p104_s02 final conversion are included as actual whole-slide checks."
+}

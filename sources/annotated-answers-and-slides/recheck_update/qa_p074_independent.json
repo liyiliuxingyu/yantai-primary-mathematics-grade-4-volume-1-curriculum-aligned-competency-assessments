@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "reviewer": "independent subagent",
+  "book_page": 74,
+  "pdf_page": 78,
+  "key": "p074_s04",
+  "actual_visual_review": [
+    "p074_q4_independent.png",
+    "p074_raw_q4_independent.png"
+  ],
+  "source_pdf_sha256": "0a6f9c0fce5f7b33811450ece77e360af0e482faabd72c4f1ea35477b66cf4ea",
+  "raw_scan_image": {
+    "xref": 5546,
+    "width": 1566,
+    "height": 2215,
+    "filename": "p074_raw_source.jpeg",
+    "sha256": "fb3038832c46194b54a56a3870a79de4ce033b512981d3f551a3801a8833df5e"
+  },
+  "scan_observation": "原始黑色扫描明确印“平均体重是15千克”，体重39千克的新队员加入。不是45；原始JPEG已见15，不依赖OCR、红笔或JSON。",
+  "current_question_has_no_local_replacement": true,
+  "independent_math": {
+    "old_average_kg": 15,
+    "old_number": 9,
+    "added_weight_kg": 39,
+    "new_number": 10,
+    "deviation_kg": 24,
+    "average_increase_kg": "2.4",
+    "new_average_kg": "17.4",
+    "choice_from_current_scan": "C，比原来重",
+    "shortcut": "只比较39>15即可判断增加，无须求全队总重。"
+  },
+  "conditional_other_data": {
+    "if_original_average_is_45_kg": "则39<45，应选A；新平均45−(45−39)÷10=44.4千克。"
+  },
+  "unresolved": "用户称A；若其纸本/另一原题为45，现上传扫描与其口径不一致。当前扫描数字无读图歧义，但无法断定纸本或出版社勘误。不可无证据改题面15为45或将当前15条件下正确C改A。"
+}

@@ -1,0 +1,803 @@
+{
+  "scope": {
+    "book_pages": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "pages_count": 40,
+    "records_count": 358,
+    "coverage": "完整读取各页 records 的题干、表格、答案及全部TikZ内容；实际查看40页原题联系表，并用2倍渲染细看两张候选页",
+    "source_pdf": "recovered/pure_source_128.pdf",
+    "visual_scope": "同类题型与图形存在性筛查；非本范围全部题目的数学重新验算"
+  },
+  "pages": [
+    {
+      "book_page": 4,
+      "source_pdf_page": 8,
+      "records": 5,
+      "all_record_keys": [
+        "p004_s01",
+        "p004_s02",
+        "p004_s03",
+        "p004_s04",
+        "p004_s05"
+      ]
+    },
+    {
+      "book_page": 5,
+      "source_pdf_page": 9,
+      "records": 9,
+      "all_record_keys": [
+        "p005_s01",
+        "p005_s02",
+        "p005_s03",
+        "p005_s04",
+        "p005_s05",
+        "p005_s06",
+        "p005_s07",
+        "p005_s08",
+        "p005_s09"
+      ]
+    },
+    {
+      "book_page": 6,
+      "source_pdf_page": 10,
+      "records": 8,
+      "all_record_keys": [
+        "p006_s01",
+        "p006_s02",
+        "p006_s03",
+        "p006_s04",
+        "p006_s05",
+        "p006_s06",
+        "p006_s07",
+        "p006_s08"
+      ]
+    },
+    {
+      "book_page": 7,
+      "source_pdf_page": 11,
+      "records": 8,
+      "all_record_keys": [
+        "p007_s01",
+        "p007_s02",
+        "p007_s03",
+        "p007_s04",
+        "p007_s05",
+        "p007_s06",
+        "p007_s07",
+        "p007_s08"
+      ]
+    },
+    {
+      "book_page": 8,
+      "source_pdf_page": 12,
+      "records": 5,
+      "all_record_keys": [
+        "p008_s01",
+        "p008_s02",
+        "p008_s03",
+        "p008_s04",
+        "p008_s05"
+      ]
+    },
+    {
+      "book_page": 9,
+      "source_pdf_page": 13,
+      "records": 7,
+      "all_record_keys": [
+        "p009_s01",
+        "p009_s02",
+        "p009_s03",
+        "p009_s04",
+        "p009_s05",
+        "p009_s06",
+        "p009_s07"
+      ]
+    },
+    {
+      "book_page": 10,
+      "source_pdf_page": 14,
+      "records": 11,
+      "all_record_keys": [
+        "p010_s01",
+        "p010_s02",
+        "p010_s03",
+        "p010_s04",
+        "p010_s05",
+        "p010_s06",
+        "p010_s07",
+        "p010_s08",
+        "p010_s09",
+        "p010_s10",
+        "p010_s11"
+      ]
+    },
+    {
+      "book_page": 11,
+      "source_pdf_page": 15,
+      "records": 10,
+      "all_record_keys": [
+        "p011_s01",
+        "p011_s02",
+        "p011_s03",
+        "p011_s04",
+        "p011_s05",
+        "p011_s06",
+        "p011_s07",
+        "p011_s08",
+        "p011_s09",
+        "p011_s10"
+      ]
+    },
+    {
+      "book_page": 12,
+      "source_pdf_page": 16,
+      "records": 6,
+      "all_record_keys": [
+        "p012_s01",
+        "p012_s02",
+        "p012_s03",
+        "p012_s04",
+        "p012_s05",
+        "p012_s06"
+      ]
+    },
+    {
+      "book_page": 13,
+      "source_pdf_page": 17,
+      "records": 7,
+      "all_record_keys": [
+        "p013_s01",
+        "p013_s02",
+        "p013_s03",
+        "p013_s04",
+        "p013_s05",
+        "p013_s06",
+        "p013_s07"
+      ]
+    },
+    {
+      "book_page": 14,
+      "source_pdf_page": 18,
+      "records": 8,
+      "all_record_keys": [
+        "p014_s01",
+        "p014_s02",
+        "p014_s03",
+        "p014_s04",
+        "p014_s05",
+        "p014_s06",
+        "p014_s07",
+        "p014_s08"
+      ]
+    },
+    {
+      "book_page": 15,
+      "source_pdf_page": 19,
+      "records": 10,
+      "all_record_keys": [
+        "p015_s01",
+        "p015_s02",
+        "p015_s03",
+        "p015_s04",
+        "p015_s05",
+        "p015_s06",
+        "p015_s07",
+        "p015_s08",
+        "p015_s09",
+        "p015_s10"
+      ]
+    },
+    {
+      "book_page": 16,
+      "source_pdf_page": 20,
+      "records": 4,
+      "all_record_keys": [
+        "p016_s01",
+        "p016_s02",
+        "p016_s03",
+        "p016_s04"
+      ]
+    },
+    {
+      "book_page": 17,
+      "source_pdf_page": 21,
+      "records": 10,
+      "all_record_keys": [
+        "p017_s01",
+        "p017_s02",
+        "p017_s03",
+        "p017_s04",
+        "p017_s05",
+        "p017_s06",
+        "p017_s07",
+        "p017_s08",
+        "p017_s09",
+        "p017_s10"
+      ]
+    },
+    {
+      "book_page": 18,
+      "source_pdf_page": 22,
+      "records": 9,
+      "all_record_keys": [
+        "p018_s01",
+        "p018_s02",
+        "p018_s03",
+        "p018_s04",
+        "p018_s05",
+        "p018_s06",
+        "p018_s07",
+        "p018_s08",
+        "p018_s09"
+      ]
+    },
+    {
+      "book_page": 19,
+      "source_pdf_page": 23,
+      "records": 16,
+      "all_record_keys": [
+        "p019_s01",
+        "p019_s02",
+        "p019_s03",
+        "p019_s04",
+        "p019_s05",
+        "p019_s06",
+        "p019_s07",
+        "p019_s08",
+        "p019_s09",
+        "p019_s10",
+        "p019_s11",
+        "p019_s12",
+        "p019_s13",
+        "p019_s14",
+        "p019_s15",
+        "p019_s16"
+      ]
+    },
+    {
+      "book_page": 20,
+      "source_pdf_page": 24,
+      "records": 4,
+      "all_record_keys": [
+        "p020_s01",
+        "p020_s02",
+        "p020_s03",
+        "p020_s04"
+      ]
+    },
+    {
+      "book_page": 21,
+      "source_pdf_page": 25,
+      "records": 13,
+      "all_record_keys": [
+        "p021_s01",
+        "p021_s02",
+        "p021_s03",
+        "p021_s04",
+        "p021_s05",
+        "p021_s06",
+        "p021_s07",
+        "p021_s08",
+        "p021_s09",
+        "p021_s10",
+        "p021_s11",
+        "p021_s12",
+        "p021_s13"
+      ]
+    },
+    {
+      "book_page": 22,
+      "source_pdf_page": 26,
+      "records": 9,
+      "all_record_keys": [
+        "p022_s01",
+        "p022_s02",
+        "p022_s03",
+        "p022_s04",
+        "p022_s05",
+        "p022_s06",
+        "p022_s07",
+        "p022_s08",
+        "p022_s09"
+      ]
+    },
+    {
+      "book_page": 23,
+      "source_pdf_page": 27,
+      "records": 16,
+      "all_record_keys": [
+        "p023_s01",
+        "p023_s02",
+        "p023_s03",
+        "p023_s04",
+        "p023_s05",
+        "p023_s06",
+        "p023_s07",
+        "p023_s08",
+        "p023_s09",
+        "p023_s10",
+        "p023_s11",
+        "p023_s12",
+        "p023_s13",
+        "p023_s14",
+        "p023_s15",
+        "p023_s16"
+      ]
+    },
+    {
+      "book_page": 24,
+      "source_pdf_page": 28,
+      "records": 4,
+      "all_record_keys": [
+        "p024_s01",
+        "p024_s02",
+        "p024_s03",
+        "p024_s04"
+      ]
+    },
+    {
+      "book_page": 25,
+      "source_pdf_page": 29,
+      "records": 17,
+      "all_record_keys": [
+        "p025_s01",
+        "p025_s02",
+        "p025_s03",
+        "p025_s04",
+        "p025_s05",
+        "p025_s06",
+        "p025_s07",
+        "p025_s08",
+        "p025_s09",
+        "p025_s10",
+        "p025_s11",
+        "p025_s12",
+        "p025_s13",
+        "p025_s14",
+        "p025_s15",
+        "p025_s16",
+        "p025_s17"
+      ]
+    },
+    {
+      "book_page": 26,
+      "source_pdf_page": 30,
+      "records": 14,
+      "all_record_keys": [
+        "p026_s01",
+        "p026_s02",
+        "p026_s03",
+        "p026_s04",
+        "p026_s05",
+        "p026_s06",
+        "p026_s07",
+        "p026_s08",
+        "p026_s09",
+        "p026_s10",
+        "p026_s11",
+        "p026_s12",
+        "p026_s13",
+        "p026_s14"
+      ]
+    },
+    {
+      "book_page": 27,
+      "source_pdf_page": 31,
+      "records": 11,
+      "all_record_keys": [
+        "p027_s01",
+        "p027_s02",
+        "p027_s03",
+        "p027_s04",
+        "p027_s05",
+        "p027_s06",
+        "p027_s07",
+        "p027_s08",
+        "p027_s09",
+        "p027_s10",
+        "p027_s11"
+      ]
+    },
+    {
+      "book_page": 28,
+      "source_pdf_page": 32,
+      "records": 4,
+      "all_record_keys": [
+        "p028_s01",
+        "p028_s02",
+        "p028_s03",
+        "p028_s04"
+      ]
+    },
+    {
+      "book_page": 29,
+      "source_pdf_page": 33,
+      "records": 11,
+      "all_record_keys": [
+        "p029_s01",
+        "p029_s02",
+        "p029_s03",
+        "p029_s04",
+        "p029_s05",
+        "p029_s06",
+        "p029_s07",
+        "p029_s08",
+        "p029_s09",
+        "p029_s10",
+        "p029_s11"
+      ]
+    },
+    {
+      "book_page": 30,
+      "source_pdf_page": 34,
+      "records": 11,
+      "all_record_keys": [
+        "p030_s01",
+        "p030_s02",
+        "p030_s03",
+        "p030_s04",
+        "p030_s05",
+        "p030_s06",
+        "p030_s07",
+        "p030_s08",
+        "p030_s09",
+        "p030_s10",
+        "p030_s11"
+      ]
+    },
+    {
+      "book_page": 31,
+      "source_pdf_page": 35,
+      "records": 16,
+      "all_record_keys": [
+        "p031_s01",
+        "p031_s02",
+        "p031_s03",
+        "p031_s04",
+        "p031_s05",
+        "p031_s06",
+        "p031_s07",
+        "p031_s08",
+        "p031_s09",
+        "p031_s10",
+        "p031_s11",
+        "p031_s12",
+        "p031_s13",
+        "p031_s14",
+        "p031_s15",
+        "p031_s16"
+      ]
+    },
+    {
+      "book_page": 32,
+      "source_pdf_page": 36,
+      "records": 4,
+      "all_record_keys": [
+        "p032_s01",
+        "p032_s02",
+        "p032_s03",
+        "p032_s04"
+      ]
+    },
+    {
+      "book_page": 33,
+      "source_pdf_page": 37,
+      "records": 13,
+      "all_record_keys": [
+        "p033_s01",
+        "p033_s02",
+        "p033_s03",
+        "p033_s04",
+        "p033_s05",
+        "p033_s06",
+        "p033_s07",
+        "p033_s08",
+        "p033_s09",
+        "p033_s10",
+        "p033_s11",
+        "p033_s12",
+        "p033_s13"
+      ]
+    },
+    {
+      "book_page": 34,
+      "source_pdf_page": 38,
+      "records": 12,
+      "all_record_keys": [
+        "p034_s01",
+        "p034_s02",
+        "p034_s03",
+        "p034_s04",
+        "p034_s05",
+        "p034_s06",
+        "p034_s07",
+        "p034_s08",
+        "p034_s09",
+        "p034_s10",
+        "p034_s11",
+        "p034_s12"
+      ]
+    },
+    {
+      "book_page": 35,
+      "source_pdf_page": 39,
+      "records": 8,
+      "all_record_keys": [
+        "p035_s01",
+        "p035_s02",
+        "p035_s03",
+        "p035_s04",
+        "p035_s05",
+        "p035_s06",
+        "p035_s07",
+        "p035_s08"
+      ]
+    },
+    {
+      "book_page": 36,
+      "source_pdf_page": 40,
+      "records": 3,
+      "all_record_keys": [
+        "p036_s01",
+        "p036_s02",
+        "p036_s03"
+      ]
+    },
+    {
+      "book_page": 37,
+      "source_pdf_page": 41,
+      "records": 8,
+      "all_record_keys": [
+        "p037_s01",
+        "p037_s02",
+        "p037_s03",
+        "p037_s04",
+        "p037_s05",
+        "p037_s06",
+        "p037_s07",
+        "p037_s08"
+      ]
+    },
+    {
+      "book_page": 38,
+      "source_pdf_page": 42,
+      "records": 14,
+      "all_record_keys": [
+        "p038_s01",
+        "p038_s02",
+        "p038_s03",
+        "p038_s04",
+        "p038_s05",
+        "p038_s06",
+        "p038_s07",
+        "p038_s08",
+        "p038_s09",
+        "p038_s10",
+        "p038_s11",
+        "p038_s12",
+        "p038_s13",
+        "p038_s14"
+      ]
+    },
+    {
+      "book_page": 39,
+      "source_pdf_page": 43,
+      "records": 5,
+      "all_record_keys": [
+        "p039_s01",
+        "p039_s02",
+        "p039_s03",
+        "p039_s04",
+        "p039_s05"
+      ]
+    },
+    {
+      "book_page": 40,
+      "source_pdf_page": 44,
+      "records": 3,
+      "all_record_keys": [
+        "p040_s01",
+        "p040_s02",
+        "p040_s03"
+      ]
+    },
+    {
+      "book_page": 41,
+      "source_pdf_page": 45,
+      "records": 9,
+      "all_record_keys": [
+        "p041_s01",
+        "p041_s02",
+        "p041_s03",
+        "p041_s04",
+        "p041_s05",
+        "p041_s06",
+        "p041_s07",
+        "p041_s08",
+        "p041_s09"
+      ]
+    },
+    {
+      "book_page": 42,
+      "source_pdf_page": 46,
+      "records": 12,
+      "all_record_keys": [
+        "p042_s01",
+        "p042_s02",
+        "p042_s03",
+        "p042_s04",
+        "p042_s05",
+        "p042_s06",
+        "p042_s07",
+        "p042_s08",
+        "p042_s09",
+        "p042_s10",
+        "p042_s11",
+        "p042_s12"
+      ]
+    },
+    {
+      "book_page": 43,
+      "source_pdf_page": 47,
+      "records": 4,
+      "all_record_keys": [
+        "p043_s01",
+        "p043_s02",
+        "p043_s03",
+        "p043_s04"
+      ]
+    }
+  ],
+  "matching_questions": [
+    {
+      "key": "p005_s04",
+      "book_page": 5,
+      "source_pdf_page": 9,
+      "id": "一、3",
+      "type": "从条件开始分析的数量关系树（原题称流程图）",
+      "current_issue": "框内目前只有12、96、108、3、324、10、334，缺完整数量名称和单位。",
+      "nodes_in_tikz_order": [
+        "扇贝单价12元/千克",
+        "梭子蟹单价96元/千克",
+        "两种单价和108元",
+        "3倍",
+        "单价和的3倍324元",
+        "多10元",
+        "礼盒单价334元"
+      ],
+      "operators": [
+        "+",
+        "×",
+        "+"
+      ],
+      "equation": "(12+96)×3+10=108×3+10=324+10=334（元）",
+      "check": "(334−10)÷3=324÷3=108，与12+96=108一致。",
+      "alternative": "12×3+96×3+10=36+288+10=324+10=334（元）",
+      "independent_check": {
+        "sum": 108,
+        "triple": 324,
+        "answer": 334
+      },
+      "original_graph_region_approx_A4": [
+        366,
+        458,
+        557,
+        577
+      ],
+      "layout_note": "上两框较短，建议数量名、数据单位分两行，不能把单位写成同为元/千克的整图；题面按礼盒价格（元）处理，单价和继承原题口径。框线和算符圈保持原样。"
+    },
+    {
+      "key": "p007_s08",
+      "book_page": 7,
+      "source_pdf_page": 11,
+      "id": "四、1",
+      "type": "从问题开始分析的数量关系树",
+      "current_issue": "原图根节点“椅子的单价”未填14元，其余框只有椅子总价/椅子数量/总金额/桌子总价/桌子单价/桌子数量，缺数据单位。",
+      "nodes_in_tikz_order": [
+        "椅子单价14元",
+        "椅子总价70元",
+        "椅子数量5把",
+        "总金额230元",
+        "桌子总价160元",
+        "桌子单价80元",
+        "桌子数量2张"
+      ],
+      "operators": [
+        "÷",
+        "−",
+        "×"
+      ],
+      "equation": "(230−80×2)÷5=(230−160)÷5=70÷5=14（元）",
+      "check": "80×2+14×5=160+70=230（元），与总计金额一致。",
+      "alternative": "230÷5−80×2÷5=46−160÷5=46−32=14（元）",
+      "independent_check": {
+        "desk_total": 160,
+        "chair_total": 70,
+        "unit_price": 14.0,
+        "check": 230
+      },
+      "original_graph_region_approx_A4": [
+        324,
+        560,
+        539,
+        686
+      ],
+      "layout_note": "左下小票数字已细看核对为桌子2张、80元/张，椅子5把，总金额230元。保留从问题向下拆解方向和每份数×份数的80×2。根节点是黑色印刷文字，需要仅框内替换为完成后的数量名+14元。"
+    }
+  ],
+  "related_but_not_same": [
+    {
+      "key": "p006_s02",
+      "id": "一、8",
+      "reason": "是通过信息编号写数量名称的文字填空，原题没有树形图。现答案数量180个、剩100个、每班20个；不宜擅自增图改变题型。"
+    },
+    {
+      "book_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "reason": "有行程线段示意、数量表或分配律长方形图，均不属于数量关系分析树。"
+    }
+  ],
+  "decision": "此范围确切需同样处理的题共2题：p005_s04、p007_s08；其余保持各自原题形式。",
+  "visual_files": [
+    "followup_style/early_contact_0.jpg",
+    "followup_style/early_contact_1.jpg",
+    "followup_style/early_contact_2.jpg",
+    "followup_style/early_contact_3.jpg",
+    "followup_style/p005_pure.png",
+    "followup_style/p007_pure.png"
+  ]
+}

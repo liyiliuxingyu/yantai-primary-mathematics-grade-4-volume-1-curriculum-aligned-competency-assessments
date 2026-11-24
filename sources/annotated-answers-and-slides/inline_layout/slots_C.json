@@ -1,0 +1,1879 @@
+{
+  "pages": [
+    {
+      "book_page": 55,
+      "slots": [
+        {
+          "cut_y": 92.0,
+          "keys": [
+            "p055_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 92,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 166.0,
+          "keys": [
+            "p055_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 166,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 254.0,
+          "keys": [
+            "p055_s03",
+            "p055_s04",
+            "p055_s05",
+            "p055_s06",
+            "p055_s07",
+            "p055_s08"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 254,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 367.0,
+          "keys": [
+            "p055_s09"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 367,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 559.0,
+          "keys": [
+            "p055_s10",
+            "p055_s11",
+            "p055_s12"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 559,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 670.0,
+          "keys": [
+            "p055_s13"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 670,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 56,
+      "slots": [
+        {
+          "cut_y": 190.0,
+          "keys": [
+            "p056_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 190,
+          "row_dark_pixels_3rows_max": 2,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 473.0,
+          "keys": [
+            "p056_s02",
+            "p056_s03",
+            "p056_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 473,
+          "row_dark_pixels_3rows_max": 2,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 658.0,
+          "keys": [
+            "p056_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 659,
+          "row_dark_pixels_3rows_max": 1,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 57,
+      "slots": [
+        {
+          "cut_y": 324.0,
+          "keys": [
+            "p057_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 324,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 379.0,
+          "keys": [
+            "p057_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 379,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 405.0,
+          "keys": [
+            "p057_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 405,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 433.0,
+          "keys": [
+            "p057_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 433,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 531.0,
+          "keys": [
+            "p057_s05",
+            "p057_s06",
+            "p057_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 531,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 556.0,
+          "keys": [
+            "p057_s08"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 556,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 580.0,
+          "keys": [
+            "p057_s09"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 580,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 606.0,
+          "keys": [
+            "p057_s10"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 606,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 655.0,
+          "keys": [
+            "p057_s11"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 655,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 743.0,
+          "keys": [
+            "p057_s12",
+            "p057_s13",
+            "p057_s14",
+            "p057_s15"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 743,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 790.0,
+          "keys": [
+            "p057_s16"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 790,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 58,
+      "slots": [
+        {
+          "cut_y": 62.0,
+          "keys": [
+            "p058_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 62,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 138.0,
+          "keys": [
+            "p058_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 138,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 188.0,
+          "keys": [
+            "p058_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 188,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 239.0,
+          "keys": [
+            "p058_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 239,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 286.0,
+          "keys": [
+            "p058_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 286,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 336.0,
+          "keys": [
+            "p058_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 336,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 412.0,
+          "keys": [
+            "p058_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 412,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 540.0,
+          "keys": [
+            "p058_s08"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 540,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 742.0,
+          "keys": [
+            "p058_s09"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 742,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 59,
+      "slots": [
+        {
+          "cut_y": 138.0,
+          "keys": [
+            "p059_s01",
+            "p059_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 138,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 286.0,
+          "keys": [
+            "p059_s03",
+            "p059_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 286,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 450.0,
+          "keys": [
+            "p059_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 450,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 600.0,
+          "keys": [
+            "p059_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 600,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 746.0,
+          "keys": [
+            "p059_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 746,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 60,
+      "slots": [
+        {
+          "cut_y": 146.0,
+          "keys": [
+            "p060_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 140,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 280.5,
+          "keys": [
+            "p060_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 285,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 544.0,
+          "keys": [
+            "p060_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 540,
+          "row_dark_pixels_3rows_max": 1,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 697.5,
+          "keys": [
+            "p060_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 703,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 61,
+      "slots": [
+        {
+          "cut_y": 343.0,
+          "keys": [
+            "p061_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 343,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 370.0,
+          "keys": [
+            "p061_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 370,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 395.0,
+          "keys": [
+            "p061_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 395,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 429.5,
+          "keys": [
+            "p061_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 432,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 476.0,
+          "keys": [
+            "p061_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 476,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 559.0,
+          "keys": [
+            "p061_s06",
+            "p061_s07",
+            "p061_s08"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 559,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 615.0,
+          "keys": [
+            "p061_s09"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 615,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 640.0,
+          "keys": [
+            "p061_s10"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 640,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 666.0,
+          "keys": [
+            "p061_s11"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 666,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 735.0,
+          "keys": [
+            "p061_s12",
+            "p061_s13"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 735,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 792.0,
+          "keys": [
+            "p061_s14"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 792,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 62,
+      "slots": [
+        {
+          "cut_y": 64.0,
+          "keys": [
+            "p062_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 64,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 119.0,
+          "keys": [
+            "p062_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 119,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 194.0,
+          "keys": [
+            "p062_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 194,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 296.0,
+          "keys": [
+            "p062_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 296,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 397.0,
+          "keys": [
+            "p062_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 397,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 445.0,
+          "keys": [
+            "p062_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 445,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 498.0,
+          "keys": [
+            "p062_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 498,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 644.0,
+          "keys": [
+            "p062_s08"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 644,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 756.0,
+          "keys": [
+            "p062_s09"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 756,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 63,
+      "slots": [
+        {
+          "cut_y": 171.0,
+          "keys": [
+            "p063_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 171,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 314.0,
+          "keys": [
+            "p063_s02",
+            "p063_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 314,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 433.0,
+          "keys": [
+            "p063_s04",
+            "p063_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 433,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 600.0,
+          "keys": [
+            "p063_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 600,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 752.0,
+          "keys": [
+            "p063_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 752,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 64,
+      "slots": [
+        {
+          "cut_y": 180.0,
+          "keys": [
+            "p064_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 180,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 350.0,
+          "keys": [
+            "p064_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 350,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 530.0,
+          "keys": [
+            "p064_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 530,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 700.0,
+          "keys": [
+            "p064_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 700,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 65,
+      "slots": [
+        {
+          "cut_y": 467.0,
+          "keys": [
+            "p065_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 467,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 549.5,
+          "keys": [
+            "p065_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 549,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 742.0,
+          "keys": [
+            "p065_s03",
+            "p065_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 742,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 790.0,
+          "keys": [
+            "p065_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 790,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 66,
+      "slots": [
+        {
+          "cut_y": 121.0,
+          "keys": [
+            "p066_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 121,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 202.0,
+          "keys": [
+            "p066_s02",
+            "p066_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 202,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 416.25,
+          "keys": [
+            "p066_s04",
+            "p066_s05"
+          ],
+          "reason": "保留拼马两图、图号及原红色步骤，取旧红注与二标题间的精确白缝。",
+          "draft_cut_y": 418,
+          "row_dark_pixels_3rows_max": null,
+          "pixel_check_scope": "4x精查cut_y=416.25pt整行x80..580黑/红像素为0；邻近旧红注与二标题之间仅极窄白缝。"
+        },
+        {
+          "cut_y": 540.0,
+          "keys": [
+            "p066_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 540,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 689.0,
+          "keys": [
+            "p066_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 689,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 789.0,
+          "keys": [
+            "p066_s08"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 789,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 67,
+      "slots": [
+        {
+          "cut_y": 183.0,
+          "keys": [
+            "p067_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 183,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 260.0,
+          "keys": [
+            "p067_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 260,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 425.0,
+          "keys": [
+            "p067_s03",
+            "p067_s04",
+            "p067_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 425,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 517.0,
+          "keys": [
+            "p067_s06",
+            "p067_s07",
+            "p067_s08",
+            "p067_s09"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 517,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 715.0,
+          "keys": [
+            "p067_s10"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 715,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 68,
+      "slots": [
+        {
+          "cut_y": 237.0,
+          "keys": [
+            "p068_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 237,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 362.0,
+          "keys": [
+            "p068_s02",
+            "p068_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 362,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 612.0,
+          "keys": [
+            "p068_s04",
+            "p068_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 612,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 718.0,
+          "keys": [
+            "p068_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 718,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 69,
+      "slots": [
+        {
+          "cut_y": 370.0,
+          "keys": [
+            "p069_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 370,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 395.0,
+          "keys": [
+            "p069_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 395,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 558.0,
+          "keys": [
+            "p069_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 558,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 660.0,
+          "keys": [
+            "p069_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 660,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 776.0,
+          "keys": [
+            "p069_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 776,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 70,
+      "slots": [
+        {
+          "cut_y": 170.0,
+          "keys": [
+            "p070_s01",
+            "p070_s02",
+            "p070_s03"
+          ],
+          "reason": "右侧三角尺图跨越填空第6、7题及判断第1题的高度，三记录整体保留后再插入，避免截断图形。",
+          "draft_cut_y": 170,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 195.0,
+          "keys": [
+            "p070_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 195,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 221.0,
+          "keys": [
+            "p070_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 221,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 244.0,
+          "keys": [
+            "p070_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 244,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 282.5,
+          "keys": [
+            "p070_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 282,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 396.0,
+          "keys": [
+            "p070_s08"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 395,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 446.0,
+          "keys": [
+            "p070_s09"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 446,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 526.0,
+          "keys": [
+            "p070_s10"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 526,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 575.0,
+          "keys": [
+            "p070_s11"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 575,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 690.0,
+          "keys": [
+            "p070_s12"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 690,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 790.0,
+          "keys": [
+            "p070_s13"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 790,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 71,
+      "slots": [
+        {
+          "cut_y": 155.0,
+          "keys": [
+            "p071_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 155,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 611.0,
+          "keys": [
+            "p071_s02",
+            "p071_s03",
+            "p071_s04",
+            "p071_s05"
+          ],
+          "reason": "第1题旋转后红线延伸到第2题网格上沿，四、1及四、2三问整体保留再插入。",
+          "draft_cut_y": 611,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 790.0,
+          "keys": [
+            "p071_s06",
+            "p071_s07"
+          ],
+          "reason": "风车格图底部与下一题钟面顶部高度交叠，两题整体保留后插入，不能横切钟面。",
+          "draft_cut_y": 790,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 72,
+      "slots": [
+        {
+          "cut_y": 197.0,
+          "keys": [
+            "p072_s01",
+            "p072_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 193,
+          "row_dark_pixels_3rows_max": 2,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 347.0,
+          "keys": [
+            "p072_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 346,
+          "row_dark_pixels_3rows_max": 2,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 642.0,
+          "keys": [
+            "p072_s04",
+            "p072_s05",
+            "p072_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 642,
+          "row_dark_pixels_3rows_max": 2,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 790.0,
+          "keys": [
+            "p072_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 790,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 73,
+      "slots": [
+        {
+          "cut_y": 369.0,
+          "keys": [
+            "p073_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 369,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 421.0,
+          "keys": [
+            "p073_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 421,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 472.0,
+          "keys": [
+            "p073_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 472,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 497.0,
+          "keys": [
+            "p073_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 497,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 543.0,
+          "keys": [
+            "p073_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 543,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 594.0,
+          "keys": [
+            "p073_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 594,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 628.5,
+          "keys": [
+            "p073_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 632,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 783.0,
+          "keys": [
+            "p073_s08",
+            "p073_s09",
+            "p073_s10"
+          ],
+          "reason": "右侧身高直条图跨越第8、9、10题的纵向区域，三题整块保留后插入。",
+          "draft_cut_y": 783,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 74,
+      "slots": [
+        {
+          "cut_y": 143.0,
+          "keys": [
+            "p074_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 143,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 294.0,
+          "keys": [
+            "p074_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 294,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 371.0,
+          "keys": [
+            "p074_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 371,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 445.0,
+          "keys": [
+            "p074_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 445,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 519.0,
+          "keys": [
+            "p074_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 519,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 617.0,
+          "keys": [
+            "p074_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 617,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 768.0,
+          "keys": [
+            "p074_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 768,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 75,
+      "slots": [
+        {
+          "cut_y": 150.0,
+          "keys": [
+            "p075_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 150,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 225.0,
+          "keys": [
+            "p075_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 225,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 410.0,
+          "keys": [
+            "p075_s03"
+          ],
+          "reason": "本轮实看：新五行红式结束于404前，下一黑题从414后开始；410处横域像素全白。",
+          "draft_cut_y": 400,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 583.0,
+          "keys": [
+            "p075_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 583,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 685.0,
+          "keys": [
+            "p075_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 685,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 748.0,
+          "keys": [
+            "p075_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 748,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 76,
+      "slots": [
+        {
+          "cut_y": 392.5,
+          "keys": [
+            "p076_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 394,
+          "row_dark_pixels_3rows_max": 1,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 543.5,
+          "keys": [
+            "p076_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 544,
+          "row_dark_pixels_3rows_max": 2,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 614.5,
+          "keys": [
+            "p076_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 610,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 77,
+      "slots": [
+        {
+          "cut_y": 345.0,
+          "keys": [
+            "p077_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 345,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 398.0,
+          "keys": [
+            "p077_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 398,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 449.0,
+          "keys": [
+            "p077_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 449,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 473.0,
+          "keys": [
+            "p077_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 473,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 523.0,
+          "keys": [
+            "p077_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 523,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 714.0,
+          "keys": [
+            "p077_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 714,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 740.0,
+          "keys": [
+            "p077_s07"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 740,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 789.0,
+          "keys": [
+            "p077_s08"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 789,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 78,
+      "slots": [
+        {
+          "cut_y": 274.0,
+          "keys": [
+            "p078_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 274,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 374.0,
+          "keys": [
+            "p078_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 374,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 449.0,
+          "keys": [
+            "p078_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 449,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 549.0,
+          "keys": [
+            "p078_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 549,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 695.0,
+          "keys": [
+            "p078_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 695,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 776.0,
+          "keys": [
+            "p078_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 776,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 79,
+      "slots": [
+        {
+          "cut_y": 277.0,
+          "keys": [
+            "p079_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 277,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 374.0,
+          "keys": [
+            "p079_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 374,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 565.0,
+          "keys": [
+            "p079_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 565,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 660.0,
+          "keys": [
+            "p079_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 660,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 792.0,
+          "keys": [
+            "p079_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 792,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 80,
+      "slots": [
+        {
+          "cut_y": 230.0,
+          "keys": [
+            "p080_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 230,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 520.0,
+          "keys": [
+            "p080_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 520,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 565.0,
+          "keys": [
+            "p080_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 565,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 669.0,
+          "keys": [
+            "p080_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 669,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    },
+    {
+      "book_page": 81,
+      "slots": [
+        {
+          "cut_y": 343.0,
+          "keys": [
+            "p081_s01"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 343,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 378.0,
+          "keys": [
+            "p081_s02"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 378,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 432.0,
+          "keys": [
+            "p081_s03"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 432,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 483.0,
+          "keys": [
+            "p081_s04"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 483,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 536.0,
+          "keys": [
+            "p081_s05"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 536,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 587.0,
+          "keys": [
+            "p081_s06"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 587,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 660.0,
+          "keys": [
+            "p081_s07",
+            "p081_s08",
+            "p081_s09",
+            "p081_s10",
+            "p081_s11"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 660,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 711.0,
+          "keys": [
+            "p081_s12"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 711,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 741.0,
+          "keys": [
+            "p081_s13"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 741,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        },
+        {
+          "cut_y": 789.0,
+          "keys": [
+            "p081_s14"
+          ],
+          "reason": "实看本页坐标原图后选定对应题/同排题组末尾白缝；并排竖式、表格或共同图形保持整块。",
+          "draft_cut_y": 789,
+          "row_dark_pixels_3rows_max": 0,
+          "pixel_check_scope": "2x v8原页；内容横域x80..580，3像素窄带投影，保留装订边线残量。"
+        }
+      ]
+    }
+  ],
+  "reviewed_book_pages": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81
+  ],
+  "scope": "人工逐页查看实际595×841坐标图；同图或同行题组合组，避免将图表、竖式横向截开。",
+  "complete": true,
+  "records_covered": 212,
+  "final_source": "versions/before_margin_v8/answer_a4.pdf",
+  "manual_review": "已实际逐张查看55–81全部27页坐标原图，逐题对照questions题号；图形跨题时合组，并在全部166处分割附近用2x原v8页投影微调，66页窄缝另4x检查。"
+}

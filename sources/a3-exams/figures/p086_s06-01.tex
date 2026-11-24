@@ -1,0 +1,58 @@
+\begin{tikzpicture}[x=1bp,y=1bp,line cap=round,line join=round,
+  option/.style={font=\fontsize{10.4bp}{12bp}\selectfont,anchor=east,inner sep=0pt},
+  caption/.style={font=\kaishu\fontsize{9.8bp}{11bp}\selectfont,anchor=base,inner sep=0pt}]
+  \foreach \x/\choice/\name in {0/A/家人地图,94/B/驾车巡航,188/C/新能源导航,282/D/卫星求救}{
+    \node[option] at (\x+10,0) {\choice.};
+    \node[caption] at (\x+49,-29) {\name};
+  }
+  \begin{scope}[shift={(49,0)}]
+    \draw[line width=3.4bp] (-14,-1)
+      .. controls (-21,10) and (-12,22) .. (0,15)
+      .. controls (12,22) and (21,10) .. (14,-1);
+    \fill (0,4.4) circle[radius=3.9bp];
+    \fill (-11.5,-4.5) .. controls (-6,-.6) and (6,-.6) .. (11.5,-4.5)
+      .. controls (8,-9) and (2,-13.1) .. (0,-13.5)
+      .. controls (-2,-13.1) and (-8,-9) .. cycle;
+  \end{scope}
+  \begin{scope}[shift={(143,0)}]
+    \draw[line width=2.8bp] (-30:15.5) arc[start angle=-30,end angle=210,radius=15.5bp];
+    \draw[line width=2.6bp] (-24:8.3) arc[start angle=-24,end angle=204,radius=8.3bp];
+    \fill (0,3.4) .. controls (-1.4,3.4) and (-2.8,2.0) .. (-3.5,.3)
+      -- (-10.0,-11.8) .. controls (-11.1,-14.0) and (-9.0,-15.0) .. (-7.7,-14.4)
+      -- (0,-10.7) -- (7.7,-14.4)
+      .. controls (9.0,-15.0) and (11.1,-14.0) .. (10.0,-11.8)
+      -- (3.5,.3) .. controls (2.8,2.0) and (1.4,3.4) .. cycle;
+  \end{scope}
+  \begin{scope}[shift={(237,0)}]
+    \fill[rounded corners=1bp] (-16,-9) -- (-16,1) -- (-13,8)
+      .. controls (-11,14) and (-9.5,15) .. (0,15)
+      .. controls (9.5,15) and (11,14) .. (13,8)
+      -- (16,1) -- (16,-9) -- (10,-9) -- (10,-6.6) -- (-10,-6.6) -- (-10,-9) -- cycle;
+    \fill (-17.8,6.0) ellipse[x radius=1.95bp,y radius=1.4bp];
+    \fill (17.8,6.0) ellipse[x radius=1.95bp,y radius=1.4bp];
+    \fill[white] (.5,13.1) -- (-6.8,2.2) -- (-.65,2.2)
+      -- (-.65,-4.5) -- (6.5,6.6) -- (.5,6.6) -- cycle;
+  \end{scope}
+  % Reflection about the antenna axis interchanges the two solar arrays.
+  \begin{scope}[shift={(331,3)},rotate=42]
+    \fill[rounded corners=.8bp] (-18,3.6) rectangle (-6,11.6);
+    \fill[rounded corners=.8bp] (6,3.6) rectangle (18,11.6);
+    \foreach \side in {-1,1}{
+      \begin{scope}[xscale=\side]
+        \foreach \u in {7.0,9.85,12.7,15.55}{
+          \foreach \v in {4.6,6.85,9.1}
+            \fill[white] (\u,\v) rectangle ++(1.65,1.4);
+        }
+      \end{scope}
+    }
+    \fill (-6.1,6.6) rectangle (6.1,8.6);
+    \fill[rounded corners=.9bp] (-4.35,1.0) rectangle (4.35,14.1);
+    \draw[line width=1.4bp] (0,1.2) -- (0,-2.2);
+    \fill (-6.3,-4.1) .. controls (-4,1.2) and (4,1.2) .. (6.3,-4.1)
+      .. controls (3,-5.6) and (-3,-5.6) .. cycle;
+    \draw[line width=1.2bp] (0,-4.6) -- (0,-7);
+    \fill (0,-7.2) circle[radius=.85bp];
+    \foreach \r in {5.5,8.5,11.5}
+      \draw[line width=.95bp] (0,-5.0) ++(-133:\r) arc[start angle=-133,end angle=-47,radius=\r bp];
+  \end{scope}
+\end{tikzpicture}

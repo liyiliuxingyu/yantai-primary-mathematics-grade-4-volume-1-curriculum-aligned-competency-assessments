@@ -1,0 +1,29 @@
+\begin{tikzpicture}[x=.495cm,y=.60cm,font=\fontsize{10.5}{12.5}\selectfont,line width=.45pt]
+  \foreach \y in {0,1,2,3,4}{\draw (-5,\y)--(2,\y);}
+  \draw (-5,-.12)--(-5,4.16);
+  \foreach \y/\lab in {3.5/第一天,2.5/第二天,1.5/第三天,.5/第四天}{
+    \node[anchor=east,inner sep=3pt] at (-5,\y) {\lab};
+  }
+  \draw[dashed,dash pattern=on 2.4pt off 2.4pt] (0,-.18)--(0,4.28);
+  \node[above,inner sep=2pt,font=\fontsize{9.5}{11.5}\selectfont] at (0,4.28) {$22^\circ\mathrm{C}$};
+  % 第1天：四个点
+  \fill (0.2802,3.7564) circle[radius=1.5pt];
+  \fill (0.5680,3.5942) circle[radius=1.5pt];
+  \fill (0.2562,3.2657) circle[radius=1.5pt];
+  \fill (0.8079,3.2498) circle[radius=1.5pt];
+  % 第2天：四个点
+  \fill (-0.0101,2.8005) circle[radius=1.5pt];
+  \fill (-0.5012,2.6311) circle[radius=1.5pt];
+  \fill (0.0696,2.5317) circle[radius=1.5pt];
+  \fill (0.4042,2.2417) circle[radius=1.5pt];
+  % 第3天：四个点
+  \fill (-1.2661,1.9083) circle[radius=1.5pt];
+  \fill (-0.7016,1.8672) circle[radius=1.5pt];
+  \fill (-0.8211,1.5960) circle[radius=1.5pt];
+  \fill (-1.1226,1.2544) circle[radius=1.5pt];
+  % 第4天：四个点
+  \fill (-1.4085,0.8709) circle[radius=1.5pt];
+  \fill (0.3922,0.7740) circle[radius=1.5pt];
+  \fill (-0.8871,0.6299) circle[radius=1.5pt];
+  \fill (-0.0232,0.4583) circle[radius=1.5pt];
+\end{tikzpicture}

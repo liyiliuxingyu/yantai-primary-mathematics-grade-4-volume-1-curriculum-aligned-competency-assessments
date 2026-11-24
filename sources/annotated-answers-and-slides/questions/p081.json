@@ -1,0 +1,372 @@
+{
+  "book_page": 81,
+  "source_page": 85,
+  "records": [
+    {
+      "key": "p081_s01",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 0,
+      "id": "一、1",
+      "kind": "fill",
+      "question_latex": "阳光文体超市正在进行促销活动，12根跳绳需要300元，每根跳绳是（    ）元，张老师准备带2600元去购买90根跳绳，能找回（    ）元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(25\\)、\\(350\\)。每根\\(300\\div12=25\\)元；买\\(90\\)根用\\(25\\times90=2250\\)元，找回\\(2600-2250=350\\)元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s02",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 1,
+      "id": "一、2",
+      "kind": "fill",
+      "question_latex": "要使\\(16\\times(\\square\\div4)=512\\)，\\(\\square\\)里应该填（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(128\\)。把16拆成\\(4\\times4\\)，与括号内除以4抵消一个4；于是整个原式相当于所填数乘4。\\[\\begin{aligned}&512\\div(16\\div4)\\\\={}&512\\div4\\\\={}&128\\end{aligned}\\]检验：\\(16\\times(128\\div4)=16\\times32=512\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "简便计算复核：填空求原数的逆运算512÷16×4可将16拆成4×4，抵消一组×4÷4后直接512÷4；不涉及一般小数乘除。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s03",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 2,
+      "id": "一、3",
+      "kind": "fill",
+      "question_latex": "在精密电子测量中，一款芯片的长度由3个十、6个十分之一和9个千分之一组成，这个数写作（    ），读作（    ），保留两位小数是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(30.609\\)、三十点六零九、\\(30.61\\)。\\(3\\)个十是\\(30\\)，\\(6\\)个十分之一是\\(0.6\\)，\\(9\\)个千分之一是\\(0.009\\)，相加得\\(30.609\\)。百分位应写\\(0\\)占位，读数时这个\\(0\\)也要读。保留两位小数看千分位\\(9\\)，向百分位进\\(1\\)，故\\(30.609\\approx30.61\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s04",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "据统计，我国超过60岁的老人约331000000人，把横线上的数改写成用“亿”作单位的数是（    ）亿，省略“亿”位后面的尾数约是（    ）亿。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(3.31\\)、\\(3\\)。改写成以亿为单位，在亿位右侧点上小数点，数的大小不变：\\[331000000=3.31\\text{亿}\\]省略亿位后面的尾数，要看千万位的\\(3<5\\)，舍去，得到\\[331000000\\approx3\\text{亿}\\]前者是准确改写，用等号；后者是近似数，用约等号。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s05",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 4,
+      "id": "一、5",
+      "kind": "fill",
+      "question_latex": "小明由于粗心大意，把\\((\\triangle-25)\\times12\\)错算成了\\(\\triangle\\times12-25\\)，正确结果与他算的结果相差（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(275\\)。正确算式减的是\\(25\\times12=300\\)，错算只减\\(25\\)，所以错得数比正确得数多\\(300-25=275\\)。也可算\\(25\\times(12-1)=275\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s06",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 5,
+      "id": "一、6",
+      "kind": "fill",
+      "question_latex": "学校运动会上，小兵代表班级参加1500米赛跑，他平均每分钟跑240米，跑6分钟后，离终点还有（    ）米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(60\\)。六分钟跑\\(240\\times6=1440\\)米，离终点\\(1500-1440=60\\)米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s07",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 6,
+      "id": "一、7（面积）",
+      "kind": "fill",
+      "question_latex": "填空：520平方米＝（    ）平方分米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(52000\\)。面积单位进率为100：\\[1\\text{平方米}=100\\text{平方分米}\\]\\[\\begin{aligned}520\\text{平方米}&=(520\\times100)\\text{平方分米}\\\\&=52000\\text{平方分米}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s08",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 7,
+      "id": "一、7（钱数）",
+      "kind": "fill",
+      "question_latex": "填空：587元3角5分＝（    ）元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(587.35\\)。先将角和分化成元：\\[3\\text{角}=0.3\\text{元}\\]\\[5\\text{分}=0.05\\text{元}\\]再合并钱数：\\[\\begin{aligned}587\\text{元}3\\text{角}5\\text{分}&=(587+0.3+0.05)\\text{元}\\\\&=587.35\\text{元}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s09",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 8,
+      "id": "一、7（质量一）",
+      "kind": "fill",
+      "question_latex": "填空：6260克＝（    ）千克（    ）克。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(6\\)、\\(260\\)。先分出整千克对应的克数：\\[6260\\text{克}=6000\\text{克}+260\\text{克}\\]\\[6000\\text{克}=6\\text{千克}\\]所以\\[6260\\text{克}=6\\text{千克}260\\text{克}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s10",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 9,
+      "id": "一、7（长度）",
+      "kind": "fill",
+      "question_latex": "填空：329.4厘米＝（    ）米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(3.294\\)。厘米换米除以\\(100\\)：\\[\\begin{aligned}329.4\\text{厘米}&=(329.4\\div100)\\text{米}\\\\&=3.294\\text{米}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s11",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 10,
+      "id": "一、7（质量二）",
+      "kind": "fill",
+      "question_latex": "填空：275.09吨＝（    ）吨（    ）千克。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(275\\)、\\(90\\)。先分成整数吨与小数吨：\\[275.09\\text{吨}=275\\text{吨}+0.09\\text{吨}\\]小数吨换成千克：\\[\\begin{aligned}0.09\\text{吨}&=(0.09\\times1000)\\text{千克}\\\\&=90\\text{千克}\\end{aligned}\\]所以\\[275.09\\text{吨}=275\\text{吨}90\\text{千克}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s12",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 11,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "把（    ）的小数点向左移动两位是86.27；把（    ）扩大到原来的1000倍是7460。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(8627\\)、\\(7.46\\)。左移两位后为\\(86.27\\)，原数应为\\(86.27\\times100=8627\\)；扩大\\(1000\\)倍后为\\(7460\\)，原数\\(7460\\div1000=7.46\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s13",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 12,
+      "id": "一、9",
+      "kind": "fill",
+      "question_latex": "一个两位小数，保留一位小数是236.5，这个数最小是（    ），最大是（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(236.45\\)、\\(236.54\\)。原数是两位小数，保留一位要看百分位。\\par 最小情况：十分位原来是\\(4\\)，百分位至少为\\(5\\)才能进成\\(236.5\\)，最小是\\(236.45\\)。\\par 最大情况：十分位原来是\\(5\\)，百分位至多为\\(4\\)才不会进成\\(236.6\\)，最大是\\(236.54\\)。\\(236.44\\)会舍成\\(236.4\\)，\\(236.55\\)会进成\\(236.6\\)，都不符合。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p081_s14",
+      "book_page": 81,
+      "source_page": 85,
+      "section_index": 13,
+      "id": "一、10",
+      "kind": "fill",
+      "question_latex": "学校图书馆原有6.26万册图书，上周借出1.3万册且现在未还回，本周又新进2.25万册图书，现在图书馆有（    ）万册图书。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "填\\(7.21\\)。按题中当前在馆本数计算：\\(6.26-1.3+2.25=4.96+2.25=7.21\\)(万册)。借出未还先减去，新进图书再加上。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

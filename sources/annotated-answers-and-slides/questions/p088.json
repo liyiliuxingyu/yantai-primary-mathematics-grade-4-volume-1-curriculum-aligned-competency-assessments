@@ -1,0 +1,115 @@
+{
+  "book_page": 88,
+  "source_page": 92,
+  "records": [
+    {
+      "key": "p088_s01",
+      "book_page": 88,
+      "source_page": 92,
+      "section_index": 0,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "五、解决问题（续）。\\par 2. 王师傅要制作一个周长是\\(68\\)厘米的等腰梯形框架，其中上底是\\(8\\)厘米，下底是\\(16\\)厘米，则这个等腰梯形的一条腰长是多少厘米？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "等腰梯形两腰相等。\\textbf{方法一：先扣除两底，再平均分给两腰}\\[\\begin{aligned}&(68-(8+16))\\div2\\\\={}&(68-24)\\div2\\\\={}&44\\div2\\\\={}&22\\text{(厘米)}\\end{aligned}\\]答：一条腰长22厘米。\\par\\textbf{方法二：从一半周长扣除两底和的一半}\\[\\begin{aligned}&68\\div2-(8+16)\\div2\\\\={}&34-24\\div2\\\\={}&34-12\\\\={}&22\\text{(厘米)}\\end{aligned}\\]答：一条腰长22厘米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "修正或补足解析。",
+          "本轮平均数完整脱式复核：PDF原答(68−8−16)÷2直接到44÷2，省掉同级减法一步；改为先合并两底，并显式算24。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "无乘法；周长扣两底后平均分成两腰"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p088_s02",
+      "book_page": 88,
+      "source_page": 92,
+      "section_index": 1,
+      "id": "五、3",
+      "kind": "application",
+      "question_latex": "3. 一个平行四边形的一条边长\\(24\\)厘米，比它的邻边短\\(2\\)厘米，这个平行四边形的周长是多少厘米？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "平行四边形两组对边分别相等，四条边是两条\\(24\\)厘米和两条\\(24+2=26\\)厘米；求周长要把四边相加，不能把邻边误当成也长\\(24\\)厘米。\\textbf{方法一：先求邻边，再算周长}\\[\\begin{aligned}&[24+(24+2)]\\times2\\\\&=[24+26]\\times2\\\\&=50\\times2\\\\&=100\\text{(厘米)}\\end{aligned}\\]答：平行四边形周长\\(100\\)厘米。\\textbf{方法二：先按四条\\(24\\)厘米，再补两条边各多的\\(2\\)厘米}\\[\\begin{aligned}&24\\times4+2\\times2\\\\&=96+4\\\\&=100\\text{(厘米)}\\end{aligned}\\]答：周长\\(100\\)厘米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "一组邻边长度之和×2组；假设每条24厘米×4条，再补每条2厘米×2条"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p088_s03",
+      "book_page": 88,
+      "source_page": 92,
+      "section_index": 2,
+      "id": "五、4",
+      "kind": "application",
+      "question_latex": "4. 小明用一根铁丝围成边长是\\(6\\)厘米的正方形，如果要围成一个等边三角形，那么它的边长是多少厘米？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{总长不变，列式后先算能整除的一组}\\par 按每边6厘米乘4条边求原总长，再除以3。乘积除以3可先用6除以3，再乘4。\\[\\begin{aligned}&6\\times4\\div3\\\\={}&6\\div3\\times4\\\\={}&2\\times4\\\\={}&8\\text{(厘米)}\\end{aligned}\\]答：等边三角形的边长是8厘米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "本轮复核：6可被3整除，先6÷3再乘4，比先算24再除3更直接，保留每份数×份数列式顺序。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "正方形每边6厘米×4条边，再除以3条等边"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

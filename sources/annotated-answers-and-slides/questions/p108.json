@@ -1,0 +1,196 @@
+{
+  "book_page": 108,
+  "source_page": 112,
+  "records": [
+    {
+      "key": "p108_s01",
+      "book_page": 108,
+      "source_page": 112,
+      "section_index": 0,
+      "id": "五、1",
+      "kind": "application",
+      "question_latex": "五、解决问题。（共29分）\\par 1. 妈妈在微信群里发了\\(50\\)元的红包，爸爸抢到\\(15.65\\)元，小芳抢到\\(19.7\\)元。小芳比爸爸多抢多少元？妈妈发的红包还剩下多少元？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先求“多抢多少元”，再求“红包剩多少元”。\\par \\textbf{多抢：直接求两人金额的差}\\par 小芳19.7元比爸爸15.65元多多少，用大数减小数。\\[\\begin{aligned} &19.7-15.65\\\\ ={}&19.70-15.65\\\\ ={}&4.05\\text{(元)}\\end{aligned}\\]答：小芳比爸爸多抢4.05元。\\par \\textbf{剩余方法一：依次扣除}\\par 从妈妈发的50元依次扣掉爸爸与小芳抢到的金额。\\[\\begin{aligned} &50-15.65-19.7\\\\ ={}&34.35-19.7\\\\ ={}&14.65\\text{(元)}\\end{aligned}\\]答：红包还剩14.65元。\\par \\textbf{剩余方法二：先合计两人抢到的钱}\\par 先加两人的金额，再从50元中一次扣除。\\[\\begin{aligned} &50-(15.65+19.7)\\\\ ={}&50-35.35\\\\ ={}&14.65\\text{(元)}\\end{aligned}\\]答：红包还剩14.65元。\\par 按题面19.7与15.65核算，书后18.65元与原数据不符，不采用。\\par 用剩余的钱加上两人已抢到的钱检验：\\(14.65+15.65+19.70=30.30+19.70=50.00\\)元，正好还原妈妈发出的50元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "无乘法；金额加减"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p108_s02",
+      "book_page": 108,
+      "source_page": 112,
+      "section_index": 1,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "2. 小明在图书室借阅了《科学探索之谜》这本书，如果每天看\\(40\\)页，\\(11\\)天才能看完。学校要求按时归还，需要提前\\(3\\)天看完，他平均每天要看多少页？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{方法一：总页数除以实际天数，简便计算}每天40页乘11天为总页数，括成整体；提前3天，实际8天。利用乘积除以一个数的性质，40可被8整除，先用40除以8再乘11：\\[\\begin{aligned}&(40\\times11)\\div(11-3)\\\\={}&(40\\times11)\\div8\\\\={}&(40\\div8)\\times11\\\\={}&5\\times11\\\\={}&55\\text{(页)}\\end{aligned}\\]答：平均每天要看55页。\\par\\textbf{方法二：把少用3天的任务平均补给8天}\\[\\begin{aligned}&40+(40\\times3)\\div(11-3)\\\\={}&40+120\\div8\\\\={}&40+15\\\\={}&55\\text{(页)}\\end{aligned}\\]答：平均每天要看55页。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "简便计算复核：全书页数法仍保留每天页数×天数的列式顺序。确定实际8天后，用40能被8整除的结构先40÷8，再乘11，避免先求440再作两位商除法；不增加新的数量模型、不算作第三种解法。",
+          "本轮平均数完整脱式复核：与75页括总量书写一致，把总页数40×11括整体；简算必须注明乘积除以数的性质，并把先除的一组用括号呈现。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每天40页×11天；每天40页×少用的3天"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p108_s03",
+      "book_page": 108,
+      "source_page": 112,
+      "section_index": 2,
+      "id": "五、3",
+      "kind": "application",
+      "question_latex": "3. 学校为\\(45\\)名学生订购合唱服，上衣每件\\(62\\)元，裤子每条\\(38\\)元，买这批合唱服一共需要多少元？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "每名学生各买一件上衣和一条裤子，可先把每套单价62与38凑100，再乘45套。分别列上衣、裤子总价时，用乘法分配律合并共同的45；人数不能因此变成90。\\par \\[\\begin{aligned}&62\\times45+38\\times45\\\\={}&(62+38)\\times45\\\\={}&100\\times45\\\\={}&4500\\text{(元)}\\end{aligned}\\]答：买这批合唱服一共需要4500元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "本轮复核：另一数量思路仍先求62×45、38×45两个大积。两项同乘45，先把62与38凑100，只需100×45，明显比2790+1710简便。",
+          "本轮完整步骤复核：最终逐页目视发现相邻服装题原PDF只显示分配律前两行，所称后续原位式实际未显示；补100×45、4500及完整答语，原题/结果不变。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每套(62+38)元×45套；每件62元×45件、每条38元×45条"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p108_s04",
+      "book_page": 108,
+      "source_page": 112,
+      "section_index": 3,
+      "id": "五、4",
+      "kind": "application",
+      "question_latex": "4. 修路队要抢修一段公路。前\\(4\\)天共修路\\(2500\\)米，后\\(3\\)天平均每天修路\\(800\\)米，这支修路队这一周平均每天修路多少米？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{方法一：总路程除以总天数}\\par 后3天平均每天800米，先求后3天总量，再加前4天的2500米。\\[\\begin{aligned} &(2500+800\\times3)\\div(4+3)\\\\ ={}&(2500+2400)\\div7\\\\ ={}&4900\\div7\\\\ ={}&700\\text{(米)}\\end{aligned}\\]答：这一周平均每天修路700米。\\par \\textbf{方法二：以每天800米为基准}\\par 前4天若每天修800米，应修3200米，比实际多700米；把这700米平均扣给7天。\\[\\begin{aligned} &800-(800\\times4-2500)\\div7\\\\ ={}&800-(3200-2500)\\div7\\\\ ={}&800-700\\div7\\\\ ={}&800-100\\\\ ={}&700\\text{(米)}\\end{aligned}\\]答：这一周平均每天修路700米。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每天800米×后3天；基准每天800米×前4天"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p108_s05",
+      "book_page": 108,
+      "source_page": 112,
+      "section_index": 4,
+      "id": "五、5（统计表与填空）",
+      "kind": "fill",
+      "question_latex": "5. 下面是某小学教师的年龄记录。（6分）\\par \\(37\\quad28\\quad26\\quad23\\quad32\\quad39\\quad28\\quad34\\quad45\\quad41\\quad26\\quad46\\quad37\\quad25\\)\\par \\(57\\quad27\\quad55\\quad33\\quad34\\quad27\\quad52\\quad42\\quad24\\quad50\\quad48\\quad34\\quad40\\quad51\\)\\par 根据以上数据填写下面的统计表。\\par 教师年龄在（    ）范围内的人数最多，（    ）范围内的人数最少。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "年龄",
+            "20～29岁",
+            "30～39岁",
+            "40～49岁",
+            "50～59岁"
+          ],
+          "rows": [
+            [
+              "人数",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "逐人按年龄段登记，不能把端点跨组：\\par \\[\\begin{array}{c|rrrr}\\text{年龄/岁}&20\\sim29&30\\sim39&40\\sim49&50\\sim59\\\\\\hline\\text{人数}&9&8&6&5\\end{array}\\]\\par 总人数核对\\(9+8+6+5=28\\)。20至29岁9人最多，50至59岁5人最少，依次填“20～29岁”“50～59岁”。\\par 可核对分组：20～29岁有28、26、23、28、26、25、27、27、24；30～39岁有37、32、39、34、37、33、34、34；40～49岁有45、41、46、42、48、40；50～59岁有57、55、52、50、51。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

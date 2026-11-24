@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "scope": "Only 原书75页三、2; slide53 changed. Slides51,52,54 and all other original package parts remain byte-identical except slide53 relationship part.",
+  "volumes": [
+    {
+      "volume": 5,
+      "filename": "小学四上同步素养卷第5册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/paren75_review/deliverables/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+      "parent_sha256": "4aad33ca4bcceb8c1c0ffbdc6ba5c49f435ed75a555f7593a45cf119b84feaed",
+      "output_sha256": "6951c43478eac225cb5cb1de07435bb292f07d1ee5610c16b1977cf745fb7630",
+      "slides": 430,
+      "changed_slides": [
+        53
+      ],
+      "static_rendered": [
+        52,
+        53
+      ],
+      "individually_visually_inspected": [
+        52,
+        53
+      ],
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "new_empty_click_targets": [],
+      "native_math_count_before": 1614,
+      "native_math_count_after": 1614,
+      "native_math_changes": 3,
+      "added_caption_in_original_animation_group": true,
+      "finalizer_passed": true,
+      "artifacttool_import_passed": true
+    }
+  ],
+  "math": {
+    "calculation_rows": [
+      "(720×2)÷(12+8)",
+      "(720×2)÷20",
+      "720×(2÷2)÷10",
+      "720÷10",
+      "72（米/分）"
+    ],
+    "all_five_rows_equal": 72,
+    "unit": "米/分",
+    "total_distance_grouped_in_initial_two_rows": true,
+    "simplification": "20=2×10, use multiplication/division properties to calculate 2÷2 first"
+  },
+  "formulas": "Native editable OMML plus independently XeLaTeX-compiled SVG/PNG compatibility branches",
+  "ordinary_caption_editable": true,
+  "native_powerpoint_playback_tested": false,
+  "native_wps_playback_tested": false,
+  "static_visual_scope": "Actual ArtifactTool renders of slides52 and53 individually inspected; no fresh human review claimed for other slides.",
+  "source_sets_portably_compiled": 3,
+  "slide53_xml_sha256": "f9ec87cba767d6276dfbec93a90b3fb178d465ba6efdff43b8c67f9ecafa34da",
+  "receipts": [
+    "finalizer_v5.json",
+    "qa_portable.json"
+  ]
+}

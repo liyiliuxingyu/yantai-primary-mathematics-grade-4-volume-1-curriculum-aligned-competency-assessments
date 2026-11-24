@@ -1,0 +1,198 @@
+{
+  "passed": true,
+  "all_page_widths_preserved": true,
+  "pages": 128,
+  "approved_height_growth_book_pages": [
+    10,
+    16,
+    17,
+    22,
+    24,
+    49,
+    52,
+    53,
+    54,
+    55,
+    56,
+    58,
+    61,
+    63,
+    70,
+    75,
+    79,
+    81,
+    82,
+    93,
+    97,
+    100,
+    101,
+    104,
+    105,
+    106
+  ],
+  "actual_height_growth_book_pages": [
+    10,
+    17,
+    22,
+    24,
+    49,
+    52,
+    53,
+    54,
+    55,
+    58,
+    61,
+    63,
+    75,
+    81,
+    82,
+    93,
+    97,
+    101,
+    105,
+    106
+  ],
+  "page_height_changes": [
+    {
+      "pdf_page": 14,
+      "book_page": 10,
+      "old_height": 1305.0,
+      "new_height": 1319.0,
+      "delta": 14.0
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 17,
+      "old_height": 1333.0,
+      "new_height": 1347.0,
+      "delta": 14.0
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 22,
+      "old_height": 1524.0,
+      "new_height": 1538.0,
+      "delta": 14.0
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 24,
+      "old_height": 1341.0,
+      "new_height": 1369.0,
+      "delta": 28.0
+    },
+    {
+      "pdf_page": 53,
+      "book_page": 49,
+      "old_height": 1309.0,
+      "new_height": 1369.0,
+      "delta": 60.0
+    },
+    {
+      "pdf_page": 56,
+      "book_page": 52,
+      "old_height": 1343.0,
+      "new_height": 1402.0,
+      "delta": 59.0
+    },
+    {
+      "pdf_page": 57,
+      "book_page": 53,
+      "old_height": 1406.0,
+      "new_height": 1523.0,
+      "delta": 117.0
+    },
+    {
+      "pdf_page": 58,
+      "book_page": 54,
+      "old_height": 1196.0,
+      "new_height": 1211.0,
+      "delta": 15.0
+    },
+    {
+      "pdf_page": 59,
+      "book_page": 55,
+      "old_height": 1395.0,
+      "new_height": 1451.0,
+      "delta": 56.0
+    },
+    {
+      "pdf_page": 62,
+      "book_page": 58,
+      "old_height": 1296.0,
+      "new_height": 1324.0,
+      "delta": 28.0
+    },
+    {
+      "pdf_page": 65,
+      "book_page": 61,
+      "old_height": 1456.0,
+      "new_height": 1470.0,
+      "delta": 14.0
+    },
+    {
+      "pdf_page": 67,
+      "book_page": 63,
+      "old_height": 1174.0,
+      "new_height": 1190.0,
+      "delta": 16.0
+    },
+    {
+      "pdf_page": 79,
+      "book_page": 75,
+      "old_height": 1613.0,
+      "new_height": 1627.0,
+      "delta": 14.0
+    },
+    {
+      "pdf_page": 85,
+      "book_page": 81,
+      "old_height": 1794.0,
+      "new_height": 2004.0,
+      "delta": 210.0
+    },
+    {
+      "pdf_page": 86,
+      "book_page": 82,
+      "old_height": 1196.0,
+      "new_height": 1224.0,
+      "delta": 28.0
+    },
+    {
+      "pdf_page": 97,
+      "book_page": 93,
+      "old_height": 1281.0,
+      "new_height": 1372.0,
+      "delta": 91.0
+    },
+    {
+      "pdf_page": 101,
+      "book_page": 97,
+      "old_height": 1178.0,
+      "new_height": 1206.0,
+      "delta": 28.0
+    },
+    {
+      "pdf_page": 105,
+      "book_page": 101,
+      "old_height": 1151.0,
+      "new_height": 1179.0,
+      "delta": 28.0
+    },
+    {
+      "pdf_page": 109,
+      "book_page": 105,
+      "old_height": 1246.0,
+      "new_height": 1385.0,
+      "delta": 139.0
+    },
+    {
+      "pdf_page": 110,
+      "book_page": 106,
+      "old_height": 1093.0,
+      "new_height": 1134.0,
+      "delta": 41.0
+    }
+  ],
+  "all_other_page_heights_preserved": true
+}

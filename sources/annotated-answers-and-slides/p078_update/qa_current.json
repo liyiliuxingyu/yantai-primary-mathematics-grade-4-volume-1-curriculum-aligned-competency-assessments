@@ -1,0 +1,62 @@
+{
+  "passed": true,
+  "scope": "原书第78页清晰原卷更正；其它题目与页面保留本次已发布基线",
+  "book_page": 78,
+  "answer_pdf_file_page": 82,
+  "pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+  "pages": 128,
+  "first_page_blank": true,
+  "no_extra_pages": true,
+  "all_page_dimensions_unchanged": true,
+  "changed_pdf_pages": [
+    82
+  ],
+  "unchanged_pdf_pages_pixel_identical": 127,
+  "question_records": 867,
+  "changed_question_keys": [
+    "p078_s01",
+    "p078_s05",
+    "p078_s06"
+  ],
+  "unchanged_question_records": 864,
+  "compiled_snippets": 948,
+  "local_patches": 92,
+  "black_source_corrections": 5,
+  "corrected_section_heading": "（每题2分，共12分）",
+  "scope_qa": "p078_update/qa_scope.json",
+  "black_source_qa": "p078_update/qa_black_source_rows.json",
+  "recovery_qa": "p078_update/qa_recovery.json",
+  "portability_qa": "p078_update/qa_portability.json",
+  "mathematics_qa": "p078_update/qa_math_independent.json",
+  "black_display_qa": "p078_update/qa_black_display_independent.json",
+  "ppt_qa_paths": [
+    "ppt_p078/qa_final.json"
+  ],
+  "manual_visual_review": {
+    "answer_page_82": true,
+    "final_heading_and_q6_word_crops": true,
+    "ppt_changed_slides_reviewed_by_author": [
+      115,
+      116,
+      117,
+      118,
+      119,
+      129,
+      130,
+      132,
+      134
+    ],
+    "ppt_changed_slides_reviewed_by_root": [
+      115,
+      117,
+      129,
+      130,
+      134
+    ],
+    "other_127_pdf_pages": "自动逐页像素范围核对，无本轮人工逐页重审声明"
+  },
+  "native_powerpoint_playback_tested": false,
+  "native_wps_playback_tested": false,
+  "question4_ambiguity_preserved": "B确定年龄与平均相同；D如指不能确定具体岁数也成立，原措辞不擅改",
+  "approved_changes_sha256": "012146e80018a231c103ade6ea63bacd94e939477ad7d7b8f83f11a8d6367f22"
+}

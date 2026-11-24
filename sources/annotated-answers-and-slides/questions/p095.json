@@ -1,0 +1,674 @@
+{
+  "book_page": 95,
+  "source_page": 99,
+  "records": [
+    {
+      "key": "p095_s01",
+      "book_page": 95,
+      "source_page": 99,
+      "section_index": 0,
+      "id": "三、3（1）",
+      "kind": "calculation",
+      "question_latex": "3. 计算下列各题，能简便计算的要简便计算。（12分）\\par \\(40\\times[175-(75+67)]\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先用减法性质，将\\(175\\)与\\(75\\)相减凑整。\\[\\begin{aligned}&40\\times[175-(75+67)]\\\\={}&40\\times[175-75-67]\\\\={}&40\\times[100-67]\\\\={}&40\\times33\\\\={}&1320\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p095_s02",
+      "book_page": 95,
+      "source_page": 99,
+      "section_index": 1,
+      "id": "三、3（2）",
+      "kind": "calculation",
+      "question_latex": "\\(39\\times99+99\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：提取共同的\\(99\\)，再把\\(99\\)看作\\(100-1\\)。\\[\\begin{aligned}&39\\times99+99\\\\={}&(39+1)\\times99\\\\={}&40\\times99\\\\={}&40\\times(100-1)\\\\={}&4000-40\\\\={}&3960\\end{aligned}\\]方法二：将\\(99\\)看成\\(100\\)少\\(1\\)，再把\\(-39+99\\)合并。\\[\\begin{aligned}&39\\times99+99\\\\={}&39\\times(100-1)+99\\\\={}&3900-39+99\\\\={}&3900+(99-39)\\\\={}&3900+60\\\\={}&3960\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p095_s03",
+      "book_page": 95,
+      "source_page": 99,
+      "section_index": 2,
+      "id": "三、3（3）",
+      "kind": "calculation",
+      "question_latex": "\\(245\\times36-145\\times36\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "用乘法分配律合并。\\[\\begin{aligned} &245\\times36-145\\times36\\\\ ={}&(245-145)\\times36\\\\ ={}&100\\times36\\\\ ={}&3600\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p095_s04",
+      "book_page": 95,
+      "source_page": 99,
+      "section_index": 3,
+      "id": "四、1",
+      "kind": "drawing",
+      "question_latex": "四、实践操作。（共8分）\\par 1. 在方格图上画一个钝角三角形、一个等腰直角三角形，并分别画出它们一条边上的高。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p095_s04_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.6]\\foreach \\x in {0,...,11}\\foreach \\y in {0,...,5}\\fill (\\x,\\y)circle(1.1pt);\\end{tikzpicture}"
+        },
+        {
+          "name": "p095_s04_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.6]\\foreach \\x in {0,...,11}\\foreach \\y in {0,...,5}\\fill (\\x,\\y)circle(1.1pt);\\draw[red] (6,5)--(10,5)--(7,4)--cycle;\\draw[red,dashed] (7,4)--(7,5);\\draw[red](7,4.82)--(7.18,4.82)--(7.18,5);\\node[red,left] at (6.2,4.1){高};\\draw[red,thin,->](6.3,4.15)--(7,4.5);\\node[red,above] at (8,5){底};\\draw[red] (9,3)--(11,3)--(9,1)--cycle;\\draw[red,dashed] (9,3)--(10,2);\\draw[red](9.87,2.13)--(10,2.26)--(10.13,2.13);\\node[red,left] at (8.65,2.1){高};\\draw[red,thin,->](8.75,2.1)--(9.5,2.5);\\node[red,below right] at (10,2){底};\\end{tikzpicture}",
+          "animations": [
+            {
+              "type": "altitude",
+              "vertex": [
+                7,
+                4
+              ],
+              "foot": [
+                7,
+                5
+              ],
+              "base": [
+                [
+                  6,
+                  5
+                ],
+                [
+                  10,
+                  5
+                ]
+              ],
+              "diagram_name": "p095_s04_a1",
+              "object_points": [
+                [
+                  6,
+                  5
+                ],
+                [
+                  10,
+                  5
+                ],
+                [
+                  7,
+                  4
+                ]
+              ]
+            },
+            {
+              "type": "altitude",
+              "vertex": [
+                9,
+                3
+              ],
+              "foot": [
+                10,
+                2
+              ],
+              "base": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  11,
+                  3
+                ]
+              ],
+              "diagram_name": "p095_s04_a1",
+              "object_points": [
+                [
+                  9,
+                  3
+                ],
+                [
+                  11,
+                  3
+                ],
+                [
+                  9,
+                  1
+                ]
+              ]
+            }
+          ],
+          "notes": " 仅将右侧等腰直角三角形的高字移入虚线左下方、底字移到斜边外右下方，避免标注叠字；点、边、高与直角标记不变。"
+        }
+      ],
+      "answer_latex": "钝角三角形可取三个格点，使一个角大于\\(90^\\circ\\)；所画红色钝角三角形从下方顶点向上边作垂线段，垂足与上边重合并标直角。等腰直角三角形取两条等长且互相垂直的格线作直角边；从直角顶点向斜边所作垂线段是对应高。红色“高”的两端均应落在顶点与垂足上。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "PPT接口兼容：record.animation alternatives分别描述两种三角形先画红图再作高；原TikZ和坐标不变。",
+          "将右侧等腰直角三角形高/底标注分开，仅改标签位置，保留全部几何点线与高度。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [
+          [
+            340.7,
+            276,
+            342.9,
+            306.4
+          ],
+          [
+            396.7,
+            331.7,
+            426.9,
+            361.9
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "altitude",
+          "vertex": [
+            7,
+            4
+          ],
+          "foot": [
+            7,
+            5
+          ],
+          "base": [
+            [
+              6,
+              5
+            ],
+            [
+              10,
+              5
+            ]
+          ],
+          "diagram_name": "p095_s04_a1",
+          "object_points": [
+            [
+              6,
+              5
+            ],
+            [
+              10,
+              5
+            ],
+            [
+              7,
+              4
+            ]
+          ]
+        },
+        {
+          "type": "altitude",
+          "vertex": [
+            9,
+            3
+          ],
+          "foot": [
+            10,
+            2
+          ],
+          "base": [
+            [
+              9,
+              1
+            ],
+            [
+              11,
+              3
+            ]
+          ],
+          "diagram_name": "p095_s04_a1",
+          "object_points": [
+            [
+              9,
+              3
+            ],
+            [
+              11,
+              3
+            ],
+            [
+              9,
+              1
+            ]
+          ]
+        }
+      ],
+      "animation": {
+        "type": "alternatives",
+        "grid": {
+          "x_min": 0,
+          "x_max": 11,
+          "y_min": 0,
+          "y_max": 5,
+          "step": 1
+        },
+        "alternatives": [
+          {
+            "type": "altitude",
+            "base": [
+              [
+                6,
+                5
+              ],
+              [
+                10,
+                5
+              ]
+            ],
+            "vertex": [
+              7,
+              4
+            ],
+            "foot": [
+              7,
+              5
+            ],
+            "object_points": [
+              [
+                6,
+                5
+              ],
+              [
+                10,
+                5
+              ],
+              [
+                7,
+                4
+              ]
+            ],
+            "object_role": "answer",
+            "labels": {
+              "base": "底",
+              "altitude": "高"
+            }
+          },
+          {
+            "type": "altitude",
+            "base": [
+              [
+                9,
+                1
+              ],
+              [
+                11,
+                3
+              ]
+            ],
+            "vertex": [
+              9,
+              3
+            ],
+            "foot": [
+              10,
+              2
+            ],
+            "object_points": [
+              [
+                9,
+                3
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "object_role": "answer",
+            "labels": {
+              "base": "底",
+              "altitude": "高"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "p095_s05",
+      "book_page": 95,
+      "source_page": 99,
+      "section_index": 4,
+      "id": "四、2",
+      "kind": "drawing",
+      "question_latex": "2. 在方格图上画一个底是\\(4\\,\\mathrm{cm}\\)、高是\\(2\\,\\mathrm{cm}\\)的平行四边形，并把它沿左下角的点逆时针旋转\\(90^\\circ\\)。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p095_s05_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.6]\\foreach \\x in {0,...,11}\\foreach \\y in {0,...,5}\\fill (\\x,\\y)circle(1.1pt);\\end{tikzpicture}"
+        },
+        {
+          "name": "p095_s05_a1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[scale=.6]\\foreach \\x in {0,...,11}\\foreach \\y in {0,...,5}\\fill (\\x,\\y)circle(1.1pt);\\draw[red] (2,0)--(6,0)--(7,2)--(3,2)--cycle;\\draw[red,dashed] (3,2)--(3,0);\\draw[red] (3,.18)--(3.18,.18)--(3.18,0);\\node[red,below] at (4,0){底4厘米};\\node[red,right] at (3,1){高2厘米};\\draw[red] (2,0)--(2,4)--(0,5)--(0,1)--cycle;\\fill[red] (2,0)circle(2pt)node[below left]{旋转中心};\\end{tikzpicture}",
+          "animations": [
+            {
+              "type": "altitude",
+              "vertex": [
+                3,
+                2
+              ],
+              "foot": [
+                3,
+                0
+              ],
+              "base": [
+                [
+                  2,
+                  0
+                ],
+                [
+                  6,
+                  0
+                ]
+              ],
+              "diagram_name": "p095_s05_a1",
+              "object_points": [
+                [
+                  2,
+                  0
+                ],
+                [
+                  6,
+                  0
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  3,
+                  2
+                ]
+              ]
+            },
+            {
+              "type": "rotation",
+              "object_points": [
+                [
+                  2,
+                  0
+                ],
+                [
+                  6,
+                  0
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "center": [
+                2,
+                0
+              ],
+              "angle": 90,
+              "direction": "counterclockwise",
+              "diagram_name": "p095_s05_a1"
+            }
+          ]
+        }
+      ],
+      "answer_latex": "原平行四边形底占4个单位格，高占2个单位格；以标出的左下角点为旋转中心。逆时针旋转\\(90^\\circ\\)时，中心不动，其余顶点到中心的距离保持不变，方向逆时针转直角，再依次连接对应点。红色原图与旋转图已保留，底、高及直角标记与格点对齐。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [
+          [
+            228.2,
+            359.6,
+            230.4,
+            417.6
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "altitude",
+          "vertex": [
+            3,
+            2
+          ],
+          "foot": [
+            3,
+            0
+          ],
+          "base": [
+            [
+              2,
+              0
+            ],
+            [
+              6,
+              0
+            ]
+          ],
+          "diagram_name": "p095_s05_a1",
+          "object_points": [
+            [
+              2,
+              0
+            ],
+            [
+              6,
+              0
+            ],
+            [
+              7,
+              2
+            ],
+            [
+              3,
+              2
+            ]
+          ]
+        },
+        {
+          "type": "rotation",
+          "object_points": [
+            [
+              2,
+              0
+            ],
+            [
+              6,
+              0
+            ],
+            [
+              7,
+              2
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "center": [
+            2,
+            0
+          ],
+          "angle": 90,
+          "direction": "counterclockwise",
+          "diagram_name": "p095_s05_a1"
+        }
+      ]
+    },
+    {
+      "key": "p095_s06",
+      "book_page": 95,
+      "source_page": 99,
+      "section_index": 5,
+      "id": "五、1",
+      "kind": "application",
+      "question_latex": "五、解决问题。（共29分）\\par 1. 有一批蔬菜要运出基地，已经运走了\\(82.6\\)吨，运走的比剩下的多\\(13.8\\)吨，这批蔬菜共几吨？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{方法一：先求剩下的质量}\\par 运走82.6吨，比剩下的多13.8吨，所以剩下82.6减13.8吨。\\[\\begin{aligned} &82.6-13.8+82.6\\\\ ={}&68.8+82.6\\\\ ={}&151.4\\text{(吨)}\\end{aligned}\\]答：这批蔬菜共151.4吨。\\par \\textbf{方法二：把剩下部分补到82.6吨}\\par 两份82.6吨比原总量多13.8吨，最后减去多补的量。\\[\\begin{aligned} &82.6+82.6-13.8\\\\ ={}&165.2-13.8\\\\ ={}&151.4\\text{(吨)}\\end{aligned}\\]答：这批蔬菜共151.4吨。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "无乘法；两份82.6吨采用等值连加"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p095_s07",
+      "book_page": 95,
+      "source_page": 99,
+      "section_index": 6,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "2. 小林用\\(5\\)天时间看完一本书，她前\\(3\\)天平均每天读\\(21\\)页，后\\(2\\)天共读\\(27\\)页，小林平均每天读多少页？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{方法一：总页数除以总天数}\\par 前3天每天21页，后2天共27页，先求全书页数。\\[\\begin{aligned} &(21\\times3+27)\\div5\\\\ ={}&(63+27)\\div5\\\\ ={}&90\\div5\\\\ ={}&18\\text{(页)}\\end{aligned}\\]答：小林平均每天读18页。\\par \\textbf{方法二：与每天21页比较}\\par 后2天如果也每天21页，应读42页，实际少读15页，将15页平均扣给5天。\\[\\begin{aligned} &21-(21\\times2-27)\\div5\\\\ ={}&21-(42-27)\\div5\\\\ ={}&21-15\\div5\\\\ ={}&21-3\\\\ ={}&18\\text{(页)}\\end{aligned}\\]答：小林平均每天读18页。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每天21页×3天；基准每天21页×2天"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p095_s08",
+      "book_page": 95,
+      "source_page": 99,
+      "section_index": 7,
+      "id": "五、3",
+      "kind": "application",
+      "question_latex": "3. 爷爷去市场买了一些鸡蛋和一箱纯牛奶，到家后，奶奶问：“你买了多少千克鸡蛋？”爷爷笑着摇头，说记不清了，请你根据下面的信息，帮他算一算这次共买了多少千克鸡蛋。（5分）\\par ●信息1：鸡蛋每千克12元；\\par ●信息2：一箱纯牛奶36元；\\par 另两条信息见下一页。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "本题信息跨页；100元付款、找回16元等条件在下一页。完整逐行脱式及多解列在原书第96页紧随原页的解析续页“五、3（续）”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "跨页条件指引；本记录无乘法"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

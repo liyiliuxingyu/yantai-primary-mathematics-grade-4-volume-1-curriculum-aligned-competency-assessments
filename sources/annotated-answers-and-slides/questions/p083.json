@@ -1,0 +1,204 @@
+{
+  "book_page": 83,
+  "source_page": 87,
+  "records": [
+    {
+      "key": "p083_s01",
+      "book_page": 83,
+      "source_page": 87,
+      "section_index": 0,
+      "id": "三、2（4）",
+      "kind": "calculation",
+      "question_latex": "2. 计算下列各题，能简算的要简算（续）。\\par \\(540-36\\times43\\div9\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{先算整除的一组}\\par 乘积除以\\(9\\)，可先把其中能整除的\\(36\\)除以\\(9\\)，再乘\\(43\\)。\\[\\begin{aligned}&540-36\\times43\\div9\\\\&=540-(36\\div9)\\times43\\\\&=540-4\\times43\\\\&=540-172\\\\&=368\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p083_s02",
+      "book_page": 83,
+      "source_page": 87,
+      "section_index": 1,
+      "id": "三、2（5）",
+      "kind": "calculation",
+      "question_latex": "\\(25\\times32\\times250\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{拆\\(32\\)凑整}\\[\\begin{aligned}&25\\times32\\times250\\\\&=(25\\times4)\\times(8\\times250)\\\\&=100\\times2000\\\\&=200000\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p083_s03",
+      "book_page": 83,
+      "source_page": 87,
+      "section_index": 2,
+      "id": "三、2（6）",
+      "kind": "calculation",
+      "question_latex": "\\(246\\div[96\\div(854-838)]\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{先小括号再中括号}\\[\\begin{aligned}&246\\div[96\\div(854-838)]\\\\&=246\\div[96\\div16]\\\\&=246\\div6\\\\&=41\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "中括号内尚有运算时保留原中括号，整组算成一个数后才去掉；仅统一括号书写。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p083_s04",
+      "book_page": 83,
+      "source_page": 87,
+      "section_index": 3,
+      "id": "四、1",
+      "kind": "application",
+      "question_latex": "四、解决问题。（共31分）\\par 1. 一辆小汽车和一辆货车分别从烟台和北京同时出发，相向而行，经过\\(3\\)小时，两车还相距\\(193\\)千米。已知小汽车的速度为\\(95\\)千米/时，货车的速度为\\(75\\)千米/时，烟台和北京相距多少千米？（先画图表示数量关系，再解答）（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p083_s04_g1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm]\\draw (0,0)--(10,0);\\foreach \\x in {0,4,6,10}\\draw (\\x,-.12)--(\\x,.12);\\node[below] at (0,0){烟台};\\node[below] at (10,0){北京};\\draw[->] (0,.5)--(4,.5);\\draw[<-] (6,.5)--(10,.5);\\node[above] at (2,.5){小汽车：95千米/时，3小时};\\node[above] at (8,.5){货车：75千米/时，3小时};\\node[above] at (5,0){193千米};\\draw[decorate,decoration={brace,mirror}] (0,-.8)--(10,-.8) node[midway,below=5pt]{总路程？千米};\\end{tikzpicture}",
+          "notes": "示意图三段不按数量比例；方向均朝中间。"
+        }
+      ],
+      "answer_latex": "两车都行驶3小时，尚未相遇。可先把每小时两车接近的路程合并再乘时间，也可分别列出两车路程，再用乘法分配律提取共同的3；最后都要加上尚余193千米。\\par \\[\\begin{aligned}&95\\times3+75\\times3+193\\\\={}&(95+75)\\times3+193\\\\={}&170\\times3+193\\\\={}&510+193\\\\={}&703\\text{(千米)}\\end{aligned}\\]答：烟台和北京相距703千米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "本轮复核：两车路程分别列式后同乘3，先提取共同3求速度和170，避免分别算285与225。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "速度和（每小时合计路程）×共同小时数；各车速度×各自行驶小时数"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p083_s05",
+      "book_page": 83,
+      "source_page": 87,
+      "section_index": 4,
+      "id": "四、2",
+      "kind": "application",
+      "question_latex": "2. 周末王叔叔去超市采购生活物资。他买了一袋\\(5\\)千克装的大米，花了\\(79.5\\)元，又买了一桶\\(5\\)升装的食用油，买大米比买食用油少花了\\(23.9\\)元。王叔叔买大米和食用油一共花了多少元？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按题意“大米比食用油少花23.9元”，食用油费用为\\(79.5+23.9\\)元，两种费用先列合计式，再用加法结合律将两个79.5凑成159。\\[\\begin{aligned}&79.5+(79.5+23.9)\\\\={}&(79.5+79.5)+23.9\\\\={}&159+23.9\\\\={}&182.9\\text{(元)}\\end{aligned}\\]答：买大米和食用油一共花182.9元。以上是同一数量关系的简便整理，不把换写法另算一种解法。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "避免使用本阶段尚未学习的一般小数乘法79.5×2，改成等值连加，并不冒称新方法。",
+          "简便计算复核：实际PDF主式先算79.5+23.9=103.4，再加79.5。应先用加法结合律将两个79.5凑为整数159。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "没有乘法，原79.5×2已在前轮改等值连加"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p083_s06",
+      "book_page": 83,
+      "source_page": 87,
+      "section_index": 5,
+      "id": "四、3",
+      "kind": "application",
+      "question_latex": "3. 为了迎接植树节，学校组织了“绿色校园”植树劳动实践活动。三年级有\\(158\\)名同学参加，四年级参加的人数比三年级的\\(2\\)倍少\\(68\\)人，五年级有\\(362\\)名同学参加，五年级参加的人数比四年级多多少人？（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "四年级人数为\\(158\\times2-68\\)人，从五年级362人中减去这个整体。减去一个差，等于减去被减数再加减数；先把362与68凑430，乘法同时算出316。\\[\\begin{aligned}&362-(158\\times2-68)\\\\={}&362+68-158\\times2\\\\={}&430-316\\\\={}&114\\text{(人)}\\end{aligned}\\]答：五年级比四年级多114人。另可先求四年级人数\\(158\\times2-68=248\\)人，再算\\(362-248=114\\)人；这与上式是同一数量关系的两种处理顺序，不另记一种独立解法。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "简便计算复核：主式先算316−68=248，旁注又先算362−316=46。均可通过减去一个差的性质，把362+68先凑430，与158×2同时计算。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "158人作为一份×2份（三年级人数的2倍）"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

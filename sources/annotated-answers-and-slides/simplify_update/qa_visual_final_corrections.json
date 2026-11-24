@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "actual_visual_review": true,
+  "reviewer": "root",
+  "book_pages": [
+    75,
+    79,
+    81
+  ],
+  "checks": [
+    "75页主式四行、旁注另法六行，去除重复基准脱式，末行与左侧答语无覆盖",
+    "79页主式增加分组和一步，原答语及相邻题保持可读",
+    "81页4×4已为行内公式，正文无缺字或异常换行"
+  ],
+  "preview_sha256": {
+    "75": "d6702b2b14a60dc0f26a12c938cc1aa72f4cdf5ae69c24db15dd5aaa0beb4ac1",
+    "79": "902bc23c92a1453c8573823a757f5ba46e5a2c756273895e9702524c66884a20",
+    "81": "e029ff4ffeba8ea64a34e4c6f1c17992a51a154b416337991ce04665d06c0211"
+  },
+  "scope": "Actual view_image review of these three final previews. Earlier two reviewers examined all34 modified pages; this record resolves their one duplicate issue and checks later local-step adjustments."
+}

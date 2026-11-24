@@ -1,0 +1,982 @@
+{
+  "passed": true,
+  "pdf_sha256": "8dc0adf438a2798377532f7b1045bc80399f3d8556d781b3f2a33c2102cd2617",
+  "pages": 128,
+  "question_pages": 108,
+  "changed_book_pages": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    15,
+    24,
+    25,
+    30,
+    31,
+    32,
+    39,
+    42,
+    44,
+    52,
+    54,
+    56,
+    57,
+    58,
+    73,
+    74,
+    75,
+    77,
+    83,
+    84,
+    88,
+    89,
+    91,
+    98,
+    100,
+    104,
+    108
+  ],
+  "changed_question_keys": [
+    "p002_s01",
+    "p003_s05",
+    "p003_s07",
+    "p005_s05",
+    "p007_s05",
+    "p011_s08",
+    "p015_s08",
+    "p024_s03",
+    "p025_s17",
+    "p030_s10",
+    "p031_s08",
+    "p032_s02",
+    "p039_s05",
+    "p044_s01",
+    "p042_s09",
+    "p052_s01",
+    "p054_s07",
+    "p056_s01",
+    "p057_s03",
+    "p058_s02",
+    "p073_s07",
+    "p075_s03",
+    "p075_s05",
+    "p077_s06",
+    "p083_s04",
+    "p084_s01",
+    "p084_s02",
+    "p088_s03",
+    "p089_s07",
+    "p100_s02",
+    "p104_s03",
+    "p104_s05",
+    "p108_s03",
+    "p098_s02",
+    "p074_s04",
+    "p091_s03"
+  ],
+  "unchanged_pdf_pages": 96,
+  "first_page_blank": true,
+  "separate_analysis_pages": 0,
+  "all_notes_within_pages": true,
+  "render_scale": 1,
+  "comparison": [
+    {
+      "pdf_page": 1,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 2,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 3,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 4,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 5,
+      "book_page": 1,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 6,
+      "book_page": 2,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 7,
+      "book_page": 3,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 8,
+      "book_page": 4,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 9,
+      "book_page": 5,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 10,
+      "book_page": 6,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 11,
+      "book_page": 7,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 12,
+      "book_page": 8,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 13,
+      "book_page": 9,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 14,
+      "book_page": 10,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 15,
+      "book_page": 11,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 16,
+      "book_page": 12,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 17,
+      "book_page": 13,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 18,
+      "book_page": 14,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 19,
+      "book_page": 15,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 20,
+      "book_page": 16,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 21,
+      "book_page": 17,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 22,
+      "book_page": 18,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 23,
+      "book_page": 19,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 24,
+      "book_page": 20,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 25,
+      "book_page": 21,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 26,
+      "book_page": 22,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 27,
+      "book_page": 23,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 28,
+      "book_page": 24,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 29,
+      "book_page": 25,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 30,
+      "book_page": 26,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 31,
+      "book_page": 27,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 32,
+      "book_page": 28,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 33,
+      "book_page": 29,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 34,
+      "book_page": 30,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 35,
+      "book_page": 31,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 36,
+      "book_page": 32,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 37,
+      "book_page": 33,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 38,
+      "book_page": 34,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 39,
+      "book_page": 35,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 40,
+      "book_page": 36,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 41,
+      "book_page": 37,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 42,
+      "book_page": 38,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 43,
+      "book_page": 39,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 44,
+      "book_page": 40,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 45,
+      "book_page": 41,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 46,
+      "book_page": 42,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 47,
+      "book_page": 43,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 48,
+      "book_page": 44,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 49,
+      "book_page": 45,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 50,
+      "book_page": 46,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 51,
+      "book_page": 47,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 52,
+      "book_page": 48,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 53,
+      "book_page": 49,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 54,
+      "book_page": 50,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 55,
+      "book_page": 51,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 56,
+      "book_page": 52,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 57,
+      "book_page": 53,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 58,
+      "book_page": 54,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 59,
+      "book_page": 55,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 60,
+      "book_page": 56,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 61,
+      "book_page": 57,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 62,
+      "book_page": 58,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 63,
+      "book_page": 59,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 64,
+      "book_page": 60,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 65,
+      "book_page": 61,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 66,
+      "book_page": 62,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 67,
+      "book_page": 63,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 68,
+      "book_page": 64,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 69,
+      "book_page": 65,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 70,
+      "book_page": 66,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 71,
+      "book_page": 67,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 72,
+      "book_page": 68,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 73,
+      "book_page": 69,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 74,
+      "book_page": 70,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 75,
+      "book_page": 71,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 76,
+      "book_page": 72,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 77,
+      "book_page": 73,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 78,
+      "book_page": 74,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 79,
+      "book_page": 75,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 80,
+      "book_page": 76,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 81,
+      "book_page": 77,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 82,
+      "book_page": 78,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 83,
+      "book_page": 79,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 84,
+      "book_page": 80,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 85,
+      "book_page": 81,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 86,
+      "book_page": 82,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 87,
+      "book_page": 83,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 88,
+      "book_page": 84,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 89,
+      "book_page": 85,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 90,
+      "book_page": 86,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 91,
+      "book_page": 87,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 92,
+      "book_page": 88,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 93,
+      "book_page": 89,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 94,
+      "book_page": 90,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 95,
+      "book_page": 91,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 96,
+      "book_page": 92,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 97,
+      "book_page": 93,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 98,
+      "book_page": 94,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 99,
+      "book_page": 95,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 100,
+      "book_page": 96,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 101,
+      "book_page": 97,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 102,
+      "book_page": 98,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 103,
+      "book_page": 99,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 104,
+      "book_page": 100,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 105,
+      "book_page": 101,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 106,
+      "book_page": 102,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 107,
+      "book_page": 103,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 108,
+      "book_page": 104,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 109,
+      "book_page": 105,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 110,
+      "book_page": 106,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 111,
+      "book_page": 107,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 112,
+      "book_page": 108,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "reviewed partial export"
+    },
+    {
+      "pdf_page": 113,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 114,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 115,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 116,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 117,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 118,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 119,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 120,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 121,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 122,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 123,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 124,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 125,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 126,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 127,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    },
+    {
+      "pdf_page": 128,
+      "book_page": null,
+      "rgb_identical_to_raw_composite": true,
+      "rgb_identical_to_expected_reference": true,
+      "reference": "previous published page"
+    }
+  ],
+  "limits": "This machine check verifies the published scope and lossless image deduplication, not independent mathematics or human visual review."
+}

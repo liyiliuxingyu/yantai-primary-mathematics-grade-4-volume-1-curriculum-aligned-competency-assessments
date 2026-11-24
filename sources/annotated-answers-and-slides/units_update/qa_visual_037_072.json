@@ -1,0 +1,161 @@
+{
+  "role": "independent_read_only_visual_QA",
+  "pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "final_pdf_generation": "FINAL_PDF_READY3",
+  "whole_book_pages_actually_viewed": [
+    49,
+    52,
+    53,
+    54,
+    55,
+    56,
+    58,
+    61,
+    63,
+    70
+  ],
+  "whole_pdf_pages_actually_viewed": [
+    53,
+    56,
+    57,
+    58,
+    59,
+    60,
+    62,
+    65,
+    67,
+    74
+  ],
+  "note_crops_actually_viewed": [
+    "p049_s03",
+    "p049_s04",
+    "p049_s07",
+    "p052_s01",
+    "p052_s02",
+    "p052_s03",
+    "p053_s08",
+    "p053_s09",
+    "p054_s02",
+    "p054_s06",
+    "p055_s02",
+    "p055_s05",
+    "p055_s06",
+    "p055_s07",
+    "p056_s01",
+    "p058_s03",
+    "p061_s09",
+    "p063_s07",
+    "p070_s02"
+  ],
+  "contact_sheets_actually_viewed": [
+    "local_crops/contact_037_072_01.png",
+    "local_crops/contact_037_072_02.png",
+    "local_crops/contact_037_072_03.png"
+  ],
+  "local_regions_actually_viewed_count": 16,
+  "local_regions_actually_viewed": [
+    "p040_s03_local1",
+    "p043_s04_local1",
+    "p043_s04_local2",
+    "p044_s03_local1",
+    "p044_s02_local2",
+    "p047_s04_local1",
+    "p048_s01_local1",
+    "p048_s02_local1",
+    "p048_s03_local1",
+    "p051_s06_local1",
+    "p052_s01_local1",
+    "p052_s02_local1",
+    "p052_s03_local1",
+    "p052_s04_local1",
+    "p052_s01_local2",
+    "p052_s03_local2"
+  ],
+  "finding": "未在实际审看范围发现单位格式、换算混入计算同行、重影、数字相碰、小数点丢失或题干遮挡问题。",
+  "checks": {
+    "conversion_own_row": true,
+    "unit_words_unparenthesized_on_conversion_rows": true,
+    "calculation_result_unit_ascii_parentheses": true,
+    "original_numbers_preserved_in_viewed_unit_regions": true,
+    "no_unit_digits_collision_visible": true,
+    "no_ghosting_or_clipping_visible_in_target_unit_regions": true,
+    "p052_primary_8150g_to_8_15kg_separate_complete_quantity_conversion": true,
+    "p052_primary_108000cm2_to_10_8m2_separate_complete_quantity_conversion": true,
+    "p053_all_nine_existing_unit_conversion_examples_visible": true,
+    "numeric_only_original_blanks_preserve_preprinted_units": true
+  },
+  "page_observations": [
+    {
+      "book_page": 49,
+      "observed": "万/亿两式及各长度、质量、面积换算分别成行；原填空保留数字填入。"
+    },
+    {
+      "book_page": 52,
+      "observed": "主式结果8150(克)、108000(平方厘米)之后另列完整数量换算；notes另一解法同样保留单位换算。三身高换算分别一行。"
+    },
+    {
+      "book_page": 53,
+      "observed": "九种已有单位组合均逐行保留，3540对应3.540的末尾0保留；450千克到0.45吨换算单列。"
+    },
+    {
+      "book_page": 54,
+      "observed": "0.9米到分米及6厘米、8米6厘米、560厘米到米，换算分行可辨。"
+    },
+    {
+      "book_page": 55,
+      "observed": "万/亿改写、克到千克、吨到千克、厘米到米各行单位无括号，原单位空格未重复填写。"
+    },
+    {
+      "book_page": 56,
+      "observed": "3.75吨到3750千克、1万件到10000件分别成行；两种每件重量求法及答语仍可读。"
+    },
+    {
+      "book_page": 58,
+      "observed": "5元3角、8角7分各自换算成一行；选择空填A，原选项未遮挡。"
+    },
+    {
+      "book_page": 61,
+      "observed": "8厘米到0.08米换算独行；原1.17填空与已有米字未碰。"
+    },
+    {
+      "book_page": 63,
+      "observed": "16厘米、54厘米到米分别成行，另法2米到200厘米和130厘米到1.3米各自成行，脱式与答语未相互覆盖。"
+    },
+    {
+      "book_page": 70,
+      "observed": "2厘米到20毫米换算独行，与黑色图形、点名及填空分开。"
+    }
+  ],
+  "scope_limits": [
+    "人工实际看了10个整页、19张对应换算note裁图及16个新local目标区；不声称37—72全部页面人工通读。",
+    "三张联系表个别长题号标题和周边文本被内部裁图边界截取；本次改动目标单位均可辨，不是最终PDF裁切。52页两条长换算行另由完整页面及local2完整目标裁图核对。",
+    "ASCII括号的字符来源沿用已审源码，目视核对其排版；单靠图片不声称可判定字符编码。",
+    "未扩大为全册重新独立验算、全书数学正确性保证或PPT原生播放测试。"
+  ],
+  "issues": [],
+  "initial_actually_viewed_pdf_sha256": "ead262667f6398e8027af765e6b9d9f2066418b0007a774b57bd1e4b10247c2b",
+  "carryforward": {
+    "basis_file": "qa_visual_carryforward.json",
+    "previous_reviewed_pdf_sha256": "ead262667f6398e8027af765e6b9d9f2066418b0007a774b57bd1e4b10247c2b",
+    "exact_pixel_identical_reviewed_note_crops": 19,
+    "exact_pixel_identical_reviewed_local_regions": 16,
+    "note_and_local_target_conclusions_carried_forward": true,
+    "changes_in_other_book_pages": [
+      75,
+      79
+    ],
+    "whole_page_scope_statement": "10整页原目视发生在FINAL_PDF_READY2；作者仅对75/79做后续排版更新。本范围35个目标区由逐像素一致检查精确承接；未把新版本重新人工打开全部10页记作新的目视。"
+  },
+  "current_full_page_png_sha256": {
+    "49": "3ee05d876ab697ebc1b1574d251d8a9d49a515859130971da82e8c96d0c6778e",
+    "52": "cfffb53a07b8c806184c2a93a667e9e3939f6b2d57c751192cf86c0aac6523eb",
+    "53": "acb1dd73df81ea02ed83eaa2ffa4fb0bcc74903d5fe286731ce7556cbdc0e96a",
+    "54": "d28e7b461f2a706154af151a13fe336e4ad1266f817934699b2372aa8bd8162a",
+    "55": "b24ce02ac7967f624d16c4b82ae7d8c62197a9a1f1b1537381a3c043af2e9862",
+    "56": "ed11b80e0b67f0a930216ff369d06354c99d55af3df6aef690a4d7166ce6b01f",
+    "58": "27ec8d390b2427904b45b75e1c9e4f749f4528d65d570e0aa6ed4a037154c717",
+    "61": "f6a14354314db95cd8d140bc884d6b10f02383c9c9aad63622e7ab1f0d588f30",
+    "63": "92bdf9ead3f310c0b1c011c84b332b5b9f046270f21a24c68557d8ea6e63e48a",
+    "70": "8791940a4671d3aa320924c423d4bc6abaad90d797b18e940e66cc60ded07d56"
+  }
+}

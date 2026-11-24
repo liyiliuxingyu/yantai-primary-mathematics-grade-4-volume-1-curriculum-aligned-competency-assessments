@@ -1,0 +1,3094 @@
+[
+  {
+    "source": "p74_review/bundle/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+    "source_sha256": "13b58d1bad2535fb8f465c9aee782ca32ec18fe8134a011e4c2415ab4bb53511",
+    "output": "p74_review/ppt_recheck/draft_late_r4/小学四上同步素养卷第5册讲解课件答案.pptx",
+    "output_sha256": "4aad33ca4bcceb8c1c0ffbdc6ba5c49f435ed75a555f7593a45cf119b84feaed",
+    "bytes": 5582591,
+    "total_slides": 430,
+    "changed_slides": [
+      15,
+      34,
+      53,
+      62,
+      100,
+      101,
+      242,
+      243,
+      244,
+      252,
+      253,
+      254,
+      255,
+      382,
+      396
+    ],
+    "changed_original_parts": [
+      "ppt/slides/slide15.xml",
+      "ppt/slides/slide34.xml",
+      "ppt/slides/slide53.xml",
+      "ppt/slides/slide62.xml",
+      "ppt/slides/slide100.xml",
+      "ppt/slides/slide101.xml",
+      "ppt/slides/slide242.xml",
+      "ppt/slides/slide243.xml",
+      "ppt/slides/slide244.xml",
+      "ppt/slides/slide252.xml",
+      "ppt/slides/slide253.xml",
+      "ppt/slides/slide254.xml",
+      "ppt/slides/slide255.xml",
+      "ppt/slides/slide382.xml",
+      "ppt/slides/slide396.xml",
+      "ppt/slides/_rels/slide100.xml.rels",
+      "ppt/slides/_rels/slide101.xml.rels",
+      "ppt/slides/_rels/slide15.xml.rels",
+      "ppt/slides/_rels/slide243.xml.rels",
+      "ppt/slides/_rels/slide244.xml.rels",
+      "ppt/slides/_rels/slide252.xml.rels",
+      "ppt/slides/_rels/slide253.xml.rels",
+      "ppt/slides/_rels/slide254.xml.rels",
+      "ppt/slides/_rels/slide255.xml.rels",
+      "ppt/slides/_rels/slide34.xml.rels",
+      "ppt/slides/_rels/slide382.xml.rels",
+      "ppt/slides/_rels/slide396.xml.rels",
+      "ppt/slides/_rels/slide53.xml.rels",
+      "ppt/slides/_rels/slide62.xml.rels"
+    ],
+    "new_parts": [
+      "ppt/media/simplify_003d11f21bbfc1198bf38535.png",
+      "ppt/media/simplify_003d11f21bbfc1198bf38535.svg",
+      "ppt/media/simplify_0575f4c2aeef6031ac4a9fd9.png",
+      "ppt/media/simplify_0575f4c2aeef6031ac4a9fd9.svg",
+      "ppt/media/simplify_0aae929d2be80360269bb33e.png",
+      "ppt/media/simplify_0aae929d2be80360269bb33e.svg",
+      "ppt/media/simplify_1b06d03b5622258aa202e049.png",
+      "ppt/media/simplify_1b06d03b5622258aa202e049.svg",
+      "ppt/media/simplify_1b5b204f6fcd176a7be81ecd.png",
+      "ppt/media/simplify_1b5b204f6fcd176a7be81ecd.svg",
+      "ppt/media/simplify_20976888382831d3fc8a27ea.png",
+      "ppt/media/simplify_20976888382831d3fc8a27ea.svg",
+      "ppt/media/simplify_2ee3e54e43f2d60fd251f03a.png",
+      "ppt/media/simplify_2ee3e54e43f2d60fd251f03a.svg",
+      "ppt/media/simplify_314e646d05d8aa3eb73a5828.png",
+      "ppt/media/simplify_314e646d05d8aa3eb73a5828.svg",
+      "ppt/media/simplify_3412f7d5f03eeaa98fd48324.png",
+      "ppt/media/simplify_3412f7d5f03eeaa98fd48324.svg",
+      "ppt/media/simplify_3a550e739bea7cdd164e4de2.png",
+      "ppt/media/simplify_3a550e739bea7cdd164e4de2.svg",
+      "ppt/media/simplify_3add455b7b97a440847dfdb0.png",
+      "ppt/media/simplify_3add455b7b97a440847dfdb0.svg",
+      "ppt/media/simplify_3b921cd3ff2236b916b7c61f.png",
+      "ppt/media/simplify_3b921cd3ff2236b916b7c61f.svg",
+      "ppt/media/simplify_433d88a16f1eb01da2324e73.png",
+      "ppt/media/simplify_433d88a16f1eb01da2324e73.svg",
+      "ppt/media/simplify_45f945d89278d6cda688f8f3.png",
+      "ppt/media/simplify_45f945d89278d6cda688f8f3.svg",
+      "ppt/media/simplify_468fa824cadeeb407e0f7838.png",
+      "ppt/media/simplify_468fa824cadeeb407e0f7838.svg",
+      "ppt/media/simplify_4f1f3e7b3fdc85ffb7d22d95.png",
+      "ppt/media/simplify_4f1f3e7b3fdc85ffb7d22d95.svg",
+      "ppt/media/simplify_514cefe1fca90db42525a6d7.png",
+      "ppt/media/simplify_514cefe1fca90db42525a6d7.svg",
+      "ppt/media/simplify_57a3b91fda9d0fba523b9b1b.png",
+      "ppt/media/simplify_57a3b91fda9d0fba523b9b1b.svg",
+      "ppt/media/simplify_57ea2c465b6b90e3d8548652.png",
+      "ppt/media/simplify_57ea2c465b6b90e3d8548652.svg",
+      "ppt/media/simplify_65fb5bf97145ff63e1b6c317.png",
+      "ppt/media/simplify_65fb5bf97145ff63e1b6c317.svg",
+      "ppt/media/simplify_669fcbe15c90f9be08f1d342.png",
+      "ppt/media/simplify_669fcbe15c90f9be08f1d342.svg",
+      "ppt/media/simplify_69b01d9c52fa60aa394470b1.png",
+      "ppt/media/simplify_69b01d9c52fa60aa394470b1.svg",
+      "ppt/media/simplify_7f1c44e0af7e81e2a4963dfc.png",
+      "ppt/media/simplify_7f1c44e0af7e81e2a4963dfc.svg",
+      "ppt/media/simplify_8c2b3ff7561587092dd8363a.png",
+      "ppt/media/simplify_8c2b3ff7561587092dd8363a.svg",
+      "ppt/media/simplify_8c668d3be5d08505c23acbbf.png",
+      "ppt/media/simplify_8c668d3be5d08505c23acbbf.svg",
+      "ppt/media/simplify_90e3647d1d1493b36f974a40.png",
+      "ppt/media/simplify_90e3647d1d1493b36f974a40.svg",
+      "ppt/media/simplify_91acad1a48d92eea002e6aa4.png",
+      "ppt/media/simplify_91acad1a48d92eea002e6aa4.svg",
+      "ppt/media/simplify_98fce6344533b47855daaccd.png",
+      "ppt/media/simplify_98fce6344533b47855daaccd.svg",
+      "ppt/media/simplify_9caaf1459ff8216db4921b10.png",
+      "ppt/media/simplify_9caaf1459ff8216db4921b10.svg",
+      "ppt/media/simplify_9d8f2859d1651a9f6fbbba41.png",
+      "ppt/media/simplify_9d8f2859d1651a9f6fbbba41.svg",
+      "ppt/media/simplify_9f9de6e964ab416aef38c68e.png",
+      "ppt/media/simplify_9f9de6e964ab416aef38c68e.svg",
+      "ppt/media/simplify_ac67f8f86a0ba742430f2f3a.png",
+      "ppt/media/simplify_ac67f8f86a0ba742430f2f3a.svg",
+      "ppt/media/simplify_ba965f2eca8358165658c410.png",
+      "ppt/media/simplify_ba965f2eca8358165658c410.svg",
+      "ppt/media/simplify_c662c681dc5d14394bd82e15.png",
+      "ppt/media/simplify_c662c681dc5d14394bd82e15.svg",
+      "ppt/media/simplify_caffdabf8dbaae4d57a0316d.png",
+      "ppt/media/simplify_caffdabf8dbaae4d57a0316d.svg",
+      "ppt/media/simplify_d50f45c5d73103579073b8aa.png",
+      "ppt/media/simplify_d50f45c5d73103579073b8aa.svg",
+      "ppt/media/simplify_ea7ed4040964a0b267f43988.png",
+      "ppt/media/simplify_ea7ed4040964a0b267f43988.svg",
+      "ppt/media/simplify_edb0ae1591b89bfe7d9859f4.png",
+      "ppt/media/simplify_edb0ae1591b89bfe7d9859f4.svg",
+      "ppt/media/simplify_eef61a895bb5c059af865fa8.png",
+      "ppt/media/simplify_eef61a895bb5c059af865fa8.svg",
+      "ppt/media/simplify_f10695aad2ca8baca5c749cb.png",
+      "ppt/media/simplify_f10695aad2ca8baca5c749cb.svg",
+      "ppt/media/simplify_f3e4ce874e847b11a6c3007a.png",
+      "ppt/media/simplify_f3e4ce874e847b11a6c3007a.svg",
+      "ppt/media/simplify_fd1eedff3ebb2eeb900e8603.png",
+      "ppt/media/simplify_fd1eedff3ebb2eeb900e8603.svg",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.png",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.svg"
+    ],
+    "timing_bytes_all_unchanged": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "changes": [
+      {
+        "key": "p073_s07",
+        "slide": 15,
+        "ops": [
+          {
+            "name": "p073_s07_b001_2_p0",
+            "rect": [
+              64,
+              276,
+              1152,
+              116
+            ],
+            "text": "以80为基准，甲、乙的合量正好是2份80。\n丙比80少30，将这30平均从3份中扣除。",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_2_p1",
+            "rect": [
+              64,
+              408,
+              660,
+              216
+            ],
+            "native_group_anchor": "10",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p073_s07_b001_2_p1_simplify_rhs0",
+                "rect": [
+                  106,
+                  408.0,
+                  618,
+                  54.0
+                ],
+                "asset": "f3e4ce874e847b11a6c3007a",
+                "plain": "80-(80-50)÷3",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b001_2_p1_simplify_equals1",
+                "rect": [
+                  64,
+                  462.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b001_2_p1_simplify_rhs1",
+                "rect": [
+                  106,
+                  462.0,
+                  618,
+                  54.0
+                ],
+                "asset": "20976888382831d3fc8a27ea",
+                "plain": "80-30÷3",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b001_2_p1_simplify_equals2",
+                "rect": [
+                  64,
+                  516.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b001_2_p1_simplify_rhs2",
+                "rect": [
+                  106,
+                  516.0,
+                  618,
+                  54.0
+                ],
+                "asset": "ba965f2eca8358165658c410",
+                "plain": "80-10",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b001_2_p1_simplify_equals3",
+                "rect": [
+                  64,
+                  570.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b001_2_p1_simplify_rhs3",
+                "rect": [
+                  106,
+                  570.0,
+                  618,
+                  54.0
+                ],
+                "asset": "314e646d05d8aa3eb73a5828",
+                "plain": "70",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p073_s07_b001_2_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_2_p3",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_3_p0",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_3_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_3_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_3_p3",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_3_p4",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_3_p5",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_3_p6",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_3_p7",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_4_p0",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_4_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_4_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_4_p3",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b001_4_p4",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b002_5_p0",
+            "rect": [
+              760,
+              408,
+              456,
+              58
+            ],
+            "text": "总量法复核：",
+            "points": 32
+          },
+          {
+            "name": "p073_s07_b002_5_p1",
+            "rect": [
+              760,
+              468,
+              456,
+              192
+            ],
+            "native_group_anchor": "27",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p073_s07_b002_5_p1_simplify_rhs0",
+                "rect": [
+                  802,
+                  468.0,
+                  414,
+                  48.0
+                ],
+                "asset": "90e3647d1d1493b36f974a40",
+                "plain": "(80×2+50)÷3",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b002_5_p1_simplify_equals1",
+                "rect": [
+                  760,
+                  516.0,
+                  34,
+                  48.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b002_5_p1_simplify_rhs1",
+                "rect": [
+                  802,
+                  516.0,
+                  414,
+                  48.0
+                ],
+                "asset": "57a3b91fda9d0fba523b9b1b",
+                "plain": "(160+50)÷3",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b002_5_p1_simplify_equals2",
+                "rect": [
+                  760,
+                  564.0,
+                  34,
+                  48.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b002_5_p1_simplify_rhs2",
+                "rect": [
+                  802,
+                  564.0,
+                  414,
+                  48.0
+                ],
+                "asset": "3b921cd3ff2236b916b7c61f",
+                "plain": "210÷3",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b002_5_p1_simplify_equals3",
+                "rect": [
+                  760,
+                  612.0,
+                  34,
+                  48.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p073_s07_b002_5_p1_simplify_rhs3",
+                "rect": [
+                  802,
+                  612.0,
+                  414,
+                  48.0
+                ],
+                "asset": "314e646d05d8aa3eb73a5828",
+                "plain": "70",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p073_s07_b002_5_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p074_s04",
+        "slide": 34,
+        "ops": [
+          {
+            "name": "p074_s04_b001_0_p0",
+            "rect": [
+              64,
+              124,
+              1152,
+              58
+            ],
+            "text": "按当前题面，原平均为15千克，新队员重39千克。",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_0_p1",
+            "rect": [
+              106,
+              196,
+              1110,
+              58
+            ],
+            "asset": "9d8f2859d1651a9f6fbbba41",
+            "plain": "39>15",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_0_p2",
+            "rect": [
+              64,
+              268,
+              1152,
+              58
+            ],
+            "text": "加入的队员比原平均重，所以平均体重提高，选C。",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_0_p3",
+            "rect": [
+              64,
+              342,
+              1152,
+              58
+            ],
+            "text": "书后A与当前15千克不符，需要核对题面。",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_0_p4",
+            "rect": [
+              64,
+              416,
+              1152,
+              58
+            ],
+            "text": "如果原平均为45千克，新队员仍重39千克：",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_1_p0",
+            "rect": [
+              106,
+              490,
+              1110,
+              58
+            ],
+            "asset": "9f9de6e964ab416aef38c68e",
+            "plain": "39<45",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_1_p1",
+            "rect": [
+              64,
+              564,
+              1152,
+              58
+            ],
+            "text": "加入的队员比原平均轻，平均体重降低，应选A。",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_1_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_1_p3",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_1_p4",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_2_p0",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_2_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_2_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_2_p3",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_2_p4",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_3_p0",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p074_s04_b001_3_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p075_s03",
+        "slide": 53,
+        "ops": [
+          {
+            "name": "p075_s03_b004_1",
+            "rect": [
+              64,
+              192,
+              1152,
+              162
+            ],
+            "native_group_anchor": "6",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p075_s03_b004_1_simplify_rhs0",
+                "rect": [
+                  106,
+                  192.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "2ee3e54e43f2d60fd251f03a",
+                "plain": "720×2÷20",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p075_s03_b004_1_simplify_equals1",
+                "rect": [
+                  64,
+                  246.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p075_s03_b004_1_simplify_rhs1",
+                "rect": [
+                  106,
+                  246.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "ea7ed4040964a0b267f43988",
+                "plain": "720×2÷2÷10",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p075_s03_b004_1_simplify_equals2",
+                "rect": [
+                  64,
+                  300.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p075_s03_b004_1_simplify_rhs2",
+                "rect": [
+                  106,
+                  300.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "fd1eedff3ebb2eeb900e8603",
+                "plain": "720÷10",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p075_s03_b005_2_operator",
+            "rect": [
+              64,
+              369,
+              34,
+              54
+            ],
+            "text": "=",
+            "points": 32
+          },
+          {
+            "name": "p075_s03_b005_2",
+            "rect": [
+              106,
+              369,
+              1000,
+              54
+            ],
+            "asset": "f10695aad2ca8baca5c749cb",
+            "plain": "72（米/分）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p075_s03_b006_3_p0",
+            "rect": [
+              64.0,
+              439.5000524934383,
+              430.6666666666667,
+              58.0
+            ],
+            "text": "答：来回平均每分钟走",
+            "points": 32
+          },
+          {
+            "name": "p075_s03_b006_3_p1",
+            "rect": [
+              490.6666666666667,
+              453.4733858267717,
+              41.64,
+              30.053333333333335
+            ],
+            "asset": "8c2b3ff7561587092dd8363a",
+            "plain": "72",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p075_s03_b006_3_p2",
+            "rect": [
+              535.3066666666666,
+              439.5000524934383,
+              89.33333333333333,
+              58.0
+            ],
+            "text": "米。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p075_s05",
+        "slide": 62,
+        "ops": [
+          {
+            "name": "p075_s05_b015_1",
+            "rect": [
+              106,
+              192,
+              1000,
+              54
+            ],
+            "asset": "433d88a16f1eb01da2324e73",
+            "plain": "85（分）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p075_s05_b016_2_operator",
+            "rect": [
+              64,
+              261,
+              140,
+              58
+            ],
+            "text": "说明：",
+            "points": 32
+          },
+          {
+            "name": "p075_s05_b016_2",
+            "rect": [
+              220,
+              261,
+              996,
+              58
+            ],
+            "text": "先乘5再除以5，还原为原数85。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p077_s06",
+        "slide": 100,
+        "ops": [
+          {
+            "name": "p077_s06_b003_2_p0",
+            "rect": [
+              64,
+              373.5,
+              1152,
+              58
+            ],
+            "text": "A队：分组求总身高再平均。",
+            "points": 32
+          },
+          {
+            "name": "p077_s06_b003_3_p0",
+            "rect": [
+              64,
+              438,
+              730,
+              225
+            ],
+            "native_group_anchor": "7",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p077_s06_b003_3_p0_simplify_rhs0",
+                "rect": [
+                  106,
+                  438.0,
+                  688,
+                  45.0
+                ],
+                "asset": "4f1f3e7b3fdc85ffb7d22d95",
+                "plain": "[(156+154)+(151+159)+160]÷5",
+                "fallback_scale": 0.99793,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b003_3_p0_simplify_equals1",
+                "rect": [
+                  64,
+                  483.0,
+                  34,
+                  45.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b003_3_p0_simplify_rhs1",
+                "rect": [
+                  106,
+                  483.0,
+                  688,
+                  45.0
+                ],
+                "asset": "669fcbe15c90f9be08f1d342",
+                "plain": "(310+310+160)÷5",
+                "fallback_scale": 0.99793,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b003_3_p0_simplify_equals2",
+                "rect": [
+                  64,
+                  528.0,
+                  34,
+                  45.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b003_3_p0_simplify_rhs2",
+                "rect": [
+                  106,
+                  528.0,
+                  688,
+                  45.0
+                ],
+                "asset": "c662c681dc5d14394bd82e15",
+                "plain": "(620+160)÷5",
+                "fallback_scale": 0.99793,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b003_3_p0_simplify_equals3",
+                "rect": [
+                  64,
+                  573.0,
+                  34,
+                  45.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b003_3_p0_simplify_rhs3",
+                "rect": [
+                  106,
+                  573.0,
+                  688,
+                  45.0
+                ],
+                "asset": "65fb5bf97145ff63e1b6c317",
+                "plain": "780÷5",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b003_3_p0_simplify_equals4",
+                "rect": [
+                  64,
+                  618.0,
+                  34,
+                  45.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b003_3_p0_simplify_rhs4",
+                "rect": [
+                  106,
+                  618.0,
+                  688,
+                  45.0
+                ],
+                "asset": "0575f4c2aeef6031ac4a9fd9",
+                "plain": "156（厘米）",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p077_s06_b003_3_p1",
+            "rect": [
+              820,
+              438,
+              396,
+              58
+            ],
+            "text": "两组都是310厘米。",
+            "points": 32
+          },
+          {
+            "name": "p077_s06_b003_4_p0",
+            "rect": [
+              820,
+              505,
+              396,
+              58
+            ],
+            "text": "不表示每名队员都高",
+            "points": 32
+          },
+          {
+            "name": "p077_s06_b003_4_p1",
+            "rect": [
+              820,
+              575,
+              110,
+              54
+            ],
+            "asset": "9caaf1459ff8216db4921b10",
+            "plain": "156",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p077_s06_b003_4_p2",
+            "rect": [
+              930,
+              575,
+              150,
+              58
+            ],
+            "text": "厘米。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p077_s06",
+        "slide": 101,
+        "ops": [
+          {
+            "name": "p077_s06_b004_0_p0",
+            "rect": [
+              64,
+              124,
+              1152,
+              58
+            ],
+            "text": "简便方法：以155厘米为基准",
+            "points": 32
+          },
+          {
+            "name": "p077_s06_b004_0_p1",
+            "rect": [
+              64,
+              340,
+              1152,
+              198
+            ],
+            "native_group_anchor": "5",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p077_s06_b004_0_p1_simplify_rhs0",
+                "rect": [
+                  106,
+                  340.0,
+                  1110,
+                  66.0
+                ],
+                "asset": "0aae929d2be80360269bb33e",
+                "plain": "155+5÷5",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b004_0_p1_simplify_equals1",
+                "rect": [
+                  64,
+                  406.0,
+                  34,
+                  66.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b004_0_p1_simplify_rhs1",
+                "rect": [
+                  106,
+                  406.0,
+                  1110,
+                  66.0
+                ],
+                "asset": "3add455b7b97a440847dfdb0",
+                "plain": "155+1",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b004_0_p1_simplify_equals2",
+                "rect": [
+                  64,
+                  472.0,
+                  34,
+                  66.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p077_s06_b004_0_p1_simplify_rhs2",
+                "rect": [
+                  106,
+                  472.0,
+                  1110,
+                  66.0
+                ],
+                "asset": "0575f4c2aeef6031ac4a9fd9",
+                "plain": "156（厘米）",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p077_s06_b004_0_p2",
+            "rect": [
+              64,
+              194,
+              1152,
+              116
+            ],
+            "text": "156多1、154少1，151少4、159多4，两对偏差抵消。\n只剩160多5厘米，平均分给5人，每人多1厘米。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p083_s04",
+        "slide": 242,
+        "ops": [
+          {
+            "name": "p083_s04_b003_4",
+            "rect": [
+              64.0,
+              416.0,
+              1152.0,
+              64.0
+            ],
+            "text": "列式一：先求每小时两车接近的路程",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p083_s04",
+        "slide": 243,
+        "ops": [
+          {
+            "name": "p083_s04_b005_1_operator",
+            "rect": [
+              64,
+              192.0,
+              210,
+              58
+            ],
+            "text": "列式二：",
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b005_1",
+            "rect": [
+              290,
+              192.0,
+              926,
+              54
+            ],
+            "asset": "98fce6344533b47855daaccd",
+            "plain": "95×3+75×3+193",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b006_2_operator",
+            "rect": [
+              64,
+              261.0,
+              210,
+              58
+            ],
+            "text": "整理：",
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b006_2",
+            "rect": [
+              290,
+              261.0,
+              926,
+              54
+            ],
+            "asset": "69b01d9c52fa60aa394470b1",
+            "plain": "(95+75)×3+193",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b007_3_operator",
+            "rect": [
+              64,
+              330.0,
+              210,
+              58
+            ],
+            "text": "依据：",
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b007_3",
+            "rect": [
+              290,
+              330.0,
+              926,
+              58
+            ],
+            "text": "乘法分配律，合并共同的3。",
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b008_4_p0",
+            "rect": [
+              64,
+              400.5000524934383,
+              1152,
+              58
+            ],
+            "text": "用乘法分配律整理成相同的算式，接着简算。",
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b008_4_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b008_4_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b009_5",
+            "rect": [
+              64.0,
+              470.0,
+              1152.0,
+              64.0
+            ],
+            "text": "统一列式后，继续简算。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p083_s04",
+        "slide": 244,
+        "ops": [
+          {
+            "name": "p083_s04_b010_0",
+            "rect": [
+              106,
+              120,
+              1110,
+              54
+            ],
+            "asset": "69b01d9c52fa60aa394470b1",
+            "plain": "(95+75)×3+193",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p083_s04_b011_1",
+            "rect": [
+              106,
+              192,
+              1110,
+              54
+            ],
+            "asset": "eef61a895bb5c059af865fa8",
+            "plain": "170×3+193",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p084_s01",
+        "slide": 252,
+        "ops": [
+          {
+            "name": "p084_s01_b003_0",
+            "rect": [
+              64.0,
+              120.0,
+              1152.0,
+              64.0
+            ],
+            "text": "列式一：先求各一箱的总价",
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b005_2_operator",
+            "rect": [
+              64,
+              263.0,
+              210,
+              58
+            ],
+            "text": "列式二：",
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b005_2",
+            "rect": [
+              290,
+              263.0,
+              926,
+              54
+            ],
+            "asset": "45f945d89278d6cda688f8f3",
+            "plain": "55×35+45×35",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b006_3_operator",
+            "rect": [
+              64,
+              332.0,
+              210,
+              58
+            ],
+            "text": "整理：",
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b006_3",
+            "rect": [
+              290,
+              332.0,
+              926,
+              54
+            ],
+            "asset": "ac67f8f86a0ba742430f2f3a",
+            "plain": "(55+45)×35",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b007_4_p0",
+            "rect": [
+              64,
+              402.5000524934383,
+              1152,
+              58
+            ],
+            "text": "用乘法分配律整理成相同的算式，接着简算。",
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b007_4_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b007_4_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b008_5",
+            "rect": [
+              64.0,
+              472.0,
+              1152.0,
+              64.0
+            ],
+            "text": "统一列式后，继续简算。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p084_s01",
+        "slide": 253,
+        "ops": [
+          {
+            "name": "p084_s01_b009_0",
+            "rect": [
+              106,
+              120,
+              1110,
+              54
+            ],
+            "asset": "ac67f8f86a0ba742430f2f3a",
+            "plain": "(55+45)×35",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p084_s01_b010_1",
+            "rect": [
+              106,
+              192,
+              1110,
+              54
+            ],
+            "asset": "3412f7d5f03eeaa98fd48324",
+            "plain": "100×35",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p084_s02",
+        "slide": 254,
+        "ops": [
+          {
+            "name": "p084_s02_b002_3",
+            "rect": [
+              64.0,
+              342.0,
+              1152.0,
+              64.0
+            ],
+            "text": "列式一：每箱价差乘箱数",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b004_5_operator",
+            "rect": [
+              64,
+              485,
+              210,
+              58
+            ],
+            "text": "列式二：",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b004_5",
+            "rect": [
+              290,
+              485,
+              926,
+              54
+            ],
+            "asset": "1b06d03b5622258aa202e049",
+            "plain": "55×35-45×35",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b005_6_operator",
+            "rect": [
+              64,
+              554,
+              210,
+              58
+            ],
+            "text": "整理：",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b005_6",
+            "rect": [
+              290,
+              554,
+              926,
+              54
+            ],
+            "asset": "91acad1a48d92eea002e6aa4",
+            "plain": "(55-45)×35",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b001_1_p0",
+            "rect": [
+              64,
+              198.5,
+              1152,
+              58
+            ],
+            "text": "两种水果箱数相同，可把每箱价差乘35；",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b001_2_p0",
+            "rect": [
+              64,
+              272.5,
+              1152,
+              58
+            ],
+            "text": "也可先分别列出总价，再相减。",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b001_1_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b001_1_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b001_1_p3",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b001_1_p4",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p084_s02",
+        "slide": 255,
+        "ops": [
+          {
+            "name": "p084_s02_b006_0_p0",
+            "rect": [
+              64,
+              124.5,
+              1152,
+              58
+            ],
+            "text": "两种列式已统一，接着凑整计算。",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b006_0_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b006_0_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b007_1",
+            "rect": [
+              64.0,
+              194.0,
+              1152.0,
+              64.0
+            ],
+            "text": "共用简算：先把每箱价差凑成10元",
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b008_2",
+            "rect": [
+              106,
+              267,
+              1110,
+              54
+            ],
+            "asset": "91acad1a48d92eea002e6aa4",
+            "plain": "(55-45)×35",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p084_s02_b009_3",
+            "rect": [
+              106,
+              337,
+              1110,
+              54
+            ],
+            "asset": "7f1c44e0af7e81e2a4963dfc",
+            "plain": "10×35",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p088_s03",
+        "slide": 382,
+        "ops": [
+          {
+            "name": "p088_s03_b004_1",
+            "rect": [
+              64,
+              192,
+              1152,
+              108
+            ],
+            "native_group_anchor": "6",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p088_s03_b004_1_simplify_rhs0",
+                "rect": [
+                  106,
+                  192.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "caffdabf8dbaae4d57a0316d",
+                "plain": "6÷3×4",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p088_s03_b004_1_simplify_equals1",
+                "rect": [
+                  64,
+                  246.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p088_s03_b004_1_simplify_rhs1",
+                "rect": [
+                  106,
+                  246.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "1b5b204f6fcd176a7be81ecd",
+                "plain": "2×4",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p088_s03_b005_2_operator",
+            "rect": [
+              64,
+              315,
+              34,
+              54
+            ],
+            "text": "=",
+            "points": 32
+          },
+          {
+            "name": "p088_s03_b005_2",
+            "rect": [
+              106,
+              315,
+              1110,
+              54
+            ],
+            "asset": "003d11f21bbfc1198bf38535",
+            "plain": "8（厘米）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p088_s03_b006_3_p0",
+            "rect": [
+              64.0,
+              385.5000524934383,
+              473.3333333333333,
+              58.0
+            ],
+            "text": "答：等边三角形的边长是",
+            "points": 32
+          },
+          {
+            "name": "p088_s03_b006_3_p1",
+            "rect": [
+              533.3333333333334,
+              399.4733858267717,
+              22.14666666666667,
+              30.053333333333335
+            ],
+            "asset": "57ea2c465b6b90e3d8548652",
+            "plain": "8",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p088_s03_b006_3_p2",
+            "rect": [
+              558.48,
+              385.5000524934383,
+              132.0,
+              58.0
+            ],
+            "text": "厘米。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p089_s07",
+        "slide": 396,
+        "ops": [
+          {
+            "name": "p089_s07_b002_0",
+            "rect": [
+              106,
+              120,
+              1110,
+              54
+            ],
+            "asset": "468fa824cadeeb407e0f7838",
+            "plain": "96+(2-1-1)÷5",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b003_1",
+            "rect": [
+              106,
+              192,
+              1110,
+              54
+            ],
+            "asset": "8c668d3be5d08505c23acbbf",
+            "plain": "96+0÷5",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_3_p0",
+            "rect": [
+              64,
+              331.5,
+              1152,
+              116
+            ],
+            "text": "以96为基准，98多2，两次95各少1，正好抵消。\n另用剩余总分复核：",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_3_p1",
+            "rect": [
+              64,
+              456,
+              1152,
+              162
+            ],
+            "native_group_anchor": "10",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p089_s07_b005_3_p1_simplify_rhs0",
+                "rect": [
+                  106,
+                  456.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "d50f45c5d73103579073b8aa",
+                "plain": "(98+95+96+95+96)÷5",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p089_s07_b005_3_p1_simplify_equals1",
+                "rect": [
+                  64,
+                  510.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p089_s07_b005_3_p1_simplify_rhs1",
+                "rect": [
+                  106,
+                  510.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "514cefe1fca90db42525a6d7",
+                "plain": "480÷5",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p089_s07_b005_3_p1_simplify_equals2",
+                "rect": [
+                  64,
+                  564.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p089_s07_b005_3_p1_simplify_rhs2",
+                "rect": [
+                  106,
+                  564.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "edb0ae1591b89bfe7d9859f4",
+                "plain": "96（分）",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p089_s07_b005_3_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_3_p3",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_3_p4",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_3_p5",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_3_p6",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_3_p7",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_4_p0",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_4_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_4_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_5_p0",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_5_p1",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b005_5_p2",
+            "rect": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "text": "",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b006_6_p0",
+            "rect": [
+              980,
+              615,
+              46,
+              58
+            ],
+            "text": "填",
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b006_6_p1",
+            "rect": [
+              1028,
+              615,
+              80,
+              54
+            ],
+            "asset": "3a550e739bea7cdd164e4de2",
+            "plain": "96",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p089_s07_b006_6_p2",
+            "rect": [
+              1080,
+              615,
+              46,
+              58
+            ],
+            "text": "。",
+            "points": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "p74_review/bundle/讲解课件/小学四上同步素养卷第6册讲解课件答案.pptx",
+    "source_sha256": "1d7e4b42bd9fce9ad7c442fbdb57b94a9c201d97a9a9f7508eb7116bb2ff75cc",
+    "output": "p74_review/ppt_recheck/draft_late_r4/小学四上同步素养卷第6册讲解课件答案.pptx",
+    "output_sha256": "018aa12225da60ab462e7e3d9a0466b9f5faa46b27e6b3ab0db26ee5e1a9ffe4",
+    "bytes": 4642299,
+    "total_slides": 464,
+    "changed_slides": [
+      11,
+      12,
+      13,
+      182,
+      244,
+      245,
+      353,
+      354,
+      361,
+      362,
+      453,
+      454
+    ],
+    "changed_original_parts": [
+      "ppt/slides/slide11.xml",
+      "ppt/slides/slide12.xml",
+      "ppt/slides/slide13.xml",
+      "ppt/slides/slide182.xml",
+      "ppt/slides/slide244.xml",
+      "ppt/slides/slide245.xml",
+      "ppt/slides/slide353.xml",
+      "ppt/slides/slide354.xml",
+      "ppt/slides/slide361.xml",
+      "ppt/slides/slide362.xml",
+      "ppt/slides/slide453.xml",
+      "ppt/slides/slide454.xml",
+      "ppt/slides/_rels/slide13.xml.rels",
+      "ppt/slides/_rels/slide182.xml.rels",
+      "ppt/slides/_rels/slide244.xml.rels",
+      "ppt/slides/_rels/slide245.xml.rels",
+      "ppt/slides/_rels/slide353.xml.rels",
+      "ppt/slides/_rels/slide354.xml.rels",
+      "ppt/slides/_rels/slide361.xml.rels",
+      "ppt/slides/_rels/slide362.xml.rels",
+      "ppt/slides/_rels/slide453.xml.rels",
+      "ppt/slides/_rels/slide454.xml.rels"
+    ],
+    "new_parts": [
+      "ppt/media/simplify_059a3b636b1e2044575dd805.png",
+      "ppt/media/simplify_059a3b636b1e2044575dd805.svg",
+      "ppt/media/simplify_102b1416872452be1f37115b.png",
+      "ppt/media/simplify_102b1416872452be1f37115b.svg",
+      "ppt/media/simplify_13b9257005c2a18a555deefc.png",
+      "ppt/media/simplify_13b9257005c2a18a555deefc.svg",
+      "ppt/media/simplify_1520ca86cb88fe67f9ea3a4e.png",
+      "ppt/media/simplify_1520ca86cb88fe67f9ea3a4e.svg",
+      "ppt/media/simplify_2262be3f3cf5e7989dc75b15.png",
+      "ppt/media/simplify_2262be3f3cf5e7989dc75b15.svg",
+      "ppt/media/simplify_39825cc34138ac96156111d2.png",
+      "ppt/media/simplify_39825cc34138ac96156111d2.svg",
+      "ppt/media/simplify_3a989485524f2d5f972dd8dd.png",
+      "ppt/media/simplify_3a989485524f2d5f972dd8dd.svg",
+      "ppt/media/simplify_4495cdc4ac10f5904657f524.png",
+      "ppt/media/simplify_4495cdc4ac10f5904657f524.svg",
+      "ppt/media/simplify_4ddde10a5617fdc5c002575f.png",
+      "ppt/media/simplify_4ddde10a5617fdc5c002575f.svg",
+      "ppt/media/simplify_58aac6ee8c8f4cb03a9fa38d.png",
+      "ppt/media/simplify_58aac6ee8c8f4cb03a9fa38d.svg",
+      "ppt/media/simplify_5d4427aced5934155f6ac667.png",
+      "ppt/media/simplify_5d4427aced5934155f6ac667.svg",
+      "ppt/media/simplify_5dcb7796312c09a57419783b.png",
+      "ppt/media/simplify_5dcb7796312c09a57419783b.svg",
+      "ppt/media/simplify_5eaa22506ae0f07dfb7bcb57.png",
+      "ppt/media/simplify_5eaa22506ae0f07dfb7bcb57.svg",
+      "ppt/media/simplify_7637f1880a5ac82e0dd81259.png",
+      "ppt/media/simplify_7637f1880a5ac82e0dd81259.svg",
+      "ppt/media/simplify_92883d21ea28dbd3a4e576b3.png",
+      "ppt/media/simplify_92883d21ea28dbd3a4e576b3.svg",
+      "ppt/media/simplify_9554cc288b20331dc39f7931.png",
+      "ppt/media/simplify_9554cc288b20331dc39f7931.svg",
+      "ppt/media/simplify_a76b5479e3421fd8e18a5295.png",
+      "ppt/media/simplify_a76b5479e3421fd8e18a5295.svg",
+      "ppt/media/simplify_aa29e364aae48317f420c17f.png",
+      "ppt/media/simplify_aa29e364aae48317f420c17f.svg",
+      "ppt/media/simplify_dda4a630591c8da208cb3ec5.png",
+      "ppt/media/simplify_dda4a630591c8da208cb3ec5.svg",
+      "ppt/media/simplify_dfd4f689d4980a651e004001.png",
+      "ppt/media/simplify_dfd4f689d4980a651e004001.svg",
+      "ppt/media/simplify_ed59a93be301269865c9e1b4.png",
+      "ppt/media/simplify_ed59a93be301269865c9e1b4.svg",
+      "ppt/media/simplify_fa351470d225cdb6bfd70f15.png",
+      "ppt/media/simplify_fa351470d225cdb6bfd70f15.svg",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.png",
+      "ppt/media/simplify_ff9fc21e1b39c2f40acb8612.svg"
+    ],
+    "timing_bytes_all_unchanged": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "changes": [
+      {
+        "key": "p091_s03",
+        "slide": 11,
+        "ops": [
+          {
+            "name": "p091_s03_b008_5",
+            "rect": [
+              64.0,
+              470.0,
+              1152.0,
+              64.0
+            ],
+            "text": "基准复核：沿用主法已求出的总本数",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p091_s03",
+        "slide": 12,
+        "ops": [
+          {
+            "name": "p091_s03_b009_0_p0",
+            "rect": [
+              64,
+              124.5,
+              1152,
+              58
+            ],
+            "text": "主法已求出8天共784本。与每天100本比较，",
+            "points": 32
+          },
+          {
+            "name": "p091_s03_b009_1_p0",
+            "rect": [
+              64,
+              198.5,
+              1152,
+              58
+            ],
+            "text": "8天应有800本，实际少16本，每天少2本。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p091_s03",
+        "slide": 13,
+        "ops": [
+          {
+            "name": "p091_s03_b010_0",
+            "rect": [
+              106.0,
+              128.45333333333335,
+              1110,
+              45.093333333333334
+            ],
+            "asset": "102b1416872452be1f37115b",
+            "plain": "100-(100×8-784)÷8",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p091_s03_b011_1",
+            "rect": [
+              106.0,
+              197.45333333333335,
+              1110,
+              45.093333333333334
+            ],
+            "asset": "dda4a630591c8da208cb3ec5",
+            "plain": "100-(800-784)÷8",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p091_s03_b012_2",
+            "rect": [
+              106.0,
+              266.4533333333333,
+              1110,
+              45.093333333333334
+            ],
+            "asset": "7637f1880a5ac82e0dd81259",
+            "plain": "100-16÷8",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p091_s03_b013_3",
+            "rect": [
+              106.0,
+              341.2,
+              1110,
+              33.6
+            ],
+            "asset": "9554cc288b20331dc39f7931",
+            "plain": "100-2",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p091_s03_b014_4",
+            "rect": [
+              106.0,
+              410.2,
+              1110,
+              33.6
+            ],
+            "asset": "2262be3f3cf5e7989dc75b15",
+            "plain": "98（本）",
+            "fallback_scale": 0.76642,
+            "points": 32
+          },
+          {
+            "name": "p091_s03_b015_5_operator",
+            "rect": [
+              64,
+              468,
+              160,
+              58
+            ],
+            "text": "核对：",
+            "points": 32
+          },
+          {
+            "name": "p091_s03_b015_5",
+            "rect": [
+              240,
+              468,
+              976,
+              58
+            ],
+            "text": "与主法结果一致，所用总量来自主法。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p098_s02",
+        "slide": 182,
+        "ops": [
+          {
+            "name": "p098_s02_b004_3",
+            "rect": [
+              64,
+              340,
+              1152,
+              108
+            ],
+            "native_group_anchor": "10",
+            "original_click_preserved": true,
+            "rows": [
+              {
+                "name": "p098_s02_b004_3_simplify_rhs0",
+                "rect": [
+                  106,
+                  340.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "dfd4f689d4980a651e004001",
+                "plain": "7×(8÷2)",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p098_s02_b004_3_simplify_equals1",
+                "rect": [
+                  64,
+                  394.0,
+                  34,
+                  54.0
+                ],
+                "asset": "ff9fc21e1b39c2f40acb8612",
+                "plain": "=",
+                "fallback_scale": 1,
+                "points": 32
+              },
+              {
+                "name": "p098_s02_b004_3_simplify_rhs1",
+                "rect": [
+                  106,
+                  394.0,
+                  1110,
+                  54.0
+                ],
+                "asset": "059a3b636b1e2044575dd805",
+                "plain": "7×4",
+                "fallback_scale": 1,
+                "points": 32
+              }
+            ]
+          },
+          {
+            "name": "p098_s02_b005_4_operator",
+            "rect": [
+              64,
+              463,
+              34,
+              54
+            ],
+            "text": "=",
+            "points": 32
+          },
+          {
+            "name": "p098_s02_b005_4",
+            "rect": [
+              106,
+              463,
+              1110,
+              54
+            ],
+            "asset": "4495cdc4ac10f5904657f524",
+            "plain": "28（场）",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p098_s02_b006_5_p0",
+            "rect": [
+              64.0,
+              533.5000524934383,
+              731.4999475065616,
+              58.0
+            ],
+            "text": "淘汰赛每场淘汰1组，留下冠军须淘汰",
+            "points": 32
+          },
+          {
+            "name": "p098_s02_b006_5_p1",
+            "rect": [
+              791.4999475065616,
+              545.7000524934383,
+              167.30666666666667,
+              33.6
+            ],
+            "asset": "3a989485524f2d5f972dd8dd",
+            "plain": "8-1=7",
+            "fallback_scale": 1.0,
+            "points": 32
+          },
+          {
+            "name": "p098_s02_b006_5_p2",
+            "rect": [
+              961.8066141732284,
+              533.5000524934383,
+              217.33333333333334,
+              58.0
+            ],
+            "text": "组，所以共",
+            "points": 32
+          },
+          {
+            "name": "p098_s02_b006_6_p0",
+            "rect": [
+              64.0,
+              607.5000524934384,
+              460.6666666666667,
+              58.0
+            ],
+            "text": "7场。依次填28、7。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p100_s02",
+        "slide": 244,
+        "ops": [
+          {
+            "name": "p100_s02_b004_1_operator",
+            "rect": [
+              64,
+              192.0,
+              210,
+              58
+            ],
+            "text": "列式二：",
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b004_1",
+            "rect": [
+              290,
+              192.0,
+              926,
+              54
+            ],
+            "asset": "1520ca86cb88fe67f9ea3a4e",
+            "plain": "768+45×80-2×80",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b005_2_operator",
+            "rect": [
+              64,
+              261.0,
+              210,
+              58
+            ],
+            "text": "整理：",
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b005_2",
+            "rect": [
+              290,
+              261.0,
+              926,
+              54
+            ],
+            "asset": "5eaa22506ae0f07dfb7bcb57",
+            "plain": "768+(45-2)×80",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b006_3_operator",
+            "rect": [
+              64,
+              330.0,
+              210,
+              58
+            ],
+            "text": "依据：",
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b006_3",
+            "rect": [
+              290,
+              330.0,
+              926,
+              58
+            ],
+            "text": "乘法分配律，合并共同的80。",
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b007_4_p0",
+            "rect": [
+              64,
+              400.5000524934383,
+              1152,
+              58
+            ],
+            "text": "用乘法分配律整理成相同的算式，接着简算。",
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b008_5",
+            "rect": [
+              64.0,
+              470.0,
+              1152.0,
+              64.0
+            ],
+            "text": "统一列式后，继续简算。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p100_s02",
+        "slide": 245,
+        "ops": [
+          {
+            "name": "p100_s02_b010_2",
+            "rect": [
+              106,
+              270,
+              1110,
+              54
+            ],
+            "asset": "5eaa22506ae0f07dfb7bcb57",
+            "plain": "768+(45-2)×80",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b011_3",
+            "rect": [
+              106,
+              340,
+              1110,
+              54
+            ],
+            "asset": "ed59a93be301269865c9e1b4",
+            "plain": "768+43×80",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p100_s02_b012_4",
+            "rect": [
+              106,
+              409,
+              1110,
+              54
+            ],
+            "asset": "5dcb7796312c09a57419783b",
+            "plain": "768+3440",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p104_s03",
+        "slide": 353,
+        "ops": [
+          {
+            "name": "p104_s03_b001_2",
+            "rect": [
+              64.0,
+              268.0,
+              1152.0,
+              64.0
+            ],
+            "text": "列式一：先求一套足球和篮球的价钱",
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b004_5_operator",
+            "rect": [
+              64,
+              485,
+              210,
+              58
+            ],
+            "text": "列式二：",
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b004_5",
+            "rect": [
+              290,
+              485,
+              926,
+              54
+            ],
+            "asset": "5d4427aced5934155f6ac667",
+            "plain": "108×15+92×15",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b005_6_operator",
+            "rect": [
+              64,
+              554,
+              210,
+              58
+            ],
+            "text": "整理：",
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b005_6",
+            "rect": [
+              290,
+              554,
+              926,
+              54
+            ],
+            "asset": "58aac6ee8c8f4cb03a9fa38d",
+            "plain": "(108+92)×15",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p104_s03",
+        "slide": 354,
+        "ops": [
+          {
+            "name": "p104_s03_b006_0_p0",
+            "rect": [
+              64,
+              124.5,
+              1152,
+              58
+            ],
+            "text": "共用简算：先凑出整百单价。",
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b007_1",
+            "rect": [
+              64.0,
+              194.0,
+              1152.0,
+              64.0
+            ],
+            "text": "两种列式整理后的共同计算",
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b008_2_p0",
+            "rect": [
+              64,
+              269.5,
+              1152,
+              58
+            ],
+            "text": "一个足球与一个篮球合为一套，各15个就是15套。",
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b008_3_p0",
+            "rect": [
+              64,
+              343.5,
+              1152,
+              58
+            ],
+            "text": "利用乘法分配律，把108与92先凑成200。",
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b009_4",
+            "rect": [
+              106,
+              415,
+              1110,
+              54
+            ],
+            "asset": "58aac6ee8c8f4cb03a9fa38d",
+            "plain": "(108+92)×15",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p104_s03_b010_5",
+            "rect": [
+              106,
+              485,
+              1110,
+              54
+            ],
+            "asset": "a76b5479e3421fd8e18a5295",
+            "plain": "200×15",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p104_s05",
+        "slide": 361,
+        "ops": [
+          {
+            "name": "p104_s05_b004_1_operator",
+            "rect": [
+              64,
+              192.0,
+              210,
+              58
+            ],
+            "text": "列式二：",
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b004_1",
+            "rect": [
+              290,
+              192.0,
+              926,
+              54
+            ],
+            "asset": "39825cc34138ac96156111d2",
+            "plain": "220×2+280×2+200",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b005_2_operator",
+            "rect": [
+              64,
+              261.0,
+              210,
+              58
+            ],
+            "text": "整理：",
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b005_2",
+            "rect": [
+              290,
+              261.0,
+              926,
+              54
+            ],
+            "asset": "4ddde10a5617fdc5c002575f",
+            "plain": "(220+280)×2+200",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b006_3_operator",
+            "rect": [
+              64,
+              330.0,
+              210,
+              58
+            ],
+            "text": "依据：",
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b006_3",
+            "rect": [
+              290,
+              330.0,
+              926,
+              58
+            ],
+            "text": "乘法分配律，合并共同的2。",
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b007_4_p0",
+            "rect": [
+              64,
+              400.5000524934383,
+              1152,
+              58
+            ],
+            "text": "用乘法分配律整理成相同的算式，接着简算。",
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b008_5",
+            "rect": [
+              64.0,
+              470.0,
+              1152.0,
+              64.0
+            ],
+            "text": "统一列式后，继续简算。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p104_s05",
+        "slide": 362,
+        "ops": [
+          {
+            "name": "p104_s05_b009_0_p0",
+            "rect": [
+              64,
+              124.5,
+              1152,
+              58
+            ],
+            "text": "两种列式都先合并220与280，凑成500。",
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b009_1_p0",
+            "rect": [
+              64,
+              198.5,
+              1152,
+              58
+            ],
+            "text": "再乘共同的2小时，并加尚余200千米。",
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b010_2",
+            "rect": [
+              106,
+              270,
+              1110,
+              54
+            ],
+            "asset": "4ddde10a5617fdc5c002575f",
+            "plain": "(220+280)×2+200",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p104_s05_b011_3",
+            "rect": [
+              106,
+              340,
+              1110,
+              54
+            ],
+            "asset": "aa29e364aae48317f420c17f",
+            "plain": "500×2+200",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p108_s03",
+        "slide": 453,
+        "ops": [
+          {
+            "name": "p108_s03_b004_1_operator",
+            "rect": [
+              64,
+              192,
+              210,
+              58
+            ],
+            "text": "列式二：",
+            "points": 32
+          },
+          {
+            "name": "p108_s03_b004_1",
+            "rect": [
+              290,
+              192,
+              926,
+              54
+            ],
+            "asset": "fa351470d225cdb6bfd70f15",
+            "plain": "62×45+38×45",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p108_s03_b005_2_operator",
+            "rect": [
+              64,
+              261,
+              210,
+              58
+            ],
+            "text": "整理：",
+            "points": 32
+          },
+          {
+            "name": "p108_s03_b005_2",
+            "rect": [
+              290,
+              261,
+              926,
+              54
+            ],
+            "asset": "13b9257005c2a18a555deefc",
+            "plain": "(62+38)×45",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p108_s03_b006_3_p0",
+            "rect": [
+              64,
+              331.5,
+              1152,
+              58
+            ],
+            "text": "上衣和裤子各45份，可合并共同的45。",
+            "points": 32
+          },
+          {
+            "name": "p108_s03_b007_4",
+            "rect": [
+              64.0,
+              401.0,
+              1152.0,
+              64.0
+            ],
+            "text": "统一列式后，继续简算。",
+            "points": 32
+          },
+          {
+            "name": "p108_s03_b008_5_p0",
+            "rect": [
+              64,
+              476.5,
+              1152,
+              58
+            ],
+            "text": "两种列式都先把62与38凑成100元，",
+            "points": 32
+          },
+          {
+            "name": "p108_s03_b008_6_p0",
+            "rect": [
+              64,
+              550.5,
+              1152,
+              58
+            ],
+            "text": "然后求45套的总价。",
+            "points": 32
+          }
+        ]
+      },
+      {
+        "key": "p108_s03",
+        "slide": 454,
+        "ops": [
+          {
+            "name": "p108_s03_b009_0",
+            "rect": [
+              106,
+              120,
+              1110,
+              54
+            ],
+            "asset": "13b9257005c2a18a555deefc",
+            "plain": "(62+38)×45",
+            "fallback_scale": 1,
+            "points": 32
+          },
+          {
+            "name": "p108_s03_b010_1",
+            "rect": [
+              106,
+              192,
+              1110,
+              54
+            ],
+            "asset": "92883d21ea28dbd3a4e576b3",
+            "plain": "100×45",
+            "fallback_scale": 1,
+            "points": 32
+          }
+        ]
+      }
+    ]
+  }
+]

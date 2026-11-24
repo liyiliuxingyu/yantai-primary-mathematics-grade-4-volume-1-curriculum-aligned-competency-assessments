@@ -1,0 +1,94 @@
+{
+  "status": "passed_within_reviewed_scope",
+  "reviewed_pdf": "detailed_layout/runs/followup_unit1_trees/详细题内答案成品.pdf",
+  "pdf_sha256": "9f4f61abb895c4aa12a748babea2ed23efade63550d76e8f76548a051f10b43e",
+  "reviewed_scope": {
+    "book_pages": [
+      5,
+      7
+    ],
+    "keys": [
+      "p005_s04",
+      "p007_s08"
+    ],
+    "pdf_pages_in_two_page_draft": [
+      1,
+      2
+    ],
+    "all_book_review": false,
+    "ppt_playback_review": false
+  },
+  "actual_visual_review": [
+    "detailed_layout/runs/followup_unit1_trees/previews/p005.png",
+    "detailed_layout/runs/followup_unit1_trees/previews/p007.png",
+    "followup_style/p005_graph_review.png",
+    "followup_style/p007_graph_review.png"
+  ],
+  "mathematics": [
+    {
+      "key": "p005_s04",
+      "result": 334,
+      "node_values": [
+        12,
+        96,
+        108,
+        3,
+        324,
+        10,
+        334
+      ],
+      "operations": [
+        "+",
+        "×",
+        "+"
+      ],
+      "check": "(334−10)÷3=108=12+96",
+      "methods_verified": [
+        "先求单价和再乘3加10",
+        "乘法分配律分别乘3再相加并加10"
+      ],
+      "answer_and_unit": "每盒334元；原题每千克单价含义在题干完整保留，框内以单价12元、96元简写。"
+    },
+    {
+      "key": "p007_s08",
+      "result": 14,
+      "node_values": [
+        14,
+        70,
+        5,
+        230,
+        160,
+        80,
+        2
+      ],
+      "operations": [
+        "÷",
+        "−",
+        "×"
+      ],
+      "check": "80×2+14×5=160+70=230",
+      "methods_verified": [
+        "先扣桌款，再求椅子单价",
+        "总款和桌款分别平均分成5份，再相减"
+      ],
+      "answer_and_unit": "每把椅子14元；桌子80元×2张的顺序正确，检验14元×5把也正确。"
+    }
+  ],
+  "layout": {
+    "all_14_labels_readable": true,
+    "all_14_labels_inside_original_boxes": true,
+    "no_stem_or_graph_occlusion_observed": true,
+    "p005_narrow_boxes": "两上框7.5pt，数值与中文清晰。右上梭子蟹单价96元完整，贴近但未碰右边框；其余节点8.5pt。",
+    "p007_root": "原印刷椅子的单价框内改写椅子单价14元，原边框与两条分支保留，无旧字残影。",
+    "p007_labels_font_pt": 8.5,
+    "calculation_steps": "两题必要脱式、方法区分、答案和检验完整。原式首数与后续等号后首数对齐；独立乘法同时求值。",
+    "no_added_analysis_pages": "当前为专供这两页检查的2页导出；未检查全128页最终页数。"
+  },
+  "target_rect_fit": true,
+  "issues": [],
+  "reviewed_draft_pdf_sha256": "9f4f61abb895c4aa12a748babea2ed23efade63550d76e8f76548a051f10b43e",
+  "final_pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "final_pages_render_identical_to_reviewed_draft": true,
+  "scope_proof": "followup_style/qa_scope.json",
+  "lossless_optimization": "followup_style/qa_lossless.json"
+}

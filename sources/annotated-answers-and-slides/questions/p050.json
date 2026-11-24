@@ -1,0 +1,289 @@
+{
+  "book_page": 50,
+  "source_page": 54,
+  "records": [
+    {
+      "key": "p050_s01",
+      "book_page": 50,
+      "source_page": 54,
+      "section_index": 0,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "一个三位小数“四舍五入”后得到的近似数是7.20，这个三位小数最大是（　），最小是（　）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "依次填\\(7.204,7.195\\)。保留两位小数，要看千分位。\\par 从进位想：7.19后面添千分位，最小添5，7.195才会向百分位进1，成为7.20，所以最小7.195。\\par 从舍去想：7.20后面添千分位，最大添4，7.204舍去后仍是7.20；若添5就会变7.21，所以最大7.204。\\par 在数线上，就是从7.195起、到7.205之前的三位小数。7.205本身不能取。判断依据是规定保留的数位，不是把小数末尾0一律排除。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p050_s02",
+      "book_page": 50,
+      "source_page": 54,
+      "section_index": 1,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "下图中不能表示0.06的是（　）。",
+      "options": [
+        "A. 图A",
+        "B. 图B",
+        "C. 图C",
+        "D. 图D"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p050_s02_g1",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\foreach\\x/\\t in{0/个位,1/十分位,2/百分位,3/千分位}{\\draw({2*\\x},0)--({2*\\x},2.2);\\node[below]at({2*\\x},0){\\t};}\\foreach\\y in{.18,.47,.76,1.05,1.34,1.63}\\draw[fill=gray!60](4,\\y)ellipse(.3 and .13);\\node[left]at(0,1){A};\\begin{scope}[xshift=8.6cm]\\draw[step=.3](0,0)grid(3,3);\\foreach\\y in{4,...,9}\\fill[gray!50](0,\\y*.3)rectangle(.3,\\y*.3+.3);\\draw[step=.3](0,0)grid(3,3);\\node[left]at(0,1.5){B};\\end{scope}\\begin{scope}[yshift=-2cm]\\draw[->](-.3,0)--(3.5,0);\\foreach\\x in{0,.6,1.2,1.8,2.4,3}\\draw(\\x,0)--(\\x,.13);\\node[below]at(0,0){0};\\node[below]at(3,0){0.1};\\fill(1.8,0)circle(2pt);\\node[left]at(-.3,0){C};\\end{scope}\\begin{scope}[xshift=8.6cm,yshift=-3.2cm]\\fill[gray!50](0,0)rectangle(1.8,2);\\draw(0,0)rectangle(3,2);\\foreach\\x in{.3,.6,...,2.7}\\draw(\\x,0)--(\\x,2);\\node[left]at(0,1){D};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。 版面复核后扩大算盘杆间距，使四个数位名互不重叠；珠子仍在百分位杆，计数值与各面板内容不变。 最终PPT按32pt显示再核后，进一步将杆距增为2绘图厘米、右侧面板平移8.6厘米，避免最小字体策略导致数位名叠字；6珠仍在第三杆。"
+        }
+      ],
+      "answer_latex": "选\\(D\\)。A在百分位拨6颗珠，表示6个0.01，即0.06；B的百格中涂6格，表示0.06；C把0到0.1的长度分成5个相等间隔，每格0.02，实心点在0.06处。D把一个整体平均分成10份，涂6份，表示0.6，不是0.06。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "改用6个0.01的计数单位解释，避免一般小数乘法；数线每格0.02。",
+          "扩大题图A算盘杆间距并调整B/D面板横移位置，消除数位标签遮挡，不改数学值。",
+          "根据最终PPT实际显示再次消除题图文字重叠，仅改示意布局间距或标签anchor，不改计数值、距离、脚印相对位置。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p050_s03",
+      "book_page": 50,
+      "source_page": 54,
+      "section_index": 2,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "下面的数去掉0以后，大小不变的是（　）。",
+      "options": [
+        "A. 30.025",
+        "B. 32.500",
+        "C. 30025",
+        "D. 300.25"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。只有小数末尾的0可以去掉而大小不变，\\(32.500=32.5\\)。A、C、D的0都在整数部分或小数中间，删去会改变数位，数的大小随之改变。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p050_s04",
+      "book_page": 50,
+      "source_page": 54,
+      "section_index": 3,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "下面的小数中，与9最接近的是（　）。",
+      "options": [
+        "A. 8.9",
+        "B. 9.01",
+        "C. 9.001",
+        "D. 8.89"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。四个数与9的距离分别是\\(0.1,0.01,0.001,0.11\\)，其中0.001最小，所以9.001最接近9。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p050_s05",
+      "book_page": 50,
+      "source_page": 54,
+      "section_index": 4,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "下图是某小学运动会3名选手的跳远情况，方框里数是（　）。",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 4",
+        "D. 5"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p050_s05_g1",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.65cm]\\draw(0,0)rectangle(17.7,3);\\draw[very thick](0,-.1)--(0,3.1);\\node[left]at(0,1.5){起跳线};\\draw(12.4,0)--(12.4,1.2);\\draw(14.3,1.4)--(14.3,3);\\draw(15.3,0)--(15.3,1.2);\\node[below left]at(12.4,0){1.24 m};\\node[above]at(14.3,3){$1.\\square3$};\\node[below right]at(15.3,0){1.53 m};\\foreach\\x/\\y in{12.9/.5,14.8/2.3,15.8/.5}{\\fill(\\x,\\y)ellipse(.3 and .1);\\fill(\\x,\\y+.35)ellipse(.3 and .1);}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "用脚印示意落点；三个落点的相对距离按题图保留，未知位仍空缺。 仅将1.24 m标签向左下、1.53 m标签向右下对齐，避免文字贴连；落点和脚印坐标完全不变。"
+        },
+        {
+          "name": "p050_s05_a1",
+          "tikz": "\\begin{tikzpicture}[x=.45cm,y=.65cm]\\draw(0,0)rectangle(17.7,3);\\draw[very thick](0,-.1)--(0,3.1);\\node[left]at(0,1.5){起跳线};\\draw(12.4,0)--(12.4,1.2);\\draw(14.3,1.4)--(14.3,3);\\draw(15.3,0)--(15.3,1.2);\\node[below left]at(12.4,0){1.24 m};\\node[above]at(14.3,3){$1.\\boxed{\\color{red}4}3$};\\node[below right]at(15.3,0){1.53 m};\\foreach\\x/\\y in{12.9/.5,14.8/2.3,15.8/.5}{\\fill(\\x,\\y)ellipse(.3 and .1);\\fill(\\x,\\y+.35)ellipse(.3 and .1);}\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "依据1.24米与1.53米的先后，方框只填红4；已知1、3及全部落点和单位保留黑色。"
+        }
+      ],
+      "answer_latex": "选C，方框中是4，跳远距离为1.43米。图中中间落点比1.24米远、比1.53米近，且更靠近1.53米。若为1.33米，它到1.24的差0.09小于到1.53的差0.20，位置应偏左；若为1.43米，它到两边的差为0.19、0.10，与图上偏右的位置相符。仅凭“在两数之间”不足以区分3和4，还要看图中的相对距离。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "根据最终PPT实际显示再次消除题图文字重叠，仅改示意布局间距或标签anchor，不改计数值、距离、脚印相对位置。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p050_s06",
+      "book_page": 50,
+      "source_page": 54,
+      "section_index": 5,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "\\(0.\\square8<0.6\\)，方框里可以填的数有（　）个。",
+      "options": [
+        "A. 4",
+        "B. 5",
+        "C. 6",
+        "D. 7"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C，共6个。\\(0.\\square8<0.60\\)，十分位可取0、1、2、3、4、5；取6时，0.68大于0.60，因此不能取6、7、8、9。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p050_s07",
+      "book_page": 50,
+      "source_page": 54,
+      "section_index": 6,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "用6、9、2、0这四个数字和小数点组成不同的三位小数，精确到个位是3的小数有（　）个。",
+      "options": [
+        "A. 6",
+        "B. 5",
+        "C. 4",
+        "D. 3"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C，共4个。精确到个位为3，数应在\\(2.5\\le x<3.5\\)中。四张数字卡各用一次、组成三位小数，只能以2作整数部分，十分位须为6或9。列出\\(2.609,2.690,2.906,2.960\\)，共4个。末尾0保留的2.690、2.960也都是符合要求的三位小数写法。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p050_s08",
+      "book_page": 50,
+      "source_page": 54,
+      "section_index": 7,
+      "id": "二、7",
+      "kind": "choice",
+      "question_latex": "一个小数先扩大到它的100倍，再把小数点向左移动一位后是39.25，这个小数原来是（　）。",
+      "options": [
+        "A. 392.5",
+        "B. 39.25",
+        "C. 3.925",
+        "D. 0.3925"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。先扩大到100倍，再缩小到十分之一，合起来扩大到\\(100\\div10=10\\)倍。反向求原数：\\(39.25\\div10=3.925\\)。也可先把39.25扩大10倍得392.5，再除以100，仍得3.925。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

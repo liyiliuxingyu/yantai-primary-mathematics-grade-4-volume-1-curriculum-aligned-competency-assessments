@@ -1,0 +1,2579 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p055_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "2.96",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "249.34",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p055_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "32.79",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "32.8",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "254.9927",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "255.0",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p055_s03": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "9",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题首“□里最大能填几”的符号说明，不是实际待填空位。"
+        }
+      ]
+    },
+    "p055_s04": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "0",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题首“□里最大能填几”的符号说明，不是实际待填空位。"
+        }
+      ]
+    },
+    "p055_s05": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "3",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题首“□里最大能填几”的符号说明，不是实际待填空位。"
+        }
+      ]
+    },
+    "p055_s06": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "2",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题首“□里最大能填几”的符号说明，不是实际待填空位。"
+        }
+      ]
+    },
+    "p055_s07": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "9",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题首“□里最大能填几”的符号说明，不是实际待填空位。"
+        }
+      ]
+    },
+    "p055_s08": {
+      "final_answers": [
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "4",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题首“□里最大能填几”的符号说明，不是实际待填空位。"
+        }
+      ]
+    },
+    "p055_s09": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p055_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "可可",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p055_s11": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p055_s12": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1.24",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p055_s13": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p056_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p056_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p056_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "3",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p056_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p056_s05": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p057_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "小数点",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "相同数位",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "6.3",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "13.7",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "5.6",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "+",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "answer_latex": "4.4",
+          "expected_placeholder": "\\square",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "42.7",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "2.2",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "1.8",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "5.6",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "6.4",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "6.5",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "5.3",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "21.5",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "4.14",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "17.7",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "5.5",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s11": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "0.1",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "48",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "2",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s12": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": "<",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s13": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": "<",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s14": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s15": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": ">",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p057_s16": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "14.4",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p058_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "23.3",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p058_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p058_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p058_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": null,
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "note": "原解析明确结论不唯一：若约定竖式结果暂不化简可选B；题干无该约定，不能无条件填B。请原位保留待说明，讲解展示该条件。"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p058_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p058_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p058_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p058_s08": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p058_s09": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p059_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p059_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p059_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p059_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p059_s05": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p059_s06": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p059_s07": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p060_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p060_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p060_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p060_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p061_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1.1",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "0.9",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "40",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "4.99",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "3.76",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "67.5",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "5.98",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "0.3",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "3.36",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": "<",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": "=",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "compare",
+          "answer_latex": "<",
+          "expected_placeholder": "\\bigcirc",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1.17",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1.19",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s11": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "21.05",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s12": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "1.9",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "3.3",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s13": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "5.10",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "5.07",
+          "expected_placeholder": "(\\quad)",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p061_s14": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "2.14",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "0.58",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p062_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "0.58",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p062_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "2.2",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "44.6",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p062_s03": {
+      "final_answers": [
+        {
+          "slot_index": 2,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "加数内未知数字作为可能性条件；原题只要求选择结果，并不要求唯一填定方框。"
+        },
+        {
+          "slot_index": 1,
+          "reason": "加数内未知数字作为可能性条件；不能将一个可行示例误当题干唯一答案。"
+        }
+      ]
+    },
+    "p062_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p062_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p062_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p062_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p062_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p062_s09": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p063_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p063_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p063_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p063_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p063_s05": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p063_s06": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p063_s07": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p064_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p064_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p064_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p064_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p065_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p065_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "轴对称",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p065_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "下",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "5",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "右",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "4",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p065_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "上",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "5",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "左",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "5",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p065_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "2",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "正方",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "等边",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p066_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "圆",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "1",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p066_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p066_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p066_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "平移",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "1",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "右",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_text": "平移",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "answer_latex": "1",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p066_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "逆",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "90",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_text": "上",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "answer_latex": "1",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p066_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p066_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p066_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "D",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "旋转",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p067_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p067_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "顺时针",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "note": "两空分别询问方向与角度，依题干填顺时针、90；组合对应选项C。"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "90",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p067_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p067_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p067_s05": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p067_s06": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p067_s07": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p067_s08": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p067_s09": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p067_s10": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p068_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p068_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "9",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "上",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "2",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p068_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p068_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": null,
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "note": "原解析确认箭头与原像标注约定有歧义：按箭头虚线到实线为逆；按实线原像到虚线为顺。不能无条件原位填定一个方向，讲解须同时说明。"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p068_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "D",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": null,
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "note": "原解析确认歧义：按箭头虚线到实线为顺；按实线原像到虚线为逆。暂不无条件填定。"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p068_s06": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p069_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "直线",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "轴对称图形",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "对称轴",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_text": "相等",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 4,
+          "kind": "fill",
+          "answer_text": "垂直",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p069_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "形状",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "大小",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "位置",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p069_s03": {
+      "final_answers": [],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "题干“旋转现象画○”的符号说明，并非待填的圆圈空位；四幅图的△○作答使用已有图对象。"
+        }
+      ]
+    },
+    "p069_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "顺",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "90",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_text": "逆",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 3,
+          "kind": "fill",
+          "answer_latex": "180",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p069_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "2",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "3",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "E",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "30",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "顺",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "90",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "20",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "\\times",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "\\checkmark",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "\\times",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "\\times",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "\\checkmark",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s11": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s12": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p070_s13": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p071_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p071_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p071_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p071_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p071_s05": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p071_s06": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p071_s07": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p072_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p072_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p072_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p072_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p072_s05": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p072_s06": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p072_s07": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p073_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "112",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "50",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "450",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "16",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "50",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "甲",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "12",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "70",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "36",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_text": "③",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p073_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "26",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p074_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p074_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p074_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": null,
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "note": "题面未说明全班每人至少参加一项，只能求至少参加一项45人；若补充全员参与才选C。现不无条件原位填C。"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p074_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p074_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p074_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p074_s07": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p075_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p075_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p075_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p075_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p075_s05": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p075_s06": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p076_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p076_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p076_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p077_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "17",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p077_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "672",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "112",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p077_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "24",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "28",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p077_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "14",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p077_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "52",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p077_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "156",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p077_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "159",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p077_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p078_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p078_s02": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "D",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p078_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "C",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p078_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "\\mathrm{B}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex",
+          "note": "甲比平均年龄多6岁，乙比平均年龄少6岁。把甲多出的6岁补给乙，两人都等于平均年龄，总年龄不变，丙也必须等于平均年龄。因此选B。"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p078_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "B",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p078_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "choice",
+          "answer_latex": "A",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p079_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p079_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p079_s03": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p079_s04": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p079_s05": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p080_s01": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p080_s02": {
+      "final_answers": [],
+      "ignored_slots": [],
+      "skip_reason": "题干无扫描器候选空位；表格、图内作答及完整解答保留现有对象。"
+    },
+    "p080_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "44",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "5.0\\text{及以上}",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "23",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p080_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "21",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s01": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "25",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "350",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s02": {
+      "final_answers": [
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "128",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": [
+        {
+          "slot_index": 0,
+          "reason": "式中的□代表要推求的同一个未知数，实际答案空为末尾括号，不将变量改写成答案。"
+        },
+        {
+          "slot_index": 1,
+          "reason": "“□里应该填”是对未知符号的文字说明，非独立空位。"
+        }
+      ]
+    },
+    "p081_s03": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "30.609",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_text": "三十点六零九",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 2,
+          "kind": "fill",
+          "answer_latex": "30.61",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s04": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "3.31",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "3",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s05": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "275",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s06": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "60",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s07": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "52000",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s08": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "587.35",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s09": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "6",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "260",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s10": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "3.294",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s11": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "275",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "90",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s12": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "8627",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "7.46",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s13": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "236.45",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        },
+        {
+          "slot_index": 1,
+          "kind": "fill",
+          "answer_latex": "236.54",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    },
+    "p081_s14": {
+      "final_answers": [
+        {
+          "slot_index": 0,
+          "kind": "fill",
+          "answer_latex": "7.21",
+          "expected_placeholder": "（    ）",
+          "source": "question_latex"
+        }
+      ],
+      "ignored_slots": []
+    }
+  }
+}

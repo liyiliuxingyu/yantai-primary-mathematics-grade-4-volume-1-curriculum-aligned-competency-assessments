@@ -1,0 +1,245 @@
+{
+  "book_page": 39,
+  "source_page": 43,
+  "records": [
+    {
+      "key": "p039_s01",
+      "book_page": 39,
+      "source_page": 43,
+      "section_index": 0,
+      "id": "四、1（1）",
+      "kind": "drawing",
+      "question_latex": "按要求，画一画。（每两个格点之间的距离为1厘米）（1）以图中线段为三角形的底边，画一个等腰三角形，并画出底边上的高。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p039_s01_g1",
+          "tikz": "\\begin{tikzpicture}[x=.55cm,y=.55cm]\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}\\fill(\\x,\\y)circle(1pt);\\draw(1,1)--(1,5);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p039_s01_a1",
+          "tikz": "\\begin{tikzpicture}[x=.55cm,y=.55cm]\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}\\fill(\\x,\\y)circle(1pt);\\draw(1,1)--(1,5);\\draw[red](1,1)--(5,3)--(1,5);\\draw[red,dashed](1,3)--node[pos=.25,above]{高}(5,3);\\draw[red](1,3)rectangle(1.25,3.25);\\node[below left]at(1,3){底};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "先数格找到给定底边的中点；沿经过中点、与底边垂直的方向取顶点，连接顶点与底边两端，得到等腰三角形。用三角尺检验：一条直角边贴底边，另一条直角边经过顶点；画出顶点到垂足的线段，标直角和“高”。原图示例的高经过底边中点，两腰相等。顶点取在底边任一侧，只要满足上述条件，都可以。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_lines_original": [
+          {
+            "vertex": [
+              185,
+              227.85718
+            ],
+            "foot": [
+              294.28571,
+              227.85718
+            ]
+          }
+        ],
+        "altitude_regions": [
+          [
+            183,
+            225.85718,
+            296.28571,
+            229.85718
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "altitude",
+        "vertex": [
+          5,
+          3
+        ],
+        "foot": [
+          1,
+          3
+        ],
+        "base": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "labels": {
+          "base": "底",
+          "altitude": "高"
+        },
+        "object_points": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            5,
+            3
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p039_s02",
+      "book_page": 39,
+      "source_page": 43,
+      "section_index": 1,
+      "id": "四、1（2）",
+      "kind": "drawing",
+      "question_latex": "按要求，画一画。（每两个格点之间的距离为1厘米）（2）画一个梯形，并把梯形分成一个平行四边形和一个三角形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p039_s02_g1",
+          "tikz": "\\begin{tikzpicture}\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}{\\fill(\\x*.55,\\y*.55)circle(1pt);}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p039_s02_a1",
+          "tikz": "\\begin{tikzpicture}[x=.55cm,y=.55cm]\\foreach\\x in{0,...,11}\\foreach\\y in{0,...,5}\\fill(\\x,\\y)circle(1pt);\\draw[red](2,1)--(9,1)--(7,5)--(4,5)--cycle;\\draw[red,dashed](4,5)--(6,1);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "分割线平行右腰；左块三角形，右块平行四边形。"
+        }
+      ],
+      "answer_latex": "先画只有一组对边平行的梯形。从一条上底的端点，画一条与不相邻的腰平行的线段，交下底于一点，就能分出一个平行四边形和一个三角形。也可从另一上底端点作对应分割，得到另一种画法。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p039_s03",
+      "book_page": 39,
+      "source_page": 43,
+      "section_index": 2,
+      "id": "四、2（1）",
+      "kind": "drawing",
+      "question_latex": "画一画，写一写。（1）利用直尺和圆规，画出以线段\\(a\\)为底边，线段\\(b\\)和线段\\(c\\)为边的三角形。（保留作图痕迹）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p039_s03_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(3.2,0);\\node[below]at(1.6,0){$a$};\\draw(3.7,0)--(6.2,0);\\node[below]at(4.95,0){$b$};\\draw(6.7,0)--(7.9,0);\\node[below]at(7.3,0){$c$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p039_s03_a1",
+          "tikz": "\\begin{tikzpicture}[scale=1.5]\\coordinate(A)at(0,0);\\coordinate(B)at(3.2,0);\\coordinate(C)at(2.35156,.84862);\\draw(A)--node[below]{$a$}(B);\\draw[red](A)--node[above left]{$b$}(C)--node[above right]{$c$}(B);\\draw[red,dashed](5:2.5)arc(5:40:2.5);\\draw[red,dashed]($(B)+(110:1.2)$)arc(110:170:1.2);\\node[below left]at(A){$A$};\\node[below right]at(B){$B$};\\node[above,yshift=10pt,red]at(C){$C$};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "示意长度按原图比例选取，未给定数值，不标数值。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "先作线段\\(AB=a\\)。圆规开口取\\(b\\)，针尖固定在\\(A\\)画弧；再把开口调为\\(c\\)，针尖固定在\\(B\\)，在底边同一侧画弧，两弧交于\\(C\\)。连接\\(AC,BC\\)。因为圆规分别保持\\(b,c\\)的长度，所以\\(AC=b,BC=c\\)，三条边符合要求。要保留交点附近的弧线，每次画弧时圆规开口不能松动。交点取在底边另一侧也可，得到的两个三角形互为轴对称。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p039_s04",
+      "book_page": 39,
+      "source_page": 43,
+      "section_index": 3,
+      "id": "四、2（2）",
+      "kind": "drawing",
+      "question_latex": "（2）根据你画的三角形，请提出一个值得思考的数学问题。（不用解答）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "问题示例：这个三角形按角分类，属于什么三角形？也可以问：以最长边为底，这条底边上的高在三角形内部还是外部？题目说“不用解答”，提出与所画图形有关的合理问题即可。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p039_s05",
+      "book_page": 39,
+      "source_page": 43,
+      "section_index": 4,
+      "id": "五、1",
+      "kind": "application",
+      "question_latex": "我国古代很早就用方正图形做器物，讲究几何之美。手工课上，李明用一根铁丝先围成了边长9厘米的正方形，如果要用这块铁丝围成一个等边三角形，它的边长是多少厘米？（7分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "铁丝总长度不变，先按正方形每边9厘米乘4条边列式，再按等边三角形的3条边平均分。计算时先除以3，再乘4，更便于口算。\\[\\begin{aligned}&9\\times4\\div3\\\\={}&9\\div3\\times4\\\\={}&3\\times4\\\\={}&12\\text{(厘米)}\\end{aligned}\\]答：等边三角形的边长是12厘米。\\par 另一数量理解：每条原边平均分成3小份，共12小份，每条新边取4小份，直接得到\\(9\\div3\\times4\\)。它与上面的简算式一致，不重复列第二遍脱式。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "本轮复核：已在第四单元之后；原红主法先求36再除3，旁注已有先9除3的方法。主法列式仍按边长9乘4条边，再利用乘除性质先9÷3得3，避免较大中间数36。两种数量理解最终同式，只写一遍脱式，旁注改为解释两种理解。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

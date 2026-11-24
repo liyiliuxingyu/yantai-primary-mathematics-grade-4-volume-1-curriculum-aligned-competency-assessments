@@ -1,0 +1,188 @@
+{
+  "passed": true,
+  "volumes": [
+    {
+      "volume": 3,
+      "filename": "小学四上同步素养卷第3册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第3册讲解课件答案.pptx",
+      "output_sha256": "5c7957b3650ff3677dcf9351a866bd59917e91fe297a6e7099f2a15644737bf2",
+      "slides": 406,
+      "changed_slides": [
+        78,
+        79,
+        80,
+        152,
+        153,
+        171,
+        172,
+        338,
+        402,
+        406
+      ],
+      "static_rendered_changed_slide_count": 10,
+      "individually_visually_inspected_changed_slide_count": 10,
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "native_math_implementation": "Native OMML with true XeLaTeX SVG/PNG compatibility assets; original separate equation columns preserved and new row groups explicitly align equality and following first digit.",
+      "static_renders": [
+        {
+          "slide": 78,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-78.png",
+          "sha256": "a2b573144994e68abed82f97463fe6e945953326c8fa50a51188e02e61353f94",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 79,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-79.png",
+          "sha256": "ddca504922aa65d5a95b2159054d4e49aff9dafb2703eb82084d68d80fb41c06",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 80,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-80.png",
+          "sha256": "03ef277fad3deab0ad22ff7fc4c48c3c09cb235c009c9184a11807b623ebb40b",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 152,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-152.png",
+          "sha256": "2a69744b84e28cd6c5056c92991bdfe77e6825e53a1b2c0122d7840dc6af084d",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 153,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-153.png",
+          "sha256": "495132cd8a2f2ce94ab5412085fb84c3f2c7e2e1988258e64e415add3c9b5e0c",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 171,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-171.png",
+          "sha256": "785834707fdc66c2cd5d0eb28f9d795816cc25fecf68bc26903864a3238f857a",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 172,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-172.png",
+          "sha256": "8e9a5742863dac1637060788ae51eabce8d8cf0000532dbd2884b34160367176",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 338,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-338.png",
+          "sha256": "f03d9efd9216b5f99a6ff35e555cfaa8f8f64113f070670f83f134b69a8de1f2",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 402,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3_r3/slide-402.png",
+          "sha256": "293ef9e9637f795b2c9c40a2f29b198ca5538b0838c98799751e08b7702795a5",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 406,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3_r3/slide-406.png",
+          "sha256": "f26257c758e87ea4857cfb352f8077fa618d0643760571340fd290b38bb76282",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        }
+      ],
+      "preexisting_layout_warnings": [],
+      "finalizer_receipt": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/qa/finalizer_v3.json"
+    },
+    {
+      "volume": 4,
+      "filename": "小学四上同步素养卷第4册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "output_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+      "slides": 462,
+      "changed_slides": [
+        34,
+        35,
+        54,
+        85
+      ],
+      "static_rendered_changed_slide_count": 4,
+      "individually_visually_inspected_changed_slide_count": 4,
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "native_math_implementation": "Native OMML with true XeLaTeX SVG/PNG compatibility assets; original separate equation columns preserved and new row groups explicitly align equality and following first digit.",
+      "static_renders": [
+        {
+          "slide": 34,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v4/slide-34.png",
+          "sha256": "4b21b57a87f2ee45cc18c61eaf0f3841da681d6103b17e5e2b0897375b131aa0",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 35,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v4/slide-35.png",
+          "sha256": "fc6d139999e9ca8470ea7e8d7d6e35e0f666e6c24c0fae39f7ba27fac8c285ec",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 54,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v4/slide-54.png",
+          "sha256": "6f6013d3efeffac97fd5c6a555f5f41cb3c72a5e77f0d50126a7a28ebbbe71cc",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 85,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v4/slide-85.png",
+          "sha256": "425ab43e2bf3b1468a3fc881d5002988163e518a2ffaa76393c04adb19ea52c5",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        }
+      ],
+      "preexisting_layout_warnings": [
+        {
+          "kind": "object_outside_slide_boundary",
+          "object_id": "5",
+          "object_kind": "sp",
+          "slide": 321
+        }
+      ],
+      "finalizer_receipt": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/qa/finalizer_v4.json"
+    }
+  ],
+  "changed_slides_total": 14,
+  "question_keys": [
+    "p039_s05",
+    "p044_s01",
+    "p042_s09",
+    "p052_s01",
+    "p054_s07",
+    "p056_s01",
+    "p057_s03",
+    "p058_s02"
+  ],
+  "all_requested_eight_keys_covered": true,
+  "powerpoint_playback_tested": false,
+  "wps_playback_tested": false,
+  "arithmetic_qa": "ppt_recheck/v3_4/qa_arithmetic.json",
+  "actual_visual_review": {
+    "original_changed_slides": 14,
+    "final_changed_slides": 14,
+    "each_individually_viewed": true,
+    "final_two_text_revisions_re_rendered": true
+  },
+  "scope": "Supplementary simplification update. Eight adopted records across volumes3 and4; 14 modified slides individually reviewed. Unchanged slides retained by byte comparison; not newly rendered in their entirety.",
+  "limits": [
+    "ArtifactTool static rendering and OOXML timing/reference checks do not establish playback in PowerPoint or WPS.",
+    "Existing volume4 slide321 moving-object boundary warning is outside this edit and its entire slide XML is byte-identical."
+  ]
+}

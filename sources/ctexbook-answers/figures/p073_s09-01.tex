@@ -1,0 +1,1 @@
+\begin{tikzpicture}[x=1cm,y=.65cm]\draw[->](0,0)--(3.8,0)node[right]{姓名};\draw[->](0,0)--(0,6)node[above]{身高};\foreach \y/\lab in {1.6/①,2.5/②,3.4/③,5.5/④}{\draw[dashed](0,\y)--(3.5,\y)node[right]{\lab};}\foreach \x/\h/\lab in {.5/2.5/小明,1.6/1.6/小红,2.7/5.5/小华}{\filldraw[fill=gray!30](\x,0)rectangle(\x+.5,\h);\node[below]at(\x+.25,0){\lab};}\end{tikzpicture}

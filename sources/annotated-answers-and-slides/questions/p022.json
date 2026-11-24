@@ -1,0 +1,313 @@
+{
+  "book_page": 22,
+  "source_page": 26,
+  "title": "",
+  "records": [
+    {
+      "key": "p022_s01",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 0,
+      "id": "一、8",
+      "kind": "fill",
+      "question_latex": "芳芳和悠悠从圆形跑道同一地点，同时出发，相向而行，2分钟后两人相遇，芳芳每分钟跑65米，悠悠每分钟跑85米，这个圆形跑道的周长是（    ）米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按题目通常意图，把2分钟理解为首次相遇。两人相向跑2分钟，相遇时共跑一圈：\\[\\begin{aligned} &(65+85)\\times2\\\\={}&150\\times2\\\\={}&300\\text{(米)}\\end{aligned}\\]若不限定首次，相遇次数未知，便不能仅据此唯一确定周长。",
+      "verification": {
+        "status": "verified",
+        "reason": "通常按首次相遇，(65+85)×2=300米；原解析已注明非首次时不唯一。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": [],
+        "additional_left_patches": [
+          {
+            "rect": [
+              300,
+              86.5,
+              554,
+              98
+            ],
+            "old": "",
+            "new_latex": "按首次相遇计算；未限定首次则不唯一。",
+            "size": 7.2,
+            "note": "原页相邻白隙补明条件，不把条件例作为无条件唯一答案。"
+          }
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p022_s02",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 1,
+      "id": "一、9",
+      "kind": "fill",
+      "question_latex": "小华6分钟打432个字，照这样计算，他半小时打（    ）个。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把打字问题与行程问题对应：每分钟打字数相当于速度，打字总数相当于路程。先统一时间单位：\\[\\text{半小时}=30\\text{分钟}\\]先求每分钟打字数，再乘30：\\[\\begin{aligned} &432\\div6\\times30\\\\={}&72\\times30\\\\={}&2160\\text{(个)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "半小时30分，432÷6×30=2160个。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p022_s03",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 2,
+      "id": "一、10",
+      "kind": "fill",
+      "question_latex": "甲、乙两地相距470千米，汽车从甲地出发行驶4小时后，还有30千米才到达终点。这辆汽车每小时行驶（    ）千米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "实际行驶路程是全程减剩余路程：\\[\\begin{aligned} &(470-30)\\div4\\\\={}&440\\div4\\\\={}&110\\text{(千米/时)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已行470−30=440千米，440÷4=110。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p022_s04",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 3,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "卡车以70千米/时的速度从甲地开往乙地，2小时后到达乙地。求甲、乙两地相距多远？列式解答时对应的数量关系式是（    ）。",
+      "options": [
+        "A.速度÷时间=路程",
+        "B.总价÷数量=单价",
+        "C.速度×时间=路程",
+        "D.单价×数量=总价"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(C\\)。已知速度和时间，求路程，用“速度×时间＝路程”。本题\\(70\\times2=140\\text{(千米)}\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已知速度与时间求路程，C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p022_s05",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 4,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "一支钢笔5元钱，一个文具盒8元钱，买2支钢笔和3个文具盒，共花（    ）元。",
+      "options": [
+        "A.34",
+        "B.31",
+        "C.30",
+        "D.32"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(A\\)。2支钢笔和3个文具盒的总价：\\[\\begin{aligned} &5\\times2+8\\times3\\\\={}&10+24\\\\={}&34\\text{(元)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "5×2+8×3=10+24=34，A。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p022_s06",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 5,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "北京南站到济南西站的高铁全长约406千米。如右图，G823次列车的平均速度大约是（    ）千米/时。",
+      "options": [
+        "A.230",
+        "B.203",
+        "C.812",
+        "D.820"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "出发站",
+            "出发时刻",
+            "到达站",
+            "到达时刻"
+          ],
+          "rows": [
+            [
+              "北京南站",
+              "12:43",
+              "济南西站",
+              "14:43"
+            ]
+          ],
+          "footer": "用时2小时"
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "选\\(B\\)。从12:43到14:43经过2小时，速度为：\\[\\begin{aligned} &406\\div2\\\\={}&203\\text{(千米/时)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "经过2小时，406÷2=203千米/时，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "source_notes": [
+        "题干列车号为G823，示意图小字看似G825（经停）；该差异不影响本题所给时间、距离的运算。"
+      ]
+    },
+    {
+      "key": "p022_s07",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 6,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "下列动物中，奔跑速度最快的是（    ）。",
+      "options": [
+        "A.羚羊每分钟约跑1440米",
+        "B.野驴的速度约是1200米/分钟",
+        "C.长颈鹿3分钟约跑3千米",
+        "D.东北虎1分钟约跑1300米"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(A\\)。先把长颈鹿的路程换成米：\\[3\\text{千米}=3000\\text{米}\\]统一为米/分：羚羊1440，野驴1200，长颈鹿\\(3000\\div3=1000\\)，东北虎1300。\\(1440>1300>1200>1000\\)，羚羊最快。",
+      "verification": {
+        "status": "verified",
+        "reason": "统一米/分：1440，1200，3000÷3=1000，1300，A最快。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p022_s08",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 7,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "小华和小明分别从一座桥的两端同时出发。小华的速度是70米/分，小明的速度是60米/分，经过6分钟两人相遇。这座桥长（    ）米。",
+      "options": [
+        "A.390",
+        "B.780",
+        "C.260",
+        "D.130"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(B\\)。相向而行，两人路程之和等于桥长：\\[\\begin{aligned} &(70+60)\\times6\\\\={}&130\\times6\\\\={}&780\\text{(米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "(70+60)×6=780米，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p022_s09",
+      "book_page": 22,
+      "source_page": 26,
+      "section_index": 8,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "甲乙两地相距700千米，李叔叔开车从甲地出发，去乙地送货物，每小时行驶78千米，3小时后到达服务区休息，服务区的位置可能在（    ）点。",
+      "options": [
+        "A.①号",
+        "B.②号",
+        "C.③号",
+        "D.④号"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(6,0);\\draw(0,0)--(0,.15);\\draw(6,0)--(6,.15);\\node[above]at(0,.15){甲};\\node[above]at(6,.15){乙};\\foreach \\x/\\n in {1.4/1,2/2,3.05/3,4.05/4}{\\fill(\\x,0)circle(1.5pt);\\node[above]at(\\x,.1){\\textcircled{\\n}};}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "位置按原图的相对比例重绘，不增设等分刻度。",
+          "name": "p022_s09_g1"
+        }
+      ],
+      "answer_latex": "选\\(B\\)。李叔叔3小时行驶\\(78\\times3=234\\)千米，约为700千米全程的三分之一；②号点约在甲至乙全程的三分之一处。图示为位置估计。",
+      "verification": {
+        "status": "verified",
+        "reason": "78×3=234千米，约全程三分之一，对应②，B。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

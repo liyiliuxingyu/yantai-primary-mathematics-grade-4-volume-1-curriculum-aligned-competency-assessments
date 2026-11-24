@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "pdf_sha256": "6368cf44ed10565b8249b02791c38dafbe6b6a42ecc81a0ccef6ab63afc1f9b8",
+  "manual_full_pages_reviewed": [
+    73,
+    75,
+    76,
+    77,
+    78,
+    79,
+    88,
+    89,
+    90,
+    91,
+    98,
+    108
+  ],
+  "first_visual_review_pdf_sha256": "9587c55613c423b764ad422087cb84043ee19673179d2f44430fe664ba984d35",
+  "final_changed_pages_reviewed_after_last_change": [
+    88,
+    108
+  ],
+  "remaining_reviewed_pages_raster_identical_to_final": [
+    73,
+    75,
+    76,
+    77,
+    78,
+    79,
+    89,
+    90,
+    91,
+    98
+  ],
+  "root_independent_question_crops_reviewed": [
+    "p075_s01",
+    "p075_s03",
+    "p079_s02",
+    "p089_s02",
+    "p091_s01",
+    "p088_s01",
+    "p108_s03"
+  ],
+  "source_a4_pages_reviewed_for_red_answer_removal": [
+    75,
+    79,
+    88,
+    91
+  ],
+  "source_red_only_masks_verified": 16,
+  "new_solution_font_pt": 11.5,
+  "result": "所审变更页未见遮挡、裁切、错位或旧主式/答语重复；全部原题图文按平移映射保留。",
+  "limitation": "这记录本轮平均数步骤修订及实际发现的108页第3题漏尾；不宣称重新人工审阅全书128页全部数学。"
+}

@@ -1,0 +1,371 @@
+{
+  "question_key": "p078_s05",
+  "book_page": 78,
+  "question_id": "二、5",
+  "source_photo": "upload/01-image-1793934362476.jpg",
+  "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+  "answer": "B",
+  "answer_text": "第二天",
+  "reason": "原图确为五条水平边界线围出四个日带，每天四个散点。22℃竖虚线作为基准，比较四点在其左右的距离；第二天左右偏差总量约相抵，平均约22℃。",
+  "primary_explanation": "以22℃为基准，把高于22℃的部分移给低于22℃的部分。第二天两个右侧点多出的部分，约能补足左侧那个点不足的部分；另一个点已在22℃附近，所以移多补少后四次气温都大约是22℃。因此选B。",
+  "horizontal_boundaries": 5,
+  "day_bands": 4,
+  "point_count": 16,
+  "vertical_reference": "22℃，竖虚线",
+  "days": [
+    {
+      "day": 1,
+      "point_count": 4,
+      "points": [
+        {
+          "source_pixel_center": [
+            813.889,
+            1112.333
+          ],
+          "local_reference_x_pixel": 808.2850181,
+          "horizontal_offset_pixel": 5.603981900000008,
+          "tikz_position": [
+            0.2802,
+            3.7564
+          ]
+        },
+        {
+          "source_pixel_center": [
+            819.5,
+            1116.5
+          ],
+          "local_reference_x_pixel": 808.1391731,
+          "horizontal_offset_pixel": 11.360826900000006,
+          "tikz_position": [
+            0.568,
+            3.5942
+          ]
+        },
+        {
+          "source_pixel_center": [
+            813,
+            1124
+          ],
+          "local_reference_x_pixel": 807.8766731,
+          "horizontal_offset_pixel": 5.123326900000052,
+          "tikz_position": [
+            0.2562,
+            3.2657
+          ]
+        },
+        {
+          "source_pixel_center": [
+            824,
+            1125
+          ],
+          "local_reference_x_pixel": 807.8416731,
+          "horizontal_offset_pixel": 16.15832690000002,
+          "tikz_position": [
+            0.8079,
+            3.2498
+          ]
+        }
+      ],
+      "mean_horizontal_offset_pixel": 9.561615650000022,
+      "interpretation": "四点均在虚线右侧，平均气温高于22℃。"
+    },
+    {
+      "day": 2,
+      "point_count": 4,
+      "points": [
+        {
+          "source_pixel_center": [
+            807.3,
+            1134.7
+          ],
+          "local_reference_x_pixel": 807.5021731,
+          "horizontal_offset_pixel": -0.20217310000009547,
+          "tikz_position": [
+            -0.0101,
+            2.8005
+          ]
+        },
+        {
+          "source_pixel_center": [
+            797.36,
+            1138.09
+          ],
+          "local_reference_x_pixel": 807.3835231,
+          "horizontal_offset_pixel": -10.023523100000034,
+          "tikz_position": [
+            -0.5012,
+            2.6311
+          ]
+        },
+        {
+          "source_pixel_center": [
+            808.67,
+            1141.11
+          ],
+          "local_reference_x_pixel": 807.2778231,
+          "horizontal_offset_pixel": 1.3921768999999813,
+          "tikz_position": [
+            0.0696,
+            2.5317
+          ]
+        },
+        {
+          "source_pixel_center": [
+            815.11,
+            1148.33
+          ],
+          "local_reference_x_pixel": 807.0251231,
+          "horizontal_offset_pixel": 8.08487690000004,
+          "tikz_position": [
+            0.4042,
+            2.2417
+          ]
+        }
+      ],
+      "mean_horizontal_offset_pixel": -0.187160600000027,
+      "interpretation": "一左、一点在虚线附近、两右；右侧多出的距离合起来约等于左侧不足的距离，平均约22℃。"
+    },
+    {
+      "day": 3,
+      "point_count": 4,
+      "points": [
+        {
+          "source_pixel_center": [
+            781.5,
+            1154.14
+          ],
+          "local_reference_x_pixel": 806.8217731,
+          "horizontal_offset_pixel": -25.321773099999973,
+          "tikz_position": [
+            -1.2661,
+            1.9083
+          ]
+        },
+        {
+          "source_pixel_center": [
+            792.73,
+            1155.82
+          ],
+          "local_reference_x_pixel": 806.7629731,
+          "horizontal_offset_pixel": -14.032973099999936,
+          "tikz_position": [
+            -0.7016,
+            1.8672
+          ]
+        },
+        {
+          "source_pixel_center": [
+            790.12,
+            1162.12
+          ],
+          "local_reference_x_pixel": 806.5424731,
+          "horizontal_offset_pixel": -16.422473100000047,
+          "tikz_position": [
+            -0.8211,
+            1.596
+          ]
+        },
+        {
+          "source_pixel_center": [
+            783.82,
+            1169.82
+          ],
+          "local_reference_x_pixel": 806.2729731,
+          "horizontal_offset_pixel": -22.452973099999895,
+          "tikz_position": [
+            -1.1226,
+            1.2544
+          ]
+        }
+      ],
+      "mean_horizontal_offset_pixel": -19.557548099999963,
+      "interpretation": "四点均在虚线左侧，平均气温低于22℃。"
+    },
+    {
+      "day": 4,
+      "point_count": 4,
+      "points": [
+        {
+          "source_pixel_center": [
+            777.8,
+            1178.5
+          ],
+          "local_reference_x_pixel": 805.9691731,
+          "horizontal_offset_pixel": -28.16917310000008,
+          "tikz_position": [
+            -1.4085,
+            0.8709
+          ]
+        },
+        {
+          "source_pixel_center": [
+            813.64,
+            1183.45
+          ],
+          "local_reference_x_pixel": 805.7959231,
+          "horizontal_offset_pixel": 7.844076900000005,
+          "tikz_position": [
+            0.3922,
+            0.774
+          ]
+        },
+        {
+          "source_pixel_center": [
+            788,
+            1185
+          ],
+          "local_reference_x_pixel": 805.7416731,
+          "horizontal_offset_pixel": -17.741673099999957,
+          "tikz_position": [
+            -0.8871,
+            0.6299
+          ]
+        },
+        {
+          "source_pixel_center": [
+            805.09,
+            1190.36
+          ],
+          "local_reference_x_pixel": 805.5540731,
+          "horizontal_offset_pixel": -0.4640730999999505,
+          "tikz_position": [
+            -0.0232,
+            0.4583
+          ]
+        }
+      ],
+      "mean_horizontal_offset_pixel": -9.632710599999996,
+      "interpretation": "两点明显在左，一点在虚线附近，一点在右；左侧不足的距离明显更多，平均低于22℃。"
+    }
+  ],
+  "methodology": {
+    "pixel_centers": "从原照片的暗点连通区域读取近似中心；源像素坐标只用于复原左右相对距离，不等同于温度刻度。",
+    "horizontal_correction": "按竖虚线随透视的轻微倾斜校正，每点减去同高的虚线横坐标，再按同一比例排版。",
+    "vertical_correction": "以各点所在日带的上下两条印刷边界线作局部校正，保持点在日带中的相对高度。",
+    "source_line_fits_xy": [
+      [
+        0.0474000264,
+        1067.93884
+      ],
+      [
+        0.0594914898,
+        1081.97508
+      ],
+      [
+        0.0612558034,
+        1104.09213
+      ],
+      [
+        0.073328135,
+        1118.38667
+      ],
+      [
+        0.07471954,
+        1141.14903
+      ]
+    ],
+    "reference_fit_x_from_y": "x_ref=808.5−0.035×(y−1106.19066)，单位为原照片像素，仅复原参考线，不是温度换算。",
+    "tikz_units": "横坐标每单位对应20个校正后的照片像素；不解释为摄氏度。",
+    "near_axis_points": "第二天首点及第四天末点在虚线附近，扫描误差不足半个像素，不据此编造精确读数。"
+  },
+  "uncertainties": [
+    "原图没有横轴温度数值刻度，不能为16个点附会具体温度。",
+    "题目问大约22℃；照片点位左右距离仅用于判断偏差约抵消，不证明精确等于22℃。"
+  ],
+  "difference_from_existing_diagram": [
+    "原源码只有4条水平线，清晰原图是5条水平边界分成4个日带，重绘恢复第5条边界。",
+    "原图为圆点，原源码使用小方块，改为16个实心圆点。",
+    "原源码第二天画成两左两右，清晰照片是一左、一点在轴附近、两右；恢复各点左右分布。",
+    "原源码第四天画成三左一右；照片为两左、一点在轴附近、一右，恢复相对分布。",
+    "竖参考线在原图宽度约七成处，重绘保留该位置，未强行放在水平线正中。"
+  ],
+  "outputs": {
+    "tikz": "diagram_source/p078_temperatures_photo.tikz",
+    "standalone_tex": "diagram_source/p078_temperatures_photo.tex",
+    "compiled_pdf": "diagram_source/p078_temperatures_photo.pdf",
+    "svg": "diagram_source/p078_temperatures_photo.svg"
+  },
+  "compile_verification": {
+    "engine": "XeLaTeX",
+    "exit_code": 0,
+    "pages": 1,
+    "embedded_bitmap_images": 0,
+    "vector_drawings": 23,
+    "pdf_page_rect_pt": [
+      0.0,
+      0.0,
+      142.00999450683594,
+      93.38999938964844
+    ],
+    "pdf_sha256": "6e55f4fe723e1cb1a401e2695d74b6a239c766d163414cbaad718d17acce0ec2",
+    "missing_characters": false
+  },
+  "page_fit_calibration": {
+    "target_original_a4_rect": [
+      397,
+      550,
+      539,
+      643
+    ],
+    "target_size_pt": [
+      142,
+      93
+    ],
+    "natural_pdf_size_pt": [
+      142.00999450683594,
+      93.38999938964844
+    ],
+    "tikz_x_unit_cm": 0.495,
+    "tikz_y_unit_cm": 0.6,
+    "day_label_tex_pt": 10.5,
+    "reference_label_tex_pt": 9.5,
+    "dot_radius_pt": 1.5,
+    "text_span_sizes": [
+      {
+        "text": "第一天",
+        "font_size_pdf_pt": 10.460800170898438
+      },
+      {
+        "text": "第二天",
+        "font_size_pdf_pt": 10.460800170898438
+      },
+      {
+        "text": "第三天",
+        "font_size_pdf_pt": 10.460800170898438
+      },
+      {
+        "text": "第四天",
+        "font_size_pdf_pt": 10.460800170898438
+      },
+      {
+        "text": "22",
+        "font_size_pdf_pt": 8.966400146484375
+      },
+      {
+        "text": "◦",
+        "font_size_pdf_pt": 6.973800182342529
+      },
+      {
+        "text": "C",
+        "font_size_pdf_pt": 9.464500427246094
+      }
+    ],
+    "point_coordinates_unchanged": true,
+    "horizontal_boundaries_unchanged": 5,
+    "compiled_and_visually_reviewed": true,
+    "instruction": "自然尺寸接近原图框，无须整体缩小到6pt；如插入142×93pt框，缩放约为1，标签约仍10.4pt。"
+  },
+  "visual_verification": {
+    "source_photo_viewed": true,
+    "internal_enlargement_viewed": true,
+    "compiled_png_viewed": true,
+    "checked_items": [
+      "五条水平边界线、四个日带",
+      "每带恰好四个实心圆点",
+      "22℃竖虚线及四天标签",
+      "散点在虚线左右的相对距离",
+      "10.5pt日标签、约9.5pt参考标签",
+      "文字、点与边界线没有裁切或错误遮挡"
+    ]
+  }
+}

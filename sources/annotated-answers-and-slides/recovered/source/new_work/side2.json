@@ -1,0 +1,1484 @@
+{
+  "pages": [
+    {
+      "source_page": 23,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "calculation",
+          "id": "三、1（1）",
+          "latex": "把125看作1000的八分之一。\\[\\begin{aligned} &125\\times8\\\\={}&1000\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（2）",
+          "latex": "先用4与25凑100。\\[\\begin{aligned} &40\\times25\\\\={}&4\\times25\\times10\\\\={}&100\\times10\\\\={}&1000\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（3）",
+          "latex": "按减法计算。\\[\\begin{aligned} &103-74\\\\={}&29\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（4）",
+          "latex": "先乘后加；0乘任何数都得0。\\[\\begin{aligned} &0\\times75+9\\\\={}&0+9\\\\={}&9\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（5）",
+          "latex": "先乘后加。\\[\\begin{aligned} &13+57\\times2\\\\={}&13+114\\\\={}&127\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（6）",
+          "latex": "按数位对齐相加。\\[\\begin{aligned} &188+423\\\\={}&611\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（7）",
+          "latex": "5乘18得90，再乘10。\\[\\begin{aligned} &50\\times18\\\\={}&900\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（8）",
+          "latex": "可算67乘10再取一半。\\[\\begin{aligned} &67\\times5\\\\={}&335\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（9）",
+          "latex": "同级运算从左往右。\\[\\begin{aligned} &32\\div2\\div4\\\\={}&16\\div4\\\\={}&4\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（10）",
+          "latex": "先除后减。\\[\\begin{aligned} &56-34\\div2\\\\={}&56-17\\\\={}&39\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（1）",
+          "latex": "先算小括号内的除法。\\[\\begin{aligned} &360\\div(12+360\\div15)\\\\={}&360\\div(12+24)\\\\={}&360\\div36\\\\={}&10\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（2）",
+          "latex": "先小括号，再中括号。\\[\\begin{aligned} &80\\times[(103+97)-131]\\\\={}&80\\times(200-131)\\\\={}&80\\times69\\\\={}&5520\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（3）",
+          "latex": "乘除同级，从左往右。\\[\\begin{aligned} &680-85\\times4\\div20\\\\={}&680-340\\div20\\\\={}&680-17\\\\={}&663\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（4）",
+          "latex": "先算小括号，再依次除、乘。\\[\\begin{aligned} &396\\div(25+11)\\times12\\\\={}&396\\div36\\times12\\\\={}&11\\times12\\\\={}&132\\end{aligned}\\]"
+        },
+        {
+          "kind": "application",
+          "id": "四、1",
+          "latex": "主解：每架载质量×架数\\par \\[\\begin{aligned} &120\\times35\\\\={}&4200\\text{（千克）}\\end{aligned}\\]答：一共可以运送4200千克货物。\\par 同一列式的简算：把35架分成30架和5架\\par \\[\\begin{aligned} &120\\times(30+5)\\\\={}&120\\times30+120\\times5\\\\={}&3600+600\\\\={}&4200\\text{（千克）}\\end{aligned}\\]答：一共可以运送4200千克货物。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、2",
+          "latex": "数量关系：总价＝单价×数量。已知600元买25本，求每本价格，用总价÷数量。\\par 主解：总价÷数量\\par \\[\\begin{aligned} &600\\div25\\\\={}&24\\text{（元）}\\end{aligned}\\]答：每本红色经典读本24元。\\par 计算补充：用连续除法简算\\par \\[\\begin{aligned} &600\\div25\\\\={}&600\\div(5\\times5)\\\\={}&600\\div5\\div5\\\\={}&120\\div5\\\\={}&24\\text{（元）}\\end{aligned}\\]答：每本红色经典读本24元。\\par 检验：\\(24\\times25=600\\text{（元）}\\)，回到已知总价。"
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            82.97,
+            522.4,
+            250.79,
+            546.89
+          ],
+          "latex": "\\textbf{方法一}\\par \\par\\noindent\\(\\displaystyle \\begin{aligned} &120\\times35\\\\={}&4200\\text{（千克）}\\end{aligned}\\)\\par 答：一共可以运送4200千克货物。\\par 其他方法见右栏。",
+          "x": 83.57,
+          "y": 523.0,
+          "w": 430,
+          "size": 10
+        },
+        {
+          "rect": [
+            82.97,
+            673.86,
+            271.59,
+            698.35
+          ],
+          "latex": "\\textbf{单价＝总价÷数量}\\par \\par\\noindent\\(\\displaystyle \\begin{aligned} &600\\div25\\\\={}&24\\text{（元）}\\end{aligned}\\)\\par 答：每本红色经典读本24元。\\par 其他方法见右栏。",
+          "x": 83.57,
+          "y": 674.46,
+          "w": 430,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 24,
+      "columns": 1,
+      "sections": [
+        {
+          "kind": "application",
+          "id": "四、3",
+          "latex": "方法一：付出的钱−购买18套的钱\\par \\[\\begin{aligned} &900-45\\times18\\\\={}&900-810\\\\={}&90\\text{（元）}\\end{aligned}\\]答：应找回90元。\\par 900元正好能买20套，只买18套，剩2套的钱。\\par 方法二：每套价格×少买的套数\\par \\[\\begin{aligned} &45\\times(900\\div45-18)\\\\={}&45\\times(20-18)\\\\={}&45\\times2\\\\={}&90\\text{（元）}\\end{aligned}\\]答：应找回90元。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、4",
+          "latex": "往返的路程相同，先求单程路程，再除以返回时间。\\par \\textbf{路程÷返回时间}\\par \\[\\begin{aligned} &60\\times4\\div3\\\\={}&240\\div3\\\\={}&80\\text{（千米/时）}\\end{aligned}\\]答：返回时平均每小时行80千米。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、5",
+          "latex": "先核对同时出发、相向行驶、3小时后相遇：两车用时相同，且相遇时没有剩余间距。图中两段分别是两车3小时的路程，两段之和就是两市距离。\\par 方法一：速度和×相遇时间\\par \\[\\begin{aligned} &(80+100)\\times3\\\\={}&180\\times3\\\\={}&540\\text{（千米）}\\end{aligned}\\]答：济南市与威海市相距540千米。\\par 方法二：分别求路程再相加\\par \\[\\begin{aligned} &80\\times3+100\\times3\\\\={}&240+300\\\\={}&540\\text{（千米）}\\end{aligned}\\]答：济南市与威海市相距540千米。\\par 检验：\\(540\\div3-100=80\\text{（千米/时）}\\)，可以还原面包车的已知速度。"
+        },
+        {
+          "kind": "application",
+          "id": "四、6",
+          "latex": "一家3口按2名成人和1名儿童计算；自由游机票应付往返费用。\\par 方法一：先分别合计交通和食宿费用\\par 组团游：\\[\\begin{aligned} &2200\\times2+1800\\\\={}&4400+1800\\\\={}&6200\\text{（元）}\\end{aligned}\\]自由游：\\[\\begin{aligned} &900\\times2\\times3+(120+120)\\times5\\times3\\\\={}&5400+3600\\\\={}&9000\\text{（元）}\\end{aligned}\\]\\(6200<9000\\)，且\\(9000-6200=2800\\text{（元）}\\)。答：组团游更划算，少花2800元。\\par 方法二：先算自由游每人的费用\\par \\[\\begin{aligned} &900\\times2+(120+120)\\times5\\\\={}&1800+1200\\\\={}&3000\\text{（元）}\\end{aligned}\\]\\[\\begin{aligned} &3000\\times3-6200\\\\={}&9000-6200\\\\={}&2800\\text{（元）}\\end{aligned}\\]答：组团游更划算，少花2800元。"
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            66.54,
+            97.03,
+            275.46,
+            134.69
+          ],
+          "latex": "\\textbf{方法一}\\par \\par\\noindent\\(\\displaystyle \\begin{aligned} &900-45\\times18\\\\={}&900-810\\\\={}&90\\text{（元）}\\end{aligned}\\)\\par 答：应找回90元。\\par 其他方法见右栏。",
+          "x": 67.14,
+          "y": 97.63,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            66.54,
+            250.25,
+            233.24,
+            274.74
+          ],
+          "latex": "\\textbf{路程÷返回时间}\\par \\par\\noindent\\(\\displaystyle \\begin{aligned} &60\\times4\\div3\\\\={}&240\\div3\\\\={}&80\\text{（千米/时）}\\end{aligned}\\)\\par 答：返回时平均每小时行80千米。\\par ",
+          "x": 67.14,
+          "y": 250.85,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            67.26,
+            468.82,
+            247.79,
+            504.97
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &(80+100)\\times3\\\\={}&180\\times3\\\\={}&540\\text{（千米）}\\end{aligned}\\)\\par 答：两市相距540千米。其他方法见右栏。",
+          "x": 67.86,
+          "y": 469.42,
+          "w": 430,
+          "size": 9.4
+        },
+        {
+          "rect": [
+            66.54,
+            654.49,
+            304.63,
+            690.64
+          ],
+          "latex": "组团游：\\par\\noindent\\(\\displaystyle \\begin{aligned} &2200\\times2+1800\\\\={}&4400+1800\\\\={}&6200\\text{（元）}\\end{aligned}\\)\\par 自由游总费用及比较、多解见右栏。",
+          "x": 67.14,
+          "y": 655.09,
+          "w": 440,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 25,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "fill",
+          "id": "一、1",
+          "latex": "先求每支钢笔价格，再求10支总价：\\[\\begin{aligned} &96\\div3\\times10\\\\={}&32\\times10\\\\={}&320\\text{（元）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、2（已知条件）",
+          "latex": "40元是总价，8千克是数量，问题求单价。数量关系为：单价＝总价÷数量。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、2（单价和读法）",
+          "latex": "\\[\\begin{aligned} &40\\div8\\\\={}&5\\text{（元/千克）}\\end{aligned}\\]读作“5元每千克”，表示每千克苹果5元。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3（汽车）",
+          "latex": "写作\\(72\\text{千米/时}\\)，读作“72千米每时”；分母“时”表示每1小时。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3（步行）",
+          "latex": "写作\\(65\\text{米/分}\\)，读作“65米每分”；表示每分钟走65米。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（步行速度）",
+          "latex": "速度＝路程÷时间：\\[\\begin{aligned} &840\\div12\\\\={}&70\\text{（米/分）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（骑车路程）",
+          "latex": "路程＝速度×时间：\\[\\begin{aligned} &280\\times5\\\\={}&1400\\text{（米）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（船行时间）",
+          "latex": "时间＝路程÷速度：\\[\\begin{aligned} &105\\div35\\\\={}&3\\text{（小时）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（汽车速度）",
+          "latex": "速度＝路程÷时间：\\[\\begin{aligned} &428\\div4\\\\={}&107\\text{（千米/时）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5",
+          "latex": "数量关系：路程＝速度×时间。\\[\\begin{aligned} &435\\times12\\\\={}&435\\times(10+2)\\\\={}&4350+870\\\\={}&5220\\text{（千米）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、6",
+          "latex": "6秒内声音走了一个来回，山谷宽度是来回路程的一半：\\[\\begin{aligned} &340\\times6\\div2\\\\={}&2040\\div2\\\\={}&1020\\text{（米）}\\end{aligned}\\]也可先求声音单程传播的时间，再求距离：\\[\\begin{aligned} &340\\times(6\\div2)\\\\={}&340\\times3\\\\={}&1020\\text{（米）}\\end{aligned}\\]检验：\\(1020\\times2\\div340=6\\text{（秒）}\\)，与听到回声所用时间相符。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、7（每千克价格）",
+          "latex": "\\[\\begin{aligned} &16\\div2\\\\={}&8\\text{（元/千克）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、7（24元购买质量）",
+          "latex": "数量＝总价÷单价：\\[\\begin{aligned} &24\\div8\\\\={}&3\\text{（千克）}\\end{aligned}\\]"
+        }
+      ],
+      "left_patches": [],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 26,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "fill",
+          "id": "一、8",
+          "latex": "按题目通常意图，把2分钟理解为首次相遇。两人相向跑2分钟，相遇时共跑一圈：\\[\\begin{aligned} &(65+85)\\times2\\\\={}&150\\times2\\\\={}&300\\text{（米）}\\end{aligned}\\]若不限定首次，相遇次数未知，便不能仅据此唯一确定周长。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、9",
+          "latex": "把打字问题与行程问题对应：每分钟打字数相当于速度，打字总数相当于路程。半小时是30分钟，先求每分钟打字数，再乘30：\\[\\begin{aligned} &432\\div6\\times30\\\\={}&72\\times30\\\\={}&2160\\text{（个）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、10",
+          "latex": "实际行驶路程是全程减剩余路程：\\[\\begin{aligned} &(470-30)\\div4\\\\={}&440\\div4\\\\={}&110\\text{（千米/时）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "choice",
+          "id": "二、1",
+          "latex": "选\\(C\\)。已知速度和时间，求路程，用“速度×时间＝路程”。本题\\(70\\times2=140\\text{（千米）}\\)。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、2",
+          "latex": "选\\(A\\)。2支钢笔和3个文具盒的总价：\\[\\begin{aligned} &5\\times2+8\\times3\\\\={}&10+24\\\\={}&34\\text{（元）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "choice",
+          "id": "二、3",
+          "latex": "选\\(B\\)。从12:43到14:43经过2小时，速度为：\\[\\begin{aligned} &406\\div2\\\\={}&203\\text{（千米/时）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "choice",
+          "id": "二、4",
+          "latex": "选\\(A\\)。统一为米/分：羚羊1440，野驴1200，长颈鹿\\(3000\\div3=1000\\)，东北虎1300。\\(1440>1300>1200>1000\\)，羚羊最快。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、5",
+          "latex": "选\\(B\\)。相向而行，两人路程之和等于桥长：\\[\\begin{aligned} &(70+60)\\times6\\\\={}&130\\times6\\\\={}&780\\text{（米）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "choice",
+          "id": "二、6",
+          "latex": "选\\(B\\)。李叔叔3小时行驶\\(78\\times3=234\\)千米，约为700千米全程的三分之一；②号点约在甲至乙全程的三分之一处。图示为位置估计。"
+        }
+      ],
+      "left_patches": [],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 27,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "calculation",
+          "id": "三、1（1）",
+          "latex": "每份34，共5份。\\[\\begin{aligned} &34\\times5\\\\={}&170\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（2）",
+          "latex": "加39可先加40再减1。\\[\\begin{aligned} &564+39\\\\={}&603\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（3）",
+          "latex": "可拆21为20和1。\\[\\begin{aligned} &105\\times21\\\\={}&2205\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（4）",
+          "latex": "先乘后加。\\[\\begin{aligned} &2+8\\times75\\\\={}&602\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（5）",
+          "latex": "0乘2得0。\\[\\begin{aligned} &76+0\\times2\\\\={}&76\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（6）",
+          "latex": "验算19乘37得703。\\[\\begin{aligned} &703\\div19\\\\={}&37\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（7）",
+          "latex": "用乘法分配律，把18拆成20减2，先多算2个24，再减去：\\[\\begin{aligned} &24\\times18\\\\={}&24\\times(20-2)\\\\={}&24\\times20-24\\times2\\\\={}&480-48\\\\={}&432\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（8）",
+          "latex": "按数位相加。\\[\\begin{aligned} &327+25\\\\={}&352\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（9）",
+          "latex": "先除后减。\\[\\begin{aligned} &32-8\\div4\\\\={}&30\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（10）",
+          "latex": "按减法计算。\\[\\begin{aligned} &605-37\\\\={}&568\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（1）",
+          "latex": "\\[\\begin{aligned} &(540\\div27+39)\\times17\\\\={}&(20+39)\\times17\\\\={}&59\\times17\\\\={}&1003\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（2）",
+          "latex": "\\[\\begin{aligned} &75-(416+536)\\div34\\\\={}&75-952\\div34\\\\={}&75-28\\\\={}&47\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（3）",
+          "latex": "\\[\\begin{aligned} &180\\times3+728\\div8\\\\={}&540+91\\\\={}&631\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（4）",
+          "latex": "\\[\\begin{aligned} &156\\div[480\\div(276-196)]\\\\={}&156\\div[480\\div80]\\\\={}&156\\div6\\\\={}&26\\end{aligned}\\]"
+        },
+        {
+          "kind": "application",
+          "id": "四、1（1）",
+          "latex": "方法一：速度和×时间\\par \\[\\begin{aligned} &(220+260)\\times3\\\\={}&480\\times3\\\\={}&1440\\text{（米）}\\end{aligned}\\]答：两家相距1440米。\\par 方法二：分别算两段路程\\par \\[\\begin{aligned} &220\\times3+260\\times3\\\\={}&660+780\\\\={}&1440\\text{（米）}\\end{aligned}\\]答：两家相距1440米。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、1（2）",
+          "latex": "两人同地同时同向出发，欢欢较快；路程差就是两人距离。\\par 方法一：速度差×时间\\par \\[\\begin{aligned} &(260-220)\\times5\\\\={}&40\\times5\\\\={}&200\\text{（米）}\\end{aligned}\\]答：5分钟后两人相距200米。\\par 方法二：分别求路程再相减\\par \\[\\begin{aligned} &260\\times5-220\\times5\\\\={}&1300-1100\\\\={}&200\\text{（米）}\\end{aligned}\\]答：5分钟后两人相距200米。\\par "
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            82.97,
+            617.39,
+            263.5,
+            653.54
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &(220+260)\\times3\\\\={}&480\\times3\\\\={}&1440\\text{（米）}\\end{aligned}\\)\\par 答：两家相距1440米。多解见右栏。",
+          "x": 83.57,
+          "y": 610.0,
+          "w": 440,
+          "size": 9.4
+        },
+        {
+          "rect": [
+            113.69,
+            773.13,
+            292.61,
+            783.63
+          ],
+          "latex": "逐行脱式、两种方法及答句见右栏“四、1（2）”。",
+          "x": 114.29,
+          "y": 773.73,
+          "w": 460,
+          "size": 9
+        }
+      ],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 28,
+      "columns": 1,
+      "sections": [
+        {
+          "kind": "application",
+          "id": "四、2",
+          "latex": "下午1:00是13:00；从9:00到13:00经过\\(13-9=4\\)小时。\\par 主解：速度×总时间\\par \\[\\begin{aligned} &92\\times(13-9)\\\\={}&92\\times4\\\\={}&368\\text{（千米）}\\end{aligned}\\]答：青岛到济南的距离是368千米。\\par 分段验算：按中午12时分段\\par \\[\\begin{aligned} &92\\times3+92\\times1\\\\={}&276+92\\\\={}&368\\text{（千米）}\\end{aligned}\\]答：青岛到济南的距离是368千米。\\par 两种计时都得到4小时；按上午、下午分段计算用来复核总时间，没有改变“路程＝速度×时间”这一数量关系。"
+        },
+        {
+          "kind": "application",
+          "id": "四、3",
+          "latex": "先按线段关系整理：全路长＝甲队已修长度＋乙队已修长度＋未修的820米。两队都修130天，既可先求每天合修多少米，也可分别求两队已修多少米。\\par 方法一：先合并两队每天修的长度\\par \\[\\begin{aligned} &(8+12)\\times130+820\\\\={}&20\\times130+820\\\\={}&2600+820\\\\={}&3420\\text{（米）}\\end{aligned}\\]答：这条路一共长3420米。\\par 方法二：分别求已修长度再加未修长度\\par \\[\\begin{aligned} &8\\times130+12\\times130+820\\\\={}&1040+1560+820\\\\={}&2600+820\\\\={}&3420\\text{（米）}\\end{aligned}\\]答：这条路一共长3420米。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、4",
+          "latex": "3月有31天，4、5、6月分别有30、31、30天，第2季度共91天。\\par 方法一：日销量×季度天数\\par \\[\\begin{aligned} &(248\\div31)\\times(30+31+30)\\\\={}&8\\times91\\\\={}&728\\text{（台）}\\end{aligned}\\]答：2026年第2季度能卖728台空调。\\par 按3个31天月计算会多算2天，应扣除这2天的销量。\\par 方法二：三个月按31天算再调整\\par \\[\\begin{aligned} &248\\times3-(248\\div31)\\times2\\\\={}&744-8\\times2\\\\={}&744-16\\\\={}&728\\text{（台）}\\end{aligned}\\]答：2026年第2季度能卖728台空调。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、5",
+          "latex": "方法一：比较8分钟最多能走的路程\\par \\[\\begin{aligned} &250\\times8\\\\={}&2000\\text{（米）}\\end{aligned}\\]答：按规定骑行，骑手不能准时送达。\\par 因为\\(2000<2400\\)，8分钟内最多骑行2000米，达不到2400米。\\par 方法二：比较准时送达所需的平均速度\\par \\[\\begin{aligned} &2400\\div8\\\\={}&300\\text{（米/分）}\\end{aligned}\\]答：按规定骑行，骑手不能准时送达。\\par 因为\\(300>250\\)，准时送达需要的平均速度超过题目规定。"
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            66.54,
+            103.11,
+            254.35,
+            141.51
+          ],
+          "latex": "行驶时间：\\(13-9=4\\text{（小时）}\\)。\\par\\noindent\\(\\displaystyle \\begin{aligned} &92\\times4\\\\={}&368\\text{（千米）}\\end{aligned}\\)\\par 答：两地相距368千米。其他方法见右栏。",
+          "x": 67.14,
+          "y": 103.71,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            66.54,
+            277.75,
+            296.12,
+            315.4
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &(8+12)\\times130+820\\\\={}&20\\times130+820\\\\={}&2600+820\\\\={}&3420\\text{（米）}\\end{aligned}\\)\\par 答：路长3420米。其他方法见右栏。",
+          "x": 67.14,
+          "y": 278.35,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            66.54,
+            452.99,
+            242.04,
+            490.45
+          ],
+          "latex": "第2季度共\\(30+31+30=91\\)天。\\par\\noindent\\(\\displaystyle \\begin{aligned} &(248\\div31)\\times91\\\\={}&8\\times91\\\\={}&728\\text{（台）}\\end{aligned}\\)\\par 答：能卖728台。其他方法见右栏。",
+          "x": 67.14,
+          "y": 453.59,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            66.54,
+            693.43,
+            260.23,
+            731.09
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &250\\times8\\\\={}&2000\\text{（米）}\\end{aligned}\\)\\par \\(2000<2400\\)。答：不能准时送达。\\par 另一种比较方法见右栏。",
+          "x": 67.14,
+          "y": 694.03,
+          "w": 440,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 29,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "fill",
+          "id": "一、1",
+          "latex": "用乘法分配律：\\[a\\times(b+c)=a\\times b+a\\times c.\\]四个空依次是\\(a,b,a,c\\)。括号外的\\(a\\)要分别与\\(b,c\\)相乘。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、2",
+          "latex": "竖式先算\\(45\\times2\\)，再算\\(45\\times40\\)，最后把两部分相加，运用了乘法分配律。\\[\\begin{aligned} &45\\times42\\\\={}&45\\times40+45\\times2\\\\={}&1800+90\\\\={}&1890\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3",
+          "latex": "先把99转化成不用9键输入的等值计算。\\par 输入法一：先乘100再减一份87\\par \\[\\begin{aligned} &87\\times(100-1)\\\\={}&87\\times100-87\\\\={}&8700-87\\\\={}&8613\\end{aligned}\\]按键可依次为\\(87,\\times,100,-,87,=\\)，全程不用9键。\\par 输入法二：先算88加11，再乘87\\par \\[\\begin{aligned} &(88+11)\\times87\\\\={}&99\\times87\\\\={}&8613\\end{aligned}\\]先按\\(88,+,11,=\\)，显示99；再按\\(\\times,87,=\\)。99是计算结果，不是用9键输入，因此没有括号键的普通计算器也能这样算。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（左上）",
+          "latex": "只改变结合顺序，没有交换加数：\\(98+74+26=98+(74+26)\\)。因此这里用加法结合律；两空依次填98、26。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（左中）",
+          "latex": "乘法结合律：\\(m\\times21\\times9=m\\times(21\\times9)\\)。依次填21、乘号、9。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（左下）",
+          "latex": "连续除以两个数，等于除以它们的积：\\(380\\div5\\div2=380\\div(5\\times2)\\)。依次填除号、5、乘号、2。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（右上）",
+          "latex": "减法的性质：\\(612-124-76=612-(124+76)\\)。依次填减号、124、加号、76。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（右中）",
+          "latex": "把102拆成100与2：\\(389+102=389+100+2\\)。依次填加号、100、加号、2。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4（右下）",
+          "latex": "乘法分配律：\\((a+b)\\times9=a\\times9+b\\times9\\)。三空依次填9、\\(b\\)、9。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5（左上）",
+          "latex": "填\\(>\\)。左边为\\(50\\times45=2250\\)，右边为\\(600+33=633\\)；左边的33也乘了50。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5（右上）",
+          "latex": "填\\(<\\)。左边\\(132-68-12=52\\)，右边\\(132-68+12=76\\)。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5（左中）",
+          "latex": "填\\(>\\)。左边先除8再乘6，得540；右边先除8再除6，得15。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5（右中）",
+          "latex": "填\\(=\\)。\\(32\\times20\\times8=32\\times(20\\times8)\\)，依据乘法结合律。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5（左下）",
+          "latex": "填\\(=\\)。\\(12\\times56=56\\times12\\)，依据乘法交换律。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5（右下）",
+          "latex": "填\\(>\\)。左边\\(85\\times103=8500+255\\)，右边为\\(8500+3\\)，而\\(255>3\\)。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、6",
+          "latex": "反用乘法分配律：\\[\\begin{aligned} &25\\times\\bigcirc+25\\times\\triangle\\\\={}&25\\times(\\bigcirc+\\triangle)\\\\={}&25\\times4\\\\={}&100\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、7",
+          "latex": "正确式中，6应乘8；错式中的6没有乘8。两结果相差：\\[\\begin{aligned} &8\\times6-6\\\\={}&48-6\\\\={}&42\\end{aligned}\\]"
+        }
+      ],
+      "left_patches": [],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 30,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "choice",
+          "id": "二、1",
+          "latex": "选\\(A\\)。A把32误拆成了\\(8+4\\)，实际只算了12个125。其余三式分别利用\\(32=8\\times4\\)、\\(32=30+2\\)、\\(32=40-8\\)。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、2",
+          "latex": "选\\(C\\)。连续除以2再除以5，等于除以\\(2\\times5\\)：\\[\\begin{aligned} &350\\div2\\div5\\\\={}&350\\div(2\\times5)\\\\={}&350\\div10\\\\={}&35\\end{aligned}\\]"
+        },
+        {
+          "kind": "choice",
+          "id": "二、3",
+          "latex": "选\\(D\\)。按“先把两个减数相加凑整”的命题意图，\\(256+244=500\\)，可算\\(783-500=283\\)。\\par 但本题文字存在不唯一：若允许交换两个减数的位置，选C也能用减法性质计算\\(783-256-283=(783-283)-256=244\\)。因此D是常规预期选项，C也有合理简算依据。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、4",
+          "latex": "选\\(B\\)。B图长方形的长为\\(2+3\\)，宽为\\(m\\)。整体面积是\\((2+3)\\times m\\)；分成两块，面积为\\(2\\times m+3\\times m\\)。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、5",
+          "latex": "选\\(C\\)。因为\\(14=2+4+8\\)，所以\\(23\\times14=23\\times2+23\\times4+23\\times8\\)。把一个数与和相乘改为分别相乘后相加，依据乘法分配律。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、6",
+          "latex": "选\\(C\\)。正确的是①③④，共3个。①把图形分成两个长方形；③把①按分配律合并；④先补成长方形再减去缺角。②把面积和长度相加，不能表示该图形面积。三种正确算法都得750平方米。"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（1）",
+          "latex": "两数相加凑成100。\\[\\begin{aligned} &45+55\\\\={}&100\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（2）",
+          "latex": "125与8凑1000。\\[\\begin{aligned} &125\\times8\\\\={}&1000\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（3）",
+          "latex": "先把5与4相乘得20。\\[\\begin{aligned} &5\\times7\\times4\\\\={}&140\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（4）",
+          "latex": "先把25与4相乘得100。\\[\\begin{aligned} &25\\times6\\times4\\\\={}&600\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（5）",
+          "latex": "4与25凑100。\\[\\begin{aligned} &4\\times25\\\\={}&100\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（6）",
+          "latex": "减97可先减100再加3。\\[\\begin{aligned} &123-97\\\\={}&26\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（7）",
+          "latex": "同级运算从左往右，乘4再除4相互抵消。\\[\\begin{aligned} &6\\times4\\div4\\times6\\\\={}&36\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（8）",
+          "latex": "先除后减。\\[\\begin{aligned} &130-30\\div5\\\\={}&124\\end{aligned}\\]"
+        }
+      ],
+      "left_patches": [],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 31,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "calculation",
+          "id": "三、2（1）",
+          "latex": "先把减数合并为整百数。\\[\\begin{aligned} &435-142-58\\\\={}&435-(142+58)\\\\={}&435-200\\\\={}&235\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（2）",
+          "latex": "反用乘法分配律。\\[\\begin{aligned} &68\\times67+32\\times67\\\\={}&(68+32)\\times67\\\\={}&100\\times67\\\\={}&6700\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（3）",
+          "latex": "把98看作100，减多的2要补回。\\[\\begin{aligned} &215-98\\\\={}&215-100+2\\\\={}&115+2\\\\={}&117\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（4）",
+          "latex": "把末尾99看作99乘1。\\[\\begin{aligned} &99\\times99+99\\\\={}&99\\times(99+1)\\\\={}&99\\times100\\\\={}&9900\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（5）",
+          "latex": "连续除以两数，改成除以它们的积。\\[\\begin{aligned} &3600\\div25\\div4\\\\={}&3600\\div(25\\times4)\\\\={}&3600\\div100\\\\={}&36\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（6）",
+          "latex": "把\\(32\\)分成\\(4\\times8\\)，用乘法结合律把\\(25\\)与\\(4\\)、\\(8\\)与\\(125\\)分别结合凑整。\\par \\[\\begin{aligned} &25\\times32\\times125\\\\={}&(25\\times4)\\times(8\\times125)\\\\={}&100\\times1000\\\\={}&100000\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（7）",
+          "latex": "用乘法分配律。\\[\\begin{aligned} &(25+11)\\times40\\\\={}&25\\times40+11\\times40\\\\={}&1000+440\\\\={}&1440\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（8）",
+          "latex": "先用减法的性质合并减数156和144，再用加法交换律、结合律，让357与43凑400；每个减数仍须被减去。\\par 把加数凑400、减数凑300。\\[\\begin{aligned} &357-156-144+43\\\\={}&(357+43)-(156+144)\\\\={}&400-300\\\\={}&100\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（9）",
+          "latex": "35拆成7乘5。\\[\\begin{aligned} &280\\div35\\\\={}&280\\div7\\div5\\\\={}&40\\div5\\\\={}&8\\end{aligned}\\]另一算法：\\[\\begin{aligned} &280\\div35\\\\={}&(280\\times2)\\div(35\\times2)\\\\={}&560\\div70\\\\={}&8\\end{aligned}\\]"
+        },
+        {
+          "kind": "application",
+          "id": "四、1",
+          "latex": "四天总数就是四天各自次数的和。先用运算律使计算简便，再按原顺序复核；这是同一个数量关系的两种计算次序。\\par 主解：用交换律和结合律先凑整\\par \\[\\begin{aligned} &156+195+144+205\\\\={}&(156+144)+(195+205)\\\\={}&300+400\\\\={}&700\\text{（下）}\\end{aligned}\\]答：这四天一共跳了700下。\\par 验算：按日期依次求累计数\\par \\[\\begin{aligned} &156+195+144+205\\\\={}&351+144+205\\\\={}&495+205\\\\={}&700\\text{（下）}\\end{aligned}\\]答：这四天一共跳了700下。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、2",
+          "latex": "方法一：先求每个分拣区域的台数\\par \\[\\begin{aligned} &25\\times4\\times12\\\\={}&100\\times12\\\\={}&1200\\text{（台）}\\end{aligned}\\]答：这个仓库一共有1200台分拣机器人。\\par 方法二：先求全仓库工作小组数\\par \\[\\begin{aligned} &25\\times(4\\times12)\\\\={}&25\\times48\\\\={}&1200\\text{（台）}\\end{aligned}\\]答：这个仓库一共有1200台分拣机器人。\\par "
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            80.83,
+            493.67,
+            381.92,
+            531.13
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &156+195+144+205\\\\={}&(156+144)+(195+205)\\\\={}&300+400\\\\={}&700\\text{（下）}\\end{aligned}\\)\\par 答：一共跳700下。其他方法见右栏。",
+          "x": 81.43,
+          "y": 494.27,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            80.83,
+            667.04,
+            303.74,
+            704.7
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &25\\times4\\times12\\\\={}&100\\times12\\\\={}&1200\\text{（台）}\\end{aligned}\\)\\par 答：一共有1200台。其他方法见右栏。",
+          "x": 81.43,
+          "y": 667.64,
+          "w": 440,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": [],
+      "courseware_left_patches": [],
+      "applied_courseware_left_patches": [
+        {
+          "rect": [
+            82.9,
+            358.1,
+            228.6,
+            369.9
+          ],
+          "x": 84.3,
+          "y": 358.5,
+          "w": 220,
+          "size": 9,
+          "latex": "本页简算题的完整解析见右栏。"
+        }
+      ]
+    },
+    {
+      "source_page": 32,
+      "columns": 1,
+      "sections": [
+        {
+          "kind": "application",
+          "id": "四、3",
+          "latex": "方法一：先求总支出再减\\par \\[\\begin{aligned} &1500-(665+135)\\\\={}&1500-800\\\\={}&700\\text{（元）}\\end{aligned}\\]答：还剩700元善款。\\par 方法二：按两次购买依次扣除\\par \\[\\begin{aligned} &1500-665-135\\\\={}&835-135\\\\={}&700\\text{（元）}\\end{aligned}\\]答：还剩700元善款。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、4",
+          "latex": "方法一：先求全校小队数\\par \\[\\begin{aligned} &1200\\div(4\\times25)\\\\={}&1200\\div100\\\\={}&12\\text{（名）}\\end{aligned}\\]答：平均每个小队有12名少先队员。\\par 方法二：先平均分到中队，再分到小队\\par \\[\\begin{aligned} &1200\\div25\\div4\\\\={}&48\\div4\\\\={}&12\\text{（名）}\\end{aligned}\\]答：平均每个小队有12名少先队员。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、5（1）",
+          "latex": "方法一：合作效率×天数\\par \\[\\begin{aligned} &(53+47)\\times16\\\\={}&100\\times16\\\\={}&1600\\text{（米）}\\end{aligned}\\]答：配送通道全长1600米。\\par 方法二：分别求两队修的路长\\par \\[\\begin{aligned} &53\\times16+47\\times16\\\\={}&848+752\\\\={}&1600\\text{（米）}\\end{aligned}\\]答：配送通道全长1600米。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "四、5（2）",
+          "latex": "方法一：每天多修的长度×天数\\par \\[\\begin{aligned} &(53-47)\\times16\\\\={}&6\\times16\\\\={}&96\\text{（米）}\\end{aligned}\\]答：甲队比乙队多修96米。\\par 方法二：两队已修长度相减\\par \\[\\begin{aligned} &53\\times16-47\\times16\\\\={}&848-752\\\\={}&96\\text{（米）}\\end{aligned}\\]答：甲队比乙队多修96米。\\par "
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            80.83,
+            128.46,
+            341.92,
+            166.12
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &1500-(665+135)\\\\={}&1500-800\\\\={}&700\\text{（元）}\\end{aligned}\\)\\par 答：还剩700元。其他方法见右栏。",
+          "x": 81.43,
+          "y": 129.06,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            80.83,
+            324.89,
+            320.11,
+            362.54
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &1200\\div(4\\times25)\\\\={}&1200\\div100\\\\={}&12\\text{（名）}\\end{aligned}\\)\\par 答：每个小队12名。其他方法见右栏。",
+          "x": 81.43,
+          "y": 325.49,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            80.83,
+            524.89,
+            335.86,
+            562.55
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &(53+47)\\times16\\\\={}&100\\times16\\\\={}&1600\\text{（米）}\\end{aligned}\\)\\par 答：全长1600米。其他方法见右栏。",
+          "x": 81.43,
+          "y": 525.49,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            80.83,
+            654.18,
+            324.95,
+            691.84
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &(53-47)\\times16\\\\={}&6\\times16\\\\={}&96\\text{（米）}\\end{aligned}\\)\\par 答：甲队多修96米。其他方法见右栏。",
+          "x": 81.43,
+          "y": 654.78,
+          "w": 440,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 33,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "fill",
+          "id": "一、1",
+          "latex": "第二、三箱可以先凑整：\\(164+536=700\\)。再加第一箱277件。综合算式为：\\[\\begin{aligned} &277+(164+536)\\\\={}&277+700\\\\={}&977\\text{（件）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、2",
+          "latex": "先算\\(125\\times8=1000\\)和\\(5\\times20=100\\)，再算\\(1000\\times100\\)。交换因数位置，用乘法交换律；改变结合顺序，用乘法结合律。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3（左上）",
+          "latex": "填\\(=\\)。把260变为26、48变为480，一个因数缩小10倍，另一个扩大10倍，积不变，均为12480。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3（右上）",
+          "latex": "填\\(>\\)。\\(301\\times24=300\\times24+24\\)，比\\(300\\times24+1\\)多23。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3（左中）",
+          "latex": "填\\(=\\)。\\(145-18-82=145-(18+82)=45\\)，依据减法的性质。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3（右中）",
+          "latex": "填\\(<\\)。左边\\(50\\times(33-13)=1000\\)，右边\\(50\\times33-13=1637\\)。左边减的是13个50，右边只减13。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3（左下）",
+          "latex": "填\\(=\\)。\\((13+4)\\times6=13\\times6+4\\times6\\)，用乘法分配律，两边均为102。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3（右下）",
+          "latex": "填\\(<\\)。左边\\(50\\div(2\\times5)=5\\)，右边\\(50\\div2\\times5=125\\)。除以积应写成连续除，不能改成乘。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4",
+          "latex": "每人2个气球，每方队25人，共8个方队：\\[\\begin{aligned} &2\\times25\\times8\\\\={}&50\\times8\\\\={}&400\\text{（个）}\\end{aligned}\\]还可先求总人数\\(25\\times8=200\\text{（人）}\\)，再求\\(2\\times200=400\\text{（个）}\\)。两条路径分别先求“每方队所需气球数”和“全体人数”，都遵循每份数×份数。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5",
+          "latex": "把98行看作100行再去掉2行，运用乘法分配律：\\[\\begin{aligned} &18\\times(100-2)\\\\={}&18\\times100-18\\times2\\\\={}&1800-36\\\\={}&1764\\text{（棵）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、6（1）上半",
+          "latex": "把67拆成66加1：\\(181\\times67=181\\times(66+1)=181\\times66+181\\times1\\)。两空填66、181。"
+        }
+      ],
+      "left_patches": [],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 34,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "fill",
+          "id": "一、6（1）下半",
+          "latex": "把182拆成181加1：\\(182\\times66=(181+1)\\times66=181\\times66+1\\times66\\)。两空填181、66。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、6（1）比较及规律",
+          "latex": "两式都有\\(181\\times66\\)这一部分；左式另加181，右式另加66，所以填\\(>\\)，左边多\\(181-66=115\\)。对于和相同的两个正数，两个数之间的差越小，积越大。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、6（2）",
+          "latex": "填\\(<\\)。两组因数的和都为12025，右式两因数的差更小。也可比较共同部分：左边等于\\(9998\\times2026+2026\\)，右边等于\\(9998\\times2026+9998\\)；右边比左边多7972。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、7（例式）",
+          "latex": "例如\\((6+3)\\div3=6\\div3+3\\div3\\)。左边先求和再除3；右边分别除以3再相加，结果都是3。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、7（字母规律）",
+          "latex": "\\[(a+b)\\div c=a\\div c+b\\div c\\quad(c\\ne0).\\]共同的除数必须不为0。这里是和作被除数，不能把除数的和随意拆开。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、1",
+          "latex": "选\\(D\\)。\\(99=100-1\\)，所以\\(53\\times99=53\\times(100-1)=53\\times100-53\\times1\\)，用了乘法分配律。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、2",
+          "latex": "选\\(C\\)。\\(27\\times99=27\\times(100-1)=27\\times100-27\\)。少乘1个27，应减27。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、3",
+          "latex": "选\\(D\\)。由乘法结合律，\\((a\\times b)\\times18=216\\)，故\\(a\\times b=216\\div18=12\\)。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、4",
+          "latex": "选\\(A\\)。第二个加数由6变为9，多了3；先与5相乘，结果增加\\(5\\times(9-6)=15\\)。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、5",
+          "latex": "选\\(D\\)。\\(15+24\\)是种西红柿和白菜区域的总宽，32是共同的长，所以求这两块区域的总面积，得\\(39\\times32=1248\\)平方米。豆角区域的宽为20，不在式中。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、6",
+          "latex": "选\\(B\\)。②把长为\\(6+4\\)、宽为3的长方形分成两块；③每排有6个和4个圆，共3排。两图都能表示\\(6\\times3+4\\times3=(6+4)\\times3\\)，均为30。①只是三段长度相加；④书和笔的数量并不都为3。"
+        }
+      ],
+      "left_patches": [],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 35,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "calculation",
+          "id": "三、1（1）",
+          "latex": "两数凑整百。\\[\\begin{aligned} &28+172\\\\={}&200\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（2）",
+          "latex": "两个减数先凑100；原题得36。\\[\\begin{aligned} &136-45-55\\\\={}&136-(45+55)\\\\={}&136-100\\\\={}&36\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（3）",
+          "latex": "连续除可合并除数。\\[\\begin{aligned} &200\\div25\\div2\\\\={}&200\\div(25\\times2)\\\\={}&200\\div50\\\\={}&4\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（4）",
+          "latex": "乘除同级，从左往右。\\[\\begin{aligned} &160\\div2\\times5\\\\={}&80\\times5\\\\={}&400\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（5）",
+          "latex": "把101拆成100和1。\\[\\begin{aligned} &101\\times12\\\\={}&(100+1)\\times12\\\\={}&1200+12\\\\={}&1212\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（6）",
+          "latex": "先让139减去39。\\[\\begin{aligned} &139+65-39\\\\={}&(139-39)+65\\\\={}&100+65\\\\={}&165\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（7）",
+          "latex": "把后面的37看成37乘1。\\[\\begin{aligned} &37\\times99+37\\\\={}&37\\times(99+1)\\\\={}&37\\times100\\\\={}&3700\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、1（8）",
+          "latex": "从左往右；不能把末尾的乘5误看成除5。\\[\\begin{aligned} &8\\times5\\div8\\times5\\\\={}&40\\div8\\times5\\\\={}&5\\times5\\\\={}&25\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（1）",
+          "latex": "交换、结合，分别凑整百。\\[\\begin{aligned} &138+293+62+107\\\\={}&(138+62)+(293+107)\\\\={}&200+400\\\\={}&600\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（2）",
+          "latex": "先合并两个减数。\\[\\begin{aligned} &574-189-211\\\\={}&574-(189+211)\\\\={}&574-400\\\\={}&174\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（3）",
+          "latex": "分配律使25乘8先凑200。\\[\\begin{aligned} &(25+7)\\times8\\\\={}&25\\times8+7\\times8\\\\={}&200+56\\\\={}&256\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（4）",
+          "latex": "交换57与40的位置，用乘法交换律；先把250与40结合，用乘法结合律。\\par 先把250与40凑成10000。\\[\\begin{aligned} &250\\times57\\times40\\\\={}&(250\\times40)\\times57\\\\={}&10000\\times57\\\\={}&570000\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（5）",
+          "latex": "连续除以两数，等于除以它们的积。\\[\\begin{aligned} &720\\div16\\div5\\\\={}&720\\div(16\\times5)\\\\={}&720\\div80\\\\={}&9\\end{aligned}\\]"
+        },
+        {
+          "kind": "calculation",
+          "id": "三、2（6）",
+          "latex": "把102拆成100和2，用分配律。\\[\\begin{aligned} &45\\times102\\\\={}&45\\times(100+2)\\\\={}&45\\times100+45\\times2\\\\={}&4500+90\\\\={}&4590\\end{aligned}\\]"
+        },
+        {
+          "kind": "drawing",
+          "id": "四、操作",
+          "latex": "用植树情境解释原图：芍药每行12棵、种9行，牡丹每行8棵、也种9行。\\par 分别数：先求两种花各有多少棵，再相加，列\\(12\\times9+8\\times9\\)。合并数：两种花每行合起来\\(12+8\\)棵，共9行，列\\((12+8)\\times9\\)。\\par 示意图的两块长方形分别对应\\(12\\times9\\)和\\(8\\times9\\)，高相同，合并后对应\\((12+8)\\times9\\)；图中未逐个画出小格。分别求两块面积再相加，或先合并宽再求整体面积，结果相同：\\[12\\times9+8\\times9=(12+8)\\times9=180.\\]这说明乘法分配律：和里的每个加数都要与括号外的9相乘。"
+        },
+        {
+          "kind": "application",
+          "id": "五、1",
+          "latex": "全书页数＝第一天已看＋第二天已看＋还未看。先用运算律凑整，再按阅读进度复核。\\par 主解：把178和122凑成300\\par \\[\\begin{aligned} &178+63+122\\\\={}&(178+122)+63\\\\={}&300+63\\\\={}&363\\text{（页）}\\end{aligned}\\]答：这本故事书一共有363页。\\par 验算：先合计已看页数，再加未看页数\\par \\[\\begin{aligned} &178+63+122\\\\={}&241+122\\\\={}&363\\text{（页）}\\end{aligned}\\]答：这本故事书一共有363页。\\par 回代检验：\\(363-178-63=122\\text{（页）}\\)，与剩余页数相符。"
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            81.54,
+            672.24,
+            320.82,
+            709.7
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &178+63+122\\\\={}&(178+122)+63\\\\={}&300+63\\\\={}&363\\text{（页）}\\end{aligned}\\)\\par 答：一共363页。其他方法见右栏。",
+          "x": 82.14,
+          "y": 672.84,
+          "w": 440,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": [],
+      "courseware_left_patches": [],
+      "applied_courseware_left_patches": [
+        {
+          "rect": [
+            85.0,
+            378.8,
+            230.8,
+            390.6
+          ],
+          "x": 86.4,
+          "y": 379.2,
+          "w": 220,
+          "size": 9,
+          "latex": "本页简算题的完整解析见右栏。"
+        }
+      ]
+    },
+    {
+      "source_page": 36,
+      "columns": 1,
+      "sections": [
+        {
+          "kind": "application",
+          "id": "五、2",
+          "latex": "方法一：先配成每组一件摆件和一件挂件\\par \\[\\begin{aligned} &(58+42)\\times120\\\\={}&100\\times120\\\\={}&12000\\text{（元）}\\end{aligned}\\]答：这些摆件和挂件一共卖了12000元。\\par 方法二：分别求两类物品收入\\par \\[\\begin{aligned} &58\\times120+42\\times120\\\\={}&6960+5040\\\\={}&12000\\text{（元）}\\end{aligned}\\]答：这些摆件和挂件一共卖了12000元。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "五、3（1）",
+          "latex": "方法一：先算每箱多少本\\par \\[\\begin{aligned} &4\\times25\\times12\\\\={}&100\\times12\\\\={}&1200\\text{（本）}\\end{aligned}\\]答：一共采购了1200本图书。\\par 方法二：先算共有多少套\\par \\[\\begin{aligned} &4\\times(25\\times12)\\\\={}&4\\times300\\\\={}&1200\\text{（本）}\\end{aligned}\\]答：一共采购了1200本图书。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "五、3（2）",
+          "latex": "方法一：先求总小组数\\par \\[\\begin{aligned} &1200\\div(8\\times15)\\\\={}&1200\\div120\\\\={}&10\\text{（本）}\\end{aligned}\\]答：平均每个读书小组分到10本图书。\\par 方法二：先平均分到班，再分到组\\par \\[\\begin{aligned} &1200\\div15\\div8\\\\={}&80\\div8\\\\={}&10\\text{（本）}\\end{aligned}\\]答：平均每个读书小组分到10本图书。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "五、4",
+          "latex": "图中上方左块宽18米、高19米；下方横条长41米、高18米。\\par 方法一：横向分成两个长方形\\par \\[\\begin{aligned} &41\\times18+18\\times19\\\\={}&738+342\\\\={}&1080\\text{（平方米）}\\end{aligned}\\]答：劳动试验田的面积是1080平方米。\\par 方法二：纵向分成两个长方形\\par \\[\\begin{aligned} &18\\times(19+18)+(41-18)\\times18\\\\={}&18\\times37+23\\times18\\\\={}&666+414\\\\={}&1080\\text{（平方米）}\\end{aligned}\\]答：劳动试验田的面积是1080平方米。\\par 方法三：补成大长方形后减去缺角\\par \\[\\begin{aligned} &41\\times(19+18)-(41-18)\\times19\\\\={}&41\\times37-23\\times19\\\\={}&1517-437\\\\={}&1080\\text{（平方米）}\\end{aligned}\\]答：劳动试验田的面积是1080平方米。\\par 横向分割式的简算：用乘法分配律提取18\\par \\[\\begin{aligned} &18\\times19+41\\times18\\\\={}&18\\times(19+41)\\\\={}&18\\times60\\\\={}&1080\\text{（平方米）}\\end{aligned}\\]答：劳动试验田的面积是1080平方米。\\par 前三种是不同的几何分割或补形路径；最后一式是横向分割算式的进一步简算，不另算一种几何方法。"
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            66.54,
+            126.31,
+            348.85,
+            163.97
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &(58+42)\\times120\\\\={}&100\\times120\\\\={}&12000\\text{（元）}\\end{aligned}\\)\\par 答：一共卖12000元。其他方法见右栏。",
+          "x": 67.14,
+          "y": 126.91,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            66.54,
+            297.04,
+            289.45,
+            334.69
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &4\\times25\\times12\\\\={}&100\\times12\\\\={}&1200\\text{（本）}\\end{aligned}\\)\\par 答：一共1200本。其他方法见右栏。",
+          "x": 67.14,
+          "y": 297.64,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            66.54,
+            453.47,
+            305.82,
+            491.12
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &1200\\div(8\\times15)\\\\={}&1200\\div120\\\\={}&10\\text{（本）}\\end{aligned}\\)\\par 答：每组分10本。其他方法见右栏。",
+          "x": 67.14,
+          "y": 454.07,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            66.54,
+            611.34,
+            286.92,
+            697.76
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &41\\times18+18\\times19\\\\={}&738+342\\\\={}&1080\\text{（平方米）}\\end{aligned}\\)\\par 答：面积1080平方米。\\par 其余分割、补形方法见右栏。",
+          "x": 67.14,
+          "y": 611.94,
+          "w": 300,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 37,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "fill",
+          "id": "一、1（锐角）",
+          "latex": "填2。三角形内角和180度，若有两个角都不小于90度，第三角就不可能大于0度。因此每个三角形至少有两个锐角。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、1（钝角）",
+          "latex": "填1。一个钝角已大于90度，不可能再有第二个钝角；如100度、40度、40度的三角形有1个钝角。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、2（内角和）",
+          "latex": "填\\(180^\\circ\\)。任何三角形的三个内角加起来都等于180度。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、2（三边关系）",
+          "latex": "填“大于”。三角形任意两边长度之和严格大于第三边；两边之和等于第三边时只能排成一条线。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、3",
+          "latex": "填“直角梯形”。梯形两底平行，一腰垂直两底，就有两个直角。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、4",
+          "latex": "填“直角”。切开后每个梯形都保留长方形的两个相邻直角，所以都为直角梯形。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5（三角形）",
+          "latex": "填6厘米。虚线高8厘米与标有6厘米的边垂直，因此这条高对应的底是6厘米那条边，不是水平的9厘米边。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、5（平行四边形）",
+          "latex": "填4厘米。\\(AB\\)是斜边，应找与\\(AB\\)垂直并通向对边的线段，图中为4厘米；3厘米是另一组底所对应的高。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、6（等腰三角形）",
+          "latex": "底角相等，两个底角各为：\\[\\begin{aligned} &(180^\\circ-60^\\circ)\\div2\\\\={}&120^\\circ\\div2\\\\={}&60^\\circ\\end{aligned}\\]三个角都是60度，按角分是锐角三角形；同时它也是等边三角形。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、6（直角三角形）",
+          "latex": "另一个锐角为\\(180^\\circ-90^\\circ-45^\\circ=45^\\circ\\)。两个锐角相等，对边也相等，所以也是等腰三角形。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、7",
+          "latex": "平行四边形两组对边分别相等，周长为：\\[\\begin{aligned} &(5+3)\\times2\\\\={}&8\\times2\\\\={}&16\\text{（厘米）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "fill",
+          "id": "一、8",
+          "latex": "若两腰都是4厘米，则\\(4+4<9\\)，不能成三角形。因此腰应为9厘米，底为4厘米：\\[\\begin{aligned} &9\\times2+4\\\\={}&18+4\\\\={}&22\\text{（厘米）}\\end{aligned}\\]还要检查保留的4、9、9能否成三角形：两条短边4与9之和大于最长边9，所以这个分支确实成立。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、9（答案接下页）",
+          "latex": "填“锐角”。用180度减去那两个锐角的和；因为它们的和超过90度，余下的第三角便小于90度。原有两个角已经是锐角，因此三个角全是锐角。"
+        }
+      ],
+      "left_patches": [],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 38,
+      "columns": 2,
+      "sections": [
+        {
+          "kind": "fill",
+          "id": "一、9（接上页）",
+          "latex": "填“锐角”。两个已知角为锐角，且它们之和大于90度，余下的第三角小于90度，所以是锐角三角形。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、10（80度是顶角）",
+          "latex": "\\[\\begin{aligned} &(180^\\circ-80^\\circ)\\div2\\\\={}&100^\\circ\\div2\\\\={}&50^\\circ\\end{aligned}\\]另两个角为50度、50度。"
+        },
+        {
+          "kind": "fill",
+          "id": "一、10（80度是底角）",
+          "latex": "\\[\\begin{aligned} &180^\\circ-80^\\circ\\times2\\\\={}&180^\\circ-160^\\circ\\\\={}&20^\\circ\\end{aligned}\\]另两个角为80度、20度。这两类情形都要列出。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、1",
+          "latex": "选\\(C\\)。升降台由平行四边形组成，活动连接可改变角度和高度，应用了平行四边形易变形的特性。三角形支架的特点是稳定。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、2",
+          "latex": "选\\(C\\)。周长减底长后剩两腰总长，两腰相等：\\[\\begin{aligned} &(48-12)\\div2\\\\={}&36\\div2\\\\={}&18\\text{（厘米）}\\end{aligned}\\]"
+        },
+        {
+          "kind": "choice",
+          "id": "二、3",
+          "latex": "选\\(A\\)。第三角为\\(180^\\circ-70^\\circ-70^\\circ=40^\\circ\\)。两个70度角相等，所以等腰；三个角都小于90度，所以锐角。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、4",
+          "latex": "连一条对角线，把四边形分成两个三角形，所以它的内角和为\\(180^\\circ\\times2=360^\\circ\\)。\\par 选\\(D\\)。四边形内角和为360度：\\[\\begin{aligned} &360^\\circ-110^\\circ-110^\\circ-50^\\circ\\\\={}&360^\\circ-270^\\circ\\\\={}&90^\\circ\\end{aligned}\\]"
+        },
+        {
+          "kind": "choice",
+          "id": "二、5",
+          "latex": "选\\(B\\)。从一个顶点，分别向两条对边所在直线作垂线，各有一条高，共2条。垂足在边的延长线上时，高仍然存在。"
+        },
+        {
+          "kind": "choice",
+          "id": "二、6",
+          "latex": "选\\(A\\)。拉动过程中四条边的长度不变，只改变角度和形状；周长是四边长度之和，因而不变。"
+        },
+        {
+          "kind": "judgment",
+          "id": "三、1",
+          "latex": "错误。能拼成平行四边形的两个三角形需要完全一样。“任意两个”没有这个条件；两个大小、形状不同的三角形通常不能拼成平行四边形。"
+        },
+        {
+          "kind": "judgment",
+          "id": "三、2",
+          "latex": "错误。例如30度、30度、120度的三角形有两个锐角，却是钝角三角形；45度、45度、90度也构成反例。"
+        },
+        {
+          "kind": "judgment",
+          "id": "三、3",
+          "latex": "正确。把两个完全一样的梯形中的一个旋转180度，沿对应的一条腰拼合，可以组成两组对边分别平行的四边形。"
+        }
+      ],
+      "left_patches": [],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 39,
+      "columns": 1,
+      "sections": [
+        {
+          "kind": "judgment",
+          "id": "三、4",
+          "latex": "错误。每个三角形都有3条高，分别对应3条边。直角三角形两条直角边本身也是高；钝角三角形有的高位于三角形外部。"
+        },
+        {
+          "kind": "drawing",
+          "id": "四、1（平行四边形）",
+          "latex": "先认准标有“底”的边。把三角尺的一条直角边靠住底边所在直线，沿直尺平移三角尺，让另一条直角边经过左上顶点，再从顶点画到垂足。高的两端应落在两条平行线上，垂足处标直角。\\par 也可从对边的其他点作垂线段；同一底上的高都相等。"
+        },
+        {
+          "kind": "drawing",
+          "id": "四、1（三角形）",
+          "latex": "先找到标“底”的上方斜边，再找它的对顶点。把三角尺的一条直角边靠住这条底边所在直线，平移到另一条直角边经过该顶点，沿尺边画至垂足并标直角。\\par 顶点与垂足之间的线段才是这条底上的高；方向由垂直关系决定。本图垂足落在斜边内部。"
+        },
+        {
+          "kind": "drawing",
+          "id": "四、2（1）",
+          "latex": "看原图①：选一条横跨3小格的线段作底，再在相隔2行的横线上画同样长、同向平移后的另一条边；连接相应端点，使两组对边分别平行。\\par 两底间的垂直距离为2格，所以底长3厘米、高2厘米。应数两点之间的间隔，不把4个格点误当成4厘米。"
+        },
+        {
+          "kind": "drawing",
+          "id": "四、2（2）",
+          "latex": "看原图②：上底横跨2格，下底横跨6格，上下底所在横线相隔4格；上底居中放置，使左右两端都向外伸2格。\\par 两底平行、两腰对应伸展的格数相同，所以两腰相等，是等腰梯形；底之间的垂直距离为4厘米。"
+        },
+        {
+          "kind": "drawing",
+          "id": "四、2（3）",
+          "latex": "看原图③：底边横跨3格。第三个顶点选在与底所在横线相隔3行、位于底边右端外侧上方的格点，再连接两端点。\\par 从该顶点向底所在横线作垂线，高落在底边向右的延长线上，长度为3格；底边右端的内角是钝角，符合“底和高都是3厘米的钝角三角形”。"
+        },
+        {
+          "kind": "drawing",
+          "id": "四、3",
+          "latex": "先用圆规直接截取线段AB的长度，随后保持圆规两脚间距不变；直尺用于连接点。\\par 以\\(A\\)为圆心、\\(AB=3\\)厘米为半径画弧；再以\\(B\\)为圆心、同样半径画弧，两弧交于\\(C\\)。连接\\(AC,BC\\)。因为\\(AC=AB=BC=3\\)厘米，得到等边三角形。必须保留两段相交圆弧；弧的交点就是三角形顶点。"
+        },
+        {
+          "kind": "application",
+          "id": "五、1",
+          "latex": "所缺角＝180度－另外两个已知内角的和。\\par 主解：从内角和依次减去两个已知角\\par \\[\\begin{aligned} &180^\\circ-46^\\circ-67^\\circ\\\\={}&134^\\circ-67^\\circ\\\\={}&67^\\circ\\end{aligned}\\]答：破碎角的度数是67度。\\par 同一思路的合并计算：先求两个已知角的和\\par \\[\\begin{aligned} &180^\\circ-(46^\\circ+67^\\circ)\\\\={}&180^\\circ-113^\\circ\\\\={}&67^\\circ\\end{aligned}\\]答：破碎角的度数是67度。\\par 检验：\\(46^\\circ+67^\\circ+67^\\circ=180^\\circ\\)。"
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            80.11,
+            675.24,
+            206.54,
+            701.34
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &180^\\circ-46^\\circ-67^\\circ\\\\={}&134^\\circ-67^\\circ\\\\={}&67^\\circ\\end{aligned}\\)\\par 答：破碎角是67度。其他算法见右栏。",
+          "x": 80.71,
+          "y": 675.84,
+          "w": 370,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": []
+    },
+    {
+      "source_page": 40,
+      "columns": 1,
+      "sections": [
+        {
+          "kind": "application",
+          "id": "五、2",
+          "latex": "直角三角形的两个锐角和是90度。把较小角看作1份，较大角就是4份，共5份。\\par 方法一：先求每份，再求4份\\par \\[\\begin{aligned} &90^\\circ\\div(1+4)\\times4\\\\={}&90^\\circ\\div5\\times4\\\\={}&18^\\circ\\times4\\\\={}&72^\\circ\\end{aligned}\\]答：较大的锐角是72度。\\par 方法二：用90度减去较小角\\par \\[\\begin{aligned} &90^\\circ-90^\\circ\\div(1+4)\\\\={}&90^\\circ-18^\\circ\\\\={}&72^\\circ\\end{aligned}\\]答：较大的锐角是72度。\\par "
+        },
+        {
+          "kind": "application",
+          "id": "五、3",
+          "latex": "等腰梯形两腰各长26厘米。周长＝上底＋下底＋两腰之和，所以先扣除两腰和上底才能得到下底。\\par 等腰梯形两条腰相等；每条腰26厘米，上底13厘米。\\par 主解：从周长减去两腰和上底\\par \\[\\begin{aligned} &81-26\\times2-13\\\\={}&81-52-13\\\\={}&29-13\\\\={}&16\\text{（厘米）}\\end{aligned}\\]答：展示牌的下底长16厘米。\\par 同一周长关系的合并计算：先合计已知三边\\par \\[\\begin{aligned} &81-(26\\times2+13)\\\\={}&81-(52+13)\\\\={}&81-65\\\\={}&16\\text{（厘米）}\\end{aligned}\\]答：展示牌的下底长16厘米。\\par 检验：\\(13+16+26\\times2=81\\text{（厘米）}\\)，与周长相符。"
+        },
+        {
+          "kind": "application",
+          "id": "六、动脑筋",
+          "latex": "\\textbf{共同准备：把五边形转化为三个三角形}\\par 从同一个顶点向两个不相邻的顶点各连一条对角线，把五边形分成3个三角形。每个三角形内角和180度，把总和平均分给5个相等的内角。\\par \\[\\begin{aligned} &180^\\circ\\times3\\div5\\\\={}&540^\\circ\\div5\\\\={}&108^\\circ\\end{aligned}\\]在\\(\\triangle ABC\\)中，\\(\\angle1=\\angle2\\)，而\\(\\angle B=108^\\circ\\)，故：\\[\\begin{aligned} &(180^\\circ-108^\\circ)\\div2\\\\={}&72^\\circ\\div2\\\\={}&36^\\circ\\end{aligned}\\]同理，\\(\\angle3=\\angle4=36^\\circ\\)。\\par 方法一：从A点整个内角中减去两侧小角\\par \\[\\begin{aligned} &\\angle5=108^\\circ-36^\\circ-36^\\circ\\\\={}&72^\\circ-36^\\circ\\\\={}&36^\\circ\\end{aligned}\\]答：\\(\\angle5=36^\\circ\\)。\\par \\(\\triangle ACD\\)在C、D处的角分别为\\(108^\\circ-36^\\circ=72^\\circ\\)。\\par 方法二：改看中间的三角形ACD\\par \\[\\begin{aligned} &\\angle5=180^\\circ-72^\\circ-72^\\circ\\\\={}&108^\\circ-72^\\circ\\\\={}&36^\\circ\\end{aligned}\\]答：\\(\\angle5=36^\\circ\\)。\\par 检验：A点三个小角\\(36^\\circ+36^\\circ+36^\\circ=108^\\circ\\)，与正五边形每个内角相符。"
+        }
+      ],
+      "left_patches": [
+        {
+          "rect": [
+            67.26,
+            130.76,
+            263.59,
+            180.99
+          ],
+          "latex": "两个锐角共90度，份数比为1:4。\\par\\noindent\\(\\displaystyle \\begin{aligned} &90^\\circ\\div(1+4)\\times4\\\\={}&18^\\circ\\times4\\\\={}&72^\\circ\\end{aligned}\\)\\par 答：较大锐角72度。其他方法见右栏。",
+          "x": 67.86,
+          "y": 131.36,
+          "w": 440,
+          "size": 10
+        },
+        {
+          "rect": [
+            67.26,
+            325.65,
+            249.14,
+            363.3
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &81-26\\times2-13\\\\={}&81-52-13\\\\={}&29-13\\\\={}&16\\text{（厘米）}\\end{aligned}\\)\\par 答：下底长16厘米。其他算法见右栏。",
+          "x": 67.86,
+          "y": 326.25,
+          "w": 330,
+          "size": 10
+        },
+        {
+          "rect": [
+            66.54,
+            537.75,
+            232.58,
+            587.78
+          ],
+          "latex": "每个内角：\\par\\noindent\\(\\displaystyle \\begin{aligned} &(5-2)\\times180^\\circ\\div5\\\\={}&540^\\circ\\div5\\\\={}&108^\\circ\\end{aligned}\\)\\par 两侧三角形中，相等的小角均为36度。详解见右栏。",
+          "x": 67.14,
+          "y": 538.35,
+          "w": 320,
+          "size": 10
+        },
+        {
+          "rect": [
+            67.26,
+            676.94,
+            309.58,
+            728.69
+          ],
+          "latex": "\\par\\noindent\\(\\displaystyle \\begin{aligned} &108^\\circ-36^\\circ-36^\\circ\\\\={}&72^\\circ-36^\\circ\\\\={}&36^\\circ\\end{aligned}\\)\\par 答：\\(\\angle5=36^\\circ\\)。另一方法见右栏。",
+          "x": 67.86,
+          "y": 677.54,
+          "w": 440,
+          "size": 10
+        }
+      ],
+      "geometry_fixes": []
+    }
+  ]
+}

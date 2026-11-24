@@ -1,0 +1,449 @@
+{
+  "book_page": 26,
+  "source_page": 30,
+  "title": "",
+  "records": [
+    {
+      "key": "p026_s01",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 0,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "计算\\(32\\times125\\)，下面（    ）中计算方法是错误的。",
+      "options": [
+        "A.\\(125\\times8+125\\times4\\)",
+        "B.\\(125\\times8\\times4\\)",
+        "C.\\(125\\times30+125\\times2\\)",
+        "D.\\(125\\times40-125\\times8\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(A\\)。A把32误拆成了\\(8+4\\)，实际只算了12个125。其余三式分别利用\\(32=8\\times4\\)、\\(32=30+2\\)、\\(32=40-8\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "A只算125×12，不是125×32，A错；B/C/D均4000。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s02",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 1,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "下面的算式中，正确的是（    ）。",
+      "options": [
+        "A.\\(54\\times13+7=54\\times(13+7)\\)",
+        "B.\\(99\\times16=100\\times16-1\\)",
+        "C.\\(350\\div2\\div5=350\\div(2\\times5)\\)",
+        "D.\\(45\\times36=63\\times54\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(C\\)。连续除以2再除以5，等于除以\\(2\\times5\\)：\\[\\begin{aligned} &350\\div2\\div5\\\\={}&350\\div(2\\times5)\\\\={}&350\\div10\\\\={}&35\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "A未给7乘54，B应减16，D不等；C连除性质正确。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s03",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 2,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "算式“\\(783-256-\\square\\)”可以用减法的性质进行简算，则方框表示的数是（    ）。",
+      "options": [
+        "A.117",
+        "B.256",
+        "C.283",
+        "D.244"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{C、D都能简便计算，本题答案不唯一。}\\par 选\\(D\\)时，先把两个减数相加凑整，运用减法的性质：\\[\\begin{aligned}&783-256-244\\\\&=783-(256+244)\\\\&=783-500\\\\&=283\\end{aligned}\\]\\par 选\\(C\\)时，交换两个减数的位置，先减去\\(283\\)凑整，运用减法的性质：\\[\\begin{aligned}&783-256-283\\\\&=783-283-256\\\\&=500-256\\\\&=244\\end{aligned}\\]\\par 两种方法都先凑出\\(500\\)，都符合小学简便计算要求。题干没有限定必须先把两个减数相加，因此不能只选\\(D\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "D使256+244凑500；C使783−283凑500，两种都运用减法性质且真正凑整，C、D均成立。",
+        "changes": [
+          "原页旧红D更正为C、D，新增本题非唯一短注；解析分别完整脱式计算。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": [],
+        "left_patch": {
+          "rect": [
+            495.0,
+            228.5,
+            519.0,
+            241.0
+          ],
+          "old": "D",
+          "old_bbox": [
+            506.4599609375,
+            228.766845703125,
+            513.9278564453125,
+            239.728515625
+          ],
+          "new_latex": "\\(\\mathrm C\\text{、}\\mathrm D\\)",
+          "size": 9,
+          "note": "595×841原页坐标。矩形含旧红D并扩展至原括号内留白，保留黑色扫描括号。"
+        },
+        "additional_left_patches": [
+          {
+            "rect": [
+              320.0,
+              269.0,
+              530.0,
+              280.0
+            ],
+            "old": "",
+            "new_latex": "本题非唯一：C、D均可简算，见解析。",
+            "size": 8,
+            "note": "选项下方、下一题题干上方的白隙旁注；不改其他题。"
+          }
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s04",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 3,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "以下选项（    ）的画图方式，可以说明\\((2+3)\\times m=2\\times m+3\\times m\\)。",
+      "options": [
+        "A.线段图",
+        "B.分割长方形面积图",
+        "C.文具总价图",
+        "D.两个长方形宽均m、高5的图"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=.9cm,y=.9cm]\n\\node[left]at(0,2){A.};\\draw[->](0,2)--(3.5,2);\\foreach \\x in {0,1,2.5}{\\fill(\\x,2)circle(1.2pt);}\\node[above]at(.5,2){2};\\node[above]at(1.75,2){3};\\node[above]at(3,2){$m$};\n\\node[left]at(5,2){B.};\\draw(5,1.6)rectangle(7.5,2.4);\\draw(6,1.6)--(6,2.4);\\node[above]at(5.5,2.4){2};\\node[above]at(6.75,2.4){3};\\node[right]at(7.5,2){$m$};\n\\node[left]at(0,0){C.};\\draw(.2,.35)--(.4,1.1);\\draw(.8,.35)--(1,1.1);\\node at(1.3,.2){每支铅笔2元};\\foreach \\x in {.2,.8,1.4}{\\draw(\\x,-.3)rectangle++(.4,.2);}\\node at(1.3,-.6){每块橡皮3元};\\node at(1.3,-1.05){一共$m$元};\n\\node[left]at(5,0){D.};\\draw(5,-.3)rectangle(7,.5);\\draw(6,-.3)--(6,.5);\\node[below]at(5.5,-.3){$m$};\\node[below]at(6.5,-.3){$m$};\\node[right]at(7,.1){5};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "四个选项图保留原来的2、3、m、5标注及单位含义。",
+          "name": "p026_s04_g1"
+        }
+      ],
+      "answer_latex": "选\\(B\\)。B图长方形的长为\\(2+3\\)，宽为\\(m\\)。整体面积是\\((2+3)\\times m\\)；分成两块，面积为\\(2\\times m+3\\times m\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "B总长2+3宽m，分割为2×m和3×m两块，正确说明分配律。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s05",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 4,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "在古埃及，人们采用“双倍法”计算乘法。如计算\\(23\\times14\\)的过程：\\(23\\times2=46\\)，\\(23\\times4=92\\)，\\(23\\times8=184\\)，\\(23\\times14=46+92+184=322\\)。实际上“双倍法”计算使用的运算律是（    ）。",
+      "options": [
+        "A.乘法结合律",
+        "B.乘法交换律",
+        "C.乘法分配律",
+        "D.乘法结合律和分配律"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选\\(C\\)。因为\\(14=2+4+8\\)，所以\\(23\\times14=23\\times2+23\\times4+23\\times8\\)。把一个数与和相乘改为分别相乘后相加，依据乘法分配律。",
+      "verification": {
+        "status": "verified",
+        "reason": "14=2+4+8，23分别乘每个加数再相加，乘法分配律C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s06",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 5,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "如右图，要计算这个图形的面积，下面算式中正确的有（    ）个。①\\(15\\times32+15\\times18\\)；②\\(15\\times32+18\\)；③\\(15\\times(32+18)\\)；④\\((15+18)\\times32-18\\times(32-15)\\)。",
+      "options": [
+        "A.1",
+        "B.2",
+        "C.3",
+        "D.4"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=.08cm,y=.08cm]\\draw(0,0)--(33,0)--node[right]{15米}(33,15)--node[above]{18米}(15,15)--(15,32)--node[above]{15米}(0,32)--node[left]{32米}(0,0);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p026_s06_g1"
+        }
+      ],
+      "answer_latex": "选\\(C\\)。正确的是①③④，共3个。①把图形分成两个长方形；③把①按分配律合并；④先补成长方形再减去缺角。②把面积和长度相加，不能表示该图形面积。三种正确算法都得750平方米。",
+      "verification": {
+        "status": "verified",
+        "reason": "①分成两长方形750，③分配律同①，④补大减缺750，②面积加长度无意义；3个选C。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s07",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 6,
+      "id": "三、1（1）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(45+55=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两数相加凑成100。\\[\\begin{aligned} &45+55\\\\={}&100\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为100。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s08",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 7,
+      "id": "三、1（2）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(125\\times8=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "125与8凑1000。\\[\\begin{aligned} &125\\times8\\\\={}&1000\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为1000。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s09",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 8,
+      "id": "三、1（3）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(5\\times7\\times4=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先把5与4相乘得20。\\[\\begin{aligned} &5\\times7\\times4\\\\={}&140\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为140。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s10",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 9,
+      "id": "三、1（4）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(25\\times6\\times4=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先把25与4相乘得100。\\[\\begin{aligned} &25\\times6\\times4\\\\={}&600\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为600。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s11",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 10,
+      "id": "三、1（5）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(4\\times25=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "4与25凑100。\\[\\begin{aligned} &4\\times25\\\\={}&100\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为100。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s12",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 11,
+      "id": "三、1（6）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(123-97=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "减97可先减100再加3。\\[\\begin{aligned} &123-97\\\\={}&26\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为26。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s13",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 12,
+      "id": "三、1（7）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(6\\times4\\div4\\times6=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "同级运算从左往右，乘4再除4相互抵消。\\[\\begin{aligned} &6\\times4\\div4\\times6\\\\={}&36\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为36。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p026_s14",
+      "book_page": 26,
+      "source_page": 30,
+      "section_index": 13,
+      "id": "三、1（8）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(130-30\\div5=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先除后减。\\[\\begin{aligned} &130-30\\div5\\\\={}&124\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "独立验算结果为124。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

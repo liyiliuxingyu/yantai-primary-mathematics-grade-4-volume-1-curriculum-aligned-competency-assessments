@@ -1,0 +1,12 @@
+{
+  "key": "p075_s03",
+  "book_page": 75,
+  "id": "三、2",
+  "answer_pdf_page": 79,
+  "new_formula": "\\[\\begin{aligned}&(720\\times2)\\div(12+8)\\\\={}&(720\\times2)\\div20\\\\={}&720\\times(2\\div2)\\div10\\\\={}&720\\div10\\\\={}&72\\text{（米/分）}\\end{aligned}\\]",
+  "new_note": "列式先把总路程括成整体，再除以总时间。用时\\(12+8=20\\)分钟；简算时把\\(20\\)拆成\\(2\\times10\\)，按乘除运算的性质先算\\(2\\div2\\)，再用720除以10。两程用时不同，不能直接平均两段速度。",
+  "answer_unchanged": 72,
+  "unit": "米/分",
+  "clarification": "无括号的原式按乘除同级从左到右与加括号等值；本次依小学数量分析格式将总路程括成整体，随后明确运算性质的简算变形。",
+  "only_one_question_changed": true
+}

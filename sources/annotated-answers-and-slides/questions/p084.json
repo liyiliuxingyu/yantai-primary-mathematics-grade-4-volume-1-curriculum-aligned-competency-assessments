@@ -1,0 +1,172 @@
+{
+  "book_page": 84,
+  "source_page": 88,
+  "records": [
+    {
+      "key": "p084_s01",
+      "book_page": 84,
+      "source_page": 88,
+      "section_index": 0,
+      "id": "四、4（1）",
+      "kind": "application",
+      "question_latex": "4. 四季水果店即将推出“周末特惠”活动，李老板提前备货，购入葡萄和橙子各\\(35\\)箱。葡萄每箱\\(55\\)元，橙子每箱\\(45\\)元。\\par （1）购入葡萄和橙子一共花了多少钱？（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两种水果各35箱，可把一箱葡萄与一箱橙子配成一组，先求每组价钱。也可分别按单价乘箱数列出总价，再用乘法分配律把55与45凑成100。\\par \\[\\begin{aligned}&55\\times35+45\\times35\\\\={}&(55+45)\\times35\\\\={}&100\\times35\\\\={}&3500\\text{(元)}\\end{aligned}\\]答：一共花3500元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "本轮复核：两种水果各35箱，另法仍分别算大乘积；乘法分配律先将55与45凑100。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每组各一箱总价(55+45)元×35组；55元/箱×35箱、45元/箱×35箱"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p084_s02",
+      "book_page": 84,
+      "source_page": 88,
+      "section_index": 1,
+      "id": "四、4（2）",
+      "kind": "application",
+      "question_latex": "（2）葡萄比橙子多花了多少钱？（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两种水果箱数相同，每箱价差乘35箱就是总价差。也可先列两种总价之差，再用乘法分配律把55减45凑成10。\\par \\[\\begin{aligned}&55\\times35-45\\times35\\\\={}&(55-45)\\times35\\\\={}&10\\times35\\\\={}&350\\text{(元)}\\end{aligned}\\]答：葡萄比橙子多花350元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "本轮复核：价差算式有共同35，先算55−45=10，避免另算1925、1575及它们的差。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每箱价差(55−45)元×35箱；分别单价×35箱"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p084_s03",
+      "book_page": 84,
+      "source_page": 88,
+      "section_index": 2,
+      "id": "四、5",
+      "kind": "application",
+      "question_latex": "5. 王老师为学校新一年级的同学采购桌椅，不小心把明细表弄脏了，你能帮他算出每把椅子多少元吗？（6分）",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "物品",
+            "单价",
+            "数量",
+            "总价"
+          ],
+          "rows": [
+            [
+              "课桌",
+              "125",
+              "6",
+              "1014"
+            ],
+            [
+              "椅子",
+              "被污渍遮挡",
+              "12",
+              "同上（合计）"
+            ]
+          ],
+          "notes": "1014是两项合计；原表总价单元格跨两行。"
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "题表的\\(1014\\)元是桌、椅两项总价。利用“椅子单价\\(=\\)椅子总价\\(\\div\\)椅子数量”，必须先从两项总价中扣掉课桌费用。\\textbf{方法一：总价扣除课桌费用，再除以椅子数量}\\[\\begin{aligned}&(1014-125\\times6)\\div12\\\\&=(1014-750)\\div12\\\\&=264\\div12\\\\&=22\\text{(元)}\\end{aligned}\\]答：每把椅子\\(22\\)元。\\textbf{方法二：按一张课桌配两把椅子分组}\\par 椅子\\(12\\)把、课桌\\(6\\)张，可分成\\(6\\)组，每组一桌两椅。\\[\\begin{aligned}&(1014\\div6-125)\\div2\\\\&=(169-125)\\div2\\\\&=44\\div2\\\\&=22\\text{(元)}\\end{aligned}\\]答：每把椅子\\(22\\)元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每张课桌125元×6张；另一方法为除法分组"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p084_s04",
+      "book_page": 84,
+      "source_page": 88,
+      "section_index": 3,
+      "id": "五、思考题",
+      "kind": "application",
+      "question_latex": "五、动脑筋想一想。（共6分）\\par 王军和张兵去书店买书，他们看中了一套两本装的《趣味数学》。王军说：“我的钱不够，还差9.3元。”张兵说：“我的钱不够，还差14.7元。”\\par 后来两人把钱合在一起，正好买下了这套书。假设这套书中两本书的价钱相同，你知道平均每本书多少钱吗？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两人的钱合起来恰好买一套，所以王军差的钱就是张兵已有的钱，张兵差的钱就是王军已有的钱。一套书的价钱等于两人各自所差的钱之和；每套有两本且单价相同。\\textbf{先求一套价钱，再求一本价钱}\\[\\begin{aligned}&(9.3+14.7)\\div2\\\\&=24\\div2\\\\&=12\\text{(元)}\\end{aligned}\\]答：每本书\\(12\\)元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "无乘法；一套总价除以2本"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

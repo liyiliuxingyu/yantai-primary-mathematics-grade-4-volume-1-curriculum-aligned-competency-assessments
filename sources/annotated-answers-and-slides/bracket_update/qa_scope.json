@@ -1,0 +1,109 @@
+{
+  "passed": true,
+  "pdf_sha256": "69c0f750e07f3e92d75985b56c888199cb10305f1a8b298ce9b350e8eaa798eb",
+  "pages": 128,
+  "all_pages_raster_checked": 128,
+  "unchanged_pages_identical": 104,
+  "changed_pages": [
+    {
+      "book_page": 3,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 4,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 7,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 8,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 11,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 15,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 19,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 42,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 44,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 46,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 73,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 75,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 76,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 77,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 79,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 83,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 88,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 89,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 91,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 95,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 96,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 99,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 104,
+      "outside_replacement_rectangles_identical": true
+    },
+    {
+      "book_page": 107,
+      "outside_replacement_rectangles_identical": true
+    }
+  ],
+  "all_page_dimensions_unchanged": true,
+  "no_objects_relocated": true,
+  "first_page_blank": true,
+  "unintended_pixel_changes": 0
+}

@@ -1,0 +1,364 @@
+{
+  "book_page": 68,
+  "source_page": 72,
+  "records": [
+    {
+      "key": "p068_s01",
+      "book_page": 68,
+      "source_page": 72,
+      "section_index": 0,
+      "id": "三、3（2）",
+      "kind": "drawing",
+      "question_latex": "先将下面三角形绕B点逆时针旋转\\(90^\\circ\\)后画出图形，再将长方形绕D点顺时针旋转\\(90^\\circ\\)后画出图形，最后请画出组合图形的对称轴。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p068_roof_grid",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\draw[step=1,gray!60,dotted](0,0)grid(28,12);\\draw(5,1)node[below left]{A}--(5,9)node[above left]{B}--(7,5)node[right]{C}--cycle;\\draw(12,9)node[below right]{D}--(15,9)node[above right]{E}--(15,3)node[below right]{F}--(12,3)node[below left]{G}--cycle;\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p068_roof_grid_answer",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\draw[step=1,gray!60,dotted](0,0)grid(28,12);\\draw(5,1)node[below left]{A}--(5,9)node[above left]{B}--(7,5)node[right]{C}--cycle;\\draw(12,9)node[below right]{D}--(15,9)node[above right]{E}--(15,3)node[below right]{F}--(12,3)node[below left]{G}--cycle;\n\\draw[red,thick](13,9)--(5,9)--(9,11)--cycle;\\draw[red,thick](12,9)--(12,6)--(6,6)--(6,9)--cycle;\\draw[red,dashed](9,5.5)--(9,11.5);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "三角形绕B逆时针90°：B不动；原来在B下方的A移到B右方相同距离，C也按逆时针90°逐点确定。长方形绕D顺时针90°：D不动，上边向下转，右下顶点转到D左下方。按对应顶点连接后，组合图是“屋顶与矩形”形，竖直中心线为其对称轴。请沿格点确定每个端点，再画直线。这两次旋转各有自己的三要素：三角形以B为中心、逆时针90°；长方形以D为中心、顺时针90°。只旋转指定图形，不能把整个组合绕同一中心一起转。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "sequence_objects",
+        "grid": {
+          "x_min": 0,
+          "x_max": 28,
+          "y_min": 0,
+          "y_max": 12,
+          "step": 1
+        },
+        "objects": [
+          {
+            "points": [
+              [
+                5,
+                1
+              ],
+              [
+                5,
+                9
+              ],
+              [
+                7,
+                5
+              ]
+            ],
+            "type": "rotation",
+            "center": [
+              5,
+              9
+            ],
+            "angle": 90,
+            "direction": "counterclockwise"
+          },
+          {
+            "points": [
+              [
+                12,
+                9
+              ],
+              [
+                15,
+                9
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                12,
+                3
+              ]
+            ],
+            "type": "rotation",
+            "center": [
+              12,
+              9
+            ],
+            "angle": 90,
+            "direction": "clockwise"
+          }
+        ],
+        "symmetry_axis": {
+          "p1": [
+            9,
+            5
+          ],
+          "p2": [
+            9,
+            12
+          ]
+        },
+        "order": "先演示objects[0]三角形，再演示objects[1]长方形，最后显示symmetry_axis；不同时转动两图。"
+      }
+    },
+    {
+      "key": "p068_s02",
+      "book_page": 68,
+      "source_page": 72,
+      "section_index": 1,
+      "id": "三、3（3）填空",
+      "kind": "fill",
+      "question_latex": "移一移，画一画。图形①先向右平移（    ）格，再向（    ）平移（    ）格，就会与图形②拼成一个长方形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p068_notch_grid",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(15,9);\\draw(1,6)--(3,6)--(2,5)--cycle;\\node at(2,7){①};\\draw(9,5)--(13,5)--(13,8)--(12,8)--(11,7)--(10,8)--(9,8)--cycle;\\fill(9,5)circle(.08)node[below left]{O};\\node at(11,3.5){②};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p068_notch_grid_answer",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(15,9);\\draw(1,6)--(3,6)--(2,5)--cycle;\\node at(2,7){①};\\draw(9,5)--(13,5)--(13,8)--(12,8)--(11,7)--(10,8)--(9,8)--cycle;\\fill(9,5)circle(.08)node[below left]{O};\\node at(11,3.5){②};\n\\draw[red,thick](10,8)--(12,8)--(11,7)--cycle;\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "比较小三角形与右侧凹口的对应顶点：先向右平移9格，再向上平移2格，就恰好填入凹口，拼成一个长方形。填9、“上”、2。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "translation",
+        "grid": {
+          "x_min": 0,
+          "x_max": 15,
+          "y_min": 0,
+          "y_max": 9,
+          "step": 1
+        },
+        "object_points": [
+          [
+            1,
+            6
+          ],
+          [
+            3,
+            6
+          ],
+          [
+            2,
+            5
+          ]
+        ],
+        "dx": 9,
+        "dy": 2
+      }
+    },
+    {
+      "key": "p068_s03",
+      "book_page": 68,
+      "source_page": 72,
+      "section_index": 2,
+      "id": "三、3（3）作图",
+      "kind": "drawing",
+      "question_latex": "移一移，画一画。将图形①移入图形②的凹口拼成长方形，把拼成的图形绕O点逆时针旋转\\(90^\\circ\\)，请在网格图中画出旋转后的图形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p068_notch_grid",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(15,9);\\draw(1,6)--(3,6)--(2,5)--cycle;\\node at(2,7){①};\\draw(9,5)--(13,5)--(13,8)--(12,8)--(11,7)--(10,8)--(9,8)--cycle;\\fill(9,5)circle(.08)node[below left]{O};\\node at(11,3.5){②};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p068_notch_grid_answer",
+          "tikz": "\\begin{tikzpicture}[x=.4cm,y=.4cm]\\draw[step=1,gray!60,dotted](0,0)grid(15,9);\\draw(1,6)--(3,6)--(2,5)--cycle;\\node at(2,7){①};\\draw(9,5)--(13,5)--(13,8)--(12,8)--(11,7)--(10,8)--(9,8)--cycle;\\fill(9,5)circle(.08)node[below left]{O};\\node at(11,3.5){②};\n\\draw[red,thick](10,8)--(12,8)--(11,7)--cycle;\\draw[red,thick](9,5)--(9,9)--(6,9)--(6,5)--cycle;\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "先补上移入凹口的小三角形，确认拼成完整长方形，再将整个长方形绕O逆时针转90°。O不动，长边由水平转为竖直；各顶点到O的距离不变。结果在O的左上方。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "rotation",
+        "center": [
+          9,
+          5
+        ],
+        "angle": 90,
+        "direction": "counterclockwise",
+        "object_points": [
+          [
+            9,
+            5
+          ],
+          [
+            13,
+            5
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            9,
+            8
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 15,
+          "y_min": 0,
+          "y_max": 9,
+          "step": 1
+        }
+      }
+    },
+    {
+      "key": "p068_s04",
+      "book_page": 68,
+      "source_page": 72,
+      "section_index": 3,
+      "id": "三、4（1）",
+      "kind": "fill",
+      "question_latex": "认真观察，填一填。（1）图①是以点（    ）为中心（    ）时针旋转的，在图中相应的括号里标出点A的对应点\\(A^{\\prime}\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p068_rotation_read",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\begin{scope}\\draw(0,0)node[left]{B}--(2,0)node[right]{C}--(2,.7)node[above]{A}--cycle;\\begin{scope}[rotate=-60]\\draw[dashed](0,0)--(2,0)--(2,.7)--cycle;\\end{scope}\\draw[->](2.5,-1.15)arc(-40:20:1.1);\\node at(1,-2.2){(\\quad)};\\node at(2.25,-1.4){(\\quad)};\\end{scope}\\begin{scope}[shift={(6,0)}]\\draw(0,0)node[above left]{A}--(0,-.65)node[below left]{B}--(2,-.65)node[below right]{C}--(2,0)node[above left]{D}--cycle;\\begin{scope}[rotate around={120:(2,0)}]\\draw[dashed](0,0)--(0,-.65)--(2,-.65)--(2,0)--cycle;\\end{scope}\\draw[->](3,-2)arc(-65:-145:1.1);\\node at(2.8,.65){(\\quad)};\\node at(3.75,-2){(\\quad)};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p068_rotation_read_answer",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\begin{scope}\\draw(0,0)node[left]{B}--(2,0)node[right]{C}--(2,.7)node[above]{A}--cycle;\\begin{scope}[rotate=-60]\\draw[dashed](0,0)--(2,0)--(2,.7)--cycle;\\end{scope}\\draw[->](2.5,-1.15)arc(-40:20:1.1);\\node at(1,-2.2){(\\quad)};\\node at(2.25,-1.4){(\\quad)};\\end{scope}\\begin{scope}[shift={(6,0)}]\\draw(0,0)node[above left]{A}--(0,-.65)node[below left]{B}--(2,-.65)node[below right]{C}--(2,0)node[above left]{D}--cycle;\\begin{scope}[rotate around={120:(2,0)}]\\draw[dashed](0,0)--(0,-.65)--(2,-.65)--(2,0)--cycle;\\end{scope}\\draw[->](3,-2)arc(-65:-145:1.1);\\node at(2.8,.65){(\\quad)};\\node at(3.75,-2){(\\quad)};\\end{scope}\n\\node[red]at(2.25,-1.4){$A^{\\prime}$};\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "旋转中心为B，因为实线与虚线的共同顶点B始终不动。按弧箭头从虚线位置指向实线位置看，方向填“逆”。A的对应点要与A到B的距离相同，A′标在图①右侧括号中。\\par 题图有歧义：若把标有A、C的实线三角形作为原像，虚线作为旋转后的像，则实线到虚线应为顺时针，与弧箭头的示意方向相反。应先明确采用哪一种原像约定。",
+      "verification": {
+        "status": "conditional",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [
+          "图中弧箭头从虚线位置指向实线位置，但字母A、B、C标在实线上；“原像”约定不统一。按箭头填逆，按实线原像填顺，应说明采用的约定。"
+        ],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p068_s05",
+      "book_page": 68,
+      "source_page": 72,
+      "section_index": 4,
+      "id": "三、4（2）",
+      "kind": "fill",
+      "question_latex": "认真观察，填一填。（2）图②是以点（    ）为中心（    ）时针旋转的，在图中相应的括号里标出点B的对应点\\(B^{\\prime}\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p068_rotation_read",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\begin{scope}\\draw(0,0)node[left]{B}--(2,0)node[right]{C}--(2,.7)node[above]{A}--cycle;\\begin{scope}[rotate=-60]\\draw[dashed](0,0)--(2,0)--(2,.7)--cycle;\\end{scope}\\draw[->](2.5,-1.15)arc(-40:20:1.1);\\node at(1,-2.2){(\\quad)};\\node at(2.25,-1.4){(\\quad)};\\end{scope}\\begin{scope}[shift={(6,0)}]\\draw(0,0)node[above left]{A}--(0,-.65)node[below left]{B}--(2,-.65)node[below right]{C}--(2,0)node[above left]{D}--cycle;\\begin{scope}[rotate around={120:(2,0)}]\\draw[dashed](0,0)--(0,-.65)--(2,-.65)--(2,0)--cycle;\\end{scope}\\draw[->](3,-2)arc(-65:-145:1.1);\\node at(2.8,.65){(\\quad)};\\node at(3.75,-2){(\\quad)};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p068_rotation_read_answer",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\begin{scope}\\draw(0,0)node[left]{B}--(2,0)node[right]{C}--(2,.7)node[above]{A}--cycle;\\begin{scope}[rotate=-60]\\draw[dashed](0,0)--(2,0)--(2,.7)--cycle;\\end{scope}\\draw[->](2.5,-1.15)arc(-40:20:1.1);\\node at(1,-2.2){(\\quad)};\\node at(2.25,-1.4){(\\quad)};\\end{scope}\\begin{scope}[shift={(6,0)}]\\draw(0,0)node[above left]{A}--(0,-.65)node[below left]{B}--(2,-.65)node[below right]{C}--(2,0)node[above left]{D}--cycle;\\begin{scope}[rotate around={120:(2,0)}]\\draw[dashed](0,0)--(0,-.65)--(2,-.65)--(2,0)--cycle;\\end{scope}\\draw[->](3,-2)arc(-65:-145:1.1);\\node at(2.8,.65){(\\quad)};\\node at(3.75,-2){(\\quad)};\\end{scope}\n\\node[red]at(9.75,-2){$B^{\\prime}$};\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "旋转中心为D，因为D不动。按弧箭头由虚线位置指向实线位置看，填“顺”。B到D的距离与B′到D的距离相等，B′标在图②右下括号中。\\par 若按实线长方形为原像、虚线为像，则方向应为逆时针。两图的箭头与原像标注约定不统一，左图原空按箭头依次保留“逆、顺”，并在此说明不同读法。",
+      "verification": {
+        "status": "conditional",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [
+          "图中弧箭头与实线图形为原像的通常约定不统一。按箭头填顺，按实线原像填逆，应说明采用的约定。"
+        ],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p068_s06",
+      "book_page": 68,
+      "source_page": 72,
+      "section_index": 5,
+      "id": "四、逆操作",
+      "kind": "drawing",
+      "question_latex": "将一个三角形先向右平移6格，再绕中心点顺时针旋转\\(90^\\circ\\)，得到现在的图形。如果想让它回到原来的位置，应该怎样操作？请写完整步骤。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "原来的操作是先向右平移6格，再顺时针旋转90°。恢复时要逆序进行：第一步绕原来同一个旋转中心逆时针旋转90°；第二步向左平移6格。若先平移再反转，旋转中心的位置关系会不同，一般回不到原处。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "book_page": 9,
+  "source_page": 13,
+  "title": "第二单元素养评价（A） 相交与平行",
+  "records": [
+    {
+      "key": "p009_s01",
+      "book_page": 9,
+      "source_page": 13,
+      "section_index": 0,
+      "id": "一、1（逐组）",
+      "kind": "fill",
+      "question_latex": "下面的各组线中，（    ）互相平行；（    ）相交，（    ）互相垂直。（填序号）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=.68cm,y=.68cm]\n\\begin{scope}[shift={(0,0)}]\\draw(0,0)--(1.3,0);\\draw(.1,.5)--(1.4,.5);\\node at(.7,-.55){\\textcircled{1}};\\end{scope}\n\\begin{scope}[shift={(2,0)}]\\draw(0,0)--(.9,1);\\draw(-.1,.4)--(.25,.79);\\node at(.45,-.55){\\textcircled{2}};\\end{scope}\n\\begin{scope}[shift={(3.8,0)}]\\draw(0,.3)to[bend left=45](1.3,.3);\\draw(0,0)to[bend left=45](1.3,0);\\node at(.65,-.55){\\textcircled{3}};\\end{scope}\n\\begin{scope}[shift={(5.8,0)}]\\draw(0,.5)--(1.3,.5);\\draw(0,-.1)--(1.3,.35);\\node at(.65,-.55){\\textcircled{4}};\\end{scope}\n\\begin{scope}[shift={(7.8,0)}]\\draw(0,.2)--(1.5,.2);\\draw(.2,.9)--(1.4,-.1);\\node at(.7,-.55){\\textcircled{5}};\\end{scope}\n\\begin{scope}[shift={(10,0)}]\\draw(0,.2)--(1.3,.2);\\draw(.65,-.2)--(.65,1);\\node at(.65,-.55){\\textcircled{6}};\\end{scope}\n\\begin{scope}[shift={(12,0)}]\\draw(0,-.1)--(0,1);\\draw(.5,-.1)--(.5,1);\\node at(.25,-.55){\\textcircled{7}};\\end{scope}\\end{tikzpicture}",
+          "role": "question",
+          "notes": "第③组为曲线，不能作为直线平行的例子；其余按原图理想直线关系重绘。",
+          "name": "p009_s01_g1"
+        }
+      ],
+      "answer_latex": "①②⑦是两条不相交的直线，互相平行；④⑤⑥的直线延长后相交；⑥相交成直角，互相垂直。③画的是曲线，不按直线的平行或相交分类。因此三空依次填①②⑦、④⑤⑥、⑥。",
+      "verification": {
+        "status": "verified",
+        "reason": "逐组延长判断①②⑦平行；④⑤⑥相交，⑥直角。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p009_s02",
+      "book_page": 9,
+      "source_page": 13,
+      "section_index": 1,
+      "id": "一、2（逐图）",
+      "kind": "fill",
+      "question_latex": "下面哪个图形中，既有互相平行的线段，又有互相垂直的线段？在它下面画“\\(\\checkmark\\)”。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "tikz": "\\begin{tikzpicture}[x=.8cm,y=.8cm]\n\\draw(0,0)--(1.5,0)--(1.9,.8)--(.4,.8)--cycle;\\node at(.9,-.4){（\\quad）};\n\\draw(2.7,0)--(4.1,0)--(3.7,.9)--(2.7,.9)--cycle;\\node at(3.4,-.4){（\\quad）};\n\\draw(5,0)--(5.7,0)--(6.05,.6)--(5.7,1.2)--(5,1.2)--(4.65,.6)--cycle;\\node at(5.35,-.4){（\\quad）};\n\\draw(6.8,0)--(8.1,0)--(6.8,.9)--cycle;\\node at(7.4,-.4){（\\quad）};\n\\draw(9,0)--(10.6,0)--(10.1,.9)--(9.5,.9)--cycle;\\draw(9.3,.54)--(10.3,.54);\\node at(9.8,-.4){（\\quad）};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "",
+          "name": "p009_s02_g1"
+        },
+        {
+          "tikz": "\\begin{tikzpicture}[x=.8cm,y=.8cm]\n\\draw(0,0)--(1.5,0)--(1.9,.8)--(.4,.8)--cycle;\\node at(.9,-.4){（\\quad）};\n\\draw(2.7,0)--(4.1,0)--(3.7,.9)--(2.7,.9)--cycle;\\node at(3.4,-.4){（\\({\\color{red}\\checkmark}\\)）};\n\\draw(5,0)--(5.7,0)--(6.05,.6)--(5.7,1.2)--(5,1.2)--(4.65,.6)--cycle;\\node at(5.35,-.4){（\\quad）};\n\\draw(6.8,0)--(8.1,0)--(6.8,.9)--cycle;\\node at(7.4,-.4){（\\quad）};\n\\draw(9,0)--(10.6,0)--(10.1,.9)--(9.5,.9)--cycle;\\draw(9.3,.54)--(10.3,.54);\\node at(9.8,-.4){（\\quad）};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "只在第②图原括号内红打勾；其余不是正确图，按题意留空。",
+          "name": "p009_s02_a1"
+        }
+      ],
+      "answer_latex": "只给第②个图形下面打\\(\\checkmark\\)。①有平行边但无直角；②上、下底平行，左边又与底垂直，两种关系都有；③有平行边但无直角；④有直角但无平行边；⑤有互相平行的横线，但斜边不与横线垂直。",
+      "verification": {
+        "status": "verified",
+        "reason": "五图逐一核对，只有第②直角梯形同时具有平行和垂直边。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p009_s03",
+      "book_page": 9,
+      "source_page": 13,
+      "section_index": 2,
+      "id": "一、3（全部空）",
+      "kind": "fill",
+      "question_latex": "同一平面内，两条直线\\(m\\)和\\(n\\)的位置关系只有（    ）和（    ），如果直线\\(m\\)和\\(n\\)相交成直角，那么直线\\(m\\)和\\(n\\)互相（    ），记作（    ），读作（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "同一平面内两条不同直线只有“平行”和“相交”两种位置关系。相交又分为“垂直”和“不垂直”，所以垂直属于相交。相交成直角时叫“互相垂直”，记作\\(m\\perp n\\)，读作“\\(m\\)垂直于\\(n\\)”。",
+      "verification": {
+        "status": "verified",
+        "reason": "两条不同直线平行或相交；直角相交为垂直，m⊥n，读m垂直于n。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p009_s04",
+      "book_page": 9,
+      "source_page": 13,
+      "section_index": 3,
+      "id": "一、4",
+      "kind": "fill",
+      "question_latex": "从客厅的吊灯点到地面画三条线段，长度分别是3米、4米、5米，其中一条是垂线段，那么吊灯点到地面的距离是（    ）米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "点到直线的所有线段中，垂线段最短。\\(3<4<5\\)，所以垂线段长\\(3\\)米，距离填\\(3\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "垂线段最短，三数最小3，填3。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p009_s05",
+      "book_page": 9,
+      "source_page": 13,
+      "section_index": 4,
+      "id": "一、5（全部空）",
+      "kind": "fill",
+      "question_latex": "长方形操场的长是100米，宽60米，操场的对边互相（    ），邻边互相（    ）。沿着跑道跑一圈，跑过的路程是（    ）米。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "长方形对边平行、邻边垂直；沿跑道一圈就是周长：\\((100+60)\\times2=320\\text{(米)}\\)。依次填“平行、垂直、\\(320\\)”。",
+      "verification": {
+        "status": "verified",
+        "reason": "长方形对边平行，邻边垂直，周长(100+60)×2=320。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p009_s06",
+      "book_page": 9,
+      "source_page": 13,
+      "section_index": 5,
+      "id": "一、6（两个空）",
+      "kind": "fill",
+      "question_latex": "把一张长方形纸沿同一方向对折两次，展开后的折痕互相（    ），如果沿横竖不同方向对折两次，折痕互相（    ）。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "沿同一方向对折两次，各条折痕互相\\textbf{平行}；分别沿横向、竖向对折，两条折痕互相\\textbf{垂直}。",
+      "verification": {
+        "status": "verified",
+        "reason": "同向折痕平行，横竖折痕垂直。",
+        "changes": [
+          "最终课件复核：同向对折折痕数量改为各条，不影响平行结论。"
+        ],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p009_s07",
+      "book_page": 9,
+      "source_page": 13,
+      "section_index": 6,
+      "id": "一、7（跨页）",
+      "kind": "fill",
+      "question_latex": "平行的健身步道两边之间，能画（    ）条垂线段，这些线段的长度都（    ），这个性质在修路时保证了路面宽度一致。（第二空续于原书第10页。）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "平行线之间可以在不同位置画\\textbf{无数}条垂线段，这些垂线段都表示同一对平行线的距离，所以长度\\textbf{相等}。两个空分别填“无数、相等”。",
+      "verification": {
+        "status": "verified",
+        "reason": "一对平行线间无数条垂线段，长度相等。",
+        "changes": [],
+        "uncertainties": [],
+        "altitude_regions": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

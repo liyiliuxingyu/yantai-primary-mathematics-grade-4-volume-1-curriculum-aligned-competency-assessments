@@ -1,0 +1,1508 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p002_s03": {
+      "source_answer_sha256": "4258d16b6932c15c172a1eb8c64f4f8ecaceb06808baf34e7a582258c5e1d781",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p002_s04": {
+      "source_answer_sha256": "4a33dd77b7614d8b35ab5276b1c707e5f07c0a5f65a9532161e6f7b659119746",
+      "prefix_latex": "选\\(\\mathrm C\\)。",
+      "conclusion_latex": "选\\(\\mathrm C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p002_s05": {
+      "source_answer_sha256": "31a796b718572852b37993a59c1682047320666bf87dd14324efe6922c670be7",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p002_s06": {
+      "source_answer_sha256": "e453459c27f2ec08ab3f94b8bf86febd64c62e893a96830b38b3d6fdead2f11b",
+      "prefix_latex": "选\\(\\mathrm D\\)。",
+      "conclusion_latex": "选\\(\\mathrm D\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p002_s07": {
+      "source_answer_sha256": "178f4a088f32d312061934b56e97547bd85bf09cf410500f6f756959a9845041",
+      "prefix_latex": "选\\(\\mathrm C\\)。",
+      "conclusion_latex": "选\\(\\mathrm C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p006_s04": {
+      "source_answer_sha256": "76323bc671637935595989f28d16cac79e4096dca87d1652981e152235c1615b",
+      "prefix_latex": "选\\(\\mathrm C\\)。",
+      "conclusion_latex": "选\\(\\mathrm C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p006_s07": {
+      "source_answer_sha256": "abd2e7cc5d2c616e8cc1f9951c4be200f917f678f1821cea3b2cff4692929ca9",
+      "prefix_latex": "选\\(\\mathrm B\\)，被减数是\\(60\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)，被减数是\\(60\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p006_s08": {
+      "source_answer_sha256": "5bc53da3781b41fc557144a0526a3ca6a4fbcfc36fd21f1301352e091dc516a3",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p007_s01": {
+      "source_answer_sha256": "438d65821dd87f79ec3a8e8b19e23a3686df5349594f95d8b82ae87e037c556d",
+      "prefix_latex": "选\\(\\mathrm A\\)。",
+      "conclusion_latex": "选\\(\\mathrm A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p010_s01": {
+      "source_answer_sha256": "215d3ba1dbeb89f6a966d4367ef9593216c9da3b18d2370e2590da11669743b9",
+      "prefix_latex": "填“相等”。",
+      "conclusion_latex": "填“相等”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p010_s03": {
+      "source_answer_sha256": "41a1468b4ed91a16c31b52aeac08043ab17c4c68e97e4114b4ed539dac6e4590",
+      "prefix_latex": "选\\(\\mathrm C\\)。",
+      "conclusion_latex": "选\\(\\mathrm C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p010_s05": {
+      "source_answer_sha256": "73bd7a6f389a4abebf5a9dd88ae8bdef78ac51e50f111681ce726c6eb7e8752a",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p010_s06": {
+      "source_answer_sha256": "dcfd4b7f9e90404955ccfbaa0622bf510b488ebc69431dd0f48483fd1addce79",
+      "prefix_latex": "选\\(\\mathrm A\\)。",
+      "conclusion_latex": "选\\(\\mathrm A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p010_s07": {
+      "source_answer_sha256": "2cc3700f4ed85df7df9dce41bf53781718b6ccc5dde76586a457bdd81fa41451",
+      "prefix_latex": "选\\(\\mathrm A\\)。",
+      "conclusion_latex": "选\\(\\mathrm A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p010_s08": {
+      "source_answer_sha256": "b9594346cb46a843a741a02b94457ed38588f29c6134b038c7b5a6c58a130f32",
+      "prefix_latex": "选\\(\\mathrm A\\)。",
+      "conclusion_latex": "选\\(\\mathrm A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p010_s09": {
+      "source_answer_sha256": "144805495c001ea391eb8cbd84dd711f0c37edf4afba54eeb1201bfa69d3198a",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p010_s10": {
+      "source_answer_sha256": "85d08485f456567f4eba287b6b581a923eb7cd89c1542c28a326e7b2b4ae2840",
+      "prefix_latex": "选\\(\\mathrm C\\)，顺序①④③②：",
+      "conclusion_latex": "选\\(\\mathrm C\\)，顺序①④③②。",
+      "reason": "仅移动选项和步骤编号结论；冒号后的先对齐、平移、画线、标直角过程保留讲解顺序。最终展示时应将末尾冒号改为句号。"
+    },
+    "p010_s11": {
+      "source_answer_sha256": "6d63c4fb17415cb218e58d6d3bfdf8dd3055e853219a5c6af758d69f025cd48a",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p011_s01": {
+      "source_answer_sha256": "c3b79a691e12966dda594fc55a8a9630b7c46211b4abfb9f58e973e55aaf9f06",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p013_s03": {
+      "source_answer_sha256": "5e1ad68dbad63884be01fc2af6b4326b0d2d1790dfd906a6d67be4fbc43e3d4c",
+      "prefix_latex": "填\\(9\\)。",
+      "conclusion_latex": "填\\(9\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p013_s04": {
+      "source_answer_sha256": "8449e0c84cdad530c5d9a6a6f74bd9543ae69c6ec5b0da8966c99423435e9e1d",
+      "prefix_latex": "填“平行”或“互相平行”。",
+      "conclusion_latex": "填“平行”或“互相平行”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p014_s01": {
+      "source_answer_sha256": "6501a88a4672e4de40970d6eb321bbbefd79d86fdce4a63a5b0274f6246cbd20",
+      "prefix_latex": "填“互相平行”。",
+      "conclusion_latex": "填“互相平行”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p014_s02": {
+      "source_answer_sha256": "57571f7b2e1c9aa955c34be166d4b5ab7cf69afb6d5ac9a479a4828f1a796ca3",
+      "prefix_latex": "选\\(\\mathrm B\\)，",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "后文是H中平行及垂直关系的理由，不能与选择结论一起移至末尾。"
+    },
+    "p014_s03": {
+      "source_answer_sha256": "57910f9a84d998eaeca5c53a05eb2621c75844927c7d2eb1ee94bc99f79eaf6f",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p014_s05": {
+      "source_answer_sha256": "d264df2ee90548af25b08db0e12816f139a125b2347f03f9134546136abaefdf",
+      "prefix_latex": "选\\(\\mathrm A\\)。",
+      "conclusion_latex": "选\\(\\mathrm A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p014_s07": {
+      "source_answer_sha256": "b00311fadd1da92af1811c82db9ffd987d535227b1eec902bdac3da31b3fec58",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p014_s08": {
+      "source_answer_sha256": "c8682ebe5f10f97a2413cf70f144049f3634c9706472f4e8d4f649679f186708",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p018_s04": {
+      "source_answer_sha256": "63152ae292b6995e9b2a952868e4b6a5b533b901d3e5b9dc9de8b874655ec164",
+      "prefix_latex": "选\\(\\mathrm C\\)。",
+      "conclusion_latex": "选\\(\\mathrm C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p018_s06": {
+      "source_answer_sha256": "ff69e6a61fa4fb907272e512933cc84f8a0c74bbfda0cb54998d7d8278ea2f73",
+      "prefix_latex": "选\\(\\mathrm C\\)。",
+      "conclusion_latex": "选\\(\\mathrm C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p018_s07": {
+      "source_answer_sha256": "4d221ce65c789a68a51818307790a2aade944a57c47a91d3acec49b2de87badb",
+      "prefix_latex": "选\\(\\mathrm B\\)。",
+      "conclusion_latex": "选\\(\\mathrm B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p018_s08": {
+      "source_answer_sha256": "4dcbab82b97bff60a20d2d54acb61c82fee7a5d7ede40c623e4e74d2cff8b4e7",
+      "prefix_latex": "选\\(\\mathrm C\\)。",
+      "conclusion_latex": "选\\(\\mathrm C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p022_s04": {
+      "source_answer_sha256": "3a46abc7e3a269e1b743308050674afa942a1d44f94d3e6487e09da999e5aba0",
+      "prefix_latex": "选\\(C\\)。",
+      "conclusion_latex": "选\\(C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p022_s05": {
+      "source_answer_sha256": "a156c0e9fffd3b6d35665f85f761d064ac163cdec07e5b045b55614da8bea8ab",
+      "prefix_latex": "选\\(A\\)。",
+      "conclusion_latex": "选\\(A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p022_s06": {
+      "source_answer_sha256": "4bb2984f75e42e8ae150320639ea05f3598dffa45ccbcc22f87938e7da5d94d9",
+      "prefix_latex": "选\\(B\\)。",
+      "conclusion_latex": "选\\(B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p022_s07": {
+      "source_answer_sha256": "1120e2ec6caa555fb66cd2f6ac786e2c3768404991a1da20471520fd69d62dc6",
+      "prefix_latex": "选\\(A\\)。",
+      "conclusion_latex": "选\\(A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p022_s08": {
+      "source_answer_sha256": "42ce10ba08fc3f1bd5f0e2234b76bb02326217ca15c062a6dcfc4c2a1d568f44",
+      "prefix_latex": "选\\(B\\)。",
+      "conclusion_latex": "选\\(B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p022_s09": {
+      "source_answer_sha256": "b35b67aa51165854b11a9d71ef1725ef563c68c9aa74cd6262655460bf59c012",
+      "prefix_latex": "选\\(B\\)。",
+      "conclusion_latex": "选\\(B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p025_s10": {
+      "source_answer_sha256": "dc132e241be48c3a6413fd90d692625fb9ca2e28b8c49d963fbac4c3040c9318",
+      "prefix_latex": "填\\(>\\)。",
+      "conclusion_latex": "填\\(>\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p025_s11": {
+      "source_answer_sha256": "a81a5298216f5a5ddeee7a8bdf15f4365952f421097fdbc309e3897f2d0506bb",
+      "prefix_latex": "填\\(<\\)。",
+      "conclusion_latex": "填\\(<\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p025_s12": {
+      "source_answer_sha256": "d8d45a28366dd35e7555ab08da41028b38e5830950b711341f217ff5c4b9a8ec",
+      "prefix_latex": "填\\(>\\)。",
+      "conclusion_latex": "填\\(>\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p025_s13": {
+      "source_answer_sha256": "817e39c5a5f9369380a2a4aadf3caf4990e50a5b78411c3cb5bbd3ab237f76bb",
+      "prefix_latex": "填\\(=\\)。",
+      "conclusion_latex": "填\\(=\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p025_s14": {
+      "source_answer_sha256": "cd5c62d8e563350f66b3e7619b9775c20b81ea1d23c36abdbef6b78f95d994b3",
+      "prefix_latex": "填\\(=\\)。",
+      "conclusion_latex": "填\\(=\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p025_s15": {
+      "source_answer_sha256": "e3d3b857548ef63a29152caf7a0312dbc8a90ff00132233174e562975bf53173",
+      "prefix_latex": "填\\(>\\)。",
+      "conclusion_latex": "填\\(>\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p026_s01": {
+      "source_answer_sha256": "e125850ef3793f2ba8431a02c9b9a6b224594b18cae4d17c8e70e43689253152",
+      "prefix_latex": "选\\(A\\)。",
+      "conclusion_latex": "选\\(A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p026_s02": {
+      "source_answer_sha256": "ba76071d1573fd7d055eea20278d25a97724f0d8636d929abff5d8f9bb205535",
+      "prefix_latex": "选\\(C\\)。",
+      "conclusion_latex": "选\\(C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p026_s04": {
+      "source_answer_sha256": "70dbba54a063dd9f2dc4ffb2be308a1ab13e6e885c763108bbc6ccfedf8e2d89",
+      "prefix_latex": "选\\(B\\)。",
+      "conclusion_latex": "选\\(B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p026_s05": {
+      "source_answer_sha256": "5d96db22a50841c86a1293b77e251e5ca5a6140eb9b88d502c0fb8f814aa865d",
+      "prefix_latex": "选\\(C\\)。",
+      "conclusion_latex": "选\\(C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p026_s06": {
+      "source_answer_sha256": "0ff209e3a605df9488910d4355163d6f8e4b528f4322196113c6189bb96f9d78",
+      "prefix_latex": "选\\(C\\)。",
+      "conclusion_latex": "选\\(C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p029_s03": {
+      "source_answer_sha256": "849843a7fe8731097d239029c079b5c14118215d1cf73862cb40dbb2bac2177d",
+      "prefix_latex": "填\\(=\\)。",
+      "conclusion_latex": "填\\(=\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p029_s04": {
+      "source_answer_sha256": "380c6700c802f824cc0886ad1f9e70413d46443831526bd6bd1b23b1435b59f7",
+      "prefix_latex": "填\\(>\\)。",
+      "conclusion_latex": "填\\(>\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p029_s05": {
+      "source_answer_sha256": "1dae545b876d692404b9a53840fe2c510edbd1f460ac4f116fe0b8a40c26c3ce",
+      "prefix_latex": "填\\(=\\)。",
+      "conclusion_latex": "填\\(=\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p029_s06": {
+      "source_answer_sha256": "b5ca8f30f1c7b05686b8b09b14b4e3494766e25b42b8d7c58933b7f27c5d1156",
+      "prefix_latex": "填\\(<\\)。",
+      "conclusion_latex": "填\\(<\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p029_s07": {
+      "source_answer_sha256": "f63043f651fd1297722720b111bf3f497124df28cc4d23b764aa7c4b2c0387f6",
+      "prefix_latex": "填\\(=\\)。",
+      "conclusion_latex": "填\\(=\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p029_s08": {
+      "source_answer_sha256": "cfb7bc90ba83a9a7cf9184724fdc7164b0d35cc49cd9f090b45ef8f177221bdd",
+      "prefix_latex": "填\\(<\\)。",
+      "conclusion_latex": "填\\(<\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p030_s03": {
+      "source_answer_sha256": "95ac7803d32b1cfc51002be82130ae31d4e41254cd552a2852fece218cac6471",
+      "prefix_latex": "填\\(<\\)。",
+      "conclusion_latex": "填\\(<\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p030_s06": {
+      "source_answer_sha256": "a6913cb36f32c97ff8b5e76c868daee6dab07bc3eaa4e03973f94e0a25f1886c",
+      "prefix_latex": "选\\(D\\)。",
+      "conclusion_latex": "选\\(D\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p030_s07": {
+      "source_answer_sha256": "177b03470a0b2f65edfb586ebd7420a87dffe617813236de0bc41b051bf2f9a7",
+      "prefix_latex": "选\\(C\\)。",
+      "conclusion_latex": "选\\(C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p030_s08": {
+      "source_answer_sha256": "992ca407236ed7b9a1ddbf3102354a149c2fdc856f19224143d341b6f4801126",
+      "prefix_latex": "选\\(D\\)。",
+      "conclusion_latex": "选\\(D\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p030_s09": {
+      "source_answer_sha256": "d10b2bc7f443141e9ce35ab73be8f4f45cc4f2c322737e40ee1c329e0554130d",
+      "prefix_latex": "选\\(A\\)。",
+      "conclusion_latex": "选\\(A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p030_s10": {
+      "source_answer_sha256": "d97f7b5b9c32d1bfd8f138705f75163dfdeff1ce187bc4607ce55a60505d9f54",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p030_s11": {
+      "source_answer_sha256": "d549447c3e8d4c8b3618ae4da8a4c3b7d00166398eeec667187cea77bab1b8c6",
+      "prefix_latex": "选\\(B\\)。",
+      "conclusion_latex": "选\\(B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s01": {
+      "source_answer_sha256": "0292adf674c15cb7c9a6e6a061fbe8d98f856d3e71bf788f5c9a47eeceeff239",
+      "prefix_latex": "填2。",
+      "conclusion_latex": "填2。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s02": {
+      "source_answer_sha256": "584d7462d9154d48fdd5bb7ddf24c537d2235ae17b0db0d34b48d262cd496c17",
+      "prefix_latex": "填1。",
+      "conclusion_latex": "填1。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s03": {
+      "source_answer_sha256": "cc41da0d47f40976967263a369bba34ec4a7406d781d1b7edfad6404b89d2eac",
+      "prefix_latex": "填\\(180^\\circ\\)。",
+      "conclusion_latex": "填\\(180^\\circ\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s04": {
+      "source_answer_sha256": "17a71a916baa9bb7bc3700abd3dbd03be61dbed625d9ccbd6c0e7f7c57a15855",
+      "prefix_latex": "填“大于”。",
+      "conclusion_latex": "填“大于”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s05": {
+      "source_answer_sha256": "aa1f4118d1437615cfaf12b2822c6b98114142f20bdab6b8aefe719cc722dc38",
+      "prefix_latex": "填“直角梯形”。",
+      "conclusion_latex": "填“直角梯形”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s06": {
+      "source_answer_sha256": "1277a6a6bca1bd931df6dff5033ce2ba68038727afb06f8067db09bc59730823",
+      "prefix_latex": "填“直角”。",
+      "conclusion_latex": "填“直角”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s07": {
+      "source_answer_sha256": "4245172f44028eceafb7fbf96e353ffb0280a11550e446cb36cbdb4445d4894a",
+      "prefix_latex": "填6厘米。",
+      "conclusion_latex": "填6厘米。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s08": {
+      "source_answer_sha256": "3ed9affe47bc7be551fa4c1ccd54a3dbc294e9d5a6508b72d7a4da517d5806b3",
+      "prefix_latex": "填4；对应高为4厘米。",
+      "conclusion_latex": "填4；对应高为4厘米。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p033_s13": {
+      "source_answer_sha256": "ad73346ecd2f225a22a7ce718e3952ca1b08b951b7e52a8a1f576c697e88e69d",
+      "prefix_latex": "填“锐角”。",
+      "conclusion_latex": "填“锐角”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p034_s01": {
+      "source_answer_sha256": "beba1f646e6698a288b4f845308a5877e2134efa17f0276e05b660558759efe8",
+      "prefix_latex": "填“锐角”。",
+      "conclusion_latex": "填“锐角”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p034_s04": {
+      "source_answer_sha256": "6a8f8a27ad42fde156c751b47ff442a44c42256cc420930d4e3b07a06966742d",
+      "prefix_latex": "选\\(C\\)。",
+      "conclusion_latex": "选\\(C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p034_s05": {
+      "source_answer_sha256": "5927330822048e97752ab8e6178c01cbd879564b2927a92f4bb1272cca9acc00",
+      "prefix_latex": "选\\(C\\)。",
+      "conclusion_latex": "选\\(C\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p034_s06": {
+      "source_answer_sha256": "02d02c30cba7da31857145a0d7f281c85d5a259b2744543a551890739ea06ed6",
+      "prefix_latex": "选\\(A\\)。",
+      "conclusion_latex": "选\\(A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p034_s08": {
+      "source_answer_sha256": "e14e7734cbcb7516d7c9174a04c4b733b7fc792b8cae473f4d3f056c8f7b6b23",
+      "prefix_latex": "选\\(B\\)。",
+      "conclusion_latex": "选\\(B\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p034_s09": {
+      "source_answer_sha256": "a776c2039e48351fc6ea0ffe033ec1c6554c79abac89e395ea8611662a084c75",
+      "prefix_latex": "选\\(A\\)。",
+      "conclusion_latex": "选\\(A\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p037_s01": {
+      "source_answer_sha256": "488667743614f8ca66d57bfc3e7f62ba2b1df4b82fcbe9183f36615c5afb0fdc",
+      "prefix_latex": "依次填“钝角、等边、锐角”。",
+      "conclusion_latex": "依次填“钝角、等边、锐角”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p037_s02": {
+      "source_answer_sha256": "e1f65e31fa21c46828d4731bc22189db0eaed48bf011fc2caac508a6dd1d96a5",
+      "prefix_latex": "填“稳定”。",
+      "conclusion_latex": "填“稳定”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p037_s03": {
+      "source_answer_sha256": "25c9cb11a745062a33e2b98b27e40532b82c1d8a0222bc693ba4700e9d829957",
+      "prefix_latex": "填\\(6\\)。",
+      "conclusion_latex": "填\\(6\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p037_s04": {
+      "source_answer_sha256": "1c56bf238933a6d4396a5133384c780b6005b6a2c003f5d1d10d25d2f32dac2a",
+      "prefix_latex": "填\\(9\\)。",
+      "conclusion_latex": "填\\(9\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p037_s05": {
+      "source_answer_sha256": "827e64d184726e655e5d2524550afe04438602a9090bf6b52f82cbf3e334a40b",
+      "prefix_latex": "填\\(180^\\circ\\)。",
+      "conclusion_latex": "填\\(180^\\circ\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p037_s06": {
+      "source_answer_sha256": "4af1ecf80b5717842914a84bcf5fa7efc1f8a2a18edc3abbba53b7de6629ebb9",
+      "prefix_latex": "依次填“平行四边、三角”。",
+      "conclusion_latex": "依次填“平行四边、三角”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p037_s07": {
+      "source_answer_sha256": "3263c0e6c6baeb55079f1c7754a8cf540d98c2e8bcc3585d6f9664d990da2aaf",
+      "prefix_latex": "依次填\\(18,4\\)。",
+      "conclusion_latex": "依次填\\(18,4\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p037_s08": {
+      "source_answer_sha256": "22c82cdbdac27a19121912fe1da3b20cc1b87dc75cbed0ddd05504f3ddc46c5a",
+      "prefix_latex": "依次填\\(1,6\\)。",
+      "conclusion_latex": "依次填\\(1,6\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p038_s01": {
+      "source_answer_sha256": "a7ea509a469efe11e45b86d42b0c864af6846600ead487d4698d2a637e4de434",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p038_s02": {
+      "source_answer_sha256": "90073db4ba9ad842eb9002c1d7a3b20350e8e05bf542088d8f59721830a1c554",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p038_s03": {
+      "source_answer_sha256": "5d15e0469a1e71ef9e63ab783a20111cfe0abc646d4d8cb4a2c6afdbd2105bab",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p038_s04": {
+      "source_answer_sha256": "9660b15054f556749998749f788adff0d09eed8b4952884957ccb5fd94d0e7b2",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p038_s05": {
+      "source_answer_sha256": "ecebf24dc80bb32b2576f273cb2c9bcac9d9a98ab28e9c944d6dcb6c443a534b",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p038_s06": {
+      "source_answer_sha256": "61f4c0e72ff0595c273a2347aabbd5bce6dce62a10167555cab2dd8634a61a88",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p038_s07": {
+      "source_answer_sha256": "519035ed3dc0b8497355c2a345fa6f786eea804aec72cf879234fb473181ad15",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s01": {
+      "source_answer_sha256": "b874ccc46422d4a362e19fdc17ae3b6e3f754eb6e027462ad6b2d484cbea7103",
+      "prefix_latex": "填\\(32\\)。",
+      "conclusion_latex": "填\\(32\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s02": {
+      "source_answer_sha256": "4b3cac2f695070b2e73c2b4be3530ffb37e09848bea08e058dbfa6f65cf21c1e",
+      "prefix_latex": "依次填“互相平行、相交、垂直”。",
+      "conclusion_latex": "依次填“互相平行、相交、垂直”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s03": {
+      "source_answer_sha256": "24eccdf99f6c5835dc7958f49081892389db6dceafef5dc109b10e32dab7844d",
+      "prefix_latex": "依次填\\(43,32\\)。",
+      "conclusion_latex": "依次填\\(43,32\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s04": {
+      "source_answer_sha256": "ee0453ad6424f29ff8d0e945086f694c61d35daff25cc8ff58caac720dd69d35",
+      "prefix_latex": "依次填\\(80,8\\)。",
+      "conclusion_latex": "依次填\\(80,8\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s05": {
+      "source_answer_sha256": "883f2583274439d26089b86b880fe2b38a0d165ccb2c5323bc971da3da257484",
+      "prefix_latex": "依次填\\(99,1\\)。",
+      "conclusion_latex": "依次填\\(99,1\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s06": {
+      "source_answer_sha256": "bab6481e2d6200e28ffec5ee0c627e0cacd8a506668d85db26dd6e4eeabc26bd",
+      "prefix_latex": "填\\(20\\)。",
+      "conclusion_latex": "填\\(20\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s07": {
+      "source_answer_sha256": "f32a6417f0dd748c654cd9dfc82051539329d9c61b9905ce541b1b09ff14a0e6",
+      "prefix_latex": "填\\(9\\)。",
+      "conclusion_latex": "填\\(9\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s08": {
+      "source_answer_sha256": "8f4288a549e39271c85194035ce69fc92ff45914808d7fcd1049a6e04e6e8579",
+      "prefix_latex": "依次填\\(<,>,=,<\\)。",
+      "conclusion_latex": "依次填\\(<,>,=,<\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p041_s09": {
+      "source_answer_sha256": "e08213e4093c31588f2acecd67ba72cbf71ff2bdc7fec42e5390f7f275ac55a3",
+      "prefix_latex": "依次填\\(45^\\circ\\)、等腰、\\(180^\\circ\\)、\\(360^\\circ\\)。",
+      "conclusion_latex": "依次填\\(45^\\circ\\)、等腰、\\(180^\\circ\\)、\\(360^\\circ\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p042_s01": {
+      "source_answer_sha256": "f535730136e7732ab827ec5fa0344111bc37426bf564887c63040a2c34fb8456",
+      "prefix_latex": "依次填\\(18,216\\)。",
+      "conclusion_latex": "依次填\\(18,216\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p042_s02": {
+      "source_answer_sha256": "8b78bda389e6dd0f2f47607adb15677856fa0a2eb35bc83e342d91f1fd326260",
+      "prefix_latex": "依次填\\(3,3,4\\)。",
+      "conclusion_latex": "依次填\\(3,3,4\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p042_s03": {
+      "source_answer_sha256": "43f32fc5650f692b004b4b276cae9e7e363d4858d5a2350b25da0ca5d0ff88df",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p042_s04": {
+      "source_answer_sha256": "5475905e6acaf875a0ca0403bba920d024eba4782ac024cacc1caeae5a9af8e7",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p042_s05": {
+      "source_answer_sha256": "0e3b9c58071942610ac6721116e11edc7f8d3fba6875c83f5675a538791a393a",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p042_s06": {
+      "source_answer_sha256": "4f195e2c1289fc20483af0d9033c27c7be0fe8c8a8b389c24a981372eb56210f",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p042_s07": {
+      "source_answer_sha256": "016e4075cd5215f517fe2408762f042bf387d8ef73e41449208c1799c18d1b05",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p045_s01": {
+      "source_answer_sha256": "b0b9e13594ee39b881c77279cb6faab3f4449df1099ea9fc8c6462174919029e",
+      "prefix_latex": "填\\([200+(370-295)]\\div5\\)。",
+      "conclusion_latex": "填\\([200+(370-295)]\\div5\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p045_s02": {
+      "source_answer_sha256": "34defd2d967a3c8535ae89350d5302257e8c3e7c8ddef718fa3f6a2f840d9542",
+      "prefix_latex": "填\\(4608\\)。",
+      "conclusion_latex": "填\\(4608\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p045_s03": {
+      "source_answer_sha256": "a868743826f79feb006eb0ef99dc7440240c071de00c63891fa9a92590bb36c2",
+      "prefix_latex": "依次填\\(3,9\\)。",
+      "conclusion_latex": "依次填\\(3,9\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p045_s06": {
+      "source_answer_sha256": "e45cf9088b739026d0022d622902ca9ea16f403708f11ed0f5106169a4881019",
+      "prefix_latex": "依次填\\(a,a,1,99,+\\)。",
+      "conclusion_latex": "依次填\\(a,a,1,99,+\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p045_s07": {
+      "source_answer_sha256": "6c449bb3d595e8338e77431ba7ba9ed8f083f66d93306d646e6a7c041785811d",
+      "prefix_latex": "填\\(12000\\)。",
+      "conclusion_latex": "填\\(12000\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p045_s08": {
+      "source_answer_sha256": "dc32e54c578b4c57ab7e4bf0f0001767f8b22c08863804d99bd22c5b5ec63690",
+      "prefix_latex": "依次填\\(>,=,<,>,<,<\\)。",
+      "conclusion_latex": "依次填\\(>,=,<,>,<,<\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p045_s09": {
+      "source_answer_sha256": "ceca93a75da9c6efa49a249540b0ec7561ed9e3543f3cb9d379efbe969c1bf6a",
+      "prefix_latex": "填“平行”。",
+      "conclusion_latex": "填“平行”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p045_s10": {
+      "source_answer_sha256": "27c4c2894a41dc20c759a8615bf9286b4a4a58fcf2e94ae9977f8bc42ca72795",
+      "prefix_latex": "填\\(30^\\circ\\)。",
+      "conclusion_latex": "填\\(30^\\circ\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p046_s01": {
+      "source_answer_sha256": "283d4eeb05879f0684228ea7acb7f9ed3dea35b3317f852b0cf5916a3e73c841",
+      "prefix_latex": "依次填\\(1.8,4,BCD,BC\\)。",
+      "conclusion_latex": "依次填\\(1.8,4,BCD,BC\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p046_s02": {
+      "source_answer_sha256": "5935083a671dad6998bd237e2e1ae88af83a0e16a1aaff50ce2aebfafa5949d4",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p046_s03": {
+      "source_answer_sha256": "2dfa918a4a2823cae27e415956a829a60ed8c68e070974e9a3f730af992915d7",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p046_s04": {
+      "source_answer_sha256": "7cbacc996bd82bee03c9d00895e99e0355ade8fe87c2ab02dccc2f9d4e9d3e85",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p046_s05": {
+      "source_answer_sha256": "2043aaccf41de8ed79aa31d8be60631af1ec9eb25dc668159a94cb04d038f7f3",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p046_s06": {
+      "source_answer_sha256": "d59779872822ca3c02c762cb2334a323eb650f3c22aff6e151631cac98bca3b3",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p049_s01": {
+      "source_answer_sha256": "d33003c98b078bafe2b40db9dc331f1ab112795e614068534ecd2618b1f8803f",
+      "prefix_latex": "依次填“三十点六四、\\(0.01\\)、\\(3064\\)”。",
+      "conclusion_latex": "依次填“三十点六四、\\(0.01\\)、\\(3064\\)”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p049_s02": {
+      "source_answer_sha256": "ed107c3372cb819af865a34e99bb4420beb1cab58061408e7d95baf017f1e02b",
+      "prefix_latex": "依次填\\(0.87,13\\)。",
+      "conclusion_latex": "依次填\\(0.87,13\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p049_s03": {
+      "source_answer_sha256": "b2e148df9db7ca867e3bf8c8ee337fddce9e1deacddebabe615c7fe1e7442600",
+      "prefix_latex": "依次填\\(16.8,17,9.95,10.0\\)。",
+      "conclusion_latex": "依次填\\(16.8,17,9.95,10.0\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p049_s04": {
+      "source_answer_sha256": "d167aaef939d11d6c3b7d7d99b96ab2c918f5dffdc407e41e6cbf3ff0dc19444",
+      "prefix_latex": "依次填\\(0.3;5,60;0.032;5.03\\)。",
+      "conclusion_latex": "依次填\\(0.3;5,60;0.032;5.03\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p049_s06": {
+      "source_answer_sha256": "4cee05a2476fda6f062e3a9803606f3f01415bff7d6eb30bfd4d5772153f0d06",
+      "prefix_latex": "填\\(840.02\\)。",
+      "conclusion_latex": "填\\(840.02\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p049_s07": {
+      "source_answer_sha256": "bddb35bf9c552c0636b2a0d0a03c61b1ca8cf442ed99312662c15916755b00a2",
+      "prefix_latex": "依次填\\(>,=,<,<,=,>\\)。",
+      "conclusion_latex": "依次填\\(>,=,<,<,=,>\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p050_s01": {
+      "source_answer_sha256": "e2fd07fc69c72f1720830b18f34dd0c00d930272c1bd5661fd3aa6b8f0d02ef3",
+      "prefix_latex": "依次填\\(7.204,7.195\\)。",
+      "conclusion_latex": "依次填\\(7.204,7.195\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p050_s02": {
+      "source_answer_sha256": "ac2a670cd6f0e226ff724e1a1f18547c3b2f8edd459db94a359d4cecafe5e92c",
+      "prefix_latex": "选\\(D\\)。",
+      "conclusion_latex": "选\\(D\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p050_s03": {
+      "source_answer_sha256": "6cd7649b25fe043ce39b9791b956bf4fe81e6ac4fcbe53d741041aa1b06eef79",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p050_s04": {
+      "source_answer_sha256": "67a61eb9ea0176d808512c9bfeb4543f0d1c70fdef4701809aafb6f9b6a98d15",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p050_s05": {
+      "source_answer_sha256": "d86b0e0f55f570467ddac52e53a6334f6ffe2df5d1e52599b86d7de469b20398",
+      "prefix_latex": "选C，方框中是4，跳远距离为1.43米。",
+      "conclusion_latex": "选C，方框中是4，跳远距离为1.43米。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p050_s06": {
+      "source_answer_sha256": "261bb246c8fc996e25a5e4bd83720caace3ecbe177a6afd96bca81e050ef9b5b",
+      "prefix_latex": "选C，共6个。",
+      "conclusion_latex": "选C，共6个。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p050_s07": {
+      "source_answer_sha256": "526ca37b59c990f59dc4e224c8f94e86ea5dad291593e9102dfd0ae1354679bb",
+      "prefix_latex": "选C，共4个。",
+      "conclusion_latex": "选C，共4个。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p050_s08": {
+      "source_answer_sha256": "f66e37c451dda9ffc3792b945a2846bffbf0f4efb4d8f8bdbc83b6e6b336d6e8",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p051_s03": {
+      "source_answer_sha256": "b1f65967d765fb897b26bdbc0f2eff14b26ad102b8dec9cb02f56e90db43cc7c",
+      "prefix_latex": "依次填\\(2,3;10,11;7,6;36,35;99,100;275,276\\)。",
+      "conclusion_latex": "依次填\\(2,3;10,11;7,6;36,35;99,100;275,276\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p053_s01": {
+      "source_answer_sha256": "a964812ce6ff7e94634f271ee8853c66559ff29c6dac1bb9e8dc3352ef166707",
+      "prefix_latex": "依次填\\(0.9,1.1\\)。",
+      "conclusion_latex": "依次填\\(0.9,1.1\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p053_s02": {
+      "source_answer_sha256": "6f0832d4fec2b0199d94e3bcab87bab4906e0e80945c469e4e2bac280ba1cefe",
+      "prefix_latex": "依次填“千分之一、618、0.6180”。",
+      "conclusion_latex": "依次填“千分之一、618、0.6180”。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p053_s03": {
+      "source_answer_sha256": "32cb5ca5bb8ff7777a4f3a7fb57913d1e75751027c4a3630728c9ea1816a9531",
+      "prefix_latex": "填\\(0.36\\)。",
+      "conclusion_latex": "填\\(0.36\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p053_s05": {
+      "source_answer_sha256": "b1e4703d1568479fd935b47883f2c1d922f520200c58c2390d0ab5efdaff3c24",
+      "prefix_latex": "依次填\\(30.805,1\\)。",
+      "conclusion_latex": "依次填\\(30.805,1\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p053_s06": {
+      "source_answer_sha256": "46d1d5f62e4fccbc66a7c708e5ebb36cc9b5dd48032725da9c3cba76257624a4",
+      "prefix_latex": "填\\(1000\\)。",
+      "conclusion_latex": "填\\(1000\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p053_s07": {
+      "source_answer_sha256": "053150e8d7c13e72d21c9e7d576c94817418e2f04bb0ab1ef2cdd3d9c35efe07",
+      "prefix_latex": "填\\(0.126\\)。",
+      "conclusion_latex": "填\\(0.126\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p053_s09": {
+      "source_answer_sha256": "5bdfd1e6b9e139f72170790e5b36da494f5e89e19ba67be3f88e78a1e9b5838b",
+      "prefix_latex": "依次填\\(450,0.45\\)。",
+      "conclusion_latex": "依次填\\(450,0.45\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p054_s01": {
+      "source_answer_sha256": "027f4767945ea47605def532171cb261752488d11ada139ffedb0f2cbef54389",
+      "prefix_latex": "依次填\\(1.7,2.42,48.67\\)。",
+      "conclusion_latex": "依次填\\(1.7,2.42,48.67\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p054_s02": {
+      "source_answer_sha256": "2fb13c7b2f13c49c75a17fff891e4544f2eceab4a36e43ef10077adbbf8b00a0",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p054_s03": {
+      "source_answer_sha256": "4dc4bcf445ad6aaa6a33490b80ad4f847a5887d82b0c5be8d226df16e5d4cb41",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p054_s04": {
+      "source_answer_sha256": "10aa18d467e4b61263305ceb4bd9be879b5cd4823565842cd94e6056cca5d788",
+      "prefix_latex": "依次选\\(\\mathrm{B},\\mathrm{A}\\)。",
+      "conclusion_latex": "依次选\\(\\mathrm{B},\\mathrm{A}\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p054_s05": {
+      "source_answer_sha256": "7e58f0c9850699b75ba7ec6033f7ede3a88e95e664a532f4cdc0dcafbdffcfcf",
+      "prefix_latex": "选B，方框中最大填4。",
+      "conclusion_latex": "选B，方框中最大填4。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p054_s06": {
+      "source_answer_sha256": "3846feeef24d8b494dace4b51939552ad6d9169766f68423842e35f4ae7cca59",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s01": {
+      "source_answer_sha256": "8a0888cf2667331d1271a69a4595827460aad932163e8a678d208c25fc80c735",
+      "prefix_latex": "填\\(112\\)。",
+      "conclusion_latex": "填\\(112\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s02": {
+      "source_answer_sha256": "4e78cf4afa15ba0057f5eacfef7bf1fce0ee2a9e618b0d09279db2ebdfa3ff68",
+      "prefix_latex": "依次填\\(50\\)、\\(450\\)。",
+      "conclusion_latex": "依次填\\(50\\)、\\(450\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s03": {
+      "source_answer_sha256": "a2855bb1c1c54cf7ffc64030d081e9222ba0f71e339a9cf54f891ca17fb34a4c",
+      "prefix_latex": "填\\(16\\)。",
+      "conclusion_latex": "填\\(16\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s04": {
+      "source_answer_sha256": "346f19efd2c8bfc90a23eab4389dcd62a3de0c217f0ff76396e563d281563205",
+      "prefix_latex": "填\\(50\\)。",
+      "conclusion_latex": "填\\(50\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s05": {
+      "source_answer_sha256": "0169d9bd42f09559c463800700345d85a4874d1a88de7865d66bb908c0e8b633",
+      "prefix_latex": "填甲。",
+      "conclusion_latex": "填甲。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s06": {
+      "source_answer_sha256": "d85e09c6c4f02207f73a956fb409fa44a2a67fd313584c482c7f9ebd2b0b6046",
+      "prefix_latex": "填\\(12\\)。",
+      "conclusion_latex": "填\\(12\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s07": {
+      "source_answer_sha256": "060960f340022aaa6f661ec53da215d203e7d28f38dd5a9eb07dd21849a108c6",
+      "prefix_latex": "填\\(70\\)。",
+      "conclusion_latex": "填\\(70\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s08": {
+      "source_answer_sha256": "cad369228710eecacb7d945badb076f2aa3f91d2bfeac563cd43292789695832",
+      "prefix_latex": "填\\(36\\)。",
+      "conclusion_latex": "填\\(36\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s09": {
+      "source_answer_sha256": "6f191a6866cbf11043b9b6c9d4badcbfad0c36fc562db473504c9e29e0f0d100",
+      "prefix_latex": "填③。",
+      "conclusion_latex": "填③。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p073_s10": {
+      "source_answer_sha256": "119fd3b2bf13a11830c104a1ef00b554581ca0c815e1def8d0135f59856f017f",
+      "prefix_latex": "填\\(26\\)。",
+      "conclusion_latex": "填\\(26\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p074_s01": {
+      "source_answer_sha256": "8908e90ba3c7f9089b089a78ff7e711bf0739fbb75031ba727d3d3b65f19943c",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p074_s02": {
+      "source_answer_sha256": "239d681afa6b9171d4c5ccb43e77fc0a6c7dd5bd5970c14bd5bf9f6839868fb3",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p074_s05": {
+      "source_answer_sha256": "3c08d8fe05f7fdd1508bedb77b235d486c6aba44fef86bc638f190a7b05fa6b2",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p074_s06": {
+      "source_answer_sha256": "987dbc0bdbad2c4a91a4d7c0a056014bdd2fcf49f9d3e904f82dbc5c5d591600",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p077_s01": {
+      "source_answer_sha256": "fa93ed9a81e434a7d4e8c281f61c63daed5d1629d91a78ef0c9a2c58d07ee794",
+      "prefix_latex": "填\\(17\\)。",
+      "conclusion_latex": "填\\(17\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p077_s02": {
+      "source_answer_sha256": "65fa2ff1189e847a0d37b3de5de9ea211d1c25a84735711399c9ba75a9136774",
+      "prefix_latex": "依次填\\(672\\)、\\(112\\)。",
+      "conclusion_latex": "依次填\\(672\\)、\\(112\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p077_s03": {
+      "source_answer_sha256": "474cbdf0f091b7cf49d25759d19dd41ac8f2f73f7374ddb1cc4a95d0444fc869",
+      "prefix_latex": "依次填\\(24\\)、\\(28\\)。",
+      "conclusion_latex": "依次填\\(24\\)、\\(28\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p077_s04": {
+      "source_answer_sha256": "acfaa7a7f20ceda6c57f6f7e44fdaa771119b8dc4dab7c00b227ee428dedc6df",
+      "prefix_latex": "填\\(14\\)。",
+      "conclusion_latex": "填\\(14\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p077_s05": {
+      "source_answer_sha256": "eeb7abdae26b45e4551e9c3fee5d8831853b7817822fc049fbe425bfdb7088f7",
+      "prefix_latex": "填\\(52\\)。",
+      "conclusion_latex": "填\\(52\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p077_s06": {
+      "source_answer_sha256": "e9c1eb96f0b52a8ee14ce15b0cfcb8d197a30ac9857fff715831bfa201e0c6f6",
+      "prefix_latex": "填\\(156\\)。",
+      "conclusion_latex": "填\\(156\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p077_s07": {
+      "source_answer_sha256": "83756ba507402c6df888ee52110bb8659c69707b47cb3727c2cadf6ce85cacbe",
+      "prefix_latex": "填\\(159\\)。",
+      "conclusion_latex": "填\\(159\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p077_s08": {
+      "source_answer_sha256": "5e94ec33faa596c2f5a5157de6bde67abffc982ac28bf59e31483c556e2b1fad",
+      "prefix_latex": "填A。",
+      "conclusion_latex": "填A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p078_s01": {
+      "source_answer_sha256": "a61b22ac15f8e5108f4afc575f23b3feac56022d8aa52c9ac7855abfe5a11400",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p078_s02": {
+      "source_answer_sha256": "a5cf087b0f3dae868ff7bb05c4378429b57c8ff159ad18bc9a6c718cdaadcb85",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p078_s03": {
+      "source_answer_sha256": "a87593bf26d5cfebb2a0f4a7cf3455a70c34f8a1d6fc9db6b7fe7b3c6033882d",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p078_s05": {
+      "source_answer_sha256": "f7104be8148de285e65917f8b24e5a8a1a77345aff8fbcf38ce76cd15295911e",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p078_s06": {
+      "source_answer_sha256": "3cfbadaccf92a5d23940b7eaf2f5805ced3cca666804334b823036f5357fcd17",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p080_s03": {
+      "source_answer_sha256": "de23b03c2d7ad5cfc8b3b0012661d0c8124d187b11590ac2499e42251501e427",
+      "prefix_latex": "依次填\\(44\\)、\\(5.0\\)及以上、\\(23\\)。",
+      "conclusion_latex": "依次填\\(44\\)、\\(5.0\\)及以上、\\(23\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s01": {
+      "source_answer_sha256": "b03c2a646dbc8252bfd3cad3cec7962b4662cbf8a4c2c6992044ad952202c2c8",
+      "prefix_latex": "依次填\\(25\\)、\\(350\\)。",
+      "conclusion_latex": "依次填\\(25\\)、\\(350\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s02": {
+      "source_answer_sha256": "62a0c8d81964e73bb2fa237867ffadc8d9bb74fe0dcbd744bd4993e3e7f74e0e",
+      "prefix_latex": "填\\(128\\)。",
+      "conclusion_latex": "填\\(128\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s03": {
+      "source_answer_sha256": "63eeee42c895d6c5e589db72385b031ad62ae8b2a659c429ed66c4ea0759d212",
+      "prefix_latex": "依次填\\(30.609\\)、三十点六零九、\\(30.61\\)。",
+      "conclusion_latex": "依次填\\(30.609\\)、三十点六零九、\\(30.61\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s04": {
+      "source_answer_sha256": "3d8cccd042cb6c305c84eb26e97a90bfcf16216aa26c95d806f7e21db1ccce80",
+      "prefix_latex": "依次填\\(3.31\\)、\\(3\\)。",
+      "conclusion_latex": "依次填\\(3.31\\)、\\(3\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s05": {
+      "source_answer_sha256": "06a9f98989f0f92aeb3508a060ef8a6ce192c769489aa177fb2de59151b38d80",
+      "prefix_latex": "填\\(275\\)。",
+      "conclusion_latex": "填\\(275\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s06": {
+      "source_answer_sha256": "b92f88345d60673700eec52983a93c1e9c3d52d5cc4c714066093c44af670e15",
+      "prefix_latex": "填\\(60\\)。",
+      "conclusion_latex": "填\\(60\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s07": {
+      "source_answer_sha256": "a733e7edaa6908bb573cfe65ceb36e0e570248ccd5b89b9a7c9b67974c150565",
+      "prefix_latex": "填\\(52000\\)。",
+      "conclusion_latex": "填\\(52000\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s08": {
+      "source_answer_sha256": "fdcefc1eae54477a200a8fa1fb0725387092c90168744ebee9f098ab4a7c5a4d",
+      "prefix_latex": "填\\(587.35\\)。",
+      "conclusion_latex": "填\\(587.35\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s09": {
+      "source_answer_sha256": "369a2bb7d1a1521d51dcec3ce904a2122e2e7da7a8b8674b77a0ca7fb3a48910",
+      "prefix_latex": "依次填\\(6\\)、\\(260\\)。",
+      "conclusion_latex": "依次填\\(6\\)、\\(260\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s10": {
+      "source_answer_sha256": "8edff185fa1be5a16f5828f478726bbdbebc1d5aaed367cd67179c9ceb9ef3fe",
+      "prefix_latex": "填\\(3.294\\)。",
+      "conclusion_latex": "填\\(3.294\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s11": {
+      "source_answer_sha256": "9eb155c6a9bbae639ad145c3488f068c5b5c2079ef1d46d4b7f6b3acfe7d8d14",
+      "prefix_latex": "依次填\\(275\\)、\\(90\\)。",
+      "conclusion_latex": "依次填\\(275\\)、\\(90\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s12": {
+      "source_answer_sha256": "ae1dc5653b650f6102b25a4751305474d5910e086607274d7b30c717bd4a81c9",
+      "prefix_latex": "依次填\\(8627\\)、\\(7.46\\)。",
+      "conclusion_latex": "依次填\\(8627\\)、\\(7.46\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s13": {
+      "source_answer_sha256": "33d5617c5da96a916aa34fbcce5b1fab1c73259976800e23f9fd9885f41a32f3",
+      "prefix_latex": "依次填\\(236.45\\)、\\(236.54\\)。",
+      "conclusion_latex": "依次填\\(236.45\\)、\\(236.54\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p081_s14": {
+      "source_answer_sha256": "d046716f31e8a3b5c91aa6c535e40ed147190c83641bc3a68648922cd2d3d92a",
+      "prefix_latex": "填\\(7.21\\)。",
+      "conclusion_latex": "填\\(7.21\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p082_s01": {
+      "source_answer_sha256": "bd2e0d5cb98698e4838ea5af0053fdaea2efe6bbbd5b54d4e7265d16b65c1a3f",
+      "prefix_latex": "填\\(600.06\\)。",
+      "conclusion_latex": "填\\(600.06\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p082_s02": {
+      "source_answer_sha256": "2f006a416f3f364d620296b764767f4f80864b483642d04ad40c666a4c99937e",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p082_s03": {
+      "source_answer_sha256": "2828d4f9f50f6a0c3441c9636e9b8a47bef74a59f36f4eb291e11c2c06912b56",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p082_s04": {
+      "source_answer_sha256": "94f7e789a2d67d5c365815b9463c8c6c6b7c507369af29516b574f51f8678b6a",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p082_s05": {
+      "source_answer_sha256": "838415d09f50c94a207511055813698599efa4f4fc7546bc8c4f17033cf6da3b",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p082_s06": {
+      "source_answer_sha256": "f4c8b2ccb941f0dc7abb0a7060261b81cc7d1f3d4a3496af9cc09e352bd9582b",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p082_s07": {
+      "source_answer_sha256": "f0a3e3955d9fd6836c6824a276d3318da34fa88f943f7ed5ead40343c0bb8285",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s01": {
+      "source_answer_sha256": "0e419734d6844a541ca59f4308e79c3a44799243e3fd709839ef39cb83fd3f50",
+      "prefix_latex": "依次填无数、\\(1\\)。",
+      "conclusion_latex": "依次填无数、\\(1\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s02": {
+      "source_answer_sha256": "812a9ffbcd2ff8a8c190141f29433b1b18c2ec731be76d432095d3b2575752fd",
+      "prefix_latex": "依次填垂直、平行。",
+      "conclusion_latex": "依次填垂直、平行。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s03": {
+      "source_answer_sha256": "12bfa78d78f7e2b91ff1b310f40a007183000be21d2040cdeaee46b71ef0c6fe",
+      "prefix_latex": "依次填无数、相等。",
+      "conclusion_latex": "依次填无数、相等。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s04": {
+      "source_answer_sha256": "1a94f48ff05bc3bd16c6d64e8de63f29befd66828ed624782112c8872ddd5f1a",
+      "prefix_latex": "依次填\\(5,4,6\\)。",
+      "conclusion_latex": "依次填\\(5,4,6\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s05": {
+      "source_answer_sha256": "7b55710956b6a09ce84a1ab24f57d7818a87f03a4e2ae57e5d229bd1f2d44dbd",
+      "prefix_latex": "依次填\\(13\\)、\\(5\\)。",
+      "conclusion_latex": "依次填\\(13\\)、\\(5\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s07": {
+      "source_answer_sha256": "696f8777336a49b7a2eefc1196cc709e5af440772894348f50b5f76bf0a7cd99",
+      "prefix_latex": "填旋转。",
+      "conclusion_latex": "填旋转。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s08": {
+      "source_answer_sha256": "40c268a4cc40874f213c2084c48a7951b8aac49d8376432f107e79a9fdf449b3",
+      "prefix_latex": "填平移。",
+      "conclusion_latex": "填平移。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s09": {
+      "source_answer_sha256": "ee5eb2d7af87c0bcfb6c39ef1bc69ec94e1bdfd2519ae2ff0218d48ebd537408",
+      "prefix_latex": "填平移。",
+      "conclusion_latex": "填平移。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s10": {
+      "source_answer_sha256": "08541d16687e6c62680630d9f1e5f53955fc0030ed07b80d8eab0834c9fedd2b",
+      "prefix_latex": "填旋转。",
+      "conclusion_latex": "填旋转。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p085_s11": {
+      "source_answer_sha256": "b58897d49e1bed15791b5db67ff72bcb152e3ee34301dfc7d04240d4ccb947e8",
+      "prefix_latex": "依次填\\(4,3,1\\)。",
+      "conclusion_latex": "依次填\\(4,3,1\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p086_s01": {
+      "source_answer_sha256": "0bc8468e24932e99d2e1eb4932cf33882f922206c42cfe8917182b2059ee92e8",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p086_s02": {
+      "source_answer_sha256": "ed48a211441bfcf7bfdbcc62e6ae8a556de6aedaee1646fb7c5c21fca494a920",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p086_s03": {
+      "source_answer_sha256": "4a208969728776a557b4d691131a382712379ad69ad41e9d19c2b05188d00ce4",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p086_s04": {
+      "source_answer_sha256": "814c1b96f3479bfa3bc037378a5fd0cb4652810a87c06eb0d2d519a5cbe7fdcc",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p086_s05": {
+      "source_answer_sha256": "28a7522c21c737052a3145357a4a4ac465cd04cf3d8b40eab8274ee138616576",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p086_s06": {
+      "source_answer_sha256": "1e15e73eb804c421017172b0f00f08c52403a358009749e4932648a7451b84d9",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s01": {
+      "source_answer_sha256": "8571958b1f73e4c23d4b5859b0b05dd54d988c42a185c96d7741ccb2e7f41530",
+      "prefix_latex": "填平均数。",
+      "conclusion_latex": "填平均数。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s02": {
+      "source_answer_sha256": "c6cadc3d597e579377d87827108b1db4f887e17f9ea9b6844f9c4a86de431c84",
+      "prefix_latex": "依次填155、10。",
+      "conclusion_latex": "依次填155、10。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s03": {
+      "source_answer_sha256": "5869e28848be1d081eaf58482590b571013ec4963b0eed4974796b5a3a783e83",
+      "prefix_latex": "填10。",
+      "conclusion_latex": "填10。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s04": {
+      "source_answer_sha256": "ba51c8eb1bdbfacd035a4c1f15cd7a32aec765b114b25ee8f0b98529a9d6e1f6",
+      "prefix_latex": "填22。",
+      "conclusion_latex": "填22。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s05": {
+      "source_answer_sha256": "382b22340483afe1f05536ccee971cb75e15e2c6e3b3e7563c246432758462b2",
+      "prefix_latex": "填\\(13\\)。",
+      "conclusion_latex": "填\\(13\\)。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s06": {
+      "source_answer_sha256": "9dc9e10c8d789810babafcb04ec4f40a48dc3fa8f3b27987fd43b55cc4e09ddc",
+      "prefix_latex": "填36。",
+      "conclusion_latex": "填36。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s07": {
+      "source_answer_sha256": "353c3feed8d78e14506560464466594026fd4b8e5f1ccde544f2fc777ae7e1e1",
+      "prefix_latex": "填96。",
+      "conclusion_latex": "填96。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s08": {
+      "source_answer_sha256": "8528f6b2d600cb7411d39b8558f3790939a0e8ce385853203e1ae5d673410be7",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p089_s09": {
+      "source_answer_sha256": "718a79ff68f39a049aab345c51a059acd699ff0aa1aba12435dc7598639455f3",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p090_s01": {
+      "source_answer_sha256": "3aae76913919023e5b9a601125f0a0627904b15cee815caedfc6765876e48958",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p093_s09": {
+      "source_answer_sha256": "93e072861cc9c3ca5d2066938730060566a7d0a57a23f1916da1410290acc803",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p094_s02": {
+      "source_answer_sha256": "c80a79adba8be2437e583da98261affb48a88c42a9204d6247618ae0f80d4711",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p094_s03": {
+      "source_answer_sha256": "e0bc74e9b8d841a954e333b8a0b5b340e8b3a8c52e5c3182197139756e3ec16d",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p094_s04": {
+      "source_answer_sha256": "accbfd19f9ac854900d0b293849bb127023caedf637809cadf0af46fceb748f7",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p094_s05": {
+      "source_answer_sha256": "5a4af6ffbe939f452b17478e56fc0bc2d02e266527b0f24d1e39f99168e2bb42",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p094_s06": {
+      "source_answer_sha256": "389f8ca1a43257b896ae60c0a4e06662e78b2b56bfdf5ece22cab04125e0292e",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p094_s07": {
+      "source_answer_sha256": "6028181e99aa3a8723904437630de28f2bcba011d9eb947c011ee6b0c7d8c583",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p098_s03": {
+      "source_answer_sha256": "b189426060ffd914ff517674f1aef4e711ec7f868ea5fd303fe3a83fef0baf6c",
+      "prefix_latex": "选B，共10个。",
+      "conclusion_latex": "选B，共10个。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p098_s04": {
+      "source_answer_sha256": "c5f290f1703db35aecfd39611c4b3ed2716cfa578c098678f97dbfe1645060b0",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p098_s05": {
+      "source_answer_sha256": "adba2d12a52a6dbc2e5441a878aa003a28bdfaf2e23e86af2a855b61839f7442",
+      "prefix_latex": "选D，甲、乙、丙都正确。",
+      "conclusion_latex": "选D，甲、乙、丙都正确。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p098_s06": {
+      "source_answer_sha256": "3614ffff8784fafcb3f3b83cbceb0530abd91520f153e8049fcde8883b60c469",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p099_s01": {
+      "source_answer_sha256": "4e79e067c47767adca09d1b65604c2841ac4e12d163ed56e4515d23cd552c1ea",
+      "prefix_latex": "选A，至少剪1次。",
+      "conclusion_latex": "选A，至少剪1次。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p102_s02": {
+      "source_answer_sha256": "b4a2f2d346783998272ad1bb8764f4b9301186fdf34b846fd0b0c007fe17cf37",
+      "prefix_latex": "选A，即①②④正确。",
+      "conclusion_latex": "选A，即①②④正确。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p102_s03": {
+      "source_answer_sha256": "85c1c109852c565e7ad3d5b29207979af3c358a056f1af8e2a3bc51ec06ff291",
+      "prefix_latex": "选B，",
+      "conclusion_latex": "选B。",
+      "reason": "后文含两种求平均数方法、脱式计算及移多补少理由，应完整保留原讲解顺序；仅后移选B。"
+    },
+    "p102_s04": {
+      "source_answer_sha256": "d20798bbfd09eccce210af5eaeaaf5c71d78a76e7c62cca392c3a4b178ed75c2",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p102_s05": {
+      "source_answer_sha256": "d760d10c31d44ad5ebb31d88dce421e9d577fe6113ae4c94a04614a7f7c61744",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p102_s06": {
+      "source_answer_sha256": "1d87fe572472f9266b749c78f99e0b4a0c16fdbce722332ebb443e043dd497eb",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p103_s01": {
+      "source_answer_sha256": "02a49d3554ef83d441ce9836c8f744372a5a2bc5ce7137db7e8f40fb60036898",
+      "prefix_latex": "选C，丙对A、乙对C、甲对B，二组依次输、赢、赢。",
+      "conclusion_latex": "选C，丙对A、乙对C、甲对B，二组依次输、赢、赢。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p103_s02": {
+      "source_answer_sha256": "f0398dc88ac04be40ed5e38d95c55ac5799b3a73494fac04131ea6b4597160e7",
+      "prefix_latex": "选A。",
+      "conclusion_latex": "选A。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p106_s01": {
+      "source_answer_sha256": "914fe44800fcffd21d77bff2cdd4a2f26c10f2b564e5d44eafcdbe970bffeac6",
+      "prefix_latex": "选B。",
+      "conclusion_latex": "选B。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p106_s02": {
+      "source_answer_sha256": "bbca5e56eaa2f2d170175322f75a413679c9aa3e18b7c79949ba02911ba12941",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p106_s03": {
+      "source_answer_sha256": "4ab1107b9bd42d6262994d8d504ddbe4590d10966c691ee53e7ec27916b92d22",
+      "prefix_latex": "选D。",
+      "conclusion_latex": "选D。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p106_s04": {
+      "source_answer_sha256": "ecd90c54cac8642414ec6b39715cf30c94f360dbe40c66de9c1b40fe5c6b05f5",
+      "prefix_latex": "选C，即②④。",
+      "conclusion_latex": "选C，即②④。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p106_s05": {
+      "source_answer_sha256": "4ace2af3e4dc90fcc287312ce0cf978ac416948967cea7f7befbf7afa0ae10ea",
+      "prefix_latex": "选C。",
+      "conclusion_latex": "选C。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    },
+    "p106_s06": {
+      "source_answer_sha256": "e9cf47547a6fd182eb25e6fe00f4d87ff7617422a834a4af9f8832735c782a7c",
+      "prefix_latex": "选D，乘法分配律。",
+      "conclusion_latex": "选D，乘法分配律。",
+      "reason": "仅把已核首句结论移到解析、计算及图示之后。"
+    }
+  },
+  "scope": "Presentation-only order: read → analysis/calculation/diagram → conclusion → original-slot review. Original question and answer mathematical source are unchanged.",
+  "reviewed_candidates": 252,
+  "moved_conclusions": 249,
+  "excluded_nonconclusions": [
+    "p065_s03",
+    "p065_s04"
+  ],
+  "additional_exact_review": "p054_s04 依次选B,A首句由原尺寸最终QA及主程核准；其他依次选/应选/可选/正确答案/填入等前缀已全库扫查无额外匹配。",
+  "unit_format_sync": "Leading conclusions rebound to the audited current answers; no mathematical source changed."
+}

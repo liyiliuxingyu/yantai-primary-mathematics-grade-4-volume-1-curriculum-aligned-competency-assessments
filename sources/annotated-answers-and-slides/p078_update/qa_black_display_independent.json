@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "reviewer": "average_crosscheck",
+  "pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+  "approved_changes_sha256": "012146e80018a231c103ade6ea63bacd94e939477ad7d7b8f83f11a8d6367f22",
+  "scope": "实际查看最终PDF两个局部放大图，仅核完整黑标题与第6题黑色术语，不代替全页排版或动画验收。",
+  "observations": [
+    {
+      "image": "qa_views/final_header_full.png",
+      "image_sha256": "eaf27d00a9ac9fc187de71ba88b325a0729b5f217eb19aa05fdeb5810db9fc1f",
+      "actually_viewed": true,
+      "visible_text": "（每题2分，共12分）",
+      "finding": "整段清楚，旧误字不见。"
+    },
+    {
+      "image": "qa_views/root_q6_final.png",
+      "image_sha256": "163aebad23060b234de825cdb9267c12e1df882656809b6d42a70605f5893845",
+      "actually_viewed": true,
+      "visible_text": "秧歌",
+      "finding": "两字清楚且与小兰、和剪纸不碰撞。"
+    }
+  ],
+  "historical_manual_observation_of_named_export": true,
+  "full_page_layout_signoff": false,
+  "native_powerpoint_playback_tested": false
+}

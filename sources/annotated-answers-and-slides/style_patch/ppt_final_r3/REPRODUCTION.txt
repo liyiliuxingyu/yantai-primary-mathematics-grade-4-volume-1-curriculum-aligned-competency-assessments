@@ -1,0 +1,24 @@
+Original source: ../../deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx
+Original SHA-256: bae9ace05a27c4178d32ad36ccdb2b5c9ee6bce943b16362377be4fdda92e16b
+
+The final deck changes only original slides 71, 74, 75 and 76. Original timing
+XML is copied byte for byte. Tree groups retain outer object ID 4.
+
+Run patch_p003_math.py in a fresh output folder in the same project structure.
+It automatically runs patch_p003_native_stage.py if the intermediate native
+deck is absent, compiles five actual LaTeX formula assets, and creates the final
+deck without overwriting an existing final. The font is ../../fonts/
+DroidSansFallback.ttf. XeLaTeX, Poppler, PyMuPDF and lxml are required.
+
+The tree nodes, labels, units, operators and connectors are editable native
+PowerPoint objects. The eight full formulas are true OMML objects in an a14
+Choice, with real compiled LaTeX SVG/PNG picture compatibility fallbacks.
+The tree companion sources p003_s07_a1.tex and p003_s07_a2.tex are true TikZ and
+have been compiled. A native tree group is an editable recreation of that TikZ
+dependency graph; it is not falsely described as an embedded TikZ SVG.
+
+validate_p003.mjs runs the Presentations skill's package/layout/font and
+Artifact Tool import checks. verify_final.py records package preservation and
+formula-structure checks in qa_ppt.json. Four actual LibreOffice PDF/PNG static
+exports are in actual_static_export. No Microsoft PowerPoint slideshow test
+was performed.

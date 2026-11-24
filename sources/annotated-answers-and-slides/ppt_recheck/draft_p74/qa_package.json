@@ -1,0 +1,38 @@
+[
+  {
+    "source": "p74_review/bundle/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+    "source_sha256": "13b58d1bad2535fb8f465c9aee782ca32ec18fe8134a011e4c2415ab4bb53511",
+    "output": "p74_review/ppt_recheck/draft_p74/小学四上同步素养卷第5册讲解课件答案.pptx",
+    "output_sha256": "bd2e6a8bc3b946606761bc7b681fdbd31a9bc52a006d7900f9e90519077bbc68",
+    "bytes": 5203946,
+    "total_slides": 430,
+    "changed_slides": [
+      34
+    ],
+    "changed_original_parts": [
+      "ppt/slides/slide34.xml"
+    ],
+    "new_parts": [],
+    "timing_bytes_all_unchanged": true,
+    "all_original_shape_ids_names_order_preserved": true,
+    "changes": [
+      {
+        "key": "p074_s04",
+        "slide": 34,
+        "ops": [
+          {
+            "name": "p074_s04_b001_3_p1",
+            "rect": [
+              332.94666666666666,
+              346.5000524934383,
+              819.3333333333334,
+              290
+            ],
+            "text": "千克，故比原来重，选C。\n书后A与当前题面数据不符。\n如果原平均为45千克，则\n39千克低于原平均，加入后\n变轻，应选A。需先核对题面。",
+            "points": 32
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "reviewer": "independent_math_visual_subagent_locate_p003",
+  "reviewed_at_utc": "2026-11-02T05:09:29.886964+00:00",
+  "status": "passed_within_reviewed_scope",
+  "scope": {
+    "book_page": 3,
+    "pdf_page_1_based": 7,
+    "record_key": "p003_s07",
+    "question_id": "四、1",
+    "independently_reviewed": [
+      "新试排整页PNG的布局和解答",
+      "当前交付PDF第7页两幅流程图的3倍放大静态渲染",
+      "实际参考课件第6、7张LO导出PNG",
+      "本题数量关系、三步计算、综合式、另法、逆验"
+    ],
+    "not_reviewed": [
+      "本次未独立逐页复核其他题页",
+      "本次未检查PPT动画或点击顺序",
+      "本次未审核整套压缩包和远端上传文件"
+    ],
+    "parent_supplied_context_not_independently_repeated": "主agent报告其余107道题页PNG与v13逐字节一致；本QA不将该报告计为独立检查。",
+    "source_mutation": "本次审阅未修改任何源题库、TikZ、LaTeX或PPT；仅创建本QA JSON。"
+  },
+  "assets": {
+    "delivery_pdf": {
+      "path": "/workspace/scratch/1facfb035d44/detail_work/deliverables/小学同步素养四年级上册数学答案.pdf",
+      "sha256": "9368a30440e16a89f042ed259bca3180c7e43296ec83fdce4b9dbf458216ba8b"
+    },
+    "trial_full_page_preview": {
+      "path": "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/p003_unit1_style/previews/p003.png",
+      "sha256": "b3a472dd3ef2d3049b6a437ef93f1f39fc89374657202ce468b9b66c5d1de188"
+    },
+    "reference_slide_images": [
+      {
+        "path": "/workspace/scratch/1facfb035d44/detail_work/style_patch/reference_slide6.png",
+        "sha256": "f746328720dfc4c6b6b0906c326689428e07a23e8e2ee16e0ac10a9855f2bb2c"
+      },
+      {
+        "path": "/workspace/scratch/1facfb035d44/detail_work/style_patch/reference_slide7.png",
+        "sha256": "80120e11b94a92261baf4473381bd3f175ce50759fa1d149b7647ad2ed38fe59"
+      }
+    ],
+    "delivery_pdf_page_size_pt": [
+      595.0,
+      1179.0
+    ]
+  },
+  "original_question_checks": {
+    "classes": 18,
+    "kilograms_per_class": 4,
+    "kilograms_processed": 32,
+    "batches": 4,
+    "match_original_question": true,
+    "original_question_visible_and_unobscured": true
+  },
+  "math": {
+    "total_recovered_kg": "4×18=72",
+    "remaining_kg": "72−32=40",
+    "average_per_batch_kg": "40÷4=10",
+    "combined_expression": "(4×18−32)÷4=10（千克）",
+    "alternative_expression": "4×18÷4−32÷4=18−8=10（千克）",
+    "inverse_check": "10×4+32=72=4×18",
+    "meaning_of_two_4s": "乘法中的4表示每班回收4千克；除法中的4表示4批。",
+    "result_kg": 10,
+    "arithmetic_pass": true,
+    "unit_meaning_pass": true
+  },
+  "flowchart_checks": {
+    "node_count": 14,
+    "forward_condition_analysis_nodes_top_to_bottom": [
+      [
+        "每班4千克",
+        "18个班"
+      ],
+      [
+        "回收总量72千克",
+        "已处理32千克"
+      ],
+      [
+        "剩余40千克",
+        "4批"
+      ],
+      [
+        "平均每批10千克"
+      ]
+    ],
+    "backward_problem_analysis_nodes_top_to_bottom": [
+      [
+        "平均每批10千克"
+      ],
+      [
+        "剩余40千克",
+        "4批"
+      ],
+      [
+        "回收总量72千克",
+        "已处理32千克"
+      ],
+      [
+        "每班4千克",
+        "18个班"
+      ]
+    ],
+    "labels_include_semantic_quantity_data_and_unit": true,
+    "operator_order_forward": [
+      "×",
+      "−",
+      "÷"
+    ],
+    "operator_order_backward_top_to_bottom": [
+      "÷",
+      "−",
+      "×"
+    ],
+    "forward_dependencies_pass": true,
+    "backward_dependencies_pass": true,
+    "reference_structure_match": "与原信息窗三第6、7张相同：从条件按乘、减、除逐层求解；从问题按除、减、乘逐层追溯。沿用原题框图外观。",
+    "all_14_labels_legible_inside_boxes": true,
+    "labels_do_not_cover_box_borders": true,
+    "labels_do_not_cover_operators": true,
+    "labels_do_not_cover_dependency_lines": true
+  },
+  "full_page_visual": {
+    "pass": true,
+    "flowcharts_fit_original_question_area": true,
+    "question_text_visible": true,
+    "calculation_and_answer_visible": true,
+    "explanation_and_inverse_check_visible": true,
+    "page_footer_3_visible": true,
+    "no_new_visual_issue_observed": true
+  },
+  "issues": []
+}

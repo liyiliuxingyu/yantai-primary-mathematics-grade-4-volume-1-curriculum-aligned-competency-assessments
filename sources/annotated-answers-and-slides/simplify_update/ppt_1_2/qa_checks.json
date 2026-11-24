@@ -1,0 +1,796 @@
+{
+  "math_expression_count": 108,
+  "math_all_exact_values_checked": true,
+  "math_expressions": [
+    {
+      "key": "p003_s03",
+      "slide": 64,
+      "expression": "592-(472-215)",
+      "value": "335"
+    },
+    {
+      "key": "p003_s03",
+      "slide": 64,
+      "expression": "592-472+215",
+      "value": "335"
+    },
+    {
+      "key": "p003_s03",
+      "slide": 64,
+      "expression": "120+215",
+      "value": "335"
+    },
+    {
+      "key": "p003_s03",
+      "slide": 64,
+      "expression": "335",
+      "value": "335"
+    },
+    {
+      "key": "p003_s04",
+      "slide": 65,
+      "expression": "76\\times75",
+      "value": "5700"
+    },
+    {
+      "key": "p003_s04",
+      "slide": 65,
+      "expression": "19\\times4\\times75",
+      "value": "5700"
+    },
+    {
+      "key": "p003_s04",
+      "slide": 65,
+      "expression": "19\\times(4\\times75)",
+      "value": "5700"
+    },
+    {
+      "key": "p003_s04",
+      "slide": 65,
+      "expression": "19\\times300",
+      "value": "5700"
+    },
+    {
+      "key": "p003_s04",
+      "slide": 65,
+      "expression": "5700",
+      "value": "5700"
+    },
+    {
+      "key": "p004_s02",
+      "slide": 82,
+      "expression": "9000-(30\\times270+45\\times15)",
+      "value": "225"
+    },
+    {
+      "key": "p004_s02",
+      "slide": 82,
+      "expression": "9000-(8100+675)",
+      "value": "225"
+    },
+    {
+      "key": "p004_s02",
+      "slide": 82,
+      "expression": "9000-8100-675",
+      "value": "225"
+    },
+    {
+      "key": "p004_s02",
+      "slide": 82,
+      "expression": "900-675",
+      "value": "225"
+    },
+    {
+      "key": "p004_s02",
+      "slide": 82,
+      "expression": "225\\text{（元）}",
+      "value": "225"
+    },
+    {
+      "key": "p004_s03",
+      "slide": 88,
+      "expression": "16\\times3\\div(4\\times6)",
+      "value": "2"
+    },
+    {
+      "key": "p004_s03",
+      "slide": 88,
+      "expression": "16\\times3\\div24",
+      "value": "2"
+    },
+    {
+      "key": "p004_s03",
+      "slide": 88,
+      "expression": "16\\times3\\div3\\div8",
+      "value": "2"
+    },
+    {
+      "key": "p004_s03",
+      "slide": 88,
+      "expression": "16\\div8",
+      "value": "2"
+    },
+    {
+      "key": "p004_s03",
+      "slide": 88,
+      "expression": "2\\text{（袋）}",
+      "value": "2"
+    },
+    {
+      "key": "p004_s04",
+      "slide": 93,
+      "expression": "480\\times3\\div(4\\times6)",
+      "value": "60"
+    },
+    {
+      "key": "p004_s04",
+      "slide": 93,
+      "expression": "480\\times3\\div24",
+      "value": "60"
+    },
+    {
+      "key": "p004_s04",
+      "slide": 93,
+      "expression": "480\\times3\\div3\\div8",
+      "value": "60"
+    },
+    {
+      "key": "p004_s04",
+      "slide": 93,
+      "expression": "480\\div8",
+      "value": "60"
+    },
+    {
+      "key": "p004_s04",
+      "slide": 93,
+      "expression": "60\\text{（块）}",
+      "value": "60"
+    },
+    {
+      "key": "p006_s02",
+      "slide": 136,
+      "expression": "12\\times15\\div5-80\\div5",
+      "value": "20"
+    },
+    {
+      "key": "p006_s02",
+      "slide": 136,
+      "expression": "12\\times(15\\div5)-80\\div5",
+      "value": "20"
+    },
+    {
+      "key": "p006_s02",
+      "slide": 136,
+      "expression": "12\\times3-16",
+      "value": "20"
+    },
+    {
+      "key": "p006_s02",
+      "slide": 136,
+      "expression": "36-16",
+      "value": "20"
+    },
+    {
+      "key": "p006_s02",
+      "slide": 136,
+      "expression": "20\\text{（个）}",
+      "value": "20"
+    },
+    {
+      "key": "p006_s03",
+      "slide": 139,
+      "expression": "25\\times2\\times2",
+      "value": "100"
+    },
+    {
+      "key": "p006_s03",
+      "slide": 139,
+      "expression": "25\\times(2\\times2)",
+      "value": "100"
+    },
+    {
+      "key": "p006_s03",
+      "slide": 139,
+      "expression": "25\\times4",
+      "value": "100"
+    },
+    {
+      "key": "p006_s03",
+      "slide": 139,
+      "expression": "100",
+      "value": "100"
+    },
+    {
+      "key": "p006_s06",
+      "slide": 147,
+      "expression": "25\\times8\\div25\\times8",
+      "value": "64"
+    },
+    {
+      "key": "p006_s06",
+      "slide": 147,
+      "expression": "(25\\div25)\\times(8\\times8)",
+      "value": "64"
+    },
+    {
+      "key": "p006_s06",
+      "slide": 147,
+      "expression": "1\\times64",
+      "value": "64"
+    },
+    {
+      "key": "p006_s06",
+      "slide": 147,
+      "expression": "64",
+      "value": "64"
+    },
+    {
+      "key": "p007_s03",
+      "slide": 160,
+      "expression": "25\\times21",
+      "value": "525"
+    },
+    {
+      "key": "p007_s03",
+      "slide": 160,
+      "expression": "25\\times(20+1)",
+      "value": "525"
+    },
+    {
+      "key": "p007_s03",
+      "slide": 160,
+      "expression": "500+25",
+      "value": "525"
+    },
+    {
+      "key": "p007_s03",
+      "slide": 160,
+      "expression": "525",
+      "value": "525"
+    },
+    {
+      "key": "p008_s01",
+      "slide": 176,
+      "expression": "66\\times5\\times8-300",
+      "value": "2340"
+    },
+    {
+      "key": "p008_s01",
+      "slide": 176,
+      "expression": "66\\times(5\\times8)-300",
+      "value": "2340"
+    },
+    {
+      "key": "p008_s01",
+      "slide": 176,
+      "expression": "66\\times40-300",
+      "value": "2340"
+    },
+    {
+      "key": "p008_s01",
+      "slide": 176,
+      "expression": "2640-300",
+      "value": "2340"
+    },
+    {
+      "key": "p008_s01",
+      "slide": 176,
+      "expression": "2340\\text{（元）}",
+      "value": "2340"
+    },
+    {
+      "key": "p011_s07",
+      "slide": 255,
+      "expression": "21\\times45",
+      "value": "945"
+    },
+    {
+      "key": "p011_s07",
+      "slide": 255,
+      "expression": "(20+1)\\times45",
+      "value": "945"
+    },
+    {
+      "key": "p011_s07",
+      "slide": 255,
+      "expression": "900+45",
+      "value": "945"
+    },
+    {
+      "key": "p011_s07",
+      "slide": 255,
+      "expression": "945",
+      "value": "945"
+    },
+    {
+      "key": "p015_s05",
+      "slide": 336,
+      "expression": "4000-15\\times219",
+      "value": "715"
+    },
+    {
+      "key": "p015_s05",
+      "slide": 336,
+      "expression": "4000-15\\times(220-1)",
+      "value": "715"
+    },
+    {
+      "key": "p015_s05",
+      "slide": 336,
+      "expression": "4000-(3300-15)",
+      "value": "715"
+    },
+    {
+      "key": "p015_s05",
+      "slide": 336,
+      "expression": "4000-3300+15",
+      "value": "715"
+    },
+    {
+      "key": "p015_s05",
+      "slide": 336,
+      "expression": "700+15",
+      "value": "715"
+    },
+    {
+      "key": "p015_s05",
+      "slide": 336,
+      "expression": "715",
+      "value": "715"
+    },
+    {
+      "key": "p015_s07",
+      "slide": 338,
+      "expression": "34\\times[160-(60-15)]",
+      "value": "3910"
+    },
+    {
+      "key": "p015_s07",
+      "slide": 338,
+      "expression": "34\\times(160-60+15)",
+      "value": "3910"
+    },
+    {
+      "key": "p015_s07",
+      "slide": 338,
+      "expression": "34\\times(100+15)",
+      "value": "3910"
+    },
+    {
+      "key": "p015_s07",
+      "slide": 338,
+      "expression": "34\\times100+34\\times15",
+      "value": "3910"
+    },
+    {
+      "key": "p015_s07",
+      "slide": 338,
+      "expression": "3400+510",
+      "value": "3910"
+    },
+    {
+      "key": "p015_s07",
+      "slide": 338,
+      "expression": "3910",
+      "value": "3910"
+    },
+    {
+      "key": "p019_s12",
+      "slide": 22,
+      "expression": "80\\times69",
+      "value": "5520"
+    },
+    {
+      "key": "p019_s12",
+      "slide": 22,
+      "expression": "80\\times(70-1)",
+      "value": "5520"
+    },
+    {
+      "key": "p019_s12",
+      "slide": 22,
+      "expression": "5600-80",
+      "value": "5520"
+    },
+    {
+      "key": "p019_s12",
+      "slide": 22,
+      "expression": "5520",
+      "value": "5520"
+    },
+    {
+      "key": "p019_s13",
+      "slide": 23,
+      "expression": "680-85\\times4\\div20",
+      "value": "663"
+    },
+    {
+      "key": "p019_s13",
+      "slide": 23,
+      "expression": "680-85\\times4\\div(4\\times5)",
+      "value": "663"
+    },
+    {
+      "key": "p019_s13",
+      "slide": 23,
+      "expression": "680-85\\div5",
+      "value": "663"
+    },
+    {
+      "key": "p019_s13",
+      "slide": 23,
+      "expression": "680-17",
+      "value": "663"
+    },
+    {
+      "key": "p019_s13",
+      "slide": 23,
+      "expression": "663",
+      "value": "663"
+    },
+    {
+      "key": "p020_s02",
+      "slide": 33,
+      "expression": "60\\times4\\div3",
+      "value": "80"
+    },
+    {
+      "key": "p020_s02",
+      "slide": 33,
+      "expression": "60\\div3\\times4",
+      "value": "80"
+    },
+    {
+      "key": "p020_s02",
+      "slide": 33,
+      "expression": "20\\times4",
+      "value": "80"
+    },
+    {
+      "key": "p020_s02",
+      "slide": 33,
+      "expression": "80\\text{（千米/时）}",
+      "value": "80"
+    },
+    {
+      "key": "p023_s04",
+      "slide": 114,
+      "expression": "2+8\\times75",
+      "value": "602"
+    },
+    {
+      "key": "p023_s04",
+      "slide": 114,
+      "expression": "2+2\\times(4\\times75)",
+      "value": "602"
+    },
+    {
+      "key": "p023_s04",
+      "slide": 114,
+      "expression": "2+2\\times300",
+      "value": "602"
+    },
+    {
+      "key": "p023_s04",
+      "slide": 114,
+      "expression": "2+600",
+      "value": "602"
+    },
+    {
+      "key": "p023_s04",
+      "slide": 114,
+      "expression": "602",
+      "value": "602"
+    },
+    {
+      "key": "p023_s11",
+      "slide": 129,
+      "expression": "59\\times17",
+      "value": "1003"
+    },
+    {
+      "key": "p023_s11",
+      "slide": 129,
+      "expression": "(60-1)\\times17",
+      "value": "1003"
+    },
+    {
+      "key": "p023_s11",
+      "slide": 129,
+      "expression": "1020-17",
+      "value": "1003"
+    },
+    {
+      "key": "p023_s11",
+      "slide": 129,
+      "expression": "1003",
+      "value": "1003"
+    },
+    {
+      "key": "p027_s11",
+      "slide": 249,
+      "expression": "(25\\times4)\\times12",
+      "value": "1200"
+    },
+    {
+      "key": "p027_s11",
+      "slide": 249,
+      "expression": "100\\times12",
+      "value": "1200"
+    },
+    {
+      "key": "p028_s01",
+      "slide": 251,
+      "expression": "1500-(665+135)",
+      "value": "700"
+    },
+    {
+      "key": "p028_s01",
+      "slide": 251,
+      "expression": "1500-800",
+      "value": "700"
+    },
+    {
+      "key": "p028_s02",
+      "slide": 254,
+      "expression": "1200\\div(25\\times4)",
+      "value": "12"
+    },
+    {
+      "key": "p028_s02",
+      "slide": 254,
+      "expression": "1200\\div100",
+      "value": "12"
+    },
+    {
+      "key": "p028_s03",
+      "slide": 257,
+      "expression": "(53+47)\\times16",
+      "value": "1600"
+    },
+    {
+      "key": "p028_s03",
+      "slide": 257,
+      "expression": "100\\times16",
+      "value": "1600"
+    },
+    {
+      "key": "p028_s04",
+      "slide": 260,
+      "expression": "(53-47)\\times16",
+      "value": "96"
+    },
+    {
+      "key": "p028_s04",
+      "slide": 260,
+      "expression": "6\\times16",
+      "value": "96"
+    },
+    {
+      "key": "p032_s01",
+      "slide": 350,
+      "expression": "(58+42)\\times120",
+      "value": "12000"
+    },
+    {
+      "key": "p032_s01",
+      "slide": 350,
+      "expression": "100\\times120",
+      "value": "12000"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 358,
+      "expression": "(41+19)\\times18",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 358,
+      "expression": "60\\times18",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 358,
+      "expression": "1080\\text{（平方米）}",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 359,
+      "expression": "(37+23)\\times18",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 359,
+      "expression": "60\\times18",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 359,
+      "expression": "1080\\text{（平方米）}",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 360,
+      "expression": "41\\times19+41\\times18-(41\\times19-18\\times19)",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 360,
+      "expression": "41\\times18+18\\times19",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 360,
+      "expression": "(41+19)\\times18",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 361,
+      "expression": "(41+19)\\times18",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 361,
+      "expression": "60\\times18",
+      "value": "1080"
+    },
+    {
+      "key": "p032_s04",
+      "slide": 361,
+      "expression": "1080\\text{（平方米）}",
+      "value": "1080"
+    }
+  ],
+  "package": [
+    {
+      "volume": 1,
+      "source": "/workspace/scratch/1facfb035d44/simplify_review/bundle/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/simplify_review/ppt_1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+      "source_sha256": "164d1508e5b90ca2c2e259e6bcc3ca95e7d4fb9048fb5f594c59ccf99ba1c762",
+      "output_sha256": "f027fc4bf7571b8d7ce84166be54b830ce6fbe29b5ca8b3c89e3028f2d7d1202",
+      "slide_count": 426,
+      "changed_slides": [
+        64,
+        65,
+        82,
+        88,
+        93,
+        136,
+        139,
+        147,
+        160,
+        176,
+        255,
+        336,
+        338
+      ],
+      "original_changed_components": [
+        "ppt/slides/slide64.xml",
+        "ppt/slides/slide65.xml",
+        "ppt/slides/slide82.xml",
+        "ppt/slides/slide88.xml",
+        "ppt/slides/slide93.xml",
+        "ppt/slides/slide136.xml",
+        "ppt/slides/slide139.xml",
+        "ppt/slides/slide147.xml",
+        "ppt/slides/slide160.xml",
+        "ppt/slides/slide176.xml",
+        "ppt/slides/slide255.xml",
+        "ppt/slides/slide336.xml",
+        "ppt/slides/slide338.xml",
+        "ppt/slides/_rels/slide136.xml.rels",
+        "ppt/slides/_rels/slide139.xml.rels",
+        "ppt/slides/_rels/slide147.xml.rels",
+        "ppt/slides/_rels/slide160.xml.rels",
+        "ppt/slides/_rels/slide176.xml.rels",
+        "ppt/slides/_rels/slide255.xml.rels",
+        "ppt/slides/_rels/slide336.xml.rels",
+        "ppt/slides/_rels/slide338.xml.rels",
+        "ppt/slides/_rels/slide64.xml.rels",
+        "ppt/slides/_rels/slide65.xml.rels",
+        "ppt/slides/_rels/slide82.xml.rels",
+        "ppt/slides/_rels/slide88.xml.rels",
+        "ppt/slides/_rels/slide93.xml.rels"
+      ],
+      "original_unrelated_components_byte_identical": true,
+      "timing_xml_byte_identical_all_slides": true,
+      "all_original_ids_names_order_retained": true,
+      "animation_references_valid": true,
+      "native_math_before": 1614,
+      "native_math_after": 1725,
+      "new_native_math_count": 111,
+      "new_native_children_have_unique_ids": true,
+      "zip_integrity_passed": true
+    },
+    {
+      "volume": 2,
+      "source": "/workspace/scratch/1facfb035d44/simplify_review/bundle/讲解课件/小学四上同步素养卷第2册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/simplify_review/ppt_1_2/draft2/小学四上同步素养卷第2册讲解课件答案.pptx",
+      "source_sha256": "152a5ccafd19e7e1ab113444c3b34e7c8e64578739cfdbeff7a6074acc53a61b",
+      "output_sha256": "06c352e213cf93115face9bc15505d478bb64069136fe879da48dfb6159ba941",
+      "slide_count": 479,
+      "changed_slides": [
+        22,
+        23,
+        33,
+        114,
+        129,
+        248,
+        249,
+        251,
+        253,
+        254,
+        256,
+        257,
+        259,
+        260,
+        349,
+        350,
+        358,
+        359,
+        360,
+        361
+      ],
+      "original_changed_components": [
+        "ppt/slides/slide22.xml",
+        "ppt/slides/slide23.xml",
+        "ppt/slides/slide33.xml",
+        "ppt/slides/slide114.xml",
+        "ppt/slides/slide129.xml",
+        "ppt/slides/slide248.xml",
+        "ppt/slides/slide249.xml",
+        "ppt/slides/slide251.xml",
+        "ppt/slides/slide253.xml",
+        "ppt/slides/slide254.xml",
+        "ppt/slides/slide256.xml",
+        "ppt/slides/slide257.xml",
+        "ppt/slides/slide259.xml",
+        "ppt/slides/slide260.xml",
+        "ppt/slides/slide349.xml",
+        "ppt/slides/slide350.xml",
+        "ppt/slides/slide358.xml",
+        "ppt/slides/slide359.xml",
+        "ppt/slides/slide360.xml",
+        "ppt/slides/slide361.xml",
+        "ppt/slides/_rels/slide114.xml.rels",
+        "ppt/slides/_rels/slide129.xml.rels",
+        "ppt/slides/_rels/slide22.xml.rels",
+        "ppt/slides/_rels/slide23.xml.rels",
+        "ppt/slides/_rels/slide249.xml.rels",
+        "ppt/slides/_rels/slide251.xml.rels",
+        "ppt/slides/_rels/slide254.xml.rels",
+        "ppt/slides/_rels/slide257.xml.rels",
+        "ppt/slides/_rels/slide260.xml.rels",
+        "ppt/slides/_rels/slide33.xml.rels",
+        "ppt/slides/_rels/slide350.xml.rels",
+        "ppt/slides/_rels/slide358.xml.rels",
+        "ppt/slides/_rels/slide359.xml.rels",
+        "ppt/slides/_rels/slide360.xml.rels",
+        "ppt/slides/_rels/slide361.xml.rels"
+      ],
+      "original_unrelated_components_byte_identical": true,
+      "timing_xml_byte_identical_all_slides": true,
+      "all_original_ids_names_order_retained": true,
+      "animation_references_valid": true,
+      "native_math_before": 1545,
+      "native_math_after": 1598,
+      "new_native_math_count": 53,
+      "new_native_children_have_unique_ids": true,
+      "zip_integrity_passed": true
+    }
+  ],
+  "early_methods": "18 records gain notes; original main method retained. p008_s03 skipped because same efficient method already present.",
+  "actual_software_playback": "Not tested in PowerPoint or WPS. Original native timing bytes remain unchanged; new children share the original click target group.",
+  "rendering": "ArtifactTool static renders, all 33 changed slides inspected individually; final QA detail in visual_review.json.",
+  "new_formula_implementation": "Editable native OMML single-line formula children with genuine XeLaTeX-compiled SVG and PNG fallbacks; explicit equality and RHS columns."
+}

@@ -1,0 +1,76 @@
+{
+  "input": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/.build/native_stage.pptx",
+  "output": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/小学四上同步素养卷第1册讲解课件答案.pptx",
+  "output_sha256": "cb848adba20fdab5365ab0bf31c1675ffad94ea3334fe7624435066ab6f96252",
+  "relative_to_first_patch_changed_parts": [
+    "ppt/slides/slide71.xml",
+    "ppt/slides/slide74.xml",
+    "ppt/slides/_rels/slide74.xml.rels",
+    "ppt/slides/slide75.xml",
+    "ppt/slides/_rels/slide75.xml.rels",
+    "ppt/slides/slide76.xml",
+    "ppt/slides/_rels/slide76.xml.rels"
+  ],
+  "new_media": [
+    "ppt/media/p003_formula_1.png",
+    "ppt/media/p003_formula_1.svg",
+    "ppt/media/p003_formula_2.png",
+    "ppt/media/p003_formula_2.svg",
+    "ppt/media/p003_formula_3.png",
+    "ppt/media/p003_formula_3.svg",
+    "ppt/media/p003_formula_4.png",
+    "ppt/media/p003_formula_4.svg",
+    "ppt/media/p003_formula_5.png",
+    "ppt/media/p003_formula_5.svg"
+  ],
+  "formula_implementation": "Eight genuine OMML formula objects in mc:Choice Requires=a14, each with a real LaTeX-compiled SVG and PNG picture fallback in mc:Fallback. Native nodes, units and single operators remain editable slide objects.",
+  "formula_assets": [
+    {
+      "text": "4×18=72（千克）",
+      "points": 23,
+      "tex_source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_1.tex",
+      "tex_sha256": "ddf6f0eb8edb3d416476f2a3a874e3a15082a640df8a977b1409c9cb70d6ed81",
+      "pdf_sha256": "d33689f013d4003899280912f496c397c84cd963eb8be06403a60d08a0b9e92b",
+      "svg_sha256": "7ecbaecec8ed60ae2fd85db0788dff58acc9b25dffa04378758b9c9120ac53d6",
+      "png_sha256": "007a59c444b3e62088c56a23834b52ac4292ddfed180d97145f4b5b9cc0f941c"
+    },
+    {
+      "text": "72−32=40（千克）",
+      "points": 23,
+      "tex_source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_2.tex",
+      "tex_sha256": "d248f2b64c17667bc88c8a0535d2c9b27c0670636d7260596b500144ab397002",
+      "pdf_sha256": "130af9aadf6f6a1f4e8174413567a2d728ff3abe1436d16b62768c18ec83c6f8",
+      "svg_sha256": "f6f6528fb18712afc0b576cf062adef01e4c91c22cd5958a0f8fa372a8a85b4d",
+      "png_sha256": "b26f41adb9643ed90bb7da2aad0a8096c7e09471e4123a6d25ea82336d9254b9"
+    },
+    {
+      "text": "40÷4=10（千克）",
+      "points": 23,
+      "tex_source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_3.tex",
+      "tex_sha256": "299cdfd8ddff931bee0f5f5d2a6e1e219826d200274f6f586db0a218e6969a3d",
+      "pdf_sha256": "dda3cefcd35a96056849c7be2be720bc123f35c18c831f992b813f679f7244e7",
+      "svg_sha256": "d84903b0049b8c13663f0d539ae9d5b8daf9be41613c075b060e180e244c0ba1",
+      "png_sha256": "c4bfdef2529582d5a2a858d47e7790c18440b578859df0b7022f3dc92b3ea1c0"
+    },
+    {
+      "text": "10×4+32=40+32=72（千克）",
+      "points": 30,
+      "tex_source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_4.tex",
+      "tex_sha256": "dbf0fde27bcee6643dd8a2e84a5c3ec49ef36c9c10eb27a3d837116d0b524599",
+      "pdf_sha256": "6e3b131b1b47b482c17ef42807572a3117ce2b517cbc82a0cf36325c385b6fe0",
+      "svg_sha256": "552850eac93e74a32d9c9f9362a3837c161e5b639d3670d3305e4dbd71ce07dd",
+      "png_sha256": "505e9037b9b35989b3b38793c950c095dac437a4ab9b4693fb8cdc4e325ede2a"
+    },
+    {
+      "text": "4×18=72（千克）",
+      "points": 30,
+      "tex_source": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/formulas/formula_5.tex",
+      "tex_sha256": "0e17d2a8080fd5bea00eb6eacd08eaa564a6c87af5cf3be9fb1890a335506949",
+      "pdf_sha256": "c4afe8b63745f494558faee2512217482107fd83eba2d2f69d5c0ea0f52dbc0d",
+      "svg_sha256": "64423ec02ef54ef086cd390aa28a1916e5966d6e2eefb5f94c8cd3cf7a6d4a90",
+      "png_sha256": "0cad75516e883bd7b7b7df1a20f3bd472dc8957814db7c12ff22fd04e3d6374d"
+    }
+  ],
+  "native_stage_builder": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/patch_p003_native_stage.py",
+  "final_formula_builder": "/workspace/scratch/1facfb035d44/detail_work/style_patch/ppt_final_r3/patch_p003_math.py"
+}

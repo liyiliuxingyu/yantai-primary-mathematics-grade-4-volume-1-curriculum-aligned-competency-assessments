@@ -1,0 +1,415 @@
+{
+  "book_page": 106,
+  "source_page": 110,
+  "records": [
+    {
+      "key": "p106_s01",
+      "book_page": 106,
+      "source_page": 110,
+      "section_index": 0,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "二、选择（将正确答案的序号填在括号里）。（每题2分，共12分）\\par 1. 王大爷要给小菜园围上一圈篱笆，（    ）的围法更牢固些。",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p106_s01_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\foreach \\y in {0,.4,.8,1.2}\\draw(0,\\y)--(2,\\y);\\foreach \\x in {.4,.8,1.2,1.6}\\draw(\\x,-.1)--(\\x,1.4);\\node[below]at(1,-.3){A};\\begin{scope}[xshift=3cm]\\foreach \\y in {0,.4,.8,1.2}\\draw(0,\\y)--(2,\\y);\\foreach \\x in {-.8,-.4,0,.4,.8,1.2}\\draw(\\x,0)--++(1,1.2);\\foreach \\x in {0,.4,.8,1.2,1.6,2}\\draw(\\x,0)--++(-1,1.2);\\node[below]at(1,-.3){B};\\end{scope}\\begin{scope}[xshift=6cm]\\foreach \\x in {0,.4,.8,1.2,1.6}\\draw(\\x,0)--++(.8,1.2) (\\x,1.2)--++(.8,-1.2);\\node[below]at(1,-.3){C};\\end{scope}\\begin{scope}[xshift=9cm]\\foreach \\y in {0,.4,.8,1.2}\\draw(0,\\y)--(2,\\y);\\foreach \\x in {.2,.8,1.4}\\draw(\\x,1.4)--++(.8,-1.6);\\node[below]at(1,-.3){D};\\end{scope}\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "选B。B的篱笆中形成了三角形支撑，利用三角形稳定性，形状不易改变；只由四边形组成的格架容易沿接点变形。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p106_s02",
+      "book_page": 106,
+      "source_page": 110,
+      "section_index": 1,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "2. 由我国自主研制的大型多用途民用直升机“吉祥鸟”首飞成功，其最大外吊挂起飞质量为\\(13.8\\)吨，其中的“8”表示（    ）。",
+      "options": [
+        "A. 8kg",
+        "B. 80kg",
+        "C. 800kg",
+        "D. 8000kg"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。13.8吨中的8在十分位，表示\\(0.8\\)吨；按进率换算：\\[0.8\\text{吨}=(0.8\\times1000)\\text{千克}=800\\text{千克}\\]所以表示800千克，不是8千克或80千克。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p106_s03",
+      "book_page": 106,
+      "source_page": 110,
+      "section_index": 2,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "3. 下面算式中，计算正确的是（    ）。",
+      "options": [
+        "A. \\(395-78+22=395-(78+22)\\)",
+        "B. \\(25\\times44\\times7=25\\times4+40\\times7\\)",
+        "C. \\(18\\times16\\div18\\times6=(18\\times16)\\div(18\\times6)\\)",
+        "D. \\(99\\times48=100\\times48-48\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选D。\\(99\\times48=(100-1)\\times48=100\\times48-48\\)，用的是乘法分配律。\\par A把加22误作减22；B没有正确分解44再分配；C同级乘除应从左到右，原左边等于96，而右边把分母改成\\(18\\times6\\)，结果不同。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p106_s04",
+      "book_page": 106,
+      "source_page": 110,
+      "section_index": 3,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "4. 把一根细铁丝剪两刀分成三段，围成一个三角形（接头处忽略不计），这两刀可以剪在下图中（    ）处。",
+      "options": [
+        "A. ①②",
+        "B. ②③",
+        "C. ②④",
+        "D. ③④"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p106_s04_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[x=.6cm,y=1cm]\\draw(0,0)--(12,0);\\foreach \\x in {0,...,12}\\draw(\\x,0)--(\\x,.1);\\foreach \\x/\\n in {1/①,4/②,6/③,7/④}{\\draw[dashed](\\x,-.4)--(\\x,.45);\\node[below]at(\\x,-.4){\\n};}\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "选C，即②④。把整根铁丝按刻度看成12份，②在第4份末，④在第7份末，两刀后长度为4份、3份、5份，\\(3+4>5\\)，可围成三角形。其他组合的最短两段之和不大于最长段，不能围成。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p106_s05",
+      "book_page": 106,
+      "source_page": 110,
+      "section_index": 4,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "5. 下列图示中，不能表示\\(0.04\\)的是（    ）。",
+      "options": [
+        "A. 计数器",
+        "B. 百分格",
+        "C. 正方体",
+        "D. 数轴"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p106_s05_A",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.8]\\foreach \\x in {0,1,2,3}\\draw(\\x,0)--(\\x,2);\\foreach \\y in {.15,.4,.65,.9}\\draw(2,\\y)ellipse(.23 and .1);\\draw(-.4,-1.8)rectangle(3.4,0);\\node[align=center,font=\\footnotesize]at(0,-.9){个\\\\位};\\node[align=center,font=\\footnotesize]at(1,-.9){十\\\\分\\\\位};\\node[align=center,font=\\footnotesize]at(2,-.9){百\\\\分\\\\位};\\node[align=center,font=\\footnotesize]at(3,-.9){千\\\\分\\\\位};\\end{tikzpicture}"
+        },
+        {
+          "name": "p106_s05_B",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.25]\\fill[gray!60](0,9)rectangle(4,10);\\draw[step=1](0,0)grid(10,10);\\end{tikzpicture}"
+        },
+        {
+          "name": "p106_s05_C",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[x=.25cm,y=.25cm]\\fill[gray!45](6,0)rectangle(10,10);\\fill[gray!45](6,10)--(10,10)--(14,14)--(10,14)--cycle;\\fill[gray!45](10,0)--(14,4)--(14,14)--(10,10)--cycle;\\draw[step=1](0,0)grid(10,10);\\foreach \\i in {0,...,10}{\\draw(\\i,10)--++(4,4);\\draw(10,\\i)--++(4,4);\\draw({.4*\\i},{10+.4*\\i})--++(10,0);\\draw({10+.4*\\i},{.4*\\i})--++(0,10);}\\draw(0,10)--(4,14)--(14,14)--(14,4)--(10,0);\\end{tikzpicture}",
+          "notes": "10×10×10大正方体中4/10厚度的体层着灰，图示0.4，不能误画成仅40个小立方块。"
+        },
+        {
+          "name": "p106_s05_D",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[x=.7cm,y=1cm]\\draw[->](-.4,0)--(6,0);\\foreach \\x in {0,...,5}\\draw(\\x,0)--(\\x,.12);\\node[below]at(0,0){0};\\node[below]at(5,0){0.1};\\fill(2,0)circle(.045);\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "选C。A算盘百分位上4个珠表示4个百分之一；B方格涂4个小格，占\\(4\\div100=0.04\\)；D从0到0.1分成5等份，每份0.02，点在第二格即0.04。C的大正方体按层看，涂色4层占10层中的4层，即\\(0.4\\)，不是\\(0.04\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p106_s06",
+      "book_page": 106,
+      "source_page": 110,
+      "section_index": 5,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "6. 计算图①和图②中小正方形的总个数时，下面图示的计算过程可以解释（    ）。",
+      "options": [
+        "A. 加法交换律",
+        "B. 乘法交换律",
+        "C. 乘法结合律",
+        "D. 乘法分配律"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p106_s06_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.3]\\draw[step=1](0,0)grid(3,6);\\node[above]at(1.5,6){3};\\node[left]at(0,3){6};\\node[below]at(1.5,0){①};\\node at(3.7,3){+};\\draw[step=1](4.5,0)grid(8.5,3);\\node[above]at(6.5,3){4};\\node[right]at(8.5,1.5){3};\\node[below]at(6.5,0){②};\\draw[->](9.7,1.5)--(10.7,1.5);\\draw[step=1](12,0)grid(22,3);\\node[above]at(15,3){6};\\node[above]at(20,3){4};\\node[right]at(22,1.5){3};\\draw[thick](18,0)--(18,3);\\end{tikzpicture}",
+          "animations": [
+            {
+              "type": "rotation",
+              "object_points": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  0
+                ],
+                [
+                  3,
+                  6
+                ],
+                [
+                  0,
+                  6
+                ]
+              ],
+              "center": [
+                0,
+                0
+              ],
+              "angle": 90,
+              "direction": "clockwise",
+              "diagram_name": "p106_s06_g1"
+            },
+            {
+              "type": "translation",
+              "object_points": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  -3
+                ],
+                [
+                  6,
+                  -3
+                ],
+                [
+                  6,
+                  0
+                ]
+              ],
+              "dx": 10.5,
+              "dy": 3,
+              "diagram_name": "p106_s06_g1"
+            },
+            {
+              "type": "translation",
+              "object_points": [
+                [
+                  4.5,
+                  0
+                ],
+                [
+                  8.5,
+                  0
+                ],
+                [
+                  8.5,
+                  3
+                ],
+                [
+                  4.5,
+                  3
+                ]
+              ],
+              "dx": 12,
+              "dy": 0,
+              "diagram_name": "p106_s06_g1"
+            }
+          ],
+          "quantity_groups": [
+            {
+              "figure": "①原图",
+              "per_group": 3,
+              "groups": 6,
+              "grouping": "每行3个，共6行"
+            },
+            {
+              "figure": "②原图",
+              "per_group": 3,
+              "groups": 4,
+              "grouping": "每列3个，共4列"
+            },
+            {
+              "figure": "拼图",
+              "per_group": 3,
+              "groups": "6+4",
+              "grouping": "每列3个，共6+4列"
+            }
+          ]
+        }
+      ],
+      "answer_latex": "选D，乘法分配律。图①可按“每行3个、共6行”计数，列\\(3\\times6\\)；图②按“每列3个、共4列”计数，列\\(3\\times4\\)。图①旋转后变成每列3个、共6列，再与图②拼成同高3的长方形；拼图共有\\(6+4\\)列，按每列3个乘列数，得\\(3\\times(6+4)\\)。\\[3\\times6+3\\times4=3\\times(6+4).\\]这里两次列式都先写每份的小正方形个数，再写份数；不能把原图①错误描述成“每列3个”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "明确图①原图按每行3个×6行，旋转后按每列3个×6列；避免把图①原高度6误说成每列3。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animations": [
+        {
+          "type": "rotation",
+          "object_points": [
+            [
+              0,
+              0
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              3,
+              6
+            ],
+            [
+              0,
+              6
+            ]
+          ],
+          "center": [
+            0,
+            0
+          ],
+          "angle": 90,
+          "direction": "clockwise",
+          "diagram_name": "p106_s06_g1"
+        },
+        {
+          "type": "translation",
+          "object_points": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              -3
+            ],
+            [
+              6,
+              -3
+            ],
+            [
+              6,
+              0
+            ]
+          ],
+          "dx": 10.5,
+          "dy": 3,
+          "diagram_name": "p106_s06_g1"
+        },
+        {
+          "type": "translation",
+          "object_points": [
+            [
+              4.5,
+              0
+            ],
+            [
+              8.5,
+              0
+            ],
+            [
+              8.5,
+              3
+            ],
+            [
+              4.5,
+              3
+            ]
+          ],
+          "dx": 12,
+          "dy": 0,
+          "diagram_name": "p106_s06_g1"
+        }
+      ]
+    }
+  ]
+}

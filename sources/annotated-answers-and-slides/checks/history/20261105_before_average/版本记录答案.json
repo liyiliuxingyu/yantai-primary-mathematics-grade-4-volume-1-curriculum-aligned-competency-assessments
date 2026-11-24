@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-05",
+  "previous_pdf_sha256": "8dc0adf438a2798377532f7b1045bc80399f3d8556d781b3f2a33c2102cd2617",
+  "current_pdf_sha256": "6753f42510d3bfbcd3a63776cc9a78eaa43f258b1dc79861b36fd33c62510c00",
+  "changed_question_keys": [
+    "p075_s03"
+  ],
+  "book_page": 75,
+  "pdf_page": 79,
+  "change": "总路程(720×2)括成整体，随后依据乘除性质简算；答案72米/分不变。",
+  "current_evidence": "parentheses_update/qa_current.json",
+  "ppt_proofs": [
+    {
+      "path": "project/ppt_parentheses/qa_final.json",
+      "sha256": "e63e36a6f21072a117a776855ea57d76ca5baab178433351c8c4507fca5453ed",
+      "volumes": [
+        5
+      ]
+    }
+  ],
+  "powerpoint_playback_tested": false
+}

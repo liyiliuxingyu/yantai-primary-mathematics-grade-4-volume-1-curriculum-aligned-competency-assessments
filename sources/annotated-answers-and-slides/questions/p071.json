@@ -1,0 +1,475 @@
+{
+  "book_page": 71,
+  "source_page": 75,
+  "records": [
+    {
+      "key": "p071_s01",
+      "book_page": 71,
+      "source_page": 75,
+      "section_index": 0,
+      "id": "三、7",
+      "kind": "choice",
+      "question_latex": "下列交通标志，可以经过旋转得到的是（    ）。选A、B、C或D。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p071_traffic",
+          "tikz": "\\begin{tikzpicture}[scale=.75]\\foreach \\x/\\lab in {0/A,3/B,6/C,9/D}{\\fill(\\x,0)circle(1);\\draw[white](\\x,0)circle(.9);\\node at(\\x,-1.4){\\lab};}\\draw[white,very thick,->](0,-.65)--(0,.7);\\draw[white,very thick,->](0,-.15)--(-.55,-.15);\\draw[white,very thick,->](0,.2)--(.45,.2)--(.45,-.1)--(.2,-.1);\\draw[white,very thick,->](3,-.5)--(3,.3)--(2.4,.3);\\draw[white,very thick,->](3,.3)--(3.6,.3);\\foreach \\a in {0,120,240}{\\draw[white,very thick,->](6,0)++(\\a:.55)arc(\\a:\\a+85:.55);}\\draw[white,very thick,->](9,-.6)--(9,.65);\\draw[white,very thick,->](9,.1)--(8.4,.1);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        }
+      ],
+      "answer_latex": "C的三个弧形箭头等间隔排布，一个箭头绕中心旋转120°后能到下一个位置，反复旋转得到整体图案，选C。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p071_s02",
+      "book_page": 71,
+      "source_page": 75,
+      "section_index": 1,
+      "id": "四、1",
+      "kind": "drawing",
+      "question_latex": "下图中，点O是线段AB上的一点，将线段AB绕点O顺时针方向旋转\\(90^\\circ\\)，旋转后的线段与原线段的位置有何关系？如果逆时针方向旋转\\(90^\\circ\\)呢？请分别在下面的图上画出来。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p071_segment",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\draw(-2.4,0)node[below]{A}--(1.6,0)node[below]{B};\\fill(0,0)circle(.04)node[below right]{O};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p071_segment_answer",
+          "tikz": "\\begin{tikzpicture}[scale=1]\\draw(-2.4,0)node[below]{A}--(1.6,0)node[below]{B};\\fill(0,0)circle(.04)node[below right]{O};\n\\draw[red,thick](0,2.4)node[above]{$A^{\\prime}$}--(0,-1.6)node[below]{$B^{\\prime}$};\\node[red]at(3.2,1){顺时针};\\draw[red,thick](5,1.6)node[above]{$B^{\\prime}$}--(5,-2.4)node[below]{$A^{\\prime}$};\\draw(2.6,0)node[below]{A}--(6.6,0)node[below]{B};\\fill(5,0)circle(.04)node[below right]{O};\\node[red]at(7,1){逆时针};\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "两种90°旋转并列示意：两幅均保留黑色已知线段A、O、B与O点；新增A′B′为红色，第二幅整体右移5绘图单位仅为版面安排。"
+        }
+      ],
+      "answer_latex": "顺时针旋转90°：O不动，原来在O左方的A转到O上方，B转到O下方；分别保持OA、OB的长度，标A′、B′。逆时针旋转90°时，A′在O下方，B′在O上方。两种情况所得线段都与原AB垂直。先量对应点到O的距离，再画垂线，不能凭目测把两端取成一样长。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "补回逆时针示意图已知线段上的A、O、B标签及O点，与左图同一原线段整体右移5单位对应；不改旋转结果。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "alternatives",
+        "center": [
+          0,
+          0
+        ],
+        "object_points": [
+          [
+            -2.4,
+            0
+          ],
+          [
+            1.6,
+            0
+          ]
+        ],
+        "alternatives": [
+          {
+            "type": "rotation",
+            "angle": 90,
+            "direction": "clockwise"
+          },
+          {
+            "type": "rotation",
+            "angle": 90,
+            "direction": "counterclockwise"
+          }
+        ],
+        "closed": false,
+        "alternative_placements": [
+          [
+            0,
+            0
+          ],
+          [
+            5,
+            0
+          ]
+        ],
+        "coordinate_note": "两种旋转分别从同一原线段起算；第二幅答案为便于并列展示，整体向右排版5个示意绘图单位，不是追加平移操作。"
+      }
+    },
+    {
+      "key": "p071_s03",
+      "book_page": 71,
+      "source_page": 75,
+      "section_index": 2,
+      "id": "四、2（1）",
+      "kind": "drawing",
+      "question_latex": "按要求画图。（1）画出图①的另一半，使它成为一个轴对称图形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p071_combined_grid",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\draw[step=1,gray!65](0,0)grid(26,15);\\draw[dashed](0,7)--(10,7);\\draw(1,7)--(1,10)--(3,8)--(3,12)--(9,7);\\node at(4.5,8.8){①};\\draw(10,11)--(16,11)--(15,9)--(11,9)--cycle;\\draw(13,11)--(13,14)--(14,13)--(13,12);\\node at(13,10){②};\\draw(19,12)--(19,8)--(24,8)node[below right]{A}--cycle;\\node at(20.5,9.6){③};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p071_combined_grid_answer",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\draw[step=1,gray!65](0,0)grid(26,15);\\draw[dashed](0,7)--(10,7);\\draw(1,7)--(1,10)--(3,8)--(3,12)--(9,7);\\node at(4.5,8.8){①};\\draw(10,11)--(16,11)--(15,9)--(11,9)--cycle;\\draw(13,11)--(13,14)--(14,13)--(13,12);\\node at(13,10){②};\\draw(19,12)--(19,8)--(24,8)node[below right]{A}--cycle;\\node at(20.5,9.6){③};\n\\draw[red,thick](1,7)--(1,4)--(3,6)--(3,2)--(9,7);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "图①以给出的水平虚线为对称轴。每个原顶点在虚线下方找等距点，再按原顺序连线。原图到轴有几格，镜像就到轴有几格；斜边的对应两端都要单独定位。对应点连线必须与水平对称轴垂直，也就是沿竖直格线找点；仅仅离轴“看着一样远”还不够。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "明确补图半边为开路径；保留题中虚线轴，不额外以闭合线覆盖轴。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "symmetry",
+        "axis": {
+          "p1": [
+            0,
+            7
+          ],
+          "p2": [
+            10,
+            7
+          ]
+        },
+        "object_points": [
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            10
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            3,
+            12
+          ],
+          [
+            9,
+            7
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 26,
+          "y_min": 0,
+          "y_max": 15,
+          "step": 1
+        },
+        "closed": false
+      }
+    },
+    {
+      "key": "p071_s04",
+      "book_page": 71,
+      "source_page": 75,
+      "section_index": 3,
+      "id": "四、2（2）",
+      "kind": "drawing",
+      "question_latex": "按要求画图。（2）画出图②向下平移7格后的图形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p071_combined_grid",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\draw[step=1,gray!65](0,0)grid(26,15);\\draw[dashed](0,7)--(10,7);\\draw(1,7)--(1,10)--(3,8)--(3,12)--(9,7);\\node at(4.5,8.8){①};\\draw(10,11)--(16,11)--(15,9)--(11,9)--cycle;\\draw(13,11)--(13,14)--(14,13)--(13,12);\\node at(13,10){②};\\draw(19,12)--(19,8)--(24,8)node[below right]{A}--cycle;\\node at(20.5,9.6){③};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p071_combined_grid_answer",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\draw[step=1,gray!65](0,0)grid(26,15);\\draw[dashed](0,7)--(10,7);\\draw(1,7)--(1,10)--(3,8)--(3,12)--(9,7);\\node at(4.5,8.8){①};\\draw(10,11)--(16,11)--(15,9)--(11,9)--cycle;\\draw(13,11)--(13,14)--(14,13)--(13,12);\\node at(13,10){②};\\draw(19,12)--(19,8)--(24,8)node[below right]{A}--cycle;\\node at(20.5,9.6){③};\n\\draw[red,thick](10,4)--(16,4)--(15,2)--(11,2)--cycle;\\draw[red,thick](13,4)--(13,7)--(14,6)--(13,5);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "把图②船体、桅杆、旗帜的全部顶点向下平移7格，方向保持不变，再依次连接。船帆尖和旗杆底端必须同时移动7格，不能只移动船体。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "translation",
+        "object_points": [
+          [
+            10,
+            11
+          ],
+          [
+            16,
+            11
+          ],
+          [
+            15,
+            9
+          ],
+          [
+            11,
+            9
+          ]
+        ],
+        "additional_paths": [
+          [
+            [
+              13,
+              11
+            ],
+            [
+              13,
+              14
+            ],
+            [
+              14,
+              13
+            ],
+            [
+              13,
+              12
+            ]
+          ]
+        ],
+        "dx": 0,
+        "dy": -7,
+        "grid": {
+          "x_min": 0,
+          "x_max": 26,
+          "y_min": 0,
+          "y_max": 15,
+          "step": 1
+        }
+      }
+    },
+    {
+      "key": "p071_s05",
+      "book_page": 71,
+      "source_page": 75,
+      "section_index": 4,
+      "id": "四、2（3）",
+      "kind": "drawing",
+      "question_latex": "按要求画图。（3）画出图③绕点A逆时针旋转\\(90^\\circ\\)后的图形。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p071_combined_grid",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\draw[step=1,gray!65](0,0)grid(26,15);\\draw[dashed](0,7)--(10,7);\\draw(1,7)--(1,10)--(3,8)--(3,12)--(9,7);\\node at(4.5,8.8){①};\\draw(10,11)--(16,11)--(15,9)--(11,9)--cycle;\\draw(13,11)--(13,14)--(14,13)--(13,12);\\node at(13,10){②};\\draw(19,12)--(19,8)--(24,8)node[below right]{A}--cycle;\\node at(20.5,9.6){③};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p071_combined_grid_answer",
+          "tikz": "\\begin{tikzpicture}[x=.35cm,y=.35cm]\\draw[step=1,gray!65](0,0)grid(26,15);\\draw[dashed](0,7)--(10,7);\\draw(1,7)--(1,10)--(3,8)--(3,12)--(9,7);\\node at(4.5,8.8){①};\\draw(10,11)--(16,11)--(15,9)--(11,9)--cycle;\\draw(13,11)--(13,14)--(14,13)--(13,12);\\node at(13,10){②};\\draw(19,12)--(19,8)--(24,8)node[below right]{A}--cycle;\\node at(20.5,9.6){③};\n\\draw[red,thick](20,3)--(24,3)--(24,8)--cycle;\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "以A为旋转中心逆时针90°，A不动。原来在A左侧同水平线的点移到A下方；原来左上方的点移到A左下方。到A的距离保持不变，连接三个对应点得到红三角形。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "rotation",
+        "center": [
+          24,
+          8
+        ],
+        "angle": 90,
+        "direction": "counterclockwise",
+        "object_points": [
+          [
+            19,
+            12
+          ],
+          [
+            19,
+            8
+          ],
+          [
+            24,
+            8
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 26,
+          "y_min": 0,
+          "y_max": 15,
+          "step": 1
+        }
+      }
+    },
+    {
+      "key": "p071_s06",
+      "book_page": 71,
+      "source_page": 75,
+      "section_index": 5,
+      "id": "四、3",
+      "kind": "drawing",
+      "question_latex": "围绕点O，旋转三角形画一个风车。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p071_windmill_grid",
+          "tikz": "\\begin{tikzpicture}[x=.5cm,y=.5cm]\\draw[step=1,gray!60](0,0)grid(10,8);\\draw(5,4)--(2,4)--(2,2)--cycle;\\fill(5,4)circle(.07);\\node at(4,4.65){O};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p071_windmill_grid_answer",
+          "tikz": "\\begin{tikzpicture}[x=.5cm,y=.5cm]\\draw[step=1,gray!60](0,0)grid(10,8);\\draw(5,4)--(2,4)--(2,2)--cycle;\\fill(5,4)circle(.07);\\node at(4,4.65){O};\n\\foreach \\a in {90,180,270}{\\begin{scope}[rotate around={\\a:(5,4)}]\\draw[red,thick](5,4)--(2,4)--(2,2)--cycle;\\end{scope}}\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "保留原三角形，以O为中心分别再旋转90°、180°、270°，画出另外三个全等三角形。每片风叶由相同三边组成；四片共用O，且相邻朝向相差90°。先确定三个顶点后连线，避免风叶末端偏离原格点。也可从原三角形开始，连续三次绕同一O点逆时针旋转90°，补出的其余三片与顺时针画法相同。这是两种作图顺序，不是另一个风车。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "rotation_copies",
+        "center": [
+          5,
+          4
+        ],
+        "angles": [
+          90,
+          180,
+          270
+        ],
+        "direction": "counterclockwise",
+        "object_points": [
+          [
+            5,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        "grid": {
+          "x_min": 0,
+          "x_max": 10,
+          "y_min": 0,
+          "y_max": 8,
+          "step": 1
+        }
+      }
+    },
+    {
+      "key": "p071_s07",
+      "book_page": 71,
+      "source_page": 75,
+      "section_index": 6,
+      "id": "四、4",
+      "kind": "drawing",
+      "question_latex": "画出镜子中看到的时刻。原钟的分针指向12，时针指向4。",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p071_mirror_clock",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\foreach \\x in {0,3}{\\draw(\\x,0)circle(1);\\foreach \\a in {0,30,...,330}{\\draw(\\x,0)++(\\a:.9)--++(\\a:.1);}\\fill(\\x,0)circle(.025);}\\draw[->](0,0)--(0,.8);\\draw[->](0,0)--(-30:.5);\\draw[dashed](1.5,-1.2)--(1.5,1.2);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原图已知条件重画，未补造未给出的数值。"
+        },
+        {
+          "name": "p071_mirror_clock_answer",
+          "tikz": "\\begin{tikzpicture}[scale=.9]\\foreach \\x in {0,3}{\\draw(\\x,0)circle(1);\\foreach \\a in {0,30,...,330}{\\draw(\\x,0)++(\\a:.9)--++(\\a:.1);}\\fill(\\x,0)circle(.025);}\\draw[->](0,0)--(0,.8);\\draw[->](0,0)--(-30:.5);\\draw[dashed](1.5,-1.2)--(1.5,1.2);\n\\draw[red,->](3,0)--(3,.8);\\draw[red,->](3,0)--++(-150:.5);\n\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "保留黑色已知图形；新增解答为红色；对称轴均用虚线。"
+        }
+      ],
+      "answer_latex": "镜面把钟面左右反射：12仍在正上方，原来指向4的时针反射后指向8，分钟仍为0分。因此镜中为8时整，画长针向12、短针向8，两个针的共同端点落在钟心。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

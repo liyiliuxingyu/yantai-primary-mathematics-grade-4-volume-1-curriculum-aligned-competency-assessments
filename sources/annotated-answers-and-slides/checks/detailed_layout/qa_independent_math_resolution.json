@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "sample_review_records": 58,
+  "resolved_editorial_keys": [
+    "p079_s01",
+    "p090_s03"
+  ],
+  "scope": "仅对应58条实际独立样核；其余按分组审阅记录。",
+  "source_freeze": {
+    "files": [
+      {
+        "file": "detailed_layout/notes_A.json",
+        "sha256": "f2c41598a48029f7ba4530b110ea44c111c13de57f8f59289556f2ab64eeea38"
+      },
+      {
+        "file": "detailed_layout/notes_B.json",
+        "sha256": "ab5154206479515cf82dc8767ff67c7dcabfa2d2dfc797e068af6831b338d1cd"
+      },
+      {
+        "file": "detailed_layout/notes_C.json",
+        "sha256": "cd9695105a56c8b9da92bf969325321aa74ad2f0a1344f9e5c5292941c39a1ff"
+      },
+      {
+        "file": "detailed_layout/notes_D.json",
+        "sha256": "eb77c1b5803dd8d190f75e32efa91d3437515d44c6028d05968512cc925fb729"
+      }
+    ],
+    "records": 867,
+    "nonempty": 856
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "passed": true,
+  "new_layout_checks_passed": true,
+  "actual_visual_review": true,
+  "reviewer": "recheck_1_36",
+  "scope": "实际逐张view_image看29张指定修改PDF页；不声称人工复看未列出的其余全册页。原书74、75、88由root另行看，本报告不重复计入。",
+  "book_pages_actually_viewed": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    15,
+    24,
+    25,
+    30,
+    31,
+    32,
+    39,
+    42,
+    44,
+    52,
+    54,
+    56,
+    57,
+    58,
+    73,
+    77,
+    83,
+    84,
+    89,
+    91,
+    98,
+    100,
+    104,
+    108
+  ],
+  "page_count": 29,
+  "partial_pdf_sha256": "729967db796d78605ca15b24eebb0b880ec8dbd13c84ef1e1744d1c11d33bff1",
+  "new_layout_issues": [],
+  "preexisting_issues": [
+    {
+      "book_page": 91,
+      "issue": "原扫描页脚数字严重模糊，放大似80/90，非清晰91；本轮新增解析未影响页脚。",
+      "evidence": "p74_review/footer91_qa.png",
+      "status": "已报root核实，不能据模糊字形默改题目页序。",
+      "blocks_new_formula_layout_check": false
+    }
+  ],
+  "specific_check_results": {
+    "tree_diagrams_on_3_5_7_retained": true,
+    "p042_s09_original_first_number_alignment": true,
+    "p039_s05_and_p044_s01_all_four_lines_plus_answer_present": true,
+    "p044_s04_all_six_primary_lines_and_answer_present": true,
+    "no_new_black_prompt_overlap_observed": true,
+    "no_new_neighbor_red_answer_overlap_observed": true,
+    "no_new_formula_clipping_or_missing_lines_observed": true,
+    "p056_footer_additional_8x_review_confirms_56": true
+  },
+  "pages": [
+    {
+      "book_page": 2,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p002.png",
+      "sha256": "1b8fd51e41e0d705c4785d3e12261416f4fa85e166e7221157a7b9b2e7fd2fde",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "新增先算32÷2、34÷2两组简便旁注均在本题下方，未遮盖第8题黑题。"
+    },
+    {
+      "book_page": 3,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p003.png",
+      "sha256": "3c687ebeb9bbb2dcd6f87ada9c79fff27b420acf61787d3dd3a73aba254b7bc8",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "原两幅分析树及其×、−、÷关系保留；36×58旁注、回收题先4÷4的脱式均清楚，无碰撞。"
+    },
+    {
+      "book_page": 5,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p005.png",
+      "sha256": "6ca3068a3467243363a184dee1edc789bb6b156cd99c622363a7832bdf7a115b",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "扇贝/礼盒流程图保持；552×2简便旁注完整，与下一题分开。"
+    },
+    {
+      "book_page": 7,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p007.png",
+      "sha256": "aea979b07204791c846405048af35217bcc31a9ced5bfc27943a61c5f88f8236",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "椅子数量分析树保持；73×93补偿式无缺行。"
+    },
+    {
+      "book_page": 11,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p011.png",
+      "sha256": "8568b515b217baf404cad0a126ff2b2a20ea9106882e6a30f352a9933c9ad6d0",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "63×25简便旁注不碰三列原算式或后方图形。"
+    },
+    {
+      "book_page": 15,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p015.png",
+      "sha256": "03ec1416bc63200f00c8fc36036e1ffbff17ebae5dcdf2ba240b18fee7a0bec1",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "48×17新增旁注完整，未遮挡相邻题及下方作图。"
+    },
+    {
+      "book_page": 24,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p024.png",
+      "sha256": "4762a1e5601a11ad4423c53e170ece436a5e0641d8f366d9eefe488ebcd26ade",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "季度天数两个30先凑60的旁注完整；与下一应用题留有间隔。"
+    },
+    {
+      "book_page": 25,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p025.png",
+      "sha256": "307bc13ebd3f831ccd3754dc603581b6c61c70cef9a7ffa6fb30ecef66a29d4b",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "7份6的分配律步骤清晰，页脚和题号未遮挡。"
+    },
+    {
+      "book_page": 30,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p030.png",
+      "sha256": "267caacb619baad09fc10b42a87452bf049322e2ed3190ce46006354efe6e1f4",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "39×32六行面积补偿式位于第5题解析，未碰图形或第6题。"
+    },
+    {
+      "book_page": 31,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p031.png",
+      "sha256": "53f2ae4060b874f9db56eee0ce9666b91c20f093ade4e02180d2da024fe95f15",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "8×5÷8×5四行简算写在三、1（8）之后，无误叠。"
+    },
+    {
+      "book_page": 32,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p032.png",
+      "sha256": "b5e352e622ea0ffff8bf4898698fee759ada777ce7e772d04bdcc876674c0a6a",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "图书总套数另法先凑100；L形面积的三种几何路径及答语完整，原黑图保留。"
+    },
+    {
+      "book_page": 39,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p039.png",
+      "sha256": "1a7a4c29a3ec69faea6228d5e9e002de2d7178a6c87b3e4d84f4a5049eac71ca",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "等边三角形原位9×4÷3→9÷3×4→3×4→12四行及答语完整。"
+    },
+    {
+      "book_page": 42,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p042.png",
+      "sha256": "6f592a17fed970d652b1dac795a6d4a1ac9ce0388cbb4a84379c72435549d6ec",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "局部更新的640原式首数与等号后640已对齐；其余题干及计算列保持。"
+    },
+    {
+      "book_page": 44,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p044.png",
+      "sha256": "6a2de1a6f3f35abaedf38371c0806614bb8a7166a230a7918d149a1568de674a",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "等边三角形主式完整；废纸主式包含550−50和分别除25的必要行，未缺行或覆盖。"
+    },
+    {
+      "book_page": 52,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p052.png",
+      "sha256": "5a058ceaac23df65807df849301e7314375afc42649648c76667d0a54c4117d1",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "门票半票单位法及长方形长宽另法均清楚，未碰题表。"
+    },
+    {
+      "book_page": 54,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p054.png",
+      "sha256": "3ab9b6257fa13bb2be3a614529ab410568c1c9e9a5475222511d48f4845b283a",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "单位换算解释与原选项、口算区分开，未挤出页边。"
+    },
+    {
+      "book_page": 56,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p056.png",
+      "sha256": "fd5ced978718a15ded6651ee428b0c580a8513367101b1b0fb7d57c6c58f8f30",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "3750÷5÷20合并除数、赛事分组凑整等旁注完整；页脚已另放大确认56。"
+    },
+    {
+      "book_page": 57,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p057.png",
+      "sha256": "03dd04f65537836f548ef30a346e3deba6bbad4cb21dedb1f28f587589bfa877",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "36.8+5.9补偿至整6的步骤完整，后续填空无覆盖。"
+    },
+    {
+      "book_page": 58,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p058.png",
+      "sha256": "072c080dd0b25948036e81e49b0a5b144bacb5831050e0ac919baf338448483b",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "30−9.5补偿及17.8−0.9公式清楚，原竖式区未被遮挡。"
+    },
+    {
+      "book_page": 73,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p073.png",
+      "sha256": "854875576530867f6295fa73fd51e886dd53a2956b4612110a147d8fd4b5ed0a",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "新增平均数补差旁注与其他平均题、图形分开，公式行未撞题。"
+    },
+    {
+      "book_page": 77,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p077.png",
+      "sha256": "2615a0a39554ec3f2b7d871a373b22e319bf7075d1380a3c1a7f1cb9623c1e90",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "A队平均的基准法与总和法分开呈现，原表及B队159补空保持。"
+    },
+    {
+      "book_page": 83,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p083.png",
+      "sha256": "09b1b68b9f16bce5c25ab0609a0f87f40ee1858b04968db6f14e97b4aedbfdf4",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "另法两行转换后接原位完整算式的说明清楚；费用/人数原主式无遮挡。"
+    },
+    {
+      "book_page": 84,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p084.png",
+      "sha256": "79de928ce532890aad752ab87219bda239df8fe289b51f6b295746da7bcaa9f3",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "两个水果费用另法两行后共用主式说明清楚；课桌椅题按6组求解完整。"
+    },
+    {
+      "book_page": 89,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p089.png",
+      "sha256": "76a1a203cbeb14d1b3cdef4c05eef523fcbe3691896328644260ccc04bcf40a7",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "96分基准法和总和平均法分开，无重复堆叠；选择题原图保留。"
+    },
+    {
+      "book_page": 91,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p091.png",
+      "sha256": "cd2767fd8f4423f02051f9caebbd890606151f3beac83db9f33434082ee793e1",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "两处模糊数据的条件分支分开，新增基准法未遮挡；原扫描页脚不清单列为既有问题。"
+    },
+    {
+      "book_page": 98,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p098.png",
+      "sha256": "d45690a6da91d8ab07695cb037537cb8c17ba85d818d10d4d385dc34bbce1378",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "循环赛7×8÷2简算正确落在题旁；原对阵图未被遮挡。"
+    },
+    {
+      "book_page": 100,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p100.png",
+      "sha256": "4aafe4e1b206e0abf7171b2c351a480e6a7b5429672f7c08e3431d1d2a14c2f4",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "商品收入补差法及速度两种方法完整；两行转主式处没有重复全文。"
+    },
+    {
+      "book_page": 104,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p104.png",
+      "sha256": "ef057a12b6a813d42f44184f5a9aad5ace9e086e13b30d295e66e0b0f8dd518d",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "成套计价、相遇路程等两行另法均位于对应题间；袜子题分币另法清晰。"
+    },
+    {
+      "book_page": 108,
+      "preview": "p74_review/project/detailed_layout/runs/recheck_20261105/previews/p108.png",
+      "sha256": "2185e0e02bd3729ecf9448461f8a90822adb5b76cb59eba330724b0cebb40b46",
+      "actual_view_image_inspected": true,
+      "new_visual_issue_found": false,
+      "finding": "合唱服两行另法、周平均基准法清楚；原统计表和最后页脚保持。"
+    }
+  ]
+}

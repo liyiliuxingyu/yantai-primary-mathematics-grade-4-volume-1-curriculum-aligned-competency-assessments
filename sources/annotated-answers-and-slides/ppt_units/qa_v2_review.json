@@ -1,0 +1,731 @@
+{
+  "volume": 2,
+  "reviewed_pptx": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final/小学四上同步素养卷第2册讲解课件答案.pptx",
+  "final_pptx_sha256": "4b6c3d85696533373e6a82eff9347e5f5f207d130589c22870efbebe87c2ddfd",
+  "index_sha_matches": true,
+  "status": "pass",
+  "review_method": "对最终 ArtifactTool 渲染图进行人工目视，并核对最终 PPTX XML 中已改对象文字；未在 PowerPoint/WPS 放映测试。",
+  "manual_visual_scope": {
+    "contact_sheets": [
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-001.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-002.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-003.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-004.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-005.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-006.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-007.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-008.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-009.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-010.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-011.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-012.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-013.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-014.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-015.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/sheet-016.png"
+    ],
+    "edited_regions_actually_viewed": 92,
+    "object_ordinal_range": [
+      1,
+      92
+    ],
+    "changed_slide_count_represented_in_contacts": 80,
+    "whole_slides_actually_viewed": [
+      83,
+      99,
+      141,
+      40,
+      279
+    ],
+    "whole_conversion_slides_actually_viewed": [
+      83,
+      99,
+      141
+    ],
+    "whole_slide_pngs": [
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume02/slide-83.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume02/slide-99.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume02/slide-141.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume02/slide-40.png",
+      "/workspace/scratch/1facfb035d44/units_review/ppt_units/final_render/volume02/slide-279.png"
+    ],
+    "not_claimed": "未人工逐页检查整册479页；80张修改页仅92个指定改动区域全部目视，5张另查整页。"
+  },
+  "findings": [
+    {
+      "type": "unit_parentheses",
+      "result": "全部所审更正区域的结果单位括号为半角()；单位、数字清楚，无贴碰、遮挡或重影。"
+    },
+    {
+      "type": "conversion_lines",
+      "slides": [
+        83,
+        99,
+        141
+      ],
+      "result": "半小时=30分钟、3千米=3000米、下午1:00=13:00均单独一行，换算行单位未套括号；前后说明与后续计算保留。"
+    },
+    {
+      "type": "crop_boundary_clarification",
+      "slides": [
+        40,
+        279
+      ],
+      "result": "联系人图中的左边界裁剪不属于最终幻灯片内容裁切；已打开整页确认9000−6200和25×8等首个数字完整。"
+    },
+    {
+      "type": "layout",
+      "result": "所审整页的转换行与前后文字分开，未见碰撞、越页或脚注遮挡；原题数字在这些页未见改变。"
+    }
+  ],
+  "issues": [],
+  "xml_changed_object_count": 92,
+  "xml_text_mismatch_count": 0,
+  "xml_checks": [
+    {
+      "slide": 25,
+      "name": "p019_s15_b003_5",
+      "expected": "4200(千克)",
+      "actual": "4200(千克)",
+      "matches": true
+    },
+    {
+      "slide": 26,
+      "name": "p019_s15_b009_4",
+      "expected": "4200(千克)",
+      "actual": "4200(千克)",
+      "matches": true
+    },
+    {
+      "slide": 27,
+      "name": "p019_s16_b004_6",
+      "expected": "24(元)",
+      "actual": "24(元)",
+      "matches": true
+    },
+    {
+      "slide": 28,
+      "name": "p019_s16_b011_6",
+      "expected": "24(元)",
+      "actual": "24(元)",
+      "matches": true
+    },
+    {
+      "slide": 29,
+      "name": "p019_s16_b013_1_p1",
+      "expected": "24×25=600(元)",
+      "actual": "24×25=600(元)",
+      "matches": true
+    },
+    {
+      "slide": 30,
+      "name": "p020_s01_b004_5",
+      "expected": "90(元)",
+      "actual": "90(元)",
+      "matches": true
+    },
+    {
+      "slide": 31,
+      "name": "p020_s01_b011_5",
+      "expected": "90(元)",
+      "actual": "90(元)",
+      "matches": true
+    },
+    {
+      "slide": 33,
+      "name": "p020_s02_b005_2_retained_original",
+      "expected": "80(千米/时)",
+      "actual": "80(千米/时)",
+      "matches": true
+    },
+    {
+      "slide": 33,
+      "name": "p020_s02_b005_2_simplify_steps_simplify_rhs3",
+      "expected": "80(千米/时)",
+      "actual": "80(千米/时)",
+      "matches": true
+    },
+    {
+      "slide": 35,
+      "name": "p020_s03_b005_3",
+      "expected": "540(千米)",
+      "actual": "540(千米)",
+      "matches": true
+    },
+    {
+      "slide": 36,
+      "name": "p020_s03_b010_2",
+      "expected": "540(千米)",
+      "actual": "540(千米)",
+      "matches": true
+    },
+    {
+      "slide": 36,
+      "name": "p020_s03_b012_4_p1",
+      "expected": "540÷3-100=80(千米/时)",
+      "actual": "540÷3-100=80(千米/时)",
+      "matches": true
+    },
+    {
+      "slide": 39,
+      "name": "p020_s04_b006_4",
+      "expected": "6200(元)",
+      "actual": "6200(元)",
+      "matches": true
+    },
+    {
+      "slide": 40,
+      "name": "p020_s04_b012_4",
+      "expected": "9000(元)",
+      "actual": "9000(元)",
+      "matches": true
+    },
+    {
+      "slide": 40,
+      "name": "p020_s04_b013_5_p2",
+      "expected": "9000-6200=2800(元)",
+      "actual": "9000-6200=2800(元)",
+      "matches": true
+    },
+    {
+      "slide": 41,
+      "name": "p020_s04_b018_4",
+      "expected": "3000(元)",
+      "actual": "3000(元)",
+      "matches": true
+    },
+    {
+      "slide": 42,
+      "name": "p020_s04_b021_2",
+      "expected": "2800(元)",
+      "actual": "2800(元)",
+      "matches": true
+    },
+    {
+      "slide": 43,
+      "name": "p021_s01_b004_5",
+      "expected": "320(元)",
+      "actual": "320(元)",
+      "matches": true
+    },
+    {
+      "slide": 47,
+      "name": "p021_s03_b002_3",
+      "expected": "5(元/千克)",
+      "actual": "5(元/千克)",
+      "matches": true
+    },
+    {
+      "slide": 54,
+      "name": "p021_s06_b004_2",
+      "expected": "70(米/分)",
+      "actual": "70(米/分)",
+      "matches": true
+    },
+    {
+      "slide": 58,
+      "name": "p021_s07_b004_2",
+      "expected": "1400(米)",
+      "actual": "1400(米)",
+      "matches": true
+    },
+    {
+      "slide": 62,
+      "name": "p021_s08_b004_2",
+      "expected": "3(小时)",
+      "actual": "3(小时)",
+      "matches": true
+    },
+    {
+      "slide": 66,
+      "name": "p021_s09_b004_2",
+      "expected": "107(千米/时)",
+      "actual": "107(千米/时)",
+      "matches": true
+    },
+    {
+      "slide": 71,
+      "name": "p021_s10_b005_3",
+      "expected": "5220(千米)",
+      "actual": "5220(千米)",
+      "matches": true
+    },
+    {
+      "slide": 73,
+      "name": "p021_s11_b004_6",
+      "expected": "1020(米)",
+      "actual": "1020(米)",
+      "matches": true
+    },
+    {
+      "slide": 74,
+      "name": "p021_s11_b008_3",
+      "expected": "1020(米)",
+      "actual": "1020(米)",
+      "matches": true
+    },
+    {
+      "slide": 74,
+      "name": "p021_s11_b009_4_p1",
+      "expected": "1020×2÷340=6(秒)",
+      "actual": "1020×2÷340=6(秒)",
+      "matches": true
+    },
+    {
+      "slide": 76,
+      "name": "p021_s12_b002_2",
+      "expected": "8(元/千克)",
+      "actual": "8(元/千克)",
+      "matches": true
+    },
+    {
+      "slide": 78,
+      "name": "p021_s13_b003_4",
+      "expected": "3(千克)",
+      "actual": "3(千克)",
+      "matches": true
+    },
+    {
+      "slide": 81,
+      "name": "p022_s01_b004_2",
+      "expected": "300(米)",
+      "actual": "300(米)",
+      "matches": true
+    },
+    {
+      "slide": 83,
+      "name": "p022_s02_b001_3_p0_units_row_1",
+      "expected": "半小时=30分钟",
+      "actual": "半小时=30分钟",
+      "matches": true
+    },
+    {
+      "slide": 84,
+      "name": "p022_s02_b004_2",
+      "expected": "2160(个)",
+      "actual": "2160(个)",
+      "matches": true
+    },
+    {
+      "slide": 86,
+      "name": "p022_s03_b004_6",
+      "expected": "110(千米/时)",
+      "actual": "110(千米/时)",
+      "matches": true
+    },
+    {
+      "slide": 89,
+      "name": "p022_s04_b005_1_p0",
+      "expected": "70×2=140(千米)",
+      "actual": "70×2=140(千米)",
+      "matches": true
+    },
+    {
+      "slide": 92,
+      "name": "p022_s05_b008_2",
+      "expected": "34(元)",
+      "actual": "34(元)",
+      "matches": true
+    },
+    {
+      "slide": 95,
+      "name": "p022_s06_b008_4",
+      "expected": "203(千米/时)",
+      "actual": "203(千米/时)",
+      "matches": true
+    },
+    {
+      "slide": 99,
+      "name": "p022_s07_b005_0_p0_units_row_1",
+      "expected": "3千米=3000米",
+      "actual": "3千米=3000米",
+      "matches": true
+    },
+    {
+      "slide": 99,
+      "name": "p022_s07_b005_1_p0",
+      "expected": "3000÷3=1000",
+      "actual": "3000÷3=1000",
+      "matches": true
+    },
+    {
+      "slide": 99,
+      "name": "p022_s07_b005_2_p0",
+      "expected": "1440>1300>1200>1000",
+      "actual": "1440>1300>1200>1000",
+      "matches": true
+    },
+    {
+      "slide": 99,
+      "name": "p022_s07_b006_3_p1",
+      "expected": "A",
+      "actual": "A",
+      "matches": true
+    },
+    {
+      "slide": 102,
+      "name": "p022_s08_b008_3",
+      "expected": "780(米)",
+      "actual": "780(米)",
+      "matches": true
+    },
+    {
+      "slide": 135,
+      "name": "p023_s15_b005_3",
+      "expected": "1440(米)",
+      "actual": "1440(米)",
+      "matches": true
+    },
+    {
+      "slide": 136,
+      "name": "p023_s15_b010_2",
+      "expected": "1440(米)",
+      "actual": "1440(米)",
+      "matches": true
+    },
+    {
+      "slide": 139,
+      "name": "p023_s16_b006_4",
+      "expected": "200(米)",
+      "actual": "200(米)",
+      "matches": true
+    },
+    {
+      "slide": 140,
+      "name": "p023_s16_b011_2",
+      "expected": "200(米)",
+      "actual": "200(米)",
+      "matches": true
+    },
+    {
+      "slide": 141,
+      "name": "p024_s01_b001_3_p0_units_row_1",
+      "expected": "下午1:00=13:00",
+      "actual": "下午1:00=13:00",
+      "matches": true
+    },
+    {
+      "slide": 141,
+      "name": "p024_s01_b001_3_p0_units_row_3",
+      "expected": "13-9=4",
+      "actual": "13-9=4",
+      "matches": true
+    },
+    {
+      "slide": 142,
+      "name": "p024_s01_b005_2",
+      "expected": "368(千米)",
+      "actual": "368(千米)",
+      "matches": true
+    },
+    {
+      "slide": 143,
+      "name": "p024_s01_b010_2",
+      "expected": "368(千米)",
+      "actual": "368(千米)",
+      "matches": true
+    },
+    {
+      "slide": 145,
+      "name": "p024_s02_b006_3",
+      "expected": "3420(米)",
+      "actual": "3420(米)",
+      "matches": true
+    },
+    {
+      "slide": 146,
+      "name": "p024_s02_b012_3",
+      "expected": "3420(米)",
+      "actual": "3420(米)",
+      "matches": true
+    },
+    {
+      "slide": 148,
+      "name": "p024_s03_b006_3",
+      "expected": "728(台)",
+      "actual": "728(台)",
+      "matches": true
+    },
+    {
+      "slide": 149,
+      "name": "p024_s03_b013_3_retained_original",
+      "expected": "728(台)",
+      "actual": "728(台)",
+      "matches": true
+    },
+    {
+      "slide": 149,
+      "name": "p024_s03_b013_3_simplify_steps_simplify_rhs3",
+      "expected": "91(天)",
+      "actual": "91(天)",
+      "matches": true
+    },
+    {
+      "slide": 150,
+      "name": "p024_s04_b003_6",
+      "expected": "2000(米)",
+      "actual": "2000(米)",
+      "matches": true
+    },
+    {
+      "slide": 151,
+      "name": "p024_s04_b008_5",
+      "expected": "300(米/分)",
+      "actual": "300(米/分)",
+      "matches": true
+    },
+    {
+      "slide": 245,
+      "name": "p027_s10_b006_3",
+      "expected": "700(下)",
+      "actual": "700(下)",
+      "matches": true
+    },
+    {
+      "slide": 246,
+      "name": "p027_s10_b012_3",
+      "expected": "700(下)",
+      "actual": "700(下)",
+      "matches": true
+    },
+    {
+      "slide": 248,
+      "name": "p027_s11_b004_2",
+      "expected": "1200(台)",
+      "actual": "1200(台)",
+      "matches": true
+    },
+    {
+      "slide": 249,
+      "name": "p027_s11_b009_2",
+      "expected": "1200(台)",
+      "actual": "1200(台)",
+      "matches": true
+    },
+    {
+      "slide": 250,
+      "name": "p028_s01_b004_6",
+      "expected": "700(元)",
+      "actual": "700(元)",
+      "matches": true
+    },
+    {
+      "slide": 251,
+      "name": "p028_s01_b009_4",
+      "expected": "700(元)",
+      "actual": "700(元)",
+      "matches": true
+    },
+    {
+      "slide": 253,
+      "name": "p028_s02_b004_2",
+      "expected": "12(名)",
+      "actual": "12(名)",
+      "matches": true
+    },
+    {
+      "slide": 254,
+      "name": "p028_s02_b009_2",
+      "expected": "12(名)",
+      "actual": "12(名)",
+      "matches": true
+    },
+    {
+      "slide": 256,
+      "name": "p028_s03_b004_2",
+      "expected": "1600(米)",
+      "actual": "1600(米)",
+      "matches": true
+    },
+    {
+      "slide": 257,
+      "name": "p028_s03_b009_2",
+      "expected": "1600(米)",
+      "actual": "1600(米)",
+      "matches": true
+    },
+    {
+      "slide": 259,
+      "name": "p028_s04_b004_2",
+      "expected": "96(米)",
+      "actual": "96(米)",
+      "matches": true
+    },
+    {
+      "slide": 260,
+      "name": "p028_s04_b009_2",
+      "expected": "96(米)",
+      "actual": "96(米)",
+      "matches": true
+    },
+    {
+      "slide": 262,
+      "name": "p029_s01_b004_2",
+      "expected": "977(件)",
+      "actual": "977(件)",
+      "matches": true
+    },
+    {
+      "slide": 278,
+      "name": "p029_s09_b004_5",
+      "expected": "400(个)",
+      "actual": "400(个)",
+      "matches": true
+    },
+    {
+      "slide": 279,
+      "name": "p029_s09_b005_0_p1",
+      "expected": "25×8=200(人)",
+      "actual": "25×8=200(人)",
+      "matches": true
+    },
+    {
+      "slide": 279,
+      "name": "p029_s09_b005_1_p0",
+      "expected": "2×200=400(个)",
+      "actual": "2×200=400(个)",
+      "matches": true
+    },
+    {
+      "slide": 283,
+      "name": "p029_s10_b006_4",
+      "expected": "1764(棵)",
+      "actual": "1764(棵)",
+      "matches": true
+    },
+    {
+      "slide": 310,
+      "name": "p030_s10_b005_0_simplify_steps_simplify_rhs5",
+      "expected": "1248(平方米)",
+      "actual": "1248(平方米)",
+      "matches": true
+    },
+    {
+      "slide": 346,
+      "name": "p031_s16_b006_3",
+      "expected": "363(页)",
+      "actual": "363(页)",
+      "matches": true
+    },
+    {
+      "slide": 347,
+      "name": "p031_s16_b011_2",
+      "expected": "363(页)",
+      "actual": "363(页)",
+      "matches": true
+    },
+    {
+      "slide": 347,
+      "name": "p031_s16_b013_4_p1",
+      "expected": "363-178-63=122(页)",
+      "actual": "363-178-63=122(页)",
+      "matches": true
+    },
+    {
+      "slide": 349,
+      "name": "p032_s01_b004_2",
+      "expected": "12000(元)",
+      "actual": "12000(元)",
+      "matches": true
+    },
+    {
+      "slide": 350,
+      "name": "p032_s01_b009_2",
+      "expected": "12000(元)",
+      "actual": "12000(元)",
+      "matches": true
+    },
+    {
+      "slide": 351,
+      "name": "p032_s02_b004_6",
+      "expected": "1200(本)",
+      "actual": "1200(本)",
+      "matches": true
+    },
+    {
+      "slide": 352,
+      "name": "p032_s02_b009_4_simplify_rhs1",
+      "expected": "1200(本)",
+      "actual": "1200(本)",
+      "matches": true
+    },
+    {
+      "slide": 354,
+      "name": "p032_s03_b004_2",
+      "expected": "10(本)",
+      "actual": "10(本)",
+      "matches": true
+    },
+    {
+      "slide": 355,
+      "name": "p032_s03_b009_2",
+      "expected": "10(本)",
+      "actual": "10(本)",
+      "matches": true
+    },
+    {
+      "slide": 358,
+      "name": "p032_s04_b006_5_simplify_rhs1",
+      "expected": "1080(平方米)",
+      "actual": "1080(平方米)",
+      "matches": true
+    },
+    {
+      "slide": 359,
+      "name": "p032_s04_b012_4_simplify_rhs1",
+      "expected": "1080(平方米)",
+      "actual": "1080(平方米)",
+      "matches": true
+    },
+    {
+      "slide": 361,
+      "name": "p032_s04_b023_2",
+      "expected": "1080(平方米)",
+      "actual": "1080(平方米)",
+      "matches": true
+    },
+    {
+      "slide": 387,
+      "name": "p033_s11_b004_6",
+      "expected": "16(厘米)",
+      "actual": "16(厘米)",
+      "matches": true
+    },
+    {
+      "slide": 389,
+      "name": "p033_s12_b004_6",
+      "expected": "22(厘米)",
+      "actual": "22(厘米)",
+      "matches": true
+    },
+    {
+      "slide": 405,
+      "name": "p034_s05_b008_3",
+      "expected": "18(厘米)",
+      "actual": "18(厘米)",
+      "matches": true
+    },
+    {
+      "slide": 472,
+      "name": "p036_s02_b008_3",
+      "expected": "16(厘米)",
+      "actual": "16(厘米)",
+      "matches": true
+    },
+    {
+      "slide": 473,
+      "name": "p036_s02_b014_3",
+      "expected": "16(厘米)",
+      "actual": "16(厘米)",
+      "matches": true
+    },
+    {
+      "slide": 473,
+      "name": "p036_s02_b016_5_p1",
+      "expected": "13+16+26×2=81(厘米)",
+      "actual": "13+16+26×2=81(厘米)",
+      "matches": true
+    }
+  ],
+  "contact_index": "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume02/index.json"
+}

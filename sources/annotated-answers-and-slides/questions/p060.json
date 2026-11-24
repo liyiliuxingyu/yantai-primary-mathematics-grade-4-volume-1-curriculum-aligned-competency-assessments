@@ -1,0 +1,152 @@
+{
+  "book_page": 60,
+  "source_page": 64,
+  "records": [
+    {
+      "key": "p060_s01",
+      "book_page": 60,
+      "source_page": 64,
+      "section_index": 0,
+      "id": "四、4",
+      "kind": "application",
+      "question_latex": "父亲节，琳琳用零花钱给爸爸买了一条围巾。付款100元，找回\\(26.7\\)元，琳琳发现多找回\\(9.3\\)元，围巾多少元？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先求原本应找回的钱，再用付款减去正确找零。\\[\\begin{aligned}&100-(26.7-9.3)\\\\={}&100-17.4\\\\={}&82.6\\text{(元)}\\end{aligned}\\]答：围巾82.6元。\\par 方法二：按错误找零算出的价格少了9.3元，要再加上。\\[\\begin{aligned}&100-26.7+9.3\\\\={}&73.3+9.3\\\\={}&82.6\\text{(元)}\\end{aligned}\\]答：围巾82.6元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p060_s02",
+      "book_page": 60,
+      "source_page": 64,
+      "section_index": 1,
+      "id": "四、5",
+      "kind": "application",
+      "question_latex": "蓬莱阁景区开展文化宣传活动，准备了两种宣传画卷。长画卷长\\(3.6\\)米，短画卷比长画卷短\\(1.35\\)米。两幅画卷一共长多少米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先求短画卷，再求两幅总长。\\[\\begin{aligned}&3.6+(3.6-1.35)\\\\={}&3.6+2.25\\\\={}&5.85\\text{(米)}\\end{aligned}\\]答：两幅画卷共长5.85米。\\par 方法二：先按两幅都长3.6米算，再减掉多算的1.35米。\\[\\begin{aligned}&3.6+3.6-1.35\\\\={}&7.2-1.35\\\\={}&5.85\\text{(米)}\\end{aligned}\\]答：共长5.85米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p060_s03",
+      "book_page": 60,
+      "source_page": 64,
+      "section_index": 2,
+      "id": "四、6（1）",
+      "kind": "application",
+      "question_latex": "国货惠民超市促销：纯牛奶\\(49.8\\)元/箱，天然洗衣液\\(26.35\\)元/瓶，原生木浆纸巾\\(13.65\\)元/提。（1）购买一箱纯牛奶和一瓶天然洗衣液一共需要多少元？",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "商品",
+            "价格"
+          ],
+          "rows": [
+            [
+              "纯牛奶",
+              "49.8元/箱"
+            ],
+            [
+              "天然洗衣液",
+              "26.35元/瓶"
+            ],
+            [
+              "原生木浆纸巾",
+              "13.65元/提"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "方法一：把一箱奶价和一瓶洗衣液价相加。\\[\\begin{aligned}&49.8+26.35\\\\={}&76.15\\text{(元)}\\end{aligned}\\]答：一共需要76.15元。\\par 方法二：把49.8凑成50，多加的0.2再减去。\\[\\begin{aligned}&49.8+26.35\\\\={}&50+26.35-0.2\\\\={}&76.35-0.2\\\\={}&76.15\\text{(元)}\\end{aligned}\\]答：一共需要76.15元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p060_s04",
+      "book_page": 60,
+      "source_page": 64,
+      "section_index": 3,
+      "id": "四、6（2）",
+      "kind": "application",
+      "question_latex": "国货惠民超市促销：纯牛奶\\(49.8\\)元/箱，天然洗衣液\\(26.35\\)元/瓶，原生木浆纸巾\\(13.65\\)元/提。（2）妈妈带100元购买这三种商品，钱够吗？若够，还剩多少元？若不够，还差多少元？",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "商品",
+            "价格"
+          ],
+          "rows": [
+            [
+              "纯牛奶",
+              "49.8元/箱"
+            ],
+            [
+              "天然洗衣液",
+              "26.35元/瓶"
+            ],
+            [
+              "原生木浆纸巾",
+              "13.65元/提"
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "方法一：先求三种商品总价。\\[\\begin{aligned}&49.8+26.35+13.65\\\\={}&49.8+(26.35+13.65)\\\\={}&49.8+40\\\\={}&89.8\\text{(元)}\\end{aligned}\\]\\(89.8<100\\)，所以钱够。找零：\\[\\begin{aligned}&100-89.8\\\\={}&10.2\\text{(元)}\\end{aligned}\\]答：钱够，还剩10.2元。\\par 方法二：先买奶，再扣去另两种商品的合计价。\\[\\begin{aligned}&100-49.8-(26.35+13.65)\\\\={}&50.2-40\\\\={}&10.2\\text{(元)}\\end{aligned}\\]剩余为正数，说明钱够。答：还剩10.2元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "book_page": 90,
+  "source_page": 94,
+  "records": [
+    {
+      "key": "p090_s01",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 0,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "3. 气象观测站在某天的\\(3\\)时、\\(8\\)时、\\(15\\)时、\\(21\\)时测得的温度分别是\\(8^\\circ\\mathrm C\\)、\\(15^\\circ\\mathrm C\\)、\\(26^\\circ\\mathrm C\\)、\\(19^\\circ\\mathrm C\\)。计算这天的平均气温正确的算式为（    ）。",
+      "options": [
+        "A. \\((8+15+26+19)\\div4\\)",
+        "B. \\((8+15+26+19)\\div(3+8+15+21)\\)",
+        "C. \\((8+15+26+19)\\div24\\)",
+        "D. \\((3+8+15+21)\\div4\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选A。统计的是\\(4\\)个观测时刻的温度值\\(8,15,26,19\\)，所以用温度总和除以观测次数：\\[(8+15+26+19)\\div4\\]时刻\\(3,8,15,21\\)表示何时观测，不是气温数据；\\(24\\)也不是这组数据的个数，不能作为除数。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p090_s02",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 1,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "4. 一次跳绳比赛，\\(5\\)名同学的成绩从低到高依次是\\(73\\)下、\\(81\\)下、\\(a\\)下、\\(87\\)下、\\(95\\)下，他们的平均成绩可能是（    ）。",
+      "options": [
+        "A. 72下",
+        "B. 85下",
+        "C. 95下",
+        "D. 96下"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "原选项均不成立。由从低到高排列得\\(81\\le a\\le87\\)。先求其他四项和，按加法交换律、结合律分组：\\[\\begin{aligned}&73+81+87+95\\\\={}&(73+87)+(81+95)\\\\={}&160+176\\\\={}&336\\end{aligned}\\]最小平均数：\\[\\begin{aligned}&(336+81)\\div5\\\\={}&417\\div5\\\\={}&83.4\\text{(下)}\\end{aligned}\\]最大平均数：\\[\\begin{aligned}&(336+87)\\div5\\\\={}&423\\div5\\\\={}&84.6\\text{(下)}\\end{aligned}\\]因此平均数在83.4至84.6下之间；72、85、95、96均不符合。题目未要求取整，不能自行把84.6约为85。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "原题选择空统一填无，旁注原选项均不符；二、5原数20保留在说明。",
+          "本轮平均数完整脱式复核：已有最小、最大平均数脱式完整，但把其余四项总和336作为口述结果，补求和的完整步骤及合法分组。"
+        ],
+        "uncertainties": [],
+        "additional_left_patches": [
+          {
+            "rect": [
+              248,
+              219,
+              277,
+              232
+            ],
+            "old": "见续页",
+            "new_latex": "无",
+            "size": 9
+          },
+          {
+            "rect": [
+              302,
+              220,
+              530,
+              233
+            ],
+            "old": "",
+            "new_latex": "原选项均不符，见续页。",
+            "size": 8
+          }
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p090_s03",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 2,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "5. \\(6\\)个数的平均数是\\(50\\)，若把其中一个数改为\\(80\\)，则平均数变为\\(60\\)，这个数原来是（    ）。",
+      "options": [
+        "A. 60",
+        "B. 50",
+        "C. 40",
+        "D. 30"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "原数为20，原选项均不成立。平均数增加10，6个数的总和就增加60；只有一个数改动，故从80扣去这60：\\[\\begin{aligned}&80-(60-50)\\times6\\\\={}&80-10\\times6\\\\={}&80-60\\\\={}&20\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "原题选择空统一填无，旁注原选项均不符；二、5原数20保留在说明。",
+          "本轮平均数完整脱式复核：原有口述总和变化和一行综合式，补80−(60−50)×6的完整脱式，体现只算平均数差额的简便思路。"
+        ],
+        "uncertainties": [],
+        "additional_left_patches": [
+          {
+            "rect": [
+              124,
+              369,
+              139,
+              381
+            ],
+            "old": "20",
+            "new_latex": "无",
+            "size": 9
+          },
+          {
+            "rect": [
+              184,
+              369,
+              530,
+              382
+            ],
+            "old": "",
+            "new_latex": "原选项均不符；原数为20，见续页。",
+            "size": 8
+          }
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p090_s04",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 3,
+      "id": "三、1（1）—（4）",
+      "kind": "calculation",
+      "question_latex": "三、计算。（共23分）\\par 1. 直接写得数。（8分）\\par \\(0.4+0.5=\\quad1-0.7=\\quad4.3+3.7=\\quad1.2-0.8=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(0.4+0.5=0.9\\)；\\(1-0.7=0.3\\)；\\(4.3+3.7=8\\)；\\(1.2-0.8=0.4\\)。把十分之一的个数相加减，满\\(10\\)个十分之一就进为\\(1\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p090_s05",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 4,
+      "id": "三、1（5）—（8）",
+      "kind": "calculation",
+      "question_latex": "1. 直接写得数（续）。\\par \\(0.4+1.2=\\quad7.9-1.9=\\quad7.3+1.8=\\quad13.5-3.5=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(0.4+1.2=1.6\\)；\\(7.9-1.9=6\\)；\\(7.3+1.8=9.1\\)；\\(13.5-3.5=10\\)。同数位相加减，小数点位置不变。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p090_s06",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 5,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "2. 列竖式计算。（带☆的要验算）（15分）\\par \\(15.05+2.63=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{array}{r@{\\;}r@{.}l}&15&05\\\\+&2&63\\\\\\hline&17&68\\end{array}\\]\\(15.05+2.63=17.68\\)。百分位\\(5+3=8\\)，十分位\\(0+6=6\\)，个位\\(5+2=7\\)，十位保留\\(1\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p090_s07",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 6,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "\\(9.06-2.5=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{array}{r@{\\;}r@{.}l}&9&06\\\\-&2&50\\\\\\hline&6&56\\end{array}\\]\\(9.06-2.5=6.56\\)。先把\\(2.5\\)写成等值的\\(2.50\\)对齐小数点；十分位不够减，向个位借\\(1\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p090_s08",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 7,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "\\(5.7+12.34=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{array}{r@{\\;}r@{.}l}&5&70\\\\+&12&34\\\\\\hline&18&04\\end{array}\\]\\(5.7+12.34=18.04\\)。\\(5.7\\)补写成\\(5.70\\)，十分位\\(7+3=10\\)向个位进\\(1\\)，所以结果十分位要保留\\(0\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p090_s09",
+      "book_page": 90,
+      "source_page": 94,
+      "section_index": 8,
+      "id": "三、2（4）及验算",
+      "kind": "calculation",
+      "question_latex": "☆\\(12.8-1.24=\\)（要验算）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\[\\begin{array}{r@{\\;}r@{.}l}&12&80\\\\-&1&24\\\\\\hline&11&56\\end{array}\\]\\(12.8-1.24=11.56\\)。百分位不够减，从十分位借\\(1\\)，再逐位相减。验算用差加减数：\\[\\begin{array}{r@{\\;}r@{.}l}&11&56\\\\+&1&24\\\\\\hline&12&80\\end{array}\\]验算得到原被减数\\(12.80=12.8\\)，计算正确。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

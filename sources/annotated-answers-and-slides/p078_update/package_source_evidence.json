@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "approved_changes_sha256": "012146e80018a231c103ade6ea63bacd94e939477ad7d7b8f83f11a8d6367f22",
+  "source_photo": "p078_update/assets/p078_original_photo.jpg",
+  "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+  "tikz_matches_authorized_record": true,
+  "circles": 16,
+  "horizontal_boundaries": 5,
+  "svg_embedded_bitmap_images": 0,
+  "evidence_files": [
+    {
+      "file": "p078_update/assets/p078_original_photo.jpg",
+      "bytes": 258343,
+      "sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+    },
+    {
+      "file": "p078_update/assets/p078_temperatures_photo.tikz",
+      "bytes": 1527,
+      "sha256": "a9432476a1074da7a814981e692c7487dcf28f12a64f423c8f4e359434241263"
+    },
+    {
+      "file": "p078_update/assets/p078_temperatures_photo.svg",
+      "bytes": 13252,
+      "sha256": "8e91c2c4803651983ced2856ab98f5c0bdc82a887dee49ae2e2cc7b3a8ece266"
+    },
+    {
+      "file": "fonts/DroidSansFallback.ttf",
+      "bytes": 3556308,
+      "sha256": "ee38813ea00c3e32add4268fff7fff9e39417b4913cb13be2415164a47807cc2"
+    }
+  ]
+}

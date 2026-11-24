@@ -1,0 +1,175 @@
+{
+  "group": "B",
+  "passed": true,
+  "pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "pdf_version": "runs/final4/详细题内答案成品.pdf",
+  "reviewed_book_pages": [
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "overview_page_count": 27,
+  "overview_evidence": "已通过view_image实际查看final3/previews/p028.png至p054.png全部27张，逐页检查题块归属、原题/原红/图表保留、红解析间距、页边及公式范围。",
+  "magnified_review": {
+    "zoom": 1.8,
+    "page_count": 17,
+    "book_pages": [
+      29,
+      30,
+      33,
+      34,
+      36,
+      37,
+      38,
+      41,
+      42,
+      45,
+      46,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "evidence_dir": "/workspace/scratch/1facfb035d44/B_focus",
+    "scope": "实际查看每页的重点区域裁片：新数字链、不等号、角度符号、整数/小数点位、单位换算、格点计数与底高/五边形/数轴标注；裁片仅为检查视窗，切边不表示成品裁字。"
+  },
+  "source_heading_safety_review": {
+    "original_A4_pages": [
+      42,
+      46
+    ],
+    "zoom": 4,
+    "evidence_report": "detailed_layout/qa_slot_B_relocations.json"
+  },
+  "scope_limit": "27页均已在final3逐页总览，17页重点区域放大；final4变化的42、46页又实际全页及2倍区域复看，其余25页PNG与已看final3逐字节相同。此报告不声称重新转录每个原扫描字形。",
+  "findings": [
+    {
+      "book_page": 42,
+      "key": "p042_s02",
+      "severity": "placement",
+      "finding": "一、8组合图解析跨过二标题与二、1选项后才出现。",
+      "status": "resolved",
+      "resolution": "split slot plus 1:1 original heading relocation; final4 full-page and 2x upper-region previews actually rechecked."
+    },
+    {
+      "book_page": 46,
+      "key": "p046_s01",
+      "severity": "placement",
+      "finding": "一、10底高解析跨过二标题与二、1选项后才出现。",
+      "status": "resolved",
+      "resolution": "split slot plus 1:1 original heading relocation; final4 full-page and 2x upper-region previews actually rechecked."
+    }
+  ],
+  "other_checks": {
+    "no_new_note_clipping_seen": true,
+    "no_note_over_figure_seen": true,
+    "no_note_line_overlap_seen": true,
+    "new_numeric_chains_and_symbols_legible_in_magnified_regions": true,
+    "cross_page_explanations_not_repeated": true
+  },
+  "notes_B_sha256": "ab5154206479515cf82dc8767ff67c7dcabfa2d2dfc797e068af6831b338d1cd",
+  "slots_B_sha256": "783899eaeb800e73328d5cbed9d45ff348a2c7c611a95908c89119805ef6b683",
+  "base_visual_review_pdf_sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0",
+  "final_patch_reinspection": {
+    "book_pages": [
+      42,
+      46
+    ],
+    "full_page_previews_actually_viewed": true,
+    "magnified_regions_actually_viewed": true,
+    "magnification": 2.0,
+    "evidence_dir": "/workspace/scratch/1facfb035d44/B_focus",
+    "evidence_files": [
+      "final4_p042.png",
+      "final4_p046.png"
+    ],
+    "checks": [
+      "前题解析位于本题图后、下一大题标题前",
+      "标题原裁片完整且仅出现一次，无原处重影",
+      "右侧原题图、底边、B/C及尺寸标记无裁切",
+      "下一选择题题干和四选项顺序完整",
+      "新解析与标题、下一题均有清楚间隔"
+    ],
+    "unchanged_other_pages_byte_identical_to_reviewed_final3": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      43,
+      44,
+      45,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "identical_page_count": 25
+  },
+  "reviewed_raw_pdf_sha256": "65ae8dfca3a237b8adeb87fb9658299ab887bb4aacdfac3a8536fe6d258b520b",
+  "lossless_optimization": {
+    "all128_pages_pixel_identical_at_2x": true,
+    "report": "style_patch/qa_lossless_optimization.json"
+  },
+  "previous_edition_pdf_sha256": "30e8400bcd5791a92149cb925072c7a06b123c74eb194ac764ee43e0768af60b",
+  "p003_unit1_style_update": {
+    "changed_book_page": 3,
+    "all_other107_question_pages_png_identical": true,
+    "evidence": "style_patch/qa_pdf_scope.json",
+    "specific_page_review": "style_patch/qa_p003_math_visual.json",
+    "scope": "仅原书3页修改；其余沿用此前实看并以图像相同继承。"
+  },
+  "run": "followup_unit1_trees_final",
+  "pdf": "/workspace/scratch/1facfb035d44/detail_work/deliverables/小学同步素养四年级上册数学答案.pdf",
+  "hash_verified": true,
+  "p005_p007_unit1_style_update": {
+    "previous_pdf_sha256": "bbdf2edbb3199e73af762e44746a34d120efa54989290b398c02b31ba6a77db5",
+    "scope_proof": "followup_style/qa_scope.json",
+    "all_other_106_question_pages_exactly_preserved": true,
+    "changed_pages": [
+      5,
+      7
+    ],
+    "review": "No pages in this segment changed; prior actual review inherited through exact rendered-image equality.",
+    "lossless_optimization": "followup_style/qa_lossless.json"
+  }
+}

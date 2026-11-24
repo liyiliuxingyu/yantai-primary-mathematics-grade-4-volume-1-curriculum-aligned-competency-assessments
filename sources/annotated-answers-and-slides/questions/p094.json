@@ -1,0 +1,315 @@
+{
+  "book_page": 94,
+  "source_page": 98,
+  "records": [
+    {
+      "key": "p094_s01",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 0,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "2. 下面各数中，一个“0”也不读出的是（    ）。",
+      "options": [
+        "A. 906.00",
+        "B. 900.60",
+        "C. 900.06",
+        "D. 90.080"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按原数的写法读，小数部分须逐位读：\\par A：\\(906.00\\)，九百零六点零零；\\par B：\\(900.60\\)，九百点六零；\\par C：\\(900.06\\)，九百点零六；\\par D：\\(90.080\\)，九十点零八零。\\par 四项都要读出“零”，所以本题按题面无正确选项。若先把\\(900.60\\)化简为\\(900.6\\)，再读为“九百点六”，B才符合，但题面没有给出“先化简”的条件。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "additional_left_patches": [
+          {
+            "rect": [
+              298,
+              44,
+              327,
+              57
+            ],
+            "old": "见续页",
+            "new_latex": "无",
+            "size": 9
+          },
+          {
+            "rect": [
+              365,
+              44,
+              554,
+              58
+            ],
+            "old": "",
+            "new_latex": "原选项均不符合，见解析。",
+            "size": 8
+          }
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p094_s02",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 1,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "3. 关于\\(32\\times25\\times125\\)的计算中，下面计算正确的是（    ）。",
+      "options": [
+        "A. \\(32\\times25\\times125=(125\\times32)\\times(25\\times32)\\)",
+        "B. \\(32\\times25\\times125=125\\times8+25\\times4\\)",
+        "C. \\(32\\times25\\times125=(125\\times8)+(25\\times4)\\)",
+        "D. \\(32\\times25\\times125=(125\\times8)\\times(25\\times4)\\)"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选D。把\\(32\\)拆成\\(8\\times4\\)，利用交换律、结合律：\\[\\begin{aligned} &32\\times25\\times125\\\\ ={}&(125\\times8)\\times(25\\times4)\\\\ ={}&1000\\times100\\\\ ={}&100000\\end{aligned}\\]A重复乘了32；B、C把应乘的两组数误写成相加。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p094_s03",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 2,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "4. 两根木棍连在一起，从头到尾一共长\\(70\\,\\mathrm{cm}\\)，其中一根长\\(50\\,\\mathrm{cm}\\)，中间重合部分长\\(5\\,\\mathrm{cm}\\)，另一根木棍长（    ）\\(\\mathrm{cm}\\)。",
+      "options": [
+        "A. 30",
+        "B. 45",
+        "C. 25",
+        "D. 35"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。两根木棍长度相加，比连接后的总长多算了5厘米重合段，所以另一根应长\\[\\begin{aligned} &70-50+5\\\\ ={}&20+5\\\\ ={}&25\\text{(厘米)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p094_s04",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 3,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "5. 两个完全一样的梯形不可能拼成（    ）。",
+      "options": [
+        "A. 平行四边形",
+        "B. 长方形",
+        "C. 六边形",
+        "D. 三角形"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选D。两个完全一样的梯形可沿腰或底拼成平行四边形、特殊情况下的长方形，或六边形；不能拼成三角形。梯形的两底长度不相等，不能在拼合时把其余边全部并成三条直边。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p094_s05",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 4,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "6. 小丽组\\(6\\)个人的平均身高是\\(140\\)厘米，小刚组\\(4\\)个人的平均身高是\\(150\\)厘米。这两个组的平均身高是（    ）。",
+      "options": [
+        "A. 145厘米",
+        "B. 144厘米",
+        "C. 148厘米",
+        "D. 146厘米"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。\\textbf{方法一：移多补少，简便计算}\\par 以140厘米为基准，小刚组4人的总身高比4份140厘米多\\((150-140)\\times4\\)厘米，把这部分平均分给全部10人。\\[\\begin{aligned}&140+(150-140)\\times4\\div(6+4)\\\\={}&140+10\\times4\\div10\\\\={}&140+40\\div10\\\\={}&140+4\\\\={}&144\\text{(厘米)}\\end{aligned}\\]\\textbf{方法二：先求两组总身高再平均}\\par 两组人数不同，应分别用平均身高乘人数，再用身高总和除以总人数。\\[\\begin{aligned}&(140\\times6+150\\times4)\\div(6+4)\\\\={}&(840+600)\\div10\\\\={}&1440\\div10\\\\={}&144\\text{(厘米)}\\end{aligned}\\]两个组的平均身高是144厘米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "简便计算复核：原总量法正确，但未给出更省算的移多补少法。以140厘米为基准，只计算10厘米差额的4份，再分给10人，避免先算840与600两个大积。该方法属于本册已学平均数与移多补少，不假定各人身高都等于平均数。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p094_s06",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 5,
+      "id": "二、7",
+      "kind": "choice",
+      "question_latex": "7. 右图这个图形是通过（    ）运动方式得到的。",
+      "options": [
+        "A. 平移",
+        "B. 旋转",
+        "C. 平移或旋转"
+      ],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p094_s06_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[scale=.85]\\foreach \\a in {0,60,...,300}{\\begin{scope}[rotate=\\a]\\draw (0,0)..controls(.05,.75)and(-.7,1.2)..(-1,.8)..controls(-1.45,.1)and(-.6,-.15)..(0,0);\\end{scope}}\\end{tikzpicture}",
+          "notes": "六个相同弧形围绕共同中心旋转排布的线图重绘。"
+        }
+      ],
+      "answer_latex": "选B。图中相同的基本图形围着共同的中心改变方向，形成旋转排列；单纯平移不会改变图形朝向。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p094_s07",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 6,
+      "id": "二、8",
+      "kind": "choice",
+      "question_latex": "8. 超市新春大促销，某品牌酸奶每盒\\(4\\)元，买\\(4\\)赠\\(1\\)，妈妈带了\\(36\\)元钱，最多能买（    ）盒酸奶。",
+      "options": [
+        "A. 9",
+        "B. 10",
+        "C. 11",
+        "D. 8"
+      ],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选C。可付费买\\(36\\div4=9\\)盒，每买4盒赠1盒，9盒中有2组完整的4盒，可获赠2盒；总计\\(9+2=11\\)盒。余下付费1盒不能再得到赠品。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p094_s08",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 7,
+      "id": "三、1",
+      "kind": "calculation",
+      "question_latex": "三、计算。（共30分）\\par 1. 直接写得数。（6分）\\par \\(14\\times60=\\quad6.5+7.09=\\quad25\\times4\\div25\\times4=\\)\\par \\(7-1.8=\\quad70\\div1000=\\quad10-0.1=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按原题行列：\\par 第一行：\\(840,13.59,16\\)；\\par 第二行：\\(5.2,0.07,9.9\\)。\\par 要点：\\(25\\times4\\div25\\times4\\)同级运算从左到右，\\(100\\div25\\times4=16\\)；\\(70\\div1000=0.07\\)。小数加减时对齐小数点。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p094_s09",
+      "book_page": 94,
+      "source_page": 98,
+      "section_index": 8,
+      "id": "三、2",
+      "kind": "calculation",
+      "question_latex": "2. 列竖式计算。（12分）\\par \\(12.4+2.76=\\quad8.05-4.357=\\quad28\\times304=\\quad6270\\div30=\\)",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "小数竖式对齐小数点，才能让相同计数单位对齐；末尾补0不改变大小。\\(8.050-4.357\\)的千分位不够减，先从百分位退1，换成10个千分之一；百分位余下4，不够减5，十分位又是0，须从个位退1，换成10个十分之一，再取其中1个十分之一换成10个百分之一，按位相减：\\par \\[\\begin{array}{r}12.40\\\\+2.76\\\\\\hline15.16\\end{array}\\qquad\\begin{array}{r}8.050\\\\-4.357\\\\\\hline3.693\\end{array}\\]\\par 整数乘法按位相乘：\\[\\begin{array}{r}28\\\\\\times304\\\\\\hline112\\\\0\\phantom0\\\\84\\phantom{00}\\\\\\hline8512\\end{array}\\]\\par 除法竖式：\\[\\begin{array}{rr}&209\\\\\\cline{2-2}30\\big)&6270\\\\&60\\phantom{00}\\\\\\cline{2-2}&270\\\\&270\\\\\\cline{2-2}&0\\end{array}\\]\\par 62里面最多有2个30，百位商2，余2；落下7得27，十位不够商1，必须商0；再落下0，\\(270\\div30=9\\)，个位商9。检验\\(30\\times209=6270\\)。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

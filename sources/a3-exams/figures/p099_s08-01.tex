@@ -1,0 +1,23 @@
+
+\begin{tikzpicture}[x=1bp,y=-1bp,line cap=round,line join=round]
+  \path[use as bounding box] (0,0) rectangle (317,137);
+  \clip (0,0) rectangle (317,137);
+  \begin{scope}[shift={(4.2857,6.2857)},x=18bp,y=-18bp]
+
+
+    \foreach \column in {1,2,3,5,6,...,16}
+      \draw[black!45,line width=.38bp] (\column,0) -- (\column,7);
+    \foreach \row in {1,...,6}
+      \draw[black!45,line width=.38bp] (0,\row) -- (17,\row);
+    \draw[line width=.68bp] (0,0) rectangle (17,7);
+    \draw[line width=.73bp,dash pattern=on 3.5bp off 2.7bp] (4,0) -- (4,7);
+    \draw[line width=1.02bp] (4,2) -- (2,2) -- (1,1) -- (1,4) -- (2,3) -- (4,3);
+    \draw[line width=1.02bp] (10,3) -- (12,1) -- (13,3) -- cycle;
+    \node[font=\fontsize{10.6bp}{11bp}\selectfont,inner sep=0pt,anchor=north east]
+      at (9.89,3.10) {$O$};
+    \node[draw,circle,line width=.62bp,inner sep=.6bp,font=\fontsize{8.1bp}{9bp}\selectfont]
+      at (2.58,.49) {$1$};
+    \node[draw,circle,line width=.62bp,inner sep=.6bp,font=\fontsize{8.1bp}{9bp}\selectfont]
+      at (11.56,.49) {$2$};
+  \end{scope}
+\end{tikzpicture}

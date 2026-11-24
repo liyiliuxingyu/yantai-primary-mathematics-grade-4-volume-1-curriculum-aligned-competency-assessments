@@ -1,0 +1,53 @@
+[
+  {
+    "volume": 5,
+    "after_original_slide": 88,
+    "key": "p077_s01",
+    "question_id": "一、1",
+    "book_page": 77,
+    "title": "原书第77页　一、1　计算续讲",
+    "caption": "利用乘除运算的性质，先算3除以3。",
+    "rows": [
+      "34\\times(3\\div3)\\div2",
+      "34\\times1\\div2",
+      "34\\div2",
+      "17\\text{（块）}"
+    ],
+    "first_equals": true,
+    "answer": "填17。"
+  },
+  {
+    "volume": 5,
+    "after_original_slide": 100,
+    "key": "p077_s06",
+    "book_page": 77,
+    "question_id": "一、6（1）",
+    "title": "原书第77页　一、6（1）　计算续讲",
+    "caption": "先合并前两部分总身高，再除以5人。",
+    "rows": [
+      "(620+160)\\div5",
+      "780\\div5",
+      "156\\text{（厘米）}"
+    ],
+    "first_equals": true,
+    "answer": "填156厘米。平均身高不表示每人都同样高。"
+  },
+  {
+    "volume": 5,
+    "after_original_slide": 396,
+    "key": "p089_s07",
+    "book_page": 89,
+    "question_id": "一、7",
+    "title": "原书第89页　一、7　方法二",
+    "caption": "分组求总分再平均，用加法交换律、结合律。",
+    "rows": [
+      "(98+95+96+95+96)\\div5",
+      "[98+(96+96)+(95+95)]\\div5",
+      "(98+192+190)\\div5",
+      "(290+190)\\div5",
+      "480\\div5",
+      "96\\text{（分）}"
+    ],
+    "answer": "答：张梦最后得分是96分。"
+  }
+]

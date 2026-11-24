@@ -1,0 +1,56 @@
+{
+  "records": 867,
+  "local_patches": 61,
+  "compiled_snippets": 917,
+  "files": [
+    {
+      "file": "questions/p065.json",
+      "sha256": "1de0fd825b9e829c30358bf82d153f2dadcf7e769bdf8c57298dc286577ec216"
+    },
+    {
+      "file": "questions/p070.json",
+      "sha256": "996b63bbd8bcc1c7ac118e3f1a3a94bb9fea1c060168e15e3b05ca1bcf672a69"
+    },
+    {
+      "file": "questions/p085.json",
+      "sha256": "e9ad3395b4fb69a0a7174f2e16560f1a4eff169e19f49d02c8007da668418208"
+    },
+    {
+      "file": "detailed_layout/notes_C.json",
+      "sha256": "a09d74cdf939125fc585a4f6a6d305cb75ec852c9893aaa19a3e42eb80ad3bf2"
+    },
+    {
+      "file": "detailed_layout/notes_D.json",
+      "sha256": "4896a7488d6536bafd884323d3831cd104e2d1c4161344147f7332fd8d79cfec"
+    },
+    {
+      "file": "detailed_layout/current_release.json",
+      "sha256": "0a6338c730db9c719c89f73c7c6a8c7c32175a3023905b292b4445592b4dfbb3"
+    },
+    {
+      "file": "detailed_layout/base_local_targets.json",
+      "sha256": "b7fdaed00a06bc3c104dc162843de6b3b5e0e2c06df255b1b0b986ccbe745388"
+    },
+    {
+      "file": "detailed_layout/snippet_index.json",
+      "sha256": "da6eb1c4c60d913b5c65cec4979dac724bc9d3ca804724038131adf17a9d1c02"
+    },
+    {
+      "file": "latex/详细题内答案.tex",
+      "sha256": "c53899d6a8c97336d7d11d6a4878a035282cd0c6bc5a4b7d48347c618bba3f80"
+    },
+    {
+      "file": "ppt_builder/final_answers.json",
+      "sha256": "c8a265f2070b7da978c26e06a3b17b0205cf9c43142dbd8a976b0af406d94022"
+    },
+    {
+      "file": "ppt_builder/final_answers_c.json",
+      "sha256": "a36d0b2fd1155debb5afedd18abd7020a9c2b4b4b9e774f12a2d38696e3806fc"
+    },
+    {
+      "file": "ppt_builder/current_inventory.json",
+      "sha256": "cb164dd7b4d845f68cb8621b07ce776b41f576beb47f6b01004c081a736cf540"
+    }
+  ],
+  "scope": "Exact current source hashes; a source freeze is not a mathematical proof."
+}

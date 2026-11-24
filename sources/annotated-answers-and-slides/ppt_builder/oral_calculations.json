@@ -1,0 +1,3907 @@
+{
+  "schema_version": 1,
+  "records": {
+    "p002_s08": {
+      "book_page": 2,
+      "source_page": 6,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p002_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "84\\div4",
+          "is_estimate": false,
+          "exact_result": "21",
+          "result": "21",
+          "steps": [
+            "84\\div4",
+            "(80+4)\\div4",
+            "80\\div4+4\\div4",
+            "20+1",
+            "21"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把84分成80和4，分别求商后相加。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 把84分成80和4，分别求商后相加。\\[\\begin{aligned}&84\\div4\\\\={}&(80+4)\\div4\\\\={}&80\\div4+4\\div4\\\\={}&20+1\\\\={}&21\\end{aligned}\\]"
+        },
+        {
+          "key": "p002_s08_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "23\\times3",
+          "is_estimate": false,
+          "exact_result": "69",
+          "result": "69",
+          "steps": [
+            "23\\times3",
+            "20\\times3+3\\times3",
+            "60+9",
+            "69"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "23由2个十和3个一组成，两部分分别乘3，再相加。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 23由2个十和3个一组成，两部分分别乘3，再相加。\\[\\begin{aligned}&23\\times3\\\\={}&20\\times3+3\\times3\\\\={}&60+9\\\\={}&69\\end{aligned}\\]"
+        },
+        {
+          "key": "p002_s08_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "360\\times4",
+          "is_estimate": false,
+          "exact_result": "1440",
+          "result": "1440",
+          "steps": [
+            "360\\times4",
+            "36\\times4\\times10",
+            "144\\times10",
+            "1440"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先算36乘4，再把所得的144扩大10倍。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 先算36乘4，再把所得的144扩大10倍。\\[\\begin{aligned}&360\\times4\\\\={}&36\\times4\\times10\\\\={}&144\\times10\\\\={}&1440\\end{aligned}\\]"
+        },
+        {
+          "key": "p002_s08_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "8+36\\div4+8",
+          "is_estimate": false,
+          "exact_result": "25",
+          "result": "25",
+          "steps": [
+            "8+36\\div4+8",
+            "8+9+8",
+            "17+8",
+            "25"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&8+36\\div4+8\\\\={}&8+9+8\\\\={}&17+8\\\\={}&25\\end{aligned}\\]"
+        },
+        {
+          "key": "p002_s08_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "163-45",
+          "is_estimate": false,
+          "exact_result": "118",
+          "result": "118",
+          "steps": [
+            "163-45",
+            "163-40-5",
+            "123-5",
+            "118"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把45分成40和5，先减40，再减5。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 把45分成40和5，先减40，再减5。\\[\\begin{aligned}&163-45\\\\={}&163-40-5\\\\={}&123-5\\\\={}&118\\end{aligned}\\]"
+        },
+        {
+          "key": "p002_s08_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "98\\div7",
+          "is_estimate": false,
+          "exact_result": "14",
+          "result": "14",
+          "steps": [
+            "98\\div7",
+            "14"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "用乘法想商：7乘14等于98，因此商为14。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 用乘法想商：7乘14等于98，因此商为14。\\[\\begin{aligned}&98\\div7\\\\={}&14\\end{aligned}\\]"
+        },
+        {
+          "key": "p002_s08_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "84\\div6",
+          "is_estimate": false,
+          "exact_result": "14",
+          "result": "14",
+          "steps": [
+            "84\\div6",
+            "14"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "用乘法想商：6乘14等于84，因此商为14。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 用乘法想商：6乘14等于84，因此商为14。\\[\\begin{aligned}&84\\div6\\\\={}&14\\end{aligned}\\]"
+        },
+        {
+          "key": "p002_s08_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "(28+32)\\div5",
+          "is_estimate": false,
+          "exact_result": "12",
+          "result": "12",
+          "steps": [
+            "(28+32)\\div5",
+            "60\\div5",
+            "12"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算小括号内的运算，再算括号外的运算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 先算小括号内的运算，再算括号外的运算。\\[\\begin{aligned}&(28+32)\\div5\\\\={}&60\\div5\\\\={}&12\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 把84分成80和4，分别求商后相加。\\[\\begin{aligned}&84\\div4\\\\={}&(80+4)\\div4\\\\={}&80\\div4+4\\div4\\\\={}&20+1\\\\={}&21\\end{aligned}\\]\\par \\textbf{（2）}\\par 23由2个十和3个一组成，两部分分别乘3，再相加。\\[\\begin{aligned}&23\\times3\\\\={}&20\\times3+3\\times3\\\\={}&60+9\\\\={}&69\\end{aligned}\\]\\par \\textbf{（3）}\\par 先算36乘4，再把所得的144扩大10倍。\\[\\begin{aligned}&360\\times4\\\\={}&36\\times4\\times10\\\\={}&144\\times10\\\\={}&1440\\end{aligned}\\]\\par \\textbf{（4）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&8+36\\div4+8\\\\={}&8+9+8\\\\={}&17+8\\\\={}&25\\end{aligned}\\]\\par \\textbf{（5）}\\par 把45分成40和5，先减40，再减5。\\[\\begin{aligned}&163-45\\\\={}&163-40-5\\\\={}&123-5\\\\={}&118\\end{aligned}\\]\\par \\textbf{（6）}\\par 用乘法想商：7乘14等于98，因此商为14。\\[\\begin{aligned}&98\\div7\\\\={}&14\\end{aligned}\\]\\par \\textbf{（7）}\\par 用乘法想商：6乘14等于84，因此商为14。\\[\\begin{aligned}&84\\div6\\\\={}&14\\end{aligned}\\]\\par \\textbf{（8）}\\par 先算小括号内的运算，再算括号外的运算。\\[\\begin{aligned}&(28+32)\\div5\\\\={}&60\\div5\\\\={}&12\\end{aligned}\\]",
+      "original_answer_latex": "按题目从左到右、先上后下，得数依次为\\(21,69,1440,25\\)；\\(118,14,14,12\\)。\\par 其中\\(8+36\\div4+8=8+9+8=25\\)，\\((28+32)\\div5=60\\div5=12\\)；其余直接做整数乘除或减法。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p019_s01": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（1）",
+      "subquestions": [
+        {
+          "key": "p019_s01_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "口算思路",
+          "expression_latex": "125\\times8",
+          "is_estimate": false,
+          "exact_result": "1000",
+          "result": "1000",
+          "steps": [
+            "125\\times8",
+            "1000"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "利用熟悉的凑整积直接口算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&125\\times8\\\\={}&1000\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&125\\times8\\\\={}&1000\\end{aligned}\\]",
+      "original_answer_latex": "把125看作1000的八分之一。\\[\\begin{aligned} &125\\times8\\\\={}&1000\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s02": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（2）",
+      "subquestions": [
+        {
+          "key": "p019_s02_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 2,
+          "display_label": "口算思路",
+          "expression_latex": "40\\times25",
+          "is_estimate": false,
+          "exact_result": "1000",
+          "result": "1000",
+          "steps": [
+            "40\\times25",
+            "4\\times25\\times10",
+            "100\\times10",
+            "1000"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先算4乘25得100，再乘10。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算4乘25得100，再乘10。\\[\\begin{aligned}&40\\times25\\\\={}&4\\times25\\times10\\\\={}&100\\times10\\\\={}&1000\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算4乘25得100，再乘10。\\[\\begin{aligned}&40\\times25\\\\={}&4\\times25\\times10\\\\={}&100\\times10\\\\={}&1000\\end{aligned}\\]",
+      "original_answer_latex": "先用4与25凑100。\\[\\begin{aligned} &40\\times25\\\\={}&4\\times25\\times10\\\\={}&100\\times10\\\\={}&1000\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s03": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（3）",
+      "subquestions": [
+        {
+          "key": "p019_s03_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 3,
+          "display_label": "口算思路",
+          "expression_latex": "103-74",
+          "is_estimate": false,
+          "exact_result": "29",
+          "result": "29",
+          "steps": [
+            "103-74",
+            "103-70-4",
+            "33-4",
+            "29"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把74分成70和4，依次减去。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 把74分成70和4，依次减去。\\[\\begin{aligned}&103-74\\\\={}&103-70-4\\\\={}&33-4\\\\={}&29\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 把74分成70和4，依次减去。\\[\\begin{aligned}&103-74\\\\={}&103-70-4\\\\={}&33-4\\\\={}&29\\end{aligned}\\]",
+      "original_answer_latex": "按减法计算。\\[\\begin{aligned} &103-74\\\\={}&29\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s04": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（4）",
+      "subquestions": [
+        {
+          "key": "p019_s04_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 4,
+          "display_label": "口算思路",
+          "expression_latex": "0\\times75+9",
+          "is_estimate": false,
+          "exact_result": "9",
+          "result": "9",
+          "steps": [
+            "0\\times75+9",
+            "0+9",
+            "9"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&0\\times75+9\\\\={}&0+9\\\\={}&9\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&0\\times75+9\\\\={}&0+9\\\\={}&9\\end{aligned}\\]",
+      "original_answer_latex": "先乘后加；0乘任何数都得0。\\[\\begin{aligned} &0\\times75+9\\\\={}&0+9\\\\={}&9\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s05": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（5）",
+      "subquestions": [
+        {
+          "key": "p019_s05_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 5,
+          "display_label": "口算思路",
+          "expression_latex": "13+57\\times2",
+          "is_estimate": false,
+          "exact_result": "127",
+          "result": "127",
+          "steps": [
+            "13+57\\times2",
+            "13+114",
+            "127"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&13+57\\times2\\\\={}&13+114\\\\={}&127\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&13+57\\times2\\\\={}&13+114\\\\={}&127\\end{aligned}\\]",
+      "original_answer_latex": "先乘后加。\\[\\begin{aligned} &13+57\\times2\\\\={}&13+114\\\\={}&127\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s06": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（6）",
+      "subquestions": [
+        {
+          "key": "p019_s06_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 6,
+          "display_label": "口算思路",
+          "expression_latex": "188+423",
+          "is_estimate": false,
+          "exact_result": "611",
+          "result": "611",
+          "steps": [
+            "188+423",
+            "188+400+23",
+            "588+23",
+            "611"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先加423中的400，再加23。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先加423中的400，再加23。\\[\\begin{aligned}&188+423\\\\={}&188+400+23\\\\={}&588+23\\\\={}&611\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先加423中的400，再加23。\\[\\begin{aligned}&188+423\\\\={}&188+400+23\\\\={}&588+23\\\\={}&611\\end{aligned}\\]",
+      "original_answer_latex": "按数位对齐相加。\\[\\begin{aligned} &188+423\\\\={}&611\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s07": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（7）",
+      "subquestions": [
+        {
+          "key": "p019_s07_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 7,
+          "display_label": "口算思路",
+          "expression_latex": "50\\times18",
+          "is_estimate": false,
+          "exact_result": "900",
+          "result": "900",
+          "steps": [
+            "50\\times18",
+            "5\\times18\\times10",
+            "90\\times10",
+            "900"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先算5乘18，再乘10。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算5乘18，再乘10。\\[\\begin{aligned}&50\\times18\\\\={}&5\\times18\\times10\\\\={}&90\\times10\\\\={}&900\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算5乘18，再乘10。\\[\\begin{aligned}&50\\times18\\\\={}&5\\times18\\times10\\\\={}&90\\times10\\\\={}&900\\end{aligned}\\]",
+      "original_answer_latex": "5乘18得90，再乘10。\\[\\begin{aligned} &50\\times18\\\\={}&900\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s08": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（8）",
+      "subquestions": [
+        {
+          "key": "p019_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 8,
+          "display_label": "口算思路",
+          "expression_latex": "67\\times5",
+          "is_estimate": false,
+          "exact_result": "335",
+          "result": "335",
+          "steps": [
+            "67\\times5",
+            "67\\times10\\div2",
+            "670\\div2",
+            "335"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "乘5可以先乘10，再取所得数的一半。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 乘5可以先乘10，再取所得数的一半。\\[\\begin{aligned}&67\\times5\\\\={}&67\\times10\\div2\\\\={}&670\\div2\\\\={}&335\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 乘5可以先乘10，再取所得数的一半。\\[\\begin{aligned}&67\\times5\\\\={}&67\\times10\\div2\\\\={}&670\\div2\\\\={}&335\\end{aligned}\\]",
+      "original_answer_latex": "可算67乘10再取一半。\\[\\begin{aligned} &67\\times5\\\\={}&335\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s09": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（9）",
+      "subquestions": [
+        {
+          "key": "p019_s09_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 9,
+          "display_label": "口算思路",
+          "expression_latex": "32\\div2\\div4",
+          "is_estimate": false,
+          "exact_result": "4",
+          "result": "4",
+          "steps": [
+            "32\\div2\\div4",
+            "16\\div4",
+            "4"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "同级运算从左往右依次计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&32\\div2\\div4\\\\={}&16\\div4\\\\={}&4\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&32\\div2\\div4\\\\={}&16\\div4\\\\={}&4\\end{aligned}\\]",
+      "original_answer_latex": "同级运算从左往右。\\[\\begin{aligned} &32\\div2\\div4\\\\={}&16\\div4\\\\={}&4\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p019_s10": {
+      "book_page": 19,
+      "source_page": 23,
+      "question_id": "三、1（10）",
+      "subquestions": [
+        {
+          "key": "p019_s10_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 10,
+          "display_label": "口算思路",
+          "expression_latex": "56-34\\div2",
+          "is_estimate": false,
+          "exact_result": "39",
+          "result": "39",
+          "steps": [
+            "56-34\\div2",
+            "56-17",
+            "39"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&56-34\\div2\\\\={}&56-17\\\\={}&39\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&56-34\\div2\\\\={}&56-17\\\\={}&39\\end{aligned}\\]",
+      "original_answer_latex": "先除后减。\\[\\begin{aligned} &56-34\\div2\\\\={}&56-17\\\\={}&39\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s01": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（1）",
+      "subquestions": [
+        {
+          "key": "p023_s01_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "口算思路",
+          "expression_latex": "34\\times5",
+          "is_estimate": false,
+          "exact_result": "170",
+          "result": "170",
+          "steps": [
+            "34\\times5",
+            "30\\times5+4\\times5",
+            "150+20",
+            "170"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把34分成30和4，两个乘法在同一步算完后相加。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 把34分成30和4，两个乘法在同一步算完后相加。\\[\\begin{aligned}&34\\times5\\\\={}&30\\times5+4\\times5\\\\={}&150+20\\\\={}&170\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 把34分成30和4，两个乘法在同一步算完后相加。\\[\\begin{aligned}&34\\times5\\\\={}&30\\times5+4\\times5\\\\={}&150+20\\\\={}&170\\end{aligned}\\]",
+      "original_answer_latex": "每份34，共5份。\\[\\begin{aligned} &34\\times5\\\\={}&170\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s02": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（2）",
+      "subquestions": [
+        {
+          "key": "p023_s02_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 2,
+          "display_label": "口算思路",
+          "expression_latex": "564+39",
+          "is_estimate": false,
+          "exact_result": "603",
+          "result": "603",
+          "steps": [
+            "564+39",
+            "564+40-1",
+            "604-1",
+            "603"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "39比40少1，先加40，再减去多加的1。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 39比40少1，先加40，再减去多加的1。\\[\\begin{aligned}&564+39\\\\={}&564+40-1\\\\={}&604-1\\\\={}&603\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 39比40少1，先加40，再减去多加的1。\\[\\begin{aligned}&564+39\\\\={}&564+40-1\\\\={}&604-1\\\\={}&603\\end{aligned}\\]",
+      "original_answer_latex": "加39可先加40再减1。\\[\\begin{aligned} &564+39\\\\={}&603\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s03": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（3）",
+      "subquestions": [
+        {
+          "key": "p023_s03_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 3,
+          "display_label": "口算思路",
+          "expression_latex": "105\\times21",
+          "is_estimate": false,
+          "exact_result": "2205",
+          "result": "2205",
+          "steps": [
+            "105\\times21",
+            "105\\times(20+1)",
+            "105\\times20+105\\times1",
+            "2100+105",
+            "2205"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把21分成20和1，分别相乘后相加。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 把21分成20和1，分别相乘后相加。\\[\\begin{aligned}&105\\times21\\\\={}&105\\times(20+1)\\\\={}&105\\times20+105\\times1\\\\={}&2100+105\\\\={}&2205\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 把21分成20和1，分别相乘后相加。\\[\\begin{aligned}&105\\times21\\\\={}&105\\times(20+1)\\\\={}&105\\times20+105\\times1\\\\={}&2100+105\\\\={}&2205\\end{aligned}\\]",
+      "original_answer_latex": "可拆21为20和1。\\[\\begin{aligned} &105\\times21\\\\={}&2205\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s04": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（4）",
+      "subquestions": [
+        {
+          "key": "p023_s04_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 4,
+          "display_label": "口算思路",
+          "expression_latex": "2+8\\times75",
+          "is_estimate": false,
+          "exact_result": "602",
+          "result": "602",
+          "steps": [
+            "2+8\\times75",
+            "2+600",
+            "602"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&2+8\\times75\\\\={}&2+600\\\\={}&602\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&2+8\\times75\\\\={}&2+600\\\\={}&602\\end{aligned}\\]",
+      "original_answer_latex": "先乘后加。\\[\\begin{aligned} &2+8\\times75\\\\={}&602\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s05": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（5）",
+      "subquestions": [
+        {
+          "key": "p023_s05_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 5,
+          "display_label": "口算思路",
+          "expression_latex": "76+0\\times2",
+          "is_estimate": false,
+          "exact_result": "76",
+          "result": "76",
+          "steps": [
+            "76+0\\times2",
+            "76+0",
+            "76"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&76+0\\times2\\\\={}&76+0\\\\={}&76\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&76+0\\times2\\\\={}&76+0\\\\={}&76\\end{aligned}\\]",
+      "original_answer_latex": "0乘2得0。\\[\\begin{aligned} &76+0\\times2\\\\={}&76\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s06": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（6）",
+      "subquestions": [
+        {
+          "key": "p023_s06_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 6,
+          "display_label": "口算思路",
+          "expression_latex": "703\\div19",
+          "is_estimate": false,
+          "exact_result": "37",
+          "result": "37",
+          "steps": [
+            "703\\div19",
+            "(570+133)\\div19",
+            "570\\div19+133\\div19",
+            "30+7",
+            "37"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "19乘30得570，19乘7得133，合起来正好是703，所以商是30加7。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 19乘30得570，19乘7得133，合起来正好是703，所以商是30加7。\\[\\begin{aligned}&703\\div19\\\\={}&(570+133)\\div19\\\\={}&570\\div19+133\\div19\\\\={}&30+7\\\\={}&37\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 19乘30得570，19乘7得133，合起来正好是703，所以商是30加7。\\[\\begin{aligned}&703\\div19\\\\={}&(570+133)\\div19\\\\={}&570\\div19+133\\div19\\\\={}&30+7\\\\={}&37\\end{aligned}\\]",
+      "original_answer_latex": "验算19乘37得703。\\[\\begin{aligned} &703\\div19\\\\={}&37\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s07": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（7）",
+      "subquestions": [
+        {
+          "key": "p023_s07_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 7,
+          "display_label": "口算思路",
+          "expression_latex": "24\\times18",
+          "is_estimate": false,
+          "exact_result": "432",
+          "result": "432",
+          "steps": [
+            "24\\times18",
+            "24\\times(20-2)",
+            "24\\times20-24\\times2",
+            "480-48",
+            "432"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把18看作20减2，运用乘法分配律，先多算2个24再减去。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 把18看作20减2，运用乘法分配律，先多算2个24再减去。\\[\\begin{aligned}&24\\times18\\\\={}&24\\times(20-2)\\\\={}&24\\times20-24\\times2\\\\={}&480-48\\\\={}&432\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 把18看作20减2，运用乘法分配律，先多算2个24再减去。\\[\\begin{aligned}&24\\times18\\\\={}&24\\times(20-2)\\\\={}&24\\times20-24\\times2\\\\={}&480-48\\\\={}&432\\end{aligned}\\]",
+      "original_answer_latex": "用乘法分配律，把18拆成20减2，先多算2个24，再减去：\\[\\begin{aligned} &24\\times18\\\\={}&24\\times(20-2)\\\\={}&24\\times20-24\\times2\\\\={}&480-48\\\\={}&432\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s08": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（8）",
+      "subquestions": [
+        {
+          "key": "p023_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 8,
+          "display_label": "口算思路",
+          "expression_latex": "327+25",
+          "is_estimate": false,
+          "exact_result": "352",
+          "result": "352",
+          "steps": [
+            "327+25",
+            "327+20+5",
+            "347+5",
+            "352"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先加20，再加5。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先加20，再加5。\\[\\begin{aligned}&327+25\\\\={}&327+20+5\\\\={}&347+5\\\\={}&352\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先加20，再加5。\\[\\begin{aligned}&327+25\\\\={}&327+20+5\\\\={}&347+5\\\\={}&352\\end{aligned}\\]",
+      "original_answer_latex": "按数位相加。\\[\\begin{aligned} &327+25\\\\={}&352\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s09": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（9）",
+      "subquestions": [
+        {
+          "key": "p023_s09_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 9,
+          "display_label": "口算思路",
+          "expression_latex": "32-8\\div4",
+          "is_estimate": false,
+          "exact_result": "30",
+          "result": "30",
+          "steps": [
+            "32-8\\div4",
+            "32-2",
+            "30"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&32-8\\div4\\\\={}&32-2\\\\={}&30\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&32-8\\div4\\\\={}&32-2\\\\={}&30\\end{aligned}\\]",
+      "original_answer_latex": "先除后减。\\[\\begin{aligned} &32-8\\div4\\\\={}&30\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p023_s10": {
+      "book_page": 23,
+      "source_page": 27,
+      "question_id": "三、1（10）",
+      "subquestions": [
+        {
+          "key": "p023_s10_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 10,
+          "display_label": "口算思路",
+          "expression_latex": "605-37",
+          "is_estimate": false,
+          "exact_result": "568",
+          "result": "568",
+          "steps": [
+            "605-37",
+            "605-30-7",
+            "575-7",
+            "568"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把37分成30和7，依次减去。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 把37分成30和7，依次减去。\\[\\begin{aligned}&605-37\\\\={}&605-30-7\\\\={}&575-7\\\\={}&568\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 把37分成30和7，依次减去。\\[\\begin{aligned}&605-37\\\\={}&605-30-7\\\\={}&575-7\\\\={}&568\\end{aligned}\\]",
+      "original_answer_latex": "按减法计算。\\[\\begin{aligned} &605-37\\\\={}&568\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p026_s07": {
+      "book_page": 26,
+      "source_page": 30,
+      "question_id": "三、1（1）",
+      "subquestions": [
+        {
+          "key": "p026_s07_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "口算思路",
+          "expression_latex": "45+55",
+          "is_estimate": false,
+          "exact_result": "100",
+          "result": "100",
+          "steps": [
+            "45+55",
+            "100"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "相同数位上的数相加；某位满十时向前一位进1。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 相同数位上的数相加；某位满十时向前一位进1。\\[\\begin{aligned}&45+55\\\\={}&100\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 相同数位上的数相加；某位满十时向前一位进1。\\[\\begin{aligned}&45+55\\\\={}&100\\end{aligned}\\]",
+      "original_answer_latex": "两数相加凑成100。\\[\\begin{aligned} &45+55\\\\={}&100\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p026_s08": {
+      "book_page": 26,
+      "source_page": 30,
+      "question_id": "三、1（2）",
+      "subquestions": [
+        {
+          "key": "p026_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 2,
+          "display_label": "口算思路",
+          "expression_latex": "125\\times8",
+          "is_estimate": false,
+          "exact_result": "1000",
+          "result": "1000",
+          "steps": [
+            "125\\times8",
+            "1000"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "利用熟悉的凑整积直接口算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&125\\times8\\\\={}&1000\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&125\\times8\\\\={}&1000\\end{aligned}\\]",
+      "original_answer_latex": "125与8凑1000。\\[\\begin{aligned} &125\\times8\\\\={}&1000\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p026_s09": {
+      "book_page": 26,
+      "source_page": 30,
+      "question_id": "三、1（3）",
+      "subquestions": [
+        {
+          "key": "p026_s09_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 3,
+          "display_label": "口算思路",
+          "expression_latex": "5\\times7\\times4",
+          "is_estimate": false,
+          "exact_result": "140",
+          "result": "140",
+          "steps": [
+            "5\\times7\\times4",
+            "(5\\times4)\\times7",
+            "20\\times7",
+            "140"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "运用乘法交换律和结合律，先让5与4凑成20。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 运用乘法交换律和结合律，先让5与4凑成20。\\[\\begin{aligned}&5\\times7\\times4\\\\={}&(5\\times4)\\times7\\\\={}&20\\times7\\\\={}&140\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 运用乘法交换律和结合律，先让5与4凑成20。\\[\\begin{aligned}&5\\times7\\times4\\\\={}&(5\\times4)\\times7\\\\={}&20\\times7\\\\={}&140\\end{aligned}\\]",
+      "original_answer_latex": "先把5与4相乘得20。\\[\\begin{aligned} &5\\times7\\times4\\\\={}&140\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p026_s10": {
+      "book_page": 26,
+      "source_page": 30,
+      "question_id": "三、1（4）",
+      "subquestions": [
+        {
+          "key": "p026_s10_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 4,
+          "display_label": "口算思路",
+          "expression_latex": "25\\times6\\times4",
+          "is_estimate": false,
+          "exact_result": "600",
+          "result": "600",
+          "steps": [
+            "25\\times6\\times4",
+            "(25\\times4)\\times6",
+            "100\\times6",
+            "600"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先让25与4凑成100，再乘6。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先让25与4凑成100，再乘6。\\[\\begin{aligned}&25\\times6\\times4\\\\={}&(25\\times4)\\times6\\\\={}&100\\times6\\\\={}&600\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先让25与4凑成100，再乘6。\\[\\begin{aligned}&25\\times6\\times4\\\\={}&(25\\times4)\\times6\\\\={}&100\\times6\\\\={}&600\\end{aligned}\\]",
+      "original_answer_latex": "先把25与4相乘得100。\\[\\begin{aligned} &25\\times6\\times4\\\\={}&600\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p026_s11": {
+      "book_page": 26,
+      "source_page": 30,
+      "question_id": "三、1（5）",
+      "subquestions": [
+        {
+          "key": "p026_s11_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 5,
+          "display_label": "口算思路",
+          "expression_latex": "4\\times25",
+          "is_estimate": false,
+          "exact_result": "100",
+          "result": "100",
+          "steps": [
+            "4\\times25",
+            "100"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "利用熟悉的凑整积直接口算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&4\\times25\\\\={}&100\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&4\\times25\\\\={}&100\\end{aligned}\\]",
+      "original_answer_latex": "4与25凑100。\\[\\begin{aligned} &4\\times25\\\\={}&100\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p026_s12": {
+      "book_page": 26,
+      "source_page": 30,
+      "question_id": "三、1（6）",
+      "subquestions": [
+        {
+          "key": "p026_s12_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 6,
+          "display_label": "口算思路",
+          "expression_latex": "123-97",
+          "is_estimate": false,
+          "exact_result": "26",
+          "result": "26",
+          "steps": [
+            "123-97",
+            "123-100+3",
+            "23+3",
+            "26"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "97比100少3，先减100，再把多减的3加回来。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 97比100少3，先减100，再把多减的3加回来。\\[\\begin{aligned}&123-97\\\\={}&123-100+3\\\\={}&23+3\\\\={}&26\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 97比100少3，先减100，再把多减的3加回来。\\[\\begin{aligned}&123-97\\\\={}&123-100+3\\\\={}&23+3\\\\={}&26\\end{aligned}\\]",
+      "original_answer_latex": "减97可先减100再加3。\\[\\begin{aligned} &123-97\\\\={}&26\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p026_s13": {
+      "book_page": 26,
+      "source_page": 30,
+      "question_id": "三、1（7）",
+      "subquestions": [
+        {
+          "key": "p026_s13_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 7,
+          "display_label": "口算思路",
+          "expression_latex": "6\\times4\\div4\\times6",
+          "is_estimate": false,
+          "exact_result": "36",
+          "result": "36",
+          "steps": [
+            "6\\times4\\div4\\times6",
+            "6\\times6",
+            "36"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先乘4再除以4，数值不变；剩下6乘6。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先乘4再除以4，数值不变；剩下6乘6。\\[\\begin{aligned}&6\\times4\\div4\\times6\\\\={}&6\\times6\\\\={}&36\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先乘4再除以4，数值不变；剩下6乘6。\\[\\begin{aligned}&6\\times4\\div4\\times6\\\\={}&6\\times6\\\\={}&36\\end{aligned}\\]",
+      "original_answer_latex": "同级运算从左往右，乘4再除4相互抵消。\\[\\begin{aligned} &6\\times4\\div4\\times6\\\\={}&36\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p026_s14": {
+      "book_page": 26,
+      "source_page": 30,
+      "question_id": "三、1（8）",
+      "subquestions": [
+        {
+          "key": "p026_s14_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 8,
+          "display_label": "口算思路",
+          "expression_latex": "130-30\\div5",
+          "is_estimate": false,
+          "exact_result": "124",
+          "result": "124",
+          "steps": [
+            "130-30\\div5",
+            "130-6",
+            "124"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&130-30\\div5\\\\={}&130-6\\\\={}&124\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&130-30\\div5\\\\={}&130-6\\\\={}&124\\end{aligned}\\]",
+      "original_answer_latex": "先除后减。\\[\\begin{aligned} &130-30\\div5\\\\={}&124\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p031_s01": {
+      "book_page": 31,
+      "source_page": 35,
+      "question_id": "三、1（1）",
+      "subquestions": [
+        {
+          "key": "p031_s01_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "口算思路",
+          "expression_latex": "28+172",
+          "is_estimate": false,
+          "exact_result": "200",
+          "result": "200",
+          "steps": [
+            "28+172",
+            "200"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "相同数位上的数相加；某位满十时向前一位进1。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 相同数位上的数相加；某位满十时向前一位进1。\\[\\begin{aligned}&28+172\\\\={}&200\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 相同数位上的数相加；某位满十时向前一位进1。\\[\\begin{aligned}&28+172\\\\={}&200\\end{aligned}\\]",
+      "original_answer_latex": "两数凑整百。\\[\\begin{aligned} &28+172\\\\={}&200\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p031_s02": {
+      "book_page": 31,
+      "source_page": 35,
+      "question_id": "三、1（2）",
+      "subquestions": [
+        {
+          "key": "p031_s02_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 2,
+          "display_label": "口算思路",
+          "expression_latex": "136-45-55",
+          "is_estimate": false,
+          "exact_result": "36",
+          "result": "36",
+          "steps": [
+            "136-45-55",
+            "136-(45+55)",
+            "136-100",
+            "36"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "两个减数45与55先凑成100，减法的性质使计算更简便。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 两个减数45与55先凑成100，减法的性质使计算更简便。\\[\\begin{aligned}&136-45-55\\\\={}&136-(45+55)\\\\={}&136-100\\\\={}&36\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 两个减数45与55先凑成100，减法的性质使计算更简便。\\[\\begin{aligned}&136-45-55\\\\={}&136-(45+55)\\\\={}&136-100\\\\={}&36\\end{aligned}\\]",
+      "original_answer_latex": "两个减数先凑100；原题得36。\\[\\begin{aligned} &136-45-55\\\\={}&136-(45+55)\\\\={}&136-100\\\\={}&36\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p031_s03": {
+      "book_page": 31,
+      "source_page": 35,
+      "question_id": "三、1（3）",
+      "subquestions": [
+        {
+          "key": "p031_s03_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 3,
+          "display_label": "口算思路",
+          "expression_latex": "200\\div25\\div2",
+          "is_estimate": false,
+          "exact_result": "4",
+          "result": "4",
+          "steps": [
+            "200\\div25\\div2",
+            "200\\div(25\\times2)",
+            "200\\div50",
+            "4"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "连续除以25和2，可以除以它们的积50。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 连续除以25和2，可以除以它们的积50。\\[\\begin{aligned}&200\\div25\\div2\\\\={}&200\\div(25\\times2)\\\\={}&200\\div50\\\\={}&4\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 连续除以25和2，可以除以它们的积50。\\[\\begin{aligned}&200\\div25\\div2\\\\={}&200\\div(25\\times2)\\\\={}&200\\div50\\\\={}&4\\end{aligned}\\]",
+      "original_answer_latex": "连续除可合并除数。\\[\\begin{aligned} &200\\div25\\div2\\\\={}&200\\div(25\\times2)\\\\={}&200\\div50\\\\={}&4\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p031_s04": {
+      "book_page": 31,
+      "source_page": 35,
+      "question_id": "三、1（4）",
+      "subquestions": [
+        {
+          "key": "p031_s04_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 4,
+          "display_label": "口算思路",
+          "expression_latex": "160\\div2\\times5",
+          "is_estimate": false,
+          "exact_result": "400",
+          "result": "400",
+          "steps": [
+            "160\\div2\\times5",
+            "80\\times5",
+            "400"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "同级运算从左往右依次计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&160\\div2\\times5\\\\={}&80\\times5\\\\={}&400\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&160\\div2\\times5\\\\={}&80\\times5\\\\={}&400\\end{aligned}\\]",
+      "original_answer_latex": "乘除同级，从左往右。\\[\\begin{aligned} &160\\div2\\times5\\\\={}&80\\times5\\\\={}&400\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p031_s05": {
+      "book_page": 31,
+      "source_page": 35,
+      "question_id": "三、1（5）",
+      "subquestions": [
+        {
+          "key": "p031_s05_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 5,
+          "display_label": "口算思路",
+          "expression_latex": "101\\times12",
+          "is_estimate": false,
+          "exact_result": "1212",
+          "result": "1212",
+          "steps": [
+            "101\\times12",
+            "(100+1)\\times12",
+            "100\\times12+1\\times12",
+            "1200+12",
+            "1212"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把101分成100和1，分别乘12，再相加。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 把101分成100和1，分别乘12，再相加。\\[\\begin{aligned}&101\\times12\\\\={}&(100+1)\\times12\\\\={}&100\\times12+1\\times12\\\\={}&1200+12\\\\={}&1212\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 把101分成100和1，分别乘12，再相加。\\[\\begin{aligned}&101\\times12\\\\={}&(100+1)\\times12\\\\={}&100\\times12+1\\times12\\\\={}&1200+12\\\\={}&1212\\end{aligned}\\]",
+      "original_answer_latex": "把101拆成100和1。\\[\\begin{aligned} &101\\times12\\\\={}&(100+1)\\times12\\\\={}&1200+12\\\\={}&1212\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p031_s06": {
+      "book_page": 31,
+      "source_page": 35,
+      "question_id": "三、1（6）",
+      "subquestions": [
+        {
+          "key": "p031_s06_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 6,
+          "display_label": "口算思路",
+          "expression_latex": "139+65-39",
+          "is_estimate": false,
+          "exact_result": "165",
+          "result": "165",
+          "steps": [
+            "139+65-39",
+            "(139-39)+65",
+            "100+65",
+            "165"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先用139减39凑成100，再加65。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 先用139减39凑成100，再加65。\\[\\begin{aligned}&139+65-39\\\\={}&(139-39)+65\\\\={}&100+65\\\\={}&165\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 先用139减39凑成100，再加65。\\[\\begin{aligned}&139+65-39\\\\={}&(139-39)+65\\\\={}&100+65\\\\={}&165\\end{aligned}\\]",
+      "original_answer_latex": "先让139减去39。\\[\\begin{aligned} &139+65-39\\\\={}&(139-39)+65\\\\={}&100+65\\\\={}&165\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p031_s07": {
+      "book_page": 31,
+      "source_page": 35,
+      "question_id": "三、1（7）",
+      "subquestions": [
+        {
+          "key": "p031_s07_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 7,
+          "display_label": "口算思路",
+          "expression_latex": "37\\times99+37",
+          "is_estimate": false,
+          "exact_result": "3700",
+          "result": "3700",
+          "steps": [
+            "37\\times99+37",
+            "37\\times(99+1)",
+            "37\\times100",
+            "3700"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把后面的37看作37乘1，运用乘法分配律逆向提取37。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 把后面的37看作37乘1，运用乘法分配律逆向提取37。\\[\\begin{aligned}&37\\times99+37\\\\={}&37\\times(99+1)\\\\={}&37\\times100\\\\={}&3700\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 把后面的37看作37乘1，运用乘法分配律逆向提取37。\\[\\begin{aligned}&37\\times99+37\\\\={}&37\\times(99+1)\\\\={}&37\\times100\\\\={}&3700\\end{aligned}\\]",
+      "original_answer_latex": "把后面的37看成37乘1。\\[\\begin{aligned} &37\\times99+37\\\\={}&37\\times(99+1)\\\\={}&37\\times100\\\\={}&3700\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p031_s08": {
+      "book_page": 31,
+      "source_page": 35,
+      "question_id": "三、1（8）",
+      "subquestions": [
+        {
+          "key": "p031_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 8,
+          "display_label": "口算思路",
+          "expression_latex": "8\\times5\\div8\\times5",
+          "is_estimate": false,
+          "exact_result": "25",
+          "result": "25",
+          "steps": [
+            "8\\times5\\div8\\times5",
+            "40\\div8\\times5",
+            "5\\times5",
+            "25"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "同级运算从左往右依次计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{口算思路}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&8\\times5\\div8\\times5\\\\={}&40\\div8\\times5\\\\={}&5\\times5\\\\={}&25\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{口算思路}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&8\\times5\\div8\\times5\\\\={}&40\\div8\\times5\\\\={}&5\\times5\\\\={}&25\\end{aligned}\\]",
+      "original_answer_latex": "从左往右；不能把末尾的乘5误看成除5。\\[\\begin{aligned} &8\\times5\\div8\\times5\\\\={}&40\\div8\\times5\\\\={}&5\\times5\\\\={}&25\\end{aligned}\\]",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": false
+    },
+    "p042_s08": {
+      "book_page": 42,
+      "source_page": 46,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p042_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "25\\times3\\times4",
+          "is_estimate": false,
+          "exact_result": "300",
+          "result": "300",
+          "steps": [
+            "25\\times3\\times4",
+            "(25\\times4)\\times3",
+            "100\\times3",
+            "300"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先把25与4凑成100，再乘3。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 先把25与4凑成100，再乘3。\\[\\begin{aligned}&25\\times3\\times4\\\\={}&(25\\times4)\\times3\\\\={}&100\\times3\\\\={}&300\\end{aligned}\\]"
+        },
+        {
+          "key": "p042_s08_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "125\\times8",
+          "is_estimate": false,
+          "exact_result": "1000",
+          "result": "1000",
+          "steps": [
+            "125\\times8",
+            "1000"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "利用熟悉的凑整积直接口算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&125\\times8\\\\={}&1000\\end{aligned}\\]"
+        },
+        {
+          "key": "p042_s08_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "23\\times10",
+          "is_estimate": false,
+          "exact_result": "230",
+          "result": "230",
+          "steps": [
+            "23\\times10",
+            "230"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "整数乘10，在数的末尾添1个0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 整数乘10，在数的末尾添1个0。\\[\\begin{aligned}&23\\times10\\\\={}&230\\end{aligned}\\]"
+        },
+        {
+          "key": "p042_s08_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "200-100\\div10",
+          "is_estimate": false,
+          "exact_result": "190",
+          "result": "190",
+          "steps": [
+            "200-100\\div10",
+            "200-10",
+            "190"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&200-100\\div10\\\\={}&200-10\\\\={}&190\\end{aligned}\\]"
+        },
+        {
+          "key": "p042_s08_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "360\\div60",
+          "is_estimate": false,
+          "exact_result": "6",
+          "result": "6",
+          "steps": [
+            "360\\div60",
+            "6"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "用乘法想商：60乘6等于360，因此商为6。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 用乘法想商：60乘6等于360，因此商为6。\\[\\begin{aligned}&360\\div60\\\\={}&6\\end{aligned}\\]"
+        },
+        {
+          "key": "p042_s08_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "11\\times20",
+          "is_estimate": false,
+          "exact_result": "220",
+          "result": "220",
+          "steps": [
+            "11\\times20",
+            "11\\times2\\times10",
+            "22\\times10",
+            "220"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先算11乘2，再乘10。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 先算11乘2，再乘10。\\[\\begin{aligned}&11\\times20\\\\={}&11\\times2\\times10\\\\={}&22\\times10\\\\={}&220\\end{aligned}\\]"
+        },
+        {
+          "key": "p042_s08_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "(12+8)\\times5",
+          "is_estimate": false,
+          "exact_result": "100",
+          "result": "100",
+          "steps": [
+            "(12+8)\\times5",
+            "20\\times5",
+            "100"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算小括号内的运算，再算括号外的运算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 先算小括号内的运算，再算括号外的运算。\\[\\begin{aligned}&(12+8)\\times5\\\\={}&20\\times5\\\\={}&100\\end{aligned}\\]"
+        },
+        {
+          "key": "p042_s08_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "80\\div(8\\times2)",
+          "is_estimate": false,
+          "exact_result": "5",
+          "result": "5",
+          "steps": [
+            "80\\div(8\\times2)",
+            "80\\div16",
+            "5"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算小括号内的运算，再算括号外的运算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 先算小括号内的运算，再算括号外的运算。\\[\\begin{aligned}&80\\div(8\\times2)\\\\={}&80\\div16\\\\={}&5\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 先把25与4凑成100，再乘3。\\[\\begin{aligned}&25\\times3\\times4\\\\={}&(25\\times4)\\times3\\\\={}&100\\times3\\\\={}&300\\end{aligned}\\]\\par \\textbf{（2）}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&125\\times8\\\\={}&1000\\end{aligned}\\]\\par \\textbf{（3）}\\par 整数乘10，在数的末尾添1个0。\\[\\begin{aligned}&23\\times10\\\\={}&230\\end{aligned}\\]\\par \\textbf{（4）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&200-100\\div10\\\\={}&200-10\\\\={}&190\\end{aligned}\\]\\par \\textbf{（5）}\\par 用乘法想商：60乘6等于360，因此商为6。\\[\\begin{aligned}&360\\div60\\\\={}&6\\end{aligned}\\]\\par \\textbf{（6）}\\par 先算11乘2，再乘10。\\[\\begin{aligned}&11\\times20\\\\={}&11\\times2\\times10\\\\={}&22\\times10\\\\={}&220\\end{aligned}\\]\\par \\textbf{（7）}\\par 先算小括号内的运算，再算括号外的运算。\\[\\begin{aligned}&(12+8)\\times5\\\\={}&20\\times5\\\\={}&100\\end{aligned}\\]\\par \\textbf{（8）}\\par 先算小括号内的运算，再算括号外的运算。\\[\\begin{aligned}&80\\div(8\\times2)\\\\={}&80\\div16\\\\={}&5\\end{aligned}\\]",
+      "original_answer_latex": "按题面顺序，得\\(300,1000,230,190;6,220,100,5\\)。\\par \\(25\\times3\\times4=(25\\times4)\\times3=300\\)；\\(125\\times8=1000\\)；\\(23\\times10=230\\)；\\(200-100\\div10=200-10=190\\)。\\par \\(360\\div60=6\\)；\\(11\\times20=220\\)；\\((12+8)\\times5=20\\times5=100\\)；\\(80\\div(8\\times2)=80\\div16=5\\)。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p046_s07": {
+      "book_page": 46,
+      "source_page": 50,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p046_s07_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "12\\times9",
+          "is_estimate": false,
+          "exact_result": "108",
+          "result": "108",
+          "steps": [
+            "12\\times9",
+            "12\\times(10-1)",
+            "12\\times10-12\\times1",
+            "120-12",
+            "108"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把9看作10减1，先算10个12，再减1个12。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 把9看作10减1，先算10个12，再减1个12。\\[\\begin{aligned}&12\\times9\\\\={}&12\\times(10-1)\\\\={}&12\\times10-12\\times1\\\\={}&120-12\\\\={}&108\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "152\\times4",
+          "is_estimate": false,
+          "exact_result": "608",
+          "result": "608",
+          "steps": [
+            "152\\times4",
+            "150\\times4+2\\times4",
+            "600+8",
+            "608"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把152分成150和2，分别乘4后相加。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 把152分成150和2，分别乘4后相加。\\[\\begin{aligned}&152\\times4\\\\={}&150\\times4+2\\times4\\\\={}&600+8\\\\={}&608\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "600\\div25",
+          "is_estimate": false,
+          "exact_result": "24",
+          "result": "24",
+          "steps": [
+            "600\\div25",
+            "(600\\times4)\\div(25\\times4)",
+            "2400\\div100",
+            "24"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "利用商不变的规律，被除数和除数同时乘4，除数凑成100。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 利用商不变的规律，被除数和除数同时乘4，除数凑成100。\\[\\begin{aligned}&600\\div25\\\\={}&(600\\times4)\\div(25\\times4)\\\\={}&2400\\div100\\\\={}&24\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "(12+8)\\times5",
+          "is_estimate": false,
+          "exact_result": "100",
+          "result": "100",
+          "steps": [
+            "(12+8)\\times5",
+            "20\\times5",
+            "100"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算小括号内的运算，再算括号外的运算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 先算小括号内的运算，再算括号外的运算。\\[\\begin{aligned}&(12+8)\\times5\\\\={}&20\\times5\\\\={}&100\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "397-23\\times6",
+          "is_estimate": false,
+          "exact_result": "259",
+          "result": "259",
+          "steps": [
+            "397-23\\times6",
+            "397-138",
+            "259"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&397-23\\times6\\\\={}&397-138\\\\={}&259\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "125\\times8",
+          "is_estimate": false,
+          "exact_result": "1000",
+          "result": "1000",
+          "steps": [
+            "125\\times8",
+            "1000"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "利用熟悉的凑整积直接口算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&125\\times8\\\\={}&1000\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "24\\times5",
+          "is_estimate": false,
+          "exact_result": "120",
+          "result": "120",
+          "steps": [
+            "24\\times5",
+            "24\\times10\\div2",
+            "240\\div2",
+            "120"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先乘10，再除以2，得到乘5的结果。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 先乘10，再除以2，得到乘5的结果。\\[\\begin{aligned}&24\\times5\\\\={}&24\\times10\\div2\\\\={}&240\\div2\\\\={}&120\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "480\\div80\\div6",
+          "is_estimate": false,
+          "exact_result": "1",
+          "result": "1",
+          "steps": [
+            "480\\div80\\div6",
+            "6\\div6",
+            "1"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "同级运算从左往右依次计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&480\\div80\\div6\\\\={}&6\\div6\\\\={}&1\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_09",
+          "local_index": 9,
+          "original_subquestion_number": 9,
+          "display_label": "（9）",
+          "expression_latex": "49\\times31",
+          "is_estimate": true,
+          "exact_result": "1519",
+          "result": "1500",
+          "steps": [
+            "49\\times31",
+            "50\\times30",
+            "1500"
+          ],
+          "relations": [
+            "≈",
+            "="
+          ],
+          "strategy": "把49看作50、31看作30，先估成整十数再相乘。估算第一步用约等号，不能把1500当作精确积。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（9）}\\par 把49看作50、31看作30，先估成整十数再相乘。估算第一步用约等号，不能把1500当作精确积。\\[\\begin{aligned}&49\\times31\\\\\\approx{}&50\\times30\\\\={}&1500\\end{aligned}\\]"
+        },
+        {
+          "key": "p046_s07_oral_10",
+          "local_index": 10,
+          "original_subquestion_number": 10,
+          "display_label": "（10）",
+          "expression_latex": "61\\times95",
+          "is_estimate": true,
+          "exact_result": "5795",
+          "result": "6000",
+          "steps": [
+            "61\\times95",
+            "60\\times100",
+            "6000"
+          ],
+          "relations": [
+            "≈",
+            "="
+          ],
+          "strategy": "把61看作60、95看作100，用接近的整十、整百数估算；估计值6000不是精确积。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（10）}\\par 把61看作60、95看作100，用接近的整十、整百数估算；估计值6000不是精确积。\\[\\begin{aligned}&61\\times95\\\\\\approx{}&60\\times100\\\\={}&6000\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 把9看作10减1，先算10个12，再减1个12。\\[\\begin{aligned}&12\\times9\\\\={}&12\\times(10-1)\\\\={}&12\\times10-12\\times1\\\\={}&120-12\\\\={}&108\\end{aligned}\\]\\par \\textbf{（2）}\\par 把152分成150和2，分别乘4后相加。\\[\\begin{aligned}&152\\times4\\\\={}&150\\times4+2\\times4\\\\={}&600+8\\\\={}&608\\end{aligned}\\]\\par \\textbf{（3）}\\par 利用商不变的规律，被除数和除数同时乘4，除数凑成100。\\[\\begin{aligned}&600\\div25\\\\={}&(600\\times4)\\div(25\\times4)\\\\={}&2400\\div100\\\\={}&24\\end{aligned}\\]\\par \\textbf{（4）}\\par 先算小括号内的运算，再算括号外的运算。\\[\\begin{aligned}&(12+8)\\times5\\\\={}&20\\times5\\\\={}&100\\end{aligned}\\]\\par \\textbf{（5）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&397-23\\times6\\\\={}&397-138\\\\={}&259\\end{aligned}\\]\\par \\textbf{（6）}\\par 利用熟悉的凑整积直接口算。\\[\\begin{aligned}&125\\times8\\\\={}&1000\\end{aligned}\\]\\par \\textbf{（7）}\\par 先乘10，再除以2，得到乘5的结果。\\[\\begin{aligned}&24\\times5\\\\={}&24\\times10\\div2\\\\={}&240\\div2\\\\={}&120\\end{aligned}\\]\\par \\textbf{（8）}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&480\\div80\\div6\\\\={}&6\\div6\\\\={}&1\\end{aligned}\\]\\par \\textbf{（9）}\\par 把49看作50、31看作30，先估成整十数再相乘。估算第一步用约等号，不能把1500当作精确积。\\[\\begin{aligned}&49\\times31\\\\\\approx{}&50\\times30\\\\={}&1500\\end{aligned}\\]\\par \\textbf{（10）}\\par 把61看作60、95看作100，用接近的整十、整百数估算；估计值6000不是精确积。\\[\\begin{aligned}&61\\times95\\\\\\approx{}&60\\times100\\\\={}&6000\\end{aligned}\\]",
+      "original_answer_latex": "第一行依次为\\(108,608,24,100,259\\)，第二行依次为\\(1000,120,1,1500,6000\\)。\\par \\(12\\times9=108\\)，\\(152\\times4=608\\)，\\(600\\div25=600\\times4\\div100=24\\)，\\((12+8)\\times5=100\\)。\\par \\(397-23\\times6=397-138=259\\)；\\(125\\times8=1000\\)，\\(24\\times5=120\\)，\\(480\\div80\\div6=6\\div6=1\\)。\\par 估算：\\(49\\times31\\approx50\\times30=1500\\)，\\(61\\times95\\approx60\\times100=6000\\)。估算写约等号，不能把估计值当精确值。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p051_s01": {
+      "book_page": 51,
+      "source_page": 55,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p051_s01_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "10.56\\times10",
+          "is_estimate": false,
+          "exact_result": "105.6",
+          "result": "105.6",
+          "steps": [
+            "10.56\\times10",
+            "105.6"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "乘10，小数点向右移动1位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 乘10，小数点向右移动1位；位数不够时补0。\\[\\begin{aligned}&10.56\\times10\\\\={}&105.6\\end{aligned}\\]"
+        },
+        {
+          "key": "p051_s01_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "3.15\\times1000",
+          "is_estimate": false,
+          "exact_result": "3150",
+          "result": "3150",
+          "steps": [
+            "3.15\\times1000",
+            "3150"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "乘1000，小数点向右移动3位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 乘1000，小数点向右移动3位；位数不够时补0。\\[\\begin{aligned}&3.15\\times1000\\\\={}&3150\\end{aligned}\\]"
+        },
+        {
+          "key": "p051_s01_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "2.71\\div10",
+          "is_estimate": false,
+          "exact_result": "0.271",
+          "result": "0.271",
+          "steps": [
+            "2.71\\div10",
+            "0.271"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以10，小数点向左移动1位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 除以10，小数点向左移动1位；位数不够时补0。\\[\\begin{aligned}&2.71\\div10\\\\={}&0.271\\end{aligned}\\]"
+        },
+        {
+          "key": "p051_s01_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "12.1\\div100",
+          "is_estimate": false,
+          "exact_result": "0.121",
+          "result": "0.121",
+          "steps": [
+            "12.1\\div100",
+            "0.121"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以100，小数点向左移动2位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&12.1\\div100\\\\={}&0.121\\end{aligned}\\]"
+        },
+        {
+          "key": "p051_s01_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "7.69\\times100\\div10",
+          "is_estimate": false,
+          "exact_result": "76.9",
+          "result": "76.9",
+          "steps": [
+            "7.69\\times100\\div10",
+            "769\\div10",
+            "76.9"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。\\[\\begin{aligned}&7.69\\times100\\div10\\\\={}&769\\div10\\\\={}&76.9\\end{aligned}\\]"
+        },
+        {
+          "key": "p051_s01_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "10.02\\div100\\times1000",
+          "is_estimate": false,
+          "exact_result": "100.2",
+          "result": "100.2",
+          "steps": [
+            "10.02\\div100\\times1000",
+            "0.1002\\times1000",
+            "100.2"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。\\[\\begin{aligned}&10.02\\div100\\times1000\\\\={}&0.1002\\times1000\\\\={}&100.2\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 乘10，小数点向右移动1位；位数不够时补0。\\[\\begin{aligned}&10.56\\times10\\\\={}&105.6\\end{aligned}\\]\\par \\textbf{（2）}\\par 乘1000，小数点向右移动3位；位数不够时补0。\\[\\begin{aligned}&3.15\\times1000\\\\={}&3150\\end{aligned}\\]\\par \\textbf{（3）}\\par 除以10，小数点向左移动1位；位数不够时补0。\\[\\begin{aligned}&2.71\\div10\\\\={}&0.271\\end{aligned}\\]\\par \\textbf{（4）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&12.1\\div100\\\\={}&0.121\\end{aligned}\\]\\par \\textbf{（5）}\\par 按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。\\[\\begin{aligned}&7.69\\times100\\div10\\\\={}&769\\div10\\\\={}&76.9\\end{aligned}\\]\\par \\textbf{（6）}\\par 按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。\\[\\begin{aligned}&10.02\\div100\\times1000\\\\={}&0.1002\\times1000\\\\={}&100.2\\end{aligned}\\]",
+      "original_answer_latex": "按题面顺序，得\\(105.6,3150,0.271;0.121,76.9,100.2\\)。\\par 乘10、100、1000时，小数点分别右移1、2、3位；除以这些数时分别左移。\\(7.69\\times100\\div10\\)相当于乘10，得76.9；\\(10.02\\div100\\times1000\\)也相当于乘10，得100.2。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p054_s07": {
+      "book_page": 54,
+      "source_page": 58,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p054_s07_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "40\\div100",
+          "is_estimate": false,
+          "exact_result": "0.4",
+          "result": "0.4",
+          "steps": [
+            "40\\div100",
+            "0.4"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以100，小数点向左移动2位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&40\\div100\\\\={}&0.4\\end{aligned}\\]"
+        },
+        {
+          "key": "p054_s07_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "0.6\\times1000",
+          "is_estimate": false,
+          "exact_result": "600",
+          "result": "600",
+          "steps": [
+            "0.6\\times1000",
+            "600"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "乘1000，小数点向右移动3位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 乘1000，小数点向右移动3位；位数不够时补0。\\[\\begin{aligned}&0.6\\times1000\\\\={}&600\\end{aligned}\\]"
+        },
+        {
+          "key": "p054_s07_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "3.6\\div10",
+          "is_estimate": false,
+          "exact_result": "0.36",
+          "result": "0.36",
+          "steps": [
+            "3.6\\div10",
+            "0.36"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以10，小数点向左移动1位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 除以10，小数点向左移动1位；位数不够时补0。\\[\\begin{aligned}&3.6\\div10\\\\={}&0.36\\end{aligned}\\]"
+        },
+        {
+          "key": "p054_s07_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "45\\div10\\times100",
+          "is_estimate": false,
+          "exact_result": "450",
+          "result": "450",
+          "steps": [
+            "45\\div10\\times100",
+            "4.5\\times100",
+            "450"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。\\[\\begin{aligned}&45\\div10\\times100\\\\={}&4.5\\times100\\\\={}&450\\end{aligned}\\]"
+        },
+        {
+          "key": "p054_s07_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "0.21\\div10",
+          "is_estimate": false,
+          "exact_result": "0.021",
+          "result": "0.021",
+          "steps": [
+            "0.21\\div10",
+            "0.021"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以10，小数点向左移动1位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 除以10，小数点向左移动1位；位数不够时补0。\\[\\begin{aligned}&0.21\\div10\\\\={}&0.021\\end{aligned}\\]"
+        },
+        {
+          "key": "p054_s07_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "250\\div1000",
+          "is_estimate": false,
+          "exact_result": "0.25",
+          "result": "0.25",
+          "steps": [
+            "250\\div1000",
+            "0.25"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以1000，小数点向左移动3位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 除以1000，小数点向左移动3位；位数不够时补0。\\[\\begin{aligned}&250\\div1000\\\\={}&0.25\\end{aligned}\\]"
+        },
+        {
+          "key": "p054_s07_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "4800\\div100",
+          "is_estimate": false,
+          "exact_result": "48",
+          "result": "48",
+          "steps": [
+            "4800\\div100",
+            "48"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以100，小数点向左移动2位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&4800\\div100\\\\={}&48\\end{aligned}\\]"
+        },
+        {
+          "key": "p054_s07_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "3.2\\times1000\\div10",
+          "is_estimate": false,
+          "exact_result": "320",
+          "result": "320",
+          "steps": [
+            "3.2\\times1000\\div10",
+            "3200\\div10",
+            "320"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。\\[\\begin{aligned}&3.2\\times1000\\div10\\\\={}&3200\\div10\\\\={}&320\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&40\\div100\\\\={}&0.4\\end{aligned}\\]\\par \\textbf{（2）}\\par 乘1000，小数点向右移动3位；位数不够时补0。\\[\\begin{aligned}&0.6\\times1000\\\\={}&600\\end{aligned}\\]\\par \\textbf{（3）}\\par 除以10，小数点向左移动1位；位数不够时补0。\\[\\begin{aligned}&3.6\\div10\\\\={}&0.36\\end{aligned}\\]\\par \\textbf{（4）}\\par 按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。\\[\\begin{aligned}&45\\div10\\times100\\\\={}&4.5\\times100\\\\={}&450\\end{aligned}\\]\\par \\textbf{（5）}\\par 除以10，小数点向左移动1位；位数不够时补0。\\[\\begin{aligned}&0.21\\div10\\\\={}&0.021\\end{aligned}\\]\\par \\textbf{（6）}\\par 除以1000，小数点向左移动3位；位数不够时补0。\\[\\begin{aligned}&250\\div1000\\\\={}&0.25\\end{aligned}\\]\\par \\textbf{（7）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&4800\\div100\\\\={}&48\\end{aligned}\\]\\par \\textbf{（8）}\\par 按运算顺序依次移动小数点，前一步所得的数继续参与后一步计算。\\[\\begin{aligned}&3.2\\times1000\\div10\\\\={}&3200\\div10\\\\={}&320\\end{aligned}\\]",
+      "original_answer_latex": "按题面顺序，得\\(0.4,600,0.36,450;0.021,0.25,48,320\\)。\\par \\(40\\div100=0.4\\)；\\(0.6\\times1000=600\\)；\\(3.6\\div10=0.36\\)；\\(45\\div10\\times100=4.5\\times100=450\\)。\\par \\(0.21\\div10=0.021\\)；\\(250\\div1000=0.25\\)；\\(4800\\div100=48\\)；\\(3.2\\times1000\\div10=3200\\div10=320\\)。连续放大、缩小可把倍数合并，但必须保持乘除的意义。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p058_s08": {
+      "book_page": 58,
+      "source_page": 62,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p058_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "20-8.5",
+          "is_estimate": false,
+          "exact_result": "11.5",
+          "result": "11.5",
+          "steps": [
+            "20-8.5",
+            "20.0-8.5",
+            "11.5"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：200个十分之一减85个十分之一，得115个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 统一成十分之一来想：200个十分之一减85个十分之一，得115个十分之一。\\[\\begin{aligned}&20-8.5\\\\={}&20.0-8.5\\\\={}&11.5\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "9-0.63",
+          "is_estimate": false,
+          "exact_result": "8.37",
+          "result": "8.37",
+          "steps": [
+            "9-0.63",
+            "9.00-0.63",
+            "8.37"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：900个百分之一减63个百分之一，得837个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 统一成百分之一来想：900个百分之一减63个百分之一，得837个百分之一。\\[\\begin{aligned}&9-0.63\\\\={}&9.00-0.63\\\\={}&8.37\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "7.3-2.8",
+          "is_estimate": false,
+          "exact_result": "4.5",
+          "result": "4.5",
+          "steps": [
+            "7.3-2.8",
+            "4.5"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：73个十分之一减28个十分之一，得45个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 统一成十分之一来想：73个十分之一减28个十分之一，得45个十分之一。\\[\\begin{aligned}&7.3-2.8\\\\={}&4.5\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "1-0.36-0.64",
+          "is_estimate": false,
+          "exact_result": "0",
+          "result": "0",
+          "steps": [
+            "1-0.36-0.64",
+            "1-(0.36+0.64)",
+            "1-1",
+            "0"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "两个减数0.36与0.64先凑成1。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 两个减数0.36与0.64先凑成1。\\[\\begin{aligned}&1-0.36-0.64\\\\={}&1-(0.36+0.64)\\\\={}&1-1\\\\={}&0\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "0.77+0.23",
+          "is_estimate": false,
+          "exact_result": "1",
+          "result": "1",
+          "steps": [
+            "0.77+0.23",
+            "1"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成百分之一来想：77个百分之一加23个百分之一，得100个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 统一成百分之一来想：77个百分之一加23个百分之一，得100个百分之一。\\[\\begin{aligned}&0.77+0.23\\\\={}&1\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "8.88-0.8",
+          "is_estimate": false,
+          "exact_result": "8.08",
+          "result": "8.08",
+          "steps": [
+            "8.88-0.8",
+            "8.88-0.80",
+            "8.08"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：888个百分之一减80个百分之一，得808个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 统一成百分之一来想：888个百分之一减80个百分之一，得808个百分之一。\\[\\begin{aligned}&8.88-0.8\\\\={}&8.88-0.80\\\\={}&8.08\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "4-1.29",
+          "is_estimate": false,
+          "exact_result": "2.71",
+          "result": "2.71",
+          "steps": [
+            "4-1.29",
+            "4.00-1.29",
+            "2.71"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：400个百分之一减129个百分之一，得271个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 统一成百分之一来想：400个百分之一减129个百分之一，得271个百分之一。\\[\\begin{aligned}&4-1.29\\\\={}&4.00-1.29\\\\={}&2.71\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "6.3+0.48",
+          "is_estimate": false,
+          "exact_result": "6.78",
+          "result": "6.78",
+          "steps": [
+            "6.3+0.48",
+            "6.30+0.48",
+            "6.78"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：630个百分之一加48个百分之一，得678个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 统一成百分之一来想：630个百分之一加48个百分之一，得678个百分之一。\\[\\begin{aligned}&6.3+0.48\\\\={}&6.30+0.48\\\\={}&6.78\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_09",
+          "local_index": 9,
+          "original_subquestion_number": 9,
+          "display_label": "（9）",
+          "expression_latex": "2.1-0.5",
+          "is_estimate": false,
+          "exact_result": "1.6",
+          "result": "1.6",
+          "steps": [
+            "2.1-0.5",
+            "1.6"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：21个十分之一减5个十分之一，得16个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（9）}\\par 统一成十分之一来想：21个十分之一减5个十分之一，得16个十分之一。\\[\\begin{aligned}&2.1-0.5\\\\={}&1.6\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_10",
+          "local_index": 10,
+          "original_subquestion_number": 10,
+          "display_label": "（10）",
+          "expression_latex": "4.65+5.35",
+          "is_estimate": false,
+          "exact_result": "10",
+          "result": "10",
+          "steps": [
+            "4.65+5.35",
+            "10"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成百分之一来想：465个百分之一加535个百分之一，得1000个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（10）}\\par 统一成百分之一来想：465个百分之一加535个百分之一，得1000个百分之一。\\[\\begin{aligned}&4.65+5.35\\\\={}&10\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_11",
+          "local_index": 11,
+          "original_subquestion_number": 11,
+          "display_label": "（11）",
+          "expression_latex": "6.8+2.2",
+          "is_estimate": false,
+          "exact_result": "9",
+          "result": "9",
+          "steps": [
+            "6.8+2.2",
+            "9"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：68个十分之一加22个十分之一，得90个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（11）}\\par 统一成十分之一来想：68个十分之一加22个十分之一，得90个十分之一。\\[\\begin{aligned}&6.8+2.2\\\\={}&9\\end{aligned}\\]"
+        },
+        {
+          "key": "p058_s08_oral_12",
+          "local_index": 12,
+          "original_subquestion_number": 12,
+          "display_label": "（12）",
+          "expression_latex": "18.6-8.6",
+          "is_estimate": false,
+          "exact_result": "10",
+          "result": "10",
+          "steps": [
+            "18.6-8.6",
+            "10"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：186个十分之一减86个十分之一，得100个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（12）}\\par 统一成十分之一来想：186个十分之一减86个十分之一，得100个十分之一。\\[\\begin{aligned}&18.6-8.6\\\\={}&10\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 统一成十分之一来想：200个十分之一减85个十分之一，得115个十分之一。\\[\\begin{aligned}&20-8.5\\\\={}&20.0-8.5\\\\={}&11.5\\end{aligned}\\]\\par \\textbf{（2）}\\par 统一成百分之一来想：900个百分之一减63个百分之一，得837个百分之一。\\[\\begin{aligned}&9-0.63\\\\={}&9.00-0.63\\\\={}&8.37\\end{aligned}\\]\\par \\textbf{（3）}\\par 统一成十分之一来想：73个十分之一减28个十分之一，得45个十分之一。\\[\\begin{aligned}&7.3-2.8\\\\={}&4.5\\end{aligned}\\]\\par \\textbf{（4）}\\par 两个减数0.36与0.64先凑成1。\\[\\begin{aligned}&1-0.36-0.64\\\\={}&1-(0.36+0.64)\\\\={}&1-1\\\\={}&0\\end{aligned}\\]\\par \\textbf{（5）}\\par 统一成百分之一来想：77个百分之一加23个百分之一，得100个百分之一。\\[\\begin{aligned}&0.77+0.23\\\\={}&1\\end{aligned}\\]\\par \\textbf{（6）}\\par 统一成百分之一来想：888个百分之一减80个百分之一，得808个百分之一。\\[\\begin{aligned}&8.88-0.8\\\\={}&8.88-0.80\\\\={}&8.08\\end{aligned}\\]\\par \\textbf{（7）}\\par 统一成百分之一来想：400个百分之一减129个百分之一，得271个百分之一。\\[\\begin{aligned}&4-1.29\\\\={}&4.00-1.29\\\\={}&2.71\\end{aligned}\\]\\par \\textbf{（8）}\\par 统一成百分之一来想：630个百分之一加48个百分之一，得678个百分之一。\\[\\begin{aligned}&6.3+0.48\\\\={}&6.30+0.48\\\\={}&6.78\\end{aligned}\\]\\par \\textbf{（9）}\\par 统一成十分之一来想：21个十分之一减5个十分之一，得16个十分之一。\\[\\begin{aligned}&2.1-0.5\\\\={}&1.6\\end{aligned}\\]\\par \\textbf{（10）}\\par 统一成百分之一来想：465个百分之一加535个百分之一，得1000个百分之一。\\[\\begin{aligned}&4.65+5.35\\\\={}&10\\end{aligned}\\]\\par \\textbf{（11）}\\par 统一成十分之一来想：68个十分之一加22个十分之一，得90个十分之一。\\[\\begin{aligned}&6.8+2.2\\\\={}&9\\end{aligned}\\]\\par \\textbf{（12）}\\par 统一成十分之一来想：186个十分之一减86个十分之一，得100个十分之一。\\[\\begin{aligned}&18.6-8.6\\\\={}&10\\end{aligned}\\]",
+      "original_answer_latex": "按从左到右、从上到下的顺序：\\[\\begin{array}{rrrr}11.5&8.37&4.5&0\\\\1&8.08&2.71&6.78\\\\1.6&10&9&10\\end{array}\\]其中\\(1-0.36-0.64=1-(0.36+0.64)=0\\)；\\(0.77+0.23=1\\)和\\(4.65+5.35=10\\)可先凑整。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p062_s09": {
+      "book_page": 62,
+      "source_page": 66,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p062_s09_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "3.25+5.5",
+          "is_estimate": false,
+          "exact_result": "8.75",
+          "result": "8.75",
+          "steps": [
+            "3.25+5.5",
+            "3.25+5.50",
+            "8.75"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：325个百分之一加550个百分之一，得875个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 统一成百分之一来想：325个百分之一加550个百分之一，得875个百分之一。\\[\\begin{aligned}&3.25+5.5\\\\={}&3.25+5.50\\\\={}&8.75\\end{aligned}\\]"
+        },
+        {
+          "key": "p062_s09_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "1.7+2.5",
+          "is_estimate": false,
+          "exact_result": "4.2",
+          "result": "4.2",
+          "steps": [
+            "1.7+2.5",
+            "4.2"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：17个十分之一加25个十分之一，得42个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 统一成十分之一来想：17个十分之一加25个十分之一，得42个十分之一。\\[\\begin{aligned}&1.7+2.5\\\\={}&4.2\\end{aligned}\\]"
+        },
+        {
+          "key": "p062_s09_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "6.76-0.6",
+          "is_estimate": false,
+          "exact_result": "6.16",
+          "result": "6.16",
+          "steps": [
+            "6.76-0.6",
+            "6.76-0.60",
+            "6.16"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：676个百分之一减60个百分之一，得616个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 统一成百分之一来想：676个百分之一减60个百分之一，得616个百分之一。\\[\\begin{aligned}&6.76-0.6\\\\={}&6.76-0.60\\\\={}&6.16\\end{aligned}\\]"
+        },
+        {
+          "key": "p062_s09_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "2.6+8",
+          "is_estimate": false,
+          "exact_result": "10.6",
+          "result": "10.6",
+          "steps": [
+            "2.6+8",
+            "2.6+8.0",
+            "10.6"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：26个十分之一加80个十分之一，得106个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 统一成十分之一来想：26个十分之一加80个十分之一，得106个十分之一。\\[\\begin{aligned}&2.6+8\\\\={}&2.6+8.0\\\\={}&10.6\\end{aligned}\\]"
+        },
+        {
+          "key": "p062_s09_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "3.8+0.12",
+          "is_estimate": false,
+          "exact_result": "3.92",
+          "result": "3.92",
+          "steps": [
+            "3.8+0.12",
+            "3.80+0.12",
+            "3.92"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：380个百分之一加12个百分之一，得392个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 统一成百分之一来想：380个百分之一加12个百分之一，得392个百分之一。\\[\\begin{aligned}&3.8+0.12\\\\={}&3.80+0.12\\\\={}&3.92\\end{aligned}\\]"
+        },
+        {
+          "key": "p062_s09_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "2.36+1.64",
+          "is_estimate": false,
+          "exact_result": "4",
+          "result": "4",
+          "steps": [
+            "2.36+1.64",
+            "4"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成百分之一来想：236个百分之一加164个百分之一，得400个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 统一成百分之一来想：236个百分之一加164个百分之一，得400个百分之一。\\[\\begin{aligned}&2.36+1.64\\\\={}&4\\end{aligned}\\]"
+        },
+        {
+          "key": "p062_s09_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "4.2-4",
+          "is_estimate": false,
+          "exact_result": "0.2",
+          "result": "0.2",
+          "steps": [
+            "4.2-4",
+            "4.2-4.0",
+            "0.2"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：42个十分之一减40个十分之一，得2个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 统一成十分之一来想：42个十分之一减40个十分之一，得2个十分之一。\\[\\begin{aligned}&4.2-4\\\\={}&4.2-4.0\\\\={}&0.2\\end{aligned}\\]"
+        },
+        {
+          "key": "p062_s09_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "10-4.5",
+          "is_estimate": false,
+          "exact_result": "5.5",
+          "result": "5.5",
+          "steps": [
+            "10-4.5",
+            "10.0-4.5",
+            "5.5"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：100个十分之一减45个十分之一，得55个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 统一成十分之一来想：100个十分之一减45个十分之一，得55个十分之一。\\[\\begin{aligned}&10-4.5\\\\={}&10.0-4.5\\\\={}&5.5\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 统一成百分之一来想：325个百分之一加550个百分之一，得875个百分之一。\\[\\begin{aligned}&3.25+5.5\\\\={}&3.25+5.50\\\\={}&8.75\\end{aligned}\\]\\par \\textbf{（2）}\\par 统一成十分之一来想：17个十分之一加25个十分之一，得42个十分之一。\\[\\begin{aligned}&1.7+2.5\\\\={}&4.2\\end{aligned}\\]\\par \\textbf{（3）}\\par 统一成百分之一来想：676个百分之一减60个百分之一，得616个百分之一。\\[\\begin{aligned}&6.76-0.6\\\\={}&6.76-0.60\\\\={}&6.16\\end{aligned}\\]\\par \\textbf{（4）}\\par 统一成十分之一来想：26个十分之一加80个十分之一，得106个十分之一。\\[\\begin{aligned}&2.6+8\\\\={}&2.6+8.0\\\\={}&10.6\\end{aligned}\\]\\par \\textbf{（5）}\\par 统一成百分之一来想：380个百分之一加12个百分之一，得392个百分之一。\\[\\begin{aligned}&3.8+0.12\\\\={}&3.80+0.12\\\\={}&3.92\\end{aligned}\\]\\par \\textbf{（6）}\\par 统一成百分之一来想：236个百分之一加164个百分之一，得400个百分之一。\\[\\begin{aligned}&2.36+1.64\\\\={}&4\\end{aligned}\\]\\par \\textbf{（7）}\\par 统一成十分之一来想：42个十分之一减40个十分之一，得2个十分之一。\\[\\begin{aligned}&4.2-4\\\\={}&4.2-4.0\\\\={}&0.2\\end{aligned}\\]\\par \\textbf{（8）}\\par 统一成十分之一来想：100个十分之一减45个十分之一，得55个十分之一。\\[\\begin{aligned}&10-4.5\\\\={}&10.0-4.5\\\\={}&5.5\\end{aligned}\\]",
+      "original_answer_latex": "按行依次为\\[\\begin{array}{rrrr}8.75&4.2&6.16&10.6\\\\3.92&4&0.2&5.5\\end{array}\\]小数点对齐；\\(2.36+1.64\\)可先凑成4；\\(4.2-4=0.2\\)，整数部分是0。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p082_s08": {
+      "book_page": 82,
+      "source_page": 86,
+      "question_id": "三、1（1）—（4）",
+      "subquestions": [
+        {
+          "key": "p082_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "37\\times2\\times5",
+          "is_estimate": false,
+          "exact_result": "370",
+          "result": "370",
+          "steps": [
+            "37\\times2\\times5",
+            "37\\times(2\\times5)",
+            "37\\times10",
+            "370"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "运用乘法结合律，先让2与5凑10。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 运用乘法结合律，先让2与5凑10。\\[\\begin{aligned}&37\\times2\\times5\\\\={}&37\\times(2\\times5)\\\\={}&37\\times10\\\\={}&370\\end{aligned}\\]"
+        },
+        {
+          "key": "p082_s08_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "25\\times101",
+          "is_estimate": false,
+          "exact_result": "2525",
+          "result": "2525",
+          "steps": [
+            "25\\times101",
+            "25\\times(100+1)",
+            "25\\times100+25\\times1",
+            "2500+25",
+            "2525"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把101分成100和1，分别相乘后相加。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 把101分成100和1，分别相乘后相加。\\[\\begin{aligned}&25\\times101\\\\={}&25\\times(100+1)\\\\={}&25\\times100+25\\times1\\\\={}&2500+25\\\\={}&2525\\end{aligned}\\]"
+        },
+        {
+          "key": "p082_s08_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "20.03+6.7",
+          "is_estimate": false,
+          "exact_result": "26.73",
+          "result": "26.73",
+          "steps": [
+            "20.03+6.7",
+            "20.03+6.70",
+            "26.73"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：2003个百分之一加670个百分之一，得2673个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 统一成百分之一来想：2003个百分之一加670个百分之一，得2673个百分之一。\\[\\begin{aligned}&20.03+6.7\\\\={}&20.03+6.70\\\\={}&26.73\\end{aligned}\\]"
+        },
+        {
+          "key": "p082_s08_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "46.25+8.6",
+          "is_estimate": false,
+          "exact_result": "54.85",
+          "result": "54.85",
+          "steps": [
+            "46.25+8.6",
+            "46.25+8.60",
+            "54.85"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：4625个百分之一加860个百分之一，得5485个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 统一成百分之一来想：4625个百分之一加860个百分之一，得5485个百分之一。\\[\\begin{aligned}&46.25+8.6\\\\={}&46.25+8.60\\\\={}&54.85\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 运用乘法结合律，先让2与5凑10。\\[\\begin{aligned}&37\\times2\\times5\\\\={}&37\\times(2\\times5)\\\\={}&37\\times10\\\\={}&370\\end{aligned}\\]\\par \\textbf{（2）}\\par 把101分成100和1，分别相乘后相加。\\[\\begin{aligned}&25\\times101\\\\={}&25\\times(100+1)\\\\={}&25\\times100+25\\times1\\\\={}&2500+25\\\\={}&2525\\end{aligned}\\]\\par \\textbf{（3）}\\par 统一成百分之一来想：2003个百分之一加670个百分之一，得2673个百分之一。\\[\\begin{aligned}&20.03+6.7\\\\={}&20.03+6.70\\\\={}&26.73\\end{aligned}\\]\\par \\textbf{（4）}\\par 统一成百分之一来想：4625个百分之一加860个百分之一，得5485个百分之一。\\[\\begin{aligned}&46.25+8.6\\\\={}&46.25+8.60\\\\={}&54.85\\end{aligned}\\]",
+      "original_answer_latex": "\\(37\\times2\\times5=37\\times10=370\\)；\\(25\\times101=25\\times100+25=2525\\)；\\(20.03+6.7=26.73\\)；\\(46.25+8.6=54.85\\)。小数加法把同数位相加，必要时补\\(0\\)对齐。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p082_s09": {
+      "book_page": 82,
+      "source_page": 86,
+      "question_id": "三、1（5）—（8）",
+      "subquestions": [
+        {
+          "key": "p082_s09_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "278-32-18",
+          "is_estimate": false,
+          "exact_result": "228",
+          "result": "228",
+          "steps": [
+            "278-32-18",
+            "278-(32+18)",
+            "278-50",
+            "228"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "两个减数32和18先凑成50。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 两个减数32和18先凑成50。\\[\\begin{aligned}&278-32-18\\\\={}&278-(32+18)\\\\={}&278-50\\\\={}&228\\end{aligned}\\]"
+        },
+        {
+          "key": "p082_s09_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "50.8+62.7",
+          "is_estimate": false,
+          "exact_result": "113.5",
+          "result": "113.5",
+          "steps": [
+            "50.8+62.7",
+            "113.5"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：508个十分之一加627个十分之一，得1135个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 统一成十分之一来想：508个十分之一加627个十分之一，得1135个十分之一。\\[\\begin{aligned}&50.8+62.7\\\\={}&113.5\\end{aligned}\\]"
+        },
+        {
+          "key": "p082_s09_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "182-23.6",
+          "is_estimate": false,
+          "exact_result": "158.4",
+          "result": "158.4",
+          "steps": [
+            "182-23.6",
+            "182.0-23.6",
+            "158.4"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：1820个十分之一减236个十分之一，得1584个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 统一成十分之一来想：1820个十分之一减236个十分之一，得1584个十分之一。\\[\\begin{aligned}&182-23.6\\\\={}&182.0-23.6\\\\={}&158.4\\end{aligned}\\]"
+        },
+        {
+          "key": "p082_s09_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "55.4+9.46",
+          "is_estimate": false,
+          "exact_result": "64.86",
+          "result": "64.86",
+          "steps": [
+            "55.4+9.46",
+            "55.40+9.46",
+            "64.86"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：5540个百分之一加946个百分之一，得6486个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 统一成百分之一来想：5540个百分之一加946个百分之一，得6486个百分之一。\\[\\begin{aligned}&55.4+9.46\\\\={}&55.40+9.46\\\\={}&64.86\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（5）}\\par 两个减数32和18先凑成50。\\[\\begin{aligned}&278-32-18\\\\={}&278-(32+18)\\\\={}&278-50\\\\={}&228\\end{aligned}\\]\\par \\textbf{（6）}\\par 统一成十分之一来想：508个十分之一加627个十分之一，得1135个十分之一。\\[\\begin{aligned}&50.8+62.7\\\\={}&113.5\\end{aligned}\\]\\par \\textbf{（7）}\\par 统一成十分之一来想：1820个十分之一减236个十分之一，得1584个十分之一。\\[\\begin{aligned}&182-23.6\\\\={}&182.0-23.6\\\\={}&158.4\\end{aligned}\\]\\par \\textbf{（8）}\\par 统一成百分之一来想：5540个百分之一加946个百分之一，得6486个百分之一。\\[\\begin{aligned}&55.4+9.46\\\\={}&55.40+9.46\\\\={}&64.86\\end{aligned}\\]",
+      "original_answer_latex": "\\(278-32-18=278-(32+18)=228\\)；\\(50.8+62.7=113.5\\)；\\(182-23.6=158.4\\)；\\(55.4+9.46=64.86\\)。小数点对齐后计算。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p090_s04": {
+      "book_page": 90,
+      "source_page": 94,
+      "question_id": "三、1（1）—（4）",
+      "subquestions": [
+        {
+          "key": "p090_s04_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "0.4+0.5",
+          "is_estimate": false,
+          "exact_result": "0.9",
+          "result": "0.9",
+          "steps": [
+            "0.4+0.5",
+            "0.9"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：4个十分之一加5个十分之一，得9个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 统一成十分之一来想：4个十分之一加5个十分之一，得9个十分之一。\\[\\begin{aligned}&0.4+0.5\\\\={}&0.9\\end{aligned}\\]"
+        },
+        {
+          "key": "p090_s04_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "1-0.7",
+          "is_estimate": false,
+          "exact_result": "0.3",
+          "result": "0.3",
+          "steps": [
+            "1-0.7",
+            "1.0-0.7",
+            "0.3"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：10个十分之一减7个十分之一，得3个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 统一成十分之一来想：10个十分之一减7个十分之一，得3个十分之一。\\[\\begin{aligned}&1-0.7\\\\={}&1.0-0.7\\\\={}&0.3\\end{aligned}\\]"
+        },
+        {
+          "key": "p090_s04_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "4.3+3.7",
+          "is_estimate": false,
+          "exact_result": "8",
+          "result": "8",
+          "steps": [
+            "4.3+3.7",
+            "8"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：43个十分之一加37个十分之一，得80个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 统一成十分之一来想：43个十分之一加37个十分之一，得80个十分之一。\\[\\begin{aligned}&4.3+3.7\\\\={}&8\\end{aligned}\\]"
+        },
+        {
+          "key": "p090_s04_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "1.2-0.8",
+          "is_estimate": false,
+          "exact_result": "0.4",
+          "result": "0.4",
+          "steps": [
+            "1.2-0.8",
+            "0.4"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：12个十分之一减8个十分之一，得4个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 统一成十分之一来想：12个十分之一减8个十分之一，得4个十分之一。\\[\\begin{aligned}&1.2-0.8\\\\={}&0.4\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 统一成十分之一来想：4个十分之一加5个十分之一，得9个十分之一。\\[\\begin{aligned}&0.4+0.5\\\\={}&0.9\\end{aligned}\\]\\par \\textbf{（2）}\\par 统一成十分之一来想：10个十分之一减7个十分之一，得3个十分之一。\\[\\begin{aligned}&1-0.7\\\\={}&1.0-0.7\\\\={}&0.3\\end{aligned}\\]\\par \\textbf{（3）}\\par 统一成十分之一来想：43个十分之一加37个十分之一，得80个十分之一。\\[\\begin{aligned}&4.3+3.7\\\\={}&8\\end{aligned}\\]\\par \\textbf{（4）}\\par 统一成十分之一来想：12个十分之一减8个十分之一，得4个十分之一。\\[\\begin{aligned}&1.2-0.8\\\\={}&0.4\\end{aligned}\\]",
+      "original_answer_latex": "\\(0.4+0.5=0.9\\)；\\(1-0.7=0.3\\)；\\(4.3+3.7=8\\)；\\(1.2-0.8=0.4\\)。把十分之一的个数相加减，满\\(10\\)个十分之一就进为\\(1\\)。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p090_s05": {
+      "book_page": 90,
+      "source_page": 94,
+      "question_id": "三、1（5）—（8）",
+      "subquestions": [
+        {
+          "key": "p090_s05_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "0.4+1.2",
+          "is_estimate": false,
+          "exact_result": "1.6",
+          "result": "1.6",
+          "steps": [
+            "0.4+1.2",
+            "1.6"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：4个十分之一加12个十分之一，得16个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 统一成十分之一来想：4个十分之一加12个十分之一，得16个十分之一。\\[\\begin{aligned}&0.4+1.2\\\\={}&1.6\\end{aligned}\\]"
+        },
+        {
+          "key": "p090_s05_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "7.9-1.9",
+          "is_estimate": false,
+          "exact_result": "6",
+          "result": "6",
+          "steps": [
+            "7.9-1.9",
+            "6"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：79个十分之一减19个十分之一，得60个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 统一成十分之一来想：79个十分之一减19个十分之一，得60个十分之一。\\[\\begin{aligned}&7.9-1.9\\\\={}&6\\end{aligned}\\]"
+        },
+        {
+          "key": "p090_s05_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "7.3+1.8",
+          "is_estimate": false,
+          "exact_result": "9.1",
+          "result": "9.1",
+          "steps": [
+            "7.3+1.8",
+            "9.1"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：73个十分之一加18个十分之一，得91个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 统一成十分之一来想：73个十分之一加18个十分之一，得91个十分之一。\\[\\begin{aligned}&7.3+1.8\\\\={}&9.1\\end{aligned}\\]"
+        },
+        {
+          "key": "p090_s05_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "13.5-3.5",
+          "is_estimate": false,
+          "exact_result": "10",
+          "result": "10",
+          "steps": [
+            "13.5-3.5",
+            "10"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：135个十分之一减35个十分之一，得100个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 统一成十分之一来想：135个十分之一减35个十分之一，得100个十分之一。\\[\\begin{aligned}&13.5-3.5\\\\={}&10\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（5）}\\par 统一成十分之一来想：4个十分之一加12个十分之一，得16个十分之一。\\[\\begin{aligned}&0.4+1.2\\\\={}&1.6\\end{aligned}\\]\\par \\textbf{（6）}\\par 统一成十分之一来想：79个十分之一减19个十分之一，得60个十分之一。\\[\\begin{aligned}&7.9-1.9\\\\={}&6\\end{aligned}\\]\\par \\textbf{（7）}\\par 统一成十分之一来想：73个十分之一加18个十分之一，得91个十分之一。\\[\\begin{aligned}&7.3+1.8\\\\={}&9.1\\end{aligned}\\]\\par \\textbf{（8）}\\par 统一成十分之一来想：135个十分之一减35个十分之一，得100个十分之一。\\[\\begin{aligned}&13.5-3.5\\\\={}&10\\end{aligned}\\]",
+      "original_answer_latex": "\\(0.4+1.2=1.6\\)；\\(7.9-1.9=6\\)；\\(7.3+1.8=9.1\\)；\\(13.5-3.5=10\\)。同数位相加减，小数点位置不变。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p094_s08": {
+      "book_page": 94,
+      "source_page": 98,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p094_s08_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "14\\times60",
+          "is_estimate": false,
+          "exact_result": "840",
+          "result": "840",
+          "steps": [
+            "14\\times60",
+            "14\\times6\\times10",
+            "84\\times10",
+            "840"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "先算14乘6，再乘10。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 先算14乘6，再乘10。\\[\\begin{aligned}&14\\times60\\\\={}&14\\times6\\times10\\\\={}&84\\times10\\\\={}&840\\end{aligned}\\]"
+        },
+        {
+          "key": "p094_s08_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "6.5+7.09",
+          "is_estimate": false,
+          "exact_result": "13.59",
+          "result": "13.59",
+          "steps": [
+            "6.5+7.09",
+            "6.50+7.09",
+            "13.59"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：650个百分之一加709个百分之一，得1359个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 统一成百分之一来想：650个百分之一加709个百分之一，得1359个百分之一。\\[\\begin{aligned}&6.5+7.09\\\\={}&6.50+7.09\\\\={}&13.59\\end{aligned}\\]"
+        },
+        {
+          "key": "p094_s08_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "25\\times4\\div25\\times4",
+          "is_estimate": false,
+          "exact_result": "16",
+          "result": "16",
+          "steps": [
+            "25\\times4\\div25\\times4",
+            "100\\div25\\times4",
+            "4\\times4",
+            "16"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "同级运算从左往右依次计算。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&25\\times4\\div25\\times4\\\\={}&100\\div25\\times4\\\\={}&4\\times4\\\\={}&16\\end{aligned}\\]"
+        },
+        {
+          "key": "p094_s08_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "7-1.8",
+          "is_estimate": false,
+          "exact_result": "5.2",
+          "result": "5.2",
+          "steps": [
+            "7-1.8",
+            "7.0-1.8",
+            "5.2"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：70个十分之一减18个十分之一，得52个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 统一成十分之一来想：70个十分之一减18个十分之一，得52个十分之一。\\[\\begin{aligned}&7-1.8\\\\={}&7.0-1.8\\\\={}&5.2\\end{aligned}\\]"
+        },
+        {
+          "key": "p094_s08_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "70\\div1000",
+          "is_estimate": false,
+          "exact_result": "0.07",
+          "result": "0.07",
+          "steps": [
+            "70\\div1000",
+            "0.07"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以1000，小数点向左移动3位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 除以1000，小数点向左移动3位；位数不够时补0。\\[\\begin{aligned}&70\\div1000\\\\={}&0.07\\end{aligned}\\]"
+        },
+        {
+          "key": "p094_s08_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "10-0.1",
+          "is_estimate": false,
+          "exact_result": "9.9",
+          "result": "9.9",
+          "steps": [
+            "10-0.1",
+            "10.0-0.1",
+            "9.9"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：100个十分之一减1个十分之一，得99个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 统一成十分之一来想：100个十分之一减1个十分之一，得99个十分之一。\\[\\begin{aligned}&10-0.1\\\\={}&10.0-0.1\\\\={}&9.9\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 先算14乘6，再乘10。\\[\\begin{aligned}&14\\times60\\\\={}&14\\times6\\times10\\\\={}&84\\times10\\\\={}&840\\end{aligned}\\]\\par \\textbf{（2）}\\par 统一成百分之一来想：650个百分之一加709个百分之一，得1359个百分之一。\\[\\begin{aligned}&6.5+7.09\\\\={}&6.50+7.09\\\\={}&13.59\\end{aligned}\\]\\par \\textbf{（3）}\\par 同级运算从左往右依次计算。\\[\\begin{aligned}&25\\times4\\div25\\times4\\\\={}&100\\div25\\times4\\\\={}&4\\times4\\\\={}&16\\end{aligned}\\]\\par \\textbf{（4）}\\par 统一成十分之一来想：70个十分之一减18个十分之一，得52个十分之一。\\[\\begin{aligned}&7-1.8\\\\={}&7.0-1.8\\\\={}&5.2\\end{aligned}\\]\\par \\textbf{（5）}\\par 除以1000，小数点向左移动3位；位数不够时补0。\\[\\begin{aligned}&70\\div1000\\\\={}&0.07\\end{aligned}\\]\\par \\textbf{（6）}\\par 统一成十分之一来想：100个十分之一减1个十分之一，得99个十分之一。\\[\\begin{aligned}&10-0.1\\\\={}&10.0-0.1\\\\={}&9.9\\end{aligned}\\]",
+      "original_answer_latex": "按原题行列：\\par 第一行：\\(840,13.59,16\\)；\\par 第二行：\\(5.2,0.07,9.9\\)。\\par 要点：\\(25\\times4\\div25\\times4\\)同级运算从左到右，\\(100\\div25\\times4=16\\)；\\(70\\div1000=0.07\\)。小数加减时对齐小数点。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p099_s02": {
+      "book_page": 99,
+      "source_page": 103,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p099_s02_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "4.3+5.6",
+          "is_estimate": false,
+          "exact_result": "9.9",
+          "result": "9.9",
+          "steps": [
+            "4.3+5.6",
+            "9.9"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：43个十分之一加56个十分之一，得99个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 统一成十分之一来想：43个十分之一加56个十分之一，得99个十分之一。\\[\\begin{aligned}&4.3+5.6\\\\={}&9.9\\end{aligned}\\]"
+        },
+        {
+          "key": "p099_s02_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "9.74-3.4",
+          "is_estimate": false,
+          "exact_result": "6.34",
+          "result": "6.34",
+          "steps": [
+            "9.74-3.4",
+            "9.74-3.40",
+            "6.34"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：974个百分之一减340个百分之一，得634个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 统一成百分之一来想：974个百分之一减340个百分之一，得634个百分之一。\\[\\begin{aligned}&9.74-3.4\\\\={}&9.74-3.40\\\\={}&6.34\\end{aligned}\\]"
+        },
+        {
+          "key": "p099_s02_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "0.58+0.3",
+          "is_estimate": false,
+          "exact_result": "0.88",
+          "result": "0.88",
+          "steps": [
+            "0.58+0.3",
+            "0.58+0.30",
+            "0.88"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：58个百分之一加30个百分之一，得88个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 统一成百分之一来想：58个百分之一加30个百分之一，得88个百分之一。\\[\\begin{aligned}&0.58+0.3\\\\={}&0.58+0.30\\\\={}&0.88\\end{aligned}\\]"
+        },
+        {
+          "key": "p099_s02_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "8.25-2.25",
+          "is_estimate": false,
+          "exact_result": "6",
+          "result": "6",
+          "steps": [
+            "8.25-2.25",
+            "6"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成百分之一来想：825个百分之一减225个百分之一，得600个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 统一成百分之一来想：825个百分之一减225个百分之一，得600个百分之一。\\[\\begin{aligned}&8.25-2.25\\\\={}&6\\end{aligned}\\]"
+        },
+        {
+          "key": "p099_s02_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "2.4\\times5",
+          "is_estimate": false,
+          "exact_result": "12",
+          "result": "12",
+          "steps": [
+            "2.4\\times5",
+            "(24\\times5)\\div10",
+            "120\\div10",
+            "12"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "2.4表示24个十分之一；5份共有24乘5，即120个十分之一，也就是12。",
+          "numeric_verified": true,
+          "scope_note": "原题含非10幂的小数乘法；本册未系统学习一般小数乘法。本解按计数单位转成整数乘法和除以10或100，不使用后续小数乘法竖式。",
+          "answer_latex": "\\textbf{（5）}\\par 2.4表示24个十分之一；5份共有24乘5，即120个十分之一，也就是12。\\[\\begin{aligned}&2.4\\times5\\\\={}&(24\\times5)\\div10\\\\={}&120\\div10\\\\={}&12\\end{aligned}\\]"
+        },
+        {
+          "key": "p099_s02_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "1.25\\times8",
+          "is_estimate": false,
+          "exact_result": "10",
+          "result": "10",
+          "steps": [
+            "1.25\\times8",
+            "(125\\times8)\\div100",
+            "1000\\div100",
+            "10"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "1.25表示125个百分之一；8份共有125乘8，即1000个百分之一，也就是10。这里只用整数乘法与小数点移动。",
+          "numeric_verified": true,
+          "scope_note": "原题含非10幂的小数乘法；本册未系统学习一般小数乘法。本解按计数单位转成整数乘法和除以10或100，不使用后续小数乘法竖式。",
+          "answer_latex": "\\textbf{（6）}\\par 1.25表示125个百分之一；8份共有125乘8，即1000个百分之一，也就是10。这里只用整数乘法与小数点移动。\\[\\begin{aligned}&1.25\\times8\\\\={}&(125\\times8)\\div100\\\\={}&1000\\div100\\\\={}&10\\end{aligned}\\]"
+        },
+        {
+          "key": "p099_s02_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "45+240\\div8",
+          "is_estimate": false,
+          "exact_result": "75",
+          "result": "75",
+          "steps": [
+            "45+240\\div8",
+            "45+30",
+            "75"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&45+240\\div8\\\\={}&45+30\\\\={}&75\\end{aligned}\\]"
+        },
+        {
+          "key": "p099_s02_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "12\\times5-30",
+          "is_estimate": false,
+          "exact_result": "30",
+          "result": "30",
+          "steps": [
+            "12\\times5-30",
+            "60-30",
+            "30"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&12\\times5-30\\\\={}&60-30\\\\={}&30\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 统一成十分之一来想：43个十分之一加56个十分之一，得99个十分之一。\\[\\begin{aligned}&4.3+5.6\\\\={}&9.9\\end{aligned}\\]\\par \\textbf{（2）}\\par 统一成百分之一来想：974个百分之一减340个百分之一，得634个百分之一。\\[\\begin{aligned}&9.74-3.4\\\\={}&9.74-3.40\\\\={}&6.34\\end{aligned}\\]\\par \\textbf{（3）}\\par 统一成百分之一来想：58个百分之一加30个百分之一，得88个百分之一。\\[\\begin{aligned}&0.58+0.3\\\\={}&0.58+0.30\\\\={}&0.88\\end{aligned}\\]\\par \\textbf{（4）}\\par 统一成百分之一来想：825个百分之一减225个百分之一，得600个百分之一。\\[\\begin{aligned}&8.25-2.25\\\\={}&6\\end{aligned}\\]\\par \\textbf{（5）}\\par 2.4表示24个十分之一；5份共有24乘5，即120个十分之一，也就是12。\\[\\begin{aligned}&2.4\\times5\\\\={}&(24\\times5)\\div10\\\\={}&120\\div10\\\\={}&12\\end{aligned}\\]\\par \\textbf{（6）}\\par 1.25表示125个百分之一；8份共有125乘8，即1000个百分之一，也就是10。这里只用整数乘法与小数点移动。\\[\\begin{aligned}&1.25\\times8\\\\={}&(125\\times8)\\div100\\\\={}&1000\\div100\\\\={}&10\\end{aligned}\\]\\par \\textbf{（7）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&45+240\\div8\\\\={}&45+30\\\\={}&75\\end{aligned}\\]\\par \\textbf{（8）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&12\\times5-30\\\\={}&60-30\\\\={}&30\\end{aligned}\\]",
+      "original_answer_latex": "按原排列，第一行\\(9.9,6.34,0.88,6\\)；第二行\\(12,10,75,30\\)。\\par \\(45+240\\div8\\)先除后加，\\(240\\div8=30\\)，\\(45+30=75\\)；\\(12\\times5-30=60-30=30\\)。其余小数加减要对齐小数点。\\par 本阶段对\\(2.4\\times5\\)可按计数单位理解：24个十分之一的5倍是120个十分之一，即12；\\(1.25\\times8\\)是125个百分之一的8倍，等于1000个百分之一，即10。不需套用尚未系统学习的一般小数乘法竖式。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p103_s03": {
+      "book_page": 103,
+      "source_page": 107,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p103_s03_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "3.26+0.4",
+          "is_estimate": false,
+          "exact_result": "3.66",
+          "result": "3.66",
+          "steps": [
+            "3.26+0.4",
+            "3.26+0.40",
+            "3.66"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：326个百分之一加40个百分之一，得366个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 统一成百分之一来想：326个百分之一加40个百分之一，得366个百分之一。\\[\\begin{aligned}&3.26+0.4\\\\={}&3.26+0.40\\\\={}&3.66\\end{aligned}\\]"
+        },
+        {
+          "key": "p103_s03_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "4.37+2.7",
+          "is_estimate": false,
+          "exact_result": "7.07",
+          "result": "7.07",
+          "steps": [
+            "4.37+2.7",
+            "4.37+2.70",
+            "7.07"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：437个百分之一加270个百分之一，得707个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 统一成百分之一来想：437个百分之一加270个百分之一，得707个百分之一。\\[\\begin{aligned}&4.37+2.7\\\\={}&4.37+2.70\\\\={}&7.07\\end{aligned}\\]"
+        },
+        {
+          "key": "p103_s03_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "5.6-4",
+          "is_estimate": false,
+          "exact_result": "1.6",
+          "result": "1.6",
+          "steps": [
+            "5.6-4",
+            "5.6-4.0",
+            "1.6"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成十分之一来想：56个十分之一减40个十分之一，得16个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 统一成十分之一来想：56个十分之一减40个十分之一，得16个十分之一。\\[\\begin{aligned}&5.6-4\\\\={}&5.6-4.0\\\\={}&1.6\\end{aligned}\\]"
+        },
+        {
+          "key": "p103_s03_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "62+38\\times0",
+          "is_estimate": false,
+          "exact_result": "62",
+          "result": "62",
+          "steps": [
+            "62+38\\times0",
+            "62+0",
+            "62"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "先算乘除，再算加减；同一步中独立的运算同时完成。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&62+38\\times0\\\\={}&62+0\\\\={}&62\\end{aligned}\\]"
+        },
+        {
+          "key": "p103_s03_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "0.65+0.35",
+          "is_estimate": false,
+          "exact_result": "1",
+          "result": "1",
+          "steps": [
+            "0.65+0.35",
+            "1"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成百分之一来想：65个百分之一加35个百分之一，得100个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 统一成百分之一来想：65个百分之一加35个百分之一，得100个百分之一。\\[\\begin{aligned}&0.65+0.35\\\\={}&1\\end{aligned}\\]"
+        },
+        {
+          "key": "p103_s03_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "0.6\\div100",
+          "is_estimate": false,
+          "exact_result": "0.006",
+          "result": "0.006",
+          "steps": [
+            "0.6\\div100",
+            "0.006"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以100，小数点向左移动2位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&0.6\\div100\\\\={}&0.006\\end{aligned}\\]"
+        },
+        {
+          "key": "p103_s03_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "8-2.68",
+          "is_estimate": false,
+          "exact_result": "5.32",
+          "result": "5.32",
+          "steps": [
+            "8-2.68",
+            "8.00-2.68",
+            "5.32"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：800个百分之一减268个百分之一，得532个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 统一成百分之一来想：800个百分之一减268个百分之一，得532个百分之一。\\[\\begin{aligned}&8-2.68\\\\={}&8.00-2.68\\\\={}&5.32\\end{aligned}\\]"
+        },
+        {
+          "key": "p103_s03_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "4.32\\times1000",
+          "is_estimate": false,
+          "exact_result": "4320",
+          "result": "4320",
+          "steps": [
+            "4.32\\times1000",
+            "4320"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "乘1000，小数点向右移动3位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 乘1000，小数点向右移动3位；位数不够时补0。\\[\\begin{aligned}&4.32\\times1000\\\\={}&4320\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 统一成百分之一来想：326个百分之一加40个百分之一，得366个百分之一。\\[\\begin{aligned}&3.26+0.4\\\\={}&3.26+0.40\\\\={}&3.66\\end{aligned}\\]\\par \\textbf{（2）}\\par 统一成百分之一来想：437个百分之一加270个百分之一，得707个百分之一。\\[\\begin{aligned}&4.37+2.7\\\\={}&4.37+2.70\\\\={}&7.07\\end{aligned}\\]\\par \\textbf{（3）}\\par 统一成十分之一来想：56个十分之一减40个十分之一，得16个十分之一。\\[\\begin{aligned}&5.6-4\\\\={}&5.6-4.0\\\\={}&1.6\\end{aligned}\\]\\par \\textbf{（4）}\\par 先算乘除，再算加减；同一步中独立的运算同时完成。\\[\\begin{aligned}&62+38\\times0\\\\={}&62+0\\\\={}&62\\end{aligned}\\]\\par \\textbf{（5）}\\par 统一成百分之一来想：65个百分之一加35个百分之一，得100个百分之一。\\[\\begin{aligned}&0.65+0.35\\\\={}&1\\end{aligned}\\]\\par \\textbf{（6）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&0.6\\div100\\\\={}&0.006\\end{aligned}\\]\\par \\textbf{（7）}\\par 统一成百分之一来想：800个百分之一减268个百分之一，得532个百分之一。\\[\\begin{aligned}&8-2.68\\\\={}&8.00-2.68\\\\={}&5.32\\end{aligned}\\]\\par \\textbf{（8）}\\par 乘1000，小数点向右移动3位；位数不够时补0。\\[\\begin{aligned}&4.32\\times1000\\\\={}&4320\\end{aligned}\\]",
+      "original_answer_latex": "按原题行列依次为：\\par 第一行\\(3.66,7.07,1.6,62\\)；\\par 第二行\\(1,0.006,5.32,4320\\)。\\par 要点：\\(62+38\\times0=62+0=62\\)，先乘后加；\\(0.6\\div100=0.006\\)；\\(4.32\\times1000=4320\\)。小数加减对齐小数点。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    },
+    "p107_s01": {
+      "book_page": 107,
+      "source_page": 111,
+      "question_id": "三、1",
+      "subquestions": [
+        {
+          "key": "p107_s01_oral_01",
+          "local_index": 1,
+          "original_subquestion_number": 1,
+          "display_label": "（1）",
+          "expression_latex": "3.7+4.3",
+          "is_estimate": false,
+          "exact_result": "8",
+          "result": "8",
+          "steps": [
+            "3.7+4.3",
+            "8"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：37个十分之一加43个十分之一，得80个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（1）}\\par 统一成十分之一来想：37个十分之一加43个十分之一，得80个十分之一。\\[\\begin{aligned}&3.7+4.3\\\\={}&8\\end{aligned}\\]"
+        },
+        {
+          "key": "p107_s01_oral_02",
+          "local_index": 2,
+          "original_subquestion_number": 2,
+          "display_label": "（2）",
+          "expression_latex": "8.36-5.3",
+          "is_estimate": false,
+          "exact_result": "3.06",
+          "result": "3.06",
+          "steps": [
+            "8.36-5.3",
+            "8.36-5.30",
+            "3.06"
+          ],
+          "relations": [
+            "=",
+            "="
+          ],
+          "strategy": "统一成百分之一来想：836个百分之一减530个百分之一，得306个百分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（2）}\\par 统一成百分之一来想：836个百分之一减530个百分之一，得306个百分之一。\\[\\begin{aligned}&8.36-5.3\\\\={}&8.36-5.30\\\\={}&3.06\\end{aligned}\\]"
+        },
+        {
+          "key": "p107_s01_oral_03",
+          "local_index": 3,
+          "original_subquestion_number": 3,
+          "display_label": "（3）",
+          "expression_latex": "0.49\\times100",
+          "is_estimate": false,
+          "exact_result": "49",
+          "result": "49",
+          "steps": [
+            "0.49\\times100",
+            "49"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "乘100，小数点向右移动2位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（3）}\\par 乘100，小数点向右移动2位；位数不够时补0。\\[\\begin{aligned}&0.49\\times100\\\\={}&49\\end{aligned}\\]"
+        },
+        {
+          "key": "p107_s01_oral_04",
+          "local_index": 4,
+          "original_subquestion_number": 4,
+          "display_label": "（4）",
+          "expression_latex": "280\\div5\\div2",
+          "is_estimate": false,
+          "exact_result": "28",
+          "result": "28",
+          "steps": [
+            "280\\div5\\div2",
+            "280\\div(5\\times2)",
+            "280\\div10",
+            "28"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "把两个除数5与2先相乘凑成10。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（4）}\\par 把两个除数5与2先相乘凑成10。\\[\\begin{aligned}&280\\div5\\div2\\\\={}&280\\div(5\\times2)\\\\={}&280\\div10\\\\={}&28\\end{aligned}\\]"
+        },
+        {
+          "key": "p107_s01_oral_05",
+          "local_index": 5,
+          "original_subquestion_number": 5,
+          "display_label": "（5）",
+          "expression_latex": "9\\div100",
+          "is_estimate": false,
+          "exact_result": "0.09",
+          "result": "0.09",
+          "steps": [
+            "9\\div100",
+            "0.09"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "除以100，小数点向左移动2位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（5）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&9\\div100\\\\={}&0.09\\end{aligned}\\]"
+        },
+        {
+          "key": "p107_s01_oral_06",
+          "local_index": 6,
+          "original_subquestion_number": 6,
+          "display_label": "（6）",
+          "expression_latex": "0.2\\times1000",
+          "is_estimate": false,
+          "exact_result": "200",
+          "result": "200",
+          "steps": [
+            "0.2\\times1000",
+            "200"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "乘1000，小数点向右移动3位；位数不够时补0。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（6）}\\par 乘1000，小数点向右移动3位；位数不够时补0。\\[\\begin{aligned}&0.2\\times1000\\\\={}&200\\end{aligned}\\]"
+        },
+        {
+          "key": "p107_s01_oral_07",
+          "local_index": 7,
+          "original_subquestion_number": 7,
+          "display_label": "（7）",
+          "expression_latex": "6.4+4.6",
+          "is_estimate": false,
+          "exact_result": "11",
+          "result": "11",
+          "steps": [
+            "6.4+4.6",
+            "11"
+          ],
+          "relations": [
+            "="
+          ],
+          "strategy": "统一成十分之一来想：64个十分之一加46个十分之一，得110个十分之一。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（7）}\\par 统一成十分之一来想：64个十分之一加46个十分之一，得110个十分之一。\\[\\begin{aligned}&6.4+4.6\\\\={}&11\\end{aligned}\\]"
+        },
+        {
+          "key": "p107_s01_oral_08",
+          "local_index": 8,
+          "original_subquestion_number": 8,
+          "display_label": "（8）",
+          "expression_latex": "35\\times25\\times4",
+          "is_estimate": false,
+          "exact_result": "3500",
+          "result": "3500",
+          "steps": [
+            "35\\times25\\times4",
+            "35\\times(25\\times4)",
+            "35\\times100",
+            "3500"
+          ],
+          "relations": [
+            "=",
+            "=",
+            "="
+          ],
+          "strategy": "运用乘法结合律，先让25与4凑成100。",
+          "numeric_verified": true,
+          "scope_note": null,
+          "answer_latex": "\\textbf{（8）}\\par 运用乘法结合律，先让25与4凑成100。\\[\\begin{aligned}&35\\times25\\times4\\\\={}&35\\times(25\\times4)\\\\={}&35\\times100\\\\={}&3500\\end{aligned}\\]"
+        }
+      ],
+      "replacement_answer_latex": "\\textbf{（1）}\\par 统一成十分之一来想：37个十分之一加43个十分之一，得80个十分之一。\\[\\begin{aligned}&3.7+4.3\\\\={}&8\\end{aligned}\\]\\par \\textbf{（2）}\\par 统一成百分之一来想：836个百分之一减530个百分之一，得306个百分之一。\\[\\begin{aligned}&8.36-5.3\\\\={}&8.36-5.30\\\\={}&3.06\\end{aligned}\\]\\par \\textbf{（3）}\\par 乘100，小数点向右移动2位；位数不够时补0。\\[\\begin{aligned}&0.49\\times100\\\\={}&49\\end{aligned}\\]\\par \\textbf{（4）}\\par 把两个除数5与2先相乘凑成10。\\[\\begin{aligned}&280\\div5\\div2\\\\={}&280\\div(5\\times2)\\\\={}&280\\div10\\\\={}&28\\end{aligned}\\]\\par \\textbf{（5）}\\par 除以100，小数点向左移动2位；位数不够时补0。\\[\\begin{aligned}&9\\div100\\\\={}&0.09\\end{aligned}\\]\\par \\textbf{（6）}\\par 乘1000，小数点向右移动3位；位数不够时补0。\\[\\begin{aligned}&0.2\\times1000\\\\={}&200\\end{aligned}\\]\\par \\textbf{（7）}\\par 统一成十分之一来想：64个十分之一加46个十分之一，得110个十分之一。\\[\\begin{aligned}&6.4+4.6\\\\={}&11\\end{aligned}\\]\\par \\textbf{（8）}\\par 运用乘法结合律，先让25与4凑成100。\\[\\begin{aligned}&35\\times25\\times4\\\\={}&35\\times(25\\times4)\\\\={}&35\\times100\\\\={}&3500\\end{aligned}\\]",
+      "original_answer_latex": "按原题行列，第一行\\(8,3.06,49,28\\)；第二行\\(0.09,200,11,3500\\)。\\par \\(280\\div5\\div2=280\\div(5\\times2)=28\\)；\\(35\\times25\\times4=35\\times100=3500\\)。\\(0.49\\times100\\)小数点右移两位，\\(9\\div100\\)左移两位。",
+      "replace_answer": true,
+      "preserve_question": true,
+      "aggregated": true
+    }
+  },
+  "summary": {
+    "records": 51,
+    "subquestions": 142,
+    "aggregated_records": 15,
+    "aggregated_subquestions": 106,
+    "estimate_subquestions": 2,
+    "scope_cautions": [
+      {
+        "record_key": "p099_s02",
+        "local_index": 5,
+        "expression": "2.4\\times5",
+        "note": "原题含非10幂的小数乘法；本册未系统学习一般小数乘法。本解按计数单位转成整数乘法和除以10或100，不使用后续小数乘法竖式。"
+      },
+      {
+        "record_key": "p099_s02",
+        "local_index": 6,
+        "expression": "1.25\\times8",
+        "note": "原题含非10幂的小数乘法；本册未系统学习一般小数乘法。本解按计数单位转成整数乘法和除以10或100，不使用后续小数乘法竖式。"
+      }
+    ]
+  },
+  "scope": "All explicitly labelled oral/direct-answer calculations in the reviewed 108 pages. Statistical/average applications, column calculations, and designated written/simplified calculations are excluded. Exact rational validation covers every generated equality; approximation steps preserve ≈ and do not claim exact equality."
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "tex": "(720\\times2)\\div(12+8)",
+    "stem": "simplify_2a3e6b5fe463f0d08c600f0c",
+    "source": "ppt_parentheses/formulas/simplify_2a3e6b5fe463f0d08c600f0c.tex",
+    "pdf": "ppt_parentheses/formulas/simplify_2a3e6b5fe463f0d08c600f0c.pdf",
+    "svg": "ppt_parentheses/formulas/simplify_2a3e6b5fe463f0d08c600f0c.svg",
+    "png": "ppt_parentheses/formulas/simplify_2a3e6b5fe463f0d08c600f0c.png"
+  },
+  {
+    "tex": "(720\\times2)\\div20",
+    "stem": "simplify_578b9113474d310e9b74f724",
+    "source": "ppt_parentheses/formulas/simplify_578b9113474d310e9b74f724.tex",
+    "pdf": "ppt_parentheses/formulas/simplify_578b9113474d310e9b74f724.pdf",
+    "svg": "ppt_parentheses/formulas/simplify_578b9113474d310e9b74f724.svg",
+    "png": "ppt_parentheses/formulas/simplify_578b9113474d310e9b74f724.png"
+  },
+  {
+    "tex": "720\\times(2\\div2)\\div10",
+    "stem": "simplify_17015a24ecfa143ea92eb036",
+    "source": "ppt_parentheses/formulas/simplify_17015a24ecfa143ea92eb036.tex",
+    "pdf": "ppt_parentheses/formulas/simplify_17015a24ecfa143ea92eb036.pdf",
+    "svg": "ppt_parentheses/formulas/simplify_17015a24ecfa143ea92eb036.svg",
+    "png": "ppt_parentheses/formulas/simplify_17015a24ecfa143ea92eb036.png"
+  }
+]

@@ -1,0 +1,286 @@
+{
+  "passed": true,
+  "pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+  "previous_pdf_sha256": "69c0f750e07f3e92d75985b56c888199cb10305f1a8b298ce9b350e8eaa798eb",
+  "book_page": 78,
+  "pdf_page": 82,
+  "plans": {
+    "p078_s01": {
+      "kind": "note",
+      "old": [
+        78.0,
+        270.5,
+        574.0,
+        323.1699981689453
+      ],
+      "new": [
+        78.0,
+        270.5,
+        572.6666666666666,
+        322.9900016784668
+      ],
+      "book_page": 78
+    },
+    "p078_s05": {
+      "kind": "note",
+      "old": [
+        78.0,
+        982.5,
+        577.3333333333333,
+        1021.0499992370605
+      ],
+      "new": [
+        78.0,
+        982.5,
+        571.0,
+        1007.3199996948242
+      ],
+      "book_page": 78
+    },
+    "p078_s06": {
+      "kind": "note",
+      "old": [
+        78.0,
+        1099.5,
+        581.3333333333333,
+        1177.0
+      ],
+      "new": [
+        78.0,
+        1099.5,
+        581.3333333333333,
+        1177.0
+      ],
+      "book_page": 78
+    },
+    "p078_s01_local1": {
+      "kind": "black_source_correction",
+      "old": [
+        446.75,
+        76.25,
+        466.75,
+        87.25
+      ],
+      "new": [
+        447.5,
+        77,
+        466,
+        86.5
+      ],
+      "book_page": 78,
+      "semantic_kind": "mean_height"
+    },
+    "p078_s01_local2": {
+      "kind": "black_source_correction",
+      "old": [
+        234.25,
+        133.25,
+        251.75,
+        142.75
+      ],
+      "new": [
+        235,
+        134,
+        251,
+        142
+      ],
+      "book_page": 78,
+      "semantic_kind": "ride_threshold"
+    },
+    "p078_s01_local3": {
+      "kind": "black_source_correction",
+      "old": [
+        342.25,
+        49.75,
+        467.25,
+        63.75
+      ],
+      "new": [
+        343,
+        50.5,
+        466.5,
+        63
+      ],
+      "book_page": 78,
+      "semantic_kind": "section_score"
+    },
+    "p078_s05_local1": {
+      "kind": "black_source_correction",
+      "old": [
+        397,
+        550,
+        539,
+        643
+      ],
+      "new": [
+        397,
+        550,
+        539,
+        643
+      ],
+      "book_page": 78,
+      "semantic_kind": "black_scatter_graph_photo_reconstruction"
+    },
+    "p078_s06_local1": {
+      "kind": "black_source_correction",
+      "old": [
+        282.25,
+        700.25,
+        310.25,
+        713.75
+      ],
+      "new": [
+        283,
+        701,
+        309.5,
+        713
+      ],
+      "book_page": 78,
+      "semantic_kind": "black_term_photo_reconstruction"
+    }
+  },
+  "changed_snippet_ids": [
+    "p078_s01",
+    "p078_s01_local1",
+    "p078_s01_local2",
+    "p078_s01_local3",
+    "p078_s05",
+    "p078_s05_local1",
+    "p078_s06",
+    "p078_s06_local1"
+  ],
+  "source_names": {
+    "p078_s01_local1": "P078Prompt_p078_s01_local1",
+    "p078_s01_local2": "P078Prompt_p078_s01_local2",
+    "p078_s01_local3": "P078Prompt_p078_s01_local3",
+    "p078_s05_local1": "P078Prompt_p078_s05_local1",
+    "p078_s06_local1": "P078Prompt_p078_s06_local1"
+  },
+  "black_corrections": [
+    {
+      "key": "p078_s01",
+      "id": "p078_s01_local1",
+      "book_page": 78,
+      "kind": "mean_height",
+      "old_displayed_value": "138",
+      "new_photo_value": "136",
+      "mask_rect": [
+        446.75,
+        76.25,
+        466.75,
+        87.25
+      ],
+      "target_rect": [
+        447.5,
+        77,
+        466,
+        86.5
+      ],
+      "latex": "{\\color{black}\\(\\mathrm{136}\\)}",
+      "fit_policy": "vector glyph ink fitted to original number ink rectangle",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+    },
+    {
+      "key": "p078_s01",
+      "id": "p078_s01_local2",
+      "book_page": 78,
+      "kind": "ride_threshold",
+      "old_displayed_value": "146",
+      "new_photo_value": "140",
+      "mask_rect": [
+        234.25,
+        133.25,
+        251.75,
+        142.75
+      ],
+      "target_rect": [
+        235,
+        134,
+        251,
+        142
+      ],
+      "latex": "{\\color{black}\\(\\mathrm{140}\\)}",
+      "fit_policy": "vector glyph ink fitted to original number ink rectangle",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+    },
+    {
+      "key": "p078_s01",
+      "id": "p078_s01_local3",
+      "book_page": 78,
+      "kind": "section_score",
+      "old_displayed_value": "原黑括注字形受损，且显示共19分",
+      "new_photo_value": "（每题2分，共12分）",
+      "mask_rect": [
+        342.25,
+        49.75,
+        467.25,
+        63.75
+      ],
+      "target_rect": [
+        343,
+        50.5,
+        466.5,
+        63
+      ],
+      "latex": "{\\color{black}（每题2分，共12分）}",
+      "fit_policy": "correct full parenthetical rendered inside original parenthetical ink rectangle",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143",
+      "entire_parenthetical_restored": true
+    },
+    {
+      "key": "p078_s05",
+      "id": "p078_s05_local1",
+      "book_page": 78,
+      "kind": "black_scatter_graph_photo_reconstruction",
+      "mask_rect": [
+        397,
+        550,
+        539,
+        643
+      ],
+      "target_rect": [
+        397,
+        550,
+        539,
+        643
+      ],
+      "latex": "{\\color{black}\\input{p078_update/assets/p078_temperatures_photo.tikz}}",
+      "fit_policy": "fit compiled TikZ vector ink to original graph rectangle",
+      "diagram_source": "p078_update/assets/p078_temperatures_photo.tikz",
+      "point_count": 16,
+      "rows": 4,
+      "points_per_row": 4
+    },
+    {
+      "key": "p078_s06",
+      "id": "p078_s06_local1",
+      "book_page": 78,
+      "kind": "black_term_photo_reconstruction",
+      "mask_rect": [
+        282.25,
+        700.25,
+        310.25,
+        713.75
+      ],
+      "target_rect": [
+        283,
+        701,
+        309.5,
+        713
+      ],
+      "latex": "{\\color{black}秧歌}",
+      "new_photo_value": "秧歌",
+      "fit_policy": "restore exact two Chinese glyphs inside original damaged-word rectangle",
+      "source_photo_sha256": "5d75f494b69410e18e6975a11d51f86397cd36c1d94402d457bcdbf5bcd4a143"
+    }
+  ],
+  "pages": 128,
+  "page82_size": [
+    595,
+    1248.0
+  ],
+  "other127_pages_identical": true,
+  "first_page_blank": true,
+  "local_patch_count": 92,
+  "source_region_replacements": 22
+}

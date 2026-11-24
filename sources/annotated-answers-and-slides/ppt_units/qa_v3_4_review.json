@@ -1,0 +1,1526 @@
+{
+  "role": "independent_read_only_visual_QA",
+  "generation": "FINAL_RENDER_READY",
+  "volumes": [
+    {
+      "volume": 3,
+      "final_pptx": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final/小学四上同步素养卷第3册讲解课件答案.pptx",
+      "final_pptx_sha256": "6929bfd6489d70571e129a83bbdba2e1205c0b8d6d05a1ee9c940938552bb3a0",
+      "object_contacts_actually_viewed": [
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-001.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-002.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-003.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-004.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-005.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-006.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-007.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-008.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-009.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-010.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-011.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-012.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-013.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume03/sheet-014.png"
+      ],
+      "edited_object_count_actually_viewed": 84,
+      "objects_actually_viewed": [
+        {
+          "slide": 8,
+          "record_key": "p037_s03",
+          "name": "p037_s03_b004_5",
+          "id": "14",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-001.png",
+          "row": 1
+        },
+        {
+          "slide": 79,
+          "record_key": "p039_s05",
+          "name": "p039_s05_b005_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-001.png",
+          "row": 2
+        },
+        {
+          "slide": 80,
+          "record_key": "p039_s05",
+          "name": "p039_s05_b009_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-001.png",
+          "row": 3
+        },
+        {
+          "slide": 90,
+          "record_key": "p040_s02",
+          "name": "p040_s02_b004_1",
+          "id": "6",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-001.png",
+          "row": 4
+        },
+        {
+          "slide": 90,
+          "record_key": "p040_s02",
+          "name": "p040_s02_b007_5",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-001.png",
+          "row": 5
+        },
+        {
+          "slide": 91,
+          "record_key": "p040_s02",
+          "name": "p040_s02_b009_1",
+          "id": "6",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-001.png",
+          "row": 6
+        },
+        {
+          "slide": 99,
+          "record_key": "p040_s03",
+          "name": "p040_s03_b004_4",
+          "id": "9",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-002.png",
+          "row": 1
+        },
+        {
+          "slide": 122,
+          "record_key": "p042_s01",
+          "name": "p042_s01_b004_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-002.png",
+          "row": 2
+        },
+        {
+          "slide": 122,
+          "record_key": "p042_s01",
+          "name": "p042_s01_b006_4",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-002.png",
+          "row": 3
+        },
+        {
+          "slide": 166,
+          "record_key": "p043_s03",
+          "name": "p043_s03_b004_5",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-002.png",
+          "row": 4
+        },
+        {
+          "slide": 167,
+          "record_key": "p043_s03",
+          "name": "p043_s03_b009_3_simplify_rhs1",
+          "id": "20",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-002.png",
+          "row": 5
+        },
+        {
+          "slide": 169,
+          "record_key": "p043_s04",
+          "name": "p043_s04_b005_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-002.png",
+          "row": 6
+        },
+        {
+          "slide": 169,
+          "record_key": "p043_s04",
+          "name": "p043_s04_b009_6",
+          "id": "14",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 1
+        },
+        {
+          "slide": 171,
+          "record_key": "p044_s01",
+          "name": "p044_s01_b004_6",
+          "id": "12",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 2
+        },
+        {
+          "slide": 172,
+          "record_key": "p044_s01",
+          "name": "p044_s01_b008_4",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 3
+        },
+        {
+          "slide": 174,
+          "record_key": "p044_s02",
+          "name": "p044_s02_b006_3",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 4
+        },
+        {
+          "slide": 175,
+          "record_key": "p044_s02",
+          "name": "p044_s02_b010_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 5
+        },
+        {
+          "slide": 176,
+          "record_key": "p044_s03",
+          "name": "p044_s03_b003_5",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 6
+        },
+        {
+          "slide": 177,
+          "record_key": "p044_s03",
+          "name": "p044_s03_b008_3",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 1
+        },
+        {
+          "slide": 179,
+          "record_key": "p044_s04",
+          "name": "p044_s04_b006_4_simplify_rhs1",
+          "id": "18",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 2
+        },
+        {
+          "slide": 180,
+          "record_key": "p044_s04",
+          "name": "p044_s04_b012_5",
+          "id": "12",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 3
+        },
+        {
+          "slide": 181,
+          "record_key": "p044_s04",
+          "name": "p044_s04_b019_5",
+          "id": "13",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 4
+        },
+        {
+          "slide": 194,
+          "record_key": "p045_s07",
+          "name": "p045_s07_b001_3_p0_simplify_rhs3",
+          "id": "23",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 5
+        },
+        {
+          "slide": 212,
+          "record_key": "p046_s03",
+          "name": "p046_s03_b005_0_p1_simplify_rhs3",
+          "id": "18",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 6
+        },
+        {
+          "slide": 253,
+          "record_key": "p047_s04",
+          "name": "p047_s04_b005_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 1
+        },
+        {
+          "slide": 253,
+          "record_key": "p047_s04",
+          "name": "p047_s04_b009_6",
+          "id": "14",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 2
+        },
+        {
+          "slide": 255,
+          "record_key": "p048_s01",
+          "name": "p048_s01_b004_6",
+          "id": "14",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 3
+        },
+        {
+          "slide": 256,
+          "record_key": "p048_s01",
+          "name": "p048_s01_b005_0_p1",
+          "id": "5",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 4
+        },
+        {
+          "slide": 258,
+          "record_key": "p048_s02",
+          "name": "p048_s02_b009_4",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 5
+        },
+        {
+          "slide": 260,
+          "record_key": "p048_s03",
+          "name": "p048_s03_b004_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 6
+        },
+        {
+          "slide": 261,
+          "record_key": "p048_s03",
+          "name": "p048_s03_b008_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 1
+        },
+        {
+          "slide": 264,
+          "record_key": "p048_s04",
+          "name": "p048_s04_b007_6",
+          "id": "13",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 2
+        },
+        {
+          "slide": 265,
+          "record_key": "p048_s04",
+          "name": "p048_s04_b013_5",
+          "id": "12",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 3
+        },
+        {
+          "slide": 266,
+          "record_key": "p048_s04",
+          "name": "p048_s04_b020_5",
+          "id": "13",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 4
+        },
+        {
+          "slide": 273,
+          "record_key": "p049_s03",
+          "name": "p049_s03_b002_0",
+          "id": "4",
+          "change_type": "conversion_math",
+          "sheet": "sheet-006.png",
+          "row": 5
+        },
+        {
+          "slide": 273,
+          "record_key": "p049_s03",
+          "name": "p049_s03_b003_1",
+          "id": "6",
+          "change_type": "conversion_math",
+          "sheet": "sheet-006.png",
+          "row": 6
+        },
+        {
+          "slide": 273,
+          "record_key": "p049_s03",
+          "name": "p049_s03_b004_2",
+          "id": "7",
+          "change_type": "conversion_math",
+          "sheet": "sheet-007.png",
+          "row": 1
+        },
+        {
+          "slide": 273,
+          "record_key": "p049_s03",
+          "name": "p049_s03_b005_3",
+          "id": "9",
+          "change_type": "conversion_math",
+          "sheet": "sheet-007.png",
+          "row": 2
+        },
+        {
+          "slide": 276,
+          "record_key": "p049_s04",
+          "name": "p049_s04_b002_4_p0_units_row_1",
+          "id": "29",
+          "change_type": "conversion_math",
+          "sheet": "sheet-007.png",
+          "row": 3
+        },
+        {
+          "slide": 277,
+          "record_key": "p049_s04",
+          "name": "p049_s04_b003_0_p0_units_row_0",
+          "id": "19",
+          "change_type": "conversion_math",
+          "sheet": "sheet-007.png",
+          "row": 4
+        },
+        {
+          "slide": 277,
+          "record_key": "p049_s04",
+          "name": "p049_s04_b003_0_p0_units_row_1",
+          "id": "20",
+          "change_type": "conversion_math",
+          "sheet": "sheet-007.png",
+          "row": 5
+        },
+        {
+          "slide": 277,
+          "record_key": "p049_s04",
+          "name": "p049_s04_b004_2_p0_units_row_0",
+          "id": "21",
+          "change_type": "conversion_math",
+          "sheet": "sheet-007.png",
+          "row": 6
+        },
+        {
+          "slide": 277,
+          "record_key": "p049_s04",
+          "name": "p049_s04_b005_4_p0_units_row_0",
+          "id": "22",
+          "change_type": "conversion_math",
+          "sheet": "sheet-008.png",
+          "row": 1
+        },
+        {
+          "slide": 277,
+          "record_key": "p049_s04",
+          "name": "p049_s04_b005_4_p0_units_row_1",
+          "id": "23",
+          "change_type": "conversion_math",
+          "sheet": "sheet-008.png",
+          "row": 2
+        },
+        {
+          "slide": 286,
+          "record_key": "p049_s07",
+          "name": "p049_s07_b002_0_p0_units_row_0",
+          "id": "17",
+          "change_type": "conversion_math",
+          "sheet": "sheet-008.png",
+          "row": 3
+        },
+        {
+          "slide": 286,
+          "record_key": "p049_s07",
+          "name": "p049_s07_b002_0_p0_units_row_1",
+          "id": "18",
+          "change_type": "conversion_math",
+          "sheet": "sheet-008.png",
+          "row": 4
+        },
+        {
+          "slide": 286,
+          "record_key": "p049_s07",
+          "name": "p049_s07_b002_0_p0_units_row_2",
+          "id": "19",
+          "change_type": "conversion_math",
+          "sheet": "sheet-008.png",
+          "row": 5
+        },
+        {
+          "slide": 286,
+          "record_key": "p049_s07",
+          "name": "p049_s07_b002_0_p0_units_row_3",
+          "id": "20",
+          "change_type": "conversion_math",
+          "sheet": "sheet-008.png",
+          "row": 6
+        },
+        {
+          "slide": 286,
+          "record_key": "p049_s07",
+          "name": "p049_s07_b003_3_p1",
+          "id": "14",
+          "change_type": "conversion_move",
+          "sheet": "sheet-009.png",
+          "row": 1
+        },
+        {
+          "slide": 334,
+          "record_key": "p051_s06",
+          "name": "p051_s06_b003_6",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-009.png",
+          "row": 2
+        },
+        {
+          "slide": 336,
+          "record_key": "p052_s01",
+          "name": "p052_s01_b001_3_p0_units_row_1",
+          "id": "14",
+          "change_type": "conversion_math",
+          "sheet": "sheet-009.png",
+          "row": 3
+        },
+        {
+          "slide": 337,
+          "record_key": "p052_s01",
+          "name": "p052_s01_b005_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-009.png",
+          "row": 4
+        },
+        {
+          "slide": 337,
+          "record_key": "p052_s01",
+          "name": "p052_s01_b006_3",
+          "id": "10",
+          "change_type": "conversion_math",
+          "sheet": "sheet-009.png",
+          "row": 5
+        },
+        {
+          "slide": 337,
+          "record_key": "p052_s01",
+          "name": "p052_s01_b007_4_p0_units_row_1",
+          "id": "14",
+          "change_type": "conversion_math",
+          "sheet": "sheet-009.png",
+          "row": 6
+        },
+        {
+          "slide": 338,
+          "record_key": "p052_s01",
+          "name": "p052_s01_b011_3",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-010.png",
+          "row": 1
+        },
+        {
+          "slide": 338,
+          "record_key": "p052_s01",
+          "name": "p052_s01_b012_4",
+          "id": "12",
+          "change_type": "conversion_math",
+          "sheet": "sheet-010.png",
+          "row": 2
+        },
+        {
+          "slide": 341,
+          "record_key": "p052_s02",
+          "name": "p052_s02_b003_0_p0_units_row_1",
+          "id": "16",
+          "change_type": "conversion_math",
+          "sheet": "sheet-010.png",
+          "row": 3
+        },
+        {
+          "slide": 341,
+          "record_key": "p052_s02",
+          "name": "p052_s02_b003_0_p0_units_row_2",
+          "id": "17",
+          "change_type": "conversion_math",
+          "sheet": "sheet-010.png",
+          "row": 4
+        },
+        {
+          "slide": 341,
+          "record_key": "p052_s02",
+          "name": "p052_s02_b003_0_p0_units_row_3",
+          "id": "18",
+          "change_type": "conversion_math",
+          "sheet": "sheet-010.png",
+          "row": 5
+        },
+        {
+          "slide": 342,
+          "record_key": "p052_s02",
+          "name": "p052_s02_b007_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-010.png",
+          "row": 6
+        },
+        {
+          "slide": 343,
+          "record_key": "p052_s02",
+          "name": "p052_s02_b013_3",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-011.png",
+          "row": 1
+        },
+        {
+          "slide": 345,
+          "record_key": "p052_s03",
+          "name": "p052_s03_b004_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-011.png",
+          "row": 2
+        },
+        {
+          "slide": 345,
+          "record_key": "p052_s03",
+          "name": "p052_s03_b008_6",
+          "id": "14",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-011.png",
+          "row": 3
+        },
+        {
+          "slide": 346,
+          "record_key": "p052_s03",
+          "name": "p052_s03_b009_0_p0_units_row_1",
+          "id": "15",
+          "change_type": "conversion_math",
+          "sheet": "sheet-011.png",
+          "row": 4
+        },
+        {
+          "slide": 346,
+          "record_key": "p052_s03",
+          "name": "p052_s03_b010_2",
+          "id": "8",
+          "change_type": "conversion_math",
+          "sheet": "sheet-011.png",
+          "row": 5
+        },
+        {
+          "slide": 346,
+          "record_key": "p052_s03",
+          "name": "p052_s03_b011_3",
+          "id": "10",
+          "change_type": "conversion_math",
+          "sheet": "sheet-011.png",
+          "row": 6
+        },
+        {
+          "slide": 347,
+          "record_key": "p052_s04",
+          "name": "p052_s04_b003_6",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-012.png",
+          "row": 1
+        },
+        {
+          "slide": 369,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b001_2_p0_units_row_1",
+          "id": "32",
+          "change_type": "conversion_math",
+          "sheet": "sheet-012.png",
+          "row": 2
+        },
+        {
+          "slide": 369,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b001_2_p0_units_row_2",
+          "id": "33",
+          "change_type": "conversion_math",
+          "sheet": "sheet-012.png",
+          "row": 3
+        },
+        {
+          "slide": 370,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b002_0_p0_units_row_1",
+          "id": "9",
+          "change_type": "conversion_math",
+          "sheet": "sheet-012.png",
+          "row": 4
+        },
+        {
+          "slide": 370,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b002_0_p0_units_row_2",
+          "id": "10",
+          "change_type": "conversion_math",
+          "sheet": "sheet-012.png",
+          "row": 5
+        },
+        {
+          "slide": 370,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b002_0_p0_units_row_3",
+          "id": "11",
+          "change_type": "conversion_math",
+          "sheet": "sheet-012.png",
+          "row": 6
+        },
+        {
+          "slide": 370,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b002_0_p0_units_row_4",
+          "id": "12",
+          "change_type": "conversion_math",
+          "sheet": "sheet-013.png",
+          "row": 1
+        },
+        {
+          "slide": 370,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b002_0_p0_units_row_5",
+          "id": "13",
+          "change_type": "conversion_math",
+          "sheet": "sheet-013.png",
+          "row": 2
+        },
+        {
+          "slide": 370,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b002_0_p0_units_row_6",
+          "id": "14",
+          "change_type": "conversion_math",
+          "sheet": "sheet-013.png",
+          "row": 3
+        },
+        {
+          "slide": 370,
+          "record_key": "p053_s08",
+          "name": "p053_s08_b002_0_p0_units_row_7",
+          "id": "15",
+          "change_type": "conversion_math",
+          "sheet": "sheet-013.png",
+          "row": 4
+        },
+        {
+          "slide": 375,
+          "record_key": "p053_s09",
+          "name": "p053_s09_b001_3_p0_units_row_0",
+          "id": "14",
+          "change_type": "conversion_math",
+          "sheet": "sheet-013.png",
+          "row": 5
+        },
+        {
+          "slide": 376,
+          "record_key": "p053_s09",
+          "name": "p053_s09_b004_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-013.png",
+          "row": 6
+        },
+        {
+          "slide": 376,
+          "record_key": "p053_s09",
+          "name": "p053_s09_b005_3",
+          "id": "10",
+          "change_type": "conversion_math",
+          "sheet": "sheet-014.png",
+          "row": 1
+        },
+        {
+          "slide": 382,
+          "record_key": "p054_s02",
+          "name": "p054_s02_b005_0_p0_units_row_1",
+          "id": "9",
+          "change_type": "conversion_math",
+          "sheet": "sheet-014.png",
+          "row": 2
+        },
+        {
+          "slide": 396,
+          "record_key": "p054_s06",
+          "name": "p054_s06_b005_0_p0_units_row_0",
+          "id": "10",
+          "change_type": "conversion_math",
+          "sheet": "sheet-014.png",
+          "row": 3
+        },
+        {
+          "slide": 396,
+          "record_key": "p054_s06",
+          "name": "p054_s06_b005_0_p0_units_row_1",
+          "id": "11",
+          "change_type": "conversion_math",
+          "sheet": "sheet-014.png",
+          "row": 4
+        },
+        {
+          "slide": 396,
+          "record_key": "p054_s06",
+          "name": "p054_s06_b005_0_p0_units_row_2",
+          "id": "12",
+          "change_type": "conversion_math",
+          "sheet": "sheet-014.png",
+          "row": 5
+        },
+        {
+          "slide": 396,
+          "record_key": "p054_s06",
+          "name": "p054_s06_b005_0_p0_units_row_3",
+          "id": "13",
+          "change_type": "conversion_math",
+          "sheet": "sheet-014.png",
+          "row": 6
+        }
+      ],
+      "whole_conversion_slides_actually_viewed": [
+        273,
+        276,
+        277,
+        286,
+        336,
+        337,
+        338,
+        341,
+        346,
+        369,
+        370,
+        375,
+        376,
+        382,
+        396
+      ],
+      "whole_slide_png_sha256": {
+        "273": "1ab5ef43b605bc6b295ba626d9e49825338cbc6eee04ecdbe309ea55a2119b64",
+        "276": "7819ac4ebb9df840143eb4df9509b895662388fddc79416433d3703b99c79b16",
+        "277": "a2bbc9c2347d4b965f66507d9a28f099391d0f477550fcd4e5b866b961498fc2",
+        "286": "0bbbb5d4899b2a3f170214e1ece8da8c53d516ba8773cda707d0bf718733763e",
+        "336": "ece6d3d698d87d13898bda95f378a3115750111822883bd33758c993577c8412",
+        "337": "6f00283a4a61a0385893fd98e3cce18249d133309437b8b9c7a8425c99d58eab",
+        "338": "41b636bd7ad9679c5c2da74301c8ab2cb0f31bfd54c49db9476ca348bdb0d669",
+        "341": "b2942b2d4bd03f4a570327da0e696326735fbba1832b899e3f75cacc3c57facf",
+        "346": "a1d310c72132bfcbf96bc957c5bc546ba3c3965ec8d6959f445a17eb1824248c",
+        "369": "4fcb0f33392b23ffc9980e324c03c0990485510e805f87ee1d54fe8f107710fd",
+        "370": "63f303c55be0263b052e821186863d1fe9c90cdf4644ceb63deb616a2c4b2203",
+        "375": "17111ea522c7b2e93b457699573f7499c3115bbb6c95736241197c6a39e9cf78",
+        "376": "517fea72c2bc3226df10a351e57278127ba8987a639dc16d30ef7b25b68f9128",
+        "382": "e5b0554b5ec1ce6de77084943c78f100da01798d8aa3e01ba2b5a5f5d384a6f2",
+        "396": "6dfc0d0a24fefb90ad081dbe3e801f9d329258744091493bc97e6fa502e8c308"
+      },
+      "issues": []
+    },
+    {
+      "volume": 4,
+      "final_pptx": "/workspace/scratch/1facfb035d44/units_review/ppt_units/final/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "final_pptx_sha256": "a98313f738671522f8986b611c23399ff75a7245e63dfb645c993300a3a3dfd1",
+      "object_contacts_actually_viewed": [
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-001.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-002.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-003.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-004.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-005.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-006.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-007.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-008.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-009.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-010.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-011.png",
+        "/workspace/scratch/1facfb035d44/units_review/ppt_units/qa_contacts/volume04/sheet-012.png"
+      ],
+      "edited_object_count_actually_viewed": 70,
+      "objects_actually_viewed": [
+        {
+          "slide": 4,
+          "record_key": "p055_s02",
+          "name": "p055_s02_b002_0",
+          "id": "4",
+          "change_type": "conversion_math",
+          "sheet": "sheet-001.png",
+          "row": 1
+        },
+        {
+          "slide": 4,
+          "record_key": "p055_s02",
+          "name": "p055_s02_b003_1",
+          "id": "6",
+          "change_type": "conversion_math",
+          "sheet": "sheet-001.png",
+          "row": 2
+        },
+        {
+          "slide": 4,
+          "record_key": "p055_s02",
+          "name": "p055_s02_b004_2",
+          "id": "7",
+          "change_type": "conversion_math",
+          "sheet": "sheet-001.png",
+          "row": 3
+        },
+        {
+          "slide": 4,
+          "record_key": "p055_s02",
+          "name": "p055_s02_b005_3",
+          "id": "8",
+          "change_type": "conversion_math",
+          "sheet": "sheet-001.png",
+          "row": 4
+        },
+        {
+          "slide": 4,
+          "record_key": "p055_s02",
+          "name": "p055_s02_b006_4",
+          "id": "10",
+          "change_type": "conversion_math",
+          "sheet": "sheet-001.png",
+          "row": 5
+        },
+        {
+          "slide": 4,
+          "record_key": "p055_s02",
+          "name": "p055_s02_b007_5",
+          "id": "11",
+          "change_type": "conversion_math",
+          "sheet": "sheet-001.png",
+          "row": 6
+        },
+        {
+          "slide": 11,
+          "record_key": "p055_s05",
+          "name": "p055_s05_b001_1_p0_units_row_1",
+          "id": "21",
+          "change_type": "conversion_math",
+          "sheet": "sheet-002.png",
+          "row": 1
+        },
+        {
+          "slide": 11,
+          "record_key": "p055_s05",
+          "name": "p055_s05_b001_1_p0_units_row_2",
+          "id": "22",
+          "change_type": "conversion_math",
+          "sheet": "sheet-002.png",
+          "row": 2
+        },
+        {
+          "slide": 13,
+          "record_key": "p055_s06",
+          "name": "p055_s06_b001_1_p0_units_row_1",
+          "id": "22",
+          "change_type": "conversion_math",
+          "sheet": "sheet-002.png",
+          "row": 3
+        },
+        {
+          "slide": 13,
+          "record_key": "p055_s06",
+          "name": "p055_s06_b001_1_p0_units_row_2",
+          "id": "23",
+          "change_type": "conversion_math",
+          "sheet": "sheet-002.png",
+          "row": 4
+        },
+        {
+          "slide": 13,
+          "record_key": "p055_s06",
+          "name": "p055_s06_b001_1_p0_units_row_3",
+          "id": "24",
+          "change_type": "conversion_math",
+          "sheet": "sheet-002.png",
+          "row": 5
+        },
+        {
+          "slide": 15,
+          "record_key": "p055_s07",
+          "name": "p055_s07_b001_1_p0_units_row_1",
+          "id": "18",
+          "change_type": "conversion_math",
+          "sheet": "sheet-002.png",
+          "row": 6
+        },
+        {
+          "slide": 15,
+          "record_key": "p055_s07",
+          "name": "p055_s07_b001_1_p0_units_row_2",
+          "id": "19",
+          "change_type": "conversion_math",
+          "sheet": "sheet-003.png",
+          "row": 1
+        },
+        {
+          "slide": 31,
+          "record_key": "p055_s13",
+          "name": "p055_s13_b003_4",
+          "id": "13",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 2
+        },
+        {
+          "slide": 32,
+          "record_key": "p055_s13",
+          "name": "p055_s13_b006_1",
+          "id": "6",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 3
+        },
+        {
+          "slide": 33,
+          "record_key": "p056_s01",
+          "name": "p056_s01_b001_3_p0_units_row_1",
+          "id": "17",
+          "change_type": "conversion_math",
+          "sheet": "sheet-003.png",
+          "row": 4
+        },
+        {
+          "slide": 34,
+          "record_key": "p056_s01",
+          "name": "p056_s01_b004_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 5
+        },
+        {
+          "slide": 35,
+          "record_key": "p056_s01",
+          "name": "p056_s01_b009_3",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-003.png",
+          "row": 6
+        },
+        {
+          "slide": 35,
+          "record_key": "p056_s01",
+          "name": "p056_s01_b012_6_p0",
+          "id": "14",
+          "change_type": "conversion_math",
+          "sheet": "sheet-004.png",
+          "row": 1
+        },
+        {
+          "slide": 36,
+          "record_key": "p056_s01",
+          "name": "p056_s01_b014_1",
+          "id": "6",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 2
+        },
+        {
+          "slide": 41,
+          "record_key": "p056_s03",
+          "name": "p056_s03_b006_4",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 3
+        },
+        {
+          "slide": 42,
+          "record_key": "p056_s03",
+          "name": "p056_s03_b010_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 4
+        },
+        {
+          "slide": 42,
+          "record_key": "p056_s03",
+          "name": "p056_s03_b014_6",
+          "id": "14",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 5
+        },
+        {
+          "slide": 46,
+          "record_key": "p056_s04",
+          "name": "p056_s04_b004_3",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-004.png",
+          "row": 6
+        },
+        {
+          "slide": 46,
+          "record_key": "p056_s04",
+          "name": "p056_s04_b007_6",
+          "id": "12",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 1
+        },
+        {
+          "slide": 47,
+          "record_key": "p056_s04",
+          "name": "p056_s04_b010_2",
+          "id": "7",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 2
+        },
+        {
+          "slide": 80,
+          "record_key": "p057_s16",
+          "name": "p057_s16_b004_6",
+          "id": "19",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-005.png",
+          "row": 3
+        },
+        {
+          "slide": 87,
+          "record_key": "p058_s03",
+          "name": "p058_s03_b001_2_p0_units_row_0",
+          "id": "16",
+          "change_type": "conversion_math",
+          "sheet": "sheet-005.png",
+          "row": 4
+        },
+        {
+          "slide": 87,
+          "record_key": "p058_s03",
+          "name": "p058_s03_b001_2_p0_units_row_1",
+          "id": "17",
+          "change_type": "conversion_math",
+          "sheet": "sheet-005.png",
+          "row": 5
+        },
+        {
+          "slide": 87,
+          "record_key": "p058_s03",
+          "name": "p058_s03_b001_2_p0_units_row_2",
+          "id": "18",
+          "change_type": "conversion_math",
+          "sheet": "sheet-005.png",
+          "row": 6
+        },
+        {
+          "slide": 96,
+          "record_key": "p058_s07",
+          "name": "p058_s07_b001_3_p0_simplify_rhs3",
+          "id": "29",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 1
+        },
+        {
+          "slide": 121,
+          "record_key": "p059_s05",
+          "name": "p059_s05_b003_5",
+          "id": "14",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 2
+        },
+        {
+          "slide": 122,
+          "record_key": "p059_s05",
+          "name": "p059_s05_b009_4",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 3
+        },
+        {
+          "slide": 123,
+          "record_key": "p059_s06",
+          "name": "p059_s06_b004_5",
+          "id": "15",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 4
+        },
+        {
+          "slide": 124,
+          "record_key": "p059_s06",
+          "name": "p059_s06_b009_4",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 5
+        },
+        {
+          "slide": 125,
+          "record_key": "p059_s07",
+          "name": "p059_s07_b003_5",
+          "id": "14",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-006.png",
+          "row": 6
+        },
+        {
+          "slide": 126,
+          "record_key": "p059_s07",
+          "name": "p059_s07_b009_4",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-007.png",
+          "row": 1
+        },
+        {
+          "slide": 127,
+          "record_key": "p060_s01",
+          "name": "p060_s01_b004_5",
+          "id": "15",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-007.png",
+          "row": 2
+        },
+        {
+          "slide": 128,
+          "record_key": "p060_s01",
+          "name": "p060_s01_b009_3",
+          "id": "9",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-007.png",
+          "row": 3
+        },
+        {
+          "slide": 129,
+          "record_key": "p060_s02",
+          "name": "p060_s02_b004_6",
+          "id": "16",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-007.png",
+          "row": 4
+        },
+        {
+          "slide": 130,
+          "record_key": "p060_s02",
+          "name": "p060_s02_b009_4",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-007.png",
+          "row": 5
+        },
+        {
+          "slide": 132,
+          "record_key": "p060_s03",
+          "name": "p060_s03_b004_3",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-007.png",
+          "row": 6
+        },
+        {
+          "slide": 133,
+          "record_key": "p060_s03",
+          "name": "p060_s03_b010_5",
+          "id": "12",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-008.png",
+          "row": 1
+        },
+        {
+          "slide": 136,
+          "record_key": "p060_s04",
+          "name": "p060_s04_b006_3",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-008.png",
+          "row": 2
+        },
+        {
+          "slide": 136,
+          "record_key": "p060_s04",
+          "name": "p060_s04_b009_6",
+          "id": "15",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-008.png",
+          "row": 3
+        },
+        {
+          "slide": 137,
+          "record_key": "p060_s04",
+          "name": "p060_s04_b014_4",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-008.png",
+          "row": 4
+        },
+        {
+          "slide": 154,
+          "record_key": "p061_s09",
+          "name": "p061_s09_b001_2_p0_units_row_1",
+          "id": "22",
+          "change_type": "conversion_math",
+          "sheet": "sheet-008.png",
+          "row": 5
+        },
+        {
+          "slide": 154,
+          "record_key": "p061_s09",
+          "name": "p061_s09_b001_2_p0_units_row_2",
+          "id": "23",
+          "change_type": "conversion_math",
+          "sheet": "sheet-008.png",
+          "row": 6
+        },
+        {
+          "slide": 169,
+          "record_key": "p062_s02",
+          "name": "p062_s02_b003_4",
+          "id": "19",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-009.png",
+          "row": 1
+        },
+        {
+          "slide": 170,
+          "record_key": "p062_s02",
+          "name": "p062_s02_b006_1",
+          "id": "6",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-009.png",
+          "row": 2
+        },
+        {
+          "slide": 170,
+          "record_key": "p062_s02",
+          "name": "p062_s02_b009_4",
+          "id": "10",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-009.png",
+          "row": 3
+        },
+        {
+          "slide": 171,
+          "record_key": "p062_s02",
+          "name": "p062_s02_b013_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-009.png",
+          "row": 4
+        },
+        {
+          "slide": 171,
+          "record_key": "p062_s02",
+          "name": "p062_s02_b014_3_p2",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-009.png",
+          "row": 5
+        },
+        {
+          "slide": 204,
+          "record_key": "p063_s06",
+          "name": "p063_s06_b003_6",
+          "id": "13",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-009.png",
+          "row": 6
+        },
+        {
+          "slide": 205,
+          "record_key": "p063_s06",
+          "name": "p063_s06_b009_5",
+          "id": "12",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-010.png",
+          "row": 1
+        },
+        {
+          "slide": 206,
+          "record_key": "p063_s07",
+          "name": "p063_s07_b001_2_p0_units_row_1",
+          "id": "13",
+          "change_type": "conversion_math",
+          "sheet": "sheet-010.png",
+          "row": 2
+        },
+        {
+          "slide": 206,
+          "record_key": "p063_s07",
+          "name": "p063_s07_b001_2_p0_units_row_2",
+          "id": "14",
+          "change_type": "conversion_math",
+          "sheet": "sheet-010.png",
+          "row": 3
+        },
+        {
+          "slide": 207,
+          "record_key": "p063_s07",
+          "name": "p063_s07_b005_3_p0_simplify_rhs0",
+          "id": "13",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-010.png",
+          "row": 4
+        },
+        {
+          "slide": 207,
+          "record_key": "p063_s07",
+          "name": "p063_s07_b006_4_p0_units_row_2",
+          "id": "16",
+          "change_type": "conversion_math",
+          "sheet": "sheet-010.png",
+          "row": 5
+        },
+        {
+          "slide": 208,
+          "record_key": "p063_s07",
+          "name": "p063_s07_b009_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-010.png",
+          "row": 6
+        },
+        {
+          "slide": 208,
+          "record_key": "p063_s07",
+          "name": "p063_s07_b010_3_p0_units_row_0",
+          "id": "12",
+          "change_type": "conversion_math",
+          "sheet": "sheet-011.png",
+          "row": 1
+        },
+        {
+          "slide": 210,
+          "record_key": "p064_s01",
+          "name": "p064_s01_b004_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-011.png",
+          "row": 2
+        },
+        {
+          "slide": 211,
+          "record_key": "p064_s01",
+          "name": "p064_s01_b009_2",
+          "id": "8",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-011.png",
+          "row": 3
+        },
+        {
+          "slide": 212,
+          "record_key": "p064_s02",
+          "name": "p064_s02_b004_6",
+          "id": "18",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-011.png",
+          "row": 4
+        },
+        {
+          "slide": 213,
+          "record_key": "p064_s02",
+          "name": "p064_s02_b009_5",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-011.png",
+          "row": 5
+        },
+        {
+          "slide": 214,
+          "record_key": "p064_s03",
+          "name": "p064_s03_b004_6",
+          "id": "16",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-011.png",
+          "row": 6
+        },
+        {
+          "slide": 215,
+          "record_key": "p064_s03",
+          "name": "p064_s03_b009_5",
+          "id": "11",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-012.png",
+          "row": 1
+        },
+        {
+          "slide": 216,
+          "record_key": "p064_s04",
+          "name": "p064_s04_b004_5",
+          "id": "13",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-012.png",
+          "row": 2
+        },
+        {
+          "slide": 217,
+          "record_key": "p064_s04",
+          "name": "p064_s04_b009_3",
+          "id": "9",
+          "change_type": "unit_parentheses",
+          "sheet": "sheet-012.png",
+          "row": 3
+        },
+        {
+          "slide": 365,
+          "record_key": "p070_s02",
+          "name": "p070_s02_b002_0_p0_units_row_1",
+          "id": "11",
+          "change_type": "conversion_math",
+          "sheet": "sheet-012.png",
+          "row": 4
+        }
+      ],
+      "whole_conversion_slides_actually_viewed": [
+        4,
+        11,
+        13,
+        15,
+        33,
+        35,
+        87,
+        154,
+        206,
+        207,
+        208,
+        365
+      ],
+      "whole_slide_png_sha256": {
+        "4": "b0c065815033cacf72a8bcfdc662583e79c7a99d9c67b061a0036f2635735d18",
+        "11": "7f8265824adc1cd6a20089a3b73b96dbfa638c5ce34bd96dd03a6432ae6debb1",
+        "13": "f6a376620ecdba52df588eb92e3fe9f9a62dcb0ae22de58b13f327b4acc706e2",
+        "15": "acbd4103ac041e4b70b91e51349c02ff46b85ecabf662a5e4b0a8f67d2042ba7",
+        "33": "77854caa2498373b2ae07eb99b4ef9b27bcd31c06821095d852b0ad6af2858cf",
+        "35": "9d926b0e719199b3262f4cbf0e606a811be4e47bf24b1d92a0404ec435269107",
+        "87": "f34a30cbd143d12ccb265428ff58eff5a48eee54fc85f34efdc11ef8e991c787",
+        "154": "67ecf509f4f1559dd82b6bf3175f6ff6286d4ee678c67cb0d032293cb7c744fa",
+        "206": "7a84cf177001cf7e1f89558bdae6623f90c268bb478e7b8355a735e2df33e8ce",
+        "207": "64a38a810c0a3bc1fc783257577576817ab8df35e8c509b8cc10b585a10f7399",
+        "208": "7138afd4d0a72c5db1d49fe8fc76cb2f23173c056c0c80316ea0f7c1aa646947",
+        "365": "1891b0233ee207e050d11efa4e782180b380af5488b596890b590c15e2be87b6"
+      },
+      "issues": []
+    }
+  ],
+  "total_contact_sheets_actually_viewed": 26,
+  "total_edited_objects_actually_viewed": 154,
+  "total_conversion_whole_slides_actually_viewed": 27,
+  "conversion_question_count_in_scope": 19,
+  "checks": {
+    "conversion_equations_own_physical_rows": true,
+    "units_unparenthesized_on_quantity_conversion_rows": true,
+    "arithmetic_result_unit_parentheses_visually_clear": true,
+    "index_text_ascii_unit_parentheses_confirmed": true,
+    "numbers_and_decimal_points_preserved_in_reviewed_objects": true,
+    "no_target_glyph_missing_or_overlapping_visible": true,
+    "no_new_overlap_or_clipping_on_27_whole_conversion_slides": true,
+    "source_32pt_readability_maintained_in_reviewed_formula_regions": true,
+    "original_given_problem_and_red_solution_distinguishable": true
+  },
+  "finding": "实际审看两册全部26张改动对象联系表（154对象）和27张换算完整页，未发现本次单位格式或换算分行产生的可见问题。",
+  "scope_limits": [
+    "第3册406张、第4册462张的整册导入与渲染由PPT作者执行；本审稿人工目视范围为清单中的27张换算整页及154个改动对象区域，不声称868张整页全部人工通读。",
+    "联系表仅核对指定对象目标区，个别周围文字在裁图边界被截；3册286页依次填各符号的整句已另在完整页核对。",
+    "图片只能说明静态排版；本审稿未在PowerPoint或WPS中亲自放映逐击测试，未对动态播放做通过声明。",
+    "ASCII字符来源另用最终索引文本核对；视觉主要核对字形、间距、数值和单位位置。",
+    "本次不扩大为全册数学重新验算或不存在任何历史问题的保证。"
+  ],
+  "issues": []
+}

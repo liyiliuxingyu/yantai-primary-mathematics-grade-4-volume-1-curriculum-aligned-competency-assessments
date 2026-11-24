@@ -1,0 +1,126 @@
+{
+  "passed": true,
+  "new_row_count": 17,
+  "checks": [
+    {
+      "key": "p003_s04",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p003_s05",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p003_s06",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p007_s02",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p007_s03",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p007_s04",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p007_s05",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p007_s06",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p007_s07",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p011_s06",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p015_s06",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p015_s07",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p015_s08",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p019_s12",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p044_s02",
+      "font_size_tex_pt": 9,
+      "observed_compiled_math_size_bp": 8.966400146484375,
+      "original_math_font_size_bp": 8.966376089663761,
+      "size_preserved": true
+    },
+    {
+      "key": "p046_s09",
+      "font_size_tex_pt": 10,
+      "observed_compiled_math_size_bp": 9.962599754333496,
+      "original_math_font_size_bp": 9.962640099626402,
+      "size_preserved": true
+    },
+    {
+      "key": "p088_s02",
+      "font_size_tex_pt": 9,
+      "observed_compiled_math_size_bp": 8.966400146484375,
+      "original_math_font_size_bp": 8.966376089663761,
+      "size_preserved": true
+    }
+  ],
+  "baseline_placement": "computed first_equals_origin aligned to measured original equals glyph origin; no row spacing rebuilt"
+}

@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "pdf_sha256": "5b0ec22916bc2f77e3ec9575a8b46466f500ce03d32887ee09d5817cf9d82dda",
+  "previous_pdf_sha256": "42201f1a748acc2f36b67d61f3824d77d994617c5f5ec1dfc3d4e1020b4a9a56",
+  "changed_keys": [
+    "p078_s04"
+  ],
+  "changed_snippet_ids": [
+    "p078_s04",
+    "p078_s04_local1"
+  ],
+  "book_page": 78,
+  "pdf_page": 82,
+  "old_local_rect": [
+    328.0,
+    476.4,
+    347.0,
+    486.9100002288818
+  ],
+  "new_local_rect": [
+    334.5,
+    476.4,
+    340.5,
+    484.5899995803833
+  ],
+  "old_note_rect": [
+    78.0,
+    780.0,
+    575.3333333333333,
+    832.5800018310547
+  ],
+  "new_note_rect": [
+    78.0,
+    780.0,
+    577.6666666666666,
+    804.8700008392334
+  ],
+  "center_x": 337.5,
+  "original_clear_rect_unchanged": [
+    322,
+    475,
+    359,
+    491
+  ],
+  "five_black_corrections_preserved": true,
+  "pages": 128,
+  "local_patches": 92
+}

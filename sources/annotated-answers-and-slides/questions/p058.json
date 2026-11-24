@@ -1,0 +1,262 @@
+{
+  "book_page": 58,
+  "source_page": 62,
+  "records": [
+    {
+      "key": "p058_s01",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 0,
+      "id": "一、12",
+      "kind": "fill",
+      "question_latex": "今日气温\\(19.5\\,{}^\\circ\\mathrm C\\)，明日比今日高\\(3.8\\,{}^\\circ\\mathrm C\\)，明日气温（    ）\\({}^\\circ\\mathrm C\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "明日比今日高3.8℃，所以\\(19.5+3.8=23.3\\)℃，填23.3。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p058_s02",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 1,
+      "id": "二、1",
+      "kind": "choice",
+      "question_latex": "一个数加\\(9.5\\)等于30，这个数是（    ）。A.\\(39.5\\)；B.\\(21.5\\)；C.\\(20.5\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "一个加数等于和减另一个加数。把9.5凑成10，多减的0.5再加回：\\[\\begin{aligned}&30-9.5\\\\={}&30-10+0.5\\\\={}&20+0.5\\\\={}&20.5\\end{aligned}\\]所以选C。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "本轮复核：减数9.5与10只差0.5，先减整十数再补回0.5，免去整数减小数的借位。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p058_s03",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 2,
+      "id": "二、2",
+      "kind": "choice",
+      "question_latex": "5元3角＋8角7分＝（    ）。A.\\(6.17\\)元；B.14元；C.\\(6.1\\)元。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先把金额都化成元：\\[\\begin{aligned}5\\text{元}3\\text{角}&=5.30\\text{元}\\\\8\\text{角}7\\text{分}&=0.87\\text{元}\\end{aligned}\\]再算\\(5.30+0.87=6.17\\)元，选A。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p058_s04",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 3,
+      "id": "二、3",
+      "kind": "choice",
+      "question_latex": "一个一位小数加上一个两位小数，和是（    ）位小数。A.一；B.二；C.三。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先把一位小数的末尾添0，改写成两位小数，再把相同数位相加。若按竖式计算后暂不化简、保留两位的写法，可选B；题目未说明该约定，严格说结论不唯一。\\par 须区分数值与写法：小数末尾添0或去0不改变大小，如\\(1.2+0.30=1.50=1.5\\)。若把结果去掉小数末尾的0，还可能得到整数，例如\\(1.2+1.80=3.00=3\\)。因此按最简写法，和可能是整数、一位小数或两位小数；而按竖式暂不化简的两位写法，才统一填B。",
+      "verification": {
+        "status": "conditional",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "补全最简写法下整数的合法情况1.2+1.80=3，保持保留两位竖式时选B的条件解。"
+        ],
+        "uncertainties": [
+          "题目未说明小数位数按不化简的竖式写法判断，还是按去掉末尾0后的最简写法判断；按前者选B，按后者可能是整数、一位或两位小数。"
+        ],
+        "left_patch": null,
+        "additional_left_patches": [
+          {
+            "rect": [
+              360,
+              231,
+              554,
+              241.5
+            ],
+            "old": "",
+            "new_latex": "保留两位、暂不化简时选B，见续页。",
+            "size": 7.2,
+            "note": "原页相邻白隙补明条件，不把条件例作为无条件唯一答案。"
+          }
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p058_s05",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 4,
+      "id": "二、4",
+      "kind": "choice",
+      "question_latex": "被减数不变，减数增加\\(3.6\\)，差（    ）。A.增加\\(3.6\\)；B.减少\\(3.6\\)；C.不变。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "被减数不变，减数增加3.6，差相应减少3.6，选B。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p058_s06",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 5,
+      "id": "二、5",
+      "kind": "choice",
+      "question_latex": "\\(76.54+9.99=(\\quad)\\)。A.\\(76.54+10+0.01\\)；B.\\(76.54+10-0.01\\)；C.\\(76.54-10+0.01\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\(9.99=10-0.01\\)，因此\\(76.54+9.99=76.54+10-0.01\\)，选B。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p058_s07",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 6,
+      "id": "二、6",
+      "kind": "choice",
+      "question_latex": "四年级百米跑步比赛，小明用时\\(17.8\\)秒，比小雨慢\\(0.9\\)秒，小雨百米用时（    ）秒。A.\\(18.7\\)；B.\\(16.9\\)；C.\\(17.1\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "选B。小明较慢，用时多0.9秒，小雨用时为：\\[\\begin{aligned}&17.8-0.9\\\\={}&17.8-1+0.1\\\\={}&16.8+0.1\\\\={}&16.9\\text{(秒)}\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [
+          "简便计算复核：小雨用时17.8−0.9可把0.9凑1后补偿0.1。原选B正确，原旁注尚未写出这条简算；只在题旁补一组脱式，不另重复答案。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p058_s08",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 7,
+      "id": "三、1",
+      "kind": "calculation",
+      "question_latex": "直接写得数。\\(20-8.5\\)，\\(9-0.63\\)，\\(7.3-2.8\\)，\\(1-0.36-0.64\\)；\\(0.77+0.23\\)，\\(8.88-0.8\\)，\\(4-1.29\\)，\\(6.3+0.48\\)；\\(2.1-0.5\\)，\\(4.65+5.35\\)，\\(6.8+2.2\\)，\\(18.6-8.6\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "按从左到右、从上到下的顺序：\\[\\begin{array}{rrrr}11.5&8.37&4.5&0\\\\1&8.08&2.71&6.78\\\\1.6&10&9&10\\end{array}\\]其中\\(1-0.36-0.64=1-(0.36+0.64)=0\\)；\\(0.77+0.23=1\\)和\\(4.65+5.35=10\\)可先凑整。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p058_s09",
+      "book_page": 58,
+      "source_page": 62,
+      "section_index": 8,
+      "id": "三、2",
+      "kind": "calculation",
+      "question_latex": "用竖式计算。（带★的要验算。）\\(3.58+2.67\\)，\\(4.6+12.95\\)，\\(20.05-7.89\\)，★\\(50-16.34\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "添0的依据是小数的性质，例如\\(4.6=4.60\\)、\\(50=50.00\\)，数值没有变化。小数点对齐，空位补0；相同数位相加减。四题结果：\\(6.25,17.55,12.16,33.66\\)。\\[\\begin{array}{r}3.58\\\\+2.67\\\\\\hline6.25\\end{array}\\quad\\begin{array}{r}4.60\\\\+12.95\\\\\\hline17.55\\end{array}\\]\\[\\begin{array}{r}20.05\\\\-7.89\\\\\\hline12.16\\end{array}\\quad\\begin{array}{r}50.00\\\\-16.34\\\\\\hline33.66\\end{array}\\]最后一题用加法验算：\\(33.66+16.34=50.00\\)。最后一题的50先写成50.00；百分位0不足减4，要向高位逐级退位，不能把“0减4”写成4。得到的差再加减数，应还原被减数。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

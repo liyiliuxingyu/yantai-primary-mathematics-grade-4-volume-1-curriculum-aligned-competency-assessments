@@ -1,0 +1,201 @@
+{
+  "passed": true,
+  "formulas": 38,
+  "relative_font_path": "../../../fonts/",
+  "compile_cwd": "ppt_recheck/v1_2/formulas",
+  "compiler": "XeLaTeX",
+  "missing_characters": 0,
+  "overfull_warnings": 0,
+  "checks": [
+    {
+      "file": "simplify_029b8809a061b3dcbf0ad410.tex",
+      "sha256": "df328d280ec9703e56afe9c8b6b51c9b5bdbcb733caa79dfd11e67e205c7cfc1",
+      "passed": true
+    },
+    {
+      "file": "simplify_09d144e64421cca40caee281.tex",
+      "sha256": "3d437432ce7f53f4f597021c2e08a44189071603393665443f6bc1d603198b09",
+      "passed": true
+    },
+    {
+      "file": "simplify_0a74e9a1114fd788a25cd93f.tex",
+      "sha256": "a91adfd95e26d4da97e07f894df69b93cbc93e550539e8e6ada79545c663f8db",
+      "passed": true
+    },
+    {
+      "file": "simplify_15bc4d1fc0b3a8053a270177.tex",
+      "sha256": "c7f1737dc35caf0afb15e6b10fc1a258e851948da921ce5fc7f21e5094bd7fb6",
+      "passed": true
+    },
+    {
+      "file": "simplify_1e9fb4e2c802330756060b20.tex",
+      "sha256": "9da36f77df78b43a42277bb3f240fa8b9e1b4a1008358b8b37a3fd153364109f",
+      "passed": true
+    },
+    {
+      "file": "simplify_24d0c334a8420f9760c04bca.tex",
+      "sha256": "97cf5a659ebf1be83b9f4e9d932d7fdd6e91897345be851b163f0c6f15f10463",
+      "passed": true
+    },
+    {
+      "file": "simplify_2c437bcee0f32ac2ef6e24ae.tex",
+      "sha256": "164cd869b0ce93c9c6b405e6f87839a33d5aee4f043c4e6845c006fee6cfdbcb",
+      "passed": true
+    },
+    {
+      "file": "simplify_2dce6bf6a7200cd447b2f4f3.tex",
+      "sha256": "f72dfaf0c97238738d410149689d6b2842d2b573340887e8390d4624baa90bec",
+      "passed": true
+    },
+    {
+      "file": "simplify_316893405a85e08d385b1c10.tex",
+      "sha256": "732746156b81cfb30896d40f658ccd4058e2d52464906b521ed28aab89187fc6",
+      "passed": true
+    },
+    {
+      "file": "simplify_342bed93e32b3e631c38035a.tex",
+      "sha256": "40d57a89de844036221397331c163648504dc7533a8908849f95c5675c8c4c9e",
+      "passed": true
+    },
+    {
+      "file": "simplify_3753a70fb4d28604ce922616.tex",
+      "sha256": "e55fdae6f035a21eda2e78dcc1317b3d5d3e7bbbf73e58bdf5a775e48fde8ce3",
+      "passed": true
+    },
+    {
+      "file": "simplify_5491cae607a18890274fe87c.tex",
+      "sha256": "a11b72a57c00cca01b09b5c7b4589ee7a93d7dfbcdecee0069b5e257ce8a04b8",
+      "passed": true
+    },
+    {
+      "file": "simplify_6bb6f2de793c639ff3368c09.tex",
+      "sha256": "aaaf27cc171ccdf32a81b5b19589619c6ca9f458883bc2a11e97c52f844c8de9",
+      "passed": true
+    },
+    {
+      "file": "simplify_703d8a9bc831c225984b4bef.tex",
+      "sha256": "0b0058c7fc18e98cd5a811ad01fe4ef3c33db2785d49ee63d4572bcda30dca3d",
+      "passed": true
+    },
+    {
+      "file": "simplify_72c642ba2bcb2145a66293b7.tex",
+      "sha256": "a48ac5d41a9fc39384f36bcea9a1eca0274441019307868958a20576c581c612",
+      "passed": true
+    },
+    {
+      "file": "simplify_8332f43aa0a5b19240f53cf4.tex",
+      "sha256": "2b7272c3e184301720a009420971f3ce279b2b4771a4612ca2b65105acbea319",
+      "passed": true
+    },
+    {
+      "file": "simplify_879475a45e8ab8d0f8de9cc7.tex",
+      "sha256": "881bcc985eb461d5b35052c3be750477a2b451c2d655dd35d073012c248652b6",
+      "passed": true
+    },
+    {
+      "file": "simplify_97f48261355f24c96b668775.tex",
+      "sha256": "c92394c8b7cc3596047f120dbc507c45542817f5ed7f70d7090aaa95b88b55f3",
+      "passed": true
+    },
+    {
+      "file": "simplify_99c8393a9d0f8fa0845a4437.tex",
+      "sha256": "06253a8eb891f5d9dbd07fdf9e304dd11fad4e4dea7cc9b0a087d94a6f78c2bc",
+      "passed": true
+    },
+    {
+      "file": "simplify_9f56d5960867f047223bb7b0.tex",
+      "sha256": "dab31a268a50d05ea06a32d6879e811ca1f632b1f835f4324465c681e76a91f5",
+      "passed": true
+    },
+    {
+      "file": "simplify_ab9ad6d11f60a5bf790f590f.tex",
+      "sha256": "ead5326c53bd606c6249a4c4afec5bd59ca8e2db36691d05e6a243a973ea74f4",
+      "passed": true
+    },
+    {
+      "file": "simplify_b092232c62e384f2f87a4713.tex",
+      "sha256": "97bd76d6fc0a039f0c7d137669cf78a4218de312ab3c8ea5a9025889864dba2b",
+      "passed": true
+    },
+    {
+      "file": "simplify_b0a9fc306f04cc1ededcaa49.tex",
+      "sha256": "26cda650d66eb1c154197edc556d39aba90741e62f1ed9cb089327e3e43e8893",
+      "passed": true
+    },
+    {
+      "file": "simplify_b5bbb3424e03f1543b566053.tex",
+      "sha256": "28660dcaa25f9eb550b1885a94601b1b2e509c07808fbd129fc98fa19777264a",
+      "passed": true
+    },
+    {
+      "file": "simplify_b6d2fb12e8634df239092999.tex",
+      "sha256": "5299a85390270915d9ce6543454f0480324e33afe7df9a62a9354615e3873d6b",
+      "passed": true
+    },
+    {
+      "file": "simplify_b7a55e09afa12a5fe21fa5dc.tex",
+      "sha256": "fbc68f550a248444086575837b8449e1ecd63b0f51e598f9657717d6d59ce731",
+      "passed": true
+    },
+    {
+      "file": "simplify_ba0f5baca245b7dc0c41a230.tex",
+      "sha256": "81500e9e41defb9576d9c5f1874615f9cce7b4175339fc8071dcef47aebde6e2",
+      "passed": true
+    },
+    {
+      "file": "simplify_be9a09da0ffd5220dc170cbc.tex",
+      "sha256": "6ccfb727a2bc8a4c1849a214836548b75d229f37fd567d072ff194f9ff920f2c",
+      "passed": true
+    },
+    {
+      "file": "simplify_c027d36891f9de4462a0a427.tex",
+      "sha256": "c792a9ed2735373921dd12a0946b0f4d7b117784729414d9316876e59551990e",
+      "passed": true
+    },
+    {
+      "file": "simplify_c2b2bf0d3a9dcde8d013aacc.tex",
+      "sha256": "c0c7fa0153968edb968659f60cc7393b06f83d0d77d6afd0e47633ecf01bcd7e",
+      "passed": true
+    },
+    {
+      "file": "simplify_c42a1de215433692b928592f.tex",
+      "sha256": "e0a04a5d3d651643035c80f5df54095044a8859abb4add57496c04d8ecd7c1c4",
+      "passed": true
+    },
+    {
+      "file": "simplify_cad6b538fdb45c3bd5f916eb.tex",
+      "sha256": "a5061a53d6ee975e94c6cc48fe6c299cb8163482de5560aaabdfe7652c8e30d3",
+      "passed": true
+    },
+    {
+      "file": "simplify_d28233d00192ef1025a33c92.tex",
+      "sha256": "8b354fa0e74d0df4a2b52bba243a9595d5972b1702697641d9551a2ab83da01b",
+      "passed": true
+    },
+    {
+      "file": "simplify_d7e536bab56ca28c94401f1e.tex",
+      "sha256": "463de971917c0230680c4f875db6af307d725075b30899a83ed01ddc469d2cbc",
+      "passed": true
+    },
+    {
+      "file": "simplify_db28c674ef4c97ecbe95b36a.tex",
+      "sha256": "3ed5e1ea6a21da35606b8423cedc219b905f86d6ffbbdc5bf7f7acae1b45eb57",
+      "passed": true
+    },
+    {
+      "file": "simplify_f2933786337977e278c44a63.tex",
+      "sha256": "066243d58bd63ca922b488cf8ed23d189251db6434bb581119b26e0468b3083e",
+      "passed": true
+    },
+    {
+      "file": "simplify_f5cd068c368630a52b59bd2b.tex",
+      "sha256": "1b516f414729626acdd955705bbfeb7d21dcabad4cab19d2594d90236d767889",
+      "passed": true
+    },
+    {
+      "file": "simplify_ff9fc21e1b39c2f40acb8612.tex",
+      "sha256": "e814ce8ecd2222fe789be2572e8c492373856e63fc308ba56d81ddd9b67d6424",
+      "passed": true
+    }
+  ]
+}

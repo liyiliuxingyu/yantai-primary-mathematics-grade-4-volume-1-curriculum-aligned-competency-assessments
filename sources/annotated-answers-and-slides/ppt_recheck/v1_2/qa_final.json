@@ -1,0 +1,184 @@
+{
+  "passed": true,
+  "volumes": [
+    {
+      "volume": 1,
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+      "output_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+      "parent_sha256": "f027fc4bf7571b8d7ce84166be54b830ce6fbe29b5ca8b3c89e3028f2d7d1202",
+      "slides": 426,
+      "changed_slides": [
+        28,
+        29,
+        66,
+        73,
+        120,
+        162,
+        256,
+        339
+      ],
+      "static_rendered_changed_slide_count": 8,
+      "human_inspected_changed_slide_count": 8,
+      "all_original_timing_xml_bytes_unchanged": true,
+      "all_original_ids_names_order_preserved": true,
+      "native_math_count_before": 1725,
+      "native_math_count_after": 1785,
+      "unrelated_zip_parts_byte_identical": 4523,
+      "package_finalizer": "qa/finalizer_v1.json",
+      "artifacttool_import_passed": true,
+      "package_finalizer_passed": true,
+      "static_renders": [
+        {
+          "slide": 28,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-28.png",
+          "image_sha256": "78f128331b6f334ab53c7e7abb4f4eba2448898b6e08a8135d22eb3d5ad071d0",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 29,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-29.png",
+          "image_sha256": "6a927b17346eb1e47e7f860d051458d6068b2935312b373117ffe90396daff9d",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 66,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-66.png",
+          "image_sha256": "3310857706d4a197bd99289a312f1beb3243f1a6cf3adf2d2fbe9552c8d5931a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 73,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-73.png",
+          "image_sha256": "335cd506a05a3281ca349fa363f4bbea80a05d0d317ff81cbe0e81e168b886e6",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 120,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-120.png",
+          "image_sha256": "1f2c1efa72f9ea83ea80e47ae20116e125cc58e47f1f4732a6650bb79b2eb490",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 162,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-162.png",
+          "image_sha256": "f35c53c5ef2b7d64928a60548ca7a7f3cd2f15cd5893c38b728aae9a0a5e6257",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 256,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-256.png",
+          "image_sha256": "9a22f517c1d9496dfe160217cbfed8bd62089d6365aa385bcb0c198b756f5fb5",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 339,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-339.png",
+          "image_sha256": "3a2d1f3f01b00a59c50651358bb18772266a701bdf76635595eae3c2f9288659",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        }
+      ]
+    },
+    {
+      "volume": 2,
+      "output_sha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+      "slides": 479,
+      "changed_slides": [
+        149,
+        192,
+        310,
+        333,
+        352
+      ],
+      "static_rendered_changed_slide_count": 5,
+      "human_inspected_changed_slide_count": 5,
+      "all_original_timing_bytes_unchanged": true,
+      "all_original_ids_names_order_preserved": true,
+      "unrelated_slides_and_parts_byte_identical": true,
+      "static_renders": [
+        {
+          "slide": 149,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after2/slide-149.png",
+          "image_sha256": "8c19d54f0106449a8f149fb4c5d31f5306d31390cf5e5ade34cc62802ed2b83a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft2/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 192,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-192.png",
+          "image_sha256": "11f6758ba7a6d69ddcc6cec59edc0d7b4c71f0484d2d3e2d41c8e63f06ce8e9a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 310,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-310.png",
+          "image_sha256": "b9fba8e8abb7b6926f4658eefe392ffe61f27c9186df6b838e6dceab29b72476",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 333,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-333.png",
+          "image_sha256": "ca0fa3f43835cc1397ef0b8dbd8391b196a70e1d14ef8f721474d0a4918ad3c1",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 352,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-352.png",
+          "image_sha256": "0e166da0aa038d6c0288ad989b96ba553c92f99cba1c7244efce3beb4470671a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        }
+      ]
+    }
+  ],
+  "powerpoint_playback_tested": false,
+  "wps_playback_tested": false,
+  "changed_slide_count": 13,
+  "static_rendered_changed_slide_count": 13,
+  "human_inspected_changed_slide_count": 13,
+  "first_three_units_original_primary_methods_retained": true,
+  "arithmetic_laws_start_book_page": 25,
+  "source_qa": [
+    "ppt_recheck/v1_2/qa_v1.json",
+    "ppt_recheck_v2/qa_final.json"
+  ],
+  "native_formula_implementation": "New mathematics is native OMML with genuinely compiled XeLaTeX SVG/PNG compatibility assets. Explicit equals and expression columns are used. Every new source formula is included; portability checks are recorded separately.",
+  "original_animation_scope": "All original timing bytes and all original shape ID/name order were retained. New hints reuse original click groups; no claim of PowerPoint/WPS playback testing.",
+  "metadata_scope": "Only volume01/02 current_metadata modified records have been synced from final OMML/text. Final numeric answer slots and slide numbering are unchanged; project inventory is left to parent merge.",
+  "limits": [
+    "13 changed slides individually reviewed in actual ArtifactTool renders. Untouched slides were not all visually rereviewed this round; unrelated ZIP parts and every original timing were compared instead.",
+    "PowerPoint and WPS slideshow playback has not been tested."
+  ],
+  "portable_formula_sources": {
+    "compiled_actual_sources": 57,
+    "volume1": 38,
+    "volume2": 19,
+    "qa_paths": [
+      "ppt_recheck/v1_2/qa_portable_formulas_v1.json",
+      "ppt_recheck_v2/qa_portable_formulas.json"
+    ]
+  }
+}

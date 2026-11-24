@@ -1,0 +1,85 @@
+\PassOptionsToPackage{no-math}{fontspec}
+\documentclass{ctexbook}
+\XeTeXgenerateactualtext=1
+\usepackage{amsmath,amssymb,array,tabularx,graphicx,needspace,tikz}
+\usepackage[inner=22mm,outer=18mm,top=19mm,bottom=20mm,includeheadfoot]{geometry}
+\usetikzlibrary{calc,angles,quotes,arrows.meta,decorations.pathreplacing,
+  decorations.pathmorphing,decorations.markings,patterns,positioning,fit,
+  backgrounds,matrix,intersections,shapes.geometric}
+\usepackage{newunicodechar}
+\newfontface\BookSigns[Path=assets/]{DejaVuSans-symbols.ttf}
+\newunicodechar{①}{\ifmmode\text{\BookSigns\symbol{9312}}\else{\BookSigns\symbol{9312}}\fi}
+\newunicodechar{②}{\ifmmode\text{\BookSigns\symbol{9313}}\else{\BookSigns\symbol{9313}}\fi}
+\newunicodechar{③}{\ifmmode\text{\BookSigns\symbol{9314}}\else{\BookSigns\symbol{9314}}\fi}
+\newunicodechar{④}{\ifmmode\text{\BookSigns\symbol{9315}}\else{\BookSigns\symbol{9315}}\fi}
+\newunicodechar{⑤}{\ifmmode\text{\BookSigns\symbol{9316}}\else{\BookSigns\symbol{9316}}\fi}
+\newunicodechar{⑥}{\ifmmode\text{\BookSigns\symbol{9317}}\else{\BookSigns\symbol{9317}}\fi}
+\newunicodechar{⑦}{\ifmmode\text{\BookSigns\symbol{9318}}\else{\BookSigns\symbol{9318}}\fi}
+\newunicodechar{⑧}{\ifmmode\text{\BookSigns\symbol{9319}}\else{\BookSigns\symbol{9319}}\fi}
+\newunicodechar{⑨}{\ifmmode\text{\BookSigns\symbol{9320}}\else{\BookSigns\symbol{9320}}\fi}
+\newunicodechar{⑩}{\ifmmode\text{\BookSigns\symbol{9321}}\else{\BookSigns\symbol{9321}}\fi}
+\newunicodechar{⑪}{\ifmmode\text{\BookSigns\symbol{9322}}\else{\BookSigns\symbol{9322}}\fi}
+\newunicodechar{⑫}{\ifmmode\text{\BookSigns\symbol{9323}}\else{\BookSigns\symbol{9323}}\fi}
+\newunicodechar{⑬}{\ifmmode\text{\BookSigns\symbol{9324}}\else{\BookSigns\symbol{9324}}\fi}
+\newunicodechar{⑭}{\ifmmode\text{\BookSigns\symbol{9325}}\else{\BookSigns\symbol{9325}}\fi}
+\newunicodechar{⑮}{\ifmmode\text{\BookSigns\symbol{9326}}\else{\BookSigns\symbol{9326}}\fi}
+\newunicodechar{⑯}{\ifmmode\text{\BookSigns\symbol{9327}}\else{\BookSigns\symbol{9327}}\fi}
+\newunicodechar{⑰}{\ifmmode\text{\BookSigns\symbol{9328}}\else{\BookSigns\symbol{9328}}\fi}
+\newunicodechar{⑱}{\ifmmode\text{\BookSigns\symbol{9329}}\else{\BookSigns\symbol{9329}}\fi}
+\newunicodechar{⑲}{\ifmmode\text{\BookSigns\symbol{9330}}\else{\BookSigns\symbol{9330}}\fi}
+\newunicodechar{⑳}{\ifmmode\text{\BookSigns\symbol{9331}}\else{\BookSigns\symbol{9331}}\fi}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{−}{\ensuremath{-}}
+\newunicodechar{≤}{\ensuremath{\le}}
+\newunicodechar{≥}{\ensuremath{\ge}}
+\newunicodechar{≠}{\ensuremath{\ne}}
+\newunicodechar{→}{\ensuremath{\to}}
+\newunicodechar{✓}{\ensuremath{\checkmark}}
+\newunicodechar{△}{\ensuremath{\triangle}}
+\newunicodechar{○}{\ensuremath{\bigcirc}}
+\newunicodechar{★}{\ifmmode\text{\BookSigns\symbol{9733}}\else{\BookSigns\symbol{9733}}\fi}
+\newunicodechar{☆}{\ifmmode\text{\BookSigns\symbol{9734}}\else{\BookSigns\symbol{9734}}\fi}
+\newunicodechar{′}{\ensuremath{{}^{\prime}}}
+\newunicodechar{●}{\ifmmode\text{\BookSigns\symbol{9679}}\else{\BookSigns\symbol{9679}}\fi}
+\newunicodechar{▲}{\ifmmode\text{\BookSigns\symbol{9650}}\else{\BookSigns\symbol{9650}}\fi}
+\usepackage[unicode,hidelinks]{hyperref}
+\definecolor{answerred}{RGB}{205,20,35}
+\hypersetup{pdftitle={小学同步素养四年级上册数学答案},pdfsubject={ctexbook 窄边距重排版}}
+\setlength{\emergencystretch}{3em}
+\newcommand{\BookBlank}{\rule{2.8em}{.35pt}}
+\newcommand{\BookQuestion}[1]{\par\medskip\Needspace{5\baselineskip}%
+  \noindent\textbf{#1}\quad\ignorespaces}
+\newenvironment{BookAnswer}{%
+  \par\smallskip\Needspace{3\baselineskip}%
+  \begingroup\color{answerred}\kaishu\noindent\textbf{解答}\quad\ignorespaces%
+}{\par\endgroup\medskip}
+\newsavebox{\BookFigureBox}
+\newcommand{\BookFigure}[1]{%
+  \par\smallskip\noindent\makebox[\linewidth][c]{%
+    \sbox{\BookFigureBox}{\color{black}\colorlet{red}{answerred}\input{#1}}%
+    \ifdim\wd\BookFigureBox>\linewidth
+      \resizebox{\linewidth}{!}{\usebox{\BookFigureBox}}%
+    \else\usebox{\BookFigureBox}\fi%
+  }\par\smallskip}
+\newcommand{\BookImage}[1]{\par\smallskip
+  \noindent\makebox[\linewidth][c]{\includegraphics[width=.91\linewidth,
+    height=.32\textheight,keepaspectratio]{#1}}\par\smallskip}
+\newcommand{\BookAppendixPage}[2]{%
+  \par\pdfbookmark[1]{原书第#1页（参考答案）}{ref-#1}\noindent\textbf{原书第#1页}\par\smallskip
+  \noindent\makebox[\linewidth][c]{\includegraphics[page=#2,width=\linewidth,
+    height=.94\textheight,trim=42bp 16bp 41bp 32bp,clip,keepaspectratio]{assets/reference.pdf}}\par\clearpage}
+\title{小学同步素养四年级上册数学答案\\[.4em]\large 窄边距重排版}
+\author{}
+\date{}
+\begin{document}
+\frontmatter
+\maketitle
+\tableofcontents
+\mainmatter
+\input{chapters/index.tex}
+\appendix
+\chapter{原书参考答案}
+本附录沿用原书参考答案的题序与分栏。练习题的订正与补充解法见正文相应题目。
+\clearpage
+\input{chapters/reference.tex}
+\end{document}

@@ -1,0 +1,376 @@
+{
+  "passed": true,
+  "independent_reviewer": "average_crosscheck",
+  "scope": "Final 32 mean-related approved records plus adjacent clothing p108_s03 note completion found during visual review; 33 records in total. All arithmetic chains and required uncertainty notices independently reviewed.",
+  "changed_question_keys": [
+    "p073_s01",
+    "p073_s02",
+    "p073_s06",
+    "p073_s10",
+    "p074_s06",
+    "p075_s01",
+    "p075_s03",
+    "p075_s05",
+    "p076_s01",
+    "p077_s01",
+    "p077_s02",
+    "p077_s04",
+    "p077_s05",
+    "p077_s06",
+    "p077_s08",
+    "p078_s03",
+    "p078_s06",
+    "p079_s01",
+    "p079_s02",
+    "p079_s03",
+    "p088_s01",
+    "p089_s02",
+    "p089_s03",
+    "p089_s04",
+    "p089_s06",
+    "p089_s07",
+    "p090_s02",
+    "p090_s03",
+    "p091_s01",
+    "p091_s04",
+    "p098_s07",
+    "p108_s02",
+    "p108_s03"
+  ],
+  "questions_checked": 33,
+  "average_related_questions_checked": 32,
+  "adjacent_visual_issue_repair": [
+    "p108_s03"
+  ],
+  "arithmetic_equalities_checked": 376,
+  "arithmetic_failed_equalities": 0,
+  "arithmetic_unparsed_expressions": 0,
+  "calculation_blocks_checked": 126,
+  "independent_question_data_outcomes_checked": 45,
+  "question_data_results": [
+    {
+      "key": "p073_s01",
+      "independent_question_data_expression": "(112+105+119)/3",
+      "exact_result": "112",
+      "result_in_published_answer": "112"
+    },
+    {
+      "key": "p073_s02",
+      "independent_question_data_expression": "(500-400)/2",
+      "exact_result": "50",
+      "result_in_published_answer": "50"
+    },
+    {
+      "key": "p073_s02",
+      "independent_question_data_expression": "(500+400)/2",
+      "exact_result": "450",
+      "result_in_published_answer": "450"
+    },
+    {
+      "key": "p073_s06",
+      "independent_question_data_expression": "(98+125+149)/31",
+      "exact_result": "12",
+      "result_in_published_answer": "12"
+    },
+    {
+      "key": "p073_s10",
+      "independent_question_data_expression": "20*4-18*3",
+      "exact_result": "26",
+      "result_in_published_answer": "26"
+    },
+    {
+      "key": "p074_s06",
+      "independent_question_data_expression": "14*3-20-14",
+      "exact_result": "8",
+      "result_in_published_answer": "8"
+    },
+    {
+      "key": "p075_s01",
+      "independent_question_data_expression": "(70+120+170+240+190+130+60)/7",
+      "exact_result": "140",
+      "result_in_published_answer": "140"
+    },
+    {
+      "key": "p075_s03",
+      "independent_question_data_expression": "(720*2)/(12+8)",
+      "exact_result": "72",
+      "result_in_published_answer": "72"
+    },
+    {
+      "key": "p075_s05",
+      "independent_question_data_expression": "(87+83+85+88+82)/5",
+      "exact_result": "85",
+      "result_in_published_answer": "85"
+    },
+    {
+      "key": "p076_s01",
+      "independent_question_data_expression": "67*3-65-66",
+      "exact_result": "70",
+      "result_in_published_answer": "70"
+    },
+    {
+      "key": "p076_s01",
+      "independent_question_data_expression": "(95+96+94)/3",
+      "exact_result": "95",
+      "result_in_published_answer": "95"
+    },
+    {
+      "key": "p076_s01",
+      "independent_question_data_expression": "90*3-88-92",
+      "exact_result": "90",
+      "result_in_published_answer": "90"
+    },
+    {
+      "key": "p076_s01",
+      "independent_question_data_expression": "95*3-95-93",
+      "exact_result": "97",
+      "result_in_published_answer": "97"
+    },
+    {
+      "key": "p076_s01",
+      "independent_question_data_expression": "(83+86+83)/3",
+      "exact_result": "84",
+      "result_in_published_answer": "84"
+    },
+    {
+      "key": "p077_s01",
+      "independent_question_data_expression": "(16+15+20+18+14+19)/6",
+      "exact_result": "17",
+      "result_in_published_answer": "17"
+    },
+    {
+      "key": "p077_s02",
+      "independent_question_data_expression": "237+145*3",
+      "exact_result": "672",
+      "result_in_published_answer": "672"
+    },
+    {
+      "key": "p077_s02",
+      "independent_question_data_expression": "(237+145*3)/6",
+      "exact_result": "112",
+      "result_in_published_answer": "112"
+    },
+    {
+      "key": "p077_s04",
+      "independent_question_data_expression": "12*3-11*2",
+      "exact_result": "14",
+      "result_in_published_answer": "14"
+    },
+    {
+      "key": "p077_s05",
+      "independent_question_data_expression": "(56+(56-8))/2",
+      "exact_result": "52",
+      "result_in_published_answer": "52"
+    },
+    {
+      "key": "p077_s06",
+      "independent_question_data_expression": "(156+154+151+159+160)/5",
+      "exact_result": "156",
+      "result_in_published_answer": "156"
+    },
+    {
+      "key": "p077_s08",
+      "independent_question_data_expression": "(156+154+151+159+160-154+159)/5",
+      "exact_result": "157",
+      "result_in_published_answer": "157"
+    },
+    {
+      "key": "p077_s08",
+      "independent_question_data_expression": "(157*5-159+154)/5",
+      "exact_result": "156",
+      "result_in_published_answer": "156"
+    },
+    {
+      "key": "p078_s03",
+      "independent_question_data_expression": "45*3-40-40",
+      "exact_result": "55",
+      "result_in_published_answer": "55"
+    },
+    {
+      "key": "p078_s03",
+      "independent_question_data_expression": "(49+43+43)/3",
+      "exact_result": "45",
+      "result_in_published_answer": "45"
+    },
+    {
+      "key": "p078_s06",
+      "independent_question_data_expression": "281-94*2",
+      "exact_result": "93",
+      "result_in_published_answer": "93"
+    },
+    {
+      "key": "p079_s01",
+      "independent_question_data_expression": "(178+224+198)/3",
+      "exact_result": "200",
+      "result_in_published_answer": "200"
+    },
+    {
+      "key": "p079_s02",
+      "independent_question_data_expression": "(178+224+198)/(9+11+10)",
+      "exact_result": "20",
+      "result_in_published_answer": "20"
+    },
+    {
+      "key": "p079_s03",
+      "independent_question_data_expression": "(123+145+156+172+184)/5",
+      "exact_result": "156",
+      "result_in_published_answer": "156"
+    },
+    {
+      "key": "p088_s01",
+      "independent_question_data_expression": "(68-8-16)/2",
+      "exact_result": "22",
+      "result_in_published_answer": "22"
+    },
+    {
+      "key": "p089_s02",
+      "independent_question_data_expression": "(160+150)/2",
+      "exact_result": "155",
+      "result_in_published_answer": "155"
+    },
+    {
+      "key": "p089_s02",
+      "independent_question_data_expression": "160-150",
+      "exact_result": "10",
+      "result_in_published_answer": "10"
+    },
+    {
+      "key": "p089_s03",
+      "independent_question_data_expression": "(12+8+7+13)/4",
+      "exact_result": "10",
+      "result_in_published_answer": "10"
+    },
+    {
+      "key": "p089_s04",
+      "independent_question_data_expression": "20*3-23-15",
+      "exact_result": "22",
+      "result_in_published_answer": "22"
+    },
+    {
+      "key": "p089_s06",
+      "independent_question_data_expression": "(96+156)/(3+4)",
+      "exact_result": "36",
+      "result_in_published_answer": "36"
+    },
+    {
+      "key": "p089_s07",
+      "independent_question_data_expression": "(98+95+96+95+96)/5",
+      "exact_result": "96",
+      "result_in_published_answer": "96"
+    },
+    {
+      "key": "p090_s02",
+      "independent_question_data_expression": "(73+81+81+87+95)/5",
+      "exact_result": "417/5",
+      "result_in_published_answer": "83.4"
+    },
+    {
+      "key": "p090_s02",
+      "independent_question_data_expression": "(73+81+87+87+95)/5",
+      "exact_result": "423/5",
+      "result_in_published_answer": "84.6"
+    },
+    {
+      "key": "p090_s03",
+      "independent_question_data_expression": "80-(60-50)*6",
+      "exact_result": "20",
+      "result_in_published_answer": "20"
+    },
+    {
+      "key": "p091_s01",
+      "independent_question_data_expression": "(96+88+92+88)/4",
+      "exact_result": "91",
+      "result_in_published_answer": "91"
+    },
+    {
+      "key": "p091_s01",
+      "independent_question_data_expression": "(96+88+82+18)/4",
+      "exact_result": "71",
+      "result_in_published_answer": "71"
+    },
+    {
+      "key": "p091_s04",
+      "independent_question_data_expression": "2500*3-2700-2200",
+      "exact_result": "2600",
+      "result_in_published_answer": "2600"
+    },
+    {
+      "key": "p091_s04",
+      "independent_question_data_expression": "3000*3-2700-2200",
+      "exact_result": "4100",
+      "result_in_published_answer": "4100"
+    },
+    {
+      "key": "p098_s07",
+      "independent_question_data_expression": "32/8",
+      "exact_result": "4",
+      "result_in_published_answer": "4"
+    },
+    {
+      "key": "p108_s02",
+      "independent_question_data_expression": "(40*11)/(11-3)",
+      "exact_result": "55",
+      "result_in_published_answer": "55"
+    },
+    {
+      "key": "p108_s03",
+      "independent_question_data_expression": "62*45+38*45",
+      "exact_result": "4500",
+      "result_in_published_answer": "4500"
+    }
+  ],
+  "manual_checks": {
+    "mathematical_methods_fit_primary_stage": true,
+    "all_final_values_and_units_preserved": true,
+    "independent_computations_done_together_where_applicable": true,
+    "multiplication_order_each_amount_times_count": true,
+    "simplification_uses_grouping_complement_or_average_deviation": true,
+    "75_total_distance_parenthesized": true,
+    "108_total_pages_parenthesized": true,
+    "grouping_properties_explained": true,
+    "quantity_versus_number_of_observations_distinguished": true,
+    "weighted_means_use_total_counts": true,
+    "scoring_removes_one_high_and_one_low": true,
+    "conceptual_questions_not_forced_into_needless_calculation": true
+  },
+  "actual_original_pdf_book_pages_visually_reviewed": [
+    75,
+    77,
+    79,
+    90,
+    91,
+    108
+  ],
+  "preserved_limits": [
+    "Book 90 choice 4: average lies between 83.4 and 84.6; all printed choices invalid; no rounding instruction.",
+    "Book 90 choice 5: original number is 20 and no printed option is 20.",
+    "Book 91 problem 1: score glyphs damaged. 91 is conditional on 92 and 88; 71 is conditional on alternate 82 and 18.",
+    "Book 91 problem 4: blurred mean. 2600mL if mean2500mL; 4100mL if mean3000mL. Original reading remains unresolved.",
+    "Book98 choice5: correct increase4 points does not match printed D increase1 point; options not silently changed.",
+    "Book74 choice4 original15kg versus book-reference A contradiction is outside this edit and remains preserved."
+  ],
+  "sources_sha256": {
+    "detailed_layout/notes_C.json": "80068a23af0216ee77333275572a607b98f6ce8aae24fb8d9425f82838ca0291",
+    "detailed_layout/notes_D.json": "b5038c8132d70cd0b127058eeb961c33f02aaa92c23a749c04552a5a8f0e493e",
+    "questions/p073.json": "0a53aabad572c24e3a129a12b2748c3e191f9a51db2e0bbdbbb0f0feee6199ed",
+    "questions/p074.json": "cea962f0d26c6bb049b4c4211374b44799e34740b6606ce97113fbb90aaf3ee9",
+    "questions/p075.json": "aa9bc3e4d955a4b068c1e29080538214182f2211b2108760083627f10316a8b6",
+    "questions/p076.json": "7f031e5f35808f2d55dc8bda3998ab1591f20643fe23e5010fe731033461b1b6",
+    "questions/p077.json": "e6f5d0e12778cc5c7c16da4ac7dddc1d75c2f14dc933156d3f9a86c86d44f4ea",
+    "questions/p078.json": "a4e71b00af2611bd5cb1880002b4139c4c260aae8187cb18679cb9fc087cc028",
+    "questions/p079.json": "797850a416080f5d333db2d735b1d6c8b29936f0859bd2d6505a58c5508ac520",
+    "questions/p088.json": "80ca109ab79196e3bfb8212dba4333aa4aa7eddaf6c347ef38e5b262ed45e25f",
+    "questions/p089.json": "796e9d53261f80c86cc87a25c49aa629dc24c1a08f55a2551021a6c4ce18297f",
+    "questions/p090.json": "c8d371c47946a352e0017973286c009c96e04f27deae689a9d661c4cebbd584c",
+    "questions/p091.json": "38d3c001da32a46e2539d40c3717c6d9a6fecc26778e632c0a2bd3be0e388a21",
+    "questions/p098.json": "a58ab0167d55136a722c1ebc56349451127786cda52f1d73a11e5e73805f0f65",
+    "questions/p108.json": "410b64e99c249161eb2ba6b80421912a294219a98eb1fe7063adf5cb8e8a639b"
+  },
+  "evidence": [
+    "qa_math_arithmetic.json",
+    "check_math_independent.py",
+    "manual_math_review.py"
+  ],
+  "native_powerpoint_playback_tested": false,
+  "pdf_or_ppt_layout_signoff_in_this_report": false
+}

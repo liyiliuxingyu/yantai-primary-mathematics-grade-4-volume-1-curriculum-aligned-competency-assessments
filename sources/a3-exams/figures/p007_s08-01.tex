@@ -1,0 +1,13 @@
+\begin{tikzpicture}[x=1bp,y=-1bp,line width=.55bp,
+  box/.style={draw,minimum width=79bp,minimum height=19bp,inner sep=1bp,
+    font=\kaishu\fontsize{10bp}{12bp}\selectfont}]
+  \node[box] (goal) at (101,0) {椅子的单价};
+  \foreach \row/\y in {1/33,2/66,3/99}{
+    \node[box] (left\row) at (46,\y) {};
+    \node[box] (right\row) at (156,\y) {};
+    \draw (101,\y) circle[radius=6.2bp];
+  }
+  \draw (goal.south)--(left1.north) (goal.south)--(right1.north);
+  \draw (left1.south)--(left2.north) (left1.south)--(right2.north);
+  \draw (right2.south)--(left3.north) (right2.south)--(right3.north);
+\end{tikzpicture}

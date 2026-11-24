@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "snippets": 943,
+  "local_patches": 87,
+  "relative_font_path": true,
+  "portable_tex_sha256": "5d18ba215d0bc662f86d800311dbf6b15339d9e28cf15933fff790b94a099162",
+  "missing_characters": 0,
+  "overfull_hbox": 0,
+  "overfull_vbox": 0,
+  "actual_xelatex_compile": true
+}

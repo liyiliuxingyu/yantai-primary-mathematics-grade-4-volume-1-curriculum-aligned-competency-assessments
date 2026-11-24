@@ -1,0 +1,82 @@
+\documentclass[multi=snippet,border={5bp 20bp 5bp 5bp}]{standalone}
+\usepackage{fontspec,amssymb,array,graphicx,xcolor,tikz,enumitem,booktabs,multicol}
+\usepackage[fleqn]{amsmath}
+\usetikzlibrary{calc,arrows.meta,angles,quotes,decorations.pathreplacing,patterns,positioning,intersections}
+\setmainfont[Path=fonts/,AutoFakeBold=1.2]{FandolKai-Regular.otf}
+\definecolor{answerred}{RGB}{205,20,35}
+\newenvironment{snippet}[3]{\begin{minipage}{#1bp}\color{answerred}\fontsize{#2}{#3}\selectfont\raggedright}{\end{minipage}}
+\setlength{\parindent}{0pt}\setlength{\parskip}{2bp}
+\setlength{\abovedisplayskip}{3bp}\setlength{\belowdisplayskip}{3bp}
+\setlength{\abovedisplayshortskip}{2bp}\setlength{\belowdisplayshortskip}{2bp}
+\setlength{\mathindent}{0bp}\setlength\jot{1pt}\setlist{nosep,leftmargin=*}
+\setlength{\columnsep}{11bp}\setlength{\columnseprule}{0.18bp}
+\def\columnseprulecolor{\color{answerred!45}}
+\setlength{\multicolsep}{0bp}\setlength{\premulticols}{0bp}\setlength{\postmulticols}{0bp}
+\setcounter{unbalance}{0}\setcounter{minrows}{1}
+\XeTeXlinebreaklocale "zh"\XeTeXlinebreakskip=0pt plus 1pt\emergencystretch=3em\sloppy
+\newfontfamily\SourceSans[Path=fonts/,AutoFakeBold=1.2]{DroidSansFallback.ttf}
+\begin{document}
+% p010_s04_local1
+\begin{snippet}{7.699999999999989}{11.5}{14}\SourceSans\setlength{\mathindent}{2bp}{\color{black}\(3\)}\end{snippet}
+% p010_s04_local2
+\begin{snippet}{18}{11.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(\mathrm A\)\end{snippet}
+% p011_s02_local1
+\begin{snippet}{27.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(2622\)\end{snippet}
+% p011_s03_local1
+\begin{snippet}{47.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(9\cdots\cdots16\)\end{snippet}
+% p011_s04_local1
+\begin{snippet}{15.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(6\)\end{snippet}
+% p011_s05_local1
+\begin{snippet}{47.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(33\cdots\cdots4\)\end{snippet}
+% p015_s01_local1
+\begin{snippet}{27.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(3354\)\end{snippet}
+% p015_s02_local1
+\begin{snippet}{19.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(29\)\end{snippet}
+% p015_s03_local1
+\begin{snippet}{27.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(7700\)\end{snippet}
+% p015_s04_local1
+\begin{snippet}{15.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(8\)\end{snippet}
+% p058_s09_local1
+\begin{snippet}{37.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(17.55\)\end{snippet}
+% p058_s09_local2
+\begin{snippet}{37.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(6.25\)\end{snippet}
+% p058_s09_local3
+\begin{snippet}{37.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(12.16\)\end{snippet}
+% p058_s09_local4
+\begin{snippet}{37.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(33.66\)\end{snippet}
+% p063_s01_local1
+\begin{snippet}{37.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(21.06\)\end{snippet}
+% p063_s01_local2
+\begin{snippet}{37.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(1.51\)\end{snippet}
+% p063_s01_local3
+\begin{snippet}{37.0}{10.5}{14}\SourceSans\setlength{\mathindent}{2bp}\(9.75\)\end{snippet}
+% p090_s06_local1
+\begin{snippet}{24.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(17.68\)\end{snippet}
+% p090_s07_local1
+\begin{snippet}{24.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(6.56\)\end{snippet}
+% p090_s08_local1
+\begin{snippet}{24.75}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(18.04\)\end{snippet}
+% p090_s09_local1
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(11.56\)\end{snippet}
+% p094_s09_local1
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(15.16\)\end{snippet}
+% p094_s09_local2
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(3.693\)\end{snippet}
+% p094_s09_local3
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(8512\)\end{snippet}
+% p094_s09_local4
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(209\)\end{snippet}
+% p103_s04_local1
+\begin{snippet}{32.0}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(25.17\)\end{snippet}
+% p103_s05_local1
+\begin{snippet}{32.75}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(42.1\)\end{snippet}
+% p103_s06_local1
+\begin{snippet}{25.5}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(5.97\)\end{snippet}
+% p103_s07_local1
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(11.42\)\end{snippet}
+% p107_s02_local1
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(19.07\)\end{snippet}
+% p107_s03_local1
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(7.5\)\end{snippet}
+% p107_s04_local1
+\begin{snippet}{34.25}{10}{14}\SourceSans\setlength{\mathindent}{2bp}\(8.12\)\end{snippet}\end{document}

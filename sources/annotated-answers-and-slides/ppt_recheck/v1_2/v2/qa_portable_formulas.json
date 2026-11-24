@@ -1,0 +1,123 @@
+{
+  "passed": true,
+  "formula_sources": 19,
+  "font_relative": true,
+  "missing_characters": 0,
+  "overfull_warnings": 0,
+  "sources": [
+    {
+      "tex": "recheck20261105_simplify_0c1f85540e06a8612cb91492.tex",
+      "sha256": "288aef79bcadb9a587d5b15061a5773144b8b3d033fe9f05ae04be579d01d845",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_18654523c8e6f4927407dc90.tex",
+      "sha256": "76f7d762f9ebdc0f2dd3649f3570a213d5c9c2b5fed8d95dd88fa1fe1f0fdcca",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_227ddf9bd0e78ccab7e46fa2.tex",
+      "sha256": "effcdbd07d0864d420e29ff65f1870addd7ec889938ff3aa54832ea89a4289a6",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_27bd7f9e49dcef5b315e4119.tex",
+      "sha256": "814f300b60424e89ea787a580d0b69d93b024c85c983ed9684a03fd5019ad17c",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_4a534aece67ac89a0a0f1417.tex",
+      "sha256": "673c94d71232a94fbc5b6968de7b039147e8a867c4ab0ac6fb51de0832eb1fdb",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_54999705529acd3d95adfd46.tex",
+      "sha256": "79b2ff108484fed05668a02db59605a139e4fb0198853dc4e1a3031aa5a624d2",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_5c24aaf463b82d83b2d92121.tex",
+      "sha256": "47e12ba1c6e108710c4c256a88b89079419de35c1e3e5f9d56a9266d29767b8b",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_790583c6fbbcaea257725c6d.tex",
+      "sha256": "921992de4b8490b58b4be1e8a51f2cc1bf6428c27a0e9dd2e8db75f6f0479ec8",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_7e4e800274ffed5b1259b58e.tex",
+      "sha256": "5ba9b2328baefc64642e2daaca227fc4dd237df0fc6e426eed55f97ef45be111",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_804f5b88c12c549a0640a8cc.tex",
+      "sha256": "beba5e77b053cded938d7661cb53528c4629ef5364df69ad24d82344dea13b0f",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_8ebfe1d6e1840166609a98c3.tex",
+      "sha256": "fce04c8f4d99a75e86ce3bdc7a1c6b81b6a2a2590b9075d43363a7cfbec27bfd",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_92eb88ec7d47b1a3d9d9a202.tex",
+      "sha256": "ee714c8b8429f1c5a7464c2e0249d5bfaad50753d5e5d9fb6e2dfb2770c96a38",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_c1de4f285bd13d6e6b90219b.tex",
+      "sha256": "79e737de312eb9d728a52dcd47ca04c55a007616c24e408629f2317b925c1383",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_c3270749a3dc5a3657f65942.tex",
+      "sha256": "77161aa4852d546088a5a469c07ddcee3d36ed027364a4d46abb4baca87c2fa5",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_cf1429b87b86c7cc2945fce5.tex",
+      "sha256": "cccd281e71cbb93d76a8c61222b84a890b863dbacd0bb1121a928d03e52b82b4",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_e8afafdc3dec653057f14964.tex",
+      "sha256": "e34b9cef02b1a3231321281d568a7c8d6f14fda99c265a6f5a074aa36c88c20f",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_f3fa719f845046379ccc2125.tex",
+      "sha256": "65a09a4bb3b1ed85adf2370e43ec0499f3a8f91bf8b2ea15d1337d6e09b7b617",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_ff9fc21e1b39c2f40acb8612.tex",
+      "sha256": "508a14e71e7c9b9eb0d446bb5bd1ac361db6ede8c05e1b5cefa2c2091c984cb2",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    },
+    {
+      "tex": "recheck20261105_simplify_ffbfc71e5414b83c217ec027.tex",
+      "sha256": "582eed07f0a336c242bfcd010ba4359430a9c7daeb68411bd5b51aa8b96506fd",
+      "relative_font_path": "../../fonts/",
+      "compiled": true
+    }
+  ]
+}

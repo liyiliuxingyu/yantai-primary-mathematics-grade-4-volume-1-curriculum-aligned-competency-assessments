@@ -1,0 +1,210 @@
+{
+  "book_page": 100,
+  "source_page": 104,
+  "records": [
+    {
+      "key": "p100_s01",
+      "book_page": 100,
+      "source_page": 104,
+      "section_index": 0,
+      "id": "五、1（1）",
+      "kind": "application",
+      "question_latex": "五、解决问题。（共35分）\\par 1. 社区开展助农直播活动，助力农户售卖水果与干货。\\par （1）农户上午卖出\\(15\\)箱苹果，每箱\\(32\\)元；卖出\\(12\\)箱梨，每箱\\(24\\)元。农户上午一共收入多少元？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "\\textbf{方法一：分别算两种水果收入}\\par 每箱32元乘15箱；每箱24元乘12箱，再相加。\\[\\begin{aligned} &32\\times15+24\\times12\\\\ ={}&480+288\\\\ ={}&768\\text{(元)}\\end{aligned}\\]答：上午共收入768元。\\par \\textbf{方法二：全部先按每箱24元，再补差价}\\par 共27箱先按每箱24元算，15箱苹果每箱还应补8元。\\[\\begin{aligned} &24\\times(15+12)+(32-24)\\times15\\\\ ={}&24\\times27+8\\times15\\\\ ={}&648+120\\\\ ={}&768\\text{(元)}\\end{aligned}\\]答：上午共收入768元。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "32元/箱×15箱、24元/箱×12箱；基准24元/箱×27箱、差价8元/箱×15箱"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p100_s02",
+      "book_page": 100,
+      "source_page": 104,
+      "section_index": 1,
+      "id": "五、1（2）",
+      "kind": "application",
+      "question_latex": "（2）农户下午卖出\\(80\\)袋核桃，每袋售价\\(45\\)元，每袋核桃需缴纳平台服务费\\(2\\)元。农户全天实际一共收入多少元？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "平台服务费只从下午核桃收入中扣除，上午收入不重复扣费。可先求每袋实收，再乘80袋；也可先列下午销售额减总服务费，利用乘法分配律合并共同的80。\\par \\[\\begin{aligned}&768+45\\times80-2\\times80\\\\={}&768+(45-2)\\times80\\\\={}&768+43\\times80\\\\={}&768+3440\\\\={}&4208\\text{(元)}\\end{aligned}\\]答：全天实际收入4208元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "本轮复核：另法同乘80的两项仍分别算3600、160，再与768混合相减。利用乘法分配律先合并成43×80，减少一个乘积及一次三数加减；保留先列销售额减服务费的数量分析，不新增第三种解法。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "每袋净收入43元×80袋；45元/袋×80袋、服务费2元/袋×80袋"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p100_s03",
+      "book_page": 100,
+      "source_page": 104,
+      "section_index": 2,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "2. 文具店售卖一款可换芯中性笔，笔杆长\\(0.14\\)米，配套的笔帽长\\(0.05\\)米。将笔帽套在笔杆上时，总长度是\\(0.15\\)米。请你计算一下笔帽和笔杆重叠部分的长度是多少厘米。（7分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p100_s03_g1",
+          "role": "question",
+          "tikz": "\\begin{tikzpicture}[x=.5cm,y=1cm]\\draw(0,0)rectangle(14,.22);\\draw(10,-.08)rectangle(15,.3);\\node[above]at(7,.35){笔杆0.14米};\\node at(12.5,-.35){笔帽0.05米};\\draw[<->](0,-.65)--(15,-.65)node[midway,below]{套好总长0.15米};\\end{tikzpicture}",
+          "notes": "示意线图替代不承载额外条件的中性笔照片，标长均来自题文。"
+        }
+      ],
+      "answer_latex": "\\textbf{方法一：两部分全长之和减套好后的总长}\\par 笔杆和笔帽分别量长后相加，重叠部分被多算了一次，减去总长即可。\\[\\begin{aligned} &0.14+0.05-0.15\\\\ ={}&0.19-0.15\\\\ ={}&0.04\\text{(米)}\\end{aligned}\\]\\[0.04\\text{米}=4\\text{厘米}\\]答：重叠部分长4厘米。\\par \\textbf{方法二：从笔帽长中扣掉露出的笔帽长}\\par 套好后比笔杆长多出0.01米，这0.01米是笔帽没有重叠的部分。\\[\\begin{aligned} &0.05-(0.15-0.14)\\\\ ={}&0.05-0.01\\\\ ={}&0.04\\text{(米)}\\end{aligned}\\]\\[0.04\\text{米}=4\\text{厘米}\\]答：重叠部分长4厘米。\\par ",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "无乘法；重叠部分加减求长"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p100_s04",
+      "book_page": 100,
+      "source_page": 104,
+      "section_index": 3,
+      "id": "五、3",
+      "kind": "application",
+      "question_latex": "3. 青岛到上海的高速公路全长约\\(720\\)千米，甲、乙两辆客车分别从青岛和上海同时相对开出，行驶\\(3\\)小时后，还相距\\(240\\)千米。甲客车的速度是\\(90\\)千米/时，求乙客车的速度。（先画图表示数量关系，再解答。）（9分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p100_s04_g1",
+          "role": "answer",
+          "tikz": "\\begin{tikzpicture}[x=1cm,y=1cm]\\draw(0,0)--(10,0);\\foreach \\x in {0,3.75,7.0833,10}\\draw(\\x,-.12)--(\\x,.12);\\node[below]at(0,0){青岛};\\node[below]at(10,0){上海};\\draw[->](0,.4)--(3.75,.4);\\draw[<-](7.0833,.4)--(10,.4);\\node[above]at(1.875,.4){甲：90千米/时，3小时};\\node[above]at(8.54,.4){乙：？千米/时，3小时};\\node[above]at(5.4167,0){240千米};\\draw[decorate,decoration={brace,mirror}](0,-.8)--(10,-.8)node[midway,below=5pt]{约720千米};\\end{tikzpicture}"
+        }
+      ],
+      "answer_latex": "图中总路程720千米被分成甲车3小时所行路程、两车相距240千米、乙车3小时所行路程三段。\\par \\textbf{方法一：先求两车速度之和}\\par 先求3小时两车一共行多少千米，除以3求速度和，再减甲车速度。\\[\\begin{aligned} &(720-240)\\div3-90\\\\ ={}&480\\div3-90\\\\ ={}&160-90\\\\ ={}&70\\text{(千米/时)}\\end{aligned}\\]答：乙车每小时约行70千米。\\par \\textbf{方法二：先求乙车行驶路程}\\par 从720千米中依次扣掉尚余240千米及甲车所行270千米，余下是乙车3小时行驶路程。\\[\\begin{aligned} &(720-240-90\\times3)\\div3\\\\ ={}&(720-240-270)\\div3\\\\ ={}&(480-270)\\div3\\\\ ={}&210\\div3\\\\ ={}&70\\text{(千米/时)}\\end{aligned}\\]答：乙车每小时约行70千米。\\par \\par 代回线段图检验：甲、乙已行路程与尚余路程相加为\\(90\\times3+70\\times3+240=270+210+240=720\\)千米，恰好等于两地总路程。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。",
+          "修正或补足解析。",
+          "追加量义与每份数×份数复核时，补齐依赖计算的中间步骤；未改变结果。"
+        ],
+        "uncertainties": [],
+        "multiplication_order_review": {
+          "status": "reviewed",
+          "rule": "每份数×份数＝总数",
+          "semantic_checks": [
+            "甲车90千米/时×3小时；检验乙车70千米/时×3小时"
+          ],
+          "reversed_quantity_products_found": false
+        }
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p100_s05",
+      "book_page": 100,
+      "source_page": 104,
+      "section_index": 4,
+      "id": "五、4（1）（2）",
+      "kind": "fill",
+      "question_latex": "4. 下面是四（1）班同学的综合素质成绩（单位：分）。（9分）\\par \\(58\\quad95\\quad86\\quad75\\quad84\\quad87\\quad59\\quad90\\quad77\\quad98\\quad93\\quad87\\quad58\\quad62\\quad77\\quad86\\)\\par \\(98\\quad68\\quad90\\quad87\\quad96\\quad95\\quad98\\quad88\\quad90\\quad77\\quad95\\quad84\\quad99\\quad67\\quad78\\quad88\\)\\par \\(90\\quad91\\quad86\\quad93\\)\\par （1）请根据以上数据，完成下面的统计表。\\par 备注：85～100分为优秀；70～84分为良好；60～69分为合格；60分以下为不合格。\\par （2）你认为该班级综合素质是怎样的？说明理由。",
+      "options": [],
+      "tables": [
+        {
+          "headers": [
+            "等级",
+            "合计",
+            "优秀",
+            "良好",
+            "合格",
+            "不合格"
+          ],
+          "rows": [
+            [
+              "人数",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "diagrams": [],
+      "answer_latex": "按给定等级边界逐人成绩登记：\\(85\\sim100\\)分23人；\\(70\\sim84\\)分7人；\\(60\\sim69\\)分3人；60分以下3人。\\par 合计\\(23+7+3+3=36\\)人。依次填合计36、优秀23、良好7、合格3、不合格3；边界85归优秀，70和84归良好，60和69归合格。\\par \\textbf{（2）说明：}整体情况较好：36人中优秀23人，23大于36的一半；优秀与良好共\\(23+7=30\\)人。也应关注3名不合格同学，查找具体困难并提供帮助。说明必须引用表中数据，不能只写“好”或“不好”。",
+      "verification": {
+        "status": "verified",
+        "reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+        "changes": [
+          "按原扫描补全可编辑题干；旧解仅作为核对对象。"
+        ],
+        "uncertainties": []
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

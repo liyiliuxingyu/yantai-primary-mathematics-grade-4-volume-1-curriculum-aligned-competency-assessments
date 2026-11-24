@@ -1,0 +1,472 @@
+{
+  "passed": true,
+  "pdf_sha256": "a2a3a222c34402a4e057b4c43e8544498909a9b943f1ade253cee6856187374b",
+  "pages": [
+    11,
+    15,
+    58,
+    63,
+    90,
+    94,
+    103,
+    107
+  ],
+  "actual_results_checked": 30,
+  "all_original_equals_retained": true,
+  "no_repeated_equals_added": true,
+  "math_and_remainders_correct": true,
+  "readability": "3x rendered original question rows reviewed; p11 remainders and dense p90 row fit without collision.",
+  "visual_contact": "qa_vertical/final/contact.png",
+  "records": [
+    {
+      "id": "p011_s05_local1",
+      "book_page": 11,
+      "result": "33……4",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        492.1666666666667,
+        260.10333455403645,
+        539.1666666666667,
+        268.4366678873698
+      ]
+    },
+    {
+      "id": "p011_s02_local1",
+      "book_page": 11,
+      "result": "2622",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        146.83333333333334,
+        260.77000122070314,
+        168.16666666666669,
+        268.77000122070314
+      ]
+    },
+    {
+      "id": "p011_s03_local1",
+      "book_page": 11,
+      "result": "9……16",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        262.1666666666667,
+        260.77000122070314,
+        309.1666666666667,
+        268.77000122070314
+      ]
+    },
+    {
+      "id": "p011_s04_local1",
+      "book_page": 11,
+      "result": "6",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        376.5,
+        261.10333455403645,
+        381.5,
+        269.10333455403645
+      ]
+    },
+    {
+      "id": "p015_s02_local1",
+      "book_page": 15,
+      "result": "29",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        263.5,
+        99.77000122070312,
+        274.1666666666667,
+        107.77000122070312
+      ]
+    },
+    {
+      "id": "p015_s03_local1",
+      "book_page": 15,
+      "result": "7700",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        382.5,
+        99.4366678873698,
+        404.1666666666667,
+        107.77000122070312
+      ]
+    },
+    {
+      "id": "p015_s04_local1",
+      "book_page": 15,
+      "result": "8",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        501.1666666666667,
+        99.77000122070312,
+        506.1666666666667,
+        107.77000122070312
+      ]
+    },
+    {
+      "id": "p015_s01_local1",
+      "book_page": 15,
+      "result": "3354",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        144.83333333333334,
+        99.77000122070312,
+        166.5,
+        108.10333455403645
+      ]
+    },
+    {
+      "id": "p058_s09_local1",
+      "book_page": 58,
+      "result": "17.55",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        371.5,
+        1023.770001220703,
+        395.5,
+        1032.1033345540363
+      ]
+    },
+    {
+      "id": "p058_s09_local2",
+      "book_page": 58,
+      "result": "6.25",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        168.49999999999997,
+        1024.770001220703,
+        187.49999999999997,
+        1032.770001220703
+      ]
+    },
+    {
+      "id": "p058_s09_local3",
+      "book_page": 58,
+      "result": "12.16",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        175.83333333333331,
+        1123.770001220703,
+        199.83333333333331,
+        1131.770001220703
+      ]
+    },
+    {
+      "id": "p058_s09_local4",
+      "book_page": 58,
+      "result": "33.66",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        377.83333333333337,
+        1124.4366678873698,
+        402.1666666666667,
+        1132.4366678873698
+      ]
+    },
+    {
+      "id": "p063_s01_local1",
+      "book_page": 63,
+      "result": "21.06",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        179.49999999999997,
+        73.77000122070312,
+        203.83333333333331,
+        81.77000122070312
+      ]
+    },
+    {
+      "id": "p063_s01_local2",
+      "book_page": 63,
+      "result": "1.51",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        320.8333333333333,
+        73.77000122070312,
+        339.16666666666663,
+        81.77000122070312
+      ]
+    },
+    {
+      "id": "p063_s01_local3",
+      "book_page": 63,
+      "result": "9.75",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        473.5,
+        74.10333455403646,
+        492.5,
+        82.4366678873698
+      ]
+    },
+    {
+      "id": "p090_s06_local1",
+      "book_page": 90,
+      "result": "17.68",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        172.0,
+        1135.5800014977212,
+        194.0,
+        1143.246668164388
+      ]
+    },
+    {
+      "id": "p090_s07_local1",
+      "book_page": 90,
+      "result": "6.56",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        272.6666666666667,
+        1135.9133348310547,
+        290.0,
+        1143.2466681643882
+      ]
+    },
+    {
+      "id": "p090_s08_local1",
+      "book_page": 90,
+      "result": "18.04",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        381.75,
+        1135.5800014977212,
+        404.0833333333333,
+        1143.246668164388
+      ]
+    },
+    {
+      "id": "p090_s09_local1",
+      "book_page": 90,
+      "result": "11.56",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        504.5,
+        1135.9133348310547,
+        526.5,
+        1143.2466681643882
+      ]
+    },
+    {
+      "id": "p094_s09_local1",
+      "book_page": 94,
+      "result": "15.16",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        165.25,
+        1313.2466688310546,
+        187.25,
+        1320.5800021643881
+      ]
+    },
+    {
+      "id": "p094_s09_local2",
+      "book_page": 94,
+      "result": "3.693",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        293.9166666666667,
+        1313.2466688310546,
+        316.25,
+        1320.5800021643881
+      ]
+    },
+    {
+      "id": "p094_s09_local3",
+      "book_page": 94,
+      "result": "8512",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        398.6666666666667,
+        1313.2466688310546,
+        418.33333333333337,
+        1320.5800021643881
+      ]
+    },
+    {
+      "id": "p094_s09_local4",
+      "book_page": 94,
+      "result": "209",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        507.9166666666667,
+        1313.2466688310546,
+        522.5833333333334,
+        1320.5800021643881
+      ]
+    },
+    {
+      "id": "p103_s04_local1",
+      "book_page": 103,
+      "result": "25.17",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        166.41666666666666,
+        588.5800014977214,
+        189.08333333333331,
+        596.246668164388
+      ]
+    },
+    {
+      "id": "p103_s05_local1",
+      "book_page": 103,
+      "result": "42.1",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        282.5833333333333,
+        588.5800014977214,
+        299.91666666666663,
+        595.9133348310547
+      ]
+    },
+    {
+      "id": "p103_s06_local1",
+      "book_page": 103,
+      "result": "5.97",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        385.4166666666667,
+        588.5800014977214,
+        403.08333333333337,
+        596.246668164388
+      ]
+    },
+    {
+      "id": "p103_s07_local1",
+      "book_page": 103,
+      "result": "11.42",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        509.5,
+        588.5800014977214,
+        531.5,
+        595.9133348310547
+      ]
+    },
+    {
+      "id": "p107_s02_local1",
+      "book_page": 107,
+      "result": "19.07",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        169.25,
+        213.91333549772133,
+        191.58333333333334,
+        221.580002164388
+      ]
+    },
+    {
+      "id": "p107_s03_local1",
+      "book_page": 107,
+      "result": "7.5",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        324.9166666666667,
+        213.91333549772133,
+        337.25,
+        221.580002164388
+      ]
+    },
+    {
+      "id": "p107_s04_local1",
+      "book_page": 107,
+      "result": "8.12",
+      "actual_visible": true,
+      "matches_independent_arithmetic": true,
+      "no_original_black_ink_under_result": true,
+      "no_clipping_or_overlap_on_3x_visual_inspection": true,
+      "page_rect": [
+        475.9166666666667,
+        214.24666883105468,
+        493.25,
+        221.58000216438802
+      ]
+    }
+  ]
+}

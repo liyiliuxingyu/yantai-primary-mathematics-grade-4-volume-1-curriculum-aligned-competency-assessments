@@ -1,0 +1,110 @@
+{
+  "book_page": 64,
+  "source_page": 68,
+  "records": [
+    {
+      "key": "p064_s01",
+      "book_page": 64,
+      "source_page": 68,
+      "section_index": 0,
+      "id": "四、3",
+      "kind": "application",
+      "question_latex": "“五岳”是我国五大名山的总称，其中海拔最低的是南岳衡山，海拔约\\(1.3\\)千米，海拔最高的是西岳华山，西岳华山的海拔比南岳衡山约高\\(0.85\\)千米，比东岳泰山约高\\(0.62\\)千米，东岳泰山约高多少千米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先求华山海拔，再减去华山比泰山高的部分。\\[\\begin{aligned}&1.3+0.85-0.62\\\\={}&2.15-0.62\\\\={}&1.53\\text{(千米)}\\end{aligned}\\]答：东岳泰山约高1.53千米。\\par 方法二：先求泰山比衡山高多少，再加衡山海拔。\\[\\begin{aligned}&1.3+(0.85-0.62)\\\\={}&1.3+0.23\\\\={}&1.53\\text{(千米)}\\end{aligned}\\]答：约高1.53千米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p064_s02",
+      "book_page": 64,
+      "source_page": 68,
+      "section_index": 1,
+      "id": "四、4",
+      "kind": "application",
+      "question_latex": "一根绳子长\\(2.35\\)米，另一根绳子长\\(2.85\\)米，把两根绳子接在一起后的长度是\\(4.7\\)米，接头处是多少米？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：两根原长的和减去接后总长，就是重复计算的接头长。\\[\\begin{aligned}&2.35+2.85-4.7\\\\={}&5.20-4.70\\\\={}&0.50\\text{(米)}\\end{aligned}\\]答：接头处长0.5米。\\par 方法二：先从接后总长中扣去第二根，求第一根未重叠部分，再与其原长比较。\\[\\begin{aligned}&2.35-(4.7-2.85)\\\\={}&2.35-1.85\\\\={}&0.50\\text{(米)}\\end{aligned}\\]答：接头处长0.5米。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p064_s03",
+      "book_page": 64,
+      "source_page": 68,
+      "section_index": 2,
+      "id": "四、5",
+      "kind": "application",
+      "question_latex": "电商平台助力乡村振兴，李阿姨通过直播销售家乡农产品。9月份售出\\(1.8\\)万箱农产品，10月份比9月份少\\(0.26\\)万箱，这两个月一共售出多少万箱？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先求10月销量，再加9月销量。\\[\\begin{aligned}&1.8+(1.8-0.26)\\\\={}&1.8+1.54\\\\={}&3.34\\text{(万箱)}\\end{aligned}\\]答：两个月共售出3.34万箱。\\par 方法二：按两个月都卖1.8万箱算，再减去10月少卖的0.26万箱。\\[\\begin{aligned}&1.8+1.8-0.26\\\\={}&3.60-0.26\\\\={}&3.34\\text{(万箱)}\\end{aligned}\\]答：共售出3.34万箱。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p064_s04",
+      "book_page": 64,
+      "source_page": 68,
+      "section_index": 3,
+      "id": "四、6",
+      "kind": "application",
+      "question_latex": "小明去书店买了一本书，付给售货员50元，找回\\(38.5\\)元。他仔细一算，发现售货员多找了10元，这本书多少元？",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：先求正确找零，再用付款减去正确找零。\\[\\begin{aligned}&50-(38.5-10)\\\\={}&50-28.5\\\\={}&21.5\\text{(元)}\\end{aligned}\\]答：这本书21.5元。\\par 方法二：按错误找零算出的书价少了10元，再加回10元。\\[\\begin{aligned}&50-38.5+10\\\\={}&11.5+10\\\\={}&21.5\\text{(元)}\\end{aligned}\\]答：这本书21.5元。",
+      "verification": {
+        "status": "verified",
+        "reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+        "changes": [],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

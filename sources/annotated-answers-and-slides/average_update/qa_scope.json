@@ -1,0 +1,72 @@
+{
+  "passed": true,
+  "pdf_sha256": "6368cf44ed10565b8249b02791c38dafbe6b6a42ecc81a0ccef6ab63afc1f9b8",
+  "pages": 128,
+  "all_pages_raster_checked": 128,
+  "unchanged_pages_identical": 116,
+  "changed_pages": [
+    {
+      "book_page": 73,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 78
+    },
+    {
+      "book_page": 75,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 266
+    },
+    {
+      "book_page": 76,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 29
+    },
+    {
+      "book_page": 77,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 376
+    },
+    {
+      "book_page": 78,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 48
+    },
+    {
+      "book_page": 79,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 122
+    },
+    {
+      "book_page": 88,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 1
+    },
+    {
+      "book_page": 89,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 530
+    },
+    {
+      "book_page": 90,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 141
+    },
+    {
+      "book_page": 91,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 55
+    },
+    {
+      "book_page": 98,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 34
+    },
+    {
+      "book_page": 108,
+      "outside_changed_objects_new_gaps_and_form_clip_edges_identical": true,
+      "height_added_pt": 29
+    }
+  ],
+  "first_page_blank": true,
+  "native_form_clip_edge_tolerance_pt": 1,
+  "max_unexpected_pixels": 0
+}

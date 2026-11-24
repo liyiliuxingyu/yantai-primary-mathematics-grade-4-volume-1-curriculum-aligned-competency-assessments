@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "pdf_sha256": "0c2b58508dc03f5724055d47df357044426fb7196d506894728c93258b04fe44",
+  "changed_book_pages": [
+    65,
+    70,
+    85
+  ],
+  "unchanged_pdf_pages": 125,
+  "changed_note_keys": [
+    "p065_s05",
+    "p070_s06",
+    "p070_s11",
+    "p085_s11"
+  ],
+  "only_judgment_changed": "p070_s06:√→×",
+  "original_book_reference_agrees": true,
+  "actual_visual_review": {
+    "book_pages": [
+      65,
+      70,
+      85
+    ],
+    "pdf_pages": [
+      69,
+      74,
+      89
+    ],
+    "full_page_images": [
+      "axis_revision/p065_after.png",
+      "axis_revision/p070_after.png",
+      "axis_revision/p085_after.png"
+    ],
+    "high_magnification_images": [
+      "axis_revision/axis_mark_review.png"
+    ],
+    "scope": "实际查看3个修改页的全页布局；另以3倍局部检查70页二3/4/5相邻三个判断符号与括号。数学独立复核仅针对本次4条术语说明及二4判断，不声称复核所有周围未变题目的数学。"
+  },
+  "old_check_drawing_removed": true,
+  "new_compiled_snippets": 917,
+  "local_patches": 61,
+  "scope_qa": "axis_update/qa_scope.json",
+  "math_visual_qa": "axis_update/qa_visual.json",
+  "recovery_qa": "axis_update/qa_recovery.json",
+  "portability_qa": "axis_update/qa_portability.json",
+  "ppt_qa": "axis_update/ppt/qa_ppt.json",
+  "powerpoint_playback_tested": false,
+  "limits": "Actual review is limited to the 3 changed PDF pages and 3 changed PPT slides; 125 other PDF pages were rendered and compared exactly. Existing historical QA records remain history."
+}

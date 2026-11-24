@@ -1,0 +1,112 @@
+{
+  "scope": {
+    "question_files": 108,
+    "question_records": 867,
+    "note_records": 867,
+    "method": "完整解析全部JSON题干/答案及四段notes，文本筛查对角线、对边中点连线、高等与对称轴的关系，逐项阅读命中上下文。PPT的全部页由另一个专项代理核查。",
+    "read_only": true
+  },
+  "definition_evidence": [
+    {
+      "key": "p069_s01",
+      "text": "将一个图形沿一条（    ）对折，如果两侧的部分能够完全重合，这样的图形叫作（    ），折痕所在的直线叫作它的（    ）。对应点到对称轴的距离（    ），对应点的连线与对称轴互相（    ）。",
+      "reason": "同卷定义题明确写折痕所在的直线叫作对称轴。"
+    },
+    {
+      "key": "p070_s11",
+      "text": "一个三角形任意一条边上的高所在的直线都是它的对称轴，这个三角形是（    ）。A.等腰三角形；B.等腰直角三角形；C.等边三角形；D.任意三角形。",
+      "reason": "同页原题已规范写高所在的直线。"
+    }
+  ],
+  "mathematical_conclusion": "按严格几何对象类型，线段不能直接等同于对称轴。正方形两条对角线所在直线确为对称轴，轴数仍为4。",
+  "changes": [
+    {
+      "key": "p070_s06",
+      "book_page": 70,
+      "id": "二、4",
+      "fields": [
+        "answer_latex",
+        "notes_C.latex",
+        "PDF原位判断符号",
+        "PPT相关答案/解析/回填",
+        "ppt_builder/final_answers.json 的records.p070_s06.final_answers[0].answer_latex",
+        "ppt_builder/final_answers_c.json 的records.p070_s06.final_answers[0].answer_latex"
+      ],
+      "original_statement": "判断：正方形的对角线是它的对称轴。（    ）",
+      "keep_original_statement": true,
+      "judgment_before": "√",
+      "judgment_after": "×",
+      "reason": "严格定义下，对角线是线段，对称轴是直线。原命题把不同类型的几何对象等同，应判错。",
+      "replacement_explanation": "对角线是线段，对称轴是直线。应说：正方形每条对角线所在的直线都是它的对称轴。"
+    },
+    {
+      "key": "p065_s05",
+      "book_page": 65,
+      "id": "一、4",
+      "fields": [
+        "notes_C.latex",
+        "PPT对应解释"
+      ],
+      "answer_unchanged": "2、正方、等边",
+      "replacement_explanation": "长方形的两条对称轴是分别经过两组对边中点的直线；正方形另有两条对角线所在的直线，共4条对称轴。"
+    },
+    {
+      "key": "p070_s11",
+      "book_page": 70,
+      "id": "三、4",
+      "fields": [
+        "notes_C.latex",
+        "PPT对应解释如有同样省略"
+      ],
+      "answer_unchanged": "C（等边三角形）",
+      "replacement_explanation": "任意一条边上的高所在的直线都要成为对称轴。",
+      "note": "原题question_latex和answer_latex已明确所在直线，不应改题意。"
+    },
+    {
+      "key": "p085_s11",
+      "book_page": 85,
+      "id": "一、8",
+      "fields": [
+        "answer_latex",
+        "notes_D.latex",
+        "PPT对应解释"
+      ],
+      "answer_unchanged": "4、3、1",
+      "replacement_explanation": "正方形的两条对角线所在直线，以及两组对边中点连线所在直线，共4条对称轴。"
+    }
+  ],
+  "reference_answer": {
+    "location": "答案PDF第121页左上，原书参考答案印刷第117页；第九单元素养评价(B)，二、4",
+    "actual_mark": "×",
+    "full_judgment_row": [
+      "×",
+      "√",
+      "×",
+      "×",
+      "√"
+    ],
+    "matches_proposed_correction": true,
+    "conflict": false,
+    "note": "原书参考答案本来判×；我们生成的红笔√及说明错误，纠正后与原参考一致。不得默改原扫描。",
+    "actual_visual_evidence": "axis_revision/p070_reference_crop.png"
+  },
+  "excluded": [
+    {
+      "key": "p067_s09",
+      "reason": "原答案和notes均已写连接相对顶点/对边中点的直线，术语规范，无需改。"
+    },
+    {
+      "key": "p099_s07",
+      "reason": "对应点连线与轴垂直并未把线段当作轴，线段与直线可以讨论垂直关系，无需改。"
+    },
+    {
+      "key": "p086_s05",
+      "reason": "沿对角线对折描述折叠操作，并不直接断言线段是对称轴；不因关键词相同泛改。"
+    }
+  ],
+  "pdf_inspection": {
+    "main_question": "parent已实际查看原书70页整页；本代理实际看原书69页单位标题及书后第121页3倍裁图。",
+    "all_pages_human_review": false
+  },
+  "source_override_note": "两份final_answers的目标仍为\\checkmark，须同步改\\times，避免重建回填页恢复错答。当前manifest应按record_key核对，而非只搜中文。"
+}

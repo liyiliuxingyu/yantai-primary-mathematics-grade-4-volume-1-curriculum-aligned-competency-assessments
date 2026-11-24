@@ -1,0 +1,462 @@
+{
+  "book_page": 31,
+  "source_page": 35,
+  "records": [
+    {
+      "key": "p031_s01",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 0,
+      "id": "三、1（1）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(28+172=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两数凑整百。\\[\\begin{aligned} &28+172\\\\={}&200\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s02",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 1,
+      "id": "三、1（2）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(136-45-55=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "两个减数先凑100；原题得36。\\[\\begin{aligned} &136-45-55\\\\={}&136-(45+55)\\\\={}&136-100\\\\={}&36\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s03",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 2,
+      "id": "三、1（3）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(200\\div25\\div2=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "连续除可合并除数。\\[\\begin{aligned} &200\\div25\\div2\\\\={}&200\\div(25\\times2)\\\\={}&200\\div50\\\\={}&4\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s04",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 3,
+      "id": "三、1（4）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(160\\div2\\times5=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "乘除同级，从左往右。\\[\\begin{aligned} &160\\div2\\times5\\\\={}&80\\times5\\\\={}&400\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s05",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 4,
+      "id": "三、1（5）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(101\\times12=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把101拆成100和1。\\[\\begin{aligned} &101\\times12\\\\={}&(100+1)\\times12\\\\={}&1200+12\\\\={}&1212\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s06",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 5,
+      "id": "三、1（6）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(139+65-39=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先让139减去39。\\[\\begin{aligned} &139+65-39\\\\={}&(139-39)+65\\\\={}&100+65\\\\={}&165\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s07",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 6,
+      "id": "三、1（7）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(37\\times99+37=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把后面的37看成37乘1。\\[\\begin{aligned} &37\\times99+37\\\\={}&37\\times(99+1)\\\\={}&37\\times100\\\\={}&3700\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s08",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 7,
+      "id": "三、1（8）",
+      "kind": "calculation",
+      "question_latex": "直接写得数：\\(8\\times5\\div8\\times5=\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先乘8又除8还原，两个5仍相乘：\\[\\begin{aligned}&8\\times5\\div8\\times5\\\\={}&(8\\div8)\\times(5\\times5)\\\\={}&1\\times25\\\\={}&25\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "本轮复核：与已修p006_s06的同类遗漏。乘8与除8还原，保留两个乘5，利用整数乘除性质直接算5×5，避免先求40；不可误写成末尾除5。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s09",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 8,
+      "id": "三、2（1）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：（1）\\(138+293+62+107\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "交换、结合，分别凑整百。\\[\\begin{aligned} &138+293+62+107\\\\={}&(138+62)+(293+107)\\\\={}&200+400\\\\={}&600\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s10",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 9,
+      "id": "三、2（2）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：（2）\\(574-189-211\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "先合并两个减数。\\[\\begin{aligned} &574-189-211\\\\={}&574-(189+211)\\\\={}&574-400\\\\={}&174\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s11",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 10,
+      "id": "三、2（3）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：（3）\\((25+7)\\times8\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "分配律使25乘8先凑200。\\[\\begin{aligned} &(25+7)\\times8\\\\={}&25\\times8+7\\times8\\\\={}&200+56\\\\={}&256\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s12",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 11,
+      "id": "三、2（4）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：（4）\\(250\\times57\\times40\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "交换57与40的位置，用乘法交换律；先把250与40结合，用乘法结合律。\\par 先把250与40凑成10000。\\[\\begin{aligned} &250\\times57\\times40\\\\={}&(250\\times40)\\times57\\\\={}&10000\\times57\\\\={}&570000\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s13",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 12,
+      "id": "三、2（5）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：（5）\\(720\\div16\\div5\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "连续除以两数，等于除以它们的积。\\[\\begin{aligned} &720\\div16\\div5\\\\={}&720\\div(16\\times5)\\\\={}&720\\div80\\\\={}&9\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s14",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 13,
+      "id": "三、2（6）",
+      "kind": "calculation",
+      "question_latex": "用简便方法计算下面各题：（6）\\(45\\times102\\)。",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "把102拆成100和2，用分配律。\\[\\begin{aligned} &45\\times102\\\\={}&45\\times(100+2)\\\\={}&45\\times100+45\\times2\\\\={}&4500+90\\\\={}&4590\\end{aligned}\\]",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s15",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 14,
+      "id": "四、操作",
+      "kind": "drawing",
+      "question_latex": "请你回忆学习“乘法分配律”时的探究过程，举例说明“\\(12\\times9+8\\times9=(12+8)\\times9\\)”，可以用画图、列表、文字叙述等表达你的思考过程。（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p031_s15_g1",
+          "tikz": "\\begin{tikzpicture}[x=.2cm,y=.2cm]\\draw(0,0)rectangle(20,9);\\draw(12,0)--(12,9);\\node[above]at(6,9){12};\\node[above]at(16,9){8};\\node[left]at(0,4.5){9};\\node at(6,4.5){$12\\times9$};\\node at(16,4.5){$8\\times9$};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "两块面积模型为说明分配律而作，不是原题给定图。"
+        }
+      ],
+      "answer_latex": "用植树情境解释原图：芍药每行12棵、种9行，牡丹每行8棵、也种9行。\\par 分别数：先求两种花各有多少棵，再相加，列\\(12\\times9+8\\times9\\)。合并数：两种花每行合起来\\(12+8\\)棵，共9行，列\\((12+8)\\times9\\)。\\par 示意图的两块长方形分别对应\\(12\\times9\\)和\\(8\\times9\\)，高相同，合并后对应\\((12+8)\\times9\\)；图中未逐个画出小格。分别求两块面积再相加，或先合并宽再求整体面积，结果相同：\\[12\\times9+8\\times9=(12+8)\\times9=180.\\]这说明乘法分配律：和里的每个加数都要与括号外的9相乘。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p031_s16",
+      "book_page": 31,
+      "source_page": 35,
+      "section_index": 15,
+      "id": "五、1",
+      "kind": "application",
+      "question_latex": "小军看一本故事书，第一天看了178页，第二天看了63页，还剩下122页没看，这本故事书一共有多少页？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "全书页数＝第一天已看＋第二天已看＋还未看。先用运算律凑整，再按阅读进度复核。\\par 主解：把178和122凑成300\\par \\[\\begin{aligned} &178+63+122\\\\={}&(178+122)+63\\\\={}&300+63\\\\={}&363\\text{(页)}\\end{aligned}\\]答：这本故事书一共有363页。\\par 验算：先合计已看页数，再加未看页数\\par \\[\\begin{aligned} &178+63+122\\\\={}&241+122\\\\={}&363\\text{(页)}\\end{aligned}\\]答：这本故事书一共有363页。\\par 回代检验：\\(363-178-63=122\\text{(页)}\\)，与剩余页数相符。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

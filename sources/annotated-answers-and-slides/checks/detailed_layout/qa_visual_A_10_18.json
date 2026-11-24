@@ -1,0 +1,389 @@
+{
+  "run": "final3",
+  "scope": "原书10–18页最终视觉复核",
+  "expected_source_pdf_sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0",
+  "pdf_hashes_read": [
+    {
+      "file": "detailed_layout/runs/final3/详细题内答案成品.pdf",
+      "sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0"
+    },
+    {
+      "file": "detailed_layout/runs/final3/optimized.pdf",
+      "sha256": "efebb32d7fbd080c2750920e2382826addf468bed6d549820410c95d73a13102"
+    }
+  ],
+  "review_order": [
+    "九页拼图总览",
+    "逐页完整图像p010至p018",
+    "15个200%局部放大图"
+  ],
+  "overview_artifact": "detailed_layout/visual_A_10_18/overview.png",
+  "notes_modified": false,
+  "all_pages_full_image_viewed": true,
+  "only_overview_pages": [],
+  "pages": [
+    {
+      "book_page": 10,
+      "full_image_path": "detailed_layout/runs/final3/previews/p010.png",
+      "full_image_dimensions": [
+        595,
+        1305
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "点到直线距离题及条件限定说明",
+          "box": [
+            55,
+            295,
+            585,
+            610
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p010_distance_and_note.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "各选择题注释与黑题间留白可分辨；无相互遮挡",
+        "读图不确定条件仍可见；未填伪造唯一数值",
+        "页脚10完整"
+      ],
+      "issues": [],
+      "passed": true
+    },
+    {
+      "book_page": 11,
+      "full_image_path": "detailed_layout/runs/final3/previews/p011.png",
+      "full_image_dimensions": [
+        595,
+        1210
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "四道竖式、三道完整脱式与逐题详细说明",
+          "box": [
+            55,
+            225,
+            585,
+            740
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p011_vertical_and_mixed.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        },
+        {
+          "name": "过A平行线/垂线及长方形补边",
+          "box": [
+            200,
+            795,
+            420,
+            1135
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p011_drawings.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "四道竖式数位与原完整脱式可辨；新增注释没有再复制首式",
+        "过A两条直线、原l、垂足直角均保留完整",
+        "补成长方形的两条红边闭合；页脚11完整"
+      ],
+      "issues": [],
+      "passed": true
+    },
+    {
+      "book_page": 12,
+      "full_image_path": "detailed_layout/runs/final3/previews/p012.png",
+      "full_image_dimensions": [
+        595,
+        1263
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "周长求边长两种方法及面积小问",
+          "box": [
+            60,
+            250,
+            585,
+            680
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p012_two_methods.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        },
+        {
+          "name": "两村接国道的垂线路线及AB桥线",
+          "box": [
+            300,
+            715,
+            525,
+            855
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p012_road_drawings.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "两种求边长方法的等号纵列对齐，数学链84÷2→42、84−24→60均正确",
+        "两种真正不同的方法共用一次答语；面积题保留原红结果，详细说明未另复制脱式",
+        "两村垂线路线、桥线、阳光大道图无切割；页脚12完整"
+      ],
+      "issues": [],
+      "passed": true
+    },
+    {
+      "book_page": 13,
+      "full_image_path": "detailed_layout/runs/final3/previews/p013.png",
+      "full_image_dimensions": [
+        595,
+        1097
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "平行线间垂线段图、斜线段比较与跨页题起始",
+          "box": [
+            65,
+            800,
+            585,
+            1040
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p013_geometry_conditions.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "平行/垂直六组图及各空答案保持可读",
+        "5厘米条件、三条垂线段与两斜线段比较文字对应原图",
+        "跨页题头未重复补一套解析；页脚13完整"
+      ],
+      "issues": [],
+      "passed": true
+    },
+    {
+      "book_page": 14,
+      "full_image_path": "detailed_layout/runs/final3/previews/p014.png",
+      "full_image_dimensions": [
+        595,
+        1119
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "三线两两相交、平行传递及折纸条件限定",
+          "box": [
+            65,
+            345,
+            585,
+            705
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p014_intersections_folds.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "承接上一页两空的解析在本页可读",
+        "三对直线的最多/最少交点说明与题设一致；折纸保留通常方式及可能限定",
+        "救援船、河岸题图与注释无覆盖；页脚14完整"
+      ],
+      "issues": [],
+      "passed": true
+    },
+    {
+      "book_page": 15,
+      "full_image_path": "detailed_layout/runs/final3/previews/p015.png",
+      "full_image_dimensions": [
+        595,
+        1134
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "四题脱式、运算顺序与注释",
+          "box": [
+            60,
+            380,
+            585,
+            665
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p015_mixed_steps.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        },
+        {
+          "name": "AB长3厘米的作图及小鸭路线",
+          "box": [
+            210,
+            710,
+            540,
+            1060
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p015_drawings.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "四道原脱式完整，新增注释逐小问对应，没有重复首式或第二套同解",
+        "3厘米标注、B、直角及平行线保持完整；小鸭两段陆路垂直对应河岸",
+        "各图与注释有间隔；页脚15完整"
+      ],
+      "issues": [],
+      "passed": true
+    },
+    {
+      "book_page": 16,
+      "full_image_path": "detailed_layout/runs/final3/previews/p016.png",
+      "full_image_dimensions": [
+        595,
+        1111
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "马路宽原方法与10秒一组的新方法",
+          "box": [
+            60,
+            300,
+            585,
+            505
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p016_grouped_method.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        },
+        {
+          "name": "公路、点C距离及藏宝地的几何关系",
+          "box": [
+            220,
+            820,
+            355,
+            955
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p016_treasure.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "原60×40÷100和新增10秒一组方法是不同整理方法，结果24米一致",
+        "新增数学链600÷100→6、40÷10→4、6×4→24无错",
+        "正方形与藏宝图未切割；说明与图一致；页脚16完整"
+      ],
+      "issues": [],
+      "passed": true
+    },
+    {
+      "book_page": 17,
+      "full_image_path": "detailed_layout/runs/final3/previews/p017.png",
+      "full_image_dimensions": [
+        595,
+        1333
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "305千米/时×8小时新增数学链",
+          "box": [
+            65,
+            680,
+            585,
+            845
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p017_speed_chain.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        },
+        {
+          "name": "38元×102座位分为100与2的新数学链",
+          "box": [
+            60,
+            1105,
+            585,
+            1260
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p017_income_chain.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "表格填数及三条关系的说明无重叠",
+        "新增305×8→2440正确；38×102→38×100+38×2→3800+76→3876正确",
+        "两条新增链首式在原题未印作计算式，不存在重抄原完整脱式；页脚17完整"
+      ],
+      "issues": [],
+      "passed": true
+    },
+    {
+      "book_page": 18,
+      "full_image_path": "detailed_layout/runs/final3/previews/p018.png",
+      "full_image_dimensions": [
+        595,
+        1512
+      ],
+      "overview_viewed": true,
+      "full_image_viewed": true,
+      "overview_only": false,
+      "zoom_regions": [
+        {
+          "name": "288元毛巾两法及106×22十位部分积",
+          "box": [
+            60,
+            35,
+            585,
+            535
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p018_towel_and_vertical.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        },
+        {
+          "name": "A/C双解说明与从等号开始的两条新增数学链",
+          "box": [
+            65,
+            1170,
+            585,
+            1460
+          ],
+          "artifact": "detailed_layout/visual_A_10_18/p018_two_option_chains.png",
+          "display_scale_percent": 200,
+          "actually_viewed": true
+        }
+      ],
+      "checks": [
+        "毛巾两法链288÷8→36、36÷3→12、3×8→24均正确，元/盒与元/条清楚",
+        "十位部分积212向左错位表示2120；速度适用范围条件保留",
+        "A/C原选项各只接续一次等号链，3×4→12及72÷6→12正确，无重抄原选项首式",
+        "全页长注释没有遮住题干、选项、指示牌或页脚18"
+      ],
+      "issues": [],
+      "passed": true
+    }
+  ],
+  "issues": [],
+  "passed": true
+}

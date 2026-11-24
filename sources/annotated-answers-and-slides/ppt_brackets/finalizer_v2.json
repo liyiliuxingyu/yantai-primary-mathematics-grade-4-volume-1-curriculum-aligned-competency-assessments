@@ -1,0 +1,180 @@
+{
+  "schemaVersion": "presentation-finalization.v1",
+  "finalSha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+  "byteCount": 4932330,
+  "packageIntegrity": {
+    "chart_count": 0,
+    "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+    "finding_count": 0,
+    "findings": [],
+    "notes_parts_skipped": 479,
+    "relationship_part_count": 968,
+    "slide_count": 479,
+    "status": "pass",
+    "exitCode": 0,
+    "findingCount": 0,
+    "warnings": []
+  },
+  "presentationLayout": {
+    "finding_count": 0,
+    "findings": [],
+    "font_policy": {
+      "checked_text_script_count": 5773,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Droid Sans Fallback"
+      ],
+      "observed_font_use_counts": {
+        "Droid Sans Fallback": 5773
+      },
+      "passed": true,
+      "performed": true
+    },
+    "slide_count": 479,
+    "slide_size_in": [
+      13.3333,
+      7.5
+    ],
+    "warning_count": 0,
+    "warnings": [],
+    "exitCode": 0,
+    "findingCount": 0,
+    "fontPolicy": {
+      "checked_text_script_count": 5773,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Droid Sans Fallback"
+      ],
+      "observed_font_use_counts": {
+        "Droid Sans Fallback": 5773
+      },
+      "passed": true,
+      "performed": true
+    }
+  },
+  "fontSelection": {
+    "basis": "reference",
+    "approvedFamilies": [
+      "Droid Sans Fallback"
+    ],
+    "scriptFonts": {},
+    "referenceSha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+    "referenceFontsVerifiedInEncodedText": true,
+    "checked_text_script_count": 5773,
+    "native_font_rendering_verified": false,
+    "observed_font_families": [
+      "Droid Sans Fallback"
+    ],
+    "observed_font_use_counts": {
+      "Droid Sans Fallback": 5773
+    },
+    "passed": true,
+    "performed": true
+  },
+  "firstPartyImport": {
+    "performed": false,
+    "passed": null,
+    "reason": "explicitly_not_requested"
+  },
+  "nativeTableArithmetic": {
+    "performed": true,
+    "checked_column_count": 0,
+    "checks": [],
+    "claim_boundary": "Displayed-value arithmetic with rounding tolerance; not source-data verification.",
+    "eligible_table_count": 0,
+    "finding_count": 0,
+    "findings": [],
+    "native_table_count": 10,
+    "passed": true,
+    "schema_version": "presentation-native-table-arithmetic.v1",
+    "skipped_tables": [
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 53,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 56,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 57,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 60,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 61,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 64,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 65,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 68,
+        "table": 1
+      },
+      {
+        "reason": "no_numeric_amounts",
+        "slide": 69,
+        "table": 1
+      },
+      {
+        "reason": "insufficient_rows",
+        "slide": 95,
+        "table": 1
+      }
+    ],
+    "slide_count": 479,
+    "warning_count": 0,
+    "warnings": []
+  },
+  "nativeChartTitles": {
+    "performed": true,
+    "checks": [],
+    "finding_count": 0,
+    "findings": [],
+    "native_chart_count": 0,
+    "native_powerpoint_verified": false,
+    "passed": true,
+    "presentation_sha256": "d088d0cb3646f78035b0c435876f5daad10c9a9db27177c4420c7938250f0146",
+    "schema_version": "presentation-native-chart-titles.v1",
+    "slide_count": 479,
+    "source_text_emitted": false,
+    "unresolved_linked_title_count": 0
+  },
+  "sourceDerivedPolicyFlags": [
+    "--expected-slide-size-emu",
+    "12192000,6858000",
+    "--validate-bullet-geometry",
+    "--validate-heading-fit",
+    "--cover-role",
+    "none",
+    "--expected-slide-count",
+    "479",
+    "--approved-font-family",
+    "Droid Sans Fallback"
+  ],
+  "nativeChartValidation": {
+    "detectedOwnerSlides": [],
+    "detectedChartCount": 0,
+    "targetApplication": "portable",
+    "sourceChartOwnersExplicitlyDeclared": true,
+    "validatorRan": false,
+    "passed": true
+  }
+}

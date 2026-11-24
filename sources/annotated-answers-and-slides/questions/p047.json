@@ -1,0 +1,159 @@
+{
+  "book_page": 47,
+  "source_page": 51,
+  "records": [
+    {
+      "key": "p047_s01",
+      "book_page": 47,
+      "source_page": 51,
+      "section_index": 0,
+      "id": "四、1",
+      "kind": "drawing",
+      "question_latex": "小区要在一条笔直的公路旁建一个快递驿站，驿站的位置在点\\(A\\)处（如下图）。现在要从驿站修一条最短的小路连接到公路上，方便居民取快递，请你画出这条小路。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p047_s01_g1",
+          "tikz": "\\begin{tikzpicture}\\draw[fill=gray!30](0,2)rectangle(5,3);\\draw[dashed](0,2.5)--(5,2.5);\\fill(1.8,0)circle(1.7pt)node[right]{$A$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p047_s01_a1",
+          "tikz": "\\begin{tikzpicture}\\draw[fill=gray!30](0,2)rectangle(5,3);\\draw[dashed](0,2.5)--(5,2.5);\\fill(1.8,0)circle(1.7pt)node[right]{$A$};\\draw[red,dashed](1.8,0)--(1.8,2);\\draw[red](1.8,2)--(2.05,2)--(2.05,1.75)--(1.8,1.75);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "把三角尺一条直角边靠在公路近侧边缘所在直线上，平移到另一条直角边经过\\(A\\)，从\\(A\\)沿这条边画到公路边缘，垂足处标直角。点到直线的垂线段最短，所以这是最短小路。小路的终点是公路边缘，不必延伸到公路中心或另一侧。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p047_s02",
+      "book_page": 47,
+      "source_page": 51,
+      "section_index": 1,
+      "id": "四、2",
+      "kind": "drawing",
+      "question_latex": "用直尺和圆规画一个以线段\\(AB\\)为边的等边三角形。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p047_s02_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(3,0);\\node[below]at(0,0){$A$};\\node[below]at(3,0){$B$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p047_s02_a1",
+          "tikz": "\\begin{tikzpicture}\\coordinate(A)at(0,0);\\coordinate(B)at(3,0);\\coordinate(C)at(1.5,2.598);\\draw(A)--(B);\\draw[red](A)--(C)--(B);\\draw[red,dashed](30:3)arc(30:80:3);\\draw[red,dashed]($(B)+(100:3)$)arc(100:150:3);\\node[below]at(A){$A$};\\node[below]at(B){$B$};\\node[above]at(C){$C$};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "圆规开口取\\(AB\\)的长度，针尖先固定在\\(A\\)画弧，再保持同样开口、固定在\\(B\\)画弧，两弧交于\\(C\\)。连接\\(AC,BC\\)，并保留交点附近的两段弧。因为\\(AC\\)与\\(BC\\)都是按同一个长度\\(AB\\)画出的，所以\\(AB=AC=BC\\)，得到等边三角形。若两弧暂未相交，应延长弧线，不能任意改变圆规开口。交点取在\\(AB\\)的另一侧同样成立。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p047_s03",
+      "book_page": 47,
+      "source_page": 51,
+      "section_index": 2,
+      "id": "五、1",
+      "kind": "application",
+      "question_latex": "求出\\(\\angle1\\)的度数。（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p047_s03_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(0,0)--(5.5,0);\\draw(0,0)--(1.8,3.2)--(4,0);\\node at(1.8,2.6){1};\\node at(3.45,.25){2};\\node at(.85,.35){$61^\\circ$};\\node at(4.4,.4){$138^\\circ$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "方法一：先用平角求\\(\\angle2\\)，再用三角形内角和求\\(\\angle1\\)。\\[\\begin{aligned}\\angle2&=180^\\circ-138^\\circ\\\\&=42^\\circ,\\\\\\angle1&=180^\\circ-61^\\circ-42^\\circ\\\\&=119^\\circ-42^\\circ\\\\&=77^\\circ.\\end{aligned}\\]\\par 方法二：把三角形的三个内角与底边上的平角比一比，去掉两边共同的\\(\\angle2\\)，可知\\(\\angle1\\)和\\(61^\\circ\\)合起来等于\\(138^\\circ\\)。\\[\\begin{aligned}\\angle1&=138^\\circ-61^\\circ\\\\&=77^\\circ.\\end{aligned}\\]\\par 答：\\(\\angle1=77^\\circ\\)。第二法的依据仍是已学的“内角和180度”与“平角180度”。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p047_s04",
+      "book_page": 47,
+      "source_page": 51,
+      "section_index": 3,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "两架客机从同一机场向相反方向起飞，甲机巡航速度为800千米/时，乙机巡航速度为850千米/时。两架飞机同时飞出2小时后，它们之间相距多少千米？（先画图整理条件和问题，再解答）（6分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p047_s04_a1",
+          "tikz": "\\begin{tikzpicture}[x=.8cm]\\draw[<->](-4,0)--(4.25,0);\\fill(0,0)circle(2pt)node[below]{机场};\\node[above]at(-2,0){甲：$800\\times2$千米};\\node[above]at(2.1,0){乙：$850\\times2$千米};\\draw[<->](-4,-.9)--node[below]{相距？千米}(4.25,-.9);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "画图：以机场为共同起点，向相反方向画两段路程；甲段标\\(800\\times2\\)，乙段标\\(850\\times2\\)，两段合起来就是相距的路程。\\par 方法一：先求速度和，再乘共同时间。\\[\\begin{aligned}&(800+850)\\times2\\\\&=1650\\times2\\\\&=3300\\text{(千米)}\\end{aligned}\\]\\par 方法二：分别求两架飞机的路程，再相加。\\[\\begin{aligned}&800\\times2+850\\times2\\\\&=1600+1700\\\\&=3300\\text{(千米)}\\end{aligned}\\]\\par 答：2小时后两架飞机之间相距3300千米。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "机场是共同起点，不是两段不等路程的中点。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

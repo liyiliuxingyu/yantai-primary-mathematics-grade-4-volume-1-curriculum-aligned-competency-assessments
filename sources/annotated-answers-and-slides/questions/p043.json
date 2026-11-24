@@ -1,0 +1,208 @@
+{
+  "book_page": 43,
+  "source_page": 47,
+  "records": [
+    {
+      "key": "p043_s01",
+      "book_page": 43,
+      "source_page": 47,
+      "section_index": 0,
+      "id": "四、1",
+      "kind": "drawing",
+      "question_latex": "过直线外的点\\(A\\)，画已知直线的垂线和平行线。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p043_s01_g1",
+          "tikz": "\\begin{tikzpicture}\\draw(-1,0)--(5,0);\\fill(1,2)circle(1.5pt)node[right]{$A$};\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p043_s01_a1",
+          "tikz": "\\begin{tikzpicture}\\draw(-1,0)--(5,0);\\fill(1,2)circle(1.5pt)node[above right]{$A$};\\draw[red](-1,2)--(5,2);\\draw[red](1,-.5)--(1,3);\\draw[red](1,0)rectangle(1.25,.25);\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        }
+      ],
+      "answer_latex": "先画垂线：把三角尺一条直角边靠在已知直线上，沿直线平移三角尺，使另一条直角边经过\\(A\\)，再沿这条边画线，垂足处标直角。再借助直尺推移三角尺，过\\(A\\)画已知直线的平行线。两条红线都要经过\\(A\\)；平行线与原直线不相交，垂线与原直线交成直角。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p043_s02",
+      "book_page": 43,
+      "source_page": 47,
+      "section_index": 1,
+      "id": "四、2",
+      "kind": "drawing",
+      "question_latex": "在下面的方格纸上（每个小方格边长1厘米），画一个底边为5厘米、高为3厘米的平行四边形，并画出它的一条高。（4分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [
+        {
+          "name": "p043_s02_g1",
+          "tikz": "\\begin{tikzpicture}[scale=.55]\\draw[step=1](0,0)grid(10,5);\\end{tikzpicture}",
+          "role": "question",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。"
+        },
+        {
+          "name": "p043_s02_a1",
+          "tikz": "\\begin{tikzpicture}[scale=.55]\\draw[step=1,gray!60](0,0)grid(10,5);\\draw[red](1,1)--(6,1)--(8,4)--(3,4)--cycle;\\draw[red,dashed](3,4)--(3,1);\\node[red,left]at(-.35,2.6){高3厘米};\\draw[red,thin,->](-.2,2.6)--(2.9,2.6);\\draw[red](3,1)rectangle(3.25,1.25);\\node[red,below]at(3.5,1){底5厘米};\\end{tikzpicture}",
+          "role": "answer",
+          "notes": "按原题已知关系重绘，不添加未给定的数量。；12pt实际渲染核对后仅调整标注位置，几何点线与已知数值不变。"
+        }
+      ],
+      "answer_latex": "先在同一格线上取长5格的底边；再在与它相距3格、互相平行的另一格线上取长5格的对边，将对应端点连起来。检查两组对边分别平行，才是平行四边形。用三角尺从上边一点向底边作垂线段，标直角与“高3厘米”。这里3格按垂直方向数，不是沿斜边数。同一底上的高都长3厘米，上边可换一个点另作一条高。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null,
+        "altitude_lines_original": [
+          {
+            "vertex": [
+              249.28572,
+              266.42859
+            ],
+            "foot": [
+              249.28572,
+              353.57144
+            ]
+          }
+        ],
+        "altitude_regions": [
+          [
+            247.28572,
+            264.42859,
+            251.28572,
+            355.57144
+          ]
+        ]
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      },
+      "animation": {
+        "type": "altitude",
+        "vertex": [
+          3,
+          4
+        ],
+        "foot": [
+          3,
+          1
+        ],
+        "base": [
+          [
+            1,
+            1
+          ],
+          [
+            6,
+            1
+          ]
+        ],
+        "labels": {
+          "base": "底5厘米",
+          "altitude": "高3厘米"
+        },
+        "object_points": [
+          [
+            1,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      }
+    },
+    {
+      "key": "p043_s03",
+      "book_page": 43,
+      "source_page": 47,
+      "section_index": 2,
+      "id": "五、1",
+      "kind": "application",
+      "question_latex": "工程队修一条公路，原计划每天修120米，8天修完。实际提前2天完成，实际平均每天修多少米？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "方法一：路长不变；列式后先算120除以6，凑成整十数20。\\par \\[\\begin{aligned}&120\\times8\\div(8-2)\\\\={}&120\\times8\\div6\\\\={}&120\\div6\\times8\\\\={}&20\\times8\\\\={}&160\\text{(米)}\\end{aligned}\\]答：实际平均每天修160米。\\par 方法二：把原来2天的任务平均增加到实际6天，增加部分也先算120除以6。\\par \\[\\begin{aligned}&120+120\\times2\\div(8-2)\\\\={}&120+120\\times2\\div6\\\\={}&120+120\\div6\\times2\\\\={}&120+20\\times2\\\\={}&120+40\\\\={}&160\\text{(米)}\\end{aligned}\\]答：实际平均每天修160米。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息",
+          "简便计算复核：原主法先求960再除6；120可被实际6天直接整除成20，运算性质允许先除6再乘8。另一数量思路仍把原少做2天任务平均加到6天，计算也先把120÷6凑20。"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    },
+    {
+      "key": "p043_s04",
+      "book_page": 43,
+      "source_page": 47,
+      "section_index": 3,
+      "id": "五、2",
+      "kind": "application",
+      "question_latex": "一个等腰三角形的两条边长分别是6厘米和8厘米。这个等腰三角形的周长可能是多少厘米？（5分）",
+      "options": [],
+      "tables": [],
+      "diagrams": [],
+      "answer_latex": "“两条边长6厘米、8厘米”没有指定哪条是底，必须分两种情况。\\par 情况一：6厘米为腰，8厘米为底。\\[\\begin{aligned}&6\\times2+8\\\\&=12+8\\\\&=20\\text{(厘米)}\\end{aligned}\\]\\par 情况二：8厘米为腰，6厘米为底。\\[\\begin{aligned}&8\\times2+6\\\\&=16+6\\\\&=22\\text{(厘米)}\\end{aligned}\\]\\par 两种都能成三角形，因为\\(6+6>8\\)、\\(8+8>6\\)。答：周长可能是20厘米或22厘米。这是两种可能情况，不能只写其中一种。",
+      "verification": {
+        "status": "verified",
+        "reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+        "changes": [
+          "补全可编辑原题文字与题图信息"
+        ],
+        "uncertainties": [],
+        "left_patch": null
+      },
+      "source_region": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 595,
+        "y1": 841
+      }
+    }
+  ]
+}

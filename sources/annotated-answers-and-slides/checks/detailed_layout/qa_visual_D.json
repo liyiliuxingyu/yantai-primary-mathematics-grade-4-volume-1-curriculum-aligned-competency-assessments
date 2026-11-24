@@ -1,0 +1,170 @@
+{
+  "group": "D",
+  "run": "followup_unit1_trees_final",
+  "passed": true,
+  "layout_passed": true,
+  "pdf_path": "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final4/详细题内答案成品.pdf",
+  "pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "overview_review": {
+    "book_pages": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "count": 27,
+    "direct_final4_review_pages": [
+      98
+    ],
+    "reused_pixel_identical_final3_review_pages": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "scope": "final3已实际逐张查看82–108共27张完整预览；final4重新实际查看98页完整预览，其余26页用PNG逐像素比较确认与已审final3完全一致，沿用审阅结果，不声称重新逐张看过final4其余26页。",
+    "pixel_comparison_proof": "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final4/review_D/unchanged_pages_comparison.json"
+  },
+  "enlarged_review": {
+    "prior_final3_count": 15,
+    "prior_final3_dpi": 144,
+    "prior_final3_book_pages": [
+      87,
+      94,
+      95,
+      97,
+      98,
+      99,
+      103,
+      104,
+      106,
+      108
+    ],
+    "prior_final3_region_files": [
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p087_symmetry_top.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p087_heights_roads.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p095_heights.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p097_split.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p099_axis.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p103_subtraction.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p104_socks.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p103_drawing.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p108_book.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p108_road_average.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p108_clothes.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p108_statistics.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p106_law.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p094_numeric.png",
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final3/review_D/p098_numeric.png"
+    ],
+    "direct_final4_count": 1,
+    "direct_final4_dpi": 144,
+    "direct_final4_book_pages": [
+      98
+    ],
+    "direct_final4_region_files": [
+      "/workspace/scratch/1facfb035d44/detail_work/detailed_layout/runs/final4/review_D/p098_location_explanation.png"
+    ],
+    "scope": "final3的15个放大局部已实际逐张检查；final4另外实际检查98页求腰、三边位置对应及周长局部，确认不再使用未定义字母，保留具体数量关系与原计算链。"
+  },
+  "new_numeric_process_records_checked": 18,
+  "checks": {
+    "no_new_overflow_or_text_clipping": true,
+    "no_new_table_or_figure_covering": true,
+    "local_calculation_blocks_legible": true,
+    "p103_verification_18_20": true,
+    "p104_socks_both_methods": true,
+    "p108_long_average_processes": true,
+    "preserved_original_glyphs": true,
+    "altitude_lines_dashed": true,
+    "p097_p098_point_name_correspondence": true,
+    "p098_undefined_point_names_removed": true
+  },
+  "issues": [
+    {
+      "key": "p098_s01",
+      "severity": "clarity",
+      "observation": "97页实际原分割图未标A、B、C、D、E，98页详细注直接使用DE=AB、EC、BE=AD=BC，现有详细注未定义点名。",
+      "proposed_fix": "在p098_s01开头添加：约定上底左右端点为A、B，下底左右端点为D、C，分割线与下底交于E。无需重复画图。",
+      "reported_to_parent": true,
+      "notes_modified_during_visual_review": false,
+      "status": "resolved_in_final4",
+      "resolution": "将未定义字母关系改为具体位置关系：平行四边形在下底所占线段与上底等长2米；三角形底为下底剩余4−2=2米；分割线与左腰等长、另一边为右腰，两边也各2米。原图与求腰、周长数字链保留。",
+      "resolved_by": "root"
+    }
+  ],
+  "original_source_conditions": "原有疑读、条件解、无正确选项、单选不唯一等说明保留；未用扫描缺损图样反推确定原字形。",
+  "unresolved_issues": [],
+  "previous_review_pdf_sha256": "fbc11a5e0dd2af8540d5f1257f46fe0243a5f3ec49aaf549810e46752b6fb6f0",
+  "reviewed_raw_pdf_sha256": "65ae8dfca3a237b8adeb87fb9658299ab887bb4aacdfac3a8536fe6d258b520b",
+  "lossless_optimization": {
+    "all128_pages_pixel_identical_at_2x": true,
+    "report": "style_patch/qa_lossless_optimization.json"
+  },
+  "previous_edition_pdf_sha256": "30e8400bcd5791a92149cb925072c7a06b123c74eb194ac764ee43e0768af60b",
+  "p003_unit1_style_update": {
+    "changed_book_page": 3,
+    "all_other107_question_pages_png_identical": true,
+    "evidence": "style_patch/qa_pdf_scope.json",
+    "specific_page_review": "style_patch/qa_p003_math_visual.json",
+    "scope": "仅原书3页修改；其余沿用此前实看并以图像相同继承。"
+  },
+  "pdf": "/workspace/scratch/1facfb035d44/detail_work/deliverables/小学同步素养四年级上册数学答案.pdf",
+  "hash_verified": true,
+  "p005_p007_unit1_style_update": {
+    "previous_pdf_sha256": "bbdf2edbb3199e73af762e44746a34d120efa54989290b398c02b31ba6a77db5",
+    "scope_proof": "followup_style/qa_scope.json",
+    "all_other_106_question_pages_exactly_preserved": true,
+    "changed_pages": [
+      5,
+      7
+    ],
+    "review": "No pages in this segment changed; prior actual review inherited through exact rendered-image equality.",
+    "lossless_optimization": "followup_style/qa_lossless.json"
+  }
+}

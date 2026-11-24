@@ -1,0 +1,142 @@
+{
+  "passed": true,
+  "file_sha256": "8c5da7ee57e917589e7fa9a7001726da591de99e4252834d2ecb8fc19e079121",
+  "explanation": "JSON decoding gives one actual backslash before LaTeX commands/delimiters and two before aligned row breaks. repr/JSON output escapes each slash for display. No replacement needed.",
+  "fields": [
+    {
+      "key": "p056_s01",
+      "field": "simple_latex",
+      "first_math_character_codes": [
+        92,
+        91,
+        92,
+        98
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    },
+    {
+      "key": "p056_s01",
+      "field": "new_answer_latex",
+      "first_math_character_codes": [
+        92,
+        40,
+        49,
+        92
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    },
+    {
+      "key": "p056_s01",
+      "field": "new_note_latex",
+      "first_math_character_codes": [
+        92,
+        40,
+        51,
+        46
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    },
+    {
+      "key": "p057_s03",
+      "field": "simple_latex",
+      "first_math_character_codes": [
+        92,
+        91,
+        92,
+        98
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    },
+    {
+      "key": "p057_s03",
+      "field": "new_answer_latex",
+      "first_math_character_codes": [
+        92,
+        91,
+        92,
+        98
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    },
+    {
+      "key": "p057_s03",
+      "field": "new_note_latex",
+      "first_math_character_codes": [
+        92,
+        91,
+        92,
+        98
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    },
+    {
+      "key": "p058_s02",
+      "field": "simple_latex",
+      "first_math_character_codes": [
+        92,
+        91,
+        92,
+        98
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    },
+    {
+      "key": "p058_s02",
+      "field": "new_answer_latex",
+      "first_math_character_codes": [
+        92,
+        91,
+        92,
+        98
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    },
+    {
+      "key": "p058_s02",
+      "field": "new_note_latex",
+      "first_math_character_codes": [
+        92,
+        91,
+        92,
+        98
+      ],
+      "slash_runs": [
+        1,
+        2
+      ],
+      "doubled_before_command_or_delimiter": 0
+    }
+  ]
+}

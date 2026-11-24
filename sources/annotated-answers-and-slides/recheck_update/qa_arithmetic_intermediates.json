@@ -1,0 +1,960 @@
+{
+  "passed": true,
+  "count": 34,
+  "checks": [
+    {
+      "key": "p002_s01",
+      "chains": [
+        {
+          "expression": "130+130/2*32",
+          "unit": null,
+          "value_normalized": "2210"
+        },
+        {
+          "expression": "130+130*(32/2)",
+          "unit": null,
+          "value_normalized": "2210"
+        },
+        {
+          "expression": "130+130*16",
+          "unit": null,
+          "value_normalized": "2210"
+        },
+        {
+          "expression": "130+2080",
+          "unit": null,
+          "value_normalized": "2210"
+        },
+        {
+          "expression": "2210",
+          "unit": null,
+          "value_normalized": "2210"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p003_s05",
+      "chains": [
+        {
+          "expression": "36*58",
+          "unit": null,
+          "value_normalized": "2088"
+        },
+        {
+          "expression": "36*(60-2)",
+          "unit": null,
+          "value_normalized": "2088"
+        },
+        {
+          "expression": "36*60-36*2",
+          "unit": null,
+          "value_normalized": "2088"
+        },
+        {
+          "expression": "2160-72",
+          "unit": null,
+          "value_normalized": "2088"
+        },
+        {
+          "expression": "2088",
+          "unit": null,
+          "value_normalized": "2088"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p003_s07",
+      "chains": [
+        {
+          "expression": "4*18/4-32/4",
+          "unit": null,
+          "value_normalized": "10"
+        },
+        {
+          "expression": "(4/4)*18-32/4",
+          "unit": null,
+          "value_normalized": "10"
+        },
+        {
+          "expression": "1*18-8",
+          "unit": null,
+          "value_normalized": "10"
+        },
+        {
+          "expression": "18-8",
+          "unit": null,
+          "value_normalized": "10"
+        },
+        {
+          "expression": "10",
+          "unit": "kg",
+          "value_normalized": "10"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p005_s05",
+      "chains": [
+        {
+          "expression": "(630-78)*14/7",
+          "unit": null,
+          "value_normalized": "1104"
+        },
+        {
+          "expression": "(630-78)*(14/7)",
+          "unit": null,
+          "value_normalized": "1104"
+        },
+        {
+          "expression": "552*2",
+          "unit": null,
+          "value_normalized": "1104"
+        },
+        {
+          "expression": "1104",
+          "unit": null,
+          "value_normalized": "1104"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p007_s05",
+      "chains": [
+        {
+          "expression": "73*93",
+          "unit": null,
+          "value_normalized": "6789"
+        },
+        {
+          "expression": "73*(100-7)",
+          "unit": null,
+          "value_normalized": "6789"
+        },
+        {
+          "expression": "73*100-73*7",
+          "unit": null,
+          "value_normalized": "6789"
+        },
+        {
+          "expression": "7300-511",
+          "unit": null,
+          "value_normalized": "6789"
+        },
+        {
+          "expression": "6789",
+          "unit": null,
+          "value_normalized": "6789"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p011_s08",
+      "chains": [
+        {
+          "expression": "63*25",
+          "unit": null,
+          "value_normalized": "1575"
+        },
+        {
+          "expression": "(60+3)*25",
+          "unit": null,
+          "value_normalized": "1575"
+        },
+        {
+          "expression": "60*25+3*25",
+          "unit": null,
+          "value_normalized": "1575"
+        },
+        {
+          "expression": "1500+75",
+          "unit": null,
+          "value_normalized": "1575"
+        },
+        {
+          "expression": "1575",
+          "unit": null,
+          "value_normalized": "1575"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p015_s08",
+      "chains": [
+        {
+          "expression": "48*17",
+          "unit": null,
+          "value_normalized": "816"
+        },
+        {
+          "expression": "(50-2)*17",
+          "unit": null,
+          "value_normalized": "816"
+        },
+        {
+          "expression": "50*17-2*17",
+          "unit": null,
+          "value_normalized": "816"
+        },
+        {
+          "expression": "850-34",
+          "unit": null,
+          "value_normalized": "816"
+        },
+        {
+          "expression": "816",
+          "unit": null,
+          "value_normalized": "816"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p024_s03",
+      "chains": [
+        {
+          "expression": "30+31+30",
+          "unit": null,
+          "value_normalized": "91"
+        },
+        {
+          "expression": "(30+30)+31",
+          "unit": null,
+          "value_normalized": "91"
+        },
+        {
+          "expression": "60+31",
+          "unit": null,
+          "value_normalized": "91"
+        },
+        {
+          "expression": "91",
+          "unit": null,
+          "value_normalized": "91"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p025_s17",
+      "chains": [
+        {
+          "expression": "8*6-6",
+          "unit": null,
+          "value_normalized": "42"
+        },
+        {
+          "expression": "6*(8-1)",
+          "unit": null,
+          "value_normalized": "42"
+        },
+        {
+          "expression": "6*7",
+          "unit": null,
+          "value_normalized": "42"
+        },
+        {
+          "expression": "42",
+          "unit": null,
+          "value_normalized": "42"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p030_s10",
+      "chains": [
+        {
+          "expression": "(15+24)*32",
+          "unit": null,
+          "value_normalized": "1248"
+        },
+        {
+          "expression": "39*32",
+          "unit": null,
+          "value_normalized": "1248"
+        },
+        {
+          "expression": "(40-1)*32",
+          "unit": null,
+          "value_normalized": "1248"
+        },
+        {
+          "expression": "40*32-1*32",
+          "unit": null,
+          "value_normalized": "1248"
+        },
+        {
+          "expression": "1280-32",
+          "unit": null,
+          "value_normalized": "1248"
+        },
+        {
+          "expression": "1248",
+          "unit": null,
+          "value_normalized": "1248"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p031_s08",
+      "chains": [
+        {
+          "expression": "8*5/8*5",
+          "unit": null,
+          "value_normalized": "25"
+        },
+        {
+          "expression": "(8/8)*(5*5)",
+          "unit": null,
+          "value_normalized": "25"
+        },
+        {
+          "expression": "1*25",
+          "unit": null,
+          "value_normalized": "25"
+        },
+        {
+          "expression": "25",
+          "unit": null,
+          "value_normalized": "25"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p032_s02",
+      "chains": [
+        {
+          "expression": "4*(25*12)",
+          "unit": null,
+          "value_normalized": "1200"
+        },
+        {
+          "expression": "(4*25)*12",
+          "unit": null,
+          "value_normalized": "1200"
+        },
+        {
+          "expression": "100*12",
+          "unit": null,
+          "value_normalized": "1200"
+        },
+        {
+          "expression": "1200",
+          "unit": null,
+          "value_normalized": "1200"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p039_s05",
+      "chains": [
+        {
+          "expression": "9*4/3",
+          "unit": null,
+          "value_normalized": "12"
+        },
+        {
+          "expression": "9/3*4",
+          "unit": null,
+          "value_normalized": "12"
+        },
+        {
+          "expression": "3*4",
+          "unit": null,
+          "value_normalized": "12"
+        },
+        {
+          "expression": "12",
+          "unit": null,
+          "value_normalized": "12"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p044_s01",
+      "chains": [
+        {
+          "expression": "9*4/3",
+          "unit": null,
+          "value_normalized": "12"
+        },
+        {
+          "expression": "9/3*4",
+          "unit": null,
+          "value_normalized": "12"
+        },
+        {
+          "expression": "3*4",
+          "unit": null,
+          "value_normalized": "12"
+        },
+        {
+          "expression": "12",
+          "unit": null,
+          "value_normalized": "12"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p042_s09",
+      "chains": [
+        {
+          "expression": "640/(16*(19-14))",
+          "unit": null,
+          "value_normalized": "8"
+        },
+        {
+          "expression": "640/(16*5)",
+          "unit": null,
+          "value_normalized": "8"
+        },
+        {
+          "expression": "640/80",
+          "unit": null,
+          "value_normalized": "8"
+        },
+        {
+          "expression": "8",
+          "unit": null,
+          "value_normalized": "8"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p052_s01",
+      "chains": [
+        {
+          "expression": "81.5*(1000/100)*10",
+          "unit": null,
+          "value_normalized": "8150"
+        },
+        {
+          "expression": "81.5*10*10",
+          "unit": null,
+          "value_normalized": "8150"
+        },
+        {
+          "expression": "81.5*(10*10)",
+          "unit": null,
+          "value_normalized": "8150"
+        },
+        {
+          "expression": "81.5*100",
+          "unit": null,
+          "value_normalized": "8150"
+        },
+        {
+          "expression": "8150",
+          "unit": "g",
+          "value_normalized": "8150"
+        },
+        {
+          "expression": "8.15",
+          "unit": "kg",
+          "value_normalized": "8150"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p054_s07",
+      "chains": [
+        {
+          "expression": "45/10*100",
+          "unit": null,
+          "value_normalized": "450"
+        },
+        {
+          "expression": "45*(100/10)",
+          "unit": null,
+          "value_normalized": "450"
+        },
+        {
+          "expression": "45*10",
+          "unit": null,
+          "value_normalized": "450"
+        },
+        {
+          "expression": "450",
+          "unit": null,
+          "value_normalized": "450"
+        },
+        {
+          "expression": "3.2*1000/10",
+          "unit": null,
+          "value_normalized": "320"
+        },
+        {
+          "expression": "3.2*(1000/10)",
+          "unit": null,
+          "value_normalized": "320"
+        },
+        {
+          "expression": "3.2*100",
+          "unit": null,
+          "value_normalized": "320"
+        },
+        {
+          "expression": "320",
+          "unit": null,
+          "value_normalized": "320"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p056_s01",
+      "chains": [
+        {
+          "expression": "3750/5/20",
+          "unit": null,
+          "value_normalized": "75/2"
+        },
+        {
+          "expression": "3750/(5*20)",
+          "unit": null,
+          "value_normalized": "75/2"
+        },
+        {
+          "expression": "3750/100",
+          "unit": null,
+          "value_normalized": "75/2"
+        },
+        {
+          "expression": "37.5",
+          "unit": "kg",
+          "value_normalized": "75/2"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p057_s03",
+      "chains": [
+        {
+          "expression": "36.8+5.9",
+          "unit": null,
+          "value_normalized": "427/10"
+        },
+        {
+          "expression": "36.8+6-0.1",
+          "unit": null,
+          "value_normalized": "427/10"
+        },
+        {
+          "expression": "42.8-0.1",
+          "unit": null,
+          "value_normalized": "427/10"
+        },
+        {
+          "expression": "42.7",
+          "unit": null,
+          "value_normalized": "427/10"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p058_s02",
+      "chains": [
+        {
+          "expression": "30-9.5",
+          "unit": null,
+          "value_normalized": "41/2"
+        },
+        {
+          "expression": "30-10+0.5",
+          "unit": null,
+          "value_normalized": "41/2"
+        },
+        {
+          "expression": "20+0.5",
+          "unit": null,
+          "value_normalized": "41/2"
+        },
+        {
+          "expression": "20.5",
+          "unit": null,
+          "value_normalized": "41/2"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p073_s07",
+      "chains": [
+        {
+          "expression": "80-(80-50)/3",
+          "unit": null,
+          "value_normalized": "70"
+        },
+        {
+          "expression": "80-30/3",
+          "unit": null,
+          "value_normalized": "70"
+        },
+        {
+          "expression": "80-10",
+          "unit": null,
+          "value_normalized": "70"
+        },
+        {
+          "expression": "70",
+          "unit": null,
+          "value_normalized": "70"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p075_s03",
+      "chains": [
+        {
+          "expression": "720*2/(12+8)",
+          "unit": null,
+          "value_normalized": "72"
+        },
+        {
+          "expression": "720*2/20",
+          "unit": null,
+          "value_normalized": "72"
+        },
+        {
+          "expression": "720*2/2/10",
+          "unit": null,
+          "value_normalized": "72"
+        },
+        {
+          "expression": "720/10",
+          "unit": null,
+          "value_normalized": "72"
+        },
+        {
+          "expression": "72",
+          "unit": null,
+          "value_normalized": "72"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p075_s05",
+      "chains": [
+        {
+          "expression": "85*5/5",
+          "unit": null,
+          "value_normalized": "85"
+        },
+        {
+          "expression": "85",
+          "unit": null,
+          "value_normalized": "85"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p077_s06",
+      "chains": [
+        {
+          "expression": "155+5/5",
+          "unit": null,
+          "value_normalized": "156"
+        },
+        {
+          "expression": "155+1",
+          "unit": null,
+          "value_normalized": "156"
+        },
+        {
+          "expression": "156",
+          "unit": null,
+          "value_normalized": "156"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p083_s04",
+      "chains": [
+        {
+          "expression": "95*3+75*3+193",
+          "unit": null,
+          "value_normalized": "703"
+        },
+        {
+          "expression": "(95+75)*3+193",
+          "unit": null,
+          "value_normalized": "703"
+        },
+        {
+          "expression": "170*3+193",
+          "unit": null,
+          "value_normalized": "703"
+        },
+        {
+          "expression": "510+193",
+          "unit": null,
+          "value_normalized": "703"
+        },
+        {
+          "expression": "703",
+          "unit": null,
+          "value_normalized": "703"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p084_s01",
+      "chains": [
+        {
+          "expression": "55*35+45*35",
+          "unit": null,
+          "value_normalized": "3500"
+        },
+        {
+          "expression": "(55+45)*35",
+          "unit": null,
+          "value_normalized": "3500"
+        },
+        {
+          "expression": "100*35",
+          "unit": null,
+          "value_normalized": "3500"
+        },
+        {
+          "expression": "3500",
+          "unit": null,
+          "value_normalized": "3500"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p084_s02",
+      "chains": [
+        {
+          "expression": "55*35-45*35",
+          "unit": null,
+          "value_normalized": "350"
+        },
+        {
+          "expression": "(55-45)*35",
+          "unit": null,
+          "value_normalized": "350"
+        },
+        {
+          "expression": "10*35",
+          "unit": null,
+          "value_normalized": "350"
+        },
+        {
+          "expression": "350",
+          "unit": null,
+          "value_normalized": "350"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p088_s03",
+      "chains": [
+        {
+          "expression": "6*4/3",
+          "unit": null,
+          "value_normalized": "8"
+        },
+        {
+          "expression": "6/3*4",
+          "unit": null,
+          "value_normalized": "8"
+        },
+        {
+          "expression": "2*4",
+          "unit": null,
+          "value_normalized": "8"
+        },
+        {
+          "expression": "8",
+          "unit": null,
+          "value_normalized": "8"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p089_s07",
+      "chains": [
+        {
+          "expression": "96+(2-1-1)/5",
+          "unit": null,
+          "value_normalized": "96"
+        },
+        {
+          "expression": "96+0/5",
+          "unit": null,
+          "value_normalized": "96"
+        },
+        {
+          "expression": "96",
+          "unit": null,
+          "value_normalized": "96"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p100_s02",
+      "chains": [
+        {
+          "expression": "768+45*80-2*80",
+          "unit": null,
+          "value_normalized": "4208"
+        },
+        {
+          "expression": "768+(45-2)*80",
+          "unit": null,
+          "value_normalized": "4208"
+        },
+        {
+          "expression": "768+43*80",
+          "unit": null,
+          "value_normalized": "4208"
+        },
+        {
+          "expression": "768+3440",
+          "unit": null,
+          "value_normalized": "4208"
+        },
+        {
+          "expression": "4208",
+          "unit": null,
+          "value_normalized": "4208"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p104_s03",
+      "chains": [
+        {
+          "expression": "108*15+92*15",
+          "unit": null,
+          "value_normalized": "3000"
+        },
+        {
+          "expression": "(108+92)*15",
+          "unit": null,
+          "value_normalized": "3000"
+        },
+        {
+          "expression": "200*15",
+          "unit": null,
+          "value_normalized": "3000"
+        },
+        {
+          "expression": "3000",
+          "unit": null,
+          "value_normalized": "3000"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p104_s05",
+      "chains": [
+        {
+          "expression": "220*2+280*2+200",
+          "unit": null,
+          "value_normalized": "1200"
+        },
+        {
+          "expression": "(220+280)*2+200",
+          "unit": null,
+          "value_normalized": "1200"
+        },
+        {
+          "expression": "500*2+200",
+          "unit": null,
+          "value_normalized": "1200"
+        },
+        {
+          "expression": "1000+200",
+          "unit": null,
+          "value_normalized": "1200"
+        },
+        {
+          "expression": "1200",
+          "unit": null,
+          "value_normalized": "1200"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p108_s03",
+      "chains": [
+        {
+          "expression": "62*45+38*45",
+          "unit": null,
+          "value_normalized": "4500"
+        },
+        {
+          "expression": "(62+38)*45",
+          "unit": null,
+          "value_normalized": "4500"
+        },
+        {
+          "expression": "100*45",
+          "unit": null,
+          "value_normalized": "4500"
+        },
+        {
+          "expression": "4500",
+          "unit": null,
+          "value_normalized": "4500"
+        }
+      ],
+      "arithmetic_equivalent": true
+    },
+    {
+      "key": "p098_s02",
+      "chains": [
+        {
+          "expression": "7*8/2",
+          "unit": null,
+          "value_normalized": "28"
+        },
+        {
+          "expression": "7*(8/2)",
+          "unit": null,
+          "value_normalized": "28"
+        },
+        {
+          "expression": "7*4",
+          "unit": null,
+          "value_normalized": "28"
+        },
+        {
+          "expression": "28",
+          "unit": null,
+          "value_normalized": "28"
+        }
+      ],
+      "arithmetic_equivalent": true
+    }
+  ]
+}

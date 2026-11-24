@@ -1,0 +1,14 @@
+% Original page 97, question 5. Crop [170,736,496,792] in MuPDF bp.
+\begin{tikzpicture}[x=1bp,y=-1bp,line width=.68bp,line cap=round]
+  \path[use as bounding box] (0,0) rectangle (326,56);
+  \clip (0,0) rectangle (326,56);
+  \foreach \num/\x in {1/6.4,2/80,3/148.7,4/212.6,5/278.8}
+    \node[draw,circle,line width=.48bp,inner sep=.60bp,font=\fontsize{7.1bp}{8bp}\selectfont]
+      at (\x,21.8) {$\num$};
+  % Extend these line pieces mentally to determine their relationship.
+  \draw (28.1,14.0)--(56.3,25.1) (18.8,36.5)--(56.7,36.5);
+  \draw (95.5,14.6)--(135.7,14.6) (89.4,30.9)--(130.7,30.9);
+  \draw (180.6,6.5)--(180.6,47.1) (161.9,24.3)--(200,24.3);
+  \draw (221.3,12.1)--(258.1,53.9) (240.6,10.8)--(258.7,31.36);
+  \draw (291.9,3)--(291.9,46.3) (297.6,21.7)--(320.2,21.7);
+\end{tikzpicture}

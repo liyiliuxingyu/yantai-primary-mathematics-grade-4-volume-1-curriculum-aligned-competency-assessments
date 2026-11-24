@@ -1,0 +1,607 @@
+{
+  "passed": true,
+  "volumes": [
+    {
+      "volume": 1,
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第1册讲解课件答案.pptx",
+      "output_sha256": "5943d6595b3c08f2a6d50a02dab3ba3d6ed7310b11214ab5849bab0ce3937469",
+      "parent_sha256": "f027fc4bf7571b8d7ce84166be54b830ce6fbe29b5ca8b3c89e3028f2d7d1202",
+      "slides": 426,
+      "changed_slides": [
+        28,
+        29,
+        66,
+        73,
+        120,
+        162,
+        256,
+        339
+      ],
+      "static_rendered_changed_slide_count": 8,
+      "human_inspected_changed_slide_count": 8,
+      "all_original_timing_xml_bytes_unchanged": true,
+      "all_original_ids_names_order_preserved": true,
+      "native_math_count_before": 1725,
+      "native_math_count_after": 1785,
+      "unrelated_zip_parts_byte_identical": 4523,
+      "package_finalizer": "qa/finalizer_v1.json",
+      "artifacttool_import_passed": true,
+      "package_finalizer_passed": true,
+      "static_renders": [
+        {
+          "slide": 28,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-28.png",
+          "image_sha256": "78f128331b6f334ab53c7e7abb4f4eba2448898b6e08a8135d22eb3d5ad071d0",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 29,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-29.png",
+          "image_sha256": "6a927b17346eb1e47e7f860d051458d6068b2935312b373117ffe90396daff9d",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 66,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-66.png",
+          "image_sha256": "3310857706d4a197bd99289a312f1beb3243f1a6cf3adf2d2fbe9552c8d5931a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 73,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-73.png",
+          "image_sha256": "335cd506a05a3281ca349fa363f4bbea80a05d0d317ff81cbe0e81e168b886e6",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 120,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-120.png",
+          "image_sha256": "1f2c1efa72f9ea83ea80e47ae20116e125cc58e47f1f4732a6650bb79b2eb490",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 162,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-162.png",
+          "image_sha256": "f35c53c5ef2b7d64928a60548ca7a7f3cd2f15cd5893c38b728aae9a0a5e6257",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 256,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-256.png",
+          "image_sha256": "9a22f517c1d9496dfe160217cbfed8bd62089d6365aa385bcb0c198b756f5fb5",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 339,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/after2_v1/slide-339.png",
+          "image_sha256": "3a2d1f3f01b00a59c50651358bb18772266a701bdf76635595eae3c2f9288659",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/draft2/小学四上同步素养卷第1册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        }
+      ],
+      "filename": "小学四上同步素养卷第1册讲解课件答案.pptx",
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "new_empty_click_targets": []
+    },
+    {
+      "volume": 2,
+      "output_sha256": "0e6869caba8d11ccc020a1d18856bf4922e59481968d25ce15a0aea347b248c2",
+      "slides": 479,
+      "changed_slides": [
+        149,
+        192,
+        310,
+        333,
+        352
+      ],
+      "static_rendered_changed_slide_count": 5,
+      "human_inspected_changed_slide_count": 5,
+      "all_original_timing_bytes_unchanged": true,
+      "all_original_ids_names_order_preserved": true,
+      "unrelated_slides_and_parts_byte_identical": true,
+      "static_renders": [
+        {
+          "slide": 149,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after2/slide-149.png",
+          "image_sha256": "8c19d54f0106449a8f149fb4c5d31f5306d31390cf5e5ade34cc62802ed2b83a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft2/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 192,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-192.png",
+          "image_sha256": "11f6758ba7a6d69ddcc6cec59edc0d7b4c71f0484d2d3e2d41c8e63f06ce8e9a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 310,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-310.png",
+          "image_sha256": "b9fba8e8abb7b6926f4658eefe392ffe61f27c9186df6b838e6dceab29b72476",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 333,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-333.png",
+          "image_sha256": "ca0fa3f43835cc1397ef0b8dbd8391b196a70e1d14ef8f721474d0a4918ad3c1",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 352,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/after1/slide-352.png",
+          "image_sha256": "0e166da0aa038d6c0288ad989b96ba553c92f99cba1c7244efce3beb4470671a",
+          "actual_render_source_deck": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v1_2/v2/draft1/小学四上同步素养卷第2册讲解课件答案.pptx",
+          "slide_xml_matches_final_exactly": true,
+          "individually_visually_inspected": true
+        }
+      ],
+      "filename": "小学四上同步素养卷第2册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第2册讲解课件答案.pptx",
+      "parent_sha256": "06c352e213cf93115face9bc15505d478bb64069136fe879da48dfb6159ba941",
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "new_empty_click_targets": [],
+      "native_math_count_before": 1598,
+      "native_math_count_after": 1620
+    },
+    {
+      "volume": 3,
+      "filename": "小学四上同步素养卷第3册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第3册讲解课件答案.pptx",
+      "output_sha256": "5c7957b3650ff3677dcf9351a866bd59917e91fe297a6e7099f2a15644737bf2",
+      "slides": 406,
+      "changed_slides": [
+        78,
+        79,
+        80,
+        152,
+        153,
+        171,
+        172,
+        338,
+        402,
+        406
+      ],
+      "static_rendered_changed_slide_count": 10,
+      "individually_visually_inspected_changed_slide_count": 10,
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "native_math_implementation": "Native OMML with true XeLaTeX SVG/PNG compatibility assets; original separate equation columns preserved and new row groups explicitly align equality and following first digit.",
+      "static_renders": [
+        {
+          "slide": 78,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-78.png",
+          "sha256": "a2b573144994e68abed82f97463fe6e945953326c8fa50a51188e02e61353f94",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 79,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-79.png",
+          "sha256": "ddca504922aa65d5a95b2159054d4e49aff9dafb2703eb82084d68d80fb41c06",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 80,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-80.png",
+          "sha256": "03ef277fad3deab0ad22ff7fc4c48c3c09cb235c009c9184a11807b623ebb40b",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 152,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-152.png",
+          "sha256": "2a69744b84e28cd6c5056c92991bdfe77e6825e53a1b2c0122d7840dc6af084d",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 153,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-153.png",
+          "sha256": "495132cd8a2f2ce94ab5412085fb84c3f2c7e2e1988258e64e415add3c9b5e0c",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 171,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-171.png",
+          "sha256": "785834707fdc66c2cd5d0eb28f9d795816cc25fecf68bc26903864a3238f857a",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 172,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-172.png",
+          "sha256": "8e9a5742863dac1637060788ae51eabce8d8cf0000532dbd2884b34160367176",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 338,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3/slide-338.png",
+          "sha256": "f03d9efd9216b5f99a6ff35e555cfaa8f8f64113f070670f83f134b69a8de1f2",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 402,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3_r3/slide-402.png",
+          "sha256": "293ef9e9637f795b2c9c40a2f29b198ca5538b0838c98799751e08b7702795a5",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 406,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v3_r3/slide-406.png",
+          "sha256": "f26257c758e87ea4857cfb352f8077fa618d0643760571340fd290b38bb76282",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        }
+      ],
+      "preexisting_layout_warnings": [],
+      "finalizer_receipt": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/qa/finalizer_v3.json",
+      "parent_sha256": "5688439fc7952665bd3f7beaaf30e91d56ac776cf4bb6a2f3dacb2ee720ee959",
+      "new_empty_click_targets": [],
+      "native_math_count_before": 1337,
+      "native_math_count_after": 1346
+    },
+    {
+      "volume": 4,
+      "filename": "小学四上同步素养卷第4册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "output_sha256": "88f61a1c025716ae1005b101545cbbf6c7c0315466430dbb7816fab1837ef272",
+      "slides": 462,
+      "changed_slides": [
+        34,
+        35,
+        54,
+        85
+      ],
+      "static_rendered_changed_slide_count": 4,
+      "individually_visually_inspected_changed_slide_count": 4,
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "native_math_implementation": "Native OMML with true XeLaTeX SVG/PNG compatibility assets; original separate equation columns preserved and new row groups explicitly align equality and following first digit.",
+      "static_renders": [
+        {
+          "slide": 34,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v4/slide-34.png",
+          "sha256": "4b21b57a87f2ee45cc18c61eaf0f3841da681d6103b17e5e2b0897375b131aa0",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 35,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v4/slide-35.png",
+          "sha256": "fc6d139999e9ca8470ea7e8d7d6e35e0f666e6c24c0fae39f7ba27fac8c285ec",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 54,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v4/slide-54.png",
+          "sha256": "6f6013d3efeffac97fd5c6a555f5f41cb3c72a5e77f0d50126a7a28ebbbe71cc",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        },
+        {
+          "slide": 85,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/after_v4/slide-85.png",
+          "sha256": "425ab43e2bf3b1468a3fc881d5002988163e518a2ffaa76393c04adb19ea52c5",
+          "individually_visually_inspected": true,
+          "final_xml_identical_to_render_source": true
+        }
+      ],
+      "preexisting_layout_warnings": [
+        {
+          "kind": "object_outside_slide_boundary",
+          "object_id": "5",
+          "object_kind": "sp",
+          "slide": 321
+        }
+      ],
+      "finalizer_receipt": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/v3_4/qa/finalizer_v4.json",
+      "parent_sha256": "cf5038e9e36941091a7c595b58200b1d0e6096ab99c2089ad218b6ced6a7dfda",
+      "new_empty_click_targets": [],
+      "native_math_count_before": 1153,
+      "native_math_count_after": 1164
+    },
+    {
+      "volume": 5,
+      "filename": "小学四上同步素养卷第5册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+      "output_sha256": "4aad33ca4bcceb8c1c0ffbdc6ba5c49f435ed75a555f7593a45cf119b84feaed",
+      "parent_sha256": "13b58d1bad2535fb8f465c9aee782ca32ec18fe8134a011e4c2415ab4bb53511",
+      "slides": 430,
+      "changed_slides": [
+        15,
+        34,
+        53,
+        62,
+        100,
+        101,
+        242,
+        243,
+        244,
+        252,
+        253,
+        254,
+        255,
+        382,
+        396
+      ],
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "new_empty_click_targets": [],
+      "native_math_count_before": 1614,
+      "native_math_count_after": 1614,
+      "static_rendered_changed_slide_count": 15,
+      "individually_visually_inspected_changed_slide_count": 15,
+      "empty_old_anchors_have_no_text_math_or_pictures": true,
+      "static_renders": [
+        {
+          "slide": 15,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-15.png",
+          "sha256": "179d86b5111a61b8971f202dae1c9b393aadb1c19cb5cd92712b4e77878d2b1a",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 34,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-34.png",
+          "sha256": "387066029aab2b4f35da216bc295db50bf2bd8d4fff8c155ebe447f1316b81c4",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 53,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-53.png",
+          "sha256": "2dfff566a8bed5e440db1553475c7f6c752d0b7fed3a9c56b3298340f4c61d01",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 62,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-62.png",
+          "sha256": "84f270920796d1f423d0e8a080c46313a751d8c026dcbabfb1e0dc0ca711e6cb",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 100,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-100.png",
+          "sha256": "b14944f1a8494f5efcef8a384eb898574b4ff348b6fc9cf1291095dbbcdac553",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 101,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-101.png",
+          "sha256": "f0607fd30730ada54dadcdbe6079ca4a77ea07e1575f4d14409839a1130d226b",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 242,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-242.png",
+          "sha256": "31ef065b087e74bddf6599ffb4ab1bbd82deaece228169a18f56905909280bfc",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 243,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-243.png",
+          "sha256": "5022c175f3c423ee6bbe054c51045d1e3728c49a3447b1e508859821770359f2",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 244,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-244.png",
+          "sha256": "0780902245985adddd02e3657c7f097d0e6883ac9aca81d58bf942840bc8b768",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 252,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-252.png",
+          "sha256": "2de8a3fd0ea9813add423e06bb5a7cf09a5ec67a92d8651a29b1a02d7567c91a",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 253,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-253.png",
+          "sha256": "6ca402dfa8390218001af62932a4f473276a9cf20f8e97cfca6b721f2be12027",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 254,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-254.png",
+          "sha256": "9a464c01169fc9df9833a225fef28e49e94864366e5865cea464c9007b729d21",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 255,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-255.png",
+          "sha256": "6413dfa271dad9d315f3fe5d188b3b719e35264e40c1d13122a998faea6d67af",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 382,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-382.png",
+          "sha256": "d199948e03c81696c406e18b6eb04dce9ceeb4dea640a0e82b9fedb83dc8615b",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 396,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r4_v5/slide-396.png",
+          "sha256": "554378af79d692925af29b5c3e010bbdedf069c7064a636985dd31f10331ecb0",
+          "individually_visually_inspected": true
+        }
+      ],
+      "finalizer": "qa_r4/finalizer_v5.json",
+      "package_finalizer_passed": true,
+      "artifacttool_import_passed": true
+    },
+    {
+      "volume": 6,
+      "filename": "小学四上同步素养卷第6册讲解课件答案.pptx",
+      "output": "/workspace/scratch/1facfb035d44/p74_review/deliverables/讲解课件/小学四上同步素养卷第6册讲解课件答案.pptx",
+      "output_sha256": "bf0549b15f64ce932b5ce40580da1793e66fb0d51d4ae65d4d6484e7f4d1086a",
+      "parent_sha256": "1d7e4b42bd9fce9ad7c442fbdb57b94a9c201d97a9a9f7508eb7116bb2ff75cc",
+      "slides": 464,
+      "changed_slides": [
+        11,
+        12,
+        13,
+        182,
+        244,
+        245,
+        353,
+        354,
+        361,
+        362,
+        453,
+        454
+      ],
+      "timing_xml_bytes_all_unchanged": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "unrelated_original_package_parts_byte_identical": true,
+      "new_empty_click_targets": [],
+      "native_math_count_before": 1735,
+      "native_math_count_after": 1722,
+      "static_rendered_changed_slide_count": 12,
+      "individually_visually_inspected_changed_slide_count": 12,
+      "empty_old_anchors_have_no_text_math_or_pictures": true,
+      "static_renders": [
+        {
+          "slide": 11,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-11.png",
+          "sha256": "3985f59be4f17a7e91047628da0908c651f17ac841e0ed418ad33a60547051de",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 12,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-12.png",
+          "sha256": "5b06fab922c055a9bb2a1a747510ba93a1cd62014e0573059df40f253c491698",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 13,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-13.png",
+          "sha256": "4bc0ef507c1be82404527879c479968159d4c30b5bd909e18efdeb25bc340ba9",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 182,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-182.png",
+          "sha256": "97882ad2799ced9fa43d5a2184a59d9254fade3b368cf965851b75317b2fd6fa",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 244,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-244.png",
+          "sha256": "fef763d2d5c43793934c6097c3c0a83f70c35875f5fd6c1aa4d2e3fc766659b0",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 245,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-245.png",
+          "sha256": "47324414bc44329ceaf2e5ff4325016621b70035d4acfca43cc197f1fa64f4be",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 353,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-353.png",
+          "sha256": "68202a4a69afe7544f54afdc3772972948cdb9e4c87fea5f1ab72a8c202b74a3",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 354,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-354.png",
+          "sha256": "a8fcde4a1c0162e5108f2a320607af20e1913f71d4d3e3f1a62b13069104b137",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 361,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-361.png",
+          "sha256": "899b7f8bbe9ec8526cf2a8b909bb39356ef8dadb330ca32a66c90708a15a4e92",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 362,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-362.png",
+          "sha256": "ff59985c129273925e6790f5806069ab3e21074e1c8681b72c73399d1b90d3da",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 453,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-453.png",
+          "sha256": "b8cf71d35141cfd30d1afec06161b9402fa8baf5d9db49a6ea1e23e4d3c14a59",
+          "individually_visually_inspected": true
+        },
+        {
+          "slide": 454,
+          "image": "/workspace/scratch/1facfb035d44/p74_review/ppt_recheck/after_late_r2_v6/slide-454.png",
+          "sha256": "13d50073f8c64a16d5ec4dece64274b1465902dfd7d8d3678b502f7dbf5b3c5f",
+          "individually_visually_inspected": true
+        }
+      ],
+      "finalizer": "qa/finalizer_v6.json",
+      "package_finalizer_passed": true,
+      "artifacttool_import_passed": true
+    }
+  ],
+  "total_slides": 2667,
+  "modified_slides": 54,
+  "adopted_records": 36,
+  "all_original_timing_xml_bytes_unchanged": true,
+  "all_original_shape_ids_names_order_preserved": true,
+  "no_new_empty_click_targets": true,
+  "all_unrelated_original_package_parts_byte_identical": true,
+  "math_implementation": "Genuine native OMML with independently XeLaTeX-compiled SVG/PNG compatibility assets",
+  "editable_ordinary_text": true,
+  "native_powerpoint_playback_tested": false,
+  "native_wps_playback_tested": false,
+  "static_review_scope": "All 54 modified slides rendered and individually visually inspected. Unmodified pages were not newly visually rechecked.",
+  "preexisting_geometry_warnings_preserved": [
+    {
+      "volume": 4,
+      "slides": [
+        321
+      ]
+    },
+    {
+      "volume": 6,
+      "slides": [
+        107,
+        409
+      ]
+    }
+  ],
+  "receipts": [
+    "v1_2/qa_final.json",
+    "v3_4/qa_final.json",
+    "late/qa_portable_late.json",
+    "late/qa_visual_v6_final.json"
+  ],
+  "page74_decision": "Original 15 kg and final choice C retained; comparison 39>15 explains C, and conditional 39<45 explains why an original average of 45 would yield A; the printed answer conflicts with the current data."
+}

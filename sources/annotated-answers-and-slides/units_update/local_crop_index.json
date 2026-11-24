@@ -1,0 +1,1260 @@
+{
+  "pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "actual_local_crops": 66,
+  "records": [
+    {
+      "id": "p003_s07_local15",
+      "key": "p003_s07",
+      "book_page": 3,
+      "pdf_page": 7,
+      "actual_publication_target_rect": [
+        279.8056640625,
+        1143.9949951171875,
+        305.47235107421875,
+        1153.60498046875
+      ],
+      "context_rect": [
+        189.8056640625,
+        1126.9949951171875,
+        370.47235107421875,
+        1173.60498046875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p003_s07_local15.png"
+    },
+    {
+      "id": "p004_s01_local1",
+      "key": "p004_s01",
+      "book_page": 4,
+      "pdf_page": 8,
+      "actual_publication_target_rect": [
+        265.8236389160156,
+        164.9870147705078,
+        281.4903259277344,
+        174.59701538085938
+      ],
+      "context_rect": [
+        175.82363891601562,
+        147.9870147705078,
+        346.4903259277344,
+        194.59701538085938
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p004_s01_local1.png"
+    },
+    {
+      "id": "p004_s02_local1",
+      "key": "p004_s02",
+      "book_page": 4,
+      "pdf_page": 8,
+      "actual_publication_target_rect": [
+        157.763671875,
+        360.61004638671875,
+        173.43032836914062,
+        369.60003662109375
+      ],
+      "context_rect": [
+        67.763671875,
+        343.61004638671875,
+        238.43032836914062,
+        389.60003662109375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p004_s02_local1.png"
+    },
+    {
+      "id": "p007_s08_local8",
+      "key": "p007_s08",
+      "book_page": 7,
+      "pdf_page": 11,
+      "actual_publication_target_rect": [
+        276.814697265625,
+        1172.6160278320312,
+        292.48138427734375,
+        1181.6060180664062
+      ],
+      "context_rect": [
+        186.814697265625,
+        1155.6160278320312,
+        357.48138427734375,
+        1201.6060180664062
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p007_s08_local8.png"
+    },
+    {
+      "id": "p008_s01_local1",
+      "key": "p008_s01",
+      "book_page": 8,
+      "pdf_page": 12,
+      "actual_publication_target_rect": [
+        282.1517028808594,
+        179.60899353027344,
+        297.8183898925781,
+        188.5989990234375
+      ],
+      "context_rect": [
+        192.15170288085938,
+        162.60899353027344,
+        362.8183898925781,
+        208.5989990234375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p008_s01_local1.png"
+    },
+    {
+      "id": "p008_s02_local1",
+      "key": "p008_s02",
+      "book_page": 8,
+      "pdf_page": 12,
+      "actual_publication_target_rect": [
+        272.1886291503906,
+        615.1809997558594,
+        287.8553161621094,
+        624.6010131835938
+      ],
+      "context_rect": [
+        182.18862915039062,
+        598.1809997558594,
+        352.8553161621094,
+        644.6010131835938
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p008_s02_local1.png"
+    },
+    {
+      "id": "p008_s03_local1",
+      "key": "p008_s03",
+      "book_page": 8,
+      "pdf_page": 12,
+      "actual_publication_target_rect": [
+        270.8056945800781,
+        918.9920043945312,
+        286.4723815917969,
+        928.6019897460938
+      ],
+      "context_rect": [
+        180.80569458007812,
+        901.9920043945312,
+        351.4723815917969,
+        948.6019897460938
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p008_s03_local1.png"
+    },
+    {
+      "id": "p012_s03_local1",
+      "key": "p012_s03",
+      "book_page": 12,
+      "pdf_page": 16,
+      "actual_publication_target_rect": [
+        296.2816467285156,
+        595.4100036621094,
+        329.9483337402344,
+        604.5800170898438
+      ],
+      "context_rect": [
+        206.28164672851562,
+        578.4100036621094,
+        394.9483337402344,
+        624.5800170898438
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p012_s03_local1.png"
+    },
+    {
+      "id": "p017_s01_local1",
+      "key": "p017_s01",
+      "book_page": 17,
+      "pdf_page": 21,
+      "actual_publication_target_rect": [
+        355.3306579589844,
+        362.14898681640625,
+        392.66400146484375,
+        371.27899169921875
+      ],
+      "context_rect": [
+        265.3306579589844,
+        345.14898681640625,
+        457.66400146484375,
+        391.27899169921875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p017_s01_local1.png"
+    },
+    {
+      "id": "p019_s15_local1",
+      "key": "p019_s15",
+      "book_page": 19,
+      "pdf_page": 23,
+      "actual_publication_target_rect": [
+        114.17866516113281,
+        1078.0969848632812,
+        139.8453369140625,
+        1087.7069702148438
+      ],
+      "context_rect": [
+        35.0,
+        1061.0969848632812,
+        204.8453369140625,
+        1107.7069702148438
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p019_s15_local1.png"
+    },
+    {
+      "id": "p019_s16_local1",
+      "key": "p019_s16",
+      "book_page": 19,
+      "pdf_page": 23,
+      "actual_publication_target_rect": [
+        104.21666717529297,
+        1230.2970581054688,
+        119.88333892822266,
+        1239.2870483398438
+      ],
+      "context_rect": [
+        35.0,
+        1213.2970581054688,
+        184.88333892822266,
+        1259.2870483398438
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p019_s16_local1.png"
+    },
+    {
+      "id": "p020_s01_local1",
+      "key": "p020_s01",
+      "book_page": 20,
+      "pdf_page": 24,
+      "actual_publication_target_rect": [
+        87.78665924072266,
+        139.78598022460938,
+        103.45333099365234,
+        148.77598571777344
+      ],
+      "context_rect": [
+        35.0,
+        122.78598022460938,
+        168.45333099365234,
+        168.77598571777344
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p020_s01_local1.png"
+    },
+    {
+      "id": "p020_s02_local1",
+      "key": "p020_s02",
+      "book_page": 20,
+      "pdf_page": 24,
+      "actual_publication_target_rect": [
+        87.78665924072266,
+        405.5040283203125,
+        127.1199951171875,
+        415.1140441894531
+      ],
+      "context_rect": [
+        35.0,
+        388.5040283203125,
+        192.1199951171875,
+        435.1140441894531
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p020_s02_local1.png"
+    },
+    {
+      "id": "p020_s03_local1",
+      "key": "p020_s03",
+      "book_page": 20,
+      "pdf_page": 24,
+      "actual_publication_target_rect": [
+        91.5776596069336,
+        742.4299926757812,
+        115.5776596069336,
+        751.469970703125
+      ],
+      "context_rect": [
+        35.0,
+        725.4299926757812,
+        180.5776596069336,
+        771.469970703125
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p020_s03_local1.png"
+    },
+    {
+      "id": "p020_s04_local1",
+      "key": "p020_s04",
+      "book_page": 20,
+      "pdf_page": 24,
+      "actual_publication_target_rect": [
+        97.7486572265625,
+        1037.2530517578125,
+        113.41532897949219,
+        1046.2430419921875
+      ],
+      "context_rect": [
+        35.0,
+        1020.2530517578125,
+        178.4153289794922,
+        1066.2430419921875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p020_s04_local1.png"
+    },
+    {
+      "id": "p023_s15_local1",
+      "key": "p023_s15",
+      "book_page": 23,
+      "pdf_page": 27,
+      "actual_publication_target_rect": [
+        111.89566802978516,
+        1165.0120239257812,
+        126.56233978271484,
+        1174.052001953125
+      ],
+      "context_rect": [
+        35.0,
+        1148.0120239257812,
+        191.56233978271484,
+        1194.052001953125
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p023_s15_local1.png"
+    },
+    {
+      "id": "p024_s01_local1",
+      "key": "p024_s01",
+      "book_page": 24,
+      "pdf_page": 28,
+      "actual_publication_target_rect": [
+        162.5056610107422,
+        103.83000183105469,
+        191.5056610107422,
+        113.44000244140625
+      ],
+      "context_rect": [
+        72.50566101074219,
+        86.83000183105469,
+        256.5056610107422,
+        133.44000244140625
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p024_s01_local1.png"
+    },
+    {
+      "id": "p024_s01_local2",
+      "key": "p024_s01",
+      "book_page": 24,
+      "pdf_page": 28,
+      "actual_publication_target_rect": [
+        92.76765441894531,
+        130.54200744628906,
+        118.434326171875,
+        140.15200805664062
+      ],
+      "context_rect": [
+        35.0,
+        113.54200744628906,
+        183.434326171875,
+        160.15200805664062
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p024_s01_local2.png"
+    },
+    {
+      "id": "p024_s02_local1",
+      "key": "p024_s02",
+      "book_page": 24,
+      "pdf_page": 28,
+      "actual_publication_target_rect": [
+        97.7486572265625,
+        387.3389892578125,
+        113.41532897949219,
+        396.9490051269531
+      ],
+      "context_rect": [
+        35.0,
+        370.3389892578125,
+        178.4153289794922,
+        416.9490051269531
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p024_s02_local1.png"
+    },
+    {
+      "id": "p024_s03_local1",
+      "key": "p024_s03",
+      "book_page": 24,
+      "pdf_page": 28,
+      "actual_publication_target_rect": [
+        92.76765441894531,
+        669.3610229492188,
+        108.434326171875,
+        679.0110168457031
+      ],
+      "context_rect": [
+        35.0,
+        652.3610229492188,
+        173.434326171875,
+        699.0110168457031
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p024_s03_local1.png"
+    },
+    {
+      "id": "p024_s04_local1",
+      "key": "p024_s04",
+      "book_page": 24,
+      "pdf_page": 28,
+      "actual_publication_target_rect": [
+        97.7486572265625,
+        1118.1399536132812,
+        113.41532897949219,
+        1127.7499389648438
+      ],
+      "context_rect": [
+        35.0,
+        1101.1399536132812,
+        178.4153289794922,
+        1147.7499389648438
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p024_s04_local1.png"
+    },
+    {
+      "id": "p027_s10_local1",
+      "key": "p027_s10",
+      "book_page": 27,
+      "pdf_page": 31,
+      "actual_publication_target_rect": [
+        107.05766296386719,
+        784.8030395507812,
+        122.72433471679688,
+        793.873046875
+      ],
+      "context_rect": [
+        35.0,
+        767.8030395507812,
+        187.72433471679688,
+        813.873046875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p027_s10_local1.png"
+    },
+    {
+      "id": "p027_s11_local1",
+      "key": "p027_s11",
+      "book_page": 27,
+      "pdf_page": 31,
+      "actual_publication_target_rect": [
+        112.03866577148438,
+        961.1530151367188,
+        127.70533752441406,
+        970.802978515625
+      ],
+      "context_rect": [
+        35.0,
+        944.1530151367188,
+        192.70533752441406,
+        990.802978515625
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p027_s11_local1.png"
+    },
+    {
+      "id": "p028_s01_local1",
+      "key": "p028_s01",
+      "book_page": 28,
+      "pdf_page": 32,
+      "actual_publication_target_rect": [
+        107.05766296386719,
+        162.22698974609375,
+        122.72433471679688,
+        171.2169952392578
+      ],
+      "context_rect": [
+        35.0,
+        145.22698974609375,
+        187.72433471679688,
+        191.2169952392578
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p028_s01_local1.png"
+    },
+    {
+      "id": "p028_s02_local1",
+      "key": "p028_s02",
+      "book_page": 28,
+      "pdf_page": 32,
+      "actual_publication_target_rect": [
+        102.07666778564453,
+        497.0379638671875,
+        117.74333953857422,
+        506.6479797363281
+      ],
+      "context_rect": [
+        35.0,
+        480.0379638671875,
+        182.74333953857422,
+        526.6479797363281
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p028_s02_local1.png"
+    },
+    {
+      "id": "p028_s03_local1",
+      "key": "p028_s03",
+      "book_page": 28,
+      "pdf_page": 32,
+      "actual_publication_target_rect": [
+        112.03866577148438,
+        856.0409545898438,
+        127.70533752441406,
+        865.6509399414062
+      ],
+      "context_rect": [
+        35.0,
+        839.0409545898438,
+        192.70533752441406,
+        885.6509399414062
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p028_s03_local1.png"
+    },
+    {
+      "id": "p028_s04_local1",
+      "key": "p028_s04",
+      "book_page": 28,
+      "pdf_page": 32,
+      "actual_publication_target_rect": [
+        102.07666778564453,
+        1128.3319702148438,
+        117.74333953857422,
+        1137.9419555664062
+      ],
+      "context_rect": [
+        35.0,
+        1111.3319702148438,
+        182.74333953857422,
+        1157.9419555664062
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p028_s04_local1.png"
+    },
+    {
+      "id": "p031_s16_local1",
+      "key": "p031_s16",
+      "book_page": 31,
+      "pdf_page": 35,
+      "actual_publication_target_rect": [
+        107.76765441894531,
+        1205.1460571289062,
+        123.434326171875,
+        1214.446044921875
+      ],
+      "context_rect": [
+        35.0,
+        1188.1460571289062,
+        188.434326171875,
+        1234.446044921875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p031_s16_local1.png"
+    },
+    {
+      "id": "p032_s01_local1",
+      "key": "p032_s01",
+      "book_page": 32,
+      "pdf_page": 36,
+      "actual_publication_target_rect": [
+        102.73065948486328,
+        160.0770263671875,
+        118.39733123779297,
+        169.06703186035156
+      ],
+      "context_rect": [
+        35.0,
+        143.0770263671875,
+        183.39733123779297,
+        189.06703186035156
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p032_s01_local1.png"
+    },
+    {
+      "id": "p032_s02_local1",
+      "key": "p032_s02",
+      "book_page": 32,
+      "pdf_page": 36,
+      "actual_publication_target_rect": [
+        97.7486572265625,
+        495.14801025390625,
+        113.41532897949219,
+        504.7980041503906
+      ],
+      "context_rect": [
+        35.0,
+        478.14801025390625,
+        178.4153289794922,
+        524.7980041503906
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p032_s02_local1.png"
+    },
+    {
+      "id": "p032_s03_local1",
+      "key": "p032_s03",
+      "book_page": 32,
+      "pdf_page": 36,
+      "actual_publication_target_rect": [
+        87.78665924072266,
+        792.5799865722656,
+        103.45333099365234,
+        802.22998046875
+      ],
+      "context_rect": [
+        35.0,
+        775.5799865722656,
+        168.45333099365234,
+        822.22998046875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p032_s03_local1.png"
+    },
+    {
+      "id": "p036_s02_local1",
+      "key": "p036_s02",
+      "book_page": 36,
+      "pdf_page": 40,
+      "actual_publication_target_rect": [
+        88.50664520263672,
+        514.239990234375,
+        114.1733169555664,
+        523.8500061035156
+      ],
+      "context_rect": [
+        35.0,
+        497.239990234375,
+        179.1733169555664,
+        543.8500061035156
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p036_s02_local1.png"
+    },
+    {
+      "id": "p040_s03_local1",
+      "key": "p040_s03",
+      "book_page": 40,
+      "pdf_page": 44,
+      "actual_publication_target_rect": [
+        96.25465393066406,
+        810.8790283203125,
+        120.5879898071289,
+        820.009033203125
+      ],
+      "context_rect": [
+        35.0,
+        793.8790283203125,
+        185.5879898071289,
+        840.009033203125
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p040_s03_local1.png"
+    },
+    {
+      "id": "p043_s04_local1",
+      "key": "p043_s04",
+      "book_page": 43,
+      "pdf_page": 47,
+      "actual_publication_target_rect": [
+        128.59068298339844,
+        948.3059692382812,
+        152.92401123046875,
+        957.4359741210938
+      ],
+      "context_rect": [
+        38.59068298339844,
+        931.3059692382812,
+        217.92401123046875,
+        977.4359741210938
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p043_s04_local1.png"
+    },
+    {
+      "id": "p043_s04_local2",
+      "key": "p043_s04",
+      "book_page": 43,
+      "pdf_page": 47,
+      "actual_publication_target_rect": [
+        128.59068298339844,
+        977.9439697265625,
+        152.92401123046875,
+        987.073974609375
+      ],
+      "context_rect": [
+        38.59068298339844,
+        960.9439697265625,
+        217.92401123046875,
+        1007.073974609375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p043_s04_local2.png"
+    },
+    {
+      "id": "p044_s03_local1",
+      "key": "p044_s03",
+      "book_page": 44,
+      "pdf_page": 48,
+      "actual_publication_target_rect": [
+        98.0046615600586,
+        617.5139770507812,
+        113.0046615600586,
+        626.0539855957031
+      ],
+      "context_rect": [
+        35.0,
+        600.5139770507812,
+        178.0046615600586,
+        646.0539855957031
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p044_s03_local1.png"
+    },
+    {
+      "id": "p044_s02_local2",
+      "key": "p044_s02",
+      "book_page": 44,
+      "pdf_page": 48,
+      "actual_publication_target_rect": [
+        93.39765930175781,
+        383.0370178222656,
+        108.39765930175781,
+        392.24700927734375
+      ],
+      "context_rect": [
+        35.0,
+        366.0370178222656,
+        173.3976593017578,
+        412.24700927734375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p044_s02_local2.png"
+    },
+    {
+      "id": "p047_s04_local1",
+      "key": "p047_s04",
+      "book_page": 47,
+      "pdf_page": 51,
+      "actual_publication_target_rect": [
+        106.89766693115234,
+        822.697021484375,
+        131.2310028076172,
+        831.8270263671875
+      ],
+      "context_rect": [
+        35.0,
+        805.697021484375,
+        196.2310028076172,
+        851.8270263671875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p047_s04_local1.png"
+    },
+    {
+      "id": "p048_s01_local1",
+      "key": "p048_s01",
+      "book_page": 48,
+      "pdf_page": 52,
+      "actual_publication_target_rect": [
+        95.14665985107422,
+        153.22103881835938,
+        119.47999572753906,
+        162.50103759765625
+      ],
+      "context_rect": [
+        35.0,
+        136.22103881835938,
+        184.47999572753906,
+        182.50103759765625
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p048_s01_local1.png"
+    },
+    {
+      "id": "p048_s02_local1",
+      "key": "p048_s02",
+      "book_page": 48,
+      "pdf_page": 52,
+      "actual_publication_target_rect": [
+        95.14665985107422,
+        391.8699951171875,
+        110.14665985107422,
+        400.82000732421875
+      ],
+      "context_rect": [
+        35.0,
+        374.8699951171875,
+        175.14665985107422,
+        420.82000732421875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p048_s02_local1.png"
+    },
+    {
+      "id": "p048_s03_local1",
+      "key": "p048_s03",
+      "book_page": 48,
+      "pdf_page": 52,
+      "actual_publication_target_rect": [
+        90.53965759277344,
+        558.9229736328125,
+        105.53965759277344,
+        567.8729858398438
+      ],
+      "context_rect": [
+        35.0,
+        541.9229736328125,
+        170.53965759277344,
+        587.8729858398438
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p048_s03_local1.png"
+    },
+    {
+      "id": "p051_s06_local1",
+      "key": "p051_s06",
+      "book_page": 51,
+      "pdf_page": 55,
+      "actual_publication_target_rect": [
+        105.24366760253906,
+        895.5200805664062,
+        120.24366760253906,
+        904.06005859375
+      ],
+      "context_rect": [
+        35.0,
+        878.5200805664062,
+        185.24366760253906,
+        924.06005859375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p051_s06_local1.png"
+    },
+    {
+      "id": "p052_s01_local1",
+      "key": "p052_s01",
+      "book_page": 52,
+      "pdf_page": 56,
+      "actual_publication_target_rect": [
+        102.6126480102539,
+        130.70602416992188,
+        116.94598388671875,
+        139.35601806640625
+      ],
+      "context_rect": [
+        35.0,
+        113.70602416992188,
+        181.94598388671875,
+        159.35601806640625
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p052_s01_local1.png"
+    },
+    {
+      "id": "p052_s02_local1",
+      "key": "p052_s02",
+      "book_page": 52,
+      "pdf_page": 56,
+      "actual_publication_target_rect": [
+        98.0046615600586,
+        526.1730041503906,
+        112.33799743652344,
+        534.2630004882812
+      ],
+      "context_rect": [
+        35.0,
+        509.1730041503906,
+        177.33799743652344,
+        554.2630004882812
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p052_s02_local1.png"
+    },
+    {
+      "id": "p052_s03_local1",
+      "key": "p052_s03",
+      "book_page": 52,
+      "pdf_page": 56,
+      "actual_publication_target_rect": [
+        111.8276596069336,
+        893.6580200195312,
+        152.82766723632812,
+        902.3480224609375
+      ],
+      "context_rect": [
+        35.0,
+        876.6580200195312,
+        217.82766723632812,
+        922.3480224609375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p052_s03_local1.png"
+    },
+    {
+      "id": "p052_s04_local1",
+      "key": "p052_s04",
+      "book_page": 52,
+      "pdf_page": 56,
+      "actual_publication_target_rect": [
+        88.78965759277344,
+        1184.64794921875,
+        103.12299346923828,
+        1193.2979736328125
+      ],
+      "context_rect": [
+        35.0,
+        1167.64794921875,
+        168.12299346923828,
+        1213.2979736328125
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p052_s04_local1.png"
+    },
+    {
+      "id": "p079_s04_local1",
+      "key": "p079_s04",
+      "book_page": 79,
+      "pdf_page": 83,
+      "actual_publication_target_rect": [
+        306.3376770019531,
+        1111.7969970703125,
+        320.6710205078125,
+        1120.447021484375
+      ],
+      "context_rect": [
+        216.33767700195312,
+        1094.7969970703125,
+        385.6710205078125,
+        1140.447021484375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p079_s04_local1.png"
+    },
+    {
+      "id": "p079_s05_local1",
+      "key": "p079_s05",
+      "book_page": 79,
+      "pdf_page": 83,
+      "actual_publication_target_rect": [
+        288.94464111328125,
+        1304.2219848632812,
+        303.2779846191406,
+        1312.8419799804688
+      ],
+      "context_rect": [
+        198.94464111328125,
+        1287.2219848632812,
+        368.2779846191406,
+        1332.8419799804688
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p079_s05_local1.png"
+    },
+    {
+      "id": "p084_s01_local1",
+      "key": "p084_s01",
+      "book_page": 84,
+      "pdf_page": 88,
+      "actual_publication_target_rect": [
+        212.2916717529297,
+        240.54901123046875,
+        226.625,
+        248.63902282714844
+      ],
+      "context_rect": [
+        122.29167175292969,
+        223.54901123046875,
+        291.625,
+        268.63902282714844
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p084_s01_local1.png"
+    },
+    {
+      "id": "p084_s02_local1",
+      "key": "p084_s02",
+      "book_page": 84,
+      "pdf_page": 88,
+      "actual_publication_target_rect": [
+        207.68467712402344,
+        447.54998779296875,
+        222.01800537109375,
+        455.6399841308594
+      ],
+      "context_rect": [
+        117.68467712402344,
+        430.54998779296875,
+        287.01800537109375,
+        475.6399841308594
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p084_s02_local1.png"
+    },
+    {
+      "id": "p084_s03_local1",
+      "key": "p084_s03",
+      "book_page": 84,
+      "pdf_page": 88,
+      "actual_publication_target_rect": [
+        184.7296600341797,
+        688.7480163574219,
+        199.06298828125,
+        696.8380126953125
+      ],
+      "context_rect": [
+        94.72966003417969,
+        671.7480163574219,
+        264.06298828125,
+        716.8380126953125
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p084_s03_local1.png"
+    },
+    {
+      "id": "p084_s04_local1",
+      "key": "p084_s04",
+      "book_page": 84,
+      "pdf_page": 88,
+      "actual_publication_target_rect": [
+        283.0166320800781,
+        1090.5549926757812,
+        297.3499755859375,
+        1098.64501953125
+      ],
+      "context_rect": [
+        193.01663208007812,
+        1073.5549926757812,
+        362.3499755859375,
+        1118.64501953125
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p084_s04_local1.png"
+    },
+    {
+      "id": "p088_s02_local2",
+      "key": "p088_s02",
+      "book_page": 88,
+      "pdf_page": 92,
+      "actual_publication_target_rect": [
+        284.49267578125,
+        448.18603515625,
+        307.8260192871094,
+        456.8360290527344
+      ],
+      "context_rect": [
+        194.49267578125,
+        431.18603515625,
+        372.8260192871094,
+        476.8360290527344
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p088_s02_local2.png"
+    },
+    {
+      "id": "p091_s02_local1",
+      "key": "p091_s02",
+      "book_page": 91,
+      "pdf_page": 95,
+      "actual_publication_target_rect": [
+        102.28966522216797,
+        606.1749877929688,
+        125.62300109863281,
+        614.8249816894531
+      ],
+      "context_rect": [
+        35.0,
+        589.1749877929688,
+        190.6230010986328,
+        634.8249816894531
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p091_s02_local1.png"
+    },
+    {
+      "id": "p091_s03_local1",
+      "key": "p091_s03",
+      "book_page": 91,
+      "pdf_page": 95,
+      "actual_publication_target_rect": [
+        97.68266296386719,
+        893.85400390625,
+        112.01599884033203,
+        902.5440063476562
+      ],
+      "context_rect": [
+        35.0,
+        876.85400390625,
+        177.01599884033203,
+        922.5440063476562
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p091_s03_local1.png"
+    },
+    {
+      "id": "p104_s01_local1",
+      "key": "p104_s01",
+      "book_page": 104,
+      "pdf_page": 108,
+      "actual_publication_target_rect": [
+        93.09965515136719,
+        155.98696899414062,
+        108.09965515136719,
+        164.5269775390625
+      ],
+      "context_rect": [
+        35.0,
+        138.98696899414062,
+        173.0996551513672,
+        184.5269775390625
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p104_s01_local1.png"
+    },
+    {
+      "id": "p104_s03_local1",
+      "key": "p104_s03",
+      "book_page": 104,
+      "pdf_page": 108,
+      "actual_publication_target_rect": [
+        100.46965789794922,
+        735.1380004882812,
+        115.46965789794922,
+        743.6780090332031
+      ],
+      "context_rect": [
+        35.0,
+        718.1380004882812,
+        180.46965789794922,
+        763.6780090332031
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p104_s03_local1.png"
+    },
+    {
+      "id": "p104_s04_local1",
+      "key": "p104_s04",
+      "book_page": 104,
+      "pdf_page": 108,
+      "actual_publication_target_rect": [
+        90.53965759277344,
+        988.2659912109375,
+        118.53965759277344,
+        997.39599609375
+      ],
+      "context_rect": [
+        35.0,
+        971.2659912109375,
+        183.53965759277344,
+        1017.39599609375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p104_s04_local1.png"
+    },
+    {
+      "id": "p104_s05_local1",
+      "key": "p104_s05",
+      "book_page": 104,
+      "pdf_page": 108,
+      "actual_publication_target_rect": [
+        99.7546615600586,
+        1263.7569580078125,
+        123.08799743652344,
+        1272.406982421875
+      ],
+      "context_rect": [
+        35.0,
+        1246.7569580078125,
+        188.08799743652344,
+        1292.406982421875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p104_s05_local1.png"
+    },
+    {
+      "id": "p016_s02_local1",
+      "key": "p016_s02",
+      "book_page": 16,
+      "pdf_page": 20,
+      "actual_publication_target_rect": [
+        274.8146667480469,
+        318.2970275878906,
+        306.8146667480469,
+        325.13037109375
+      ],
+      "context_rect": [
+        184.81466674804688,
+        301.2970275878906,
+        371.8146667480469,
+        345.13037109375
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p016_s02_local1.png"
+    },
+    {
+      "id": "p016_s02_local2",
+      "key": "p016_s02",
+      "book_page": 16,
+      "pdf_page": 20,
+      "actual_publication_target_rect": [
+        264.2986755371094,
+        332.10400390625,
+        320.2986755371094,
+        341.7140197753906
+      ],
+      "context_rect": [
+        174.29867553710938,
+        315.10400390625,
+        385.2986755371094,
+        361.7140197753906
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p016_s02_local2.png"
+    },
+    {
+      "id": "p016_s02_local3",
+      "key": "p016_s02",
+      "book_page": 16,
+      "pdf_page": 20,
+      "actual_publication_target_rect": [
+        264.2986755371094,
+        347.541015625,
+        414.9653625488281,
+        358.09100341796875
+      ],
+      "context_rect": [
+        174.29867553710938,
+        330.541015625,
+        479.9653625488281,
+        378.09100341796875
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p016_s02_local3.png"
+    },
+    {
+      "id": "p052_s01_local2",
+      "key": "p052_s01",
+      "book_page": 52,
+      "pdf_page": 56,
+      "actual_publication_target_rect": [
+        74.45465087890625,
+        144.9040069580078,
+        233.78799438476562,
+        154.39401245117188
+      ],
+      "context_rect": [
+        35.0,
+        127.90400695800781,
+        298.7879943847656,
+        174.39401245117188
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p052_s01_local2.png"
+    },
+    {
+      "id": "p052_s03_local2",
+      "key": "p052_s03",
+      "book_page": 52,
+      "pdf_page": 56,
+      "actual_publication_target_rect": [
+        74.78799438476562,
+        907.8560180664062,
+        301.45465087890625,
+        917.3860473632812
+      ],
+      "context_rect": [
+        35.0,
+        890.8560180664062,
+        366.45465087890625,
+        937.3860473632812
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p052_s03_local2.png"
+    },
+    {
+      "id": "p079_s04_local2",
+      "key": "p079_s04",
+      "book_page": 79,
+      "pdf_page": 83,
+      "actual_publication_target_rect": [
+        278.1796569824219,
+        1125.9950561523438,
+        437.51300048828125,
+        1135.4850463867188
+      ],
+      "context_rect": [
+        188.17965698242188,
+        1108.9950561523438,
+        502.51300048828125,
+        1155.4850463867188
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p079_s04_local2.png"
+    },
+    {
+      "id": "p075_s02_local1",
+      "key": "p075_s02",
+      "book_page": 75,
+      "pdf_page": 79,
+      "actual_publication_target_rect": [
+        80.16767120361328,
+        454.1130065917969,
+        360.8343505859375,
+        478.3330078125
+      ],
+      "context_rect": [
+        35.0,
+        437.1130065917969,
+        425.8343505859375,
+        498.3330078125
+      ],
+      "path": "/workspace/scratch/1facfb035d44/units_review/project/units_update/local_crops/p075_s02_local1.png"
+    }
+  ]
+}

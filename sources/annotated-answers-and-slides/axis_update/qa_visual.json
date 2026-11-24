@@ -1,0 +1,82 @@
+{
+  "passed": true,
+  "pdf": "/workspace/scratch/1facfb035d44/axis_revision/deliverables/小学同步素养四年级上册数学答案.pdf",
+  "pdf_sha256": "0c2b58508dc03f5724055d47df357044426fb7196d506894728c93258b04fe44",
+  "actual_visual_review": {
+    "book_pages": [
+      65,
+      70,
+      85
+    ],
+    "pdf_pages": [
+      69,
+      74,
+      89
+    ],
+    "full_page_images": [
+      "axis_revision/p065_after.png",
+      "axis_revision/p070_after.png",
+      "axis_revision/p085_after.png"
+    ],
+    "high_magnification_images": [
+      "axis_revision/axis_mark_review.png"
+    ],
+    "scope": "实际查看3个修改页的全页布局；另以3倍局部检查70页二3/4/5相邻三个判断符号与括号。数学独立复核仅针对本次4条术语说明及二4判断，不声称复核所有周围未变题目的数学。"
+  },
+  "checks": {
+    "p070_s06_mark_is_cross": true,
+    "p070_s06_mark_inside_original_parentheses": true,
+    "p070_s06_old_checkmark_not_visible": true,
+    "p070_s03_s04_s05_s07_other_judgments_not_mis_changed": true,
+    "p070_adjacent_judgments_visible": [
+      "二3×",
+      "二4×",
+      "二5√"
+    ],
+    "black_stems_and_parentheses_unobscured": true,
+    "all_four_updated_notes_visible_and_unclipped": true,
+    "updated_note_rectangles_do_not_overlap_following_questions": true,
+    "new_latex_not_raw_commands": true,
+    "page_headers_and_footers_visible": true
+  },
+  "mathematics": [
+    {
+      "key": "p070_s06",
+      "conclusion": "×",
+      "reason": "对角线是线段，对称轴是直线；正确陈述是对角线所在直线是正方形的对称轴。",
+      "original_reference_matches": true
+    },
+    {
+      "key": "p065_s05",
+      "answers_unchanged": [
+        "2",
+        "正方",
+        "等边"
+      ],
+      "terminology": "正方形两条对角线所在直线与原两条轴合计4条。"
+    },
+    {
+      "key": "p070_s11",
+      "answer_unchanged": "C，等边三角形",
+      "terminology": "高所在的直线，而不是高线段本身，成为对称轴。"
+    },
+    {
+      "key": "p085_s11",
+      "answers_unchanged": [
+        4,
+        3,
+        1
+      ],
+      "terminology": "对角线和对边中点连线均明确写所在直线。"
+    }
+  ],
+  "issues": [],
+  "limits": [
+    "未在PowerPoint中检查或放映PPT；由PPT专项负责其实际静态检查。"
+  ],
+  "reviewed_visible_pdf_sha256": "d920ead444f1bc84a36ba82dca1c6710b944d5cc506937285766c5110cc1c2c2",
+  "final_three_page_png_identical_to_actual_review": true,
+  "old_check_drawing_operation_removed": true,
+  "extractable_old_judgment_check_removed": true,
+  "final_text_extraction_check": "本题旧勾绘制操作已单独移除；本页文本抽取只剩二2和二5的两个正确勾号，二4显示并抽取为叉。"
+}

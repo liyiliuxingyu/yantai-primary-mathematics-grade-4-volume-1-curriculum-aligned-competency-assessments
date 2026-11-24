@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "pdf_sha256": "6dd593cc5fe6123d21cf4e1ccbbafeb707d397dfc32c4c9227e5c9aa80b721aa",
+  "portable_tex_sha256": "670f17f4b40ad773ab912e99b5b4ef61a26a4957ca252c455c6491b085af7abc",
+  "compiled_snippets": 916,
+  "missing_characters": 0,
+  "overfull_warnings": 0,
+  "relative_font_path": true,
+  "font_note": "TeX数学字体有常规尺寸选择提示，未见缺字或溢出。",
+  "tikz_graphs_compiled": [
+    "p005_s04_a1",
+    "p007_s08_a1"
+  ],
+  "tikz_report": "followup_style/qa_tikz.json",
+  "full_recovery_test": "followup_style/qa_recovery.json",
+  "verified_raw_pdf_sha256": "d309b0f43131d3e020f9c0565c370f8621d12bc6a3b7350c4efc79eaa6e160ff",
+  "lossless_optimization": "followup_style/qa_lossless.json"
+}

@@ -1,0 +1,20 @@
+{
+  "overrides": [
+    {
+      "book_page": 66,
+      "scan_label": "96",
+      "label": "66"
+    },
+    {
+      "book_page": 70,
+      "scan_label": "20",
+      "label": "70"
+    },
+    {
+      "book_page": 77,
+      "scan_label": "27",
+      "label": "77"
+    }
+  ],
+  "basis": "原图页脚与已核对连续页序不符；保留原JPEG及对应关系，显示页码按66、70、77校正。"
+}

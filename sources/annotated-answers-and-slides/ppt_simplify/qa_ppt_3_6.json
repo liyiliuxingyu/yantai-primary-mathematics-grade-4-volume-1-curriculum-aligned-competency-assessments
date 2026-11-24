@@ -1,0 +1,190 @@
+{
+  "passed": true,
+  "scope": "Final PowerPoint volumes 3–6 calculation revision only",
+  "volumes": [
+    {
+      "volume": 3,
+      "filename": "小学四上同步素养卷第3册讲解课件答案.pptx",
+      "path": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/讲解课件/小学四上同步素养卷第3册讲解课件答案.pptx",
+      "output_sha256": "5688439fc7952665bd3f7beaaf30e91d56ac776cf4bb6a2f3dacb2ee720ee959",
+      "bytes": 28706867,
+      "slides": 406,
+      "changed_slides": [
+        121,
+        122,
+        166,
+        167,
+        177,
+        179,
+        194,
+        212,
+        257,
+        258
+      ],
+      "changed_slide_count": 10,
+      "all_original_timing_bytes_preserved": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "new_unique_shape_ids": 40,
+      "net_new_native_omml_objects": 22,
+      "unmodified_slides_byte_identical": true,
+      "unrelated_zip_parts_byte_identical": true,
+      "final_path": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/讲解课件/小学四上同步素养卷第3册讲解课件答案.pptx",
+      "sha256": "5688439fc7952665bd3f7beaaf30e91d56ac776cf4bb6a2f3dacb2ee720ee959",
+      "pptx": "小学四上同步素养卷第3册讲解课件答案.pptx"
+    },
+    {
+      "volume": 4,
+      "filename": "小学四上同步素养卷第4册讲解课件答案.pptx",
+      "path": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/讲解课件/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "output_sha256": "cf5038e9e36941091a7c595b58200b1d0e6096ab99c2089ad218b6ced6a7dfda",
+      "bytes": 3801911,
+      "slides": 462,
+      "changed_slides": [
+        96,
+        142,
+        206,
+        207
+      ],
+      "changed_slide_count": 4,
+      "all_original_timing_bytes_preserved": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "new_unique_shape_ids": 16,
+      "net_new_native_omml_objects": 14,
+      "unmodified_slides_byte_identical": true,
+      "unrelated_zip_parts_byte_identical": true,
+      "final_path": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/讲解课件/小学四上同步素养卷第4册讲解课件答案.pptx",
+      "sha256": "cf5038e9e36941091a7c595b58200b1d0e6096ab99c2089ad218b6ced6a7dfda",
+      "pptx": "小学四上同步素养卷第4册讲解课件答案.pptx"
+    },
+    {
+      "volume": 5,
+      "filename": "小学四上同步素养卷第5册讲解课件答案.pptx",
+      "path": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+      "output_sha256": "13b58d1bad2535fb8f465c9aee782ca32ec18fe8134a011e4c2415ab4bb53511",
+      "bytes": 5203787,
+      "slides": 430,
+      "changed_slides": [
+        1,
+        7,
+        9,
+        23,
+        46,
+        48,
+        57,
+        58,
+        68,
+        69,
+        70,
+        71,
+        88,
+        95,
+        97,
+        105,
+        141,
+        143,
+        160,
+        176,
+        247,
+        248,
+        249,
+        250
+      ],
+      "changed_slide_count": 24,
+      "all_original_timing_bytes_preserved": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "new_unique_shape_ids": 99,
+      "net_new_native_omml_objects": 49,
+      "unmodified_slides_byte_identical": true,
+      "unrelated_zip_parts_byte_identical": true,
+      "final_path": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/讲解课件/小学四上同步素养卷第5册讲解课件答案.pptx",
+      "sha256": "13b58d1bad2535fb8f465c9aee782ca32ec18fe8134a011e4c2415ab4bb53511",
+      "pptx": "小学四上同步素养卷第5册讲解课件答案.pptx"
+    },
+    {
+      "volume": 6,
+      "filename": "小学四上同步素养卷第6册讲解课件答案.pptx",
+      "path": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/讲解课件/小学四上同步素养卷第6册讲解课件答案.pptx",
+      "output_sha256": "1d7e4b42bd9fce9ad7c442fbdb57b94a9c201d97a9a9f7508eb7116bb2ff75cc",
+      "bytes": 4407762,
+      "slides": 464,
+      "changed_slides": [
+        68,
+        351,
+        352,
+        432,
+        433,
+        449
+      ],
+      "changed_slide_count": 6,
+      "all_original_timing_bytes_preserved": true,
+      "all_original_shape_ids_names_order_preserved": true,
+      "new_unique_shape_ids": 20,
+      "net_new_native_omml_objects": 12,
+      "unmodified_slides_byte_identical": true,
+      "unrelated_zip_parts_byte_identical": true,
+      "final_path": "/workspace/scratch/1facfb035d44/simplify_review/deliverables/讲解课件/小学四上同步素养卷第6册讲解课件答案.pptx",
+      "sha256": "1d7e4b42bd9fce9ad7c442fbdb57b94a9c201d97a9a9f7508eb7116bb2ff75cc",
+      "pptx": "小学四上同步素养卷第6册讲解课件答案.pptx"
+    }
+  ],
+  "changed_slides_total": 44,
+  "total_slides": 1762,
+  "native_formula_implementation": "Editable OMML; new multiline formulas are explicit positioned row objects in the original animation-anchor group, with actual compiled XeLaTeX SVG and PNG compatibility branches.",
+  "preservation": {
+    "all_original_timing_xml_bytes": true,
+    "all_original_shape_ids_names_order": true,
+    "all_unmodified_slide_xml_bytes": true,
+    "all_unrelated_zip_parts": true
+  },
+  "checks": {
+    "independent_rule_formula_review": true,
+    "no_uncompiled_TeX_or_accidental_control_characters_in_changed_slide_visible_text": true,
+    "package_integrity_all_4_passed": true,
+    "layout_findings": 0,
+    "font_policy_all_4_passed": true,
+    "artifact_tool_import_all_4_passed": true,
+    "changed_slides_rendered": 44,
+    "changed_slides_visually_reviewed": 44,
+    "visual_review_method": "All 44 changed slides reviewed via 11 four-up contact sheets, with full-size inspections for dense/adjusted pages; final R4 changed slide renders inspected, and identical-part comparison supports reuse of R3 views for unchanged final geometry."
+  },
+  "known_preexisting_warnings": [
+    {
+      "volume": 4,
+      "slide": 321,
+      "shape_id": 5,
+      "name": "p068_s01_b003_图形1_move0",
+      "kind": "object_outside_slide_boundary",
+      "baseline_unchanged": true,
+      "reason": "Existing motion-object geometry. The entire slide XML and timing are byte-identical to baseline; not expanded within this calculation-only revision."
+    },
+    {
+      "volume": 6,
+      "slide": 107,
+      "shape_id": 7,
+      "name": "p095_s05_b004_move0",
+      "kind": "object_outside_slide_boundary",
+      "baseline_unchanged": true,
+      "reason": "Existing motion-object geometry. The entire slide XML and timing are byte-identical to baseline; not expanded within this calculation-only revision."
+    },
+    {
+      "volume": 6,
+      "slide": 409,
+      "shape_id": 5,
+      "name": "p106_s06_b007_move0",
+      "kind": "object_outside_slide_boundary",
+      "baseline_unchanged": true,
+      "reason": "Existing motion-object geometry. The entire slide XML and timing are byte-identical to baseline; not expanded within this calculation-only revision."
+    }
+  ],
+  "limitations": [
+    "No PowerPoint or WPS slideshow playback was opened or tested.",
+    "Added steps within an existing inline-analysis click appear together in that preserved click; all original native timing groups and separate calculation-step clicks remain.",
+    "Automatic package/layout checks do not establish mathematical correctness; mathematics was separately checked against root-approved changes."
+  ],
+  "metadata": {
+    "current_inventory_merge_source": "final_inventory_3_6.json",
+    "current_metadata": "volume03–06 manifest/index updated with explicit structural-only/pre-patch scope and exact final post-export object overlays.",
+    "authoritative_overlay": "post_export_overlay_3_6.json"
+  },
+  "finalizer_receipts": "qa/finalizer_all.json"
+}

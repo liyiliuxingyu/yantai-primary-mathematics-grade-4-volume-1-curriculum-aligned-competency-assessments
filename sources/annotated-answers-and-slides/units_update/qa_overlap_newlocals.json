@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "pdf_sha256": "57f52c327b8c94f859e57de5052b4f590fd9267dcc49145bd1cbec3897ab2328",
+  "actual_new_local_count": 66,
+  "new_local_vs_note_ink_rectangle_intersections": 0,
+  "actual_visual_views": [
+    "crops/p053_s08_note.png",
+    "local_crops/p075_s02_local1.png",
+    "crops/p075_s02_note.png",
+    "crops/p079_s04_note.png",
+    "local_crops/p016_s02_local1.png"
+  ],
+  "p075_s02_clearance_pt": 4.166986465454102,
+  "p075_s02_conversion_occurrences_in_original_local": 1,
+  "p075_s02_duplicate_conversion_removed_from_note": true,
+  "p079_s04_duplicate_conversion_removed_from_note": true,
+  "limits": "This geometry check supplements the independent actual image reviews; it does not claim that every page was manually viewed."
+}

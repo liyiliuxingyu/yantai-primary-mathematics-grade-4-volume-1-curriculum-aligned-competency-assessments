@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "source_sha256_before": "7831dff1bc6d195c7bb9b34d2491753c23859b672111214c3ed1d46c68639a3f",
+  "source_sha256_after": "7ee463cc70a39ee8bf42a1acfbeac4750635163c2e715a57157c1d4a3828039b",
+  "changed_package_parts": [
+    "ppt/slides/slide356.xml",
+    "ppt/slides/slide357.xml",
+    "ppt/slides/slide358.xml"
+  ],
+  "all_other_package_member_bytes_unchanged": true,
+  "only_equal_y_positions_changed": true,
+  "pixel_changes": [
+    {
+      "slide": 356,
+      "changed_pixel_bbox": [
+        66,
+        277,
+        88,
+        304
+      ],
+      "only_equal_sign_pixels_changed": true
+    },
+    {
+      "slide": 357,
+      "changed_pixel_bbox": [
+        66,
+        344,
+        88,
+        366
+      ],
+      "only_equal_sign_pixels_changed": true
+    },
+    {
+      "slide": 358,
+      "changed_pixel_bbox": [
+        66,
+        354,
+        88,
+        378
+      ],
+      "only_equal_sign_pixels_changed": true
+    }
+  ],
+  "other_58_reviewed_modified_pages_carried_forward_by_exact_xml_relationship_media_identity": true,
+  "re_rendered_actual_pages": [
+    356,
+    357,
+    358
+  ]
+}

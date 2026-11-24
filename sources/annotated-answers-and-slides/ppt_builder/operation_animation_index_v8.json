@@ -1,0 +1,4299 @@
+[
+  {
+    "volume": 1,
+    "book_page": 10,
+    "source_page": 14,
+    "question_id": "二、8",
+    "record_key": "p010_s10",
+    "kind": "choice",
+    "native_scenes": [
+      {
+        "block_key": "p010_s10_b006",
+        "type": "perpendicular",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 239
+      }
+    ],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 7,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "按定位、平移、作线、标角顺序①④③②，C。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 11,
+    "source_page": 15,
+    "question_id": "四、1",
+    "record_key": "p011_s09",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p011_s09_b003",
+        "type": "perpendicular",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 260
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p011_s09_answer",
+        "slides": [
+          262
+        ]
+      }
+    ],
+    "lecture_clicks": 8,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "过A的平行线方向与l一致；过A垂线与l交角90度，均唯一。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 11,
+    "source_page": 15,
+    "question_id": "四、2",
+    "record_key": "p011_s10",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p011_s10_answer",
+        "slides": [
+          266
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "分别过两端点作对边平行线，形成长方形；向量(1,1.5)与(3,−2)内积0。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 12,
+    "source_page": 16,
+    "question_id": "四、3",
+    "record_key": "p012_s01",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p012_s01_answer",
+        "slides": [
+          270
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "conditional",
+    "conditional_notes": [
+      "图上没有距离数据，O是否严格位于上下边正中未明；可选对应最短垂线段，保留原解析条件说明。"
+    ],
+    "verification_reason": "到各边分别作垂线段并比较。原图O近中线，不能把扫描微小偏差当严格长度条件。",
+    "conditional_explanation_latex": "点到某一条边的最近路线是向这条边作垂线段；要到“四条边中任意一条”，还要比较这四条垂线段的长度。按图示，从\\(O\\)向上边\\(AD\\)作的垂线段最短。若把\\(O\\)视作上、下两平行边的正中位置，则向\\(AD\\)或\\(BC\\)作出的等长垂线段都可以。",
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 12,
+    "source_page": 16,
+    "question_id": "五、2（1）",
+    "record_key": "p012_s04",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p012_s04_answer",
+        "slides": [
+          279
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "每村分别连向最近国道边的垂线段，依据点到直线垂线段最短。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 12,
+    "source_page": 16,
+    "question_id": "五、2（2）",
+    "record_key": "p012_s05",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p012_s05_answer",
+        "slides": [
+          283
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "直接连接村庄两黑点成线段AB，固定两点之间线段最短。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 12,
+    "source_page": 16,
+    "question_id": "五、3",
+    "record_key": "p012_s06",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p012_s06_answer",
+        "slides": [
+          287
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "过A画新华路平行线至民主路，在同一转折点向右作青年路平行线。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 15,
+    "source_page": 19,
+    "question_id": "四、画一画",
+    "record_key": "p015_s09",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p015_s09_b003",
+        "type": "perpendicular",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 343
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p015_s09_answer",
+        "slides": [
+          345
+        ]
+      }
+    ],
+    "lecture_clicks": 7,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "A在已知线上，AB应垂直已知线且长3厘米；过B平行线与已知线间距3厘米。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 15,
+    "source_page": 19,
+    "question_id": "五、1",
+    "record_key": "p015_s10",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p015_s10_answer",
+        "slides": [
+          349
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "在不计水中费力的题意下，从两家分别向各自近岸作垂线段，水中连接两垂足；不将整体最短距离冒充最省陆地力气。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 16,
+    "source_page": 20,
+    "question_id": "五、2（1）",
+    "record_key": "p016_s01",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p016_s01_b003",
+        "type": "perpendicular",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 353
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p016_s01_answer",
+        "slides": [
+          354
+        ]
+      }
+    ],
+    "lecture_clicks": 6,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "从A沿人行横道作道路两侧的垂线段，最短。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 16,
+    "source_page": 20,
+    "question_id": "五、3",
+    "record_key": "p016_s03",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p016_s03_answer",
+        "slides": [
+          361
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "正方形边长取两平行线间的垂直距离，上下两边落在平行线上，所得正方形最大。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 1,
+    "book_page": 16,
+    "source_page": 20,
+    "question_id": "六、动脑筋",
+    "record_key": "p016_s04",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p016_s04_answer",
+        "slides": [
+          365
+        ]
+      }
+    ],
+    "lecture_clicks": 5,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "先确定直线AB；从C作垂线CD得距离，再在过C平行AB的左下射线上截取CP=CD，点P唯一。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 20,
+    "source_page": 24,
+    "question_id": "四、5",
+    "record_key": "p020_s03",
+    "kind": "application",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p020_s03_g1",
+        "slides": [
+          37
+        ]
+      }
+    ],
+    "lecture_clicks": 13,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "(80+100)×3=540千米，或80×3+100×3。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 23,
+    "source_page": 27,
+    "question_id": "四、1（2）",
+    "record_key": "p023_s16",
+    "kind": "application",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 11,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "同向同地出发，速度差(260−220)×5=200米。",
+    "conditional_explanation_latex": null,
+    "coverage": "text_formula_steps",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 26,
+    "source_page": 30,
+    "question_id": "二、4",
+    "record_key": "p026_s04",
+    "kind": "choice",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "B总长2+3宽m，分割为2×m和3×m两块，正确说明分配律。",
+    "conditional_explanation_latex": null,
+    "coverage": "text_formula_steps",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 31,
+    "source_page": 35,
+    "question_id": "四、操作",
+    "record_key": "p031_s15",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p031_s15_g1",
+        "slides": [
+          344
+        ]
+      }
+    ],
+    "lecture_clicks": 6,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 35,
+    "source_page": 39,
+    "question_id": "四、1（平行四边形）",
+    "record_key": "p035_s02",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p035_s02_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 432
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p035_s02_a1",
+        "slides": [
+          434
+        ]
+      }
+    ],
+    "lecture_clicks": 7,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 35,
+    "source_page": 39,
+    "question_id": "四、1（三角形）",
+    "record_key": "p035_s03",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p035_s03_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 438
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p035_s03_a1",
+        "slides": [
+          440
+        ]
+      }
+    ],
+    "lecture_clicks": 7,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 35,
+    "source_page": 39,
+    "question_id": "四、2（1）",
+    "record_key": "p035_s04",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p035_s04_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 444
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p035_s04_a1",
+        "slides": [
+          446
+        ]
+      }
+    ],
+    "lecture_clicks": 8,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 35,
+    "source_page": 39,
+    "question_id": "四、2（2）",
+    "record_key": "p035_s05",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p035_s05_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 450
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p035_s05_a1",
+        "slides": [
+          452
+        ]
+      }
+    ],
+    "lecture_clicks": 8,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 35,
+    "source_page": 39,
+    "question_id": "四、2（3）",
+    "record_key": "p035_s06",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p035_s06_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 456
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p035_s06_a1",
+        "slides": [
+          458
+        ]
+      }
+    ],
+    "lecture_clicks": 9,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 2,
+    "book_page": 35,
+    "source_page": 39,
+    "question_id": "四、3",
+    "record_key": "p035_s07",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p035_s07_a1",
+        "slides": [
+          461
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 39,
+    "source_page": 43,
+    "question_id": "四、1（1）",
+    "record_key": "p039_s01",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p039_s01_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 68
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p039_s01_a1",
+        "slides": [
+          69
+        ]
+      }
+    ],
+    "lecture_clicks": 7,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 39,
+    "source_page": 43,
+    "question_id": "四、1（2）",
+    "record_key": "p039_s02",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p039_s02_a1",
+        "slides": [
+          73
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 39,
+    "source_page": 43,
+    "question_id": "四、2（1）",
+    "record_key": "p039_s03",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p039_s03_a1",
+        "slides": [
+          76
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 39,
+    "source_page": 43,
+    "question_id": "四、2（2）",
+    "record_key": "p039_s04",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 1,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "text_formula_steps",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 43,
+    "source_page": 47,
+    "question_id": "四、1",
+    "record_key": "p043_s01",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p043_s01_a1",
+        "slides": [
+          160
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 43,
+    "source_page": 47,
+    "question_id": "四、2",
+    "record_key": "p043_s02",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p043_s02_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 164
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p043_s02_a1",
+        "slides": [
+          165
+        ]
+      }
+    ],
+    "lecture_clicks": 7,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 47,
+    "source_page": 51,
+    "question_id": "四、1",
+    "record_key": "p047_s01",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p047_s01_a1",
+        "slides": [
+          243
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 47,
+    "source_page": 51,
+    "question_id": "四、2",
+    "record_key": "p047_s02",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p047_s02_a1",
+        "slides": [
+          246
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 47,
+    "source_page": 51,
+    "question_id": "五、2",
+    "record_key": "p047_s04",
+    "kind": "application",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p047_s04_a1",
+        "slides": [
+          254
+        ]
+      }
+    ],
+    "lecture_clicks": 11,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 51,
+    "source_page": 55,
+    "question_id": "四、1",
+    "record_key": "p051_s04",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p051_s04_a1",
+        "slides": [
+          331
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 3,
+    "book_page": 51,
+    "source_page": 55,
+    "question_id": "四、2",
+    "record_key": "p051_s05",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p051_s05_a1",
+        "slides": [
+          333
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "对照原题扫描逐项转录，并独立核对运算、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 55,
+    "source_page": 59,
+    "question_id": "四、1",
+    "record_key": "p055_s09",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p055_shading_answer",
+        "slides": [
+          21
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 55,
+    "source_page": 59,
+    "question_id": "四、2（2）",
+    "record_key": "p055_s11",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p055_numberline_answer",
+        "slides": [
+          26
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 65,
+    "source_page": 69,
+    "question_id": "一、3（1）",
+    "record_key": "p065_s03",
+    "kind": "fill",
+    "native_scenes": [
+      {
+        "block_key": "p065_s03_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 10.680144276513529,
+          "sy": -10.679222222222222,
+          "ox": 8.914062283168036,
+          "oy": 104.586,
+          "viewbox": [
+            0,
+            0,
+            200.19,
+            114.02
+          ],
+          "grid_svg_bbox": [
+            8.914062283168036,
+            8.473,
+            190.476514983898,
+            104.586
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.914062283168036,
+              8.473,
+              190.476514983898,
+              104.586
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 229
+      }
+    ],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 65,
+    "source_page": 69,
+    "question_id": "一、3（2）",
+    "record_key": "p065_s04",
+    "kind": "fill",
+    "native_scenes": [
+      {
+        "block_key": "p065_s04_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 10.680144276513529,
+          "sy": -10.679222222222222,
+          "ox": 8.914062283168036,
+          "oy": 104.586,
+          "viewbox": [
+            0,
+            0,
+            200.19,
+            114.02
+          ],
+          "grid_svg_bbox": [
+            8.914062283168036,
+            8.473,
+            190.476514983898,
+            104.586
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.914062283168036,
+              8.473,
+              190.476514983898,
+              104.586
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 234
+      }
+    ],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 66,
+    "source_page": 70,
+    "question_id": "一、5",
+    "record_key": "p066_s01",
+    "kind": "fill",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p066_rings_answer",
+        "slides": [
+          241
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 66,
+    "source_page": 70,
+    "question_id": "一、6（1）",
+    "record_key": "p066_s02",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p066_s02_b003",
+        "type": "rotation",
+        "registration_method": "actual_svg_known_frame",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_frame",
+          "sx": 28.034171998591503,
+          "sy": -28.033846493075135,
+          "ox": 19.14453079578995,
+          "oy": 68.26562477252224,
+          "viewbox": [
+            0,
+            0,
+            262.78,
+            87.03
+          ],
+          "actual_svg_bbox": [
+            19.14453079578995,
+            17.804701084987002,
+            243.417906784522,
+            68.26562477252224
+          ],
+          "matching_anchor_instances": 1,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "唯一匹配的已知框/钟面圆",
+          "candidate_anchor_svg_bboxes": [
+            [
+              19.14453079578995,
+              17.804701084987002,
+              243.417906784522,
+              68.26562477252224
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 245
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p066_houses_answer",
+        "slides": [
+          246
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 66,
+    "source_page": 70,
+    "question_id": "一、6（2）",
+    "record_key": "p066_s03",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p066_s03_b003",
+        "type": "rotation",
+        "registration_method": "actual_svg_known_frame",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_frame",
+          "sx": 28.034171998591503,
+          "sy": -28.033846493075135,
+          "ox": 19.14453079578995,
+          "oy": 68.26562477252224,
+          "viewbox": [
+            0,
+            0,
+            262.78,
+            87.03
+          ],
+          "actual_svg_bbox": [
+            19.14453079578995,
+            17.804701084987002,
+            243.417906784522,
+            68.26562477252224
+          ],
+          "matching_anchor_instances": 1,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "唯一匹配的已知框/钟面圆",
+          "candidate_anchor_svg_bboxes": [
+            [
+              19.14453079578995,
+              17.804701084987002,
+              243.417906784522,
+              68.26562477252224
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 249
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p066_arrows_answer",
+        "slides": [
+          250
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 66,
+    "source_page": 70,
+    "question_id": "一、7（①）",
+    "record_key": "p066_s04",
+    "kind": "fill",
+    "native_scenes": [
+      {
+        "block_key": "p066_s04_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 16.92090462719,
+          "sy": -16.919,
+          "ox": 1.1923824227139903,
+          "oy": 80.723,
+          "viewbox": [
+            0,
+            0,
+            177.09,
+            103.87
+          ],
+          "grid_svg_bbox": [
+            85.796905558664,
+            13.047,
+            153.480524067424,
+            80.723
+          ],
+          "grid_math": {
+            "x_min": 5,
+            "x_max": 9,
+            "y_min": 0,
+            "y_max": 4,
+            "step": 1
+          },
+          "horizontal_line_count": 5,
+          "matching_grid_instances": 2,
+          "selected_grid_instance": 1,
+          "grid_instance_selection": "explicit_right_diagram",
+          "candidate_grid_svg_bboxes": [
+            [
+              1.1914066365636,
+              13.047,
+              68.875024697624,
+              80.723
+            ],
+            [
+              85.796905558664,
+              13.047,
+              153.480524067424,
+              80.723
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 254
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p066_horse_parts_answer_3",
+        "slides": [
+          255
+        ]
+      }
+    ],
+    "lecture_clicks": 5,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 66,
+    "source_page": 70,
+    "question_id": "一、7（②）",
+    "record_key": "p066_s05",
+    "kind": "fill",
+    "native_scenes": [
+      {
+        "block_key": "p066_s05_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 16.92090462719,
+          "sy": -16.919,
+          "ox": 1.1923824227139903,
+          "oy": 80.723,
+          "viewbox": [
+            0,
+            0,
+            177.09,
+            103.87
+          ],
+          "grid_svg_bbox": [
+            85.796905558664,
+            13.047,
+            153.480524067424,
+            80.723
+          ],
+          "grid_math": {
+            "x_min": 5,
+            "x_max": 9,
+            "y_min": 0,
+            "y_max": 4,
+            "step": 1
+          },
+          "horizontal_line_count": 5,
+          "matching_grid_instances": 2,
+          "selected_grid_instance": 1,
+          "grid_instance_selection": "explicit_right_diagram",
+          "candidate_grid_svg_bboxes": [
+            [
+              1.1914066365636,
+              13.047,
+              68.875024697624,
+              80.723
+            ],
+            [
+              85.796905558664,
+              13.047,
+              153.480524067424,
+              80.723
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 260
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p066_horse_parts_answer_4",
+        "slides": [
+          261
+        ]
+      }
+    ],
+    "lecture_clicks": 5,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 67,
+    "source_page": 71,
+    "question_id": "三、1（第1图）",
+    "record_key": "p067_s03",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p067_s03_b003",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.293944741399965,
+          "sy": -11.292444444444445,
+          "ox": 8.8984377755853,
+          "oy": 110.73,
+          "viewbox": [
+            0,
+            0,
+            108.57,
+            119.91
+          ],
+          "grid_svg_bbox": [
+            8.8984377755853,
+            9.098,
+            99.24999570678501,
+            110.73
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 8,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.8984377755853,
+              9.098,
+              99.24999570678501,
+              110.73
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 284
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p067_half_1_answer",
+        "slides": [
+          285
+        ]
+      }
+    ],
+    "lecture_clicks": 8,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 67,
+    "source_page": 71,
+    "question_id": "三、1（第2图）",
+    "record_key": "p067_s04",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p067_s04_b003",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.293944741399965,
+          "sy": -11.292444444444445,
+          "ox": 8.8984377755853,
+          "oy": 110.73,
+          "viewbox": [
+            0,
+            0,
+            108.57,
+            119.91
+          ],
+          "grid_svg_bbox": [
+            8.8984377755853,
+            9.098,
+            99.24999570678501,
+            110.73
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 8,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.8984377755853,
+              9.098,
+              99.24999570678501,
+              110.73
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 289
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p067_half_2_answer",
+        "slides": [
+          290
+        ]
+      }
+    ],
+    "lecture_clicks": 10,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 67,
+    "source_page": 71,
+    "question_id": "三、1（第3图）",
+    "record_key": "p067_s05",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p067_s05_b003",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.293944741399965,
+          "sy": -11.292444444444445,
+          "ox": 8.8984377755853,
+          "oy": 110.73,
+          "viewbox": [
+            0,
+            0,
+            108.57,
+            119.91
+          ],
+          "grid_svg_bbox": [
+            8.8984377755853,
+            9.098,
+            99.24999570678501,
+            110.73
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 8,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.8984377755853,
+              9.098,
+              99.24999570678501,
+              110.73
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 294
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p067_half_3_answer",
+        "slides": [
+          295
+        ]
+      }
+    ],
+    "lecture_clicks": 9,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 67,
+    "source_page": 71,
+    "question_id": "三、2（第1图）",
+    "record_key": "p067_s06",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p067_leaves_answer",
+        "slides": [
+          299
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 67,
+    "source_page": 71,
+    "question_id": "三、2（第2图）",
+    "record_key": "p067_s07",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p067_prohibition_answer",
+        "slides": [
+          303
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 67,
+    "source_page": 71,
+    "question_id": "三、2（第3图）",
+    "record_key": "p067_s08",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p067_sector_answer",
+        "slides": [
+          307
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 67,
+    "source_page": 71,
+    "question_id": "三、2（第4图）",
+    "record_key": "p067_s09",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p067_hexagon_answer",
+        "slides": [
+          311
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 67,
+    "source_page": 71,
+    "question_id": "三、3（1）",
+    "record_key": "p067_s10",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p067_s10_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.316269966827429,
+          "sy": -11.315111111111111,
+          "ox": 110.76046378129885,
+          "oy": 88.20177777777778,
+          "viewbox": [
+            0,
+            0,
+            335.34,
+            119.91
+          ],
+          "grid_svg_bbox": [
+            8.914034079851987,
+            8.996,
+            325.76959315102,
+            110.832
+          ],
+          "grid_math": {
+            "x_min": -9,
+            "x_max": 19,
+            "y_min": -2,
+            "y_max": 7,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.914034079851987,
+              8.996,
+              325.76959315102,
+              110.832
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 315
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p067_turn_grid_answer",
+        "slides": [
+          316
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 68,
+    "source_page": 72,
+    "question_id": "三、3（2）",
+    "record_key": "p068_s01",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p068_s01_b003",
+        "type": "sequence_objects",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 9.910718595065417,
+          "sy": -9.909833333333333,
+          "ox": 7.93359401266432,
+          "oy": 126.902,
+          "viewbox": [
+            0,
+            0,
+            293.68,
+            134.94
+          ],
+          "grid_svg_bbox": [
+            7.93359401266432,
+            7.984,
+            285.433714674496,
+            126.902
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 28,
+            "y_min": 0,
+            "y_max": 12,
+            "step": 1
+          },
+          "horizontal_line_count": 13,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              7.93359401266432,
+              7.984,
+              285.433714674496,
+              126.902
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 321
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p068_roof_grid_answer",
+        "slides": [
+          322
+        ]
+      }
+    ],
+    "lecture_clicks": 6,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 68,
+    "source_page": 72,
+    "question_id": "三、3（3）填空",
+    "record_key": "p068_s02",
+    "kind": "fill",
+    "native_scenes": [
+      {
+        "block_key": "p068_s02_b003",
+        "type": "translation",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.3299479471605,
+          "sy": -11.329,
+          "ox": 8.968749746592499,
+          "oy": 110.895,
+          "viewbox": [
+            0,
+            0,
+            187.94,
+            119.91
+          ],
+          "grid_svg_bbox": [
+            8.968749746592499,
+            8.934,
+            178.917968954,
+            110.895
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 15,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.968749746592499,
+              8.934,
+              178.917968954,
+              110.895
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 326
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p068_notch_grid_answer",
+        "slides": [
+          327
+        ]
+      }
+    ],
+    "lecture_clicks": 5,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 68,
+    "source_page": 72,
+    "question_id": "三、3（3）作图",
+    "record_key": "p068_s03",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p068_s03_b003",
+        "type": "rotation",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.3299479471605,
+          "sy": -11.329,
+          "ox": 8.968749746592499,
+          "oy": 110.895,
+          "viewbox": [
+            0,
+            0,
+            187.94,
+            119.91
+          ],
+          "grid_svg_bbox": [
+            8.968749746592499,
+            8.934,
+            178.917968954,
+            110.895
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 15,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.968749746592499,
+              8.934,
+              178.917968954,
+              110.895
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 332
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p068_notch_grid_answer",
+        "slides": [
+          333
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 68,
+    "source_page": 72,
+    "question_id": "四、逆操作",
+    "record_key": "p068_s06",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 1,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "text_formula_steps",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 69,
+    "source_page": 73,
+    "question_id": "一、4",
+    "record_key": "p069_s04",
+    "kind": "fill",
+    "native_scenes": [
+      {
+        "block_key": "p069_s04_b003",
+        "type": "rotation_sequence",
+        "registration_method": "actual_svg_known_dial_circle",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_dial_circle",
+          "sx": 25.4492096527625,
+          "sy": -25.4492096527625,
+          "ox": 46.83203140729,
+          "oy": 30.70605423154562,
+          "viewbox": [
+            0,
+            0,
+            93.83,
+            82.8
+          ],
+          "actual_svg_bbox": [
+            31.56250586503,
+            29.43359349951,
+            62.10155694955,
+            59.97264558162
+          ],
+          "matching_anchor_instances": 1,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "唯一匹配的已知框/钟面圆",
+          "candidate_anchor_svg_bboxes": [
+            [
+              31.56250586503,
+              29.43359349951,
+              62.10155694955,
+              59.97264558162
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 355
+      }
+    ],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 5,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 70,
+    "source_page": 74,
+    "question_id": "一、7",
+    "record_key": "p070_s02",
+    "kind": "fill",
+    "native_scenes": [
+      {
+        "block_key": "p070_s02_b003",
+        "type": "translation",
+        "registration_method": "actual_svg_known_frame",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_frame",
+          "sx": 22.586808461703825,
+          "sy": -22.590281479182735,
+          "ox": 14.546875024389722,
+          "oy": 116.23046860186231,
+          "viewbox": [
+            0,
+            0,
+            80.69,
+            125.58
+          ],
+          "actual_svg_bbox": [
+            4.382811216623001,
+            14.574201945539997,
+            14.546875024389722,
+            116.23046860186231
+          ],
+          "matching_anchor_instances": 1,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "唯一匹配的已知框/钟面圆",
+          "candidate_anchor_svg_bboxes": [
+            [
+              4.382811216623001,
+              14.574201945539997,
+              14.546875024389722,
+              116.23046860186231
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 366
+      }
+    ],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 70,
+    "source_page": 74,
+    "question_id": "二、5",
+    "record_key": "p070_s07",
+    "kind": "judgment",
+    "native_scenes": [
+      {
+        "block_key": "p070_s07_b003",
+        "type": "symmetry",
+        "registration_method": "actual_svg_known_line",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_line",
+          "sx": 28.127437776378123,
+          "sy": -28.127437776378123,
+          "ox": 46.20312507295199,
+          "oy": 54.42504904638157,
+          "viewbox": [
+            0,
+            0,
+            92.7,
+            81.36
+          ],
+          "known_line_svg": [
+            [
+              46.20312507295199,
+              62.863280379295006
+            ],
+            [
+              46.20312507295199,
+              17.859379937090004
+            ]
+          ],
+          "known_line_math": [
+            [
+              0,
+              -0.3
+            ],
+            [
+              0,
+              1.3
+            ]
+          ],
+          "matching_anchor_instances": 1,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "唯一给定的AB或指定对称轴端点"
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 379
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p070_half_trapezoid_answer",
+        "slides": [
+          380
+        ]
+      }
+    ],
+    "lecture_clicks": 8,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 71,
+    "source_page": 75,
+    "question_id": "四、1",
+    "record_key": "p071_s02",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p071_s02_b003",
+        "type": "rotation",
+        "registration_method": "actual_svg_known_line",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_line",
+          "sx": 28.231435881626002,
+          "sy": -28.231435881626002,
+          "ox": 85.6851557376694,
+          "oy": 85.68359421928761,
+          "viewbox": [
+            0,
+            0,
+            149.39,
+            149.39
+          ],
+          "known_line_svg": [
+            [
+              17.929709621767003,
+              85.68359421928761
+            ],
+            [
+              130.855453148271,
+              85.68359421928761
+            ]
+          ],
+          "known_line_math": [
+            [
+              -2.4,
+              0
+            ],
+            [
+              1.6,
+              0
+            ]
+          ],
+          "matching_anchor_instances": 1,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "唯一给定的AB或指定对称轴端点"
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 404
+      },
+      {
+        "block_key": "p071_s02_b004",
+        "type": "rotation",
+        "registration_method": "actual_svg_known_line",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_line",
+          "sx": 28.231435881625995,
+          "sy": -28.231435881625995,
+          "ox": 85.8443359156534,
+          "oy": 63.097655848263614,
+          "viewbox": [
+            0,
+            0,
+            291.13,
+            149.39
+          ],
+          "known_line_svg": [
+            [
+              159.246069207881,
+              63.097655848263614
+            ],
+            [
+              272.17181273438496,
+              63.097655848263614
+            ]
+          ],
+          "known_line_math": [
+            [
+              2.6,
+              0
+            ],
+            [
+              6.6,
+              0
+            ]
+          ],
+          "matching_anchor_instances": 1,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "唯一给定的AB或指定对称轴端点"
+        },
+        "layout_placement": [
+          5,
+          0
+        ],
+        "background_shift": [
+          5,
+          0
+        ],
+        "slide": 405
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p071_segment_answer",
+        "slides": [
+          406
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 71,
+    "source_page": 75,
+    "question_id": "四、2（1）",
+    "record_key": "p071_s03",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p071_s03_b003",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 9.903547488981177,
+          "sy": -9.902866666666666,
+          "ox": 8.09375027545342,
+          "oy": 156.473,
+          "viewbox": [
+            0,
+            0,
+            273.84,
+            164.7
+          ],
+          "grid_svg_bbox": [
+            8.09375027545342,
+            7.93,
+            265.585984988964,
+            156.473
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 26,
+            "y_min": 0,
+            "y_max": 15,
+            "step": 1
+          },
+          "horizontal_line_count": 16,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.09375027545342,
+              7.93,
+              265.585984988964,
+              156.473
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 410
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p071_combined_grid_answer",
+        "slides": [
+          411
+        ]
+      }
+    ],
+    "lecture_clicks": 8,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 71,
+    "source_page": 75,
+    "question_id": "四、2（2）",
+    "record_key": "p071_s04",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p071_s04_b003",
+        "type": "translation",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 9.903547488981177,
+          "sy": -9.902866666666666,
+          "ox": 8.09375027545342,
+          "oy": 156.473,
+          "viewbox": [
+            0,
+            0,
+            273.84,
+            164.7
+          ],
+          "grid_svg_bbox": [
+            8.09375027545342,
+            7.93,
+            265.585984988964,
+            156.473
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 26,
+            "y_min": 0,
+            "y_max": 15,
+            "step": 1
+          },
+          "horizontal_line_count": 16,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.09375027545342,
+              7.93,
+              265.585984988964,
+              156.473
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 415
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p071_combined_grid_answer",
+        "slides": [
+          416
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 71,
+    "source_page": 75,
+    "question_id": "四、2（3）",
+    "record_key": "p071_s05",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p071_s05_b003",
+        "type": "rotation",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 9.903547488981177,
+          "sy": -9.902866666666666,
+          "ox": 8.09375027545342,
+          "oy": 156.473,
+          "viewbox": [
+            0,
+            0,
+            273.84,
+            164.7
+          ],
+          "grid_svg_bbox": [
+            8.09375027545342,
+            7.93,
+            265.585984988964,
+            156.473
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 26,
+            "y_min": 0,
+            "y_max": 15,
+            "step": 1
+          },
+          "horizontal_line_count": 16,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              8.09375027545342,
+              7.93,
+              265.585984988964,
+              156.473
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 420
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p071_combined_grid_answer",
+        "slides": [
+          421
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 71,
+    "source_page": 75,
+    "question_id": "四、3",
+    "record_key": "p071_s06",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p071_s06_b003",
+        "type": "rotation_copies",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 14.09219168008137,
+          "sy": -14.090875,
+          "ox": 11.10937508829127,
+          "oy": 123.59,
+          "viewbox": [
+            0,
+            0,
+            163.57,
+            135.22
+          ],
+          "grid_svg_bbox": [
+            11.10937508829127,
+            10.863,
+            152.03129188910498,
+            123.59
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 10,
+            "y_min": 0,
+            "y_max": 8,
+            "step": 1
+          },
+          "horizontal_line_count": 9,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              11.10937508829127,
+              10.863,
+              152.03129188910498,
+              123.59
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 425
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p071_windmill_grid_answer",
+        "slides": [
+          426
+        ]
+      }
+    ],
+    "lecture_clicks": 5,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 71,
+    "source_page": 75,
+    "question_id": "四、4",
+    "record_key": "p071_s07",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p071_mirror_clock_answer",
+        "slides": [
+          430
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 72,
+    "source_page": 76,
+    "question_id": "五、1（图②）",
+    "record_key": "p072_s01",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p072_s01_b003",
+        "type": "rotation_copies",
+        "registration_method": "actual_svg_known_frame",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_frame",
+          "sx": 22.57812516895312,
+          "sy": -22.57812507586219,
+          "ox": 24.49218799584375,
+          "oy": 55.18359387547438,
+          "viewbox": [
+            0,
+            0,
+            206.84,
+            79.65
+          ],
+          "actual_svg_bbox": [
+            24.49218799584375,
+            10.02734372375,
+            69.64843833375,
+            55.18359387547438
+          ],
+          "matching_anchor_instances": 3,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "图①完整2×2框；其他复制位置使用原图全局坐标",
+          "candidate_anchor_svg_bboxes": [
+            [
+              24.49218799584375,
+              10.02734372375,
+              69.64843833375,
+              55.18359387547438
+            ],
+            [
+              92.22656298,
+              10.02734372375,
+              137.382813268125,
+              55.18359387547438
+            ],
+            [
+              159.96093791437502,
+              10.02734372375,
+              205.1171882025,
+              55.18359387547438
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 434
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p072_letter_patterns_answer",
+        "slides": [
+          435
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 72,
+    "source_page": 76,
+    "question_id": "五、1（图③）",
+    "record_key": "p072_s02",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p072_s02_b003",
+        "type": "rotation_copies",
+        "registration_method": "actual_svg_known_frame",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_known_frame",
+          "sx": 22.652341363155827,
+          "sy": -22.652341163874482,
+          "ox": 26.03515622283234,
+          "oy": 46.49218771966096,
+          "viewbox": [
+            0,
+            0,
+            218.85,
+            72.92
+          ],
+          "actual_svg_bbox": [
+            26.03515622283234,
+            1.1875053919119978,
+            71.339838949144,
+            46.49218771966096
+          ],
+          "matching_anchor_instances": 3,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "图①完整2×2框；其他复制位置使用原图全局坐标",
+          "candidate_anchor_svg_bboxes": [
+            [
+              26.03515622283234,
+              1.1875053919119978,
+              71.339838949144,
+              46.49218771966096
+            ],
+            [
+              93.992179743424,
+              1.1875053919119978,
+              139.300769044432,
+              46.49218771966096
+            ],
+            [
+              161.953109838712,
+              1.1875053919119978,
+              207.257792426176,
+              46.49218771966096
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 439
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p072_letter_patterns_answer",
+        "slides": [
+          440
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 72,
+    "source_page": 76,
+    "question_id": "五、3（1）",
+    "record_key": "p072_s04",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p072_s04_b003",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 12.743164032048,
+          "sy": -12.741624999999999,
+          "ox": 9.996093750232001,
+          "oy": 111.859,
+          "viewbox": [
+            0,
+            0,
+            223.94,
+            129.87
+          ],
+          "grid_svg_bbox": [
+            9.996093750232001,
+            9.926,
+            213.886718263,
+            111.859
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 16,
+            "y_min": 0,
+            "y_max": 8,
+            "step": 1
+          },
+          "horizontal_line_count": 9,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.996093750232001,
+              9.926,
+              213.886718263,
+              111.859
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 447
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p072_house_plan_answer",
+        "slides": [
+          448
+        ]
+      }
+    ],
+    "lecture_clicks": 7,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 72,
+    "source_page": 76,
+    "question_id": "五、3（2）",
+    "record_key": "p072_s05",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p072_s05_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 12.743164032048,
+          "sy": -12.741624999999999,
+          "ox": 9.996093750232001,
+          "oy": 111.859,
+          "viewbox": [
+            0,
+            0,
+            223.94,
+            129.87
+          ],
+          "grid_svg_bbox": [
+            9.996093750232001,
+            9.926,
+            213.886718263,
+            111.859
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 16,
+            "y_min": 0,
+            "y_max": 8,
+            "step": 1
+          },
+          "horizontal_line_count": 9,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.996093750232001,
+              9.926,
+              213.886718263,
+              111.859
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 452
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p072_house_plan_answer",
+        "slides": [
+          453
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 72,
+    "source_page": 76,
+    "question_id": "五、3（3）",
+    "record_key": "p072_s06",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p072_s06_b003",
+        "type": "rotation",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 12.743164032048,
+          "sy": -12.741624999999999,
+          "ox": 9.996093750232001,
+          "oy": 111.859,
+          "viewbox": [
+            0,
+            0,
+            223.94,
+            129.87
+          ],
+          "grid_svg_bbox": [
+            9.996093750232001,
+            9.926,
+            213.886718263,
+            111.859
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 16,
+            "y_min": 0,
+            "y_max": 8,
+            "step": 1
+          },
+          "horizontal_line_count": 9,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.996093750232001,
+              9.926,
+              213.886718263,
+              111.859
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 457
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p072_house_plan_answer",
+        "slides": [
+          458
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 4,
+    "book_page": 72,
+    "source_page": 76,
+    "question_id": "六、添一格的3种方法",
+    "record_key": "p072_s07",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p072_add_square_answer",
+        "slides": [
+          462
+        ]
+      }
+    ],
+    "lecture_clicks": 6,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已对照该页原始扫描转录并独立核对数值、数量关系或图形条件；非以旧答案作为真值。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 83,
+    "source_page": 87,
+    "question_id": "四、1",
+    "record_key": "p083_s04",
+    "kind": "application",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p083_s04_g1",
+        "slides": [
+          245
+        ]
+      }
+    ],
+    "lecture_clicks": 14,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 87,
+    "source_page": 91,
+    "question_id": "四、1（1）",
+    "record_key": "p087_s01",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p087_s01_b004",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.786534937074117,
+          "sy": -11.785833333333334,
+          "ox": 9.87109374974,
+          "oy": 79.953,
+          "viewbox": [
+            0,
+            0,
+            221.05,
+            90.09
+          ],
+          "grid_svg_bbox": [
+            9.87109374974,
+            9.238,
+            210.24218768,
+            79.953
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 6,
+            "step": 1
+          },
+          "horizontal_line_count": 7,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.87109374974,
+              9.238,
+              210.24218768,
+              79.953
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 337
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p087_s01_a1",
+        "slides": [
+          338
+        ]
+      }
+    ],
+    "lecture_clicks": 9,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 87,
+    "source_page": 91,
+    "question_id": "四、1（2）",
+    "record_key": "p087_s02",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p087_s02_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.786534937074117,
+          "sy": -11.785833333333334,
+          "ox": 9.87109374974,
+          "oy": 79.953,
+          "viewbox": [
+            0,
+            0,
+            221.05,
+            90.09
+          ],
+          "grid_svg_bbox": [
+            9.87109374974,
+            9.238,
+            210.24218768,
+            79.953
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 6,
+            "step": 1
+          },
+          "horizontal_line_count": 7,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.87109374974,
+              9.238,
+              210.24218768,
+              79.953
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 342
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p087_s02_a1",
+        "slides": [
+          344
+        ]
+      }
+    ],
+    "lecture_clicks": 5,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 87,
+    "source_page": 91,
+    "question_id": "四、2（1）",
+    "record_key": "p087_s03",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p087_s03_b003",
+        "type": "translation",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.85478275555515,
+          "sy": -11.854111111111113,
+          "ox": 9.28906217819143,
+          "oy": 116.156,
+          "viewbox": [
+            0,
+            0,
+            221.05,
+            125.81
+          ],
+          "grid_svg_bbox": [
+            9.28906217819143,
+            9.469,
+            210.820369022629,
+            116.156
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.28906217819143,
+              9.469,
+              210.820369022629,
+              116.156
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 348
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p087_s03_a1",
+        "slides": [
+          349
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 87,
+    "source_page": 91,
+    "question_id": "四、2（2）",
+    "record_key": "p087_s04",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p087_s04_b003",
+        "type": "rotation",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.85478275555515,
+          "sy": -11.854111111111113,
+          "ox": 9.28906217819143,
+          "oy": 116.156,
+          "viewbox": [
+            0,
+            0,
+            221.05,
+            125.81
+          ],
+          "grid_svg_bbox": [
+            9.28906217819143,
+            9.469,
+            210.820369022629,
+            116.156
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.28906217819143,
+              9.469,
+              210.820369022629,
+              116.156
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 353
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p087_s04_a1",
+        "slides": [
+          354
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 87,
+    "source_page": 91,
+    "question_id": "四、2（3）",
+    "record_key": "p087_s05",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p087_s05_b003",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 11.85478275555515,
+          "sy": -11.854111111111113,
+          "ox": 9.28906217819143,
+          "oy": 116.156,
+          "viewbox": [
+            0,
+            0,
+            221.05,
+            125.81
+          ],
+          "grid_svg_bbox": [
+            9.28906217819143,
+            9.469,
+            210.820369022629,
+            116.156
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 9,
+            "step": 1
+          },
+          "horizontal_line_count": 10,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.28906217819143,
+              9.469,
+              210.820369022629,
+              116.156
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 358
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p087_s05_a1",
+        "slides": [
+          359
+        ]
+      }
+    ],
+    "lecture_clicks": 6,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 87,
+    "source_page": 91,
+    "question_id": "四、3",
+    "record_key": "p087_s06",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p087_s06_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 362
+      },
+      {
+        "block_key": "p087_s06_b004",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 363
+      },
+      {
+        "block_key": "p087_s06_b005",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 364
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p087_s06_a1",
+        "slides": [
+          366
+        ]
+      }
+    ],
+    "lecture_clicks": 15,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 87,
+    "source_page": 91,
+    "question_id": "五、1（1）",
+    "record_key": "p087_s07",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p087_s07_a1",
+        "slides": [
+          370
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 5,
+    "book_page": 87,
+    "source_page": 91,
+    "question_id": "五、1（2）",
+    "record_key": "p087_s08",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p087_s08_a1",
+        "slides": [
+          374
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 95,
+    "source_page": 99,
+    "question_id": "四、1",
+    "record_key": "p095_s04",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p095_s04_b004",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 100
+      },
+      {
+        "block_key": "p095_s04_b005",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 101
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p095_s04_a1",
+        "slides": [
+          102
+        ]
+      }
+    ],
+    "lecture_clicks": 12,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 95,
+    "source_page": 99,
+    "question_id": "四、2",
+    "record_key": "p095_s05",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p095_s05_b003",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 106
+      },
+      {
+        "block_key": "p095_s05_b004",
+        "type": "rotation",
+        "registration_method": "actual_svg_dot_lattice",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_dot_lattice",
+          "sx": 16.983842318181818,
+          "sy": -16.9835938,
+          "ox": 12.980469,
+          "oy": 97.796875,
+          "viewbox": [
+            0,
+            0,
+            212.89,
+            110.84
+          ],
+          "actual_svg_bbox": [
+            12.980469,
+            12.878906,
+            199.80273449999999,
+            97.796875
+          ],
+          "matching_anchor_instances": 1,
+          "selected_anchor_instance": 0,
+          "anchor_selection_basis": "72个已知点整体点阵",
+          "candidate_anchor_svg_bboxes": [
+            [
+              12.980469,
+              12.878906,
+              199.80273449999999,
+              97.796875
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 107
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p095_s05_a1",
+        "slides": [
+          108
+        ]
+      }
+    ],
+    "lecture_clicks": 9,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 97,
+    "source_page": 101,
+    "question_id": "一、7（分割图，问题续下一页）",
+    "record_key": "p097_s07",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p097_s07_a1",
+        "slides": [
+          173
+        ]
+      }
+    ],
+    "lecture_clicks": 3,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 99,
+    "source_page": 103,
+    "question_id": "四、1",
+    "record_key": "p099_s06",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p099_s06_b004",
+        "type": "perpendicular_shortest_path",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 226
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p099_s06_a1",
+        "slides": [
+          228
+        ]
+      }
+    ],
+    "lecture_clicks": 7,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 99,
+    "source_page": 103,
+    "question_id": "四、2（1）",
+    "record_key": "p099_s07",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p099_s07_b004",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 12.11695481844113,
+          "sy": -12.11657142857143,
+          "ox": 9.777343844730785,
+          "oy": 94.293,
+          "viewbox": [
+            0,
+            0,
+            226.27,
+            104.38
+          ],
+          "grid_svg_bbox": [
+            9.777343844730785,
+            9.477,
+            215.76557575822997,
+            94.293
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 7,
+            "step": 1
+          },
+          "horizontal_line_count": 8,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.777343844730785,
+              9.477,
+              215.76557575822997,
+              94.293
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 232
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p099_s07_a1",
+        "slides": [
+          234
+        ]
+      }
+    ],
+    "lecture_clicks": 10,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 99,
+    "source_page": 103,
+    "question_id": "四、2（2）",
+    "record_key": "p099_s08",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p099_s08_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 12.11695481844113,
+          "sy": -12.11657142857143,
+          "ox": 9.777343844730785,
+          "oy": 94.293,
+          "viewbox": [
+            0,
+            0,
+            226.27,
+            104.38
+          ],
+          "grid_svg_bbox": [
+            9.777343844730785,
+            9.477,
+            215.76557575822997,
+            94.293
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 17,
+            "y_min": 0,
+            "y_max": 7,
+            "step": 1
+          },
+          "horizontal_line_count": 8,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.777343844730785,
+              9.477,
+              215.76557575822997,
+              94.293
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 238
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p099_s08_a1",
+        "slides": [
+          239
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 100,
+    "source_page": 104,
+    "question_id": "五、3",
+    "record_key": "p100_s04",
+    "kind": "application",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p100_s04_g1",
+        "slides": [
+          254
+        ]
+      }
+    ],
+    "lecture_clicks": 18,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 103,
+    "source_page": 107,
+    "question_id": "四、（1）",
+    "record_key": "p103_s11",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p103_s11_b004",
+        "type": "altitude",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 332
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p103_s11_a1",
+        "slides": [
+          333
+        ]
+      }
+    ],
+    "lecture_clicks": 6,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 103,
+    "source_page": 107,
+    "question_id": "四、（2）",
+    "record_key": "p103_s12",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p103_s12_b003",
+        "type": "symmetry",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 12.144273411229024,
+          "sy": -12.1435,
+          "ox": 9.808593604264626,
+          "oy": 106.648,
+          "viewbox": [
+            0,
+            0,
+            201.89,
+            116.57
+          ],
+          "grid_svg_bbox": [
+            9.808593604264626,
+            9.5,
+            191.97269477269998,
+            106.648
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 15,
+            "y_min": 0,
+            "y_max": 8,
+            "step": 1
+          },
+          "horizontal_line_count": 9,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.808593604264626,
+              9.5,
+              191.97269477269998,
+              106.648
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 337
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p103_s12_a1",
+        "slides": [
+          338
+        ]
+      }
+    ],
+    "lecture_clicks": 6,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 103,
+    "source_page": 107,
+    "question_id": "四、（3）",
+    "record_key": "p103_s13",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p103_s13_b003",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 12.144273411229024,
+          "sy": -12.1435,
+          "ox": 9.808593604264626,
+          "oy": 106.648,
+          "viewbox": [
+            0,
+            0,
+            201.89,
+            116.57
+          ],
+          "grid_svg_bbox": [
+            9.808593604264626,
+            9.5,
+            191.97269477269998,
+            106.648
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 15,
+            "y_min": 0,
+            "y_max": 8,
+            "step": 1
+          },
+          "horizontal_line_count": 9,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              9.808593604264626,
+              9.5,
+              191.97269477269998,
+              106.648
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 342
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p103_s13_a1",
+        "slides": [
+          343
+        ]
+      }
+    ],
+    "lecture_clicks": 4,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 106,
+    "source_page": 110,
+    "question_id": "二、6",
+    "record_key": "p106_s06",
+    "kind": "choice",
+    "native_scenes": [
+      {
+        "block_key": "p106_s06_b007",
+        "type": "sequence",
+        "registration_method": "actual_svg_grid_lines",
+        "actual_background_anchor": true,
+        "affine": {
+          "method": "actual_svg_grid_lines",
+          "sx": 8.453122743949896,
+          "sy": -8.4525,
+          "ox": 16.109375295302314,
+          "oy": 68.504,
+          "viewbox": [
+            0,
+            0,
+            218.59,
+            87.47
+          ],
+          "grid_svg_bbox": [
+            16.109375295302314,
+            17.789,
+            41.468743527152,
+            68.504
+          ],
+          "grid_math": {
+            "x_min": 0,
+            "x_max": 3,
+            "y_min": 0,
+            "y_max": 6,
+            "step": 1
+          },
+          "horizontal_line_count": 7,
+          "matching_grid_instances": 1,
+          "selected_grid_instance": 0,
+          "grid_instance_selection": "unique_matching_grid",
+          "candidate_grid_svg_bboxes": [
+            [
+              16.109375295302314,
+              17.789,
+              41.468743527152,
+              68.504
+            ]
+          ]
+        },
+        "layout_placement": [
+          0,
+          0
+        ],
+        "background_shift": [
+          0,
+          0
+        ],
+        "slide": 409
+      }
+    ],
+    "answer_diagram_click_reveals": [],
+    "lecture_clicks": 11,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 107,
+    "source_page": 111,
+    "question_id": "四、（1）",
+    "record_key": "p107_s09",
+    "kind": "drawing",
+    "native_scenes": [],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p107_s09_a1",
+        "slides": [
+          437
+        ]
+      }
+    ],
+    "lecture_clicks": 2,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "analysis_then_answer_diagram_reveal",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  },
+  {
+    "volume": 6,
+    "book_page": 107,
+    "source_page": 111,
+    "question_id": "四、（2）",
+    "record_key": "p107_s10",
+    "kind": "drawing",
+    "native_scenes": [
+      {
+        "block_key": "p107_s10_b003",
+        "type": "perpendicular_shortest_path",
+        "registration_method": "native_shared_transform",
+        "actual_background_anchor": true,
+        "slide": 441
+      }
+    ],
+    "answer_diagram_click_reveals": [
+      {
+        "diagram_name": "p107_s10_a1",
+        "slides": [
+          442
+        ]
+      }
+    ],
+    "lecture_clicks": 6,
+    "verification_status": "verified",
+    "conditional_notes": [],
+    "verification_reason": "已逐张读取原始扫描并独立核对数值、数量关系或图形条件。",
+    "conditional_explanation_latex": null,
+    "coverage": "native_process",
+    "scope": "Answer-diagram reveal means a staged vector answer figure; it is not a claim of continuous native geometric motion."
+  }
+]

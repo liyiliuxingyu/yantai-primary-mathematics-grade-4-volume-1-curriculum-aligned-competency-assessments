@@ -1,0 +1,2840 @@
+{
+  "passed": true,
+  "source_final_binding": true,
+  "scope": "Independent current-source audit for global conversion own-line formatting and ASCII result-unit parentheses; source/approved/baseline three-way comparison.",
+  "source_records_compared": 867,
+  "approved_changed_keys": 237,
+  "actual_answer_records_changed": 226,
+  "approved_scalar_text_fields_reviewed": 437,
+  "scalar_text_field_changes": 435,
+  "approved_noop_restorations": [
+    {
+      "key": "p075_s02",
+      "field": "latex"
+    },
+    {
+      "key": "p079_s04",
+      "field": "latex"
+    }
+  ],
+  "approved_aggregate_note_local_fields": 60,
+  "total_approved_field_changes": 497,
+  "all_original_prompts_options_tables_diagrams_conditions_unchanged": true,
+  "all_slots_and_condition_summary_unchanged": true,
+  "all_unapproved_source_changes": 0,
+  "nonconversion_fields_exact_except_unit_parentheses_and_layout_wrappers": 353,
+  "actual_conversion_case_count": 43,
+  "changed_conversion_case_count": 42,
+  "already_proper_conversion_case_count": 1,
+  "clock_notation_case_count": 2,
+  "exact_quantity_rows_verified": 180,
+  "same_unit_arithmetic_rows_verified": 9,
+  "rounding_rows_verified": 8,
+  "clock_notation_blocks_verified": 4,
+  "all_exact_quantity_equalities_passed": true,
+  "all_recognized_actual_conversion_formulas_on_own_lines": true,
+  "quantity_checks": [
+    {
+      "key": "p016_s02",
+      "file": "detailed_layout/notes_A.json",
+      "field": "latex",
+      "row": "600\\text{厘米}=(600\\div100)\\text{米}=6\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "600",
+        "600",
+        "600"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p016_s02",
+      "file": "detailed_layout/notes_A.json",
+      "field": "local_replacements[2].latex",
+      "row": "2400\\text{厘米}=(2400\\div100)\\text{米}=24\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "2400",
+        "2400",
+        "2400"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p017_s06",
+      "file": "detailed_layout/notes_A.json",
+      "field": "latex",
+      "row": "1\\text{千米}=1000\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "100000",
+        "100000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p022_s02",
+      "file": "detailed_layout/notes_A.json",
+      "field": "latex",
+      "row": "\\text{半小时}=30\\text{分钟}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "30",
+        "30"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p022_s07",
+      "file": "detailed_layout/notes_A.json",
+      "field": "latex",
+      "row": "3\\text{千米}=3000\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "300000",
+        "300000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s03",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "168000=(168000\\div10000)\\text{万}=16.8\\text{万}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "168000",
+        "168000",
+        "168000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s03",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "995000000=(995000000\\div100000000)\\text{亿}=9.95\\text{亿}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "995000000",
+        "995000000",
+        "995000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "3\\text{分米}=(3\\div10)\\text{米}=0.3\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "30",
+        "30",
+        "30"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "0.06\\text{吨}=(0.06\\times1000)\\text{千克}=60\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "60000",
+        "60000",
+        "60000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "5.06\\text{吨}=5\\text{吨}60\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "5060000",
+        "5060000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "32\\text{克}=(32\\div1000)\\text{千克}=0.032\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "32",
+        "32",
+        "32"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "3\\text{平方分米}=(3\\div100)\\text{平方米}=0.03\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "300",
+        "300",
+        "300"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "5\\text{平方米}3\\text{平方分米}=(5+0.03)\\text{平方米}=5.03\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "50300",
+        "50300",
+        "50300"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s07",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "50\\text{克}=(50\\div1000)\\text{千克}=0.05\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "50",
+        "50",
+        "50"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s07",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "9\\text{千克}50\\text{克}=(9+0.05)\\text{千克}=9.05\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "9050",
+        "9050",
+        "9050"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s07",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "0.57\\text{米}=(0.57\\times100)\\text{厘米}=57\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "57",
+        "57",
+        "57"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s01",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "10\\text{千克}=10000\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s01",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "1\\text{千克}=1000\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1000",
+        "1000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s01",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "8150",
+        "8150",
+        "8150"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s01",
+      "file": "detailed_layout/notes_B.json",
+      "field": "local_replacements[1].latex",
+      "row": "8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "8150",
+        "8150",
+        "8150"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s02",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "135\\text{厘米}=1.35\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "135",
+        "135"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s02",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "119\\text{厘米}=1.19\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "119",
+        "119"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s02",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "158\\text{厘米}=1.58\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "158",
+        "158"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s03",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "1\\text{平方米}=10000\\text{平方厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s03",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "108000\\text{平方厘米}=(108000\\div10000)\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "108000",
+        "108000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s03",
+      "file": "detailed_layout/notes_B.json",
+      "field": "local_replacements[1].latex",
+      "row": "108000\\text{平方厘米}=(108000\\div10000)\\text{平方米}=10.8\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "108000",
+        "108000",
+        "108000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "45\\text{厘米}=(45\\div100)\\text{米}=0.45\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "45",
+        "45",
+        "45"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "3540\\text{克}=(3540\\div1000)\\text{千克}=3.540\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "3540",
+        "3540",
+        "3540"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "45\\text{分}=0.45\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "45",
+        "45"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "45\\text{平方厘米}=0.45\\text{平方分米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "45",
+        "45"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "45\\text{平方分米}=0.45\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4500",
+        "4500"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "45\\text{公顷}=0.45\\text{平方千米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4500000000",
+        "4500000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "3540\\text{毫米}=3.540\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "354",
+        "354"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "3540\\text{米}=3.540\\text{千米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "354000",
+        "354000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "3540\\text{千克}=3.540\\text{吨}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "3540000",
+        "3540000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s09",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "1\\text{吨}=1000\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1000000",
+        "1000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s09",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "450\\text{千克}=(450\\div1000)\\text{吨}=0.45\\text{吨}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "450000",
+        "450000",
+        "450000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p054_s02",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "0.9\\text{米}=(0.9\\times10)\\text{分米}=9\\text{分米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "90",
+        "90",
+        "90"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p054_s06",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "6\\text{厘米}=(6\\div100)\\text{米}=0.06\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6",
+        "6",
+        "6"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p054_s06",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "8\\text{米}6\\text{厘米}=(8+0.06)\\text{米}=8.06\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "806",
+        "806",
+        "806"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p054_s06",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "560\\text{厘米}=(560\\div100)\\text{米}=5.6\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "560",
+        "560",
+        "560"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s02",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "327900=32.79\\text{万}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "327900",
+        "327900"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s02",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "25499270000=254.9927\\text{亿}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "25499270000",
+        "25499270000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s05",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "3240\\text{克}=(3240\\div1000)\\text{千克}=3.24\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "3240",
+        "3240",
+        "3240"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s06",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "6.25\\text{吨}=(6.25\\times1000)\\text{千克}=6250\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6250000",
+        "6250000",
+        "6250000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s07",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "15\\text{厘米}=(15\\div100)\\text{米}=0.15\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "15",
+        "15",
+        "15"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p056_s01",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "3.75\\text{吨}=(3.75\\times1000)\\text{千克}=3750\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "3750000",
+        "3750000",
+        "3750000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p056_s01",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "1\\text{万件}=10000\\text{件}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p058_s03",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "5\\text{元}3\\text{角}=5.30\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "530",
+        "530"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p058_s03",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "8\\text{角}7\\text{分}=0.87\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "87",
+        "87"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p061_s09",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "8\\text{厘米}=(8\\div100)\\text{米}=0.08\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "8",
+        "8",
+        "8"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p063_s07",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "16\\text{厘米}=0.16\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "16",
+        "16"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p063_s07",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "54\\text{厘米}=0.54\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "54",
+        "54"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p063_s07",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "2\\text{米}=200\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "200",
+        "200"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p063_s07",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "130\\text{厘米}=1.3\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "130",
+        "130"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p070_s02",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "2\\text{厘米}=(2\\times10)\\text{毫米}=20\\text{毫米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "2",
+        "2",
+        "2"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p075_s02",
+      "file": "detailed_layout/notes_C.json",
+      "field": "local_replacements[0].latex",
+      "row": "2\\text{米}=200\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "200",
+        "200"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p079_s04",
+      "file": "detailed_layout/notes_C.json",
+      "field": "local_replacements[1].latex",
+      "row": "6240\\text{克}=(6240\\div1000)\\text{千克}=6.24\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6240",
+        "6240",
+        "6240"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s04",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "331000000=3.31\\text{亿}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "331000000",
+        "331000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s07",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "520\\text{平方米}=52000\\text{平方分米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "5200000",
+        "5200000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s08",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "1\\text{角}=0.1\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "10",
+        "10"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s08",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "1\\text{分}=0.01\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1",
+        "1"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s08",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "587\\text{元}3\\text{角}5\\text{分}=587.35\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "58735",
+        "58735"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s09",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "1000\\text{克}=1\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1000",
+        "1000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s09",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "6260\\text{克}=6\\text{千克}260\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6260",
+        "6260"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s10",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "1\\text{米}=100\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "100",
+        "100"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s10",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "329.4\\text{厘米}=3.294\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1647/5",
+        "1647/5"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s11",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "1\\text{吨}=1000\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1000000",
+        "1000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s11",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "0.09\\text{吨}=90\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "90000",
+        "90000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s11",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "275.09\\text{吨}=275\\text{吨}90\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "275090000",
+        "275090000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p082_s07",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "4\\text{厘米}=0.04\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4",
+        "4"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "60\\text{米}=0.06\\text{千米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6000",
+        "6000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "7\\text{千米}60\\text{米}=(7+0.06)\\text{千米}=7.06\\text{千米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "706000",
+        "706000",
+        "706000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "1\\text{平方米}=10000\\text{平方厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "800\\text{平方厘米}=(800\\div10000)\\text{平方米}=0.08\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "800",
+        "800",
+        "800"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "240960000\\text{公顷}=2.4096\\text{亿公顷}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "24096000000000000",
+        "24096000000000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s06",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "700\\text{克}=0.7\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "700",
+        "700"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p097_s01",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "126339000\\text{亩}=1.26339\\text{亿亩}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "126339000",
+        "126339000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p100_s03",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "0.04\\text{米}=4\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4",
+        "4"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p101_s03",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "7\\text{角}5\\text{分}=0.75\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "75",
+        "75"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p101_s03",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "7\\text{米}2\\text{厘米}=7.02\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "702",
+        "702"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p104_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "4.68\\text{元}=468\\text{分}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "468",
+        "468"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p104_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "4680\\text{分}=46.8\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4680",
+        "4680"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "6\\text{千克}50\\text{克}=(6000+50)\\text{克}=6050\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6050",
+        "6050",
+        "6050"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "0.6\\text{元}=6\\text{角}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "60",
+        "60"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "15.6\\text{元}=15\\text{元}6\\text{角}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1560",
+        "1560"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "900\\text{克}=0.9\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "900",
+        "900"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "0.07\\text{千米}=70\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "7000",
+        "7000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "3.07\\text{千米}=3\\text{千米}70\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "307000",
+        "307000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p106_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "1\\text{吨}=1000\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1000000",
+        "1000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p106_s02",
+      "file": "detailed_layout/notes_D.json",
+      "field": "latex",
+      "row": "0.8\\text{吨}=(0.8\\times1000)\\text{千克}=800\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "800000",
+        "800000",
+        "800000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p016_s02",
+      "file": "questions/p016.json",
+      "field": "answer_latex",
+      "row": "100\\text{厘米}=1\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "100",
+        "100"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p016_s02",
+      "file": "questions/p016.json",
+      "field": "answer_latex",
+      "row": "2400\\text{厘米}=(2400\\div100)\\text{米}=24\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "2400",
+        "2400",
+        "2400"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p016_s02",
+      "file": "questions/p016.json",
+      "field": "answer_latex",
+      "row": "600\\text{厘米}=(600\\div100)\\text{米}=6\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "600",
+        "600",
+        "600"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p016_s02",
+      "file": "questions/p016.json",
+      "field": "answer_latex",
+      "row": "24\\text{米}=2400\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "2400",
+        "2400"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p017_s06",
+      "file": "questions/p017.json",
+      "field": "answer_latex",
+      "row": "1\\text{千米}=1000\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "100000",
+        "100000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p022_s02",
+      "file": "questions/p022.json",
+      "field": "answer_latex",
+      "row": "\\text{半小时}=30\\text{分钟}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "30",
+        "30"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p022_s07",
+      "file": "questions/p022.json",
+      "field": "answer_latex",
+      "row": "3\\text{千米}=3000\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "300000",
+        "300000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s03",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "168000=(168000\\div10000)\\text{万}=16.8\\text{万}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "168000",
+        "168000",
+        "168000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s03",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "995000000=(995000000\\div100000000)\\text{亿}=9.95\\text{亿}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "995000000",
+        "995000000",
+        "995000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "3\\text{分米}=(3\\div10)\\text{米}=0.3\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "30",
+        "30",
+        "30"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "0.06\\text{吨}=(0.06\\times1000)\\text{千克}=60\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "60000",
+        "60000",
+        "60000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "5.06\\text{吨}=5\\text{吨}60\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "5060000",
+        "5060000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "32\\text{克}=(32\\div1000)\\text{千克}=0.032\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "32",
+        "32",
+        "32"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "3\\text{平方分米}=(3\\div100)\\text{平方米}=0.03\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "300",
+        "300",
+        "300"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s04",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "5\\text{平方米}3\\text{平方分米}=(5+0.03)\\text{平方米}=5.03\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "50300",
+        "50300",
+        "50300"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s07",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "50\\text{克}=(50\\div1000)\\text{千克}=0.05\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "50",
+        "50",
+        "50"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s07",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "9\\text{千克}50\\text{克}=(9+0.05)\\text{千克}=9.05\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "9050",
+        "9050",
+        "9050"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p049_s07",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "0.57\\text{米}=(0.57\\times100)\\text{厘米}=57\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "57",
+        "57",
+        "57"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s01",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "10\\text{千克}=10000\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s01",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "1\\text{千克}=1000\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1000",
+        "1000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s01",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "8150\\text{克}=(8150\\div1000)\\text{千克}=8.15\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "8150",
+        "8150",
+        "8150"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s02",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "135\\text{厘米}=1.35\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "135",
+        "135"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s02",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "119\\text{厘米}=1.19\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "119",
+        "119"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s02",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "158\\text{厘米}=1.58\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "158",
+        "158"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s03",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "1\\text{平方米}=10000\\text{平方厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s03",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "108000\\text{平方厘米}=(108000\\div10000)\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "108000",
+        "108000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "45\\text{厘米}=(45\\div100)\\text{米}=0.45\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "45",
+        "45",
+        "45"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "3540\\text{克}=(3540\\div1000)\\text{千克}=3.540\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "3540",
+        "3540",
+        "3540"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "45\\text{分}=0.45\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "45",
+        "45"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "45\\text{平方厘米}=0.45\\text{平方分米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "45",
+        "45"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "45\\text{平方分米}=0.45\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4500",
+        "4500"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "45\\text{公顷}=0.45\\text{平方千米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4500000000",
+        "4500000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "3540\\text{毫米}=3.540\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "354",
+        "354"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "3540\\text{米}=3.540\\text{千米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "354000",
+        "354000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s08",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "3540\\text{千克}=3.540\\text{吨}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "3540000",
+        "3540000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s09",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "1\\text{吨}=1000\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1000000",
+        "1000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p053_s09",
+      "file": "questions/p053.json",
+      "field": "answer_latex",
+      "row": "450\\text{千克}=(450\\div1000)\\text{吨}=0.45\\text{吨}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "450000",
+        "450000",
+        "450000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p054_s02",
+      "file": "questions/p054.json",
+      "field": "answer_latex",
+      "row": "0.9\\text{米}=(0.9\\times10)\\text{分米}=9\\text{分米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "90",
+        "90",
+        "90"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p054_s06",
+      "file": "questions/p054.json",
+      "field": "answer_latex",
+      "row": "6\\text{厘米}=(6\\div100)\\text{米}=0.06\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6",
+        "6",
+        "6"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p054_s06",
+      "file": "questions/p054.json",
+      "field": "answer_latex",
+      "row": "8\\text{米}6\\text{厘米}=(8+0.06)\\text{米}=8.06\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "806",
+        "806",
+        "806"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p054_s06",
+      "file": "questions/p054.json",
+      "field": "answer_latex",
+      "row": "560\\text{厘米}=(560\\div100)\\text{米}=5.6\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "560",
+        "560",
+        "560"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s02",
+      "file": "questions/p055.json",
+      "field": "answer_latex",
+      "row": "327900=32.79\\text{万}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "327900",
+        "327900"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s02",
+      "file": "questions/p055.json",
+      "field": "answer_latex",
+      "row": "25499270000=254.9927\\text{亿}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "25499270000",
+        "25499270000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s05",
+      "file": "questions/p055.json",
+      "field": "answer_latex",
+      "row": "3240\\text{克}=(3240\\div1000)\\text{千克}=3.24\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "3240",
+        "3240",
+        "3240"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s06",
+      "file": "questions/p055.json",
+      "field": "answer_latex",
+      "row": "6.25\\text{吨}=(6.25\\times1000)\\text{千克}=6250\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6250000",
+        "6250000",
+        "6250000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p055_s07",
+      "file": "questions/p055.json",
+      "field": "answer_latex",
+      "row": "15\\text{厘米}=(15\\div100)\\text{米}=0.15\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "15",
+        "15",
+        "15"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p056_s01",
+      "file": "questions/p056.json",
+      "field": "answer_latex",
+      "row": "3.75\\text{吨}=(3.75\\times1000)\\text{千克}=3750\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "3750000",
+        "3750000",
+        "3750000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p056_s01",
+      "file": "questions/p056.json",
+      "field": "answer_latex",
+      "row": "1\\text{万件}=10000\\text{件}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p058_s03",
+      "file": "questions/p058.json",
+      "field": "answer_latex",
+      "row": "5\\text{元}3\\text{角}=5.30\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "530",
+        "530"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p058_s03",
+      "file": "questions/p058.json",
+      "field": "answer_latex",
+      "row": "8\\text{角}7\\text{分}=0.87\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "87",
+        "87"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p061_s09",
+      "file": "questions/p061.json",
+      "field": "answer_latex",
+      "row": "8\\text{厘米}=(8\\div100)\\text{米}=0.08\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "8",
+        "8",
+        "8"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p063_s07",
+      "file": "questions/p063.json",
+      "field": "answer_latex",
+      "row": "16\\text{厘米}=0.16\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "16",
+        "16"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p063_s07",
+      "file": "questions/p063.json",
+      "field": "answer_latex",
+      "row": "54\\text{厘米}=0.54\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "54",
+        "54"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p063_s07",
+      "file": "questions/p063.json",
+      "field": "answer_latex",
+      "row": "2\\text{米}=200\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "200",
+        "200"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p063_s07",
+      "file": "questions/p063.json",
+      "field": "answer_latex",
+      "row": "130\\text{厘米}=1.3\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "130",
+        "130"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p070_s02",
+      "file": "questions/p070.json",
+      "field": "answer_latex",
+      "row": "2\\text{厘米}=(2\\times10)\\text{毫米}=20\\text{毫米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "2",
+        "2",
+        "2"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p075_s02",
+      "file": "questions/p075.json",
+      "field": "answer_latex",
+      "row": "2\\text{米}=(100\\times2)\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "200",
+        "200"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p079_s04",
+      "file": "questions/p079.json",
+      "field": "answer_latex",
+      "row": "1\\text{千克}=1000\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1000",
+        "1000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p079_s04",
+      "file": "questions/p079.json",
+      "field": "answer_latex",
+      "row": "6240\\text{克}=6.24\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6240",
+        "6240"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s04",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "331000000=3.31\\text{亿}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "331000000",
+        "331000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s07",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "1\\text{平方米}=100\\text{平方分米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s07",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "520\\text{平方米}=(520\\times100)\\text{平方分米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "5200000",
+        "5200000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s08",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "3\\text{角}=0.3\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "30",
+        "30"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s08",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "5\\text{分}=0.05\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "5",
+        "5"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s08",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "587\\text{元}3\\text{角}5\\text{分}=(587+0.3+0.05)\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "58735",
+        "58735"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s09",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "6000\\text{克}=6\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6000",
+        "6000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s09",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "6260\\text{克}=6\\text{千克}260\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6260",
+        "6260"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s10",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "329.4\\text{厘米}=(329.4\\div100)\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1647/5",
+        "1647/5"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s11",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "0.09\\text{吨}=(0.09\\times1000)\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "90000",
+        "90000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s11",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "275.09\\text{吨}=275\\text{吨}90\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "275090000",
+        "275090000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p082_s07",
+      "file": "questions/p082.json",
+      "field": "answer_latex",
+      "row": "4\\text{厘米}=0.04\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4",
+        "4"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "file": "questions/p093.json",
+      "field": "answer_latex",
+      "row": "60\\text{米}=0.06\\text{千米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6000",
+        "6000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "file": "questions/p093.json",
+      "field": "answer_latex",
+      "row": "7\\text{千米}60\\text{米}=(7+0.06)\\text{千米}=7.06\\text{千米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "706000",
+        "706000",
+        "706000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "file": "questions/p093.json",
+      "field": "answer_latex",
+      "row": "1\\text{平方米}=10000\\text{平方厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "10000",
+        "10000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s01",
+      "file": "questions/p093.json",
+      "field": "answer_latex",
+      "row": "800\\text{平方厘米}=(800\\div10000)\\text{平方米}=0.08\\text{平方米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "800",
+        "800",
+        "800"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s02",
+      "file": "questions/p093.json",
+      "field": "answer_latex",
+      "row": "240960000\\text{公顷}=2.4096\\text{亿公顷}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "24096000000000000",
+        "24096000000000000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p093_s06",
+      "file": "questions/p093.json",
+      "field": "answer_latex",
+      "row": "700\\text{克}=0.7\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "700",
+        "700"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p097_s01",
+      "file": "questions/p097.json",
+      "field": "answer_latex",
+      "row": "126339000\\text{亩}=1.26339\\text{亿亩}",
+      "classification": "magnitude_reexpression",
+      "common_unit_values": [
+        "126339000",
+        "126339000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p100_s03",
+      "file": "questions/p100.json",
+      "field": "answer_latex",
+      "row": "0.04\\text{米}=4\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4",
+        "4"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p100_s03",
+      "file": "questions/p100.json",
+      "field": "answer_latex",
+      "row": "0.04\\text{米}=4\\text{厘米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4",
+        "4"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p101_s03",
+      "file": "questions/p101.json",
+      "field": "answer_latex",
+      "row": "7\\text{角}5\\text{分}=0.75\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "75",
+        "75"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p101_s03",
+      "file": "questions/p101.json",
+      "field": "answer_latex",
+      "row": "7\\text{米}2\\text{厘米}=7.02\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "702",
+        "702"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p104_s02",
+      "file": "questions/p104.json",
+      "field": "answer_latex",
+      "row": "4.68\\text{元}=468\\text{分}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "468",
+        "468"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p104_s02",
+      "file": "questions/p104.json",
+      "field": "answer_latex",
+      "row": "4680\\text{分}=46.8\\text{元}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "4680",
+        "4680"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "questions/p105.json",
+      "field": "answer_latex",
+      "row": "6\\text{千克}50\\text{克}=(6000+50)\\text{克}=6050\\text{克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "6050",
+        "6050",
+        "6050"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "questions/p105.json",
+      "field": "answer_latex",
+      "row": "15.6\\text{元}=15\\text{元}6\\text{角}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "1560",
+        "1560"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "questions/p105.json",
+      "field": "answer_latex",
+      "row": "900\\text{克}=0.9\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "900",
+        "900"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p105_s02",
+      "file": "questions/p105.json",
+      "field": "answer_latex",
+      "row": "3.07\\text{千米}=3\\text{千米}70\\text{米}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "307000",
+        "307000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p106_s02",
+      "file": "questions/p106.json",
+      "field": "answer_latex",
+      "row": "0.8\\text{吨}=(0.8\\times1000)\\text{千克}=800\\text{千克}",
+      "classification": "unit_conversion",
+      "common_unit_values": [
+        "800000",
+        "800000",
+        "800000"
+      ],
+      "own_line": true,
+      "passed": true
+    }
+  ],
+  "same_unit_checks": [
+    {
+      "key": "p052_s03",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "=10.8\\text{平方米}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "108000",
+        "108000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p052_s03",
+      "file": "questions/p052.json",
+      "field": "answer_latex",
+      "row": "=10.8\\text{平方米}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "108000",
+        "108000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p075_s02",
+      "file": "questions/p075.json",
+      "field": "answer_latex",
+      "row": "=200\\text{厘米}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "200",
+        "200"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s07",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "=52000\\text{平方分米}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "5200000",
+        "5200000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s08",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "=587.35\\text{元}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "58735",
+        "58735"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s09",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "6260\\text{克}=6000\\text{克}+260\\text{克}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "6260",
+        "6260"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s10",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "=3.294\\text{米}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "1647/5",
+        "1647/5"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s11",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "275.09\\text{吨}=275\\text{吨}+0.09\\text{吨}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "275090000",
+        "275090000"
+      ],
+      "own_line": true,
+      "passed": true
+    },
+    {
+      "key": "p081_s11",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "=90\\text{千克}",
+      "classification": "same_unit_arithmetic",
+      "common_unit_values": [
+        "90000",
+        "90000"
+      ],
+      "own_line": true,
+      "passed": true
+    }
+  ],
+  "rounding_checks": [
+    {
+      "key": "p049_s03",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "16.8\\text{万}\\approx17\\text{万}",
+      "unrounded_coefficient": "16.8",
+      "rounded_display_coefficient": "17",
+      "display_decimal_places": 0,
+      "passed": true
+    },
+    {
+      "key": "p049_s03",
+      "file": "detailed_layout/notes_B.json",
+      "field": "latex",
+      "row": "9.95\\text{亿}\\approx10.0\\text{亿}",
+      "unrounded_coefficient": "9.95",
+      "rounded_display_coefficient": "10.0",
+      "display_decimal_places": 1,
+      "passed": true
+    },
+    {
+      "key": "p081_s04",
+      "file": "detailed_layout/notes_C.json",
+      "field": "latex",
+      "row": "331000000\\approx3\\text{亿}",
+      "unrounded_coefficient": "3.31",
+      "rounded_display_coefficient": "3",
+      "display_decimal_places": 0,
+      "passed": true
+    },
+    {
+      "key": "p049_s03",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "16.8\\text{万}\\approx17\\text{万}",
+      "unrounded_coefficient": "16.8",
+      "rounded_display_coefficient": "17",
+      "display_decimal_places": 0,
+      "passed": true
+    },
+    {
+      "key": "p049_s03",
+      "file": "questions/p049.json",
+      "field": "answer_latex",
+      "row": "9.95\\text{亿}\\approx10.0\\text{亿}",
+      "unrounded_coefficient": "9.95",
+      "rounded_display_coefficient": "10.0",
+      "display_decimal_places": 1,
+      "passed": true
+    },
+    {
+      "key": "p055_s02",
+      "file": "questions/p055.json",
+      "field": "answer_latex",
+      "row": "32.79\\text{万}\\approx32.8\\text{万}",
+      "unrounded_coefficient": "32.79",
+      "rounded_display_coefficient": "32.8",
+      "display_decimal_places": 1,
+      "passed": true
+    },
+    {
+      "key": "p055_s02",
+      "file": "questions/p055.json",
+      "field": "answer_latex",
+      "row": "254.9927\\text{亿}\\approx255.0\\text{亿}",
+      "unrounded_coefficient": "254.9927",
+      "rounded_display_coefficient": "255.0",
+      "display_decimal_places": 1,
+      "passed": true
+    },
+    {
+      "key": "p081_s04",
+      "file": "questions/p081.json",
+      "field": "answer_latex",
+      "row": "331000000\\approx3\\text{亿}",
+      "unrounded_coefficient": "3.31",
+      "rounded_display_coefficient": "3",
+      "display_decimal_places": 0,
+      "passed": true
+    }
+  ],
+  "clock_notation_checks": [
+    {
+      "key": "p010_s02",
+      "file": "detailed_layout/notes_A.json",
+      "field": "latex",
+      "body": "\\displaystyle 21\\text{时}=\\text{晚上}9\\text{时}",
+      "same_instant_minutes_after_midnight": 1260,
+      "passed": true
+    },
+    {
+      "key": "p024_s01",
+      "file": "detailed_layout/notes_A.json",
+      "field": "latex",
+      "body": "\\displaystyle \\text{下午}1\\text{时}=13\\text{时}",
+      "same_instant_minutes_after_midnight": 780,
+      "passed": true
+    },
+    {
+      "key": "p010_s02",
+      "file": "questions/p010.json",
+      "field": "answer_latex",
+      "body": "21\\text{时}=\\text{晚上}9\\text{时}",
+      "same_instant_minutes_after_midnight": 1260,
+      "passed": true
+    },
+    {
+      "key": "p024_s01",
+      "file": "questions/p024.json",
+      "field": "answer_latex",
+      "body": "\\text{下午}1{:}00=13{:}00",
+      "same_instant_minutes_after_midnight": 780,
+      "passed": true
+    }
+  ],
+  "remaining_result_unit_fullwidth_parentheses": 0,
+  "remaining_ordinary_fullwidth_parenthetical_payloads": {
+    "学完运算律后": 54,
+    "保留一位小数": 1,
+    "1": 20,
+    "2": 23,
+    "3": 14,
+    "4": 14,
+    "5": 7,
+    "6": 5,
+    "7": 4,
+    "8": 4,
+    "乘法分配律": 1,
+    "在下一页": 1,
+    "利用平行四边形对边相等": 1,
+    "包括与O重合的那个顶点": 1,
+    "\\(1\\)": 2,
+    "\\(2\\)": 3,
+    "续": 2,
+    "或4.2": 1,
+    "不另计解法": 1
+  },
+  "ordinary_parentheticals_preserved": true,
+  "baseline_visible_local_count": 92,
+  "current_visible_local_count": 158,
+  "new_visible_local_patches_verified": 66,
+  "old_black_corrections_preserved": 5,
+  "legacy_original_replacement_fields_reviewed": 2,
+  "p078_Q4_B_preserved": true,
+  "approved_changes_sha256": "00615bf18d8cf54cbeb3e1eacb153284f38a80ffd2ceb8fe9369164c77bcacbe",
+  "new_local_manifest_sha256": "99adfea3a7a525db2aa7afaf47ed6d66e0a5313b86cf3d2c902125dddb8a87a8",
+  "baseline_source_snapshot_sha256": "9fea07dc3ed276d3439f2e1d7857051c33b3dcd2d44b382926bfaed315fcac2e",
+  "source_files_sha256": {
+    "detailed_layout/notes_A.json": "9e8f1605bd5d67ff8c3ba1a6b12c35e61f5d0cff2231a7c2e2879e0881b6b5d0",
+    "detailed_layout/notes_B.json": "84f6cbc816589946a742def9196c7cdc91697772006042c6ba04f8da28b8c165",
+    "detailed_layout/notes_C.json": "f55494a6655a50f3bd73d2982c149da9cf632883e423aab0cf5de8fbb825884c",
+    "detailed_layout/notes_D.json": "ba1e675bc4358b37fab7f277bc54543ae294955d3743e8edda5c6ff14491d7ef",
+    "inline_layout/slots_A.json": "a558021a7eab7f101b8c80e4a6910bd99afea2b94257f9eecfe979e5a379cebc",
+    "inline_layout/slots_B.json": "783899eaeb800e73328d5cbed9d45ff348a2c7c611a95908c89119805ef6b683",
+    "inline_layout/slots_C.json": "c88e9895afe56b338b60319ff07bd369bf61d73a2380f41fd89bd3dc47bcf73b",
+    "inline_layout/slots_D.json": "0d7944534c0b66887c719fedda9cd9d703b4c782d74f7f3abdff6bd3f3d6e8ef",
+    "questions/p001.json": "673e9aeca4c2faf944bf3f300e52bf874dcff68781d17b1a93b66f0547857324",
+    "questions/p002.json": "16623f9d1504d95f60fba83218404e2fb38d6c875256fd7f4c85d65ad3b1b400",
+    "questions/p003.json": "5047bb55376aaf4fdb348154df19b5c8f2bfa369351d080733c1cc95adf1006f",
+    "questions/p004.json": "d961dc319fe17cf2faf86a0c65633b89ece170ee83863921fbdcc9cb75ae9fc2",
+    "questions/p005.json": "61d52c9dcb3d9f3d90eb656e6d7afbd3839e4810e44d9bfc9bc53c8e46d5ca96",
+    "questions/p006.json": "5a282d71ebd9085ecbf447465bda9662f8d7513d9f6307e9ec65195a3d532df2",
+    "questions/p007.json": "40a88236bed942854b6e862b48a7dc66fa2c4eabe47775045cbb4d3530b0f4f1",
+    "questions/p008.json": "a9ff75613fd26319652fd59b101d4e8c00457afd3837aa1b78fc07d4cd2897e1",
+    "questions/p009.json": "9b5767d9130d4c979c8afdd49363cae2204ebc6964544ce52190a8a30d4f3035",
+    "questions/p010.json": "0ba37b08c5d7f579a4e00e363c8f333a60031deb68363af6456d34e68257e176",
+    "questions/p011.json": "d0b4fe835109d9ee37b998cb393db05f260b491a8084dd01bae0e75fbf280e0c",
+    "questions/p012.json": "d0e23162593ec1b664af11963f6c0ef8705a68895fc5219a3f4cccd09175b6ba",
+    "questions/p013.json": "b19ff6a81bab59772c976a34a0f010aa1745dcff8235c6aa953b81bbb33c6f06",
+    "questions/p014.json": "f1eddbd4f0c4708ec03c0877503db20c5a994cfd09bbdc86b6aa1fe58595d4dd",
+    "questions/p015.json": "7f161438bc8ed253858b836f30c2f3956d9f32ae39ffff45e556788b351f094b",
+    "questions/p016.json": "32fe5b2abc9965f272bdd26d6c9dfc0da4a22011c94b96c4cfba112a1f7341b9",
+    "questions/p017.json": "eb809cad06685131094f2bca9e125f0916f4cc690e21cf172088156805b03e23",
+    "questions/p018.json": "8ab46790c8089cf7740d25bd3cd71cadbc1290cfe3336555ec6b58d9499cfa35",
+    "questions/p019.json": "e36cf16b4125f7fc86a0793130547da39430829eaa34043508276c78d335e54e",
+    "questions/p020.json": "6c293c933513463478823dfb5a334a8c4efef2819e87d68e9304aeda40c7eece",
+    "questions/p021.json": "ac4f705d789941e7a45ba4a78fd39496215a5374a2eb761cd70ce4257a125404",
+    "questions/p022.json": "ffb7e5fea393c0de0366dbe6fb43e75b91650f2e5d53b9f5c3e6560309725401",
+    "questions/p023.json": "2630c83f951cff5687ce60e254daa2960f688fe620620bbc117fb4306bfd2c6b",
+    "questions/p024.json": "71a7d1da85a476326ab89ae0e1b6554b2e900de8a37e378befcfd5b64b20e5dd",
+    "questions/p025.json": "40584d5bd7b72aa32a8b8be4d0368b0c6048c048a1c7a78470ac0ec04e93b242",
+    "questions/p026.json": "20b8acda2f94528d0b43752b96286a6cbecbd71488a059dace7d63ad5eca04b5",
+    "questions/p027.json": "cfdb143df7e10c16039a98902a4d8d408ea12c91a04b5f2a8f097c56c9e60fde",
+    "questions/p028.json": "ed3cf42ce03db8b18b2b6e362e686d09e0dc9c74bc7bfa6ab3f9a8f9584a35f4",
+    "questions/p029.json": "e5c603f99fbe3c23d6bd90c513fff4c1c9213be05c76e7f1b57a1096399e1af1",
+    "questions/p030.json": "c094b99f0d319c7fded9a366c56873820ed871e0944b8131f200ab24bba31ba4",
+    "questions/p031.json": "23f1003d5681a08cacbde74103c3278acc9478995f7fdffe12a1f6ad3a548b64",
+    "questions/p032.json": "15d92a355bbf1ef851b8346cc89f6f66a3369515562eb7cdc02f4d1a482d95f1",
+    "questions/p033.json": "6744798ed66285fd3c1d8f901a0b4c19570d4050b96751bd3491cc7ff7105b2b",
+    "questions/p034.json": "3844bdfd66f547fe678a4ab14c1858b8af7793fd9cc7957173e42fe08f027d61",
+    "questions/p035.json": "fbf99781ba92903facdf44d59a9151751d90003a4933a659057145f27f315f16",
+    "questions/p036.json": "c8f0adaa82d8258aebbe49a7a343db276bf60a09b8b22901bd45df0cc8016b14",
+    "questions/p037.json": "6536932e0341381c19f33427658532489eebc0c065533f4e84c5eae7b39971e8",
+    "questions/p038.json": "c24a4211fb9f4b8d65d7db7a9985cd5a8b1efd03cc82ec1d1e9b652dd52a83e6",
+    "questions/p039.json": "6c7b7a272e1f3c68245bd95005680e1909c985977adbef35b73972336e39ced2",
+    "questions/p040.json": "0e7cb2302202df86fd81264d55e8b0e3f8f442d33ff54e7d55a55cc046099944",
+    "questions/p041.json": "aa8ea77b2971e30d1cc6b7d6b9dacb36748be0a3c8265312f6e10bd4bdaaf938",
+    "questions/p042.json": "c1b5446221522816e7ad5247b4f083547dd2cafd111ee1233009ed7ed1f29ced",
+    "questions/p043.json": "39e81328b8d90be7a63ef7d63bc42840bfc22d7804e674b93e0e192c1248ace4",
+    "questions/p044.json": "65a24ff7ca27a97391c67401997a5e03d39f67fdf171fa815dd35c8bbc9e4666",
+    "questions/p045.json": "3de8f2840eb7d6711f1095c619a94a02c7a9dfabaf4069b76ba63c719b0bdaca",
+    "questions/p046.json": "c64730597ecd226da05041d2862e2cd5964ff91f16e7c502ebf9a8f133a53c7f",
+    "questions/p047.json": "6cb3bbaf2789691050e1dd1f3c4f48dffe959b927a4bca8365a752bba0a26215",
+    "questions/p048.json": "bbc387d330714d20db9654a021e52c16c59757a32606c10689f4348d5b0c7409",
+    "questions/p049.json": "a092a655f4226a1e4066f84d5e6c1ea653056a727578dbb7830bfeec67eb1349",
+    "questions/p050.json": "34ec650b176340d57a72942012c824ee9c5ada24c06c68519040fb7aa26955b5",
+    "questions/p051.json": "359ba3206787327333912c51b648b7357ec98426fceccc3f9e09b1c433d28ce9",
+    "questions/p052.json": "125b5433d4321366d5d7913245273f5b8eb9e07e7e1ed746ea06cdc6e7ab75a4",
+    "questions/p053.json": "43821f47c07a9adffef2003083eb704e9e861ec6abbebe29d9a27b647dd684ac",
+    "questions/p054.json": "b13facd7371451af3f0d677f80ed5a796ecbb206be9a9da1e65fde85c18a8cc5",
+    "questions/p055.json": "1b85549bd1ecc6dd0564108767e88ba737c7acfd496d15efc598be7165ca552e",
+    "questions/p056.json": "5c38728e71ee1b3433ef6d8ef8510c44ed5a8d9b182b6f3b1f48fca7c61527e3",
+    "questions/p057.json": "431eb9e92050e1aafda6838e81b74f1ce7c2fc70b306a5dc3fcc41f3c64bef8d",
+    "questions/p058.json": "c0d710ca8da831f4d81a170e897aae27cff72bd6b0473b15dc0e00c0b8004fdf",
+    "questions/p059.json": "341dab43b5576133a397e6932ec41b2bfc0004e159c17e73509e896bee70572d",
+    "questions/p060.json": "44368e626f70ee2a9258238ba2bf4fb9eeceaf96e23bd316c5ed9284bd6643ff",
+    "questions/p061.json": "7b6e116c18a1ef43079fcdbac40486cee509219873965ab531b4952473660e0a",
+    "questions/p062.json": "3d4f14d6c4d456b549783d87344251c0d90fcdc713693dc634ea6b6572eaf78c",
+    "questions/p063.json": "87f21a54c757395b7a96e25eba1b9d122ba4c4666a2d427a223c82160bef9dd4",
+    "questions/p064.json": "b1a378bfe5fc1d3fb3a46503d33c797c9a1a7333323aafdf20d286779e14a758",
+    "questions/p065.json": "46db477e9a1bc92e65b4141629d11e2f5a8f9ba9f5c9124c2f3dce9ad7e1c757",
+    "questions/p066.json": "369ea866f6786d39cc323dceba62d8cab0ec6a62854efb852b05ce889c276372",
+    "questions/p067.json": "d394e92020d8220000ac45380aa0122110fce5a26e9ed9d6287f964803291b0c",
+    "questions/p068.json": "2d6dc73ce1a1a0f965a4f22e735bbc1e195bf2d0aba71a27e954be4919815271",
+    "questions/p069.json": "2c27d37f98ed1274fbf41eb127b87b8f75f6c0f7ea0ad8102d447d0e5b708432",
+    "questions/p070.json": "1c6feff5924b93c3a1c913098a0d69f6f9f42cfc78e922eb98e6feb758283553",
+    "questions/p071.json": "86561759cc5b9dabf55f3699f0b1d83d301ec8dad664204124c6aaa95cd9fd3f",
+    "questions/p072.json": "bf89a52a4509f979d9e471ce0d94b31ee5f8bfa874be9d321836193fcbafdb24",
+    "questions/p073.json": "1b4af9fe62fc65a7bbe86e52c37705aca3fca2a622f48cf909938568a555c0ee",
+    "questions/p074.json": "165f666a8c7d2d8c494bd60fbc1f60b9c5ee14933fd8beb0eec4187b14edfade",
+    "questions/p075.json": "e11516f934c38485815dde012d1268fafaa02ec8d06f49ed2d86dc8a8e24c493",
+    "questions/p076.json": "68174faa8dd8e63567e1d6220db0359085341f7dc44186ae32ce25254af9a970",
+    "questions/p077.json": "49bf26403c8e59a11bdccc7e47510f48f8392a1b7c396aad2d769a51c8e8beb7",
+    "questions/p078.json": "1fc4a516dcc5b228e2c3f61f08656da921d2f31576a53e286ca7cdb252a6e04a",
+    "questions/p079.json": "54c758771230b8edccc263879f63a85046d037aad85d65000697f832c768f236",
+    "questions/p080.json": "b370c1cea5434a906a511c4880d7571a6d9fcab4d59468fdd8092c6226c41598",
+    "questions/p081.json": "95ed945920344a1c8dd0cf7853ef1f7f3f9c4fe927e6a3ec3a630fd938c3f58b",
+    "questions/p082.json": "b2dd0131591f5af9505c584e626ccce1f3b667a3930db4a3691ffe5d75d973ba",
+    "questions/p083.json": "8dca6f3ed57e91786c1473e5f12b01b10ebbfaed18a9b212b3713ab3473ebeea",
+    "questions/p084.json": "ad45247480a4546b7254abe42c9f66d63f79fe944294d3ff34583fc2c2ab146b",
+    "questions/p085.json": "0694b27c3b83a44899d469c52fe277f9e65d4e63da710451fa617e99c695f6d0",
+    "questions/p086.json": "06dae103fe531f507560d31ea74a4dbd182ff324cfb8f513049a63307edc1535",
+    "questions/p087.json": "63a10ff9df236562d4abd666a9864f20a5a428fa8b54ecbe59c132936b5da463",
+    "questions/p088.json": "6cc93e36271171a9fcec27b19d042f0199e7e1d77f34f27a0c16ba2566c5287f",
+    "questions/p089.json": "c9ade728104a8f967fab0efa700affad8771764a0c6190c336c7301dc0d2f470",
+    "questions/p090.json": "8cf1d73811bc3231ca7150fcb91d96fb795124b8b8452b3786ed53115a11885b",
+    "questions/p091.json": "377ece4f7e6f25274ba7325d68a1ab3cefc48d74d9c56274ec28312460c57267",
+    "questions/p092.json": "b65137aea79fd64c3f964189dc34043852b4efaac0be940852234286d0e5749b",
+    "questions/p093.json": "4207a7c5771a00bb6f1871237560e6c659ee351e5d4ab3e5293b30b4ccbfaf63",
+    "questions/p094.json": "b48a55286a4ad5cd0e7cb4b31ec7a5875f77f9a21bbf2841c7c65567320f4b13",
+    "questions/p095.json": "4a942d7bed6366f1a5cc5ccd2f3dc1df95d048054e4e31bbc8cd9eb1757fde5d",
+    "questions/p096.json": "810a45b3d762fa50a03a28632179757fff07f6c1e84ad7d5a2934535580f0b48",
+    "questions/p097.json": "87fa7c69079f68b11bb4682a2ea2b3458e20f43c1dbe99323c5b352a6b75d452",
+    "questions/p098.json": "5dd36b3d5c8a0dcd56b30f3cf1c1089ff66e0fc9bd3800e9680a15806a0388b8",
+    "questions/p099.json": "57a3b974bdcbdba60de04e7595b5b50f794715bc6d577d781dfb9eca60ce0b24",
+    "questions/p100.json": "e84b6da8c4ea26730b022d008c955b4098504f94f9c011ef49f0d7bf2c5730ee",
+    "questions/p101.json": "ef0425ecaa2e081f956ff1a952a9e9e992b179a2cfc5f60f4b22af94d691ad7c",
+    "questions/p102.json": "8ef85e88c89c4e880110601265583870d58f2adb3ad0391e185749f23633f1c2",
+    "questions/p103.json": "3a543387ff54e9082a7c4701e38dda4d0e79782ea1a2147939c3759d0a1ce20c",
+    "questions/p104.json": "d1043e9bc0eda22b303a6276362eb00eccd89e96748378bd91462ddb616bd865",
+    "questions/p105.json": "7e9a52562447be65f860ce2e9bf70fbbb3515fc6b8e4c9ce93ef9eb10f2800da",
+    "questions/p106.json": "7f5e75767364fe87f27e0f9c5e615c72d2d22ff2b4596e376175b92726bed50d",
+    "questions/p107.json": "5540a9911be153c0c724591f0b536ccf71ff0f12d7fb1a9b993fd75f35d1c43f",
+    "questions/p108.json": "bea461303991ec453cb53bce8879179e9744459188877da70fe10f6d7ef8b57d",
+    "题源核对与条件说明.json": "a686e21de065c3de91cbf7428f887e7bc2bddc1a8d338ff2c1ba4de1f7ff4ae5"
+  },
+  "limits": [
+    "Clock labels21时/晚上9时 and下午1时/13时 are notation of the same time, not elapsed-hour equalities21=9 or1=13.",
+    "Fractions are evaluated in a common unit for each dimension; original normal degree notation and natural answer prose are preserved.",
+    "This source audit is not native PowerPoint playback or full-page PDF layout signoff; those require their separate visual reports."
+  ],
+  "native_powerpoint_playback_tested": false,
+  "pdf_layout_tested_in_this_report": false,
+  "evidence": [
+    "check_units_math_independent.py",
+    "baseline_source_snapshot_independent.json",
+    "approved_changes.json",
+    "new_local_patches.json"
+  ]
+}
