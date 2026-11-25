@@ -35,3 +35,5 @@ xelatex -halt-on-error -interaction=nonstopmode main.tex
 [早期答案 PDF](archive/earlier-answer-edition/)保留了原全套交付包中的版本。三个源码包均已展开并保留各自的相对路径，重复收录的课件和索引只存一份。[SHA256SUMS](SHA256SUMS) 列出所收录工程文件与成品的校验值。在仓库根目录运行 `sha256sum -c SHA256SUMS` 可核对文件内容。
 
 公开副本保留了题图样式规范与编译参数。两份相同的样式规范中，指向私人参考文件的标识字段已置空，相应校验值已更新。
+
+[接续说明](接续说明.md)列出了各版本的工程入口和题文校订记录。下载完整工程后，也可使用 Python 3.11 或更高版本运行 `python3 核验.py` 校验文件。
